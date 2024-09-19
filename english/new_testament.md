@@ -6838,7 +6838,7 @@ The grace of the Lord Jesus Christ be with all the saints. Amen.
 
 ## Glossary
 
-World English Bible Glossary
+### World English Bible Glossary
 
 The following words used in the World English Bible (WEB) are not very common, either because they refer to ancient weights, measures, or money, or because they are in some way unique to the Bible.
 
