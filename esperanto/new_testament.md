@@ -3857,3 +3857,905 @@ Li ordonis al la ĉaro stari senmove, kaj ili ambaŭ malsupreniris en la akvon, 
 
 Kiam ili eliris el la akvo, la Spirito de la Sinjoro kaptis Filipo'n for, kaj la eŭnuko ne vidis lin plu, ĉar li iris sian vojon ĝojante. Sed Filipo estis trovita ĉe Azoto. Pasante tra, li predikis la Bonajn Novaĵojn al ĉiuj urboj ĝis li venis al Cezareo.
 
+### Ĉapitro 9
+
+Sed Saŭlo, ankoraŭ spirante minacojn kaj mortigon kontraŭ la disĉiploj de la Sinjoro, iris al la ĉefpastro kaj petis de li leterojn al la sinagogoj de Damasko, por ke se li trovus iujn, kiuj apartenas al la Vojo, ĉu virojn aŭ virinojn, li povu konduki ilin ligitajn al Jerusalemo. Dum li vojaĝis, li alproksimiĝis al Damasko, kaj subite lumo el la ĉielo brilis ĉirkaŭ li. Li falis sur la teron kaj aŭdis voĉon dirantan al li, "Saŭlo, Saŭlo, kial vi persekutas min?"
+
+Li diris, "Kiu vi estas, Sinjoro?"
+
+La Sinjoro diris, "Mi estas Jesuo, kiun vi persekutas. Sed leviĝu kaj eniru en la urbon, tiam oni diros al vi, kion vi devas fari."
+
+La viroj, kiuj vojaĝis kun li, staris senparole, aŭdante la sonon, sed vidante neniun. Saŭlo leviĝis de la tero, kaj kiam liaj okuloj estis malfermitaj, li vidis neniun. Ili kondukis lin per la mano kaj alportis lin en Damaskon. Li estis sen vido dum tri tagoj, kaj nek manĝis nek trinkis.
+
+Nun estis certa disĉiplo en Damasko nomata Ananias. La Sinjoro diris al li en vizio, "Ananias!"
+
+Li diris, "Jen mi, Sinjoro."
+
+La Sinjoro diris al li, "Leviĝu kaj iru al la strato, kiu nomiĝas Rekta, kaj demandu en la domo de Judaso pri unu nomata Saŭlo, viro el Tarso. Ĉar jen, li preĝas, kaj en vizio li vidis viron nomatan Ananias enirantan kaj metantan siajn manojn sur lin, por ke li ricevu sian vidon."
+
+Sed Ananias respondis, "Sinjoro, mi aŭdis de multaj pri ĉi tiu viro, kiom da malbono li faris al viaj sanktuloj en Jerusalemo. Ĉi tie li havas aŭtoritaton de la ĉefpastroj ligi ĉiujn, kiuj vokas vian nomon."
+
+Sed la Sinjoro diris al li, "Iru, ĉar li estas mia elektita ilo por porti mian nomon antaŭ la nacioj kaj reĝoj, kaj la infanoj de Izrael. Ĉar mi montros al li, kiom da aferoj li devas suferi pro mia nomo."
+
+Ananias foriris kaj eniris en la domon. Metante siajn manojn sur lin, li diris, "Frato Saŭlo, la Sinjoro, kiu aperis al vi sur la vojo, per kiu vi venis, sendis min, por ke vi ricevu vian vidon kaj estu plenigita per la Sankta Spirito." Tuj io kiel skvamoj falis de liaj okuloj, kaj li ricevis sian vidon. Li leviĝis kaj estis baptita. Li prenis manĝaĵon kaj estis fortigita.
+
+Saŭlo restis kelkajn tagojn kun la disĉiploj, kiuj estis en Damasko. Tuj en la sinagogoj li proklamis la Kriston, ke li estas la Filo de Dio. Ĉiuj, kiuj aŭdis lin, miris, kaj diris, "Ĉu ĉi tiu ne estas tiu, kiu en Jerusalemo faris ruinon de tiuj, kiuj vokis ĉi tiun nomon? Kaj li venis ĉi tien intencante konduki ilin ligitajn antaŭ la ĉefpastroj!"
+
+Sed Saŭlo pli kaj pli fortiĝis, kaj konfuzis la Judojn, kiuj loĝis en Damasko, pruvante, ke ĉi tiu estas la Kristo. Kiam multaj tagoj estis plenumitaj, la Judoj konspiris kune por mortigi lin, sed ilia komploto fariĝis konata al Saŭlo. Ili gardis la pordegojn tage kaj nokte, por ke ili povu mortigi lin, sed liaj disĉiploj prenis lin nokte kaj lasis lin malsupren tra la muro, malaltigante lin en korbo.
+
+Kiam Saŭlo venis al Jerusalemo, li provis aliĝi al la disĉiploj; sed ili ĉiuj timis lin, ne kredante, ke li estas disĉiplo. Sed Barnabas prenis lin kaj alportis lin al la apostoloj, kaj deklaris al ili, kiel li vidis la Sinjoron sur la vojo, kaj ke li parolis al li, kaj kiel en Damasko li predikis kuraĝe en la nomo de Jesuo. Li estis kun ili enirante en Jerusalemon, predikante kuraĝe en la nomo de la Sinjoro Jesuo. Li parolis kaj disputis kontraŭ la Helenistoj, sed ili serĉis mortigi lin. Kiam la fratoj sciis tion, ili kondukis lin malsupren al Cezareo kaj sendis lin al Tarso.
+
+Do la kunvenoj tra tuta Judujo, Galileo, kaj Samario havis pacon kaj estis konstruitaj. Ili multiĝis, irante en la timo de la Sinjoro kaj en la komforto de la Sankta Spirito.
+
+Dum Petro iris tra ĉiuj tiuj partoj, li ankaŭ venis al la sanktuloj, kiuj loĝis en Lida. Tie li trovis certan viron nomatan Aeneas, kiu estis lito-rigardita dum ok jaroj, ĉar li estis paralizita. Petro diris al li, "Aeneas, Jesuo Kristo resanigas vin. Leviĝu kaj faru vian liton!" Tuj li leviĝis. Ĉiuj, kiuj loĝis en Lida kaj en Ŝaron, vidis lin, kaj ili turnis sin al la Sinjoro.
+
+Nun estis en Joppa certa disĉiplo nomata Tabita, kiu tradukite signifas Dorkas. Ĉi tiu virino estis plena de bonaj faroj kaj agoj de kompato, kiujn ŝi faris. En tiuj tagoj, ŝi malsaniĝis kaj mortis. Kiam ili lavis ŝin, ili metis ŝin en supra ĉambro. Ĉar Lida estis proksima al Joppa, la disĉiploj, aŭdante, ke Petro estis tie, sendis du virojn al li, petegante lin ne prokrasti veni al ili. Petro leviĝis kaj iris kun ili. Kiam li venis, ili alportis lin en la supran ĉambron. Ĉiuj vidvinoj staris apud li plorante, kaj montrante la tunikojn kaj aliajn vestojn, kiujn Dorkas faris dum ŝi estis kun ili. Petro sendis ilin ĉiujn eksteren, kaj genuis kaj preĝis. Turnante sin al la korpo, li diris, "Tabita, leviĝu!" Ŝi malfermis siajn okulojn, kaj kiam ŝi vidis Petron, ŝi sidiĝis. Li donis al ŝi sian manon kaj levis ŝin. Vokante la sanktulojn kaj vidvinojn, li prezentis ŝin vivanta. Ĉi tio fariĝis konata tra tuta Joppa, kaj multaj kredis en la Sinjoro. Li restis multajn tagojn en Joppa kun tanisto nomata Simon.
+
+### Ĉapitro 10
+
+Nun estis certa viro en Cezareo, nomata Kornelio, centestro de la tiel nomata Itala Regimento, pia viro, kaj tiu, kiu timis Dion kun sia tuta domo, kiu donis donacojn al la bezonantoj malavare al la popolo, kaj ĉiam preĝis al Dio. Ĉirkaŭ la naŭa horo de la tago, li klare vidis en vizio anĝelon de Dio venantan al li kaj dirantan al li, "Kornelio!"
+
+Li, fiksante siajn okulojn sur lin kaj timante, diris, "Kio estas, Sinjoro?"
+
+Li diris al li, "Viaj preĝoj kaj viaj donacoj al la bezonantoj leviĝis kiel memorigo antaŭ Dio. Nun sendu virojn al Joppa, kaj alportu Simonon, kiu ankaŭ estas nomata Petro. Li restas ĉe tanisto nomata Simono, kies domo estas apud la marbordo.
+
+Kiam la anĝelo, kiu parolis al li, foriris, Kornelio vokis du el siaj domservistoj kaj pia soldato el tiuj, kiuj atendis lin konstante. Klariginte ĉion al ili, li sendis ilin al Joppa.
+
+Nun en la sekva tago, dum ili estis survoje kaj alproksimiĝis al la urbo, Petro supreniris sur la tegmenton por preĝi ĉirkaŭ tagmezo. Li malsatis kaj deziris manĝi, sed dum ili preparis, li falis en ekstazon. Li vidis ĉielon malfermiĝantan kaj certan ujon malsuprenirantan al li, kiel granda tuko mallevita per kvar anguloj sur la teron, en kiu estis ĉiaj kvarpiedaj bestoj de la tero, sovaĝaj bestoj, rampuloj, kaj birdoj de la ĉielo. Voĉo venis al li, "Leviĝu, Petro, mortigu kaj manĝu!"
+
+Sed Petro diris, "Ne tiel, Sinjoro; ĉar mi neniam manĝis ion komunan aŭ malpuran."
+
+Voĉo venis al li denove la duan fojon, "Kion Dio purigis, vi ne devas nomi malpura." Ĉi tio estis farita tri fojojn, kaj tuj la afero estis ricevita supren en la ĉielon.
+
+Nun dum Petro estis tre konfuzita en si mem, kion la vizio, kiun li vidis, povus signifi, jen, la viroj, kiuj estis senditaj de Kornelio, farinte enketon por la domo de Simono, staris antaŭ la pordego, kaj vokis kaj demandis ĉu Simono, kiu ankaŭ estas nomata Petro, loĝas tie. Dum Petro pripensis la vizion, la Spirito diris al li, "Jen, tri viroj serĉas vin. Sed leviĝu, malsupreniru, kaj iru kun ili, dubante nenion; ĉar mi sendis ilin."
+
+Petro malsupreniris al la viroj, kaj diris, "Jen, mi estas tiu, kiun vi serĉas. Kial vi venis?"
+
+Ili diris, "Kornelio, centestro, justa viro kaj tiu, kiu timas Dion, kaj bone parolata de la tuta nacio de la Judoj, estis direktita de sankta anĝelo inviti vin al sia domo, kaj aŭskulti tion, kion vi diros." Do li vokis ilin enen kaj provizis lokon por resti.
+
+En la sekva tago Petro leviĝis kaj eliris kun ili, kaj kelkaj el la fratoj el Joppa akompanis lin. En la sekva tago ili eniris en Cezareon. Kornelio atendis ilin, kunvokinte siajn parencojn kaj siajn proksimajn amikojn. Kiam Petro eniris, Kornelio renkontis lin, falis ĉe liaj piedoj, kaj adoris lin. Sed Petro levis lin, dirante, "Stariĝu! Mi mem ankaŭ estas homo." Dum li parolis kun li, li eniris kaj trovis multajn kunvenintajn. Li diris al ili, "Vi mem scias, kiel estas kontraŭleĝa afero por viro, kiu estas Judo, aliĝi aŭ veni al iu el alia nacio, sed Dio montris al mi, ke mi ne devus nomi iun homon malpia aŭ malpura. Tial mi ankaŭ venis sen plendo, kiam mi estis vokita. Mi demandas do, kial vi sendis por mi?"
+
+Kornelio diris, "Antaŭ kvar tagoj, mi fastis ĝis ĉi tiu horo; kaj ĉe la naŭa horo, mi preĝis en mia domo, kaj jen, viro staris antaŭ mi en brilaj vestoj kaj diris, 'Kornelio, via preĝo estas aŭdita, kaj viaj donacoj al la bezonantoj estas memoritaj antaŭ Dio. Sendu do al Joppa kaj alvoku Simonon, kiu ankaŭ estas nomata Petro. Li restas en la domo de tanisto nomata Simono, apud la marbordo. Kiam li venos, li parolos al vi.' Tial mi tuj sendis al vi, kaj estis bone de vi veni. Nun do ni ĉiuj estas ĉi tie ĉeestantaj antaŭ Dio por aŭdi ĉiujn aferojn, kiuj estis ordonitaj al vi de Dio."
+
+Petro malfermis sian buŝon kaj diris, “Vere mi komprenas, ke Dio ne montras favoratismon; sed en ĉiu nacio tiu, kiu timas Lin kaj faras justecon, estas akceptebla al Li. La vorto, kiun Li sendis al la infanoj de Izrael, predikante bonan novaĵon de paco per Jesuo Kristo — Li estas Sinjoro de ĉiuj — vi mem scias, kio okazis, kio estis proklamita tra tuta Judujo, komencante de Galileo, post la bapto, kiun Johano predikis; kiel Dio sanktoleis Jesuon el Nazareto per la Sankta Spirito kaj per potenco, kiu iris ĉirkaŭ farante bonon kaj sanigante ĉiujn, kiuj estis premataj de la diablo, ĉar Dio estis kun li. Ni estas atestantoj de ĉio, kion li faris kaj en la lando de la Judoj kaj en Jerusalemo; kiun ili ankaŭ mortigis, pendigante lin sur arbo. Dio levis lin la trian tagon kaj donis al li esti malkaŝita, ne al la tuta popolo, sed al atestantoj, kiuj estis elektitaj antaŭe de Dio, al ni, kiuj manĝis kaj trinkis kun li post kiam li leviĝis el la mortintoj. Li ordonis al ni prediki al la popolo kaj atesti, ke ĉi tiu estas tiu, kiu estas nomumita de Dio kiel la Juĝisto de la vivantoj kaj la mortintoj. Ĉiuj profetoj atestas pri li, ke per lia nomo ĉiu, kiu kredas en li, ricevos pardonon de pekoj.”
+
+Dum Petro ankoraŭ parolis tiujn vortojn, la Sankta Spirito falis sur ĉiujn, kiuj aŭdis la vorton. Ili el la cirkumcido, kiuj kredis, estis mirigitaj, tiom kiom venis kun Petro, ĉar la donaco de la Sankta Spirito estis ankaŭ verŝita sur la nacianojn. Ĉar ili aŭdis ilin parolante en aliaj lingvoj kaj glorigante Dion.
+
+Tiam Petro respondis, “Ĉu iu povas malpermesi al ĉi tiuj homoj esti baptitaj per akvo? Ili ricevis la Sanktan Spiriton same kiel ni.” Li ordonis ilin esti baptitaj en la nomo de Jesuo Kristo. Tiam ili petis lin resti kelkajn tagojn.
+
+### Ĉapitro 11
+
+Nun la apostoloj kaj la fratoj, kiuj estis en Judujo, aŭdis, ke ankaŭ la nacianoj akceptis la vorton de Dio. Kiam Petro supreniris al Jerusalemo, tiuj, kiuj estis de la cirkumcido, disputis kun li, dirante: “Vi eniris al necirkumciditaj viroj kaj manĝis kun ili!”
+
+Sed Petro komencis klarigi al ili laŭorde, dirante: “Mi estis en la urbo Joppe preĝante, kaj en ekstazo mi vidis vizion: certa ujo malsupreniranta, kiel granda tuko mallevita el la ĉielo per kvar anguloj. Ĝi venis ĝis mi. Kiam mi rigardis atente, mi konsideris kaj vidis la kvarpiedajn bestojn de la tero, sovaĝajn bestojn, rampulojn, kaj birdojn de la ĉielo. Mi ankaŭ aŭdis voĉon dirantan al mi: ‘Leviĝu, Petro, mortigu kaj manĝu!’ Sed mi diris: ‘Ne tiel, Sinjoro, ĉar nenio malpura aŭ malpura iam eniris en mian buŝon.’ Sed voĉo respondis al mi la duan fojon el la ĉielo: ‘Kion Dio purigis, ne nomu malpura.’ Ĉi tio estis farita tri fojojn, kaj ĉio estis denove suprenlevita en la ĉielon. Jen, tuj tri viroj staris antaŭ la domo, kie mi estis, senditaj de Cezarea al mi. La Spirito diris al mi iri kun ili sen diskriminacio. Tiuj ses fratoj ankaŭ akompanis min, kaj ni eniris en la domon de la viro. Li rakontis al ni, kiel li vidis la anĝelon starantan en sia domo kaj dirantan al li: ‘Sendu al Joppe kaj prenu Simonon, kiu estas nomata Petro, kiu parolos al vi vortojn, per kiuj vi estos savita, vi kaj via tuta domo.’ Kiam mi komencis paroli, la Sankta Spirito falis sur ilin, eĉ kiel sur nin komence. Mi memoris la vorton de la Sinjoro, kiel li diris: ‘Johano ja baptis en akvo, sed vi estos baptitaj en la Sankta Spirito.’ Se do Dio donis al ili la saman donacon kiel al ni, kiam ni kredis en la Sinjoro Jesuo Kristo, kiu mi estis, ke mi povus kontraŭstari Dion?”
+
+Kiam ili aŭdis ĉi tiujn aferojn, ili silentis kaj gloris Dion, dirante: “Tiam Dio ankaŭ donis al la nacianoj penton al vivo!”
+
+Tial tiuj, kiuj estis disigitaj pro la premo, kiu leviĝis pri Stefano, vojaĝis ĝis Fenicio, Kipro, kaj Antioĥio, parolante la vorton al neniu krom al Judoj nur. Sed estis iuj el ili, viroj de Kipro kaj Cireno, kiuj, kiam ili venis al Antioĥio, parolis al la Helenistoj, predikante la Sinjoron Jesuo. La mano de la Sinjoro estis kun ili, kaj granda nombro kredis kaj turnis sin al la Sinjoro. La raporto pri ili venis al la oreloj de la kunveno, kiu estis en Jerusalemo. Ili sendis Barnabon iri ĝis Antioĥio, kiu, kiam li venis, kaj vidis la gracon de Dio, ĝojis. Li admonis ilin ĉiujn, ke kun celo de koro ili restu proksime al la Sinjoro. Ĉar li estis bona viro, kaj plena de la Sankta Spirito kaj de fido, kaj multaj homoj estis aldonitaj al la Sinjoro.
+
+Barnabo iris al Tarso por serĉi Saulon. Kiam li trovis lin, li alportis lin al Antioĥio. Dum tuta jaro ili kunvenis kun la kunveno kaj instruis multajn homojn. La disĉiploj unue estis nomataj kristanoj en Antioĥio.
+
+Nun en tiuj tagoj, profetoj venis malsupren de Jerusalemo al Antioĥio. Unu el ili, nomata Agabo, stariĝis kaj indikis per la Spirito, ke devus esti granda malsatego tra la tuta mondo, kiu ankaŭ okazis en la tagoj de Klaŭdio. Kiel ajn la disĉiploj havis sufiĉe, ĉiu decidis sendi helpon al la fratoj, kiuj loĝis en Judujo; kion ili ankaŭ faris, sendante ĝin al la presbiteroj per la manoj de Barnabo kaj Saulo.
+
+### Ĉapitro 12
+
+Nun en tiu tempo, reĝo Herodo etendis siajn manojn por subpremi kelkajn el la kunveno. Li mortigis Jakobo, la fraton de Johano, per la glavo. Kiam li vidis, ke tio plaĉis al la Judoj, li plue kaptis Petron. Tio okazis dum la tagoj de macoj. Kiam li arestis lin, li metis lin en malliberejon kaj transdonis lin al kvar taĉmentoj de kvar soldatoj ĉiu por gardi lin, intencante elkonduki lin al la popolo post la Pasko. Petro do estis tenata en la malliberejo, sed konstanta preĝo estis farita de la kunveno al Dio por li. La sama nokto, kiam Herodo estis pri elkonduki lin, Petro dormis inter du soldatoj, ligita per du ĉenoj. Gardistoj antaŭ la pordo gardis la malliberejon.
+
+Kaj jen, anĝelo de la Sinjoro staris apud li, kaj lumo brilis en la ĉelo. Li frapis Petron ĉe la flanko kaj vekis lin, dirante, "Stariĝu rapide!" Liaj ĉenoj falis de liaj manoj. La anĝelo diris al li, "Vestu vin kaj surmetu viajn sandalojn." Li faris tiel. Li diris al li, "Surmetu vian mantelon kaj sekvu min." Kaj li eliris kaj sekvis lin. Li ne sciis, ke tio, kion faris la anĝelo, estis reala, sed pensis, ke li vidis vizion. Kiam ili preterpasis la unuan kaj la duan gardiston, ili venis al la fera pordego, kiu kondukas en la urbon, kiu malfermiĝis al ili memstare. Ili eliris kaj iris laŭ unu strato, kaj tuj la anĝelo foriris de li.
+
+Kiam Petro rekonsciiĝis, li diris, "Nun mi vere scias, ke la Sinjoro sendis sian anĝelon kaj liberigis min el la mano de Herodo, kaj el ĉio, kion la juda popolo atendis." Pensante pri tio, li venis al la domo de Maria, la patrino de Johano, kiu estis nomata Marko, kie multaj estis kunvenintaj kaj preĝis. Kiam Petro frapis ĉe la pordo de la pordego, servistino nomata Roda venis por respondi. Kiam ŝi rekonis la voĉon de Petro, ŝi ne malfermis la pordegon pro ĝojo, sed kuris enen kaj raportis, ke Petro staras antaŭ la pordego.
+
+Ili diris al ŝi, "Vi estas freneza!" Sed ŝi insistis, ke tiel estas. Ili diris, "Ĝi estas lia anĝelo." Sed Petro daŭre frapis. Kiam ili malfermis, ili vidis lin kaj miris. Sed li, gestante al ili per sia mano por silenti, deklaris al ili kiel la Sinjoro elkondukis lin el la malliberejo. Li diris, "Diru ĉi tiujn aferojn al Jakobo kaj al la fratoj." Tiam li foriris kaj iris al alia loko.
+
+Nun tuj kiam estis tago, estis ne malgranda agitiĝo inter la soldatoj pri tio, kio fariĝis de Petro. Kiam Herodo serĉis lin kaj ne trovis lin, li ekzamenis la gardistojn, tiam ordonis, ke ili estu mortigitaj. Li malsupreniris de Judeo al Cezareo, kaj restis tie.
+
+Nun Herodo estis tre kolera kun la homoj de Tiro kaj Sidono. Ili venis unuanime al li kaj, farinte Blastus, la reĝan personan asistanton, sia amiko, ili petis pacon, ĉar ilia lando dependis de la lando de la reĝo por manĝaĵo. En difinita tago, Herodo vestis sin per reĝaj vestoj, sidis sur la trono, kaj faris paroladon al ili. La homoj kriis, "La voĉo de dio, kaj ne de homo!" Tuj anĝelo de la Sinjoro frapis lin, ĉar li ne donis la gloron al Dio. Tiam li estis manĝita de vermoj kaj mortis.
+
+Sed la vorto de Dio kreskis kaj multiĝis. Barnabas kaj Saŭlo revenis al Jerusalemo kiam ili plenumis sian servon, ankaŭ prenante kun ili Johanon, kiu estis nomata Marko.
+
+### Ĉapitro 13
+
+Nun en la kunveno, kiu estis en Antioĥio, estis kelkaj profetoj kaj instruistoj: Barnabas, Simeon, kiu estis nomata Niger, Lucio el Cireno, Manaen, la vartfrato de Herodo la tetrarko, kaj Saŭlo. Dum ili servis la Sinjoron kaj fastis, la Sankta Spirito diris: “Apartigu al mi Barnabason kaj Saŭlon por la laboro, al kiu mi vokis ilin.”
+
+Tiam, kiam ili fastis kaj preĝis kaj metis siajn manojn sur ilin, ili forsendis ilin. Do, senditaj de la Sankta Spirito, ili malsupreniris al Seleŭkio. De tie ili velis al Kipro. Kiam ili estis en Salamis, ili proklamis la vorton de Dio en la judaj sinagogoj. Ili ankaŭ havis Johanon kiel sian asistanton. Kiam ili trapasis la insulon ĝis Pafoso, ili trovis certan sorĉiston, falsan profeton, Judon kies nomo estis Bar-Jesuo, kiu estis kun la prokonsulo, Sergio Paŭlo, homo de kompreno. Ĉi tiu viro vokis Barnabason kaj Saŭlon, kaj serĉis aŭdi la vorton de Dio. Sed Elimas la sorĉisto (ĉar tiel estas lia nomo laŭ interpreto) kontraŭstaris ilin, serĉante turni la prokonsulon for de la kredo. Sed Saŭlo, kiu ankaŭ estas nomata Paŭlo, plenigita de la Sankta Spirito, fiksis siajn okulojn sur lin kaj diris: “Vi filo de la diablo, plena de ĉia trompo kaj ĉia ruzeco, vi malamiko de ĉia justeco, ĉu vi ne ĉesos perverti la ĝustajn vojojn de la Sinjoro? Nun, jen, la mano de la Sinjoro estas sur vi, kaj vi estos blinda, ne vidante la sunon dum sezono!”
+
+Tuj nebulo kaj mallumo falis sur lin. Li ĉirkaŭiris serĉante iun por gvidi lin per la mano. Tiam la prokonsulo, kiam li vidis kio estis farita, kredis, estante mirigita ĉe la instruado de la Sinjoro.
+
+Nun Paŭlo kaj lia kompanio ekvelis de Pafoso kaj venis al Pergo en Pamfilio. Johano foriris de ili kaj revenis al Jerusalemo. Sed ili, pasante de Pergo, venis al Antioĥio de Pisidio. Ili eniris en la sinagogon en la sabata tago kaj sidiĝis. Post la legado de la leĝo kaj la profetoj, la regantoj de la sinagogo sendis al ili, dirante: “Fratoj, se vi havas iun vorton de instigo por la popolo, parolu.”
+
+Paŭlo stariĝis, kaj gestante per sia mano diris: “Viroj de Izrael, kaj vi kiuj timas Dion, aŭskultu. La Dio de ĉi tiu popolo elektis niajn patrojn, kaj altigis la popolon kiam ili restis kiel fremduloj en la lando Egiptujo, kaj per levita brako, li elkondukis ilin el ĝi. Dum periodo de ĉirkaŭ kvardek jaroj li toleris ilin en la dezerto. Kiam li detruis sep naciojn en la lando Kanaano, li donis al ili ilian landon kiel heredaĵon dum ĉirkaŭ kvarcent kvindek jaroj. Post ĉi tiuj aferoj, li donis al ili juĝistojn ĝis Samuelo la profeto. Poste ili petis reĝon, kaj Dio donis al ili Saŭlon, la filon de Kiŝ, viron el la tribo de Benjamen, dum kvardek jaroj. Kiam li forigis lin, li levis Davidon por esti ilia reĝo, al kiu li ankaŭ atestis, ‘Mi trovis Davidon, la filon de Jeseo, viron laŭ mia koro, kiu faros ĉian mian volon.’ El ĉi tiu viro devenis, Dio alportis savon al Izrael laŭ sia promeso, antaŭ lia alveno, kiam Johano unue predikis la bapton de pento al Izrael. Dum Johano plenumis sian kurson, li diris, ‘Kion vi supozas, ke mi estas? Mi ne estas li. Sed jen, unu venas post mi, kies sandalon de liaj piedoj mi ne estas inda malligi.’
+
+“Fratoj, infanoj de la deveno de Abraham, kaj tiuj inter vi kiuj timas Dion, la vorto de ĉi tiu savo estas sendita al vi. Ĉar tiuj, kiuj loĝas en Jerusalemo, kaj iliaj regantoj, ĉar ili ne konis lin, nek la voĉojn de la profetoj kiuj estas legataj ĉiun sabaton, plenumis ilin kondamnante lin. Kvankam ili trovis neniun kaŭzon por morto, ili tamen petis Pilaton, ke li estu mortigita. Kiam ili plenumis ĉiujn aferojn, kiuj estis skribitaj pri li, ili demetis lin de la arbo kaj metis lin en tombon. Sed Dio levis lin el la mortintoj, kaj li estis vidata dum multaj tagoj de tiuj, kiuj supreniris kun li el Galileo al Jerusalemo, kiuj estas liaj atestantoj al la popolo. Ni alportas al vi bonan novaĵon de la promeso farita al la patroj, ke Dio plenumis ĉi tion al ni, iliaj infanoj, en tio, ke li levis Jesuon. Kiel ĝi ankaŭ estas skribita en la dua psalmo,
+
+‘Vi estas mia Filo.
+
+Hodiaŭ mi fariĝis via patro.’
+
+"Pri tio, ke li levis lin el la mortintoj, nun ne plu por reveni al putriĝo, li parolis tiel: ‘Mi donos al vi la sanktajn kaj certajn benojn de David.’ Tial li diras ankaŭ en alia psalmo, ‘Vi ne permesos, ke via Sanktulo vidu putriĝon.’ Ĉar David, post kiam li en sia generacio servis la konsilon de Dio, endormiĝis, estis metita kun siaj patroj, kaj vidis putriĝon. Sed tiu, kiun Dio levis, ne vidis putriĝon. Estu konate al vi do, fratoj, ke per ĉi tiu viro estas proklamita al vi la pardonado de pekoj; kaj per li ĉiu, kiu kredas, estas pravigita de ĉiuj aferoj, de kiuj vi ne povis esti pravigitaj per la leĝo de Moseo. Gardu vin do, por ke ne venu sur vin tio, kio estas dirita en la profetoj:
+
+‘Jen, vi mokantoj!
+
+Miru kaj pereu,
+
+ĉar mi faras laboron en viaj tagoj,
+
+laboron, kiun vi neniel kredos, se iu ĝin rakontos al vi.’"
+
+Kiam la Judoj eliris el la sinagogo, la Gentiloj petis, ke ĉi tiuj vortoj estu predikitaj al ili la venontan sabaton. Kiam la sinagogo disiĝis, multaj el la Judoj kaj el la pia prozelitoj sekvis Paŭlon kaj Barnabason; kiuj, parolante al ili, instigis ilin daŭrigi en la graco de Dio.
+
+La venontan sabaton, preskaŭ la tuta urbo kunvenis por aŭdi la vorton de Dio. Sed kiam la Judoj vidis la homamasojn, ili pleniĝis de ĵaluzo, kaj kontraŭdiris la aferojn, kiujn Paŭlo parolis, kaj blasfemis.
+
+Paŭlo kaj Barnabaso parolis kuraĝe, kaj diris, “Estis necese, ke la vorto de Dio estu parolita al vi unue. Ĉar vi ja forpuŝas ĝin de vi, kaj juĝas vin mem neindaj je eterna vivo, jen, ni turnas nin al la Gentiloj. Ĉar tiel la Sinjoro ordonis al ni, dirante,
+
+‘Mi starigis vin kiel lumon por la Gentiloj,
+
+por ke vi alportu savon ĝis la plej foraj partoj de la tero.’"
+
+Kiam la Gentiloj aŭdis tion, ili ĝojis kaj gloris la vorton de Dio. Tiom kiom estis destinitaj al eterna vivo kredis. La vorto de la Sinjoro disvastiĝis tra la tuta regiono. Sed la Judoj incitis la piajn kaj eminentajn virinojn kaj la ĉefajn virojn de la urbo, kaj incitis persekutadon kontraŭ Paŭlo kaj Barnabaso, kaj elpelis ilin el siaj limoj. Sed ili skuis la polvon de siaj piedoj kontraŭ ili, kaj venis al Ikonio. La disĉiploj pleniĝis de ĝojo kaj de la Sankta Spirito.
+
+### Ĉapitro 14
+
+En Ikonio, ili kune eniris en la sinagogon de la Judoj, kaj tiel parolis, ke granda amaso da Judoj kaj Grekoj kredis. Sed la nekredantaj Judoj incitis kaj amarigis la animojn de la Gentiloj kontraŭ la fratoj. Tial ili restis tie longan tempon, parolante kuraĝe en la Sinjoro, kiu atestis pri la vorto de sia graco, donante signojn kaj miraklojn farotajn per iliaj manoj. Sed la amaso de la urbo estis dividita. Parto aliĝis al la Judoj kaj parto al la apostoloj. Kiam iuj el ambaŭ la Gentiloj kaj la Judoj, kun siaj regantoj, faris perfortan provon mistrakti kaj ŝtonumi ilin, ili eksciis pri tio kaj fuĝis al la urboj de Likaonio, Listra, Derbe, kaj la ĉirkaŭa regiono. Tie ili predikis la Bonan Novaĵon.
+
+En Listra sidis certa viro, senpova en siaj piedoj, kripla de la ventro de sia patrino, kiu neniam iris. Li aŭskultis Paŭlon parolantan, kiu, fiksante la okulojn sur lin kaj vidante, ke li havis fidon por esti resanigita, diris laŭte, “Stariĝu rekte sur viaj piedoj!” Li saltis supren kaj iris. Kiam la amaso vidis, kion Paŭlo faris, ili levis sian voĉon, dirante en la lingvo de Likaonio, “La dioj malsuprenvenis al ni en la simileco de homoj!” Ili nomis Barnabason “Jupitero”, kaj Paŭlon “Merkuro”, ĉar li estis la ĉefa parolanto. La pastro de Jupitero, kies templo estis antaŭ ilia urbo, alportis bovojn kaj girlandojn al la pordegoj, kaj volis fari oferon kune kun la amasoj.
+
+Sed kiam la apostoloj, Barnabaso kaj Paŭlo, aŭdis pri tio, ili disŝiris siajn vestojn kaj saltis en la amason, kriante, “Viroj, kial vi faras ĉi tiujn aferojn? Ni ankaŭ estas homoj de la sama naturo kiel vi, kaj alportas al vi bonan novaĵon, ke vi turnu vin de ĉi tiuj vanaj aferoj al la vivanta Dio, kiu faris la ĉielon, la teron, la maron, kaj ĉion, kio estas en ili; kiu en la pasintaj generacioj permesis al ĉiuj nacioj iri laŭ siaj propraj vojoj. Tamen li ne lasis sin sen atesto, ĉar li faris bonon kaj donis al vi pluvojn el la ĉielo kaj fruktodonajn sezonojn, plenigante niajn korojn per manĝaĵo kaj ĝojo.”
+
+Eĉ dirante ĉi tiujn aferojn, ili apenaŭ malhelpis la amasojn fari oferon al ili. Sed iuj Judoj el Antioĥio kaj Ikonio venis tien, kaj persvadinte la amasojn, ili ŝtonumis Paŭlon kaj trenis lin el la urbo, supozante, ke li estis morta.
+
+Sed dum la disĉiploj staris ĉirkaŭ li, li leviĝis kaj eniris en la urbon. La sekvan tagon li eliris kun Barnabaso al Derbe.
+
+Kiam ili predikis la Bonan Novaĵon al tiu urbo kaj faris multajn disĉiplojn, ili revenis al Listra, Ikonio, kaj Antioĥio, fortigante la animojn de la disĉiploj, instigante ilin daŭrigi en la fido, kaj ke tra multaj suferoj ni devas eniri en la Regnon de Dio. Kiam ili nomumis presbiterojn por ili en ĉiu kunveno, kaj preĝis kun fastado, ili rekomendis ilin al la Sinjoro, je kiu ili kredis.
+
+Ili trapasis Pisidion kaj venis al Pamfilio. Kiam ili parolis la vorton en Pergo, ili malsupreniris al Atalio. De tie ili ŝipiris al Antioĥio, de kie ili estis komisiitaj al la graco de Dio por la laboro, kiun ili plenumis. Kiam ili alvenis kaj kunvenigis la kunvenon, ili raportis ĉiujn aferojn, kiujn Dio faris kun ili, kaj ke li malfermis pordon de fido al la nacioj. Ili restis tie kun la disĉiploj dum longa tempo.
+
+### Ĉapitro 15
+
+Iuj viroj venis el Judujo kaj instruis la fratojn, dirante: “Se vi ne estas cirkumciditaj laŭ la kutimo de Moseo, vi ne povas esti savitaj.” Tial, kiam Paŭlo kaj Barnabas havis ne malgrandan malkonsenton kaj diskuton kun ili, ili decidis, ke Paŭlo, Barnabas, kaj kelkaj aliaj el ili iru al Jerusalemo al la apostoloj kaj presbiteroj pri ĉi tiu demando. Ili, senditaj survoje de la kunveno, trapasis Fenicion kaj Samarion, deklarante la konvertiĝon de la nacianoj. Ili kaŭzis grandan ĝojon al ĉiuj fratoj. Kiam ili alvenis en Jerusalemon, ili estis akceptitaj de la kunveno kaj la apostoloj kaj la presbiteroj, kaj ili raportis ĉion, kion Dio faris kun ili.
+
+Sed iuj el la sekto de la Fariseoj, kiuj kredis, leviĝis, dirante: “Necesas cirkumcidi ilin, kaj ordoni al ili observi la leĝon de Moseo.”
+
+La apostoloj kaj la presbiteroj kunvenis por konsideri ĉi tiun aferon. Kiam estis multe da diskuto, Petro leviĝis kaj diris al ili: “Fratoj, vi scias, ke antaŭ longa tempo Dio elektis inter vi, ke per mia buŝo la nacianoj aŭdu la vorton de la Bona Novaĵo kaj kredu. Dio, kiu konas la koron, atestis pri ili, donante al ili la Sanktan Spiriton, kiel ankaŭ al ni. Li faris neniun distingon inter ni kaj ili, purigante iliajn korojn per fido. Nun do kial vi tentas Dion, ke vi metu jugon sur la kolon de la disĉiploj, kiun nek niaj patroj nek ni povis porti? Sed ni kredas, ke ni estas savitaj per la graco de la Sinjoro Jesuo, same kiel ili.”
+
+La tuta amaso silentis, kaj ili aŭskultis Barnabason kaj Paŭlon raportantajn, kiajn signojn kaj miraklojn Dio faris inter la nacianoj per ili. Post kiam ili silentis, Jakobo respondis, “Fratoj, aŭskultu min. Simeono raportis, kiel Dio unue vizitis la nacianojn por elpreni el ili popolon por sia nomo. Ĉi tio konsentas kun la vortoj de la profetoj. Kiel estas skribite,
+
+‘Post ĉi tiuj aferoj mi revenos.
+
+Mi denove konstruos la tabernaklon de David, kiu falis.
+
+Mi denove konstruos ĝiajn ruinojn.
+
+Mi starigos ĝin, ke la cetero de homoj serĉu la Sinjoron:
+
+ĉiuj nacianoj, kiuj estas vokitaj per mia nomo,
+
+diras la Sinjoro, kiu faras ĉiujn ĉi tiujn aferojn.’
+
+“Ĉiuj faroj de Dio estas konataj al li de eterneco. Tial mia juĝo estas, ke ni ne ĝenu tiujn el la nacianoj, kiuj turnas sin al Dio, sed ke ni skribu al ili, ke ili detenu sin de la poluado de idoloj, de seksa malĉasteco, de tio, kio estas strangolita, kaj de sango. Ĉar Moseo de generacioj malnovaj havas en ĉiu urbo tiujn, kiuj predikas lin, estante legata en la sinagogoj ĉiun sabaton.”
+
+Tiam ŝajnis bone al la apostoloj kaj la presbiteroj, kun la tuta kunveno, elekti virojn el sia kompanio, kaj sendi ilin al Antioĥio kun Paŭlo kaj Barnabas: Judas nomata Barsabas, kaj Silas, ĉefaj viroj inter la fratoj. Ili skribis ĉi tiujn aferojn per sia mano:
+
+“La apostoloj, la presbiteroj, kaj la fratoj, al la fratoj, kiuj estas el la nacianoj en Antioĥio, Sirio, kaj Kilikio: saluton. Ĉar ni aŭdis, ke iuj, kiuj eliris de ni, ĝenis vin per vortoj, maltrankviligante viajn animojn, dirante, ‘Vi devas esti cirkumciditaj kaj observi la leĝon,’ al kiuj ni ne donis ordonon; ŝajnis bone al ni, veninte al unu akordo, elekti virojn kaj sendi ilin al vi kun niaj amataj Barnabas kaj Paŭlo, viroj, kiuj riskis siajn vivojn por la nomo de nia Sinjoro Jesuo Kristo. Ni do sendis Judason kaj Silason, kiuj mem ankaŭ diros al vi la samajn aferojn per buŝo. Ĉar ŝajnis bone al la Sankta Spirito, kaj al ni, meti neniun pli grandan ŝarĝon sur vin ol ĉi tiuj necesaj aferoj: ke vi detenu vin de aferoj oferitaj al idoloj, de sango, de strangolitaĵoj, kaj de seksa malĉasteco, de kiuj se vi gardos vin, estos bone kun vi. Adiaŭ.”
+
+Do, kiam ili estis forsenditaj, ili venis al Antioĥio. Kolektinte la amason kune, ili liveris la leteron. Kiam ili legis ĝin, ili ĝojis pro la kuraĝigo. Judas kaj Silas, ankaŭ estante profetoj mem, kuraĝigis la fratojn per multaj vortoj kaj fortigis ilin. Post kiam ili pasigis iom da tempo tie, ili estis forsenditaj en paco de la fratoj al la apostoloj. Sed Paŭlo kaj Barnabas restis en Antioĥio, instruante kaj predikante la vorton de la Sinjoro, kun multaj aliaj ankaŭ.
+
+Post kelkaj tagoj Paŭlo diris al Barnabas, “Ni revenu nun kaj vizitu niajn fratojn en ĉiu urbo, en kiu ni proklamis la vorton de la Sinjoro, por vidi kiel ili fartas.” Barnabas planis preni Johanon, kiu estis nomata Marko, kun ili ankaŭ. Sed Paŭlo ne pensis, ke estis bona ideo preni kun ili iun, kiu retiriĝis de ili en Pamfilio, kaj ne iris kun ili por fari la laboron. Tiam la disputo fariĝis tiel akra, ke ili disiĝis unu de la alia. Barnabas prenis Markon kun li kaj forvelis al Kipro, sed Paŭlo elektis Silason kaj eliris, estante rekomendita de la fratoj al la graco de Dio. Li trapasis Sirion kaj Kilikion, fortigante la kunvenojn.
+
+### Ĉapitro 16
+
+Li venis al Derbe kaj Lystra; kaj jen, tie estis certa disĉiplo, nomata Timoteo, filo de judino, kiu kredis, sed lia patro estis Greko. La fratoj, kiuj estis en Lystra kaj Ikonio, donis bonan ateston pri li. Paŭlo volis, ke li iru kun li, kaj li prenis kaj cirkumcidis lin pro la Judoj, kiuj estis en tiuj lokoj, ĉar ĉiuj sciis, ke lia patro estis Greko. Dum ili iris tra la urboj, ili transdonis al ili la dekretojn por observi, kiuj estis ordonitaj de la apostoloj kaj presbiteroj, kiuj estis en Jerusalemo. Tiel la kunvenoj estis fortigitaj en la fido, kaj ĉiutage kreskis en nombro.
+
+Kiam ili trapasis la regionon de Frigio kaj Galatio, ili estis malpermesitaj de la Sankta Spirito paroli la vorton en Azio. Kiam ili venis kontraŭ Mizio, ili provis iri en Bitinion, sed la Spirito ne permesis ilin. Preterpasante Mizion, ili malsupreniris al Troas. Vizio aperis al Paŭlo en la nokto. Estis viro el Makedonio staranta, petegante lin kaj dirante: “Venu en Makedonion kaj helpu nin.” Kiam li vidis la vizion, tuj ni serĉis eliri al Makedonio, konkludante, ke la Sinjoro vokis nin prediki la Bonan Novaĵon al ili. Do ekveturante de Troas, ni faris rektan kurson al Samotrako, kaj la sekvan tagon al Neapolis; kaj de tie al Filipio, kiu estas urbo de Makedonio, la ĉefa de la distrikto, romia kolonio. Ni restis kelkajn tagojn en ĉi tiu urbo.
+
+En la sabata tago ni iris ekster la urbon apud rivero, kie ni supozis, ke estas loko de preĝo, kaj ni sidiĝis kaj parolis al la virinoj, kiuj kunvenis. Certa virino nomata Lidia, vendistino de purpuro, el la urbo Tiatira, kiu adoris Dion, aŭdis nin. La Sinjoro malfermis ŝian koron por aŭskulti la aferojn, kiujn Paŭlo parolis. Kiam ŝi kaj ŝia domanaro estis baptitaj, ŝi petis nin, dirante: “Se vi juĝis min fidela al la Sinjoro, venu en mian domon kaj restu.” Tiel ŝi persvadis nin.
+
+Dum ni iris al preĝo, certa knabino havanta spiriton de divenado renkontis nin, kiu alportis al siaj mastroj multan profiton per aŭgurado. Sekvante Paŭlon kaj nin, ŝi kriis: “Ĉi tiuj viroj estas servistoj de la Plej Alta Dio, kiuj proklamas al ni vojon de savo!” Ŝi faris tion dum multaj tagoj.
+
+Sed Paŭlo, tre ĝenita, turnis sin kaj diris al la spirito: “Mi ordonas al vi en la nomo de Jesuo Kristo eliri el ŝi!” Ĝi eliris en tiu sama horo. Sed kiam ŝiaj mastroj vidis, ke la espero de ilia gajno malaperis, ili kaptis Paŭlon kaj Silason kaj trenis ilin en la merkatejon antaŭ la regantoj. Kiam ili alportis ilin al la magistratoj, ili diris: “Ĉi tiuj viroj, estante Judoj, agitas nian urbon kaj advokatas kutimojn, kiujn ne estas laŭleĝe por ni akcepti aŭ observi, estante Romianoj.”
+
+La homamaso leviĝis kune kontraŭ ili kaj la magistratoj disŝiris iliajn vestojn, tiam ordonis ilin esti batitaj per bastonoj. Kiam ili metis multajn striojn sur ilin, ili ĵetis ilin en malliberejon, ordonante al la gardisto gardi ilin sekure. Ricevinte tian ordonon, li ĵetis ilin en la internan malliberejon kaj sekurigis iliajn piedojn en la stoko.
+
+Sed ĉirkaŭ noktomezo Paŭlo kaj Silas preĝis kaj kantis himnojn al Dio, kaj la malliberuloj aŭskultis ilin. Subite estis granda tertremo, tiel ke la fundamentoj de la malliberejo estis skuitaj; kaj tuj ĉiuj pordoj estis malfermitaj, kaj ĉiuj ligiloj estis malstreĉitaj. La gardisto, vekita el dormo kaj vidante la malliberejajn pordojn malfermitaj, eltiris sian glavon kaj estis preta mortigi sin, supozante, ke la malliberuloj eskapis. Sed Paŭlo kriis per laŭta voĉo, dirante: “Ne faru al vi malbonon, ĉar ni ĉiuj estas ĉi tie!”
+
+Li vokis por lumoj, saltis enen, falis tremante antaŭ Paŭlo kaj Silas, elkondukis ilin, kaj diris: “Sinjoroj, kion mi devas fari por esti savita?”
+
+Ili diris: “Kredu al la Sinjoro Jesuo Kristo, kaj vi estos savita, vi kaj via domanaro.” Ili parolis la vorton de la Sinjoro al li, kaj al ĉiuj, kiuj estis en lia domo.
+
+Li prenis ilin en la sama horo de la nokto kaj lavis iliajn striojn, kaj tuj estis baptita, li kaj lia tuta domanaro. Li alportis ilin en sian domon kaj metis manĝaĵon antaŭ ili, kaj ĝojis tre kun sia tuta domanaro, kredinte al Dio.
+
+Sed kiam estis tago, la magistratoj sendis la serĝentojn, dirante: “Lasu tiujn virojn iri.”
+
+La gardisto raportis ĉi tiujn vortojn al Paŭlo, dirante: “La magistratoj sendis por lasi vin iri; nun do eliru kaj iru en paco.”
+
+Sed Paŭlo diris al ili: “Ili batis nin publike sen proceso, virojn, kiuj estas Romianoj, kaj ĵetis nin en malliberejon! Ĉu ili nun liberigas nin sekrete? Ne, certe ne, sed lasu ilin veni mem kaj elkonduki nin!”
+
+La serĝentoj raportis ĉi tiujn vortojn al la magistratoj, kaj ili timis, kiam ili aŭdis, ke ili estas Romianoj, kaj ili venis kaj petegis ilin. Kiam ili elkondukis ilin, ili petis ilin foriri el la urbo. Ili eliris el la malliberejo kaj eniris en la domon de Lidia. Kiam ili vidis la fratojn, ili kuraĝigis ilin, tiam foriris.
+
+### Ĉapitro 17
+
+Nun kiam ili trapasis Amfipolison kaj Apolonion, ili venis al Tesaloniko, kie estis juda sinagogo. Paŭlo, kiel kutime, eniris al ili; kaj dum tri sabatoj li diskutis kun ili el la Skriboj, klarigante kaj montrante, ke la Kristo devis suferi kaj releviĝi el la mortintoj, kaj dirante: "Tiu ĉi Jesuo, kiun mi proklamas al vi, estas la Kristo."
+
+Iuj el ili estis persvaditaj kaj aliĝis al Paŭlo kaj Silas: el la pia Grekoj granda amaso, kaj ne malmultaj el la ĉefaj virinoj. Sed la nepersvaditaj Judoj kunprenis kelkajn malbonajn homojn el la bazaro kaj kolektante homamason, metis la urbon en tumulto. Atakante la domon de Jason, ili serĉis eligi ilin al la popolo. Kiam ili ne trovis ilin, ili trenis Jasonon kaj kelkajn fratojn antaŭ la regantoj de la urbo, kriante: "Ĉi tiuj, kiuj renversis la mondon, venis ankaŭ ĉi tien, kiujn Jason akceptis. Ĉiuj ĉi agas kontraŭ la dekretoj de Cezaro, dirante, ke estas alia reĝo, Jesuo!" La homamaso kaj la regantoj de la urbo estis maltrankviligitaj, kiam ili aŭdis ĉi tiujn aferojn. Kiam ili prenis garantion de Jason kaj la ceteraj, ili lasis ilin iri.
+
+La fratoj tuj sendis Paŭlon kaj Silason nokte al Beroea. Kiam ili alvenis, ili iris en la juda sinagogo.
+
+Ĉi tiuj estis pli noblaj ol tiuj en Tesaloniko, ĉar ili akceptis la vorton kun tuta preteco de menso, ekzamenante la Skribojn ĉiutage por vidi, ĉu ĉi tiuj aferoj estas tiel. Multaj el ili do kredis; ankaŭ el la eminentaj grekaj virinoj, kaj ne malmultaj viroj. Sed kiam la Judoj de Tesaloniko eksciis, ke la vorto de Dio estis proklamita de Paŭlo ankaŭ en Beroea, ili venis tien same, agitantaj la homamason. Tiam la fratoj tuj sendis Paŭlon for ĝis la maro, kaj Silas kaj Timoteo restis tie. Sed tiuj, kiuj eskortis Paŭlon, kondukis lin ĝis Ateno. Ricevinte ordonon al Silas kaj Timoteo, ke ili venu al li tre rapide, ili foriris.
+
+Dum Paŭlo atendis ilin en Ateno, lia spirito estis provokita en li, ĉar li vidis la urbon plena de idoloj. Do li diskutis en la sinagogo kun la Judoj kaj la pia personoj, kaj en la bazaro ĉiutage kun tiuj, kiuj renkontis lin. Iuj el la Epikuraj kaj Stoikaj filozofoj ankaŭ konversaciis kun li. Iuj diris, "Kion volas diri ĉi tiu babilulo?"
+
+Aliaj diris, "Ŝajnas, ke li pledas por fremdaj diaĵoj," ĉar li predikis Jesuon kaj la releviĝon.
+
+Ili kaptis lin kaj kondukis lin al la Areopago, dirante, "Ĉu ni povas scii, kio estas ĉi tiu nova instruo, pri kiu vi parolas? Ĉar vi alportas certajn strangajn aferojn al niaj oreloj. Ni volas do scii, kion ĉi tiuj aferoj signifas." Ĉiuj Atenanoj kaj la fremduloj loĝantaj tie pasigis sian tempon en nenio alia, ol aŭ rakonti aŭ aŭdi iun novan aferon.
+
+Paŭlo staris en la mezo de la Areopago kaj diris, "Vi viroj de Ateno, mi perceptas, ke vi estas tre religiaj en ĉiuj aferoj. Ĉar dum mi preterpasis kaj observis la objektojn de via kultado, mi ankaŭ trovis altaron kun ĉi tiu surskribo: 'AL NEKONATA DIO.' Kion do vi adoras en nescio, tion mi anoncas al vi. La Dio, kiu faris la mondon kaj ĉiujn aferojn en ĝi, li, estante Sinjoro de ĉielo kaj tero, ne loĝas en temploj faritaj per manoj. Li ne estas servata per homaj manoj, kvazaŭ li bezonus ion, ĉar li mem donas al ĉiuj vivon kaj spiron kaj ĉiujn aferojn. Li faris el unu sango ĉiun nacion de homoj por loĝi sur la tuta surfaco de la tero, determinante difinitajn sezonojn kaj la limojn de iliaj loĝejoj, ke ili serĉu la Sinjoron, se eble ili povus atingi lin kaj trovi lin, kvankam li ne estas malproksima de ĉiu el ni. 'Ĉar en li ni vivas, moviĝas, kaj havas nian estaĵon.' Kiel iuj el viaj propraj poetoj diris, 'Ĉar ni estas ankaŭ liaj idoj.' Estante do la idoj de Dio, ni ne devas pensi, ke la Dia Naturo estas kiel oro, aŭ arĝento, aŭ ŝtono, gravurita per arto kaj dezajno de homo. La tempojn de nescio do Dio preteratentis. Sed nun li ordonas, ke ĉiuj homoj ĉie pentu, ĉar li difinis tagon, en kiu li juĝos la mondon en justeco per la viro, kiun li ordonis; pri kiu li donis certigon al ĉiuj homoj, en tio, ke li levis lin el la mortintoj."
+
+Kiam ili aŭdis pri la releviĝo de la mortintoj, iuj mokis; sed aliaj diris, "Ni volas aŭdi vin denove pri ĉi tio."
+
+Tiel Paŭlo eliris el inter ili. Sed certaj viroj aliĝis al li kaj kredis, inkluzive Dionisio la Areopagito, kaj virino nomata Damaris, kaj aliaj kun ili.
+
+### Ĉapitro 18
+
+Post ĉi tiuj aferoj Paŭlo foriris el Ateno kaj venis al Korinto. Li trovis certan Judon nomatan Akvila, viro el Ponto laŭ raso, kiu ĵus venis el Italio kun sia edzino Priscila, ĉar Klaŭdio ordonis, ke ĉiuj Judoj foriru el Romo. Li venis al ili, kaj ĉar li praktikis la saman metion, li loĝis kun ili kaj laboris, ĉar laŭ metio ili estis tendo-faristoj. Li rezonis en la sinagogo ĉiun sabaton kaj persvadis Judojn kaj Grekojn.
+
+Kiam Silas kaj Timoteo venis malsupren el Makedonio, Paŭlo estis devigita de la Spirito, atestante al la Judoj, ke Jesuo estas la Kristo. Kiam ili kontraŭstaris lin kaj blasfemis, li skuis siajn vestojn kaj diris al ili, "Via sango estu sur viaj propraj kapoj! Mi estas pura. De nun, mi iros al la nacianoj!"
+
+Li foriris de tie kaj eniris en la domon de certa viro nomata Justo, kiu adoris Dion, kies domo estis apud la sinagogo. Krispo, la reganto de la sinagogo, kredis al la Sinjoro kun sia tuta domo. Multaj el la Korintanoj, kiam ili aŭdis, kredis kaj estis baptitaj. La Sinjoro diris al Paŭlo en la nokto per vizio, "Ne timu, sed parolu kaj ne silentu; ĉar mi estas kun vi, kaj neniu atakos vin por vundi vin, ĉar mi havas multajn homojn en ĉi tiu urbo."
+
+Li loĝis tie jaron kaj ses monatojn, instruante la vorton de Dio inter ili. Sed kiam Galio estis prokonsulo de Aĥajo, la Judoj unuanime leviĝis kontraŭ Paŭlo kaj alportis lin antaŭ la juĝa seĝo, dirante, "Ĉi tiu viro persvadas homojn adori Dion kontraŭe al la leĝo."
+
+Sed kiam Paŭlo estis preta malfermi sian buŝon, Galio diris al la Judoj, "Se vere temus pri malbono aŭ malbona krimo, vi Judoj, estus racie, ke mi eltenu kun vi; sed se ili estas demandoj pri vortoj kaj nomoj kaj via propra leĝo, rigardu ĝin mem. Ĉar mi ne volas esti juĝisto de ĉi tiuj aferoj." Do li forpelis ilin de la juĝa seĝo.
+
+Tiam ĉiuj Grekoj kaptis Sostenon, la reganton de la sinagogo, kaj batis lin antaŭ la juĝa seĝo. Galio ne zorgis pri iuj el ĉi tiuj aferoj.
+
+Paŭlo, restinte post ĉi tio multajn pliajn tagojn, adiaŭis la fratojn, kaj ekveturis de tie al Sirio, kune kun Priscila kaj Akvila. Li razis sian kapon en Kenkrea, ĉar li havis promeson. Li venis al Efeso, kaj li lasis ilin tie; sed li mem eniris en la sinagogon kaj rezonis kun la Judoj. Kiam ili petis lin resti kun ili pli longe, li rifuzis; sed adiaŭante ilin, li diris, "Mi devas per ĉiuj rimedoj konservi ĉi tiun venontan feston en Jerusalemo, sed mi revenos al vi denove, se Dio volas." Tiam li ekveturis de Efeso.
+
+Kiam li surteriĝis ĉe Cezareo, li supreniris kaj salutis la asembleon, kaj malsupreniris al Antioĥio. Pasiginte iom da tempo tie, li foriris kaj iris tra la regiono de Galatio kaj Frigio, laŭorde, establante ĉiujn disĉiplojn. Nun certa Judo nomata Apolos, Aleksandriano laŭ raso, elokventa viro, venis al Efeso. Li estis potenca en la Skriboj. Ĉi tiu viro estis instruita en la vojo de la Sinjoro; kaj fervora en spirito, li parolis kaj instruis precize la aferojn pri Jesuo, kvankam li konis nur la bapton de Johano. Li komencis paroli kuraĝe en la sinagogo. Sed kiam Priscila kaj Akvila aŭdis lin, ili prenis lin flanken, kaj klarigis al li la vojon de Dio pli precize.
+
+Kiam li decidis transiri en Aĥajon, la fratoj kuraĝigis lin; kaj skribis al la disĉiploj por akcepti lin. Kiam li venis, li multe helpis tiujn, kiuj kredis per graco; ĉar li potence refutis la Judojn, publike montrante per la Skriboj, ke Jesuo estas la Kristo.
+
+### Ĉapitro 19
+
+Dum Apolos estis en Korinto, Paŭlo, pasinte tra la supra regiono, venis al Efeso kaj trovis kelkajn disĉiplojn. Li diris al ili: "Ĉu vi ricevis la Sanktan Spiriton, kiam vi kredis?"
+
+Ili diris al li: "Ne, ni eĉ ne aŭdis, ke estas Sankta Spirito."
+
+Li diris: "En kion do vi estis baptitaj?"
+
+Ili diris: "En la bapton de Johano."
+
+Paŭlo diris: "Johano ja baptis per la bapto de pento, dirante al la popolo, ke ili kredu en tiu, kiu venos post li, tio estas, en Kristo Jesuo."
+
+Kiam ili aŭdis tion, ili estis baptitaj en la nomo de la Sinjoro Jesuo. Kiam Paŭlo metis siajn manojn sur ilin, la Sankta Spirito venis sur ilin kaj ili parolis per aliaj lingvoj kaj profetis. Ili estis entute ĉirkaŭ dek du viroj.
+
+Li eniris en la sinagogon kaj parolis kuraĝe dum periodo de tri monatoj, rezonante kaj persvadante pri la aferoj koncerne la Regnon de Dio.
+
+Sed kiam iuj obstiniĝis kaj malobeis, parolante malbone pri la Vojo antaŭ la amaso, li foriris de ili kaj apartigis la disĉiplojn, rezonante ĉiutage en la lernejo de Tirano. Tio daŭris dum du jaroj, tiel ke ĉiuj, kiuj loĝis en Azio, aŭdis la vorton de la Sinjoro Jesuo, kaj Judoj kaj Grekoj.
+
+Dio faris specialajn miraklojn per la manoj de Paŭlo, tiel ke eĉ tukoj aŭ antaŭtukoj estis forportitaj de lia korpo al la malsanuloj, kaj la malsanoj foriris de ili, kaj la malbonaj spiritoj eliris. Sed iuj el la migrantoj Judoj, ekzorcistoj, entreprenis alvoki super tiuj, kiuj havis la malbonajn spiritojn, la nomon de la Sinjoro Jesuo, dirante: "Ni adjuras vin per Jesuo, kiun Paŭlo predikas." Estis sep filoj de unu Skeva, juda ĉefpastro, kiuj tion faris.
+
+La malbona spirito respondis, "Jesuo mi konas, kaj Paŭlo mi konas, sed kiuj vi estas?" La viro, en kiu estis la malbona spirito, saltis sur ilin, superfortis ilin, kaj venkis ilin, tiel ke ili forkuris el tiu domo nudaj kaj vunditaj. Tio fariĝis konata al ĉiuj, kaj Judoj kaj Grekoj, kiuj loĝis en Efeso. Timo falis sur ĉiujn, kaj la nomo de la Sinjoro Jesuo estis glorigita. Multaj ankaŭ el tiuj, kiuj kredis, venis, konfesis kaj deklaris siajn farojn. Multaj el tiuj, kiuj praktikis magiajn artojn, kunportis siajn librojn kaj bruligis ilin antaŭ ĉiuj. Ili kalkulis ilian prezon, kaj trovis ĝin esti kvindek mil pecoj da arĝento. Tiel la vorto de la Sinjoro kreskis kaj fariĝis potenca.
+
+Nun post kiam ĉi tiuj aferoj finiĝis, Paŭlo decidis en la Spirito, kiam li pasis tra Makedonio kaj Aĥajo, iri al Jerusalemo, dirante: "Post kiam mi estos tie, mi devas ankaŭ vidi Romon."
+
+Sendinte en Makedonion du el tiuj, kiuj servis al li, Timoteon kaj Eraston, li mem restis en Azio dum iom da tempo. Ĉirkaŭ tiu tempo leviĝis ne malgranda tumulto koncerne la Vojon. Ĉar certa viro nomata Demetrio, arĝentaĵisto, kiu faris arĝentajn sanktejojn de Artemiso, alportis ne malgrandan komercon al la metiistoj, kiujn li kunigis kun la laboristoj de simila okupo, kaj diris: "Sinjoroj, vi scias, ke per ĉi tiu komerco ni havas nian riĉecon. Vi vidas kaj aŭdas, ke ne nur en Efeso, sed preskaŭ tra tuta Azio, ĉi tiu Paŭlo persvadis kaj forturnis multajn homojn, dirante, ke ili estas ne dioj, kiuj estas faritaj per manoj. Ne nur estas danĝero, ke ĉi tiu nia komerco venu en malbonfamon, sed ankaŭ ke la templo de la granda diino Artemiso estos konsiderata kiel nenio kaj ŝia majesto detruita, kiun adoras tuta Azio kaj la mondo."
+
+Kiam ili aŭdis tion, ili pleniĝis de kolero, kaj kriis, dirante: "Granda estas Artemiso de la Efesanoj!" La tuta urbo pleniĝis de konfuzo, kaj ili kuregis unuanime en la teatron, kaptinte Gajon kaj Aristarĥon, virojn de Makedonio, kunvojaĝantojn de Paŭlo. Kiam Paŭlo volis eniri al la popolo, la disĉiploj ne permesis al li. Certaj ankaŭ el la Azianoj, estante liaj amikoj, sendis al li kaj petis lin ne riski eniri en la teatron. Kelkaj do kriis unu aferon, kaj aliaj alian, ĉar la asembleo estis en konfuzo. Plej multaj el ili ne sciis, kial ili kunvenis. Ili eltiris Aleksandron el la amaso, la Judoj metante lin antaŭen. Aleksandro mansignis per sia mano, kaj volis fari defendon al la popolo. Sed kiam ili perceptis, ke li estas Judo, ĉiuj unuvoĉe dum tempo de ĉirkaŭ du horoj kriis: "Granda estas Artemiso de la Efesanoj!"
+
+Kiam la urba skribisto kvietigis la amason, li diris: "Vi viroj de Efeso, kiu homo estas tie, kiu ne scias, ke la urbo de la Efesanoj estas la templogardanto de la granda diino Artemiso, kaj de la bildo, kiu falis de Zeŭso? Vidante do, ke ĉi tiuj aferoj ne povas esti neitaj, vi devus esti kvietaj kaj fari nenion hastan. Ĉar vi alportis ĉi tiujn virojn ĉi tien, kiuj estas nek rabistoj de temploj nek blasfemantoj de via diino. Se do Demetrio kaj la metiistoj, kiuj estas kun li, havas aferon kontraŭ iu, la tribunaloj estas malfermitaj kaj estas prokonsuloj. Lasu ilin akuzigi unu la alian. Sed se vi serĉas ion pri aliaj aferoj, ĝi estos solvita en la regula asembleo. Ĉar efektive ni estas en danĝero esti akuzitaj pri la hodiaŭa tumulto, ne estante kaŭzo. Koncerne ĝin, ni ne povus doni klarigon pri ĉi tiu tumulto." Kiam li tiel parolis, li malakceptis la asembleon.
+
+### Ĉapitro 20
+
+Post kiam la tumulto ĉesis, Paŭlo vokis la disĉiplojn, adiaŭis ilin, kaj foriris por iri en Makedonion. Kiam li trairis tiujn regionojn kaj kuraĝigis ilin per multaj vortoj, li venis en Grekion. Kiam li pasigis tri monatojn tie, kaj komploto estis farita kontraŭ li de Judoj kiam li estis preta ekveturi al Sirio, li decidis reveni tra Makedonio. Tiuj akompanis lin ĝis Azio: Sopater el Bereo, Aristarko kaj Sekundo el la Tesalonikanoj, Gajo el Derbe, Timoteo, kaj Tiĥiko kaj Trofimo el Azio. Sed tiuj iris antaŭen, kaj atendis nin ĉe Troaso. Ni forveturis de Filipio post la tagoj de Senfermenta Pano, kaj venis al ili ĉe Troaso en kvin tagoj, kie ni restis sep tagojn.
+
+En la unua tago de la semajno, kiam la disĉiploj kunvenis por rompi panon, Paŭlo parolis kun ili, intencante foriri la sekvan tagon; kaj daŭrigis sian paroladon ĝis noktomezo. Estis multaj lumoj en la supra ĉambro kie ni kunvenis. Certa junulo nomita Eŭtiĥo sidis en la fenestro, pezigita de profunda dormo. Dum Paŭlo ankoraŭ pli longe parolis, pezigita de sia dormo, li falis de la tria etaĝo kaj estis prenita supren morta. Paŭlo malsupreniris kaj falis sur lin, kaj brakumante lin diris, "Ne maltrankviliĝu, ĉar lia vivo estas en li."
+
+Kiam li supreniris, rompis panon kaj manĝis, kaj parolis kun ili longan tempon, eĉ ĝis tagiĝo, li foriris. Ili alportis la knabon vivanta, kaj estis tre konsolataj.
+
+Sed ni, irante antaŭen al la ŝipo, ekveturis al Asoso, intencante preni Paŭlon surŝipe tie; ĉar li tiel aranĝis, intencante mem iri per tero. Kiam li renkontis nin ĉe Asoso, ni prenis lin surŝipe kaj venis al Mitileno. Forveturante de tie, ni venis la sekvan tagon kontraŭ Ĉio. La sekvan tagon ni atingis Samon kaj restis ĉe Trogilio, kaj la tagon poste ni venis al Mileto. Ĉar Paŭlo decidis preterveturi Efeson, por ke li ne devu pasigi tempon en Azio; ĉar li rapidis, se eble, por esti en Jerusalemo en la tago de Pentekosto.
+
+De Mileto li sendis al Efeso kaj vokis al si la pliaĝulojn de la kunveno. Kiam ili venis al li, li diris al ili, "Vi mem scias, de la unua tago kiam mi metis piedon en Azion, kiel mi estis kun vi ĉiam, servante la Sinjoron kun ĉia humileco, kun multaj larmoj, kaj kun provoj kiuj okazis al mi per la komplotoj de la Judoj; kiel mi ne hezitis deklari al vi ion ajn kio estis utila, instruante vin publike kaj de domo al domo, atestante al Judoj kaj al Grekoj penton al Dio kaj fidon al nia Sinjoro Jesuo. Nun, jen, mi iras ligita de la Spirito al Jerusalemo, ne sciante kio okazos al mi tie; krom ke la Sankta Spirito atestas en ĉiu urbo, dirante ke katenoj kaj afliktoj atendas min. Sed ĉi tiuj aferoj ne gravas; nek mi tenas mian vivon kara al mi mem, por ke mi povu fini mian kuradon kun ĝojo, kaj la ministerion kiun mi ricevis de la Sinjoro Jesuo, por plene atesti la Bonan Novaĵon de la graco de Dio.
+
+"Nun, jen, mi scias ke vi ĉiuj, inter kiuj mi iris predikante la Regnon de Dio, ne plu vidos mian vizaĝon. Tial mi atestas al vi hodiaŭ ke mi estas pura de la sango de ĉiuj homoj, ĉar mi ne hezitis deklari al vi la tutan konsilon de Dio. Atentu do al vi mem kaj al la tuta grego, en kiu la Sankta Spirito faris vin superrigardantoj, por paŝti la kunvenon de la Sinjoro kaj Dio kiun li aĉetis per sia propra sango. Ĉar mi scias ke post mia foriro, furiozaj lupoj eniros inter vi, ne ŝparante la gregojn. Homoj leviĝos el inter vi mem, parolante perversajn aferojn, por forlogi la disĉiplojn post ili. Tial gardu, memorante ke dum periodo de tri jaroj mi ne ĉesis admoni ĉiun nokte kaj tage kun larmoj. Nun, fratoj, mi konfidas vin al Dio kaj al la vorto de lia graco, kiu kapablas konstrui kaj doni al vi la heredaĵon inter ĉiuj kiuj estas sanktigitaj. Mi ne avidis ies arĝenton, oron, aŭ vestojn. Vi mem scias ke ĉi tiuj manoj servis miajn bezonojn, kaj tiujn kiuj estis kun mi. En ĉiuj aferoj mi donis al vi ekzemplon, ke tiel laborante vi devus helpi la malfortulojn, kaj memori la vortojn de la Sinjoro Jesuo, ke li mem diris, 'Pli benate estas doni ol ricevi.'"
+
+Kiam li parolis ĉi tiujn aferojn, li surgenuiĝis kaj preĝis kun ili ĉiuj. Ili ĉiuj libere ploris, kaj falis sur la kolon de Paŭlo kaj kisis lin, malĝojante plejparte pro la vorto kiun li parolis, ke ili ne plu vidos lian vizaĝon. Tiam ili akompanis lin al la ŝipo.
+
+### Ĉapitro 21
+
+Kiam ni foriris de ili kaj ekvelis, ni venis rekte al Kos, kaj la sekvan tagon al Rodiso, kaj de tie al Patara. Trovinte ŝipon transirantan al Fenicio, ni enŝipiĝis kaj ekvelis. Kiam ni ekvidis Kipron, lasante ĝin maldekstre, ni velis al Sirio kaj surteriĝis en Tiro, ĉar la ŝipo estis tie por elŝarĝi sian kargon. Trovinte disĉiplojn, ni restis tie sep tagojn. Ili diris al Paŭlo per la Spirito, ke li ne iru supren al Jerusalemo. Kiam tiuj tagoj finiĝis, ni foriris kaj daŭrigis nian vojaĝon. Ili ĉiuj, kun edzinoj kaj infanoj, akompanis nin ĝis ni estis ekster la urbo. Surgenuiĝante sur la plaĝo, ni preĝis. Post adiaŭo unu al la alia, ni enŝipiĝis, kaj ili revenis hejmen.
+
+Kiam ni finis la vojaĝon de Tiro, ni alvenis en Ptolemais. Ni salutis la fratojn kaj restis kun ili unu tagon. La sekvan tagon, ni, kiuj estis kunuloj de Paŭlo, foriris kaj venis al Cezareo.
+
+Ni eniris en la domon de Filipo la evangeliisto, kiu estis unu el la sep, kaj restis kun li. Ĉi tiu viro havis kvar virgulinojn, kiuj profetis. Dum ni restis tie kelkajn tagojn, certa profeto nomata Agabo venis malsupren de Judujo. Veni al ni kaj prenante la zonon de Paŭlo, li ligis siajn proprajn piedojn kaj manojn, kaj diris, "La Sankta Spirito diras: 'Tiel la Judoj en Jerusalemo ligos la viron, kiu posedas ĉi tiun zonon, kaj transdonos lin en la manojn de la nacianoj.'"
+
+Kiam ni aŭdis ĉi tiujn aferojn, kaj ni kaj la homoj de tiu loko petegis lin ne iri supren al Jerusalemo. Tiam Paŭlo respondis, "Kion vi faras, plorante kaj rompante mian koron? Ĉar mi estas preta ne nur esti ligita, sed ankaŭ morti en Jerusalemo por la nomo de la Sinjoro Jesuo."
+
+Kiam li ne estis persvadita, ni ĉesis, dirante, "La volo de la Sinjoro estu farita."
+
+Post ĉi tiuj tagoj ni prenis nian pakaĵon kaj iris supren al Jerusalemo. Kelkaj el la disĉiploj de Cezareo ankaŭ iris kun ni, alportante unu Mnason de Kipro, fruan disĉiplon, kun kiu ni restus.
+
+Kiam ni venis al Jerusalemo, la fratoj akceptis nin ĝoje. La sekvan tagon, Paŭlo eniris kun ni al Jakobo; kaj ĉiuj la pliaĝuloj estis ĉeestantaj. Kiam li salutis ilin, li raportis unu post la alia la aferojn, kiujn Dio faris inter la nacianoj per lia ministerio. Ili, kiam ili aŭdis ĝin, gloris Dion. Ili diris al li, "Vi vidas, frato, kiom da miloj estas inter la Judoj de tiuj, kiuj kredis, kaj ili ĉiuj estas fervoraj por la leĝo. Ili estis informitaj pri vi, ke vi instruas ĉiujn Judojn, kiuj estas inter la nacianoj, forlasi Moseon, dirante al ili ne cirkumcidi siajn infanojn kaj ne sekvi la kutimojn. Kion do? La asembleo certe kunvenos, ĉar ili aŭdos, ke vi venis. Tial faru tion, kion ni diras al vi. Ni havas kvar virojn, kiuj prenis ĵuron. Prenu ilin kaj purigu vin kun ili, kaj pagu iliajn elspezojn por ili, ke ili povu razi siajn kapojn. Tiam ĉiuj scios, ke ne estas vero en la aferoj, kiujn ili estis informitaj pri vi, sed ke vi mem ankaŭ iras laŭ la leĝo. Sed koncerne la nacianojn, kiuj kredas, ni skribis nian decidon, ke ili ne observu tian aferon, krom ke ili tenu sin for de manĝaĵo oferita al idoloj, de sango, de strangolitaj aferoj, kaj de seksa malĉasteco."
+
+Tiam Paŭlo prenis la virojn, kaj la sekvan tagon purigis sin kaj iris kun ili en la templon, deklarante la plenumon de la tagoj de purigado, ĝis la ofero estis oferita por ĉiu el ili. Kiam la sep tagoj preskaŭ finiĝis, la Judoj el Azio, kiam ili vidis lin en la templo, ekscitis la tutan homamason kaj metis manojn sur lin, kriante, "Viroj de Izrael, helpu! Ĉi tiu estas la viro, kiu instruas ĉiujn homojn ĉie kontraŭ la popolo, kaj la leĝo, kaj ĉi tiu loko. Krome, li ankaŭ enkondukis Grekojn en la templon kaj malpurigis ĉi tiun sanktan lokon!" Ĉar ili vidis Trofimon la Efesianon kun li en la urbo, kaj ili supozis, ke Paŭlo enkondukis lin en la templon.
+
+La tuta urbo estis movita kaj la homoj kuris kune. Ili kaptis Paŭlon kaj trenis lin el la templo. Tuj la pordoj estis fermitaj. Dum ili provis mortigi lin, novaĵo venis al la komandanta oficiro de la regimento, ke la tuta Jerusalemo estis en tumulto. Tuj li prenis soldatojn kaj centestrojn kaj kuris malsupren al ili. Ili, kiam ili vidis la ĉefkapitanon kaj la soldatojn, ĉesis bati Paŭlon. Tiam la komandanta oficiro alproksimiĝis, arestis lin, ordonis lin esti ligita per du ĉenoj, kaj demandis, kiu li estis kaj kion li faris. Iuj kriis unu aferon kaj iuj alian, inter la homamaso. Kiam li ne povis eltrovi la veron pro la bruo, li ordonis lin esti alportita en la kazernon.
+
+Kiam li venis al la ŝtuparo, li estis portita de la soldatoj pro la perforto de la homamaso; ĉar la homamaso sekvis post, kriante, "Forigu lin!" Dum Paŭlo estis preskaŭ enportita en la kazernon, li petis la komandantan oficiron, "Ĉu mi povas paroli al vi?"
+
+Li diris, "Ĉu vi scias la Grekan? Ĉu vi ne estas tiam la Egipto, kiu antaŭ ĉi tiuj tagoj ekscitis ribelon kaj kondukis en la dezerton la kvar mil virojn de la Asasinoj?"
+
+Sed Paŭlo diris, "Mi estas Judo el Tarso en Cilicjo, civitano de ne malgrava urbo. Mi petas vin, permesu al mi paroli al la popolo."
+
+Kiam li donis al li permeson, Paŭlo, starante sur la ŝtuparo, gestis per sia mano al la popolo. Kiam estis granda silento, li parolis al ili en la Hebrea lingvo, dirante,
+
+### Ĉapitro 22
+
+"Fratoj kaj patroj, aŭskultu la defendon, kiun mi nun faras al vi."
+
+Kiam ili aŭdis, ke li parolis al ili en la hebrea lingvo, ili eĉ pli silentis.
+
+Li diris, "Mi estas ja Judo, naskita en Tarso de Kilikio, sed edukita en ĉi tiu urbo ĉe la piedoj de Gamaliel, instruita laŭ la strikta tradicio de la leĝo de niaj patroj, estante fervora por Dio, eĉ kiel vi ĉiuj estas hodiaŭ. Mi persekutis ĉi tiun Vojon ĝis la morto, ligante kaj liverante en malliberejojn kaj virojn kaj virinojn, kiel ankaŭ la ĉefpastro kaj la tuta konsilio de la pliaĝuloj atestas, de kiuj ankaŭ mi ricevis leterojn al la fratoj, kaj vojaĝis al Damasko por alporti ilin ankaŭ, kiuj estis tie al Jerusalemo en katenoj por esti punataj.
+
+"Dum mi faris mian vojaĝon kaj alproksimiĝis al Damasko, ĉirkaŭ tagmezo subite granda lumo brilis ĉirkaŭ mi el la ĉielo. Mi falis al la tero kaj aŭdis voĉon dirantan al mi, 'Saŭlo, Saŭlo, kial vi persekutas min?' Mi respondis, 'Kiu vi estas, Sinjoro?' Li diris al mi, 'Mi estas Jesuo el Nazareto, kiun vi persekutas.'
+
+"Tiuj, kiuj estis kun mi, ja vidis la lumon kaj timis, sed ili ne komprenis la voĉon de tiu, kiu parolis al mi. Mi diris, 'Kion mi faru, Sinjoro?' La Sinjoro diris al mi, 'Leviĝu, kaj iru en Damaskon. Tie vi estos informita pri ĉiuj aferoj, kiuj estas destinitaj por vi fari.' Kiam mi ne povis vidi pro la gloro de tiu lumo, estante gvidata per la mano de tiuj, kiuj estis kun mi, mi venis en Damaskon.
+
+"Unu Ananias, pia viro laŭ la leĝo, bone raportita de ĉiuj Judoj, kiuj loĝis en Damasko, venis al mi, kaj starante apud mi diris al mi, 'Frato Saŭlo, ricevu vian vidon!' En tiu sama horo mi rigardis lin. Li diris, 'La Dio de niaj patroj destinis vin koni Lian volon, kaj vidi la Justulon, kaj aŭdi voĉon el Lia buŝo. Ĉar vi estos atestanto por Li al ĉiuj homoj pri tio, kion vi vidis kaj aŭdis. Nun kial vi atendas? Leviĝu, estu baptita, kaj lavu viajn pekojn, vokante la nomon de la Sinjoro.'
+
+"Kiam mi revenis al Jerusalemo kaj dum mi preĝis en la templo, mi falis en trancon kaj vidis Lin dirantan al mi, 'Rapidu kaj eliru el Jerusalemo rapide, ĉar ili ne akceptos ateston pri mi de vi.' Mi diris, 'Sinjoro, ili mem scias, ke mi malliberigis kaj batis en ĉiu sinagogo tiujn, kiuj kredis en Vi. Kiam la sango de Stefano, Via atestanto, estis verŝita, mi ankaŭ staris apud, konsentante al lia morto, kaj gardante la mantelojn de tiuj, kiuj mortigis lin.'
+
+"Li diris al mi, 'Foriru, ĉar Mi sendos vin malproksimen al la nacianoj.'"
+
+Ili aŭskultis lin ĝis li diris tion; tiam ili levis sian voĉon kaj diris, "Forigu ĉi tiun homon de la tero, ĉar li ne taŭgas por vivi!"
+
+Dum ili kriis, demetis siajn mantelojn, kaj ĵetis polvon en la aeron, la komandanta oficiro ordonis lin esti alportita en la kazernon, ordonante lin esti ekzamenita per skurĝado, ke li povu scii, pro kia krimo ili tiel kriis kontraŭ li. Kiam ili ligis lin per rimenoj, Paŭlo demandis la centestron, kiu staris apud, "Ĉu estas laŭleĝe por vi skurĝi homon, kiu estas Romiano, kaj ne trovita kulpa?"
+
+Kiam la centestro aŭdis tion, li iris al la komandanta oficiro kaj diris al li, "Atentu, kion vi intencas fari, ĉar ĉi tiu homo estas Romiano!"
+
+La komandanta oficiro venis kaj demandis lin, "Diru al mi, ĉu vi estas Romiano?"
+
+Li diris, "Jes."
+
+La komandanta oficiro respondis, "Mi aĉetis mian civitanecon por granda prezo."
+
+Paŭlo diris, "Sed mi naskiĝis Romiano."
+
+Tuj tiuj, kiuj estis pretaj ekzamenadi lin, foriris de li, kaj la komandanta oficiro ankaŭ timis, kiam li ekkomprenis, ke li estis Romiano, ĉar li ligis lin. Sed la sekvan tagon, dezirante scii la veron pri kial li estis akuzita de la Judoj, li liberigis lin de la katenoj kaj ordonis la ĉefpastrojn kaj la tutan konsilion kunveni, kaj alportis Paŭlon malsupren kaj starigis lin antaŭ ili.
+
+### Ĉapitro 23
+
+Paŭlo, rigardante fikse la konsilion, diris, "Fratoj, mi vivis antaŭ Dio kun bona konscienco ĝis hodiaŭ."
+
+La ĉefpastro, Ananias, ordonis al tiuj, kiuj staris apud li, frapi lin sur la buŝo.
+
+Tiam Paŭlo diris al li, "Dio frapos vin, vi blankigita muro! Ĉu vi sidas por juĝi min laŭ la leĝo, kaj ordonas min esti frapita kontraŭe al la leĝo?"
+
+Tiuj, kiuj staris apud, diris, "Ĉu vi malbonparolas pri la ĉefpastro de Dio?"
+
+Paŭlo diris, "Mi ne sciis, fratoj, ke li estis ĉefpastro. Ĉar estas skribite, 'Vi ne parolu malbone pri reganto de via popolo.'"
+
+Sed kiam Paŭlo ekvidis, ke unu parto estis Sadukeoj kaj la alia Fariseoj, li ekkriis en la konsilio, "Viroj kaj fratoj, mi estas Fariseo, filo de Fariseoj. Pri la espero kaj resurekto de la mortintoj mi estas juĝata!"
+
+Kiam li diris tion, ekestis disputo inter la Fariseoj kaj Sadukeoj, kaj la homamaso dividiĝis. Ĉar la Sadukeoj diras, ke ne estas resurekto, nek anĝelo, nek spirito; sed la Fariseoj konfesas ĉion ĉi tion. Granda tumulto ekestis, kaj kelkaj el la skribistoj de la Farisea parto leviĝis, kaj disputis, dirante, "Ni trovas nenian malbonon en ĉi tiu viro. Sed se spirito aŭ anĝelo parolis al li, ni ne batalu kontraŭ Dio!"
+
+Kiam granda disputo ekestis, la komandanto, timante ke Paŭlo estus disŝirita de ili, ordonis al la soldatoj malsupreniri kaj preni lin perforte el inter ili kaj konduki lin en la kazernon.
+
+La sekvan nokton, la Sinjoro staris apud li kaj diris, "Kuraĝu, Paŭlo, ĉar kiel vi atestis pri mi en Jerusalemo, tiel vi devas atesti ankaŭ en Romo."
+
+Kiam estis tago, kelkaj el la Judoj kuniĝis kaj ligis sin sub malbeno, dirante ke ili nek manĝos nek trinkos ĝis ili mortigos Paŭlon. Estis pli ol kvardek homoj, kiuj faris ĉi tiun konspiron. Ili venis al la ĉefpastroj kaj la pliaĝuloj, kaj diris, "Ni ligis nin sub granda malbeno por gustumi nenion ĝis ni mortigos Paŭlon. Nun do, vi kun la konsilio informu la komandanton, ke li alportu lin malsupren al vi morgaŭ, kvazaŭ vi intencus juĝi lian kazon pli precize. Ni estas pretaj mortigi lin antaŭ ol li alproksimiĝos."
+
+Sed la filo de la fratino de Paŭlo aŭdis, ke ili kuŝas en atendo, kaj li venis kaj eniris en la kazernon kaj rakontis al Paŭlo. Paŭlo vokis unu el la centestroj kaj diris, "Konduku ĉi tiun junulon al la komandanto, ĉar li havas ion por diri al li."
+
+Do li prenis lin kaj kondukis lin al la komandanto kaj diris, "Paŭlo, la malliberulo, vokis min kaj petis min konduki ĉi tiun junulon al vi. Li havas ion por diri al vi."
+
+La komandanto prenis lin per la mano, kaj flankenirante, demandis lin private, "Kio estas tio, kion vi devas diri al mi?"
+
+Li diris, "La Judoj konsentis peti vin alporti Paŭlon malsupren al la konsilio morgaŭ, kvazaŭ intencante esplori iom pli precize pri li. Tial ne cedu al ili, ĉar pli ol kvardek viroj kuŝas en atendo por li, kiuj ligis sin sub malbeno por nek manĝi nek trinki ĝis ili mortigos lin. Nun ili estas pretaj, atendante la promeson de vi."
+
+Do la komandanto lasis la junulon iri, ordonante lin, "Diru al neniu, ke vi malkaŝis ĉi tiujn aferojn al mi."
+
+Li vokis al si du el la centestroj, kaj diris, "Preparu ducent soldatojn por iri ĝis Cezareo, kun sepdek rajdantoj kaj ducent viroj armitaj per lancoj, je la tria horo de la nokto." Li petis ilin provizi rajdbestojn, ke ili povu meti Paŭlon sur unu, kaj konduki lin sekure al Felikso, la guberniestro. Li skribis leteron tiel:
+
+"Klaŭdio Lisias al la plej eminenta guberniestro Felikso: Salutojn.
+
+"Ĉi tiu viro estis kaptita de la Judoj, kaj estis preskaŭ mortigita de ili kiam mi venis kun la soldatoj kaj savis lin, eksciinte ke li estis Romiano. Dezirante scii la kaŭzon, kial ili akuzis lin, mi alportis lin malsupren al ilia konsilio. Mi trovis lin esti akuzita pri demandoj de ilia leĝo, sed ne esti ŝargita kun io ajn inda je morto aŭ malliberigo. Kiam mi estis informita, ke la Judoj kuŝas en atendo por la viro, mi tuj sendis lin al vi, ordonante ankaŭ al liaj akuzantoj alporti siajn akuzojn kontraŭ li antaŭ vi. Adiaŭ."
+
+Do la soldatoj, plenumante siajn ordonojn, prenis Paŭlon kaj kondukis lin nokte al Antipatro. Sed la sekvan tagon ili lasis la rajdantojn iri kun li, kaj revenis al la kazerno. Kiam ili venis al Cezareo kaj liveris la leteron al la guberniestro, ili ankaŭ prezentis Paŭlon al li. Kiam la guberniestro legis ĝin, li demandis, el kiu provinco li estis. Kiam li komprenis, ke li estis el Kilikio, li diris, "Mi aŭskultos vin plene kiam viaj akuzantoj ankaŭ alvenos." Li ordonis, ke li estu tenata en la palaco de Herodo.
+
+### Ĉapitro 24
+
+Post kvin tagoj, la ĉefpastro, Ananias, malsupreniris kun certaj pliaĝuloj kaj oratoro, unu Tertulo. Ili informis la guberniestron kontraŭ Paŭlo. Kiam li estis vokita, Tertulo komencis akuzi lin, dirante, "Vidante, ke per vi ni ĝuas multan pacon, kaj ke prospero venas al ĉi tiu nacio per via antaŭvido, ni akceptas ĝin en ĉiuj manieroj kaj en ĉiuj lokoj, plej eminenta Felikso, kun ĉia dankemo. Sed por ke mi ne prokrastu vin, mi petas vin toleri nin kaj aŭskulti kelkajn vortojn. Ĉar ni trovis ĉi tiun homon esti pesto, instiganto de ribeloj inter ĉiuj Judoj tra la mondo, kaj ĉefgvidanto de la sekto de la Nazaretanoj. Li eĉ provis profani la templon, kaj ni arestis lin. Per ekzamenado de li mem vi povas konstati ĉiujn ĉi tiujn aferojn, pri kiuj ni akuzas lin."
+
+La Judoj ankaŭ aliĝis al la atako, asertante, ke ĉi tiuj aferoj estis tiel.
+
+Kiam la guberniestro signalis al li por paroli, Paŭlo respondis, "Ĉar mi scias, ke vi estis juĝisto de ĉi tiu nacio dum multaj jaroj, mi ĝoje faras mian defendon, vidante, ke vi povas kontroli, ke ne estas pli ol dek du tagoj de kiam mi supreniris por adori en Jerusalemo. En la templo ili ne trovis min disputanta kun iu ajn aŭ incitanta homamason, nek en la sinagogoj nek en la urbo. Nek ili povas pruvi al vi la aferojn, pri kiuj ili nun akuzas min. Sed ĉi tion mi konfesas al vi, ke laŭ la Vojo, kiun ili nomas sekto, tiel mi servas la Dion de niaj patroj, kredante ĉiujn aferojn, kiuj estas laŭ la leĝo, kaj kiuj estas skribitaj en la profetoj; havante esperon al Dio, kiun ĉi tiuj ankaŭ mem serĉas, ke estos releviĝo de la mortintoj, kaj de la justuloj kaj maljustuloj. En ĉi tio mi ankaŭ praktikas ĉiam havante konsciencon sen ofendo al Dio kaj homoj. Nun post kelkaj jaroj, mi venis por alporti donacojn por la bezonuloj al mia nacio, kaj oferojn; meze de kiuj certaj Judoj el Azio trovis min purigita en la templo, ne kun homamaso, nek kun tumulto. Ili devus esti ĉi tie antaŭ vi kaj fari akuzon, se ili havis ion kontraŭ mi. Aŭ alie lasu ĉi tiujn virojn mem diri, kian maljustaĵon ili trovis en mi, kiam mi staris antaŭ la konsilio, krom se ĝi estas pro ĉi tiu unu afero, ke mi kriis starante inter ili, 'Pri la releviĝo de la mortintoj mi estas juĝata antaŭ vi hodiaŭ!'"
+
+Sed Felikso, havante pli precizan scion pri la Vojo, prokrastis ilin, dirante, "Kiam Lisias, la komandanta oficiro, malsupreniros, mi decidos vian kazon." Li ordonis al la centestro, ke Paŭlo estu tenata en gardado kaj havu iujn privilegiojn, kaj ne malpermesu al iu el liaj amikoj servi lin aŭ viziti lin.
+
+Post kelkaj tagoj, Felikso venis kun Drusila, sia edzino, kiu estis Judino, kaj sendis por Paŭlo kaj aŭdis lin pri la kredo en Kristo Jesuo. Dum li rezonis pri justeco, memregado, kaj la juĝo venonta, Felikso timiĝis, kaj respondis, "Iru vian vojon por ĉi tiu tempo, kaj kiam estos oportune por mi, mi vokos vin." Dume, li ankaŭ esperis, ke mono estus donita al li de Paŭlo, ke li povus liberigi lin. Tial li ankaŭ sendis por li pli ofte kaj parolis kun li.
+
+Sed kiam du jaroj estis plenumitaj, Felikso estis sukcedita de Porcius Festus, kaj dezirante akiri favoron kun la Judoj, Felikso lasis Paŭlon en katenoj.
+
+### Ĉapitro 25
+
+Festus do, veninte en la provincon, post tri tagoj iris al Jerusalemo el Cezareo. Tiam la ĉefpastro kaj la ĉefaj viroj de la Judoj informis lin kontraŭ Paŭlo, kaj ili petis lin, petante favoron kontraŭ li, ke li alvoku lin al Jerusalemo, planante mortigi lin survoje. Tamen Festus respondis, ke Paŭlo estu tenata en prizorgo ĉe Cezareo, kaj ke li mem estis baldaŭ forironta. "Lasu do," li diris, "ke tiuj, kiuj estas en potenco inter vi, iru kun mi, kaj se estas io malĝusta en la viro, lasu ilin akuzi lin."
+
+Kiam li restis inter ili pli ol dek tagojn, li iris al Cezareo, kaj la sekvan tagon li sidis sur la juĝseĝo, kaj ordonis, ke Paŭlo estu alportita. Kiam li venis, la Judoj, kiuj venis el Jerusalemo, staris ĉirkaŭ li, alportante kontraŭ li multajn kaj gravajn akuzojn, kiujn ili ne povis pruvi, dum li diris en sia defendo, "Nek kontraŭ la leĝo de la Judoj, nek kontraŭ la templo, nek kontraŭ Cezaro, mi pekis entute."
+
+Sed Festus, dezirante akiri favoron ĉe la Judoj, respondis al Paŭlo kaj diris, "Ĉu vi volas iri al Jerusalemo kaj esti juĝita de mi tie pri ĉi tiuj aferoj?"
+
+Sed Paŭlo diris, "Mi staras antaŭ la juĝseĝo de Cezaro, kie mi devus esti juĝita. Mi faris nenion malĝustan al la Judoj, kiel vi ankaŭ tre bone scias. Ĉar se mi faris malĝustaĵon kaj faris ion indan je morto, mi ne rifuzas morti; sed se neniu el tiuj aferoj estas vera, pri kiuj ili akuzas min, neniu povas transdoni min al ili. Mi apelacias al Cezaro!"
+
+Tiam Festus, kiam li konsiliĝis kun la konsilio, respondis, "Vi apelaciis al Cezaro. Al Cezaro vi iros."
+
+Kiam kelkaj tagoj pasis, Reĝo Agripo kaj Bernice alvenis al Cezareo kaj salutis Festuson. Dum li restis tie multajn tagojn, Festus prezentis la kazon de Paŭlo antaŭ la reĝo, dirante, "Estas certa viro lasita kaptito de Felikso; pri kiu, kiam mi estis en Jerusalemo, la ĉefpastroj kaj la pliaĝuloj de la Judoj informis min, petante juĝon kontraŭ li. Mi respondis al ili, ke ne estas la kutimo de la Romianoj transdoni iun ajn al detruo antaŭ ol la akuzito renkontis la akuzantojn vizaĝ-al-vizaĝe kaj havis la ŝancon fari sian defendon pri la afero metita kontraŭ li. Kiam do ili kunvenis ĉi tie, mi ne prokrastis, sed la sekvan tagon sidis sur la juĝseĝo kaj ordonis, ke la viro estu alportita. Kiam la akuzantoj leviĝis, ili ne alportis akuzojn kontraŭ li pri tiaj aferoj, kiel mi supozis; sed havis certajn demandojn kontraŭ li pri sia propra religio kaj pri iu Jesuo, kiu estis mortinta, kiun Paŭlo asertis esti vivanta. Estante konfuzita kiel esplori pri ĉi tiuj aferoj, mi demandis, ĉu li volas iri al Jerusalemo kaj tie esti juĝita pri ĉi tiuj aferoj. Sed kiam Paŭlo apelaciis esti konservita por la decido de la imperiestro, mi ordonis, ke li estu konservita ĝis mi povus sendi lin al Cezaro."
+
+Agripo diris al Festus, "Mi ankaŭ volus aŭdi la viron mem."
+
+"Morgaŭ," li diris, "vi aŭdos lin."
+
+Do la sekvan tagon, kiam Agripo kaj Bernice venis kun granda pompo, kaj ili eniris en la lokon de aŭskultado kun la komandantaj oficiroj kaj la ĉefaj viroj de la urbo, laŭ la ordono de Festus, Paŭlo estis alportita. Festus diris, "Reĝo Agripo, kaj ĉiuj viroj, kiuj estas ĉi tie ĉeestantaj kun ni, vi vidas ĉi tiun viron, pri kiu la tuta amaso de la Judoj petis min, kaj en Jerusalemo kaj ĉi tie, kriante, ke li ne devus plu vivi. Sed kiam mi trovis, ke li faris nenion indan je morto, kaj ĉar li mem apelaciis al la imperiestro, mi decidis sendi lin, pri kiu mi havas nenion certan por skribi al mia sinjoro. Tial mi alportis lin antaŭ vi, kaj precipe antaŭ vi, Reĝo Agripo, ke post ekzameno mi havu ion por skribi. Ĉar ŝajnas al mi malracie, sendante kaptiton, ne ankaŭ precizigi la akuzojn kontraŭ li."
+
+### Ĉapitro 26
+
+Agrippa diris al Paŭlo, "Vi povas paroli por vi mem."
+
+Tiam Paŭlo etendis sian manon kaj faris sian defendon. "Mi opinias min feliĉa, reĝo Agrippa, ke mi povas fari mian defendon antaŭ vi hodiaŭ pri ĉiuj aferoj, pri kiuj mi estas akuzita de la Judoj, precipe ĉar vi estas sperta en ĉiuj kutimoj kaj demandoj, kiuj estas inter la Judoj. Tial mi petas vin aŭskulti min pacience.
+
+"Efektive, ĉiuj Judoj konas mian vivmanieron ekde mia juneco, kiu estis de la komenco inter mia propra nacio kaj en Jerusalemo; konante min de la unua, se ili volas atesti, ke laŭ la plej strikta sekto de nia religio mi vivis Fariseo. Nun mi staras ĉi tie por esti juĝita pro la espero de la promeso farita de Dio al niaj patroj, kiun niaj dek du triboj, fervore servante nokte kaj tage, esperas atingi. Pri ĉi tiu espero mi estas akuzita de la Judoj, reĝo Agrippa! Kial estas juĝite nekredeble ĉe vi se Dio levas la mortintojn?
+
+"Mi mem certe pensis, ke mi devas fari multajn aferojn kontraŭe al la nomo de Jesuo el Nazareto. Mi ankaŭ faris tion en Jerusalemo. Mi ambaŭ enprizonigis multajn el la sanktuloj, ricevante aŭtoritaton de la ĉefpastroj; kaj kiam ili estis mortigitaj, mi donis mian voĉon kontraŭ ili. Punante ilin ofte en ĉiuj sinagogoj, mi provis igi ilin blasfemi. Estante ekstreme kolera kontraŭ ili, mi persekutis ilin eĉ al fremdaj urboj.
+
+"Kie mi vojaĝis al Damasko kun la aŭtoritato kaj komisio de la ĉefpastroj, tagmeze, ho reĝo, mi vidis sur la vojo lumon el la ĉielo, pli brilan ol la suno, brilantan ĉirkaŭ mi kaj tiujn, kiuj vojaĝis kun mi. Kiam ni ĉiuj falis al la tero, mi aŭdis voĉon dirantan al mi en la hebrea lingvo, 'Saŭlo, Saŭlo, kial vi persekutas min? Estas malfacile por vi piedbati kontraŭ la pikiloj.'
+
+"Mi diris, 'Kiu vi estas, Sinjoro?'
+
+"Li diris, 'Mi estas Jesuo, kiun vi persekutas. Sed leviĝu, kaj staru sur viaj piedoj, ĉar mi aperis al vi por ĉi tiu celo: nomumi vin servanto kaj atestanto de la aferoj, kiujn vi vidis kaj de la aferoj, kiujn mi malkaŝos al vi; liberigante vin de la popolo kaj de la nacianoj, al kiuj mi sendas vin, por malfermi iliajn okulojn, ke ili turniĝu de mallumo al lumo kaj de la potenco de Satano al Dio, ke ili ricevu pardonon de pekoj kaj heredaĵon inter tiuj, kiuj estas sanktigitaj per fido en mi.'
+
+"Tial, reĝo Agrippa, mi ne estis malobeema al la ĉiela vizio, sed deklaris unue al ili de Damasko, en Jerusalemo, kaj tra la tuta lando de Judujo, kaj ankaŭ al la nacianoj, ke ili pentu kaj turniĝu al Dio, farante farojn indajn de pento. Pro ĉi tiu kialo la Judoj kaptis min en la templo kaj provis mortigi min. Havante do la helpon, kiu estas de Dio, mi staras ĝis hodiaŭ atestante al malgrandaj kaj grandaj, dirante nenion krom tio, kion la profetoj kaj Moseo diris, ke okazus, kiel la Kristo devas suferi, kaj kiel, per la releviĝo de la mortintoj, li estus la unua por proklami lumon al ĉi tiuj homoj kaj al la nacianoj."
+
+Dum li tiel faris sian defendon, Festus diris laŭte, "Paŭlo, vi estas freneza! Via granda lernado igas vin freneza!"
+
+Sed li diris, "Mi ne estas freneza, plej eminenta Festus, sed kuraĝe deklaras vortojn de vero kaj racieco. Ĉar la reĝo scias pri ĉi tiuj aferoj, al kiu mi ankaŭ parolas libere. Ĉar mi estas konvinkita, ke nenio el ĉi tiuj aferoj estas kaŝita de li, ĉar ĉi tio ne estis farita en angulo. Reĝo Agrippa, ĉu vi kredas la profetojn? Mi scias, ke vi kredas."
+
+Agrippa diris al Paŭlo, "Kun iom da persvado ĉu vi provas fari min kristano?"
+
+Paŭlo diris, "Mi preĝas al Dio, ke ĉu kun iom aŭ kun multe, ne nur vi, sed ankaŭ ĉiuj, kiuj aŭdas min hodiaŭ, povu fariĝi kiel mi, krom ĉi tiuj katenoj."
+
+La reĝo leviĝis kun la guberniestro kaj Bernice, kaj tiuj, kiuj sidis kun ili. Kiam ili retiriĝis, ili parolis unu al la alia, dirante, "Ĉi tiu viro faras nenion inda je morto aŭ de katenoj." Agrippa diris al Festus, "Ĉi tiu viro povus esti liberigita se li ne apelaciis al Cezaro."
+
+### Ĉapitro 27
+
+Kiam oni decidis, ke ni devus veli al Italio, ili transdonis Paŭlon kaj kelkajn aliajn malliberulojn al centestro nomata Julio, de la Augusta kohorto. Enŝipiĝante en ŝipo de Adramitio, kiu estis preta veli al lokoj ĉe la marbordo de Azio, ni ekvelis, Aristarko, Makedono el Tesaloniko, estante kun ni. La sekvan tagon, ni atingis Sidonon. Julio traktis Paŭlon afable kaj donis al li permeson iri al siaj amikoj kaj refreŝigi sin. Ekvelante de tie, ni velis sub la ŝirmo de Kipro, ĉar la ventoj estis kontraŭaj. Kiam ni transvelis la maron, kiu estas apud Kilikio kaj Pamfilio, ni venis al Mira, urbo de Licio. Tie la centestro trovis ŝipon de Aleksandrio velantan al Italio, kaj li enŝipigis nin. Kiam ni velis malrapide dum multaj tagoj, kaj kun malfacileco venis kontraŭ Knido, la vento ne permesante al ni plu, ni velis sub la ŝirmo de Kreto, kontraŭ Salmone. Kun malfacileco velante laŭ ĝi, ni venis al certa loko nomata Belaj Havenoj, proksime al la urbo Lasea.
+
+Kiam multe da tempo pasis kaj la vojaĝo nun estis danĝera ĉar la Fasto jam pasis, Paŭlo admonis ilin kaj diris al ili: “Sinjoroj, mi perceptas, ke la vojaĝo estos kun vundo kaj granda perdo, ne nur de la kargo kaj la ŝipo, sed ankaŭ de niaj vivoj.” Sed la centestro pli atentis la mastron kaj la posedanton de la ŝipo ol tiujn aferojn, kiujn diris Paŭlo. Ĉar la haveno ne estis taŭga por vintri, la plimulto konsilis ekveladon de tie, se per iu ajn rimedo ili povus atingi Fenikson kaj vintri tie, kiu estas haveno de Kreto, rigardante sudokcidenten kaj nordokcidenten.
+
+Kiam la suda vento blovis milde, supozante, ke ili atingis sian celon, ili levankris kaj velis laŭ Kreto, proksime al la bordo. Sed baldaŭ, ŝtorma vento batis de la bordo, kiu estas nomata Eŭroklidono. Kiam la ŝipo estis kaptita kaj ne povis fronti la venton, ni cedis al ĝi kaj estis pelataj. Kurante sub la ŝirmo de malgranda insulo nomata Klaŭda, ni povis, kun malfacileco, sekurigi la boaton. Post kiam ili levis ĝin, ili uzis kablojn por helpi fortigi la ŝipon. Timante, ke ili surteriĝos sur la Sirta sablobaroj, ili malaltigis la marankron, kaj tiel estis pelataj. Dum ni laboradis ekstreme kun la ŝtormo, la sekvan tagon ili komencis ĵeti aĵojn eksteren. La trian tagon, ili elĵetis la ŝipajn ilojn per siaj propraj manoj. Kiam nek suno nek steloj brilis sur ni dum multaj tagoj, kaj neniu malgranda ŝtormo premis sur nin, ĉiu espero, ke ni estus savitaj, nun estis forprenita.
+
+Kiam ili longe estis sen manĝaĵo, Paŭlo stariĝis en la mezo de ili kaj diris: “Sinjoroj, vi devus aŭskulti min, kaj ne ekvelis el Kreto kaj ricevis ĉi tiun vundon kaj perdon. Nun mi instigas vin ĝoji, ĉar ne estos perdo de vivo inter vi, sed nur de la ŝipo. Ĉar staris apud mi ĉi-nokte anĝelo, apartenanta al la Dio, kies mi estas kaj kiun mi servas, dirante, ‘Ne timu, Paŭlo. Vi devas stari antaŭ Cezaro. Jen, Dio donis al vi ĉiujn, kiuj velas kun vi.’ Tial, sinjoroj, ĝoju! Ĉar mi kredas Dion, ke ĝi estos ĝuste kiel ĝi estis dirita al mi. Sed ni devas surteriĝi sur certa insulo.”
+
+Sed kiam la dek-kvara nokto venis, dum ni estis pelataj tien kaj reen en la Adriatika Maro, ĉirkaŭ noktomezo la maristoj supozis, ke ili proksimiĝas al iu tero. Ili prenis sondejojn kaj trovis dudek fadojn. Post iom da tempo, ili prenis sondejojn denove, kaj trovis dek kvin fadojn. Timante, ke ni surteriĝos sur roka grundo, ili lasis kvar ankrojn de la postaĵo, kaj deziris taglumon. Dum la maristoj provis fuĝi el la ŝipo kaj malaltigis la boaton en la maron, pretendante, ke ili metos ankrojn de la pruo, Paŭlo diris al la centestro kaj al la soldatoj, “Se ĉi tiuj ne restos en la ŝipo, vi ne povas esti savitaj.” Tiam la soldatoj tranĉis la ŝnurojn de la boato kaj lasis ĝin fali.
+
+Dum la tago venis, Paŭlo petis ilin ĉiujn preni iom da manĝaĵo, dirante, “Hodiaŭ estas la dek-kvara tago, ke vi atendas kaj daŭrigas fastadon, nenion preninte. Tial mi petas vin preni iom da manĝaĵo, ĉar ĉi tio estas por via sekureco; ĉar ne haro pereos de iu el viaj kapoj.” Kiam li diris tion kaj prenis panon, li dankis Dion en la ĉeesto de ĉiuj; tiam li rompis ĝin kaj komencis manĝi. Tiam ili ĉiuj ĝojis, kaj ili ankaŭ prenis manĝaĵon. Entute, ni estis ducent sepdek ses animoj sur la ŝipo. Kiam ili manĝis sufiĉe, ili malpezigis la ŝipon, ĵetante la tritikon en la maron. Kiam estis tago, ili ne rekonis la teron, sed ili rimarkis certan golfon kun plaĝo, kaj ili decidis provi direkti la ŝipon sur ĝin. Forĵetante la ankrojn, ili lasis ilin en la maro, samtempe malligante la rudroŝnurojn. Levente la antaŭvelon al la vento, ili direktis sin al la plaĝo. Sed venante al loko, kie du maroj renkontiĝis, ili surteriĝis la ŝipon. La pruo frapis kaj restis nemovebla, sed la postaĵo komencis rompiĝi pro la forto de la ondoj.
+
+La konsilo de la soldatoj estis mortigi la malliberulojn, por ke neniu el ili naĝu kaj eskapu. Sed la centestro, dezirante savi Paŭlon, malhelpis ilin de ilia celo, kaj ordonis, ke tiuj, kiuj povis naĝi, ĵetu sin unue en la maron por iri al la tero; kaj la ceteraj sekvu, iuj sur tabuloj kaj iuj sur aliaj aĵoj de la ŝipo. Tiel ili ĉiuj saviĝis sekure al la tero.
+
+### Ĉapitro 28
+
+Kiam ni estis eskapintaj, tiam ili eksciis, ke la insulo nomiĝis Malto. La indiĝenoj montris al ni nekutiman afablecon; ĉar ili ekbruligis fajron kaj akceptis nin ĉiujn, pro la nuna pluvo kaj pro la malvarmo. Sed kiam Paŭlo kolektis faskon da branĉoj kaj metis ilin sur la fajron, vipuro eliris pro la varmo kaj alkroĉiĝis al lia mano. Kiam la indiĝenoj vidis la estaĵon pendi de lia mano, ili diris unu al la alia, "Sendube ĉi tiu viro estas murdisto, kiun, kvankam li eskapis el la maro, tamen Justeco ne permesis vivi." Tamen li forĵetis la estaĵon en la fajron, kaj ne estis damaĝita. Sed ili atendis, ke li ŝvelos aŭ subite falos morta, sed kiam ili rigardis dum longa tempo kaj vidis nenion malbonan okazi al li, ili ŝanĝis sian opinion kaj diris, ke li estas dio.
+
+Nun en la najbareco de tiu loko estis teroj apartenantaj al la ĉefa viro de la insulo, nomata Publio, kiu akceptis nin kaj ĝentile gastigis nin dum tri tagoj. La patro de Publio kuŝis malsana pro febro kaj disenterio. Paŭlo eniris al li, preĝis, kaj metante siajn manojn sur lin, resanigis lin. Tiam kiam tio estis farita, ankaŭ la ceteraj, kiuj havis malsanojn en la insulo, venis kaj estis resanigitaj. Ili ankaŭ honoris nin per multaj honoroj; kaj kiam ni ekvelis, ili metis surŝipe la aferojn, kiujn ni bezonis.
+
+Post tri monatoj, ni ekvelis en ŝipo de Aleksandrio, kiu estis vintruminta en la insulo, kies figuraĵo estis "La Du Fratoj." Tuŝante ĉe Sirakuzo, ni restis tie tri tagojn. De tie ni ĉirkaŭiris kaj alvenis al Reĝo. Post unu tago, suda vento ekblovis, kaj en la dua tago ni venis al Puteoli, kie ni trovis fratojn, kaj estis petataj resti kun ili dum sep tagoj. Tiel ni venis al Romo. De tie la fratoj, kiam ili aŭdis pri ni, venis renkonti nin ĝis la Merkato de Apio kaj la Tri Tavernoj. Kiam Paŭlo vidis ilin, li dankis Dion kaj kuraĝiĝis. Kiam ni eniris en Romon, la centestro transdonis la kaptitojn al la kapitano de la gardistaro, sed Paŭlo estis permesita resti sola kun la soldato, kiu gardis lin.
+
+Post tri tagoj Paŭlo kunvokis tiujn, kiuj estis la gvidantoj de la Judoj. Kiam ili kunvenis, li diris al ili, "Mi, fratoj, kvankam mi faris nenion kontraŭ la popolo aŭ la kutimoj de niaj patroj, tamen estis transdonita kaptito el Jerusalemo en la manojn de la Romanoj, kiuj, kiam ili ekzamenis min, deziris liberigi min, ĉar ne estis kaŭzo de morto en mi. Sed kiam la Judoj parolis kontraŭ ĝi, mi estis devigita apelacii al Cezaro, ne ke mi havis ion pri kio akuzi mian nacion. Pro ĉi tiu kaŭzo do mi petis vidi vin kaj paroli kun vi. Ĉar pro la espero de Izrael mi estas ligita per ĉi tiu ĉeno."
+
+Ili diris al li, "Ni nek ricevis leterojn el Judeo pri vi, nek iu el la fratoj venis ĉi tien kaj raportis aŭ parolis iun malbonon pri vi. Sed ni deziras aŭdi de vi, kion vi pensas. Ĉar, rilate al ĉi tiu sekto, estas konate al ni, ke ĉie ĝi estas kontraŭparolata."
+
+Kiam ili nomumis al li tagon, multaj homoj venis al li en lia loĝejo. Li klarigis al ili, atestante pri la Regno de Dio, kaj persvadante ilin pri Jesuo, kaj el la leĝo de Moseo kaj el la profetoj, de mateno ĝis vespero. Kelkaj kredis la aferojn, kiuj estis parolitaj, kaj kelkaj ne kredis. Kiam ili ne konsentis inter si, ili foriris post kiam Paŭlo parolis unu mesaĝon: "La Sankta Spirito parolis ĝuste per Jesaja la profeto al niaj patroj, dirante,
+
+'Iru al ĉi tiu popolo kaj diru,
+
+aŭdante, vi aŭdos,
+
+sed neniel komprenos.
+
+Vidante, vi vidos,
+
+sed neniel perceptos.
+
+Ĉar la koro de ĉi tiu popolo fariĝis kaleca.
+
+Iliaj oreloj estas obtuzaj de aŭdado.
+
+Iliaj okuloj ili fermis.
+
+Por ke ili ne vidu per siaj okuloj,
+
+aŭdu per siaj oreloj,
+
+komprenu per sia koro,
+
+kaj turnu sin denove,
+
+tiam mi resanigus ilin.'
+
+"Sciu do al vi, ke la savo de Dio estas sendita al la nacioj, kaj ili aŭskultos."
+
+Kiam li diris ĉi tiujn vortojn, la Judoj foriris, havante grandan disputon inter si.
+
+Paŭlo restis du plenajn jarojn en sia propra luita domo kaj akceptis ĉiujn, kiuj venis al li, predikante la Regnon de Dio kaj instruante la aferojn pri la Sinjoro Jesuo Kristo kun tuta kuraĝo, sen malhelpo.
+
+## Romanoj
+
+La Letero de Paŭlo al la Romanoj
+
+### Ĉapitro 1
+
+Paŭlo, servisto de Jesuo Kristo, vokita esti apostolo, apartigita por la Bona Novaĵo de Dio, kiun li promesis antaŭe per siaj profetoj en la sanktaj Skriboj, pri sia Filo, kiu naskiĝis el la idaro de David laŭ la karno, kiu estis deklarita esti la Filo de Dio kun potenco laŭ la Spirito de sankteco, per la releviĝo el la mortintoj, Jesuo Kristo nia Sinjoro, per kiu ni ricevis gracon kaj apostolecon por obeo de fido inter ĉiuj nacioj pro lia nomo; inter kiuj vi ankaŭ estas vokitaj aparteni al Jesuo Kristo; al ĉiuj, kiuj estas en Romo, amataj de Dio, vokitaj esti sanktuloj: Graco al vi kaj paco de Dio nia Patro kaj la Sinjoro Jesuo Kristo.
+
+Unue, mi dankas mian Dion per Jesuo Kristo pro ĉiuj vi, ke via fido estas proklamita tra la tuta mondo. Ĉar Dio estas mia atestanto, kiun mi servas en mia spirito en la Bona Novaĵo de lia Filo, kiel senĉese mi mencias vin ĉiam en miaj preĝoj, petante, se per iu ajn rimedo nun fine mi povus prosperi laŭ la volo de Dio veni al vi. Ĉar mi sopiras vidi vin, ke mi povu transdoni al vi ian spiritan donacon, por ke vi estu firmigitaj; tio estas, ke mi kun vi povu esti kuraĝigita en vi, ĉiu el ni per la fido de la alia, kaj via kaj mia.
+
+Nun mi ne deziras, ke vi estu nekonsciaj, fratoj, ke mi ofte planis veni al vi (kaj estis malhelpita ĝis nun), ke mi povu havi ian frukton inter vi ankaŭ, same kiel inter la ceteraj Gentiloj. Mi estas ŝuldanto al ambaŭ Grekoj kaj al fremduloj, al ambaŭ saĝuloj kaj al malsaĝuloj. Do kiom ajn estas en mi, mi estas fervora prediki la Bonan Novaĵon al vi ankaŭ, kiuj estas en Romo.
+
+Ĉar mi ne hontas pri la Bona Novaĵo de Kristo, ĉar ĝi estas la potenco de Dio por savo por ĉiu, kiu kredas, unue por la Judo, kaj ankaŭ por la Greko. Ĉar en ĝi estas malkaŝita la justeco de Dio de fido al fido. Kiel estas skribite, "Sed la justa vivos per fido."
+
+Ĉar la kolero de Dio estas malkaŝita el la ĉielo kontraŭ ĉia malpieco kaj maljusteco de homoj, kiuj subpremas la veron en maljusteco, ĉar tio, kio estas konata pri Dio, estas malkaŝita en ili, ĉar Dio malkaŝis ĝin al ili. Ĉar la nevideblaj aferoj de li ekde la kreado de la mondo estas klare videblaj, perceptataj tra la aferoj, kiuj estas faritaj, eĉ lia eterna potenco kaj dieco, por ke ili estu senkulpaj. Ĉar konante Dion, ili ne gloris lin kiel Dion, kaj ne dankis, sed fariĝis vanaj en siaj rezonoj, kaj ilia sensenca koro mallumiĝis.
+
+Deklarante sin saĝaj, ili fariĝis malsaĝuloj, kaj interŝanĝis la gloron de la nekoruptebla Dio kontraŭ la simileco de bildo de koruptebla homo, kaj de birdoj, kvarpiedaj bestoj, kaj rampaj aferoj. Tial Dio ankaŭ fordonis ilin en la deziroj de iliaj koroj al malpureco, ke iliaj korpoj estu malhonoritaj inter si; kiuj interŝanĝis la veron de Dio kontraŭ mensogo, kaj adoris kaj servis la kreitaĵon prefere ol la Kreinto, kiu estas benita eterne. Amen.
+
+Pro ĉi tiu kialo, Dio fordonis ilin al malnoblaj pasioj. Ĉar iliaj virinoj ŝanĝis la naturan funkcion en tion, kio estas kontraŭ naturo. Same ankaŭ la viroj, forlasante la naturan funkcion de la virino, brulis en sia deziro unu al la alia, viroj farante tion, kio estas malkonvena kun viroj, kaj ricevante en si mem la konvenan punon de sia eraro. Eĉ kiam ili rifuzis havi Dion en sia scio, Dio fordonis ilin al malaprobinda menso, por fari tiujn aferojn, kiuj ne taŭgas; plenaj de ĉia maljusteco, seksa malmoraleco, malboneco, avideco, malico; plenaj de envio, murdo, malpaco, trompo, malbonaj kutimoj, sekretaj kalumniantoj, malantaŭparolantoj, malame al Dio, arogantaj, fanfaronemaj, inventistoj de malbonaj aferoj, malobeemaj al gepatroj, senkomprenaj, rompiloj de interkonsentoj, sen natura amo, neforgivemaj, nemizerikordaj; kiuj, konante la ordonon de Dio, ke tiuj, kiuj praktikas tiajn aferojn, estas indaj je morto, ne nur faras la samon, sed ankaŭ aprobas tiujn, kiuj praktikas ilin.
+
+### Ĉapitro 2
+
+Tial vi estas senkulpigebla, ho homo, kiu ajn vi estas, kiu juĝas. Ĉar en tio, kion vi juĝas alian, vi kondamnas vin mem. Ĉar vi, kiu juĝas, praktikas la samajn aferojn. Ni scias, ke la juĝo de Dio estas laŭ vero kontraŭ tiuj, kiuj praktikas tiajn aferojn. Ĉu vi pensas ĉi tion, ho homo, kiu juĝas tiujn, kiuj praktikas tiajn aferojn, kaj faras la samon, ke vi eskapos la juĝon de Dio? Aŭ ĉu vi malestimas la riĉecon de lia boneco, toleremo, kaj pacienco, ne sciante, ke la boneco de Dio kondukas vin al pento? Sed laŭ via malmoleco kaj nepentema koro vi amasigas por vi mem koleron en la tago de kolero, revelacio, kaj de la justa juĝo de Dio, kiu "repagos al ĉiu laŭ iliaj faroj": al tiuj, kiuj per persisto en bonfarado serĉas gloron, honoron, kaj neputrecon, eternan vivon; sed al tiuj, kiuj estas egoismaj kaj ne obeas la veron, sed obeas maljustecon, estos kolero, indigno, premo, kaj angoro sur ĉiu animo de homo, kiu faras malbonon, al la Judo unue, kaj ankaŭ al la Greko.
+
+Sed gloro, honoro, kaj paco iras al ĉiu homo, kiu faras bonon, al la Judo unue, kaj ankaŭ al la Greko. Ĉar ne estas partiaĵo ĉe Dio. Ĉar tiom multaj, kiuj pekis sen la leĝo, ankaŭ pereos sen la leĝo. Tiom multaj, kiuj pekis sub la leĝo, estos juĝitaj per la leĝo. Ĉar ne estas la aŭdantoj de la leĝo, kiuj estas justaj antaŭ Dio, sed la farantoj de la leĝo estos pravigitaj (ĉar kiam la Gentiloj, kiuj ne havas la leĝon, faras nature la aferojn de la leĝo, ĉi tiuj, ne havante la leĝon, estas leĝo al si mem, en tio, ke ili montras la laboron de la leĝo skribitan en siaj koroj, ilia konscienco atestante kun ili, kaj iliaj pensoj inter si mem akuzante aŭ alie senkulpigante ilin) en la tago, kiam Dio juĝos la sekretojn de homoj, laŭ mia Bona Novaĵo, per Jesuo Kristo.
+
+Efektive vi portas la nomon de Judo, ripozas sur la leĝo, gloras en Dio, konas lian volon, kaj aprobas la aferojn, kiuj estas bonegaj, estante instruita el la leĝo, kaj estas certa, ke vi mem estas gvidilo de la blinduloj, lumo al tiuj, kiuj estas en mallumo, korektanto de la malsaĝuloj, instruisto de beboj, havante en la leĝo la formon de scio kaj de la vero. Vi do, kiu instruas alian, ĉu vi ne instruas vin mem? Vi, kiu predikas, ke homo ne ŝtelu, ĉu vi ŝtelas? Vi, kiu diras, ke homo ne adultu, ĉu vi adultas? Vi, kiu abomenas idolojn, ĉu vi rabas templojn? Vi, kiu gloras en la leĝo, ĉu vi malhonoras Dion per malobeado de la leĝo? Ĉar "la nomo de Dio estas blasfemata inter la Gentiloj pro vi," kiel estas skribite. Ĉar cirkumcido efektive profitas, se vi estas faranto de la leĝo, sed se vi estas transgresanto de la leĝo, via cirkumcido fariĝis necirkumcido. Se do la necirkumciditaj observas la ordonojn de la leĝo, ĉu lia necirkumcido ne estos kalkulita kiel cirkumcido? Ĉu tiuj, kiuj estas fizike necirkumciditaj, sed plenumas la leĝon, ne juĝos vin, kiu kun la letero kaj cirkumcido estas transgresanto de la leĝo? Ĉar li ne estas Judo, kiu estas unu ekstere, nek estas tio cirkumcido, kiu estas ekstere en la karno; sed li estas Judo, kiu estas unu interne, kaj cirkumcido estas tio de la koro, en la spirito, ne en la letero; kies laŭdo ne estas de homoj, sed de Dio.
+
+### Ĉapitro 3
+
+Do, kia do estas la avantaĝo de la Judo? Aŭ kia estas la profito de cirkumcido? Multa en ĉiu maniero! Ĉar antaŭ ĉio, al ili estis konfiditaj la revelacioj de Dio. Ĉu kio do, se iuj estis sen fido? Ĉu ilia manko de fido nuligos la fidelecon de Dio? Neniam estu! Jes, Dio estu trovita vera, sed ĉiu homo mensoganto. Kiel estas skribite,
+
+"por ke vi estu pravigita en viaj vortoj,
+
+kaj povu venki kiam vi venos en juĝon."
+
+Sed se nia maljusteco rekomendas la justecon de Dio, kion ni diros? Ĉu Dio estas maljusta, kiu alportas koleron? Mi parolas kiel homoj faras. Neniam estu! Ĉar tiam kiel Dio juĝos la mondon? Ĉar se la vero de Dio per mia mensogo abundis al Lia gloro, kial mi ankaŭ ankoraŭ estas juĝata kiel pekulo? Kial ne (kiel ni estas kalumnie raportitaj, kaj kiel iuj asertas, ke ni diras), "Ni faru malbonon, por ke bono venu?" Tiuj, kiuj tiel diras, estas juste kondamnitaj.
+
+Kio do? Ĉu ni estas pli bonaj ol ili? Ne, neniel. Ĉar ni antaŭe avertis kaj Judojn kaj Grekojn, ke ili ĉiuj estas sub peko. Kiel estas skribite,
+
+"Estas neniu justa;
+
+ne, eĉ ne unu.
+
+Estas neniu, kiu komprenas.
+
+Estas neniu, kiu serĉas Dion.
+
+Ili ĉiuj foriĝis.
+
+Ili kune fariĝis senprofitaj.
+
+Estas neniu, kiu faras bonon,
+
+ne, eĉ ne unu."
+
+"Ili gorĝo estas malfermita tombo.
+
+Per siaj langoj ili uzis trompon."
+
+"La veneno de vipuroj estas sub iliaj lipoj."
+
+"Ili buŝo estas plena de malbeno kaj amareco."
+
+"Ili piedoj estas rapidaj por verŝi sangon.
+
+Detruo kaj mizero estas en iliaj vojoj.
+
+La vojon de paco, ili ne konis."
+
+"Estas neniu timo de Dio antaŭ iliaj okuloj."
+
+Nun ni scias, ke kion ajn la leĝo diras, ĝi parolas al tiuj, kiuj estas sub la leĝo, por ke ĉiu buŝo estu fermita, kaj la tuta mondo estu alportita sub la juĝon de Dio. Ĉar per la faroj de la leĝo, neniu karno estos pravigita en Lia vido; ĉar per la leĝo venas la scio de peko.
+
+Sed nun aparte de la leĝo, justeco de Dio estis revelaciita, atestita de la leĝo kaj la profetoj; eĉ la justeco de Dio per fido en Jesuo Kristo al ĉiuj kaj sur ĉiuj, kiuj kredas. Ĉar estas neniu distingo, ĉar ĉiuj pekis, kaj mankas al la gloro de Dio; estante pravigitaj senpage per Lia graco tra la elaĉeto, kiu estas en Kristo Jesuo, kiun Dio sendis por esti elaĉeta ofero per fido en Lia sango, por demonstrado de Lia justeco tra la preterlaso de antaŭaj pekoj, en la pacienco de Dio; por demonstri Lian justecon en ĉi tiu nuna tempo, ke Li mem estu justa kaj la praviganto de tiu, kiu havas fidon en Jesuo.
+
+Kie do estas la fanfaronado? Ĝi estas ekskludita. Per kia speco de leĝo? De faroj? Ne, sed per leĝo de fido. Ni do asertas, ke homo estas pravigita per fido aparte de la faroj de la leĝo. Aŭ ĉu Dio estas la Dio de Judoj nur? Ĉu Li ne estas ankaŭ la Dio de Gentiloj? Jes, ankaŭ de Gentiloj, ĉar vere estas unu Dio, kiu pravigos la cirkumciditajn per fido kaj la necirkumciditajn per fido.
+
+Ĉu ni do nuligas la leĝon per fido? Neniam estu! Ne, ni establas la leĝon.
+
+### Ĉapitro 4
+
+Kion do ni diros, ke Abraham, nia praulo, trovis laŭ la karno? Ĉar se Abraham estis pravigita per faroj, li havas ion pri kio fanfaroni, sed ne antaŭ Dio. Ĉar kion diras la Skribo? "Abraham kredis Dion, kaj tio estis kalkulita al li kiel justeco." Nun al tiu, kiu laboras, la rekompenco ne estas kalkulita kiel graco, sed kiel io ŝuldata. Sed al tiu, kiu ne laboras, sed kredas al tiu, kiu pravigas la malpiulojn, lia kredo estas kalkulita kiel justeco. Eĉ kiel David ankaŭ prononcas benon sur la homo, al kiu Dio kalkulas justecon aparte de faroj:
+
+"Benitaj estas tiuj, kies malbonagoj estas pardonitaj,
+
+kies pekoj estas kovritaj.
+
+Benita estas la homo, kiun la Sinjoro neniel akuzos pri peko."
+
+Ĉu ĉi tiu beno do estas prononcita nur sur la cirkumciditoj, aŭ ankaŭ sur la necirkumciditoj? Ĉar ni diras, ke kredo estis kalkulita al Abraham kiel justeco. Kiel do ĝi estis kalkulita? Kiam li estis en cirkumcido, aŭ en necirkumcido? Ne en cirkumcido, sed en necirkumcido. Li ricevis la signon de cirkumcido, sigelon de la justeco de la kredo, kiun li havis dum li estis en necirkumcido, por ke li estu la patro de ĉiuj, kiuj kredas, kvankam ili estu en necirkumcido, por ke justeco ankaŭ estu kalkulita al ili. Li estas la patro de cirkumcido al tiuj, kiuj ne nur estas de la cirkumcido, sed kiuj ankaŭ iras en la paŝoj de tiu kredo de nia patro Abraham, kiun li havis en necirkumcido.
+
+Ĉar la promeso al Abraham kaj al lia idaro, ke li estus heredanto de la mondo, ne estis per la leĝo, sed per la justeco de kredo. Ĉar se tiuj, kiuj estas de la leĝo, estas heredantoj, kredo estas malplenigita, kaj la promeso estas senefika. Ĉar la leĝo produktas koleron; ĉar kie ne estas leĝo, tie ankaŭ ne estas malobeo.
+
+Pro ĉi tiu kaŭzo ĝi estas de kredo, por ke ĝi estu laŭ graco, ĝis la fino, ke la promeso estu certa al ĉiuj idaro, ne nur al tiu, kiu estas de la leĝo, sed ankaŭ al tiu, kiu estas de la kredo de Abraham, kiu estas la patro de ni ĉiuj. Kiel estas skribite, "Mi faris vin patro de multaj nacioj." Ĉi tio estas en la ĉeesto de tiu, kiun li kredis: Dio, kiu donas vivon al la mortintoj, kaj vokas la aferojn, kiuj ne estas, kvazaŭ ili estus. Kontraŭ espero, Abraham en espero kredis, ĝis la fino, ke li povus fariĝi patro de multaj nacioj, laŭ tio, kio estis dirita, "Tiel estos via idaro." Sen esti malfortigita en kredo, li ne konsideris sian propran korpon, jam eluzitan, (li estante ĉirkaŭ centjara), kaj la mortintan uteron de Sara. Tamen, rigardante al la promeso de Dio, li ne hezitis pro nekredemo, sed kreskis forta per kredo, donante gloron al Dio, kaj estante plene certigita, ke kion li promesis, li ankaŭ povis plenumi. Tial ĝi ankaŭ estis "kalkulita al li kiel justeco." Nun ĝi ne estis skribita, ke ĝi estis kalkulita al li por lia propra konsidero, sed por nia konsidero ankaŭ, al kiuj ĝi estos kalkulita, kiuj kredas al tiu, kiu levis Jesuon nian Sinjoron el la mortintoj, kiu estis transdonita pro niaj pekoj, kaj estis levita por nia pravigo.
+
+### Ĉapitro 5
+
+Estante do pravigitaj per kredo, ni havas pacon kun Dio per nia Sinjoro Jesuo Kristo; per kiu ni ankaŭ havas nian aliron per kredo en ĉi tiun gracon, en kiu ni staras. Ni ĝojas en espero de la gloro de Dio. Ne nur tio, sed ni ankaŭ ĝojas en niaj suferoj, sciante, ke sufero produktas persistecon; kaj persisteco, provitan karakteron; kaj provita karaktero, esperon; kaj espero ne seniluziigas nin, ĉar la amo de Dio estis verŝita en niajn korojn per la Sankta Spirito, kiu estis donita al ni.
+
+Ĉar dum ni ankoraŭ estis malfortaj, en la ĝusta tempo Kristo mortis por la malpiuloj. Ĉar oni apenaŭ mortos por justa homo. Tamen eble por bona persono iu eĉ kuraĝus morti. Sed Dio rekomendas sian propran amon al ni, en tio, ke dum ni ankoraŭ estis pekuloj, Kristo mortis por ni.
+
+Des pli do, estante nun pravigitaj per lia sango, ni estos savitaj de la kolero de Dio per li. Ĉar se dum ni estis malamikoj, ni estis repacigitaj kun Dio per la morto de lia Filo, des pli, estante repacigitaj, ni estos savitaj per lia vivo.
+
+Ne nur tiel, sed ni ankaŭ ĝojas en Dio per nia Sinjoro Jesuo Kristo, per kiu ni nun ricevis la repacigon. Tial, kiel peko eniris en la mondon per unu homo, kaj morto per peko, tiel morto pasis al ĉiuj homoj, ĉar ĉiuj pekis. Ĉar ĝis la leĝo, peko estis en la mondo; sed peko ne estas kalkulita, kiam ne estas leĝo. Tamen morto regis de Adamo ĝis Moseo, eĉ super tiuj, kies pekoj ne estis kiel la malobeo de Adamo, kiu estas antaŭfiguro de tiu, kiu estis por veni.
+
+Sed la senpaga donaco ne estas kiel la transgresio. Ĉar se per la transgresio de unu la multaj mortis, des pli la graco de Dio kaj la donaco per la graco de unu homo, Jesuo Kristo, abundis al la multaj. La donaco ne estas kiel per unu, kiu pekis; ĉar la juĝo venis per unu al kondamno, sed la senpaga donaco sekvis multajn transgresiojn al pravigo. Ĉar se per la transgresio de unu, morto regis per unu; des pli tiuj, kiuj ricevas la abundon de graco kaj de la donaco de justeco, regos en vivo per unu, Jesuo Kristo.
+
+Do tiam kiel per unu transgresio, ĉiuj homoj estis kondamnitaj; tiel ankaŭ per unu ago de justeco, ĉiuj homoj estis pravigitaj al vivo. Ĉar kiel per la malobeo de unu homo multaj estis faritaj pekuloj, tiel ankaŭ per la obeo de unu, multaj estos faritaj justaj. La leĝo venis, ke la transgresio povus abundi; sed kie peko abundis, graco abundis pli superabunde, ke kiel peko regis en morto, tiel ankaŭ graco povus regi per justeco al eterna vivo per Jesuo Kristo nia Sinjoro.
+
+### Ĉapitro 6
+
+Kion do ni diros? Ĉu ni restu en peko, por ke graco abundu? Tute ne! Ni, kiuj mortis al peko, kiel ni povus plu vivi en ĝi? Aŭ ĉu vi ne scias, ke ĉiuj ni, kiuj baptiĝis en Kristo Jesuo, baptiĝis en lian morton? Ni do entombiĝis kun li per bapto en morton, por ke, kiel Kristo leviĝis el la mortintoj per la gloro de la Patro, tiel ni ankaŭ iru en noveco de vivo.
+
+Ĉar se ni fariĝis unuiĝintaj kun li en la simileco de lia morto, ni ankaŭ estos parto de lia releviĝo; sciante ĉi tion, ke nia malnova homo estis krucumita kun li, por ke la korpo de peko estu nuligita, tiel ke ni ne plu estu sklavoj de peko. Ĉar tiu, kiu mortis, estas liberigita de peko. Sed se ni mortis kun Kristo, ni kredas, ke ni ankaŭ vivos kun li, sciante, ke Kristo, leviĝinte el la mortintoj, ne plu mortas. La morto ne plu regas super li! Ĉar la morto, kiun li mortis, li mortis al peko unufoje; sed la vivo, kiun li vivas, li vivas al Dio. Tiel konsideru vin ankaŭ mortintaj al peko, sed vivantaj al Dio en Kristo Jesuo, nia Sinjoro.
+
+Tial ne lasu pekon regi en via morta korpo, ke vi obeu ĝin en ĝiaj deziroj. Ankaŭ ne prezentu viajn membrojn al peko kiel ilojn de maljusteco, sed prezentu vin al Dio kiel vivantaj el la mortintoj, kaj viajn membrojn kiel ilojn de justeco al Dio. Ĉar peko ne havos regadon super vi, ĉar vi ne estas sub leĝo, sed sub graco.
+
+Kion do? Ĉu ni peku, ĉar ni ne estas sub leĝo, sed sub graco? Tute ne! Ĉu vi ne scias, ke kiam vi prezentas vin kiel servistoj kaj obeas iun, vi estas la servistoj de tiu, kiun vi obeas, ĉu de peko al morto, aŭ de obeo al justeco? Sed dankon al Dio, ke, kvankam vi estis sklavoj de peko, vi fariĝis obeemaj el la koro al tiu formo de instruado, al kiu vi estis transdonitaj. Estante liberigitaj de peko, vi fariĝis sklavoj de justeco.
+
+Mi parolas en homaj terminoj pro la malforteco de via karno; ĉar kiel vi prezentis viajn membrojn kiel servistoj al malpureco kaj al malboneco sur malboneco, tiel nun prezentu viajn membrojn kiel servistoj al justeco por sanktigo. Ĉar kiam vi estis servistoj de peko, vi estis liberaj de justeco. Kia frukto do vi havis tiam en la aferoj, pri kiuj vi nun hontas? Ĉar la fino de tiuj aferoj estas morto. Sed nun, estante liberigitaj de peko kaj fariĝinte servistoj de Dio, vi havas vian frukton de sanktigo kaj la rezulton de eterna vivo. Ĉar la salajro de peko estas morto, sed la senpaga donaco de Dio estas eterna vivo en Kristo Jesuo, nia Sinjoro.
+
+### Ĉapitro 7
+
+Ĉu vi ne scias, fratoj (ĉar mi parolas al homoj, kiuj konas la leĝon), ke la leĝo havas regadon super homo dum li vivas? Ĉar la virino, kiu havas edzon, estas ligita per leĝo al la edzo dum li vivas, sed se la edzo mortas, ŝi estas liberigita de la leĝo de la edzo. Do se, dum la edzo vivas, ŝi kuniĝas kun alia viro, ŝi estus nomata adultulino. Sed se la edzo mortas, ŝi estas libera de la leĝo, tiel ke ŝi ne estas adultulino, kvankam ŝi kuniĝas kun alia viro. Tial, miaj fratoj, vi ankaŭ estis mortigitaj al la leĝo per la korpo de Kristo, ke vi kuniĝu kun alia, kun tiu, kiu leviĝis el la mortintoj, ke ni povu produkti frukton al Dio. Ĉar kiam ni estis en la karno, la pekaj pasioj, kiuj estis per la leĝo, laboris en niaj membroj por elporti frukton al morto. Sed nun ni estis liberigitaj de la leĝo, mortinte al tio, en kio ni estis tenitaj; tiel ke ni servu en la noveco de la spirito, kaj ne en la malnoveco de la litero.
+
+Kion ni do diros? Ĉu la leĝo estas peko? Neniam estu! Tamen mi ne estus koninta pekon krom per la leĝo. Ĉar mi ne estus koninta avidon, krom se la leĝo diris, "Vi ne avidegu." Sed peko, trovante okazon per la ordono, produktis en mi ĉiajn avidojn. Ĉar aparte de la leĝo, peko estas morta. Mi estis viva aparte de la leĝo iam, sed kiam la ordono venis, peko reviviĝis kaj mi mortis. La ordono, kiu estis por vivo, ĉi tion mi trovis esti por morto; ĉar peko, trovante okazon per la ordono, trompis min, kaj per ĝi mortigis min. Tial la leĝo ja estas sankta, kaj la ordono sankta, justa, kaj bona.
+
+Ĉu do tio, kio estas bona, fariĝis morto por mi? Neniam estu! Sed peko, ke ĝi montru sin esti peko, produktis morton en mi per tio, kio estas bona; ke per la ordono peko fariĝu ekstreme peka. Ĉar ni scias, ke la leĝo estas spirita, sed mi estas karna, vendita sub peko. Ĉar mi ne komprenas, kion mi faras. Ĉar mi ne praktikas tion, kion mi deziras fari; sed tion, kion mi malamas, tion mi faras. Sed se tion, kion mi ne deziras, tion mi faras, mi konsentas al la leĝo, ke ĝi estas bona. Do nun ĝi ne plu estas mi, kiu faras ĝin, sed peko, kiu loĝas en mi. Ĉar mi scias, ke en mi, tio estas, en mia karno, loĝas nenio bona. Ĉar deziro estas ĉe mi, sed mi ne trovas ĝin fari tion, kio estas bona. Ĉar la bona, kiun mi deziras, mi ne faras; sed la malbonon, kiun mi ne deziras, tion mi praktikas. Sed se tion, kion mi ne deziras, tion mi faras, ĝi ne plu estas mi, kiu faras ĝin, sed peko, kiu loĝas en mi. Mi trovas do la leĝon, ke, dum mi deziras fari bonon, malbono estas ĉeestanta. Ĉar mi ĝojas en la leĝo de Dio laŭ la interna homo, sed mi vidas alian leĝon en miaj membroj, militan kontraŭ la leĝo de mia menso, kaj kaptantan min sub la leĝo de peko, kiu estas en miaj membroj. Kia mizera homo mi estas! Kiu liberigos min el la korpo de ĉi tiu morto? Mi dankas Dion per Jesuo Kristo, nia Sinjoro! Do tiam kun la menso, mi mem servas la leĝon de Dio, sed kun la karno, la leĝon de peko.
+
+### Ĉapitro 8
+
+Estas do nun nenia kondamno por tiuj, kiuj estas en Kristo Jesuo, kiuj ne iras laŭ la karno, sed laŭ la Spirito. Ĉar la leĝo de la Spirito de vivo en Kristo Jesuo liberigis min de la leĝo de peko kaj de morto. Ĉar tio, kion la leĝo ne povis fari, ĉar ĝi estis malforta pro la karno, Dio faris, sendante sian propran Filon en la simileco de pekema karno kaj pro peko, Li kondamnis pekon en la karno, por ke la ordono de la leĝo estu plenumita en ni, kiuj ne iras laŭ la karno, sed laŭ la Spirito. Ĉar tiuj, kiuj vivas laŭ la karno, pensas pri la aferoj de la karno, sed tiuj, kiuj vivas laŭ la Spirito, pri la aferoj de la Spirito. Ĉar la menso de la karno estas morto, sed la menso de la Spirito estas vivo kaj paco; ĉar la menso de la karno estas malamika kontraŭ Dio, ĉar ĝi ne estas submetita al la leĝo de Dio, nek povas esti. Tiuj, kiuj estas en la karno, ne povas plaĉi al Dio.
+
+Sed vi ne estas en la karno, sed en la Spirito, se tiel estas, ke la Spirito de Dio loĝas en vi. Sed se iu ne havas la Spiriton de Kristo, li ne estas Lia. Se Kristo estas en vi, la korpo estas morta pro peko, sed la spirito estas viva pro justeco. Sed se la Spirito de Tiu, kiu levis Jesuon el la mortintoj, loĝas en vi, Tiu, kiu levis Kriston Jesuon el la mortintoj, ankaŭ donos vivon al viaj mortemaj korpoj per Sia Spirito, kiu loĝas en vi.
+
+Do, fratoj, ni estas ŝuldantoj, ne al la karno, por vivi laŭ la karno. Ĉar se vi vivas laŭ la karno, vi devas morti; sed se per la Spirito vi mortigas la farojn de la korpo, vi vivos. Ĉar tiom da homoj, kiom estas gvidataj de la Spirito de Dio, tiuj estas infanoj de Dio. Ĉar vi ne ricevis la spiriton de sklaveco denove al timo, sed vi ricevis la Spiriton de adopto, per kiu ni krias, "Abba! Patro!"
+
+La Spirito mem atestas kun nia spirito, ke ni estas infanoj de Dio; kaj se infanoj, tiam heredantoj—heredantoj de Dio kaj kunheredantoj kun Kristo, se vere ni suferas kun Li, ke ni ankaŭ estu glorataj kun Li.
+
+Ĉar mi konsideras, ke la suferoj de ĉi tiu nuna tempo ne estas indaj esti komparitaj kun la gloro, kiu estos malkaŝita al ni. Ĉar la kreitaĵo atendas kun fervora atendo la infanojn de Dio esti malkaŝitaj. Ĉar la kreitaĵo estis submetita al vanteco, ne laŭ sia propra volo, sed pro Tiu, kiu submetis ĝin, en espero, ke la kreitaĵo mem ankaŭ estos liberigita de la sklaveco de kadukiĝo en la liberecon de la gloro de la infanoj de Dio. Ĉar ni scias, ke la tuta kreitaĵo ĝemas kaj doloras kune ĝis nun. Ne nur tiel, sed ankaŭ ni mem, kiuj havas la unuajn fruktojn de la Spirito, eĉ ni mem ĝemas en ni mem, atendante adopton, la elaĉeton de nia korpo. Ĉar ni estis savitaj en espero, sed espero, kiu estas vidata, ne estas espero. Ĉar kiu esperas por tio, kion li vidas? Sed se ni esperas por tio, kion ni ne vidas, ni atendas ĝin kun pacienco.
+
+Same, la Spirito ankaŭ helpas niajn malfortojn, ĉar ni ne scias kiel preĝi kiel ni devus. Sed la Spirito mem faras intercesion por ni kun ĝemoj, kiuj ne povas esti eldirataj. Tiu, kiu esploras la korojn, scias, kio estas en la menso de la Spirito, ĉar Li faras intercesion por la sanktuloj laŭ Dio.
+
+Ni scias, ke ĉiuj aferoj kunlaboras por bono por tiuj, kiuj amas Dion, por tiuj, kiuj estas vokitaj laŭ Lia celo. Ĉar kiun Li antaŭkonis, Li ankaŭ antaŭdestinis esti konformita al la bildo de Lia Filo, ke Li estu la unuenaskito inter multaj fratoj. Kiun Li antaŭdestinis, tiujn Li ankaŭ vokis. Kiun Li vokis, tiujn Li ankaŭ justigis. Kiun Li justigis, tiujn Li ankaŭ glorigis.
+
+Kion do ni diru pri ĉi tiuj aferoj? Se Dio estas por ni, kiu povas esti kontraŭ ni? Tiu, kiu ne ŝparis Sian propran Filon, sed liveris Lin por ni ĉiuj, kiel Li ne ankaŭ kun Li libere donos al ni ĉiujn aferojn? Kiu povus akuzi la elektitojn de Dio? Estas Dio, kiu justigas. Kiu estas tiu, kiu kondamnas? Estas Kristo, kiu mortis, jes pli, kiu estis levita el la mortintoj, kiu estas ĉe la dekstra mano de Dio, kiu ankaŭ faras intercesion por ni.
+
+Kiu apartigos nin de la amo de Kristo? Ĉu premo, aŭ angoro, aŭ persekutado, aŭ malsato, aŭ nudecon, aŭ danĝero, aŭ glavo? Eĉ kiel estas skribite,
+
+"Pro via kaŭzo ni estas mortigitaj la tutan tagon.
+
+Ni estis kalkulitaj kiel ŝafoj por la buĉado."
+
+Ne, en ĉiuj ĉi tiuj aferoj ni estas pli ol konkerintoj per Tiu, kiu amis nin. Ĉar mi estas konvinkita, ke nek morto, nek vivo, nek anĝeloj, nek regadoj, nek nunaj aferoj, nek estontaj aferoj, nek potencoj, nek alto, nek profundo, nek iu ajn alia kreitaĵo povos apartigi nin de la amo de Dio, kiu estas en Kristo Jesuo, nia Sinjoro.
+
+### Ĉapitro 9
+
+Mi diras la veron en Kristo. Mi ne mensogas, mia konscienco atestas kun mi en la Sankta Spirito, ke mi havas grandan malĝojon kaj senĉesan doloron en mia koro. Ĉar mi povus deziri, ke mi mem estu malbenita de Kristo pro miaj fratoj, miaj parencoj laŭ la karno, kiuj estas Izraelidoj; kies estas la adopto, la gloro, la interligoj, la donado de la leĝo, la servo, kaj la promesoj; el kiuj estas la patroj, kaj el kiuj estas Kristo laŭ la karno, kiu estas super ĉio, Dio, benata eterne. Amen.
+
+Sed ne kvazaŭ la vorto de Dio estus veninta al nenio. Ĉar ne ĉiuj estas Izrael, kiuj estas el Izrael. Nek, ĉar ili estas idoj de Abraham, ili ĉiuj estas infanoj. Sed, "via idaro estos kalkulita kiel el Isaak." Tio estas, ne la infanoj de la karno estas infanoj de Dio, sed la infanoj de la promeso estas kalkulitaj kiel heredantoj. Ĉar ĉi tio estas vorto de promeso: "En la difinita tempo mi venos, kaj Sara havos filon." Ne nur tiel, sed ankaŭ Rebeka gravediĝis per unu, per nia patro Isaak. Ĉar ankoraŭ ne naskitaj, nek farinte ion bonan aŭ malbonan, ke la celo de Dio laŭ elekto povus stari, ne el faroj, sed el tiu, kiu vokas, estis dirite al ŝi, "La pli aĝa servos la pli junan." Eĉ kiel estas skribite, "Jakob mi amis, sed Esav mi malamis."
+
+Kion ni do diros? Ĉu estas maljusteco ĉe Dio? Neniam estu! Ĉar li diris al Moseo, "Mi havos kompaton al kiu mi havas kompaton, kaj mi havos kompaton al kiu mi havas kompaton." Do tiam ĝi ne estas de tiu, kiu volas, nek de tiu, kiu kuras, sed de Dio, kiu havas kompaton. Ĉar la Skribo diras al Faraono, "Por ĉi tiu tre celo mi kaŭzis vin esti levita, ke mi povu montri en vi mian potencon, kaj ke mia nomo povu esti proklamita en la tuta tero." Do tiam, li havas kompaton al kiu li deziras, kaj li malmoliĝas al kiu li deziras.
+
+Vi do diros al mi, "Kial li ankoraŭ trovas kulpon? Ĉar kiu kontraŭstaras lian volon?" Sed efektive, ho homo, kiu vi estas por respondi kontraŭ Dio? Ĉu la formita diros al tiu, kiu formis ĝin, "Kial vi faris min tiel?" Aŭ ĉu la potisto ne havas rajton super la argilo, el la sama maso fari unu parton vazojn por honoro, kaj alian por malhonoro? Kio se Dio, volanta montri sian koleron kaj fari sian potencon konata, eltenis kun multe da pacienco vazojn de kolero preparitajn por detruo, kaj ke li povu konigi la riĉaĵojn de sia gloro sur vazojn de kompato, kiujn li preparis antaŭe por gloro—ni, kiujn li ankaŭ vokis, ne nur el la Judoj, sed ankaŭ el la Gentiloj? Kiel li diras ankaŭ en Hoŝea,
+
+"Mi vokos ilin 'mia popolo,' kiuj ne estis mia popolo;
+
+kaj ŝin 'amata,' kiu ne estis amata."
+
+"Estos, ke en la loko, kie estis dirite al ili, 'Vi ne estas mia popolo,'
+
+tie ili estos vokitaj 'infanoj de la vivanta Dio.'"
+
+Jesaja krias pri Izrael,
+
+"Se la nombro de la infanoj de Izrael estas kiel la sablo de la maro,
+
+estas la restaĵo, kiu estos savita;
+
+ĉar li finos la laboron kaj mallongigos ĝin en justeco,
+
+ĉar la Sinjoro faros mallongan laboron sur la tero."
+
+Kiel Jesaja diris antaŭe,
+
+"Krom se la Sinjoro de Armeoj lasus al ni semon,
+
+ni estus fariĝintaj kiel Sodomo,
+
+kaj estus faritaj kiel Gomora."
+
+Kion ni do diros? Ke la Gentiloj, kiuj ne sekvis post justeco, atingis justecon, eĉ la justecon, kiu estas de fido; sed Izrael, sekvante post leĝo de justeco, ne atingis la leĝon de justeco. Kial? Ĉar ili ne serĉis ĝin per fido, sed kvazaŭ per faroj de la leĝo. Ili falis super la falŝtono, eĉ kiel estas skribite,
+
+"Jen, mi metas en Cion falŝtonon kaj rokon de ofendo;
+
+kaj neniu, kiu kredas en li, estos seniluziigita."
+
+### Ĉapitro 10
+
+Fratoj, la deziro de mia koro kaj mia preĝo al Dio estas por Izrael, ke ili estu savitaj. Ĉar mi atestas pri ili, ke ili havas fervoron por Dio, sed ne laŭ scio. Ĉar, ignorante la justecon de Dio kaj serĉante starigi sian propran justecon, ili ne submetiĝis al la justeco de Dio. Ĉar Kristo estas la plenumo de la leĝo por justeco al ĉiu, kiu kredas.
+
+Ĉar Moseo skribas pri la justeco de la leĝo, "La homo, kiu faras ilin, vivos per ili." Sed la justeco, kiu estas el fido, diras ĉi tion, "Ne diru en via koro, 'Kiu supreniros en la ĉielon?' (tio estas, por malsuprenigi Kriston); aŭ, 'Kiu malsupreniros en la abismon?' (tio estas, por suprenigi Kriston el la mortintoj.)" Sed kion ĝi diras? "La vorto estas proksime de vi, en via buŝo kaj en via koro;" tio estas, la vorto de fido, kiun ni predikas: ke se vi konfesas per via buŝo, ke Jesuo estas Sinjoro kaj kredas en via koro, ke Dio levis lin el la mortintoj, vi estos savita. Ĉar per la koro oni kredas rezultigante justecon; kaj per la buŝo konfeso estas farita rezultigante savon. Ĉar la Skribo diras, "Kiu ajn kredas en li, ne estos seniluziigita."
+
+Ĉar ne estas distingo inter Judo kaj Greko; ĉar la sama Sinjoro estas Sinjoro de ĉiuj, kaj estas riĉa al ĉiuj, kiuj vokas al li. Ĉar, "Kiu ajn vokos la nomon de la Sinjoro, estos savita." Kiel do ili vokos al li, en kiun ili ne kredis? Kiel ili kredos en li, kiun ili ne aŭdis? Kiel ili aŭdos sen predikanto? Kaj kiel ili predikos, krom se ili estas senditaj? Kiel estas skribite:
+
+"Kiel belaj estas la piedoj de tiuj, kiuj predikas la Bonan Novaĵon de paco,
+
+kiuj alportas ĝojajn sciigojn de bonaj aferoj!"
+
+Sed ne ĉiuj aŭskultis la ĝojan novaĵon. Ĉar Jesaja diras, "Sinjoro, kiu kredis nian raporton?" Do fido venas per aŭdado, kaj aŭdado per la vorto de Dio. Sed mi diras, ĉu ili ne aŭdis? Jes, plej certe,
+
+"Ilia sono iris en la tutan teron,
+
+iliaj vortoj ĝis la finoj de la mondo."
+
+Sed mi demandas, ĉu Izrael ne sciis? Unue Moseo diras,
+
+"Mi provokos vin al ĵaluzo per tio, kio ne estas nacio.
+
+Mi kolerigos vin per nacio sen kompreno."
+
+Jesaja estas tre kuraĝa kaj diras,
+
+"Mi estis trovita de tiuj, kiuj ne serĉis min.
+
+Mi estis malkaŝita al tiuj, kiuj ne petis min."
+
+Sed pri Izrael li diras, "La tutan tagon mi etendis miajn manojn al malobeema kaj kontraŭa popolo."
+
+### Ĉapitro 11
+
+Mi demandas do, ĉu Dio forpuŝis sian popolon? Neniam estu! Ĉar mi ankaŭ estas Izraelido, idaro de Abraham, el la tribo de Benjamen. Dio ne forpuŝis sian popolon, kiun li antaŭkonis. Aŭ ĉu vi ne scias, kion la Skribo diras pri Elija? Kiel li petegas Dion kontraŭ Izrael: “Sinjoro, ili mortigis viajn profetojn. Ili detruis viajn altarojn. Mi restis sola, kaj ili serĉas mian vivon.” Sed kiel Dio respondas al li? “Mi rezervis por mi sep mil virojn, kiuj ne klinis la genuon al Baal.” Eĉ tiel ankaŭ en ĉi tiu nuna tempo estas restaĵo laŭ la elekto de graco. Kaj se per graco, tiam ĝi ne plu estas el faroj; alie graco ne plu estas graco. Sed se ĝi estas el faroj, ĝi ne plu estas graco; alie faro ne plu estas faro.
+
+Kio do? Tion, kion Izrael serĉas, tion li ne akiris, sed la elektitoj akiris ĝin, kaj la ceteraj estis obstinigitaj. Kiel estas skribite, “Dio donis al ili spiriton de stuporo, okulojn, kiuj ne vidu, kaj orelojn, kiuj ne aŭdu, ĝis ĉi tiu tago.”
+
+David diras,
+
+“Ilia tablo fariĝu kaptilo, kaptilo,
+
+falilo, kaj repago al ili.
+
+Iliaj okuloj mallumiĝu, ke ili ne vidu.
+
+Ĉiam tenu iliajn dorsojn fleksitaj.”
+
+Mi demandas do, ĉu ili falpuŝiĝis, ke ili povu fali? Neniam estu! Sed per ilia falo savo venis al la nacianoj, por provoki ilin al ĵaluzo. Nun se ilia falo estas la riĉeco de la mondo, kaj ilia perdo la riĉeco de la nacianoj, kiom pli ilia pleneco!
+
+Ĉar mi parolas al vi, kiuj estas nacianoj. Ĉar tiam kiel mi estas apostolo al nacianoj, mi gloras mian ministerion, se per ia ajn rimedo mi povus provoki al ĵaluzo tiujn, kiuj estas mia karno, kaj povus savi kelkajn el ili. Ĉar se ilia forpuŝo estas la repaciĝo de la mondo, kio estus ilia akcepto, sed vivo el la mortintoj?
+
+Se la unua frukto estas sankta, tiel estas la maso. Se la radiko estas sankta, tiel estas la branĉoj. Sed se kelkaj el la branĉoj estis rompitaj, kaj vi, estante sovaĝa olivarbo, estis enplantitaj inter ili kaj fariĝis partoprenanto kun ili de la radiko kaj de la riĉeco de la olivarbo, ne fanfaronu super la branĉoj. Sed se vi fanfaronas, memoru, ke ne vi subtenas la radikon, sed la radiko subtenas vin. Vi diros do, “Branĉoj estis rompitaj, ke mi povu esti enplantita.” Vere; pro ilia nekredemo ili estis rompitaj, kaj vi staras per via fido. Ne estu aroganta, sed timu; ĉar se Dio ne indulgis la naturajn branĉojn, li ankaŭ ne indulgos vin. Vidu do la bonecon kaj severecon de Dio. Al tiuj, kiuj falis, severecon; sed al vi, bonecon, se vi daŭrigas en lia boneco; alie vi ankaŭ estos fortranĉita. Ili ankaŭ, se ili ne daŭrigas en sia nekredemo, estos enplantitaj, ĉar Dio kapablas enplanti ilin denove. Ĉar se vi estis eltranĉita el tio, kio estas nature sovaĝa olivarbo, kaj estis enplantita kontraŭnature en bonan olivarbon, kiom pli ĉi tiuj, kiuj estas la naturaj branĉoj, estos enplantitaj en sian propran olivarbon?
+
+Ĉar mi ne deziras, ke vi estu nesciencaj, fratoj, pri ĉi tiu mistero, por ke vi ne estu saĝaj en viaj propraj konceptoj, ke parta obstiniĝo okazis al Izrael, ĝis la pleneco de la nacianoj envenis, kaj tiel ĉiu Izrael estos savita. Eĉ kiel estas skribite,
+
+“El Cion venos la Liberiganto,
+
+kaj li forigos malpiecon de Jakob.
+
+Ĉi tio estas mia interligo kun ili,
+
+kiam mi forigos iliajn pekojn.”
+
+Koncerne la Bonan Novaĵon, ili estas malamikoj pro via konsidero. Sed koncerne la elekton, ili estas amataj pro la patroj. Ĉar la donacoj kaj la voko de Dio estas neforigeblaj. Ĉar kiel vi en la pasinteco estis malobeemaj al Dio, sed nun akiris kompaton per ilia malobeo, eĉ tiel ĉi tiuj ankaŭ nun estis malobeemaj, ke per la kompato montrita al vi ili ankaŭ povu akiri kompaton. Ĉar Dio ligis ĉiujn al malobeo, ke li povu havi kompaton al ĉiuj.
+
+Ho la profundo de la riĉeco kaj de la saĝo kaj de la scio de Dio! Kiel neesploreblaj estas liaj juĝoj, kaj liaj vojoj neesploreblaj!
+
+“Ĉar kiu konis la menson de la Sinjoro?
+
+Aŭ kiu estis lia konsilisto?”
+
+“Aŭ kiu unue donis al li,
+
+kaj ĝi estos repagita al li denove?”
+
+Ĉar de li kaj tra li kaj al li estas ĉiuj aferoj. Al li estu la gloro por ĉiam! Amen.
+
+### Ĉapitro 12
+
+Tial mi petegas vin, fratoj, per la kompatemo de Dio, prezenti viajn korpojn kiel vivantan oferon, sanktan, plaĉan al Dio, kio estas via spirita servo. Ne konformiĝu al ĉi tiu mondo, sed transformiĝu per la renovigo de via menso, por ke vi povu pruvi kio estas la bona, plaĉa kaj perfekta volo de Dio.
+
+Ĉar mi diras per la graco, kiu estis donita al mi, al ĉiu el vi, ne pensi pri si pli alte ol oni devas pensi; sed pensi racie, kiel Dio disdonis al ĉiu mezuron de fido. Ĉar kiel ni havas multajn membrojn en unu korpo, kaj ĉiuj membroj ne havas la saman funkcion, tiel ni, kiuj estas multaj, estas unu korpo en Kristo, kaj individue membroj unu de la alia, havante donacojn malsamajn laŭ la graco, kiu estis donita al ni: se profetado, profetu laŭ la proporcio de nia fido; aŭ servo, dediĉu nin al servo; aŭ tiu, kiu instruas, al sia instruado; aŭ tiu, kiu admonas, al sia admonado; tiu, kiu donacas, faru tion kun malavareco; tiu, kiu regas, kun diligento; tiu, kiu montras kompaton, kun ĝojo.
+
+La amo estu sen hipokriteco. Abomenu tion, kio estas malbona. Aliĝu al tio, kio estas bona. En amo de la fratoj estu teneraj unu al la alia; en honoro preferu unu la alian, ne malrapidiĝante en diligento, fervoraj en spirito, servante la Sinjoron, ĝojante en espero, eltenante en afliktoj, konstante preĝante, kontribuante al la bezonoj de la sanktuloj, kaj dediĉitaj al gastamo.
+
+Benu tiujn, kiuj persekutas vin; benu, kaj ne malbenu. Ĝoju kun tiuj, kiuj ĝojas. Ploru kun tiuj, kiuj ploras. Estu de la sama menso unu al la alia. Ne pensu pri altaj aferoj, sed asociiĝu kun la humilaj. Ne estu saĝaj en viaj propraj konceptoj. Ne repagu al iu malbonon pro malbono. Respektu tion, kio estas honesta antaŭ ĉiuj homoj. Se eblas, laŭeble, estu en paco kun ĉiuj homoj. Ne serĉu venĝon mem, amataj, sed donu lokon al la kolero de Dio. Ĉar estas skribite, "Venĝo apartenas al mi; mi repagos, diras la Sinjoro." Tial
+
+"Se via malamiko malsatas, nutru lin.
+
+Se li soifas, donu al li trinki;
+
+ĉar farante tion, vi amasiĝos karbojn de fajro sur lia kapo."
+
+Ne estu venkita de malbono, sed venku malbonon per bono.
+
+### Ĉapitro 13
+
+Ĉiu animo estu submetita al la pli altaj aŭtoritatoj, ĉar ne ekzistas aŭtoritato krom de Dio, kaj tiuj, kiuj ekzistas, estas ordonitaj de Dio. Tial tiu, kiu rezistas la aŭtoritaton, kontraŭstaras la ordonon de Dio; kaj tiuj, kiuj kontraŭstaras, ricevos al si juĝon. Ĉar regantoj ne estas teruro al la bona laboro, sed al la malbona. Ĉu vi deziras ne timi la aŭtoritaton? Faru tion, kio estas bona, kaj vi havos laŭdon de la aŭtoritato, ĉar li estas servanto de Dio al vi por bono. Sed se vi faras tion, kio estas malbona, timu, ĉar li ne portas la glavon vane; ĉar li estas servanto de Dio, venĝanto por kolero al tiu, kiu faras malbonon. Tial vi devas esti submetitaj, ne nur pro la kolero, sed ankaŭ pro konscienco. Pro ĉi tiu kialo vi ankaŭ pagas impostojn, ĉar ili estas servantoj de la servo de Dio, konstante farante ĉi tiun aferon. Tial donu al ĉiu tion, kion vi ŝuldas: se vi ŝuldas impostojn, pagu impostojn; se dogano, tiam dogano; se respekto, tiam respekto; se honoro, tiam honoro.
+
+Ne ŝuldu al iu ajn ion, krom ami unu la alian; ĉar tiu, kiu amas sian proksimulon, plenumis la leĝon. Ĉar la ordonoj, "Vi ne adultu," "Vi ne mortigu," "Vi ne ŝtelu," "Vi ne avidu," kaj kiaj ajn aliaj ordonoj ekzistas, ĉiuj estas resumitaj en ĉi tiu diro, nome, "Vi amu vian proksimulon kiel vin mem." Amo ne faras malbonon al proksimulo. Amo do estas la plenumo de la leĝo.
+
+Faru tion, sciante la tempon, ke jam estas tempo por vi vekiĝi el dormo, ĉar savo nun estas pli proksima al ni ol kiam ni unue kredis. La nokto estas forpasinta, kaj la tago estas proksima. Ni do forĵetu la farojn de mallumo, kaj ni surmetu la kirasojn de lumo. Ni iru dece, kiel en la tago; ne en diboĉado kaj drinkado, ne en seksa malĉasteco kaj voluptaj agoj, kaj ne en malpaco kaj ĵaluzo. Sed surmetu la Sinjoron Jesuo Kristo, kaj ne faru aranĝon por la karno, por ĝiaj deziroj.
+
+### Ĉapitro 14
+
+Nun akceptu tiun, kiu estas malforta en fido, sed ne por disputoj pri opinioj. Unu homo havas fidon manĝi ĉion, sed tiu, kiu estas malforta, manĝas nur legomojn. Ne lasu tiun, kiu manĝas, malestimi tiun, kiu ne manĝas. Ne lasu tiun, kiu ne manĝas, juĝi tiun, kiu manĝas, ĉar Dio akceptis lin. Kiu vi estas, kiu juĝas la serviston de alia? Al sia propra sinjoro li staras aŭ falas. Jes, li estos starigita, ĉar Dio havas la potencon starigi lin.
+
+Unu homo taksas unu tagon pli grava. Alia taksas ĉiun tagon egale. Lasu ĉiun homon esti plene certigita en sia propra menso. Tiu, kiu observas la tagon, observas ĝin al la Sinjoro; kaj tiu, kiu ne observas la tagon, al la Sinjoro li ne observas ĝin. Tiu, kiu manĝas, manĝas al la Sinjoro, ĉar li donas dankon al Dio. Tiu, kiu ne manĝas, al la Sinjoro li ne manĝas, kaj donas dankon al Dio. Ĉar neniu el ni vivas al si mem, kaj neniu mortas al si mem. Ĉar se ni vivas, ni vivas al la Sinjoro. Aŭ se ni mortas, ni mortas al la Sinjoro. Se do ni vivas aŭ mortas, ni estas de la Sinjoro. Ĉar por ĉi tiu celo Kristo mortis, leviĝis, kaj vivis denove, ke li povu esti Sinjoro de ambaŭ la mortintoj kaj la vivantoj.
+
+Sed vi, kial vi juĝas vian fraton? Aŭ vi denove, kial vi malestimas vian fraton? Ĉar ni ĉiuj staros antaŭ la juĝseĝo de Kristo. Ĉar estas skribite,
+
+“‘Kiel mi vivas,’ diras la Sinjoro, ‘al mi ĉiu genuo kliniĝos.
+
+Ĉiu lango konfesas al Dio.’”
+
+Do tiam ĉiu el ni donos konton pri si mem al Dio.
+
+Tial ni ne plu juĝu unu la alian, sed juĝu ĉi tion prefere, ke neniu metu falilon en la vojon de sia frato, aŭ okazon por fali. Mi scias kaj estas konvinkita en la Sinjoro Jesuo, ke nenio estas malpura per si mem; krom ke al tiu, kiu konsideras ion malpura, al li ĝi estas malpura. Tamen se pro manĝaĵo via frato estas malĝojigita, vi ne plu iras en amo. Ne detruu per via manĝaĵo tiun, por kiu Kristo mortis. Tiam ne lasu vian bonon esti kalumniita, ĉar la Regno de Dio ne estas manĝado kaj trinkado, sed justeco, paco, kaj ĝojo en la Sankta Spirito. Ĉar tiu, kiu servas Kriston en ĉi tiuj aferoj, estas akceptebla al Dio kaj aprobita de homoj. Do tiam, ni sekvu post aferoj, kiuj faras por paco, kaj aferoj per kiuj ni povas konstrui unu la alian. Ne renversu la laboron de Dio pro manĝaĵo. Ĉiuj aferoj ja estas puraj, tamen estas malbona por tiu homo, kiu kreas falilon per manĝado. Estas bone ne manĝi viandon, trinki vinon, nek fari ion per kio via frato falas, estas ofendita, aŭ estas malfortigita.
+
+Ĉu vi havas fidon? Havu ĝin al vi mem antaŭ Dio. Feliĉa estas tiu, kiu ne juĝas sin mem en tio, kion li aprobas. Sed tiu, kiu dubas, estas kondamnita se li manĝas, ĉar ĝi ne estas el fido; kaj kio ajn ne estas el fido estas peko.
+
+Nun al tiu, kiu povas establi vin laŭ mia Bona Novaĵo kaj la predikado de Jesuo Kristo, laŭ la revelacio de la mistero, kiu estis tenita sekreta tra longaj aĝoj, sed nun estas malkaŝita, kaj per la Skriboj de la profetoj, laŭ la ordono de la eterna Dio, estas konata por obeo de fido al ĉiuj nacioj; al la sola saĝa Dio, per Jesuo Kristo, al kiu estu la gloro eterne! Amen.
+
+### Ĉapitro 15
+
+Nun ni, kiuj estas fortaj, devas porti la malfortojn de la malfortuloj, kaj ne plaĉi al ni mem. Ĉiu el ni plaĉu al sia proksimulo por tio, kio estas bona, por konstrui lin. Ĉar eĉ Kristo ne plaĉis al si mem. Sed, kiel estas skribite, "La riproĉoj de tiuj, kiuj riproĉis vin, falis sur min." Ĉar kio ajn estis skribita antaŭe, estis skribita por nia lernado, ke per persisto kaj per kuraĝigo de la Skriboj ni povu havi esperon. Nun la Dio de persisto kaj de kuraĝigo donu al vi esti de la sama menso unu kun la alia laŭ Kristo Jesuo, ke unuanime vi povu per unu buŝo glori la Dion kaj Patron de nia Sinjoro Jesuo Kristo.
+
+Tial akceptu unu la alian, kiel Kristo ankaŭ akceptis vin, al la gloro de Dio. Nun mi diras, ke Kristo fariĝis servisto de la cirkumcido por la vero de Dio, ke li povu konfirmi la promesojn donitajn al la patroj, kaj ke la nacianoj povu glori Dion pro lia kompato. Kiel estas skribite,
+
+"Tial mi laŭdos vin inter la nacianoj
+
+kaj kantos al via nomo."
+
+Denove li diras,
+
+"Ĝoju, vi nacianoj, kun lia popolo."
+
+Denove,
+
+"Laŭdu la Eternulon, ĉiuj vi nacianoj!
+
+Lasu ĉiujn popolojn laŭdi lin."
+
+Denove, Jesaja diras,
+
+"Estos la radiko de Jeseo,
+
+li, kiu leviĝas por regi super la nacianoj;
+
+en li la nacianoj esperos."
+
+Nun la Dio de espero plenigu vin per ĉia ĝojo kaj paco en kredado, ke vi abundu en espero en la potenco de la Sankta Spirito.
+
+Mi mem ankaŭ estas konvinkita pri vi, miaj fratoj, ke vi mem estas plenaj de boneco, plenaj de ĉia scio, kapablaj ankaŭ admoni aliajn. Sed mi skribas pli kuraĝe al vi parte kiel memorigi vin, pro la graco, kiu estis donita al mi de Dio, ke mi estu servisto de Kristo Jesuo al la nacianoj, servante kiel pastro de la Bona Novaĵo de Dio, ke la ofero de la nacianoj povu esti akceptita, sanktigita de la Sankta Spirito. Mi do havas mian fanfaronadon en Kristo Jesuo pri aferoj rilataj al Dio. Ĉar mi ne kuraĝos paroli pri iuj aferoj krom tiuj, kiujn Kristo laboris tra mi por la obeo de la nacianoj, per vorto kaj faro, en la potenco de signoj kaj mirakloj, en la potenco de la Spirito de Dio; tiel ke de Jerusalemo kaj ĉirkaŭe ĝis Iliriko, mi plene predikis la Bonan Novaĵon de Kristo; jes, farante mian celon prediki la Bonan Novaĵon, ne kie Kristo jam estis nomita, ke mi ne konstruu sur la fundamento de alia. Sed, kiel estas skribite,
+
+"Ili vidos, al kiuj neniu novaĵo pri li venis.
+
+Ili, kiuj ne aŭdis, komprenos."
+
+Tial ankaŭ mi estis malhelpita ĉi tiujn multajn fojojn veni al vi, sed nun, ne plu havante iun lokon en ĉi tiuj regionoj, kaj havante ĉi tiujn multajn jarojn deziro veni al vi, kiam ajn mi vojaĝos al Hispanio, mi venos al vi. Ĉar mi esperas vidi vin dum mia vojaĝo, kaj esti helpita sur mia vojo tien de vi, se unue mi povas ĝui vian kompanion dum iom da tempo. Sed nun, mi diras, mi iras al Jerusalemo, servante la sanktulojn. Ĉar estis la bona plezuro de Makedonio kaj Aĥajo fari certan kontribuon por la malriĉuloj inter la sanktuloj, kiuj estas en Jerusalemo. Jes, estis ilia bona plezuro, kaj ili estas iliaj ŝuldantoj. Ĉar se la nacianoj partoprenis iliajn spiritajn aferojn, ili ŝuldas al ili ankaŭ servi ilin en materialaj aferoj. Kiam do mi plenumis ĉi tion, kaj sigelis al ili ĉi tiun frukton, mi iros per vi al Hispanio. Mi scias, ke kiam mi venos al vi, mi venos en la pleneco de la beno de la Bona Novaĵo de Kristo.
+
+Nun mi petegas vin, fratoj, per nia Sinjoro Jesuo Kristo kaj per la amo de la Spirito, ke vi strebu kune kun mi en viaj preĝoj al Dio por mi, ke mi estu liberigita de tiuj, kiuj estas malobeemaj en Judujo, kaj ke mia servo, kiun mi havas por Jerusalemo, estu akceptebla al la sanktuloj, ke mi venu al vi en ĝojo per la volo de Dio, kaj kune kun vi, trovu ripozon. Nun la Dio de paco estu kun vi ĉiuj. Amen.
+
+### Ĉapitro 16
+
+Mi rekomendas al vi Febe, nia fratino, kiu estas servistino de la kunveno, kiu estas ĉe Kenkrea, ke vi akceptu ŝin en la Sinjoro laŭ maniero inda je la sanktuloj, kaj ke vi helpu ŝin en kia ajn afero ŝi bezonos de vi, ĉar ŝi mem ankaŭ estis helpantino de multaj, kaj de mi mem.
+
+Salutu Priskon kaj Akvilon, miajn kunlaborantojn en Kristo Jesuo, kiuj riskis siajn proprajn kolojn por mia vivo, al kiuj ne nur mi dankas, sed ankaŭ ĉiuj kunvenoj de la nacianoj. Salutu la kunvenon, kiu estas en ilia domo. Salutu Epeneton, mian amatan, kiu estas la unua frukto de Aĥajo al Kristo. Salutu Marian, kiu multe laboris por ni. Salutu Andronikon kaj Junian, miajn parencojn kaj miajn kunprizonulojn, kiuj estas rimarkindaj inter la apostoloj, kiuj ankaŭ estis en Kristo antaŭ mi. Salutu Amplian, mian amatan en la Sinjoro. Salutu Urbanon, nian kunlaboranton en Kristo, kaj Staĥison, mian amatan. Salutu Apeleson, la aprobitan en Kristo. Salutu tiujn, kiuj estas el la domo de Aristobulo. Salutu Herodionon, mian parencon. Salutu tiujn el la domo de Narciso, kiuj estas en la Sinjoro. Salutu Trifenan kaj Trifosan, kiuj laboras en la Sinjoro. Salutu Persison, la amatan, kiu multe laboris en la Sinjoro. Salutu Rufon, la elektitan en la Sinjoro, kaj lian patrinon kaj mian. Salutu Asinkriton, Flegonon, Hermeson, Patrobon, Hermason, kaj la fratojn, kiuj estas kun ili. Salutu Filologon kaj Julian, Nereon kaj lian fratinon, kaj Olimpan, kaj ĉiujn sanktulojn, kiuj estas kun ili. Salutu unu la alian per sankta kiso. La kunvenoj de Kristo salutas vin.
+
+Nun mi petegas vin, fratoj, atentu tiujn, kiuj kaŭzas la dividojn kaj okazojn de falpuŝiĝo, kontraŭe al la doktrino, kiun vi lernis, kaj deturnu vin de ili. Ĉar tiaj ne servas nian Sinjoron Jesuo Kristo, sed sian propran ventron; kaj per sia glata kaj flata parolado ili trompas la korojn de la senkulpuloj. Ĉar via obeo fariĝis konata al ĉiuj. Mi ĝojas do pri vi. Sed mi deziras, ke vi estu saĝaj en tio, kio estas bona, sed senkulpaj en tio, kio estas malbona. Kaj la Dio de paco rapide dispremos Satanon sub viaj piedoj.
+
+La graco de nia Sinjoro Jesuo Kristo estu kun vi.
+
+Timoteo, mia kunlaboranto, salutas vin, same kiel Lucio, Jasono, kaj Sosipatro, miaj parencoj. Mi, Tertio, kiu skribas la leteron, salutas vin en la Sinjoro. Gajo, mia gastiganto kaj gastiganto de la tuta kunveno, salutas vin. Erasto, la kasisto de la urbo, salutas vin, same kiel Kvarto, la frato. La graco de nia Sinjoro Jesuo Kristo estu kun vi ĉiuj! Amen.
+
