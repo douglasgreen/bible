@@ -4759,9 +4759,9 @@ La graco de nia Sinjoro Jesuo Kristo estu kun vi.
 
 Timoteo, mia kunlaboranto, salutas vin, same kiel Lucio, Jasono, kaj Sosipatro, miaj parencoj. Mi, Tertio, kiu skribas la leteron, salutas vin en la Sinjoro. Gajo, mia gastiganto kaj gastiganto de la tuta kunveno, salutas vin. Erasto, la kasisto de la urbo, salutas vin, same kiel Kvarto, la frato. La graco de nia Sinjoro Jesuo Kristo estu kun vi ĉiuj! Amen.
 
-## 1 Corinthians
+## 1 Korintianoj
 
-Unua Letero de Paŭlo al la Korintanoj
+La Unua Letero de Paŭlo al la Korintanoj
 
 ### Ĉapitro 1
 
@@ -4985,3 +4985,1144 @@ La kunvenoj de Azio salutas vin. Akvila kaj Priscila salutas vin varme en la Sin
 
 Ĉi tiu saluto estas de mi, Paŭlo, per mia propra mano. Se iu ne amas la Sinjoron Jesuo Kristo, li estu malbenita. Venu, Sinjoro! La graco de la Sinjoro Jesuo Kristo estu kun vi. Mia amo al ĉiuj vi en Kristo Jesuo. Amen.
 
+## 2 Korintianoj
+
+La Dua Letero de Paŭlo al la Korintanoj
+
+### Ĉapitro 1
+
+Paŭlo, apostolo de Kristo Jesuo per la volo de Dio, kaj Timoteo nia frato, al la kunveno de Dio, kiu estas en Korinto, kun ĉiuj sanktuloj, kiuj estas en la tuta Aĥaja: Graco al vi kaj paco de Dio nia Patro kaj la Sinjoro Jesuo Kristo.
+
+Benata estu la Dio kaj Patro de nia Sinjoro Jesuo Kristo, la Patro de kompatemoj kaj Dio de ĉia konsolo, kiu konsolas nin en ĉiuj niaj afliktoj, por ke ni povu konsoli tiujn, kiuj estas en iu ajn aflikto, per la konsolo, per kiu ni mem estas konsolataj de Dio. Ĉar kiel la suferoj de Kristo abundas al ni, tiel ankaŭ nia konsolo abundas per Kristo. Sed se ni estas afliktataj, tio estas por via konsolo kaj savo. Se ni estas konsolataj, tio estas por via konsolo, kiu produktas en vi la paciencan eltenadon de la samaj suferoj, kiujn ni ankaŭ suferas. Nia espero por vi estas firma, sciante, ke, ĉar vi estas partoprenantoj de la suferoj, tiel vi estas ankaŭ de la konsolo.
+
+Ĉar ni ne deziras, ke vi estu neinformitaj, fratoj, pri nia aflikto, kiu okazis al ni en Azio: ke ni estis premegataj ekstreme, preter nia povo, tiel ke ni malesperis eĉ pri la vivo. Jes, ni mem havis la mortkondamnon en ni mem, por ke ni ne fidu al ni mem, sed al Dio, kiu levas la mortintojn, kiu liberigis nin el tiel granda morto, kaj liberigas, al kiu ni metis nian esperon, ke li ankaŭ ankoraŭ liberigos nin, vi ankaŭ helpante kune por ni per via petego; ke, pro la donaco donita al ni per multaj, dankoj estu donitaj de multaj personoj pro vi.
+
+Ĉar nia fanfaronado estas ĉi tio: la atesto de nia konscienco, ke en sankteco kaj sincereco de Dio, ne en karna saĝeco, sed en la graco de Dio, ni kondutis en la mondo, kaj pli abunde al vi. Ĉar ni skribas nenion alian al vi ol tion, kion vi legas aŭ eĉ agnoskas, kaj mi esperas, ke vi agnoskos ĝis la fino—kiel ankaŭ vi parte agnoskis nin—ke ni estas via fanfaronado, kiel vi ankaŭ estas nia, en la tago de nia Sinjoro Jesuo.
+
+En ĉi tiu konfido, mi estis decidita veni unue al vi, por ke vi havu duan profiton, kaj per vi pasi en Makedonion, kaj denove el Makedonio veni al vi, kaj esti sendita antaŭen de vi en mia vojaĝo al Judujo. Kiam mi do planis ĉi tion, ĉu mi montris malfidelecon? Aŭ la aferojn, kiujn mi planas, ĉu mi planas laŭ la karno, ke ĉe mi estu la “Jes, jes” kaj la “Ne, ne?” Sed kiel Dio estas fidela, nia vorto al vi ne estis “Jes kaj ne.” Ĉar la Filo de Dio, Jesuo Kristo, kiu estis predikata inter vi de ni—de mi, Silvano, kaj Timoteo—ne estis “Jes kaj ne,” sed en li estas “Jes.” Ĉar kiom ajn estas la promesoj de Dio, en li estas la “Jes.” Tial ankaŭ per li estas la “Amen”, al la gloro de Dio per ni.
+
+Nun tiu, kiu starigas nin kun vi en Kristo kaj sanktoleis nin, estas Dio, kiu ankaŭ sigelis nin kaj donis al ni la antaŭpagon de la Spirito en niaj koroj.
+
+Sed mi vokas Dion kiel atestanton al mia animo, ke por ŝpari vin, mi ne venis al Korinto. Ni ne regas vian fidon, sed estas kunlaborantoj kun vi por via ĝojo. Ĉar vi staras firme en fido.
+
+### Ĉapitro 2
+
+Sed mi decidis ĉi tion por mi mem, ke mi ne venu al vi denove en malĝojo. Ĉar se mi malĝojigas vin, kiu do ĝojigos min krom tiu, kiu estas malĝojigita de mi? Kaj mi skribis ĉi tiun aferon al vi, por ke kiam mi venos, mi ne havu malĝojon de tiuj, pri kiuj mi devus ĝoji; havante fidon en vi ĉiuj, ke mia ĝojo estus dividita de vi ĉiuj. Ĉar el multe da aflikto kaj angoro de koro mi skribis al vi kun multaj larmoj, ne por ke vi estu malĝojigitaj, sed por ke vi sciu la amon, kiun mi havas tiel abunde por vi.
+
+Sed se iu kaŭzis malĝojon, li ne kaŭzis malĝojon al mi, sed parte (por ke mi ne premegu tro peze) al vi ĉiuj. Ĉi tiu puno, kiu estis infliktita de la multaj, estas sufiĉa por tia homo; tiel ke, male, vi prefere pardonu lin kaj konsolu lin, por ke per neniu rimedo tia homo estu englutita de sia troa malĝojo. Tial mi petas vin konfirmi vian amon al li. Ĉar por ĉi tiu celo mi ankaŭ skribis, por ke mi sciu la pruvon de vi, ĉu vi estas obeemaj en ĉiuj aferoj. Nun mi ankaŭ pardonas al kiu ajn vi pardonas ion. Ĉar se efektive mi pardonis ion, mi pardonis tiun por vi en la ĉeesto de Kristo, por ke neniu avantaĝo estu akirita super ni de Satano, ĉar ni ne estas ignorantaj pri liaj intrigoj.
+
+Nun kiam mi venis al Troas por la Bona Novaĵo de Kristo, kaj kiam pordo estis malfermita al mi en la Sinjoro, mi ne havis ripozon por mia spirito, ĉar mi ne trovis Titon, mian fraton, sed adiaŭinte ilin, mi iris en Makedonion.
+
+Nun dankon estu al Dio, kiu ĉiam kondukas nin en triumfo en Kristo, kaj malkaŝas tra ni la dolĉan aromon de sia scio en ĉiu loko. Ĉar ni estas dolĉa aromo de Kristo al Dio en tiuj, kiuj estas savitaj kaj en tiuj, kiuj pereas: al unu fetoro de morto al morto, al alia dolĉa aromo de vivo al vivo. Kiu estas sufiĉa por ĉi tiuj aferoj? Ĉar ni ne estas kiel multaj, vendantaj la vorton de Dio. Sed kiel el sincereco, sed kiel el Dio, antaŭ la vido de Dio, ni parolas en Kristo.
+
+### Ĉapitro 3
+
+Ĉu ni denove komencas rekomendi nin mem? Aŭ ĉu ni bezonas, kiel iuj, rekomendajn leterojn al vi aŭ de vi? Vi estas nia letero, skribita en niaj koroj, konata kaj legata de ĉiuj homoj, estante malkaŝita, ke vi estas letero de Kristo, servita de ni, skribita ne per inko, sed per la Spirito de la vivanta Dio; ne en ŝtonaj tabuloj, sed en tabuloj, kiuj estas koroj de karno.
+
+Tian fidon ni havas tra Kristo al Dio, ne ke ni estas sufiĉaj de ni mem por kalkuli ion kiel el ni mem; sed nia sufiĉeco estas de Dio, kiu ankaŭ faris nin sufiĉaj kiel servantoj de nova interligo, ne de la litero sed de la Spirito. Ĉar la litero mortigas, sed la Spirito donas vivon.
+
+Sed se la servo de morto, skribita gravurita sur ŝtonoj, venis kun gloro, tiel ke la infanoj de Izrael ne povis rigardi firme la vizaĝon de Moseo pro la gloro de lia vizaĝo, kiu pasis, ĉu la servo de la Spirito ne estos kun multe pli da gloro? Ĉar se la servo de kondamno havas gloron, la servo de justeco multe pli superas en gloro. Ĉar plej certe tio, kio estis farita glora, ne estis farita glora en ĉi tiu rilato, pro la gloro, kiu superas. Ĉar se tio, kio pasas, estis kun gloro, multe pli tio, kio restas, estas en gloro.
+
+Havante do tian esperon, ni uzas grandan kuraĝon de parolo, kaj ne kiel Moseo, kiu metis vualon sur sian vizaĝon, por ke la infanoj de Izrael ne rigardu firme la finon de tio, kio pasis. Sed iliaj mensoj estis malmoligitaj, ĉar ĝis ĉi tiu tago ĉe la legado de la malnova interligo la sama vualo restas, ĉar en Kristo ĝi pasas. Sed ĝis hodiaŭ, kiam Moseo estas legata, vualo kuŝas sur ilia koro. Sed kiam ajn iu turnas sin al la Sinjoro, la vualo estas forprenita. Nun la Sinjoro estas la Spirito; kaj kie la Spirito de la Sinjoro estas, tie estas libereco. Sed ni ĉiuj, kun malkaŝita vizaĝo vidante la gloron de la Sinjoro kiel en spegulo, estas transformitaj en la saman bildon de gloro al gloro, eĉ kiel de la Sinjoro, la Spirito.
+
+### Ĉapitro 4
+
+Tial, vidante ke ni havas ĉi tiun ministerion, kiel ni ricevis kompaton, ni ne laciĝas. Sed ni rezignis pri la kaŝitaj aferoj de honto, ne irante en ruzeco nek trompante la vorton de Dio, sed per la manifestiĝo de la vero rekomendante nin al la konscienco de ĉiu homo antaŭ Dio. Eĉ se nia Bona Novaĵo estas kovrita, ĝi estas kovrita en tiuj, kiuj pereas, en kiuj la dio de ĉi tiu mondo blindigis la mensojn de la nekredantoj, por ke la lumo de la Bona Novaĵo de la gloro de Kristo, kiu estas la bildo de Dio, ne ekbrilu sur ili. Ĉar ni ne predikas nin mem, sed Kriston Jesuo kiel Sinjoron, kaj nin mem kiel viajn servantojn pro Jesuo, ĉar Dio diris, "Lumo brilos el mallumo," kiu brilis en niaj koroj por doni la lumon de la scio de la gloro de Dio en la vizaĝo de Jesuo Kristo.
+
+Sed ni havas ĉi tiun trezoron en argilaj vazoj, por ke la superabunda grandeco de la potenco estu de Dio kaj ne de ni mem. Ni estas premitaj de ĉiu flanko, tamen ne dispremitaj; konfuzitaj, tamen ne malesperantaj; persekutitaj, tamen ne forlasitaj; frapitaj, tamen ne detruitaj; ĉiam portante en la korpo la mortigon de la Sinjoro Jesuo, por ke la vivo de Jesuo ankaŭ estu malkaŝita en nia korpo. Ĉar ni, kiuj vivas, estas ĉiam liveritaj al morto pro Jesuo, por ke la vivo ankaŭ de Jesuo estu malkaŝita en nia mortema karno. Do tiam morto laboras en ni, sed vivo en vi.
+
+Sed havante la saman spiriton de fido, laŭ tio, kio estas skribita, "Mi kredis, kaj tial mi parolis." Ni ankaŭ kredas, kaj tial ni ankaŭ parolas, sciante ke tiu, kiu levis la Sinjoron Jesuo, levas nin ankaŭ kun Jesuo, kaj prezentos nin kun vi. Ĉar ĉiuj aferoj estas por viaj bonoj, por ke la graco, multobligita tra la multaj, kaŭzu la dankon abundi al la gloro de Dio.
+
+Tial ni ne laciĝas, sed kvankam nia ekstera homo kadukiĝas, tamen nia interna homo estas renovigita tagon post tago. Ĉar nia malpeza aflikto, kiu estas por la momento, laboras por ni pli kaj pli superabunde eternan pezon de gloro, dum ni ne rigardas la aferojn, kiuj estas vidataj, sed la aferojn, kiuj ne estas vidataj. Ĉar la aferoj, kiuj estas vidataj, estas tempaj, sed la aferoj, kiuj ne estas vidataj, estas eternaj.
+
+### Ĉapitro 5
+
+Ĉar ni scias, ke se la tera domo de nia tendo estas dissolvita, ni havas konstruaĵon de Dio, domon ne faritan per manoj, eternan, en la ĉieloj. Ĉar plej certe en tio ni ĝemas, sopirante esti vestitaj per nia loĝejo, kiu estas el la ĉielo, se vere vestitaj, ni ne estos trovitaj nudaj. Ĉar vere ni, kiuj estas en ĉi tiu tendo, ĝemas, estante ŝarĝitaj, ne ke ni deziras esti senvestigitaj, sed ke ni deziras esti vestitaj, por ke tio, kio estas mortema, estu englutita de la vivo. Nun tiu, kiu faris nin por ĉi tiu tre afero, estas Dio, kiu ankaŭ donis al ni la antaŭpagon de la Spirito.
+
+Tial ni estas ĉiam konfidentaj kaj scias, ke dum ni estas hejme en la korpo, ni estas fore de la Sinjoro; ĉar ni iras per fido, ne per vido. Ni estas kuraĝaj, mi diras, kaj estas pretaj prefere esti fore de la korpo kaj esti hejme kun la Sinjoro. Tial ankaŭ ni celas, ĉu hejme aŭ fore, esti bone plaĉantaj al li. Ĉar ni ĉiuj devas esti malkaŝitaj antaŭ la juĝa seĝo de Kristo, por ke ĉiu ricevu la aferojn en la korpo laŭ tio, kion li faris, ĉu bona aŭ malbona.
+
+Sciante do la timon de la Sinjoro, ni persvadas homojn, sed ni estas malkaŝitaj al Dio, kaj mi esperas, ke ni estas malkaŝitaj ankaŭ en viaj konsciencoj. Ĉar ni ne rekomendas nin al vi denove, sed parolas kiel donante al vi okazon de fanfaroni pri ni, por ke vi havu ion por respondi al tiuj, kiuj fanfaronas en aspekto kaj ne en koro. Ĉar se ni estas flanke de ni mem, ĝi estas por Dio. Aŭ se ni estas de sobra menso, ĝi estas por vi. Ĉar la amo de Kristo devigas nin; ĉar ni juĝas tiel: ke unu mortis por ĉiuj, tial ĉiuj mortis. Li mortis por ĉiuj, por ke tiuj, kiuj vivas, ne plu vivu al si mem, sed al li, kiu por iliaj bonoj mortis kaj releviĝis.
+
+Tial ni konas neniun laŭ la karno de nun. Eĉ se ni konis Kriston laŭ la karno, tamen nun ni konas lin tiel ne plu. Tial se iu estas en Kristo, li estas nova kreitaĵo. La malnovaj aferoj pasis. Jen, ĉiuj aferoj fariĝis novaj. Sed ĉiuj aferoj estas de Dio, kiu repacigis nin al si mem per Jesuo Kristo, kaj donis al ni la ministerion de repacigo; nome, ke Dio estis en Kristo repacigante la mondon al si mem, ne kalkulante al ili iliajn pekojn, kaj doninte al ni la vorton de repacigo.
+
+Ni estas do ambasadoroj nome de Kristo, kvazaŭ Dio petegus per ni: ni petegas vin nome de Kristo, repaciĝu kun Dio. Ĉar tiun, kiu ne konis pekon, li faris peko por ni, por ke en li ni fariĝu la justeco de Dio.
+
+### Ĉapitro 6
+
+Laborante kune, ni ankaŭ petegas, ke vi ne ricevu la gracon de Dio vane. Ĉar li diras,
+
+"En akceptebla tempo mi aŭskultis vin.
+
+En tago de savo mi helpis vin."
+
+Jen, nun estas la akceptebla tempo. Jen, nun estas la tago de savo. Ni ne donas okazon por falpuŝiĝo en io ajn, por ke nia servo ne estu riproĉata, sed en ĉio rekomendante nin kiel servantoj de Dio: en granda eltenemo, en afliktoj, en malfacilaĵoj, en angoroj, en batoj, en malliberejoj, en tumultoj, en laboroj, en gardadoj, en fastoj, en pureco, en scio, en persisto, en boneco, en la Sankta Spirito, en sincera amo, en la vorto de vero, en la potenco de Dio, per la kiraso de justeco dekstre kaj maldekstre, per gloro kaj malhonoro, per malbona raporto kaj bona raporto, kiel trompantoj kaj tamen veraj, kiel nekonataj kaj tamen bone konataj, kiel mortantaj kaj jen—ni vivas, kiel punataj kaj ne mortigitaj, kiel malĝojaj tamen ĉiam ĝojantaj, kiel malriĉaj tamen multajn riĉigantaj, kiel nenion havantaj kaj tamen posedantaj ĉion.
+
+Nia buŝo estas malfermita al vi, Korintanoj. Nia koro estas pligrandigita. Vi ne estas limigitaj de ni, sed vi estas limigitaj de viaj propraj amoj. Nun en rekompenco—mi parolas kiel al miaj infanoj—vi ankaŭ malfermu viajn korojn.
+
+Ne estu malegalaj jugitaj kun nekredantoj, ĉar kian kunulecon havas justeco kaj maljusteco? Aŭ kian kunulecon havas lumo kun mallumo? Kian interkonsenton havas Kristo kun Belial? Aŭ kian parton havas kredanto kun nekredanto? Kian interkonsenton havas templo de Dio kun idoloj? Ĉar vi estas templo de la vivanta Dio. Eĉ kiel Dio diris, "Mi loĝos en ili kaj marŝos en ili. Mi estos ilia Dio kaj ili estos mia popolo." Tial
+
+"‘Eliru el inter ili,
+
+kaj estu apartigitaj,’ diras la Sinjoro.
+
+‘Ne tuŝu malpuran aferon.
+
+Mi akceptos vin.
+
+Mi estos al vi Patro.
+
+Vi estos al mi filoj kaj filinoj,’
+
+diras la Sinjoro Ĉiopova."
+
+### Ĉapitro 7
+
+Havante do ĉi tiujn promesojn, amataj, ni purigu nin de ĉiu malpuraĵo de karno kaj spirito, perfektigante sanktecon en la timo de Dio.
+
+Malfermu viajn korojn al ni. Ni maljustigis neniun. Ni koruptis neniun. Ni profitis neniun. Mi diras ĉi tion ne por kondamni vin, ĉar mi diris antaŭe, ke vi estas en niaj koroj por morti kune kaj vivi kune. Granda estas mia kuraĝo de parolo al vi. Granda estas mia fanfaronado pri vi. Mi estas plenigita per komforto. Mi superfluas per ĝojo en ĉiuj niaj afliktoj.
+
+Ĉar eĉ kiam ni venis en Makedonion, nia karno ne havis ripozon, sed ni estis afliktitaj ĉie. Bataloj estis ekstere. Timo estis interne. Tamen, li kiu konsolas la humilajn, Dio, konsolis nin per la alveno de Tito, kaj ne nur per lia alveno, sed ankaŭ per la komforto per kiu li estis konsolita en vi dum li rakontis al ni pri via sopiro, via funebro, kaj via fervoro por mi, tiel ke mi ĝojis ankoraŭ pli.
+
+Ĉar kvankam mi malĝojigis vin per mia letero, mi ne bedaŭras ĝin, kvankam mi bedaŭris ĝin. Ĉar mi vidas, ke mia letero malĝojigis vin, kvankam nur por momento. Mi nun ĝojas, ne ke vi estis malĝojigitaj, sed ke vi estis malĝojigitaj al pento. Ĉar vi estis malĝojigitaj en dia maniero, por ke vi suferu perdon de ni en nenio. Ĉar dia malĝojo produktas penton kondukantan al savo, kiu alportas neniun bedaŭron. Sed la malĝojo de la mondo produktas morton. Ĉar jen, ĉi tiu sama afero, ke vi estis malĝojigitaj en dia maniero, kian fervoran zorgon ĝi laboris en vi. Jes, kian defendon, indignon, timon, sopiron, fervoron, kaj pravigon! En ĉio vi montris vin puraj en la afero. Do kvankam mi skribis al vi, mi skribis ne pro lia kaŭzo, kiu faris la malĝustaĵon, nek pro lia kaŭzo, kiu suferis la malĝustaĵon, sed ke via fervora zorgo por ni povus esti malkaŝita en vi antaŭ Dio. Tial ni estis konsolitaj. En nia komforto ni ĝojis des pli eksterordinare pro la ĝojo de Tito, ĉar lia spirito estis refreŝigita de vi ĉiuj. Ĉar se en io ajn mi fanfaronis al li pri vi, mi ne estis seniluziigita. Sed kiel ni parolis ĉiujn aferojn al vi en vero, tiel ankaŭ nia glorado, kiun mi faris antaŭ Tito, estis trovita esti vero. Lia amo estas pli abunda al vi, dum li memoras ĉiujn viajn obeo, kiel kun timo kaj tremo vi akceptis lin. Mi ĝojas, ke en ĉio mi estas certa pri vi.
+
+### Ĉapitro 8
+
+Krome, fratoj, ni sciigas al vi la gracon de Dio, kiu estis donita en la kunvenoj de Makedonio, kiel en severa provo de aflikto, la abundo de ilia ĝojo kaj ilia profunda malriĉeco abundis al la riĉeco de ilia malavareco. Ĉar laŭ ilia povo, mi atestas, jes kaj preter ilia povo, ili donis propravole, petegante nin kun multe da peto ricevi ĉi tiun gracon kaj la kunulecon en la servo al la sanktuloj. Ĉi tio ne estis kiel ni atendis, sed unue ili donis siajn proprajn memojn al la Sinjoro, kaj al ni per la volo de Dio. Do ni instigis Titon, ke kiel li komencis antaŭe, tiel li ankaŭ kompletigu en vi ĉi tiun gracon. Sed kiel vi abundas en ĉio—en fido, parolo, scio, ĉia fervoro, kaj en via amo al ni—vidu, ke vi ankaŭ abundu en ĉi tiu graco.
+
+Mi parolas ne per maniero de ordono, sed kiel pruvi per la fervoro de aliaj la sincerecon ankaŭ de via amo. Ĉar vi scias la gracon de nia Sinjoro Jesuo Kristo, ke kvankam li estis riĉa, tamen pro vi li fariĝis malriĉa, ke vi per lia malriĉeco povus fariĝi riĉaj. Mi donas konsilon en ĉi tio: estas oportune por vi, kiuj estis la unuaj komenci antaŭ jaro, ne nur fari, sed ankaŭ esti volaj. Sed nun kompletigu ankaŭ la faradon, ke kiel estis la preteco esti volaj, tiel ankaŭ estu la kompletigo el via kapablo. Ĉar se la preteco estas tie, ĝi estas akceptebla laŭ tio, kion vi havas, ne laŭ tio, kion vi ne havas. Ĉar ĉi tio ne estas, ke aliaj povu esti trankviligitaj kaj vi afliktitaj, sed por egaleco. Via abundo en ĉi tiu nuna tempo provizas ilian mankon, ke ilia abundo ankaŭ povu fariĝi provizo por via manko, ke estu egaleco. Kiel estas skribite, "Tiu, kiu kolektis multe, havis nenion restantan, kaj tiu, kiu kolektis malmulte, havis nenian mankon."
+
+Sed dankon al Dio, kiu metas la saman fervoran zorgon por vi en la koron de Tito. Ĉar li ja akceptis nian instigon, sed estante mem tre fervora, li eliris al vi propravole. Ni sendis kune kun li la fraton, kies laŭdo en la Bona Novaĵo estas konata tra ĉiuj kunvenoj. Ne nur tiel, sed li ankaŭ estis nomumita de la kunvenoj por vojaĝi kun ni en ĉi tiu graco, kiu estas servata de ni al la gloro de la Sinjoro mem, kaj por montri nian pretecon. Ni evitas ĉi tion, ke iu ajn povu kulpigi nin pri ĉi tiu abundo, kiu estas administrata de ni. Havante konsideron por honorindaj aferoj, ne nur antaŭ la Sinjoro, sed ankaŭ antaŭ homoj. Ni sendis kun ili nian fraton, kiun ni multfoje pruvis fervora en multaj aferoj, sed nun multe pli fervora, pro la granda konfido, kiun li havas en vi. Koncerne Titon, li estas mia partnero kaj kunlaboranto por vi. Koncerne niajn fratojn, ili estas la apostoloj de la kunvenoj, la gloro de Kristo. Tial montru la pruvon de via amo al ili antaŭ la kunvenoj, kaj de nia fanfaronado pri vi.
+
+### Ĉapitro 9
+
+Estas ja nenecese por mi skribi al vi pri la servo al la sanktuloj, ĉar mi scias vian pretecon, pri kiu mi fanfaronas pri vi al tiuj de Makedonio, ke Aĥaia estis preta por la pasinta jaro. Via fervoro instigis tre multajn el ili. Sed mi sendis la fratojn tiel ke nia fanfaronado pri vi ne estu vana en ĉi tiu rilato, ke, kiel mi diris, vi estu pretaj, por ke, se iu ajn el Makedonio venos tien kun mi kaj trovos vin nepreparitaj, ni (por nenion diri pri vi) estus seniluziigitaj en ĉi tiu konfida fanfaronado. Mi pensis necesa do petegi la fratojn, ke ili iru antaŭ vi kaj aranĝu anticipe la malavaran donacon, kiun vi promesis antaŭe, ke la sama estu preta kiel afero de malavareco, kaj ne de avideco.
+
+Memoru ĉi tion: tiu, kiu semas ŝpareme, ankaŭ rikoltos ŝpareme. Tiu, kiu semas abunde, ankaŭ rikoltos abunde. Lasu ĉiun homon doni laŭ tio, kion li decidis en sia koro, ne malvolonte aŭ sub devigo, ĉar Dio amas ĝojan donanton. Kaj Dio kapablas fari ĉian gracon abundi al vi, ke vi, ĉiam havante ĉian sufiĉecon en ĉio, abundu al ĉiu bona laboro. Kiel estas skribite,
+
+"Li disĵetis eksteren. Li donis al la malriĉuloj.
+
+Lia justeco restas eterne."
+
+Nun li, kiu provizas semon al la semanto kaj panon por manĝaĵo, provizu kaj multobligu vian semon por semado, kaj kreskigu la fruktojn de via justeco, vi estante riĉigitaj en ĉio por ĉia malavareco, kiu produktas dankon al Dio tra ni. Ĉar ĉi tiu servo de donado, kiun vi plenumas, ne nur kompensas mankon inter la sanktuloj, sed ankaŭ abundas tra multe da dankado al Dio, vidante ke per la pruvo donita de ĉi tiu servo, ili gloras Dion pro la obeo de via konfeso al la Bona Novaĵo de Kristo kaj pro la malavareco de via kontribuo al ili kaj al ĉiuj, dum ili mem ankaŭ, kun petego por vi, sopiras al vi pro la superabunda graco de Dio en vi. Nun dankon al Dio pro lia neesprimebla donaco!
+
+### Ĉapitro 10
+
+Nun mi, Paŭlo, mem petegas vin per la humileco kaj mildeco de Kristo, mi, kiu ĉe viestas humila inter vi, sed fore estas kuraĝa al vi. Jes, mi petegas vin, ke mi ne, kiam ĉeestanta, montru kuraĝon kun la konfido, kun kiu mi intencas esti kuraĝa kontraŭ iuj, kiuj konsideras nin marŝantaj laŭ la karno. Ĉar kvankam ni marŝas en la karno, ni ne militas laŭ la karno; ĉar la armiloj de nia milito ne estas de la karno, sed potencaj antaŭ Dio al la faligo de fortikaĵoj, faligante imagojn kaj ĉiun altan aferon, kiu estas altigita kontraŭ la scio de Dio kaj alportante ĉiun penson en kaptitecon al la obeo de Kristo, kaj estante preta venĝi ĉiun malobeon kiam via obeo estas plenumita.
+
+Ĉu vi rigardas aferojn nur kiel ili aperas antaŭ via vizaĝo? Se iu fidas en si mem, ke li estas de Kristo, lasu lin denove konsideri ĉi tion kun si mem, ke eĉ kiel li estas de Kristo, tiel ni ankaŭ estas de Kristo. Ĉar eĉ se mi fanfaronas iom abunde pri nia aŭtoritato, kiun la Sinjoro donis por konstrui vin kaj ne por faligi vin, mi ne hontos, ke mi ne ŝajnu kvazaŭ mi deziras timigi vin per miaj leteroj. Ĉar, "Liaj leteroj", ili diras, "estas pezegaj kaj fortaj, sed lia korpa ĉeesto estas malforta, kaj lia parolo estas malestimata." Lasu tian personon konsideri ĉi tion, ke kio ni estas en vorto per leteroj kiam ni estas forestantaj, tiaj ni ankaŭ estas en faro kiam ni estas ĉeestantaj.
+
+Ĉar ni ne estas kuraĝaj nombri aŭ kompari nin kun iuj el tiuj, kiuj rekomendas sin. Sed ili mem, mezurante sin per si mem, kaj komparante sin kun si mem, estas sen kompreno. Sed ni ne fanfaronos preter ĝustaj limoj, sed ene de la limoj kun kiuj Dio destinis al ni, kiuj atingas eĉ al vi. Ĉar ni ne streĉas nin tro multe, kvazaŭ ni ne atingus al vi. Ĉar ni venis eĉ ĝis vi kun la Bona Novaĵo de Kristo, ne fanfaronante preter ĝustaj limoj en la laboroj de aliaj homoj, sed havante esperon, ke dum via fido kreskas, ni estos abunde pligrandigitaj de vi en nia sfero de influo, tiel ke ni prediku la Bonan Novaĵon eĉ al la partoj preter vi, ne fanfaronante pri tio, kion iu alia jam faris. Sed "tiu, kiu fanfaronas, lasu lin fanfaroni en la Sinjoro." Ĉar ne estas li, kiu rekomendas sin, kiu estas aprobita, sed kiun la Sinjoro rekomendas.
+
+### Ĉapitro 11
+
+Mi deziras, ke vi toleru min en iom da malsaĝeco, sed efektive vi toleras min. Ĉar mi estas ĵaluza pri vi kun dia ĵaluzo. Ĉar mi promesis vin en geedziĝo al unu edzo, por ke mi povu prezenti vin kiel puran virgulon al Kristo. Sed mi timas, ke iel, kiel la serpento trompis Evon en sia ruzaĵo, tiel viaj mensoj povus esti koruptitaj de la simpleco, kiu estas en Kristo. Ĉar se tiu, kiu venas, predikas alian Jesuo, kiun ni ne predikis, aŭ se vi ricevas alian spiriton, kiun vi ne ricevis, aŭ alian "bonan novaĵon", kiun vi ne akceptis, vi sufiĉe bone toleras tion. Ĉar mi opinias, ke mi tute ne estas malantaŭ la plej bonaj apostoloj. Sed kvankam mi estas nesperta en parolo, tamen mi ne estas nesperta en scio. Ne, en ĉiu maniero ni estis malkaŝitaj al vi en ĉiuj aferoj.
+
+Aŭ ĉu mi pekis humiligante min, por ke vi estu altigitaj, ĉar mi predikis al vi la Bonan Novaĵon de Dio senpage? Mi rabatis aliajn kunvenojn, prenante salajrojn de ili, por ke mi povu servi al vi. Kiam mi estis ĉe vi kaj estis en bezono, mi ne estis ŝarĝo al iu ajn, ĉar la fratoj, kiam ili venis el Makedonio, provizis la mezuron de mia bezono. En ĉio mi konservis min de esti ŝarĝa al vi, kaj mi daŭre faros tion. Kiel la vero de Kristo estas en mi, neniu haltigos min de ĉi tiu fanfaronado en la regionoj de Aĥajo. Kial? Ĉu ĉar mi ne amas vin? Dio scias.
+
+Sed kion mi faras, tion mi daŭre faros, por ke mi fortranĉu la okazon de tiuj, kiuj deziras okazon, ke en tio, kion ili fanfaronas, ili estu rekonitaj kiel ni. Ĉar tiaj homoj estas falsaj apostoloj, trompaj laboristoj, maskantaj kiel apostoloj de Kristo. Kaj ne mirinde, ĉar eĉ Satano maskas kiel anĝelo de lumo. Ne estas granda afero do, se liaj servantoj ankaŭ maskas kiel servantoj de justeco, kies fino estos laŭ iliaj faroj.
+
+Mi diras denove, ke neniu pensu min malsaĝa. Sed se tiel, tamen akceptu min kiel malsaĝan, por ke mi ankaŭ povu iom fanfaroni. Tion, kion mi parolas, mi ne parolas laŭ la Sinjoro, sed kiel en malsaĝeco, en ĉi tiu konfido de fanfaronado. Vidante, ke multaj fanfaronas laŭ la karno, mi ankaŭ fanfaronos. Ĉar vi volonte toleras la malsaĝulojn, estante saĝaj. Ĉar vi toleras homon, se li enmetas vin en sklavecon, se li formanĝas vin, se li kaptas vin, se li altigas sin, aŭ se li batas vin sur la vizaĝon. Al mia honto, mi parolas kvazaŭ ni estis malfortaj. Tamen en kia ajn maniero iu ajn estas kuraĝa (mi parolas en malsaĝeco), mi estas kuraĝa ankaŭ. Ĉu ili estas Hebreoj? Ankaŭ mi. Ĉu ili estas Izraelidoj? Ankaŭ mi. Ĉu ili estas idoj de Abrahamo? Ankaŭ mi. Ĉu ili estas servantoj de Kristo? (Mi parolas kiel unu ekster si mem.) Mi estas pli: en laboroj pli abunde, en malliberejoj pli abunde, en batoj super mezuro, kaj en mortoj ofte. Kvin fojojn mi ricevis kvardek batojn minus unu de la Judoj. Tri fojojn mi estis batita per bastonoj. Unufoje mi estis ŝtonumita. Tri fojojn mi suferis ŝiprompon. Mi estis nokton kaj tagon en la profundo. Mi estis ofte en vojaĝoj, danĝeroj de riveroj, danĝeroj de rabistoj, danĝeroj de miaj samlandanoj, danĝeroj de la Gentiloj, danĝeroj en la urbo, danĝeroj en la dezerto, danĝeroj en la maro, danĝeroj inter falsaj fratoj; en laboro kaj penado, en vigladoj ofte, en malsato kaj soifo, en fastoj ofte, kaj en malvarmo kaj nudeco.
+
+Krom tiuj aferoj, kiuj estas ekstere, estas tio, kio premas min ĉiutage: zorgo por ĉiuj kunvenoj. Kiu estas malforta, kaj mi ne estas malforta? Kiu estas faligita, kaj mi ne brulas kun indigno?
+
+Se mi devas fanfaroni, mi fanfaronos pri la aferoj, kiuj koncernas mian malfortecon. La Dio kaj Patro de la Sinjoro Jesuo Kristo, li, kiu estas benita por ĉiam pli, scias, ke mi ne mensogas. En Damasko la guberniestro sub Reĝo Aretas gardis la urbon de la Damaskenoj, dezirante aresti min. Mi estis mallevita en korbo tra fenestro ĉe la muro, kaj eskapis liajn manojn.
+
+### Ĉapitro 12
+
+Estas sendube ne profita por mi fanfaroni, sed mi venos al vizioj kaj revelacioj de la Sinjoro. Mi konas homon en Kristo, kiu estis kaptita en la trian ĉielon antaŭ dek kvar jaroj—ĉu en la korpo, mi ne scias, aŭ ĉu ekster la korpo, mi ne scias; Dio scias. Mi konas tian homon (ĉu en la korpo, aŭ ekster la korpo, mi ne scias; Dio scias), kiel li estis kaptita en Paradizon kaj aŭdis neesprimeblajn vortojn, kiujn ne estas permesite al homo eldiri. Nome de tia unu mi fanfaronos, sed nome de mi mem mi ne fanfaronos, krom en miaj malfortoj. Ĉar se mi deziros fanfaroni, mi ne estos malsaĝa; ĉar mi diros la veron. Sed mi detenas min, por ke neniu pensu pli pri mi ol tio, kion li vidas en mi aŭ aŭdas de mi. Pro la eksterordinara grandeco de la revelacioj, ke mi ne estu tro alte taksata, dorno en la karno estis donita al mi: mesaĝisto de Satano por turmenti min, ke mi ne estu tro alte taksata. Pri ĉi tio, mi petegis la Sinjoron tri fojojn, ke ĝi foriru de mi. Li diris al mi, “Mia graco sufiĉas por vi, ĉar mia potenco estas perfekta en malforteco.” Plej ĝoje do mi prefere gloros en miaj malfortoj, ke la potenco de Kristo ripozu sur mi.
+
+Tial mi ĝojas en malfortoj, en vundoj, en bezonoj, en persekutoj, kaj en afliktoj, pro Kristo. Ĉar kiam mi estas malforta, tiam mi estas forta. Mi fariĝis malsaĝa en fanfaronado. Vi devigis min, ĉar mi devus esti laŭdata de vi, ĉar mi neniel estas malsupera al la plej bonaj apostoloj, kvankam mi estas nenio. Vere la signoj de apostolo estis faritaj inter vi kun ĉia persisto, en signoj kaj mirakloj kaj potencaj faroj. Ĉar kio estas tie, en kio vi estis malsuperaj al la ceteraj kunvenoj, krom ke mi mem ne estis ŝarĝo al vi? Pardonu min ĉi tiun malĝustaĵon!
+
+Jen, ĉi tio estas la tria fojo, ke mi estas preta veni al vi, kaj mi ne estos ŝarĝo al vi; ĉar mi ne serĉas viajn posedaĵojn, sed vin. Ĉar la infanoj ne devas ŝpari por la gepatroj, sed la gepatroj por la infanoj. Mi plej ĝoje elspezos kaj estos elspezita por viaj animoj. Se mi amas vin pli abunde, ĉu mi estas malpli amata? Eĉ tiel, mi mem ne ŝarĝis vin. Sed vi eble diros, ke estante ruza, mi kaptis vin per trompo. Ĉu mi profitis de vi per iu el tiuj, kiujn mi sendis al vi? Mi instigis Titon, kaj mi sendis la fraton kun li. Ĉu Tito profitis de vi? Ĉu ni ne iris en la sama spirito? Ĉu ni ne iris en la samaj paŝoj?
+
+Denove, ĉu vi pensas, ke ni senkulpigas nin al vi? En la vido de Dio ni parolas en Kristo. Sed ĉio, amataj, estas por via edifo. Ĉar mi timas, ke eble kiam mi venos, mi trovos vin ne kiel mi volas, kaj ke mi estos trovita de vi kiel vi ne deziras, ke eble estus malpaco, ĵaluzo, kolereksplodoj, frakcioj, kalumnio, flustradoj, fieraj pensoj, aŭ tumultoj, ke denove kiam mi venos, mia Dio humiligos min antaŭ vi, kaj mi ploros pro multaj el tiuj, kiuj pekis antaŭ nun, kaj ne pentis pri la malpureco, seksa malmoraleco, kaj voluptemo, kiujn ili faris.
+
+### Ĉapitro 13
+
+Ĉi tio estas la tria fojo, ke mi venas al vi. “Ĉe la buŝo de du aŭ tri atestantoj ĉiu vorto estos establita.” Mi avertis antaŭe, kaj mi avertas denove, kiel kiam mi estis ĉeestanta la duan fojon, tiel nun, estante foresta, mi skribas al tiuj, kiuj pekis antaŭ nun kaj al ĉiuj ceteraj, ke se mi venos denove, mi ne indulgos, vidante ke vi serĉas pruvon de Kristo, kiu parolas en mi, kiu ne estas malforta, sed estas potenca en vi. Ĉar li estis krucumita pro malforteco, tamen li vivas per la potenco de Dio. Ĉar ni ankaŭ estas malfortaj en li, sed ni vivos kun li per la potenco de Dio al vi.
+
+Ekzaminu vin mem, ĉu vi estas en la kredo. Testu vin mem. Aŭ ĉu vi ne scias pri vi mem, ke Jesuo Kristo estas en vi?—krom se vi estas malaprobitaj. Sed mi esperas, ke vi scios, ke ni ne estas malaprobitaj.
+
+Nun mi preĝas al Dio, ke vi faru nenion malbonan; ne ke ni aperu aprobitaj, sed ke vi faru tion, kio estas honesta, kvankam ni ŝajnas esti malsukcesintaj. Ĉar ni povas fari nenion kontraŭ la vero, sed por la vero. Ĉar ni ĝojas, kiam ni estas malfortaj kaj vi estas fortaj. Ni ankaŭ preĝas por ĉi tio: via fariĝo perfekta. Pro ĉi tio mi skribas ĉi tiujn aferojn dum foresta, ke mi ne traktus akre kiam ĉeestanta, laŭ la aŭtoritato, kiun la Sinjoro donis al mi por konstrui kaj ne por detrui.
+
+Fine, fratoj, ĝoju! Estu perfektigitaj. Estu komfortigitaj. Estu de la sama menso. Vivu en paco, kaj la Dio de amo kaj paco estos kun vi. Salutu unu la alian per sankta kiso.
+
+Ĉiuj sanktuloj salutas vin.
+
+La graco de la Sinjoro Jesuo Kristo, la amo de Dio, kaj la kunuleco de la Sankta Spirito estu kun vi ĉiuj. Amen.
+
+## Galatoj
+
+La Letero de Paŭlo al la Galatoj
+
+### Ĉapitro 1
+
+Paŭlo, apostolo—ne de homoj, nek per homo, sed per Jesuo Kristo, kaj Dio la Patro, kiu levis lin el la mortintoj—kaj ĉiuj fratoj, kiuj estas kun mi, al la kunvenoj de Galatio: Graco al vi kaj paco de Dio la Patro kaj nia Sinjoro Jesuo Kristo, kiu sin donis por niaj pekoj, por ke li povu liberigi nin el ĉi tiu nuna malbona epoko, laŭ la volo de nia Dio kaj Patro—al kiu estu la gloro eterne kaj eterne. Amen.
+
+Mi miras, ke vi tiel rapide forlasas tiun, kiu vokis vin en la graco de Kristo al alia "bona novaĵo", sed ne ekzistas alia "bona novaĵo." Nur estas iuj, kiuj ĝenas vin kaj volas perversigi la Bonan Novaĵon de Kristo. Sed eĉ se ni, aŭ anĝelo el la ĉielo, predikus al vi iun "bonan novaĵon" krom tiu, kiun ni predikis al vi, li estu malbenita. Kiel ni diris antaŭe, tiel mi nun diras denove: se iu homo predikas al vi iun "bonan novaĵon" krom tiu, kiun vi ricevis, li estu malbenita.
+
+Ĉu mi nun serĉas la favoron de homoj, aŭ de Dio? Aŭ ĉu mi strebas plaĉi al homoj? Ĉar se mi ankoraŭ plaĉus al homoj, mi ne estus servisto de Kristo.
+
+Sed mi sciigas al vi, fratoj, pri la Bona Novaĵo, kiu estis predikita de mi, ke ĝi ne estas laŭ homo. Ĉar mi ne ricevis ĝin de homo, nek estis instruata, sed ĝi venis al mi per revelacio de Jesuo Kristo. Ĉar vi aŭdis pri mia vivmaniero en la pasinteco en la religio de la Judoj, kiel mi senmezure persekutis la kunvenon de Dio kaj detruis ĝin. Mi progresis en la religio de la Judoj preter multaj de mia propra aĝo inter miaj samlandanoj, estante pli eksterordinare fervora por la tradicioj de miaj patroj. Sed kiam estis la bona plezuro de Dio, kiu apartigis min el la ventro de mia patrino kaj vokis min per sia graco, por riveli sian Filon en mi, ke mi povu prediki lin inter la nacianoj, mi ne tuj konsiliĝis kun karno kaj sango, nek mi supreniris al Jerusalemo al tiuj, kiuj estis apostoloj antaŭ mi, sed mi foriris en Arabion. Poste mi revenis al Damasko.
+
+Poste post tri jaroj mi supreniris al Jerusalemo por viziti Petron, kaj restis kun li dek kvin tagojn. Sed el la aliaj apostoloj mi vidis neniun krom Jakobo, la frato de la Sinjoro. Nun pri la aferoj, kiujn mi skribas al vi, jen, antaŭ Dio, mi ne mensogas. Poste mi venis al la regionoj de Sirio kaj Kilikio. Mi ankoraŭ estis nekonata laŭ vizaĝo al la kunvenoj de Judujo, kiuj estis en Kristo, sed ili nur aŭdis, "Tiu, kiu iam persekutis nin, nun predikas la fidon, kiun li iam provis detrui." Do ili gloris Dion en mi.
+
+### Ĉapitro 2
+
+Post periodo de dek kvar jaroj, mi denove iris al Jerusalemo kun Barnabas, kunportante ankaŭ Titon. Mi iris laŭ revelacio, kaj mi prezentis al ili la Bonan Novaĵon, kiun mi predikas inter la nacianoj, sed private antaŭ tiuj, kiuj estis respektataj, timante, ke mi povus kuri, aŭ jam kuris, vane. Sed eĉ Tito, kiu estis kun mi, estante Greko, ne estis devigita esti cirkumcidita. Ĉi tio estis pro la falsaj fratoj sekrete enkondukitaj, kiuj enŝteliĝis por spioni nian liberecon, kiun ni havas en Kristo Jesuo, por ke ili povu sklavigi nin, al kiuj ni ne cedis en subigo, eĉ ne por horo, por ke la vero de la Bona Novaĵo povu daŭri kun vi. Sed de tiuj, kiuj estis opiniataj gravaj—kio ajn ili estis, tio ne gravas al mi; Dio ne montras partian favoron al homo—ili, mi diras, kiuj estis respektataj, nenion aldonis al mi, sed male, kiam ili vidis, ke mi estis konfidita kun la Bona Novaĵo por la necirkumciditaj, same kiel Petro kun la Bona Novaĵo por la cirkumciditaj—ĉar tiu, kiu laboris tra Petro en la apostoleco kun la cirkumciditaj, ankaŭ laboris tra mi kun la nacianoj—kaj kiam ili perceptis la gracon, kiu estis donita al mi, Jakobo kaj Cefas kaj Johano, tiuj, kiuj estis opiniataj kolonoj, donis al Barnabas kaj mi la dekstran manon de kunuleco, ke ni iru al la nacianoj, kaj ili al la cirkumcido. Ili nur petis nin memori la malriĉulojn—kion mi ankaŭ fervore faris.
+
+Sed kiam Petro venis al Antioĥio, mi kontraŭstaris lin al lia vizaĝo, ĉar li staris kondamnita. Ĉar antaŭ ol kelkaj homoj venis de Jakobo, li manĝis kun la nacianoj. Sed kiam ili venis, li retiriĝis kaj apartigis sin, timante tiujn, kiuj estis de la cirkumcido. Kaj la resto de la Judoj kuniĝis kun li en lia hipokriteco, tiel ke eĉ Barnabas estis forportita kun ilia hipokriteco. Sed kiam mi vidis, ke ili ne marŝis rekte laŭ la vero de la Bona Novaĵo, mi diris al Petro antaŭ ili ĉiuj, “Se vi, estante Judo, vivas kiel la nacianoj, kaj ne kiel la Judoj, kial vi devigas la nacianojn vivi kiel la Judoj?
+
+“Ni, estante Judoj laŭ naturo kaj ne nacianaj pekuloj, tamen sciante, ke homo ne estas pravigita per la faroj de la leĝo sed per fido en Jesuo Kristo, eĉ ni kredis en Kristo Jesuo, por ke ni povu esti pravigitaj per fido en Kristo kaj ne per la faroj de la leĝo, ĉar neniu karno estos pravigita per la faroj de la leĝo. Sed se dum ni serĉis esti pravigitaj en Kristo, ni mem ankaŭ estis trovitaj pekuloj, ĉu Kristo estas servanto de peko? Certe ne! Ĉar se mi denove konstruas tiujn aferojn, kiujn mi detruis, mi pruvas min leĝrompanto. Ĉar mi tra la leĝo mortis al la leĝo, por ke mi povu vivi al Dio. Mi estis krucumita kun Kristo, kaj ĝi ne plu estas mi, kiu vivas, sed Kristo vivas en mi. Tiu vivo, kiun mi nun vivas en la karno, mi vivas per fido en la Filo de Dio, kiu amis min kaj donis sin por mi. Mi ne malakceptas la gracon de Dio. Ĉar se justeco estas tra la leĝo, tiam Kristo mortis por nenio!”
+
+### Ĉapitro 3
+
+Malsaĝaj Galatoj, kiu vin sorĉis por ne obei la veron, antaŭ kies okuloj Jesuo Kristo estis malkaŝe prezentita inter vi kiel krucumita? Mi nur volas lerni ĉi tion de vi: Ĉu vi ricevis la Spiriton per la faroj de la leĝo, aŭ per la aŭdado de fido? Ĉu vi estas tiel malsaĝaj? Komencinte en la Spirito, ĉu vi nun estas kompletigitaj en la karno? Ĉu vi suferis tiom da aferoj vane, se ĝi vere estas vane? Tial tiu, kiu provizas al vi la Spiriton kaj faras miraklojn inter vi, ĉu li faras tion per la faroj de la leĝo, aŭ per la aŭdado de fido? Eĉ tiel, Abrahamo "kredis Dion, kaj tio estis kalkulita al li por justeco." Sciu do, ke tiuj, kiuj estas de fido, estas infanoj de Abrahamo. La Skribo, antaŭvidante, ke Dio pravigus la nacianojn per fido, antaŭe predikis la Bonan Novaĵon al Abrahamo, dirante, "En vi ĉiuj nacioj estos benitaj." Do tiam, tiuj, kiuj estas de fido, estas benitaj kun la fidela Abrahamo.
+
+Ĉar tiom multaj, kiuj estas de la faroj de la leĝo, estas sub malbeno. Ĉar estas skribite, "Malbenita estas ĉiu, kiu ne daŭrigas en ĉiuj aferoj, kiuj estas skribitaj en la libro de la leĝo, por fari ilin." Nun ke neniu homo estas pravigita per la leĝo antaŭ Dio estas evidenta, ĉar, "La justa vivos per fido." La leĝo ne estas de fido, sed, "La homo, kiu faras ilin, vivos per ili."
+
+Kristo elaĉetis nin de la malbeno de la leĝo, fariĝinte malbeno por ni. Ĉar estas skribite, "Malbenita estas ĉiu, kiu pendas sur arbo," ke la beno de Abrahamo povus veni sur la nacianojn per Kristo Jesuo, ke ni povus ricevi la promeson de la Spirito per fido.
+
+Fratoj, parolante pri homaj terminoj, kvankam ĝi estas nur interkonsento de homo, tamen kiam ĝi estis konfirmita, neniu nuligas ĝin aŭ aldonas al ĝi. Nun la promesoj estis parolitaj al Abrahamo kaj al lia idaro. Li ne diras, "Al idoj", kiel de multaj, sed kiel de unu, "Al via idaro", kiu estas Kristo. Nun mi diras ĉi tion: Interkonsento konfirmita antaŭe de Dio en Kristo, la leĝo, kiu venis kvarcent tridek jarojn poste, ne nuligas, por fari la promeson senefika. Ĉar se la heredaĵo estas de la leĝo, ĝi ne plu estas de promeso; sed Dio donis ĝin al Abrahamo per promeso.
+
+Do kial estas la leĝo? Ĝi estis aldonita pro transgresioj, ĝis la idaro devus veni al kiu la promeso estis farita. Ĝi estis ordonita per anĝeloj per la mano de peranto. Nun peranto ne estas inter unu, sed Dio estas unu.
+
+Ĉu la leĝo do estas kontraŭ la promesoj de Dio? Certe ne! Ĉar se estus leĝo donita, kiu povus vivigi, plej certe justeco estus de la leĝo. Sed la Skribo enprizonigis ĉiujn aferojn sub peko, ke la promeso per fido en Jesuo Kristo povus esti donita al tiuj, kiuj kredas.
+
+Sed antaŭ ol fido venis, ni estis konservitaj en prizorgo sub la leĝo, limigitaj por la fido, kiu poste estu malkaŝita. Tiel ke la leĝo fariĝis nia tutoro por konduki nin al Kristo, ke ni povus esti pravigitaj per fido. Sed nun ke fido venis, ni ne plu estas sub tutoro. Ĉar vi ĉiuj estas infanoj de Dio, per fido en Kristo Jesuo. Ĉar tiom multaj el vi, kiuj estis baptitaj en Kristo, surmetis Kriston. Ne estas nek Judo nek Greko, ne estas nek sklavo nek liberulo, ne estas nek vira nek ina; ĉar vi ĉiuj estas unu en Kristo Jesuo. Se vi estas de Kristo, tiam vi estas idaro de Abrahamo kaj heredantoj laŭ promeso.
+
+### Ĉapitro 4
+
+Sed mi diras, ke tiel longe kiel la heredanto estas infano, li ne diferencas de sklavo, kvankam li estas sinjoro de ĉio, sed estas sub gardantoj kaj administrantoj ĝis la tago difinita de la patro. Do ni ankaŭ, kiam ni estis infanoj, estis tenataj en sklaveco sub la elementaj principoj de la mondo. Sed kiam venis la pleneco de la tempo, Dio sendis sian Filon, naskitan de virino, naskitan sub la leĝo, por ke li elaĉetu tiujn, kiuj estis sub la leĝo, por ke ni ricevu la adopton kiel infanoj. Kaj ĉar vi estas infanoj, Dio sendis la Spiriton de sia Filo en viajn korojn, kriante, "Abba, Patro!" Do vi ne plu estas sklavo, sed filo; kaj se filo, tiam heredanto de Dio per Kristo.
+
+Tamen en tiu tempo, ne konante Dion, vi estis en sklaveco al tiuj, kiuj laŭ naturo ne estas dioj. Sed nun, kiam vi venis koni Dion, aŭ pli ĝuste esti konataj de Dio, kial vi denove turnas vin al la malfortaj kaj mizerelementaj principoj, al kiuj vi deziras esti en sklaveco denove? Vi observas tagojn, monatojn, sezonojn, kaj jarojn. Mi timas por vi, ke mi eble vane laboris por vi.
+
+Mi petas vin, fratoj, fariĝu kiel mi, ĉar mi ankaŭ fariĝis kiel vi. Vi ne faris al mi malbonon, sed vi scias, ke pro malforteco en la karno mi predikis al vi la Bonan Novaĵon la unuan fojon. Tio, kio estis tento por vi en mia karno, vi ne malestimis nek forpuŝis; sed vi akceptis min kiel anĝelon de Dio, eĉ kiel Kriston Jesuo.
+
+Kio estis la beno, kiun vi ĝuis? Ĉar mi atestas al vi, ke, se eble, vi elŝirus viajn okulojn kaj donus ilin al mi. Do tiam, ĉu mi fariĝis via malamiko dirante al vi la veron? Ili fervore serĉas vin en neniu bona maniero. Ne, ili deziras fremdigi vin, por ke vi serĉu ilin. Sed ĉiam estas bone esti fervora en bona afero, kaj ne nur kiam mi ĉeestas kun vi.
+
+Miaj etaj infanoj, pri kiuj mi denove en laboro ĝis Kristo formiĝos en vi—sed mi povus deziri esti ĉeestanta kun vi nun, kaj ŝanĝi mian tonon, ĉar mi estas konfuzita pri vi.
+
+Diru al mi, vi, kiuj deziras esti sub la leĝo, ĉu vi ne aŭskultas la leĝon? Ĉar estas skribite, ke Abraham havis du filojn, unu de la servistino, kaj unu de la libera virino. Tamen, la filo de la servistino naskiĝis laŭ la karno, sed la filo de la libera virino naskiĝis per promeso. Ĉi tiuj aferoj enhavas alegorion, ĉar ĉi tiuj estas du interligoj. Unu estas de la Monto Sinajo, naskante infanojn al sklaveco, kiu estas Hagar. Ĉar ĉi tiu Hagar estas Monto Sinajo en Arabio, kaj respondas al la Jerusalemo, kiu ekzistas nun, ĉar ŝi estas en sklaveco kun siaj infanoj. Sed la Jerusalemo, kiu estas supre, estas libera, kiu estas la patrino de ni ĉiuj. Ĉar estas skribite,
+
+"Ĝoju, vi senfrukta, kiu ne naskas.
+
+Eksaltu kaj kriu, vi, kiu ne laboras.
+
+Ĉar la senhoma virino havas pli da infanoj ol ŝi, kiu havas edzon."
+
+Nun ni, fratoj, kiel Isaak estis, estas infanoj de promeso. Sed kiel tiam, tiu, kiu naskiĝis laŭ la karno, persekutis tiun, kiu naskiĝis laŭ la Spirito, tiel ankaŭ estas nun. Tamen, kion diras la Skribo? "Forĵetu la servistinon kaj ŝian filon, ĉar la filo de la servistino ne heredos kun la filo de la libera virino." Do tiam, fratoj, ni ne estas infanoj de servistino, sed de la libera virino.
+
+### Ĉapitro 5
+
+Staru firme do en la libereco per kiu Kristo liberigis nin, kaj ne reimplikiĝu kun jugo de sklaveco.
+
+Jen, mi, Paŭlo, diras al vi, ke se vi ricevas cirkumcidon, Kristo nenion profitos al vi. Jes, mi atestas denove al ĉiu viro, kiu ricevas cirkumcidon, ke li estas ŝuldanto plenumi la tutan leĝon. Vi estas fremdigitaj de Kristo, vi, kiuj deziras esti pravigitaj per la leĝo. Vi falis for de graco. Ĉar ni per la Spirito, per fido atendas la esperon de justeco. Ĉar en Kristo Jesuo nek cirkumcido nek necirkumcido gravas, sed fido laboranta per amo.
+
+Vi kuris bone! Kiu ĝenis vin, ke vi ne obeu la veron? Ĉi tiu persvado ne estas de tiu, kiu vokas vin. Eta fermento kreskas tra la tuta maso. Mi havas fidon al vi en la Sinjoro, ke vi pensos neniel alie. Sed tiu, kiu ĝenas vin, portos sian juĝon, kiu ajn li estas.
+
+Sed mi, fratoj, se mi ankoraŭ predikas cirkumcidon, kial mi ankoraŭ estas persekutata? Tiam la falilo de la kruco estas forigita. Mi dezirus, ke tiuj, kiuj ĝenas vin, fortranĉu sin.
+
+Ĉar vi, fratoj, estis vokitaj por libereco. Nur ne uzu vian liberecon kiel okazon por la karno, sed per amo servu unu al la alia. Ĉar la tuta leĝo estas plenumita en unu vorto, en ĉi tio: "Vi amos vian proksimulon kiel vin mem." Sed se vi mordas kaj formanĝas unu la alian, zorgu, ke vi ne konsumu unu la alian.
+
+Sed mi diras, iru laŭ la Spirito, kaj vi ne plenumos la dezirojn de la karno. Ĉar la karno deziroj kontraŭ la Spirito, kaj la Spirito kontraŭ la karno; kaj ĉi tiuj estas kontraŭaj unu al la alia, ke vi ne faru la aferojn, kiujn vi deziras. Sed se vi estas gvidataj de la Spirito, vi ne estas sub la leĝo. Nun la faroj de la karno estas evidentaj, kiuj estas: adultado, seksa malĉasteco, malpureco, voluptemo, idolatrio, sorĉado, malamo, malpaco, ĵaluzoj, kolereksplodoj, rivalecoj, dividoj, herezoj, envio, murdoj, drinkado, orgioj, kaj similaj aferoj; pri kiuj mi avertas vin, kiel mi ankaŭ avertis vin, ke tiuj, kiuj praktikas tiajn aferojn, ne heredos la Regnon de Dio.
+
+Sed la frukto de la Spirito estas amo, ĝojo, paco, pacienco, bonkoreco, boneco, fido, mildeco, kaj memregado. Kontraŭ tiaj aferoj ne ekzistas leĝo. Tiuj, kiuj apartenas al Kristo, krucumis la karnon kun ĝiaj pasioj kaj deziroj.
+
+Se ni vivas per la Spirito, ni ankaŭ iru per la Spirito. Ni ne fariĝu vantaj, provokante unu la alian, kaj enviantaj unu la alian.
+
+### Ĉapitro 6
+
+Fratoj, eĉ se homo estas kaptita en iu kulpo, vi, kiuj estas spiritaj, devas restarigi tian en spirito de mildeco, rigardante al vi mem por ke vi ankaŭ ne estu tentataj. Portu unu la alian ŝarĝojn, kaj tiel plenumu la leĝon de Kristo. Ĉar se homo pensas sin esti io, kiam li estas nenio, li trompas sin. Sed ĉiu homo ekzaminu sian propran laboron, kaj tiam li havos kialon fanfaroni en si mem, kaj ne en iu alia. Ĉar ĉiu homo portos sian propran ŝarĝon.
+
+Sed tiu, kiu estas instruita en la vorto, dividu ĉiujn bonajn aferojn kun tiu, kiu instruas.
+
+Ne trompiĝu. Dio ne estas mokata, ĉar kion ajn homo semas, tion li ankaŭ rikoltos. Ĉar tiu, kiu semas al sia propra karno, el la karno rikoltos korupton. Sed tiu, kiu semas al la Spirito, el la Spirito rikoltos eternan vivon. Ni ne laciĝu en farado de bono, ĉar ni rikoltos en sia tempo, se ni ne rezignos. Do tiam, kiel ni havas okazon, ni faru bonon al ĉiuj homoj, kaj precipe al tiuj, kiuj estas de la domanaro de la kredo.
+
+Vidu kun kia grandaj literoj mi skribas al vi per mia propra mano. Kiom multaj deziras fari bonan impreson en la karno, devigas vin esti cirkumciditaj, nur por ke ili ne estu persekutitaj pro la kruco de Kristo. Ĉar eĉ tiuj, kiuj ricevas cirkumcidon, ne observas la leĝon mem, sed ili deziras havi vin cirkumciditaj, por ke ili povu fanfaroni en via karno. Sed malproksime estu de mi fanfaroni krom en la kruco de nia Sinjoro Jesuo Kristo, per kiu la mondo estis krucumita al mi, kaj mi al la mondo. Ĉar en Kristo Jesuo nek cirkumcido estas io, nek necirkumcido, sed nova kreitaĵo. Kiom multaj iras laŭ ĉi tiu regulo, paco kaj kompato estu sur ili, kaj sur la Izraelo de Dio.
+
+De nun, neniu kaŭzu al mi ian ĝenon, ĉar mi portas la markojn de la Sinjoro Jesuo markitaj sur mia korpo.
+
+La graco de nia Sinjoro Jesuo Kristo estu kun via spirito, fratoj. Amen.
+
+## Efesanoj
+
+La Letero de Paŭlo al la Efesanoj
+
+### Ĉapitro 1
+
+Paŭlo, apostolo de Kristo Jesuo per la volo de Dio, al la sanktuloj kiuj estas en Efeso, kaj la fideluloj en Kristo Jesuo: Graco al vi kaj paco de Dio nia Patro kaj la Sinjoro Jesuo Kristo.
+
+Benata estu la Dio kaj Patro de nia Sinjoro Jesuo Kristo, kiu benis nin per ĉia spirita beno en la ĉielaj lokoj en Kristo, kiel Li elektis nin en Li antaŭ la fundamento de la mondo, por ke ni estu sanktaj kaj senmakulaj antaŭ Li en amo, antaŭdestinante nin por adopto kiel infanoj per Jesuo Kristo al Li mem, laŭ la bona plezuro de Lia volo, al la laŭdo de la gloro de Lia graco, per kiu Li libere donis al ni favoron en la Amato. En Li ni havas nian elaĉeton per Lia sango, la pardonon de niaj pekoj, laŭ la riĉeco de Lia graco, kiun Li abundigis al ni en ĉia saĝeco kaj prudento, sciigante al ni la misteron de Lia volo, laŭ Lia bona plezuro, kiun Li celis en Li por administrado de la pleneco de la tempoj, por resumi ĉiujn aferojn en Kristo, la aferojn en la ĉieloj kaj la aferojn sur la tero, en Li. Ni ankaŭ estis asignitaj heredaĵo en Li, antaŭdestinitaj laŭ la celo de Li, kiu faras ĉiujn aferojn laŭ la konsilo de Lia volo, por ke ni estu al la laŭdo de Lia gloro, ni, kiuj antaŭe esperis en Kristo. En Li vi ankaŭ, aŭdinte la vorton de la vero, la Bona Novaĵo de via savo—en kiu, ankaŭ kredinte, vi estis sigelitaj per la promesita Sankta Spirito, kiu estas garantio de nia heredaĵo, ĝis la elaĉeto de la propra posedaĵo de Dio, al la laŭdo de Lia gloro.
+
+Pro ĉi tiu kaŭzo mi ankaŭ, aŭdinte pri la fido en la Sinjoro Jesuo, kiu estas inter vi, kaj la amo, kiun vi havas al ĉiuj sanktuloj, ne ĉesas danki por vi, menciinte vin en miaj preĝoj, ke la Dio de nia Sinjoro Jesuo Kristo, la Patro de gloro, donu al vi spiriton de saĝeco kaj revelacio en la scio de Li, havante la okulojn de viaj koroj lumigitaj, por ke vi sciu, kio estas la espero de Lia voko, kaj kiaj estas la riĉecoj de la gloro de Lia heredaĵo en la sanktuloj, kaj kio estas la superanta grandeco de Lia potenco al ni, kiuj kredas, laŭ tiu laborado de la forto de Lia potenco, kiun Li laboris en Kristo, kiam Li levis Lin el la mortintoj kaj sidigis Lin ĉe Lia dekstra mano en la ĉielaj lokoj, multe super ĉiu regado, aŭtoritato, potenco, regno, kaj ĉiu nomo, kiu estas nomata, ne nur en ĉi tiu aĝo, sed ankaŭ en tiu, kiu venos. Li metis ĉiujn aferojn sub Liajn piedojn, kaj donis Lin por esti kapo super ĉiuj aferoj por la asembleo, kiu estas Lia korpo, la pleneco de Li, kiu plenigas ĉion en ĉio.
+
+### Ĉapitro 2
+
+Vi estis vivigitaj, kiam vi estis mortintaj en viaj pekoj kaj kulpoj, en kiuj vi iam iris laŭ la kurso de ĉi tiu mondo, laŭ la princo de la potenco de la aero, la spirito, kiu nun agas en la infanoj de malobeo. Ni ankaŭ ĉiuj iam vivis inter ili en la voluptoj de nia karno, farante la dezirojn de la karno kaj de la menso, kaj estis laŭ naturo infanoj de kolero, kiel ankaŭ la ceteraj. Sed Dio, estante riĉa en kompato, pro sia granda amo, per kiu li amis nin, eĉ kiam ni estis mortintaj pro niaj pekoj, vivigis nin kune kun Kristo — per graco vi estas savitaj — kaj levis nin kun li, kaj sidigis nin kun li en la ĉielaj lokoj en Kristo Jesuo, por ke en la venontaj aĝoj li montru la superabundajn riĉojn de sia graco en boneco al ni en Kristo Jesuo; ĉar per graco vi estas savitaj per fido, kaj tio ne de vi mem; ĝi estas la donaco de Dio, ne de faroj, por ke neniu fanfaronu. Ĉar ni estas lia faritaĵo, kreitaj en Kristo Jesuo por bonaj faroj, kiujn Dio antaŭpreparis, por ke ni iru en ili.
+
+Tial memoru, ke iam vi, la nacianoj en la karno, kiuj estas nomataj "necircumcido" de tio, kio estas nomata "circumcido" (en la karno, farita per manoj), ke vi tiam estis apartigitaj de Kristo, fremdigitaj de la komunaĵo de Izrael, kaj fremduloj de la interligoj de la promeso, havante neniun esperon kaj sen Dio en la mondo. Sed nun en Kristo Jesuo vi, kiuj iam estis malproksimaj, estas alproksimigitaj en la sango de Kristo. Ĉar li estas nia paco, kiu faris ambaŭ unu, kaj rompis la mezan muron de apartigo, abolinte en sia karno la malamikecon, la leĝon de ordonoj enhavitajn en dekretoj, por ke li kreu en si mem unu novan homon el la du, farante pacon, kaj por ke li repacigu ilin ambaŭ en unu korpo al Dio per la kruco, mortiginte la malamikecon per ĝi. Li venis kaj predikis pacon al vi, kiuj estis malproksimaj, kaj al tiuj, kiuj estis proksimaj. Ĉar per li ni ambaŭ havas nian aliron en unu Spirito al la Patro. Do vi jam ne estas fremduloj kaj alilandanoj, sed vi estas kuncivitanoj kun la sanktuloj kaj de la domanaro de Dio, konstruitaj sur la fundamento de la apostoloj kaj profetoj, Kristo Jesuo mem estante la ĉefa angula ŝtono; en kiu la tuta konstruaĵo, kunigita, kreskas en sanktan templon en la Sinjoro; en kiu vi ankaŭ estas konstruitaj kune por loĝejo de Dio en la Spirito.
+
+### Ĉapitro 3
+
+Pro ĉi tiu kaŭzo mi, Paŭlo, estas la malliberulo de Kristo Jesuo pro vi, nacianoj, se tiel estas, ke vi aŭdis pri la administrado de tiu graco de Dio, kiu estis donita al mi por vi, kiel per revelacio la mistero estis konata al mi, kiel mi skribis antaŭe en kelkaj vortoj, per kiuj, kiam vi legas, vi povas percepti mian komprenon en la mistero de Kristo, kiu en aliaj generacioj ne estis konata al la infanoj de homoj, kiel ĝi nun estas malkaŝita al liaj sanktaj apostoloj kaj profetoj en la Spirito, ke la nacianoj estas kunheredantoj kaj kunmembroj de la korpo, kaj kunpartoprenantoj de lia promeso en Kristo Jesuo per la Bona Novaĵo, de kiu mi estis farita servanto laŭ la donaco de tiu graco de Dio, kiu estis donita al mi laŭ la agado de lia potenco. Al mi, la plej malgranda el ĉiuj sanktuloj, estis donita ĉi tiu graco, por prediki al la nacianoj la nesondeblajn riĉojn de Kristo, kaj por ke ĉiuj homoj vidu, kio estas la administrado de la mistero, kiu dum aĝoj estis kaŝita en Dio, kiu kreis ĉiujn aferojn per Jesuo Kristo, por ke nun per la asembleo la multfaceta saĝo de Dio estu konata al la ĉefeco kaj la potencoj en la ĉielaj lokoj, laŭ la eterna celo, kiun li plenumis en Kristo Jesuo, nia Sinjoro. En li ni havas kuraĝon kaj aliron en konfido per nia fido en li. Tial mi petas, ke vi ne malfortiĝu pro miaj suferoj por vi, kiuj estas via gloro.
+
+Pro ĉi tiu kaŭzo mi klinas miajn genuojn al la Patro de nia Sinjoro Jesuo Kristo, de kiu ĉiu familio en la ĉielo kaj sur la tero estas nomata, ke li donu al vi, laŭ la riĉeco de lia gloro, ke vi estu fortigitaj per potenco per lia Spirito en la interna homo, ke Kristo loĝu en viaj koroj per fido, ĝis la fino, ke vi, estante enradikiĝintaj kaj fundamentitaj en amo, estu fortigitaj por kompreni kun ĉiuj sanktuloj, kio estas la larĝo kaj longo kaj alto kaj profundo, kaj por koni la amon de Kristo, kiu superas scion, ke vi estu plenigitaj kun la tuta pleneco de Dio.
+
+Nun al li, kiu povas fari tre abunde super ĉio, kion ni petas aŭ pensas, laŭ la potenco, kiu agas en ni, al li estu la gloro en la asembleo kaj en Kristo Jesuo al ĉiuj generacioj, por ĉiam kaj eterne. Amen.
+
+### Ĉapitro 4
+
+Mi do, la malliberulo en la Sinjoro, petegas vin marŝi inde je la voko per kiu vi estis vokitaj, kun ĉia humileco kaj humileco, kun pacienco, portante unu la alian en amo, fervore konservante la unuecon de la Spirito en la ligo de paco. Estas unu korpo kaj unu Spirito, eĉ kiel vi ankaŭ estis vokitaj en unu espero de via voko, unu Sinjoro, unu kredo, unu bapto, unu Dio kaj Patro de ĉiuj, kiu estas super ĉiuj kaj tra ĉiuj kaj en ni ĉiuj. Sed al ĉiu el ni, la graco estis donita laŭ la mezuro de la donaco de Kristo. Tial li diras,
+
+"Kiam li supreniris alte,
+
+li kondukis kaptitecon kaptita,
+
+kaj donis donacojn al homoj."
+
+Nun ĉi tio, "Li supreniris", kio estas ĝi krom ke li ankaŭ unue malsupreniris en la pli malaltajn partojn de la tero? Li, kiu malsupreniris, estas tiu, kiu ankaŭ supreniris multe super ĉiuj la ĉieloj, por ke li plenigu ĉiujn aferojn.
+
+Li donis iujn por esti apostoloj; kaj iuj, profetoj; kaj iuj, evangeliistoj; kaj iuj, paŝtistoj kaj instruistoj; por la perfektigo de la sanktuloj, al la laboro de servado, al la konstruado de la korpo de Kristo, ĝis ni ĉiuj atingos la unuecon de la kredo kaj de la scio de la Filo de Dio, al plenkreska viro, al la mezuro de la staturo de la pleneco de Kristo, por ke ni ne plu estu infanoj, ĵetitaj tien kaj reen kaj portitaj ĉirkaŭen per ĉiu vento de doktrino, per la ruzeco de homoj, en lerteco, post la ruzoj de eraro; sed parolante veron en amo, ni kresku en ĉiuj aferoj en lin, kiu estas la kapo, Kristo, el kiu la tuta korpo, estante kunigita kaj kunligita per tio, kion ĉiu artiko provizas, laŭ la laborado en mezuro de ĉiu individua parto, faras la korpon kreski al la konstruado de si mem en amo.
+
+Ĉi tion mi diras do, kaj atestas en la Sinjoro, ke vi ne plu marŝu kiel la ceteraj el la Gentiloj ankaŭ marŝas, en la vanteco de ilia menso, estante mallumigitaj en ilia kompreno, fremdigitaj de la vivo de Dio pro la nescio, kiu estas en ili, pro la malmoliĝo de iliaj koroj. Ili, fariĝinte senkonsciaj, donis sin al volupto, por labori ĉian malpurecon kun avideco. Sed vi ne lernis Kriston tiel, se vere vi aŭdis lin kaj estis instruataj en li, eĉ kiel vero estas en Jesuo: ke vi forigu, koncerne vian antaŭan vivmanieron, la malnovan homon, kiu kreskas korupta post la voluptoj de trompo, kaj ke vi estu renovigitaj en la spirito de via menso, kaj surmetu la novan homon, kiu laŭ la simileco de Dio estis kreita en justeco kaj sankteco de vero.
+
+Tial, forigante malveron, parolu veron ĉiu kun sia proksimulo, ĉar ni estas membroj unu de la alia. "Koleriĝu, kaj ne peku." Ne lasu la sunon subiri sur via kolero, kaj ne donu lokon al la diablo. Lasu lin, kiu ŝtelis, ne plu ŝteli; sed prefere lasu lin labori, produktante per siaj manoj ion bonan, por ke li havu ion por doni al tiu, kiu bezonas. Lasu neniu korupta parolo eliri el via buŝo, sed nur tio, kio estas bona por konstruado de aliaj laŭ la bezono, por ke ĝi donu gracon al tiuj, kiuj aŭdas. Ne malĝojigu la Sanktan Spiriton de Dio, en kiu vi estis sigelitaj por la tago de elaĉeto. Lasu ĉian amarecon, koleron, koleregon, krion, kaj kalumnion esti forigita de vi, kun ĉia malico. Kaj estu bonkoraj unu al la alia, tenerkoraj, pardonante unu la alian, kiel Dio ankaŭ en Kristo pardonis vin.
+
+### Ĉapitro 5
+
+Estu do imitantoj de Dio, kiel amataj infanoj. Iru en amo, kiel ankaŭ Kristo amis nin kaj sin donis por ni, oferon kaj sakrifon al Dio por dolĉa odoro.
+
+Sed seksa malĉasteco, kaj ĉia malpureco aŭ avideco, ne estu eĉ menciataj inter vi, kiel konvenas al sanktuloj; nek maldeco, nek malsaĝa parolado, nek ŝercado, kiuj ne estas konvenaj, sed prefere dankado.
+
+Sciu ĉi tion certe, ke neniu seksa malĉastulo, nek malpura persono, nek avara homo (kiu estas idolano), havas heredaĵon en la Regno de Kristo kaj Dio.
+
+Neniu trompu vin per malplenaj vortoj, ĉar pro ĉi tiuj aferoj la kolero de Dio venas sur la infanojn de malobeo. Tial ne partoprenu kun ili. Ĉar vi iam estis mallumo, sed nun estas lumo en la Sinjoro. Iru kiel infanoj de lumo, ĉar la frukto de la Spirito estas en ĉia boneco kaj justeco kaj vero, provante kio plaĉas al la Sinjoro. Ne havu kunulecon kun la senfruktaj faroj de mallumo, sed prefere eĉ riproĉu ilin. Ĉar estas honto eĉ paroli pri la aferoj, kiuj estas faritaj de ili sekrete. Sed ĉiuj aferoj, kiam ili estas riproĉitaj, estas malkaŝitaj de la lumo, ĉar ĉio, kio malkaŝas, estas lumo. Tial li diras, "Vekiĝu, vi, kiu dormas, kaj leviĝu el la mortintoj, kaj Kristo brilos sur vi."
+
+Tial atentu zorge kiel vi iras, ne kiel malsaĝuloj, sed kiel saĝuloj, elaĉetante la tempon, ĉar la tagoj estas malbonaj. Tial, ne estu malsaĝaj, sed komprenu kio estas la volo de la Sinjoro. Ne estu ebriaj per vino, en kiu estas diboĉo, sed estu plenigitaj per la Spirito, parolante unu al alia en psalmoj, himnoj, kaj spiritaj kantoj; kantante kaj farante melodion en via koro al la Sinjoro; dankante ĉiam pri ĉiuj aferoj en la nomo de nia Sinjoro Jesuo Kristo al Dio, eĉ la Patro; submetante vin unu al alia en la timo de Kristo.
+
+Edzinoj, estu submetitaj al viaj propraj edzoj, kiel al la Sinjoro. Ĉar la edzo estas la kapo de la edzino, kiel ankaŭ Kristo estas la kapo de la kunveno, estante mem la savanto de la korpo. Sed kiel la kunveno estas submetita al Kristo, tiel ankaŭ la edzinoj estu al siaj propraj edzoj en ĉio.
+
+Edzoj, amu viajn edzinojn, kiel ankaŭ Kristo amis la kunvenon kaj sin donis por ŝi, por ke li sanktigu ŝin, purigante ŝin per la lavado de akvo kun la vorto, por ke li prezentu la kunvenon al si mem glore, ne havante makulon aŭ sulkon aŭ ian tian aferon, sed ke ŝi estu sankta kaj sen difekto. Tiel ankaŭ edzoj devas ami siajn proprajn edzinojn kiel siajn proprajn korpojn. Kiu amas sian propran edzinon, amas sin mem. Ĉar neniu iam malamis sian propran karnon, sed nutras kaj prizorgas ĝin, kiel ankaŭ la Sinjoro faras al la kunveno, ĉar ni estas membroj de lia korpo, de lia karno kaj ostoj. "Pro ĉi tiu kaŭzo viro forlasos sian patron kaj patrinon kaj aliĝos al sia edzino. Tiam la du fariĝos unu karno." Ĉi tiu mistero estas granda, sed mi parolas pri Kristo kaj la kunveno. Tamen ĉiu el vi ankaŭ devas ami sian propran edzinon kiel sin mem; kaj la edzino vidu, ke ŝi respektas sian edzon.
+
+### Ĉapitro 6
+
+Infanoj, obeu viajn gepatrojn en la Sinjoro, ĉar tio estas ĝusta. "Honoru vian patron kaj patrinon," kiu estas la unua ordono kun promeso: "por ke ĝi estu bone al vi, kaj vi longe vivu sur la tero."
+
+Vi patroj, ne incitu viajn infanojn al kolero, sed nutru ilin en la disciplino kaj instruado de la Sinjoro.
+
+Servistoj, estu obeemaj al tiuj, kiuj laŭ la karno estas viaj mastroj, kun timo kaj tremo, en simpleco de via koro, kiel al Kristo, ne nur en la maniero de servo kiam okuloj estas sur vi, kiel homplaĉantoj, sed kiel servistoj de Kristo, farante la volon de Dio el la koro, kun bona volo farante servon kiel al la Sinjoro kaj ne al homoj, sciante, ke kion ajn bonan ĉiu faras, li ricevos la saman bonon denove de la Sinjoro, ĉu li estas ligita aŭ libera.
+
+Vi mastroj, faru la samajn aferojn al ili, kaj rezignu minacadon, sciante, ke tiu, kiu estas kaj ilia Mastro kaj via, estas en la ĉielo, kaj ne estas partia kun li.
+
+Fine, estu fortaj en la Sinjoro kaj en la forto de lia potenco. Surmetu la tutan armilaron de Dio, por ke vi povu stari kontraŭ la ruzoj de la diablo. Ĉar nia luktado ne estas kontraŭ karno kaj sango, sed kontraŭ la regantoj, kontraŭ la potencoj, kontraŭ la mondaj regantoj de la mallumo de ĉi tiu epoko, kaj kontraŭ la spiritaj fortoj de malboneco en la ĉielaj lokoj. Tial surmetu la tutan armilaron de Dio, por ke vi povu elteni en la malbona tago, kaj farinte ĉion, stari. Staru do, havante la zonon de vero ĉirkaŭ via talio, kaj surmetinte la kirason de justeco, kaj preparinte viajn piedojn per la preparado de la Bona Novaĵo de paco, super ĉio, prenante la ŝildon de fido, per kiu vi povos estingi ĉiujn fajrajn sagojn de la malbona. Kaj prenu la kaskon de savo, kaj la glavon de la Spirito, kiu estas la vorto de Dio; kun ĉia preĝo kaj petoj, preĝante ĉiam en la Spirito, kaj estante viglaj al ĉi tiu fino en ĉia persisto kaj petoj por ĉiuj sanktuloj. Preĝu por mi, ke parolo estu donita al mi en malfermo de mia buŝo, por konigi kun kuraĝo la misteron de la Bona Novaĵo, por kiu mi estas ambasadoro en ĉenoj; ke en ĝi mi parolu kuraĝe, kiel mi devas paroli.
+
+Sed por ke vi ankaŭ sciu miajn aferojn, kiel mi fartas, Tiĥiko, la amata frato kaj fidela servisto en la Sinjoro, sciigos al vi ĉion. Mi sendis lin al vi por ĉi tiu tre celo, ke vi sciu nian staton kaj ke li konsolu viajn korojn.
+
+Paco estu al la fratoj, kaj amo kun fido, de Dio la Patro kaj la Sinjoro Jesuo Kristo. Graco estu kun ĉiuj, kiuj amas nian Sinjoron Jesuo Kristo kun neputra amo. Amen.
+
+## Filipianoj
+
+La Letero de Paŭlo al la Filipianoj
+
+### Ĉapitro 1
+
+Paŭlo kaj Timoteo, servistoj de Jesuo Kristo, al ĉiuj sanktuloj en Kristo Jesuo, kiuj estas en Filipio, kun la episkopoj kaj diakonoj: Graco al vi kaj paco de Dio, nia Patro, kaj la Sinjoro Jesuo Kristo.
+
+Mi dankas mian Dion ĉiufoje kiam mi memoras vin, ĉiam en ĉiu mia peto por vi ĉiuj, farante miajn petojn kun ĝojo, pro via partopreno en la plifortigo de la Bona Novaĵo de la unua tago ĝis nun; estante certa pri ĉi tiu afero, ke tiu, kiu komencis bonan laboron en vi, plenumos ĝin ĝis la tago de Jesuo Kristo. Estas eĉ ĝuste por mi pensi tiel pri ĉiuj vi, ĉar mi havas vin en mia koro, ĉar kaj en miaj katenoj kaj en la defendo kaj konfirmo de la Bona Novaĵo, vi ĉiuj estas partoprenantoj kun mi de graco. Ĉar Dio estas mia atestanto, kiel mi sopiras ĉiujn vin en la teneraj kompatoj de Kristo Jesuo.
+
+Ĉi tion mi preĝas, ke via amo abundu ankoraŭ pli kaj pli en scio kaj ĉia discernado, por ke vi aprobu la aferojn, kiuj estas bonegaj, ke vi estu sinceraj kaj sen ofendo ĝis la tago de Kristo, plenigitaj per la fruktoj de justeco, kiuj estas per Jesuo Kristo, al la gloro kaj laŭdo de Dio.
+
+Nun mi deziras, ke vi sciu, fratoj, ke la aferoj, kiuj okazis al mi, rezultis pli al la progreso de la Bona Novaĵo, tiel ke ĝi fariĝis evidenta al la tuta palaca gardistaro, kaj al ĉiuj ceteraj, ke miaj katenoj estas en Kristo, kaj ke plej multaj el la fratoj en la Sinjoro, estante certaj per miaj katenoj, estas pli abunde kuraĝaj paroli la vorton de Dio sen timo. Iuj ja predikas Kriston eĉ el envio kaj malpaco, kaj iuj ankaŭ el bona volo. La unuaj malinsincere predikas Kriston el egoisma ambicio, pensante, ke ili aldonas suferon al miaj katenoj; sed la lastaj el amo, sciante, ke mi estas destinita por la defendo de la Bona Novaĵo.
+
+Kio gravas? Nur ke en ĉiu maniero, ĉu en preteksto aŭ en vero, Kristo estas proklamita. Mi ĝojas pri tio, jes, kaj mi ĝojos. Ĉar mi scias, ke ĉi tio rezultos al mia savo per viaj preĝoj kaj la provizo de la Spirito de Jesuo Kristo, laŭ mia fervora atendo kaj espero, ke mi neniel estos seniluziigita, sed kun tuta kuraĝo, kiel ĉiam, nun ankaŭ Kristo estos pligrandigita en mia korpo, ĉu per vivo aŭ per morto. Ĉar por mi vivi estas Kristo, kaj morti estas gajno. Sed se mi daŭre vivos en la karno, ĉi tio alportos frukton de mia laboro; tamen mi ne scias, kion mi elektos. Sed mi estas premegita inter la du, havante la deziron foriri kaj esti kun Kristo, kio estas multe pli bona. Tamen resti en la karno estas pli necesa por via bono. Havante ĉi tiun certecon, mi scias, ke mi restos, jes, kaj restos kun vi ĉiuj por via progreso kaj ĝojo en la fido, ke via fanfaronado abundu en Kristo Jesuo en mi per mia ĉeesto kun vi denove.
+
+Nur lasu vian vivmanieron esti inda je la Bona Novaĵo de Kristo, ke ĉu mi venos kaj vidos vin aŭ estas forestanta, mi aŭdu pri via stato, ke vi staras firme en unu spirito, kun unu animo strebante por la fido de la Bona Novaĵo; kaj en nenio timigita de la kontraŭuloj, kio estas por ili pruvo de detruo, sed por vi de savo, kaj tio de Dio. Ĉar al vi estas donite nome de Kristo, ne nur kredi en li, sed ankaŭ suferi pro li, havante la saman konflikton, kiun vi vidis en mi kaj nun aŭdas estas en mi.
+
+### Ĉapitro 2
+
+Se do estas ia instigo en Kristo, se ia konsolo de amo, se ia kunuleco de la Spirito, se ia kompatemo kaj kompato, plenigu mian ĝojon per tio, ke vi estu samopiniantaj, havante la saman amon, estante unuanimaj, unupensaj; farante nenion per rivaleco aŭ per vanteco, sed en humileco, ĉiu konsiderante aliajn pli bonaj ol si mem; ĉiu el vi ne nur rigardante al siaj propraj aferoj, sed ĉiu el vi ankaŭ al la aferoj de aliaj.
+
+Havu ĉi tion en via menso, kio estis ankaŭ en Kristo Jesuo, kiu, ekzistante en la formo de Dio, ne konsideris egalecon kun Dio io por esti kaptita, sed malplenigis sin, prenante la formon de servanto, farante sin simila al homoj. Kaj trovante sin en homa formo, li humiligis sin, fariĝante obeema ĝis morto, jes, la morto de la kruco. Tial Dio ankaŭ alte ekzaltis lin, kaj donis al li la nomon, kiu estas super ĉiu nomo, ke ĉe la nomo de Jesuo ĉiu genuo kliniĝu, de tiuj en la ĉielo, tiuj sur la tero, kaj tiuj sub la tero, kaj ke ĉiu lango konfesu, ke Jesuo Kristo estas Sinjoro, al la gloro de Dio la Patro.
+
+Do tiam, miaj amataj, eĉ kiel vi ĉiam obeis, ne nur en mia ĉeesto, sed nun multe pli en mia foresto, laboru vian propran savon kun timo kaj tremo. Ĉar estas Dio, kiu laboras en vi ambaŭ por voli kaj labori por sia bona plezuro.
+
+Faru ĉiujn aferojn sen plendado kaj disputado, ke vi fariĝu senkulpaj kaj sendanĝeraj, infanoj de Dio sen difekto en la mezo de kurba kaj malvirta generacio, inter kiuj vi estas vidataj kiel lumoj en la mondo, tenante supren la vorton de vivo, ke mi havu ion por fanfaroni en la tago de Kristo, ke mi ne kuris vane nek laboris vane. Jes, kaj se mi estas verŝita sur la ofero kaj servo de via fido, mi ĝojas kaj ĝojas kun vi ĉiuj. Same, vi ankaŭ devus ĝoji kaj ĝoji kun mi.
+
+Sed mi esperas en la Sinjoro Jesuo sendi Timoteon al vi baldaŭ, ke mi ankaŭ ĝoju, kiam mi scios, kiel vi fartas. Ĉar mi havas neniun alian samopiniantan, kiu vere zorgos pri vi. Ĉar ili ĉiuj serĉas siajn proprajn, ne la aferojn de Jesuo Kristo. Sed vi scias, ke li pruvis sin. Kiel infano servas patron, tiel li servis kun mi en la plibonigo de la Bona Novaĵo. Tial mi esperas sendi lin tuj, tuj kiam mi vidos, kiel ĝi iros kun mi. Sed mi fidas en la Sinjoro, ke mi mem ankaŭ venos baldaŭ.
+
+Sed mi pensis, ke estas necese sendi al vi Epafroditon, mian fraton, kunlaboranton, kunsoldaton, kaj vian apostolon kaj servanton de mia bezono, ĉar li sopiris al vi ĉiuj, kaj estis tre maltrankvila, ĉar vi aŭdis, ke li estis malsana. Ĉar efektive li estis malsana preskaŭ ĝis morto, sed Dio kompatis lin, kaj ne nur lin, sed ankaŭ min, ke mi ne havu malĝojon sur malĝojo. Mi sendis lin do des pli diligente, ke kiam vi vidos lin denove, vi ĝoju, kaj ke mi estu malpli malĝoja. Akceptu lin do en la Sinjoro kun ĉia ĝojo, kaj tenu tiajn homojn en honoro, ĉar pro la laboro de Kristo li alproksimiĝis al morto, riskante sian vivon por provizi tion, kio mankis en via servo al mi.
+
+### Ĉapitro 3
+
+Fine, miaj fratoj, ĝoju en la Sinjoro! Skribi la samajn aferojn al vi, al mi ja ne estas teda, sed por vi ĝi estas sekura.
+
+Gardu vin kontraŭ la hundoj; gardu vin kontraŭ la malbonaj laboristoj; gardu vin kontraŭ la falsa cirkumcido. Ĉar ni estas la cirkumcido, kiuj adoras Dion en la Spirito, kaj ĝojas en Kristo Jesuo, kaj ne havas fidon en la karno; kvankam mi mem eble havas fidon eĉ en la karno. Se iu alia homo pensas, ke li havas fidon en la karno, mi des pli: cirkumcidita la oka tago, el la gento de Izrael, el la tribo de Benjamen, Hebreo de Hebreoj; rilate al la leĝo, Fariseo; rilate al fervoro, persekutante la kunvenon; rilate al la justeco, kiu estas en la leĝo, trovita senkulpa.
+
+Tamen, mi konsideras tiujn aferojn, kiuj estis gajno por mi, kiel perdo por Kristo. Jes certe, kaj mi kalkulas ĉiujn aferojn kiel perdo por la ekscelenco de la scio de Kristo Jesuo, mia Sinjoro, por kiu mi suferis la perdon de ĉiuj aferoj, kaj kalkulas ilin kiel nenion krom rubo, por ke mi povu gajni Kriston kaj esti trovita en li, ne havante justecon propran, tiun kiu estas de la leĝo, sed tiun kiu estas per fido en Kristo, la justeco kiu estas de Dio per fido, por ke mi povu koni lin kaj la potencon de lia releviĝo, kaj la kunulecon de liaj suferoj, fariĝante konforma al lia morto, se per iu ajn rimedo mi povus atingi la releviĝon el la mortintoj. Ne ke mi jam akiris, aŭ jam estas perfekta; sed mi premas antaŭen, por ke mi povu ekteni tion, por kio ankaŭ mi estis ektenita de Kristo Jesuo.
+
+Fratoj, mi ne konsideras min ankoraŭ ekteninta, sed unu aferon mi faras: forgesante la aferojn, kiuj estas malantaŭe kaj etendante min antaŭen al la aferoj, kiuj estas antaŭe, mi premas antaŭen al la celo por la premio de la alta voko de Dio en Kristo Jesuo. Ni do, kiom ajn estas perfektaj, pensu tiel. Se en io vi pensas alie, Dio ankaŭ malkaŝos tion al vi. Tamen, ĝis la grado, ke ni jam atingis, ni iru laŭ la sama regulo. Ni estu de la sama menso.
+
+Fratoj, estu imitantoj kune de mi, kaj notu tiujn, kiuj iras ĉi tiun vojon, eĉ kiel vi havas nin kiel ekzemplon. Ĉar multaj iras, pri kiuj mi ofte diris al vi, kaj nun diras eĉ plorante, kiel la malamikoj de la kruco de Kristo, kies fino estas detruo, kies dio estas la ventro, kaj kies gloro estas en ilia honto, kiuj pensas pri teraj aferoj. Ĉar nia civitaneco estas en la ĉielo, de kie ni ankaŭ atendas Savanton, la Sinjoron Jesuo Kristo, kiu ŝanĝos la korpon de nia humiligo por esti konforma al la korpo de lia gloro, laŭ la laborado per kiu li kapablas eĉ submeti ĉiujn aferojn al si mem.
+
+### Ĉapitro 4
+
+Tial, miaj fratoj, amataj kaj sopirataj, mia ĝojo kaj krono, staru firme en la Sinjoro tiel, miaj amataj.
+
+Mi instigas Evodian, kaj mi instigas Syntyche, pensi same en la Sinjoro. Jes, mi petas ankaŭ vin, vera kunulo, helpu ĉi tiujn virinojn, ĉar ili laboris kun mi en la Bona Novaĵo kun ankaŭ Klemento, kaj la ceteraj miaj kunlaborantoj, kies nomoj estas en la libro de vivo.
+
+Ĝoju en la Sinjoro ĉiam! Denove mi diros, "Ĝoju!" Via ĝentileco estu konata al ĉiuj homoj. La Sinjoro estas proksima. En nenio estu maltrankvilaj, sed en ĉio, per preĝo kaj peto kun danko, viaj petoj estu konataj al Dio. Kaj la paco de Dio, kiu superas ĉian komprenon, gardos viajn korojn kaj viajn pensojn en Kristo Jesuo.
+
+Fine, fratoj, kio ajn estas vera, kio ajn estas honora, kio ajn estas justa, kio ajn estas pura, kio ajn estas aminda, kio ajn estas de bona raporto: se estas ia virto kaj se estas io inda je laŭdo, pensu pri ĉi tiuj aferoj. Faru la aferojn, kiujn vi lernis, ricevis, aŭdis, kaj vidis en mi, kaj la Dio de paco estos kun vi.
+
+Sed mi ĝojas en la Sinjoro tre, ke nun fine vi revivigis vian penson por mi; en kiu vi ja pensis, sed vi mankis okazo. Ne ke mi parolas pro manko, ĉar mi lernis en kia ajn stato mi estas, esti kontenta en ĝi. Mi scias kiel esti humiligita, kaj mi ankaŭ scias kiel abundi. En ĉiu kaj ĉiuj cirkonstancoj mi lernis la sekreton kaj esti sata kaj esti malsata, kaj abundi kaj esti en bezono. Mi povas fari ĉion per Kristo, kiu fortigas min. Tamen vi bone faris, ke vi partoprenis en mia aflikto. Vi mem ankaŭ scias, vi Filipianoj, ke en la komenco de la Bona Novaĵo, kiam mi foriris el Makedonio, neniu kunveno partoprenis kun mi en la afero de donado kaj ricevado krom vi nur. Ĉar eĉ en Tesaloniko vi sendis unufoje kaj denove al mia bezono. Ne ke mi serĉas la donacon, sed mi serĉas la frukton, kiu kreskas al via konto. Sed mi havas ĉion kaj abunde. Mi estas sata, ricevante de Epafrodito la aferojn, kiuj venis de vi, dolĉodora bonodoro, akceptebla kaj bone plaĉa ofero al Dio. Mia Dio provizos ĉiun vian bezonon laŭ siaj riĉaĵoj en gloro en Kristo Jesuo. Nun al nia Dio kaj Patro estu la gloro eterne kaj eterne! Amen.
+
+Salutu ĉiun sanktulon en Kristo Jesuo. La fratoj, kiuj estas kun mi, salutas vin. Ĉiuj sanktuloj salutas vin, precipe tiuj, kiuj estas de la domanaro de Cezaro.
+
+La graco de la Sinjoro Jesuo Kristo estu kun vi ĉiuj. Amen.
+
+## Koloseanoj
+
+La Letero de Paŭlo al la Koloseanoj
+
+### Ĉapitro 1
+
+Paŭlo, apostolo de Kristo Jesuo per la volo de Dio, kaj Timoteo nia frato, al la sanktuloj kaj fidelaj fratoj en Kristo ĉe Koloseo: Graco al vi kaj paco de Dio nia Patro kaj la Sinjoro Jesuo Kristo.
+
+Ni dankas Dion, la Patron de nia Sinjoro Jesuo Kristo, ĉiam preĝante por vi, aŭdinte pri via fido en Kristo Jesuo kaj pri la amo, kiun vi havas al ĉiuj sanktuloj, pro la espero, kiu estas rezervita por vi en la ĉieloj, pri kiu vi antaŭe aŭdis en la vorto de la vero de la Bona Novaĵo, kiu venis al vi, kiel ĝi estas en la tuta mondo kaj portas frukton kaj kreskas, kiel ĝi faras ankaŭ en vi, ekde la tago, kiam vi aŭdis kaj konis la gracon de Dio en vero, kiel vi lernis de Epafras, nia amata kunservisto, kiu estas fidela servisto de Kristo por vi, kiu ankaŭ deklaris al ni vian amon en la Spirito.
+
+Pro tio, ni ankaŭ, ekde la tago, kiam ni aŭdis tion, ne ĉesas preĝi kaj fari petojn por vi, ke vi estu plenigitaj per la scio de lia volo en ĉia spirita saĝeco kaj kompreno, ke vi iru digne de la Sinjoro, por plaĉi al li en ĉiuj aspektoj, portante frukton en ĉiu bona laboro kaj kreskante en la scio de Dio, fortigitaj per ĉia potenco, laŭ la forto de lia gloro, por ĉia eltenemo kaj persisto kun ĝojo, dankante la Patron, kiu igis nin taŭgaj partopreni la heredaĵon de la sanktuloj en lumo, kiu liberigis nin el la potenco de mallumo, kaj tradukis nin en la Regnon de la Filo de lia amo, en kiu ni havas nian elaĉeton, la pardonon de niaj pekoj.
+
+Li estas la bildo de la nevidebla Dio, la unuenaskito de ĉiu kreitaĵo. Ĉar per li ĉiuj aferoj estis kreitaj en la ĉieloj kaj sur la tero, videblaj aferoj kaj nevideblaj aferoj, ĉu tronoj aŭ regadoj aŭ ĉefeco aŭ potencoj. Ĉiuj aferoj estis kreitaj per li kaj por li. Li estas antaŭ ĉiuj aferoj, kaj en li ĉiuj aferoj estas kuntenataj. Li estas la kapo de la korpo, la kunveno, kiu estas la komenco, la unuenaskito el la mortintoj, ke en ĉiuj aferoj li povu havi la superregon. Ĉar la tuta pleneco estis kontenta loĝi en li, kaj per li repacigi ĉiujn aferojn al si mem per li, ĉu aferoj sur la tero aŭ aferoj en la ĉieloj, farinte pacon per la sango de lia kruco.
+
+Vi, estante en pasintaj tempoj fremdigitaj kaj malamikoj en via menso en viaj malbonaj faroj, tamen nun li repacigis en la korpo de sia karno per morto, por prezenti vin sanktaj kaj senmakulaj kaj senkulpaj antaŭ li, se tiel estas, ke vi daŭras en la fido, fundamentitaj kaj firmaj, kaj ne movitaj for de la espero de la Bona Novaĵo, kiun vi aŭdis, kiu estas proklamata en la tuta kreitaĵo sub la ĉielo, de kiu mi, Paŭlo, estis farita servisto.
+
+Nun mi ĝojas en miaj suferoj pro vi, kaj plenigas mian parton, kiu mankas el la afliktoj de Kristo en mia karno por la korpo de li, kiu estas la kunveno, de kiu mi estis farita servisto laŭ la administrado de Dio, kiu estis donita al mi por vi por plenumi la vorton de Dio, la misteron, kiu estis kaŝita dum aĝoj kaj generacioj. Sed nun ĝi estis malkaŝita al liaj sanktuloj, al kiuj Dio estis kontenta konigi, kiaj estas la riĉaĵoj de la gloro de ĉi tiu mistero inter la nacianoj, kiu estas Kristo en vi, la espero de gloro. Ni proklamas lin, admonante ĉiun homon kaj instruante ĉiun homon en ĉia saĝeco, ke ni povu prezenti ĉiun homon perfekta en Kristo Jesuo; por kiu mi ankaŭ laboras, strebante laŭ lia laborado, kiu laboras en mi potence.
+
+### Ĉapitro 2
+
+Ĉar mi deziras, ke vi sciu, kiel multe mi luktas por vi kaj por tiuj en Laodikeo, kaj por ĉiuj, kiuj ne vidis mian vizaĝon en la karno; por ke iliaj koroj estu konsolataj, ili estante kunligitaj en amo, kaj akirante ĉiujn riĉaĵojn de la plena certeco de kompreno, por ke ili sciu la misteron de Dio, kaj de la Patro kaj de Kristo, en kiu ĉiuj trezoroj de saĝo kaj scio estas kaŝitaj. Nun mi diras tion, por ke neniu trompu vin per persvado de parolo. Ĉar kvankam mi estas fore en la karno, tamen mi estas kun vi en la spirito, ĝojante kaj vidante vian ordon, kaj la firmecon de via fido en Kristo.
+
+Kiel do vi ricevis Kriston Jesuo la Sinjoron, iru en li, enradikiĝinte kaj konstruiĝinte en li kaj firmiĝinte en la fido, kiel vi estis instruitaj, abundante en ĝi en dankemo.
+
+Atentu, ke vi ne lasu iun ŝteli vin per sia filozofio kaj vana trompo, laŭ la tradicio de homoj, laŭ la elementaj spiritoj de la mondo, kaj ne laŭ Kristo. Ĉar en li loĝas korpe la tuta pleneco de la Dieco, kaj en li vi estas pleniĝintaj, kiu estas la kapo de ĉiu regado kaj potenco. En li vi ankaŭ estis cirkumciditaj per cirkumcido ne farita per manoj, en la demetado de la korpo de la pekoj de la karno, en la cirkumcido de Kristo, entombigitaj kun li en bapto, en kiu vi ankaŭ estis levitaj kun li per fido en la laborado de Dio, kiu levis lin el la mortintoj. Vi estis mortaj pro viaj pekoj kaj la necirkumcido de via karno. Li vivigis vin kune kun li, pardoninte al ni ĉiujn niajn pekojn, forviŝante la manskribon en ordonoj, kiu estis kontraŭ ni. Li forprenis ĝin el la vojo, najlante ĝin al la kruco. Havante senŝeligintaj la regadojn kaj la potencojn, li faris spektaklon de ili malkaŝe, triumfante super ili en ĝi.
+
+Do neniu juĝu vin en manĝado aŭ trinkado, aŭ rilate al festotago aŭ nova luno aŭ sabata tago, kiuj estas ombro de la venontaj aferoj; sed la korpo estas de Kristo. Neniu ŝtelu vian premion per mem-abnegacio kaj adorado de la anĝeloj, loĝante en la aferoj, kiujn li ne vidis, vane ŝveligita de sia karna menso, kaj ne firme tenante al la Kapo, de kiu la tuta korpo, estante provizita kaj kunligita per la juntoj kaj ligamentoj, kreskas kun la kresko de Dio.
+
+Se vi mortis kun Kristo el la elementaj spiritoj de la mondo, kial, kvazaŭ vivante en la mondo, vi submetas vin al ordonoj, "Ne tuŝu, nek gustumu, nek manu" (ĉiuj el kiuj pereas per uzo), laŭ la preskriboj kaj doktrinoj de homoj? Ĉi tiuj aferoj ja ŝajnas kiel saĝo en memtrudita adorado, humileco, kaj severeco al la korpo, sed ne havas iun valoron kontraŭ la indulgo de la karno.
+
+### Ĉapitro 3
+
+Se vi do leviĝis kun Kristo, serĉu la aferojn, kiuj estas supre, kie Kristo estas, sidanta dekstre de Dio. Metu vian menson sur la aferojn, kiuj estas supre, ne sur la aferojn, kiuj estas sur la tero. Ĉar vi mortis, kaj via vivo estas kaŝita kun Kristo en Dio. Kiam Kristo, nia vivo, estos malkaŝita, tiam vi ankaŭ estos malkaŝitaj kun li en gloro.
+
+Mortigu do viajn membrojn, kiuj estas sur la tero: seksan malĉastecon, malpurecon, malbonan pasion, malbonan deziron, kaj avidecon, kiu estas idolkulto. Pro tiuj aferoj la kolero de Dio venas sur la infanojn de malobeo. Vi ankaŭ iam iris en tiuj, kiam vi vivis en ili, sed nun vi devas forigi ilin ĉiujn: koleron, furiozon, malicon, kalumnion, kaj hontindan paroladon el via buŝo. Ne mensogu unu al la alia, vidante ke vi demetis la malnovan homon kun liaj faroj, kaj surmetis la novan homon, kiu estas renovigata en scio laŭ la bildo de sia Kreinto, kie ne povas esti Greko kaj Judo, cirkumcido kaj necirkumcido, barbaro, Skito, sklavo, aŭ libera persono; sed Kristo estas ĉio, kaj en ĉio.
+
+Surmetu do, kiel la elektitoj de Dio, sanktaj kaj amataj, koron de kompato, bonecon, humilecon, humilecon, kaj paciencon; tolerante unu la alian, kaj pardonante unu la alian, se iu havas plendon kontraŭ iu; kiel Kristo pardonis vin, tiel ankaŭ vi faru.
+
+Super ĉiuj ĉi tiuj aferoj, iru en amo, kiu estas la ligilo de perfekteco. Kaj lasu la pacon de Dio regi en viaj koroj, al kiu ankaŭ vi estis vokitaj en unu korpo, kaj estu dankemaj. Lasu la vorton de Kristo loĝi en vi riĉe; en ĉia saĝo instruante kaj admonante unu la alian per psalmoj, himnoj, kaj spiritaj kantoj, kantante kun graco en via koro al la Sinjoro.
+
+Kion ajn vi faras, en vorto aŭ en faro, faru ĉion en la nomo de la Sinjoro Jesuo, dankante Dion la Patron per li.
+
+Edzinoj, estu submetitaj al viaj edzoj, kiel konvenas en la Sinjoro.
+
+Edzoj, amu viajn edzinojn, kaj ne estu amaraj kontraŭ ili.
+
+Infanoj, obeu viajn gepatrojn en ĉiuj aferoj, ĉar tio plaĉas al la Sinjoro.
+
+Patroj, ne provoku viajn infanojn, por ke ili ne senkuraĝiĝu.
+
+Servistoj, obeu en ĉiuj aferoj tiujn, kiuj estas viaj mastroj laŭ la karno, ne nur kiam ili rigardas, kiel homplaĉantoj, sed en simpleco de koro, timante Dion. Kaj kion ajn vi faras, laboru kore, kiel por la Sinjoro kaj ne por homoj, sciante ke de la Sinjoro vi ricevos la rekompencon de la heredaĵo; ĉar vi servas la Sinjoron Kriston. Sed tiu, kiu faras malbonon, ricevos denove por la malbono, kiun li faris, kaj ne estas partiaĵo.
+
+### Ĉapitro 4
+
+Majstroj, donu al viaj servantoj tion, kio estas justa kaj egala, sciante, ke vi ankaŭ havas Majstron en la ĉielo.
+
+Daŭre preĝu konstante, observante en ĝi kun dankemo, preĝante kune por ni ankaŭ, ke Dio malfermu al ni pordon por la vorto, por paroli la misteron de Kristo, pro kiu mi ankaŭ estas en katenoj, ke mi povu malkaŝi ĝin kiel mi devas paroli.
+
+Iru en saĝeco al tiuj, kiuj estas ekstere, elaĉetante la tempon. Via parolo ĉiam estu kun graco, spicita per salo, por ke vi sciu kiel vi devas respondi al ĉiu.
+
+Ĉiuj miaj aferoj estos konigitaj al vi de Tiĥiko, la amata frato, fidela servanto, kaj kunservanto en la Sinjoro. Mi sendas lin al vi por ĉi tiu tre celo, ke li sciu viajn cirkonstancojn kaj konsolu viajn korojn, kune kun Onesimo, la fidela kaj amata frato, kiu estas unu el vi. Ili konigos al vi ĉion, kio okazas ĉi tie.
+
+Aristarko, mia kunprizonulo, salutas vin, kaj Marko, la kuzo de Barnabas (pri kiu vi ricevis instrukciojn, "se li venos al vi, akceptu lin"), kaj Jesuo, kiu estas nomata Justo. Ĉi tiuj estas miaj solaj kunlaborantoj por la Regno de Dio, kiuj estas de la cirkumcido, viroj, kiuj estis komforto al mi.
+
+Epafras, kiu estas unu el vi, servanto de Kristo, salutas vin, ĉiam strebante por vi en siaj preĝoj, ke vi staru perfektaj kaj kompletaj en la tuta volo de Dio. Ĉar mi atestas pri li, ke li havas grandan fervoron por vi, kaj por tiuj en Laodikeo, kaj por tiuj en Hierapolis. Luko, la amata kuracisto, kaj Demas salutas vin. Salutu la fratojn, kiuj estas en Laodikeo, kun Nimfas kaj la kunveno, kiu estas en lia domo. Kiam ĉi tiu letero estos legita inter vi, igu ĝin esti legita ankaŭ en la kunveno de la Laodikeanoj, kaj ke vi ankaŭ legu la leteron de Laodikeo. Diru al Arĥipo, "Atentu la ministerion, kiun vi ricevis en la Sinjoro, ke vi plenumu ĝin."
+
+Mi, Paŭlo, skribas ĉi tiun saluton per mia propra mano. Memoru miajn katenojn. Graco estu kun vi. Amen.
+
+## 1 Tesalonikanoj
+
+La Unua Letero de Paŭlo al la Tesalonikanoj
+
+### Ĉapitro 1
+
+Paŭlo, Silvano, kaj Timoteo, al la kunveno de la Tesalonikanoj en Dio la Patro kaj la Sinjoro Jesuo Kristo: Graco al vi kaj paco de Dio nia Patro kaj la Sinjoro Jesuo Kristo.
+
+Ni ĉiam dankas Dion pro ĉiuj vi, menciante vin en niaj preĝoj, memorante senĉese vian laboron de fido kaj penadon de amo kaj persistemon de espero en nia Sinjoro Jesuo Kristo, antaŭ nia Dio kaj Patro. Ni scias, fratoj amataj de Dio, ke vi estas elektitaj, kaj ke nia Bona Novaĵo venis al vi ne nur en vorto, sed ankaŭ en potenco, kaj en la Sankta Spirito kaj kun granda certeco. Vi scias, kiajn virojn ni montris nin esti inter vi por via bono. Vi fariĝis imitantoj de ni kaj de la Sinjoro, ricevante la vorton en multe da aflikto, kun ĝojo de la Sankta Spirito, tiel ke vi fariĝis ekzemplo al ĉiuj, kiuj kredas en Makedonio kaj en Aĥajo. Ĉar de vi la vorto de la Sinjoro estis deklarita, ne nur en Makedonio kaj Aĥajo, sed ankaŭ en ĉiu loko via fido al Dio eliris, tiel ke ni ne bezonas diri ion. Ĉar ili mem raportas pri ni, kia akcepto ni havis de vi, kaj kiel vi turnis vin al Dio de idoloj por servi vivantan kaj veran Dion, kaj por atendi lian Filon el la ĉielo, kiun li levis el la mortintoj: Jesuo, kiu savas nin de la venonta kolero.
+
+### Ĉapitro 2
+
+Ĉar vi mem scias, fratoj, nia vizito al vi ne estis vana, sed suferinte antaŭe kaj estinte hontinde traktitaj, kiel vi scias, en Filipio, ni kreskis kuraĝaj en nia Dio por diri al vi la Bonan Novaĵon de Dio en multe da konflikto. Ĉar nia instigo ne estas el eraro, nek el malpureco, nek en trompo. Sed eĉ kiel ni estis aprobitaj de Dio por esti konfiditaj kun la Bona Novaĵo, tiel ni parolas—ne kiel plaĉante al homoj, sed al Dio, kiu provas niajn korojn. Ĉar nek iam ajn ni estis trovitaj uzante vortojn de flatado, kiel vi scias, nek kovrilon de avideco (Dio estas atestanto), nek serĉante gloron de homoj (nek de vi nek de aliaj), kiam ni povus postuli aŭtoritaton kiel apostoloj de Kristo. Sed ni estis mildaj inter vi, kiel nutranta patrino prizorgas siajn proprajn infanojn.
+
+Eĉ tiel, afekcie sopirante vin, ni estis bone kontentaj transdoni al vi ne nur la Bonan Novaĵon de Dio, sed ankaŭ niajn proprajn animojn, ĉar vi fariĝis tre karaj al ni. Ĉar vi memoras, fratoj, nian laboron kaj penadon; ĉar laborante tage kaj nokte, ke ni ne ŝarĝu iun el vi, ni predikis al vi la Bonan Novaĵon de Dio. Vi estas atestantoj kun Dio kiel sanktaj, juste, kaj senkulpaj ni kondutis nin al vi, kiuj kredas. Kiel vi scias, ni instigis, konsolis, kaj petegis ĉiun el vi, kiel patro faras al siaj propraj infanoj, por ke vi iru digne de Dio, kiu vokas vin en sian propran Regnon kaj gloron.
+
+Pro ĉi tiu kaŭzo ni ankaŭ dankas Dion senĉese, ke kiam vi ricevis de ni la vorton de la mesaĝo de Dio, vi akceptis ĝin ne kiel la vorton de homoj, sed kiel ĝi estas vere, la vorto de Dio, kiu ankaŭ laboras en vi, kiuj kredas. Ĉar vi, fratoj, fariĝis imitantoj de la kunvenoj de Dio, kiuj estas en Judeo en Kristo Jesuo; ĉar vi ankaŭ suferis la samajn aferojn de viaj propraj samlandanoj, kiel ili faris de la Judoj, kiuj mortigis kaj la Sinjoron Jesuon kaj siajn proprajn profetojn, kaj elpelis nin, kaj ne plaĉas al Dio, kaj estas kontraŭaj al ĉiuj homoj, malpermesante al ni paroli al la nacianoj, ke ili povu esti savitaj, por plenigi siajn pekojn ĉiam. Sed kolero venis sur ilin ĝis la plej alta grado.
+
+Sed ni, fratoj, estante senigitaj de vi por mallonga sezono en ĉeesto, ne en koro, provis eĉ pli forte vidi vian vizaĝon kun granda deziro, ĉar ni volis veni al vi—efektive, mi, Paŭlo, unufoje kaj denove—sed Satano malhelpis nin. Ĉar kio estas nia espero, aŭ ĝojo, aŭ krono de ĝojo? Ĉu ĝi ne estas eĉ vi, antaŭ nia Sinjoro Jesuo ĉe lia alveno? Ĉar vi estas nia gloro kaj nia ĝojo.
+
+### Ĉapitro 3
+
+Tial, kiam ni ne povis elteni ĝin plu, ni opiniis bone resti malantaŭe en Ateno sole, kaj sendis Timoteon, nian fraton kaj serviston de Dio en la Bona Novaĵo de Kristo, por establi vin kaj konsoli vin pri via fido, ke neniu estu movita de ĉi tiuj afliktoj. Ĉar vi scias, ke ni estas destinataj al ĉi tiu tasko. Ĉar certe, kiam ni estis kun vi, ni antaŭdiris, ke ni suferos aflikton, kiel ĝi okazis, kaj vi scias. Pro ĉi tiu kaŭzo mi ankaŭ, kiam mi ne povis elteni ĝin plu, sendis por ke mi povu scii vian fidon, timante ke per iu ajn rimedo la tentanto tentis vin, kaj nia laboro estus vana.
+
+Sed Timoteo ĵus venis al ni de vi, kaj alportis al ni ĝojan novaĵon pri via fido kaj amo, kaj ke vi havas bonajn memorojn pri ni ĉiam, sopirante vidi nin, kiel ni ankaŭ sopiras vidi vin. Pro ĉi tiu kaŭzo, fratoj, ni estis konsolataj pri vi en ĉiuj niaj maltrankvilo kaj aflikto per via fido. Ĉar nun ni vivas, se vi staras firme en la Sinjoro. Ĉar kia danko ni povas redoni al Dio por vi, por la tuta ĝojo kun kiu ni ĝojas pro vi antaŭ nia Dio, nokte kaj tage preĝante ekstreme ke ni povu vidi vian vizaĝon kaj perfektigi tion, kio mankas en via fido?
+
+Nun nia Dio kaj Patro mem, kaj nia Sinjoro Jesuo Kristo, direktu nian vojon al vi. Ke la Sinjoro faru vin kreski kaj abundi en amo unu al la alia kaj al ĉiuj homoj, kiel ni ankaŭ faras al vi, ĝis la fino li povu establi viajn korojn senkulpaj en sankteco antaŭ nia Dio kaj Patro ĉe la alveno de nia Sinjoro Jesuo kun ĉiuj liaj sanktuloj.
+
+### Ĉapitro 4
+
+Tial, kiam ni ne povis elteni ĝin plu, ni opiniis bone resti malantaŭe en Ateno sole, kaj sendis Timoteon, nian fraton kaj serviston de Dio en la Bona Novaĵo de Kristo, por establi vin kaj konsoli vin pri via fido, ke neniu estu movita de ĉi tiuj afliktoj. Ĉar vi scias, ke ni estas destinataj al ĉi tiu tasko. Ĉar certe, kiam ni estis kun vi, ni antaŭdiris, ke ni suferos aflikton, kiel ĝi okazis, kaj vi scias. Pro ĉi tiu kaŭzo mi ankaŭ, kiam mi ne povis elteni ĝin plu, sendis por ke mi povu scii vian fidon, timante ke per iu ajn rimedo la tentanto tentis vin, kaj nia laboro estus vana.
+
+Sed Timoteo ĵus venis al ni de vi, kaj alportis al ni ĝojan novaĵon pri via fido kaj amo, kaj ke vi havas bonajn memorojn pri ni ĉiam, sopirante vidi nin, kiel ni ankaŭ sopiras vidi vin. Pro ĉi tiu kaŭzo, fratoj, ni estis konsolataj pri vi en ĉiuj niaj maltrankvilo kaj aflikto per via fido. Ĉar nun ni vivas, se vi staras firme en la Sinjoro. Ĉar kia danko ni povas redoni al Dio por vi, por la tuta ĝojo kun kiu ni ĝojas pro vi antaŭ nia Dio, nokte kaj tage preĝante ekstreme ke ni povu vidi vian vizaĝon kaj perfektigi tion, kio mankas en via fido?
+
+Nun nia Dio kaj Patro mem, kaj nia Sinjoro Jesuo Kristo, direktu nian vojon al vi. Ke la Sinjoro faru vin kreski kaj abundi en amo unu al la alia kaj al ĉiuj homoj, kiel ni ankaŭ faras al vi, ĝis la fino li povu establi viajn korojn senkulpaj en sankteco antaŭ nia Dio kaj Patro ĉe la alveno de nia Sinjoro Jesuo kun ĉiuj liaj sanktuloj.
+
+Fine do, fratoj, ni petegas kaj instigas vin en la Sinjoro Jesuo, ke kiel vi ricevis de ni kiel vi devas marŝi kaj plaĉi al Dio, ke vi abundu pli kaj pli. Ĉar vi scias, kiaj instrukcioj ni donis al vi per la Sinjoro Jesuo. Ĉar ĉi tio estas la volo de Dio: via sanktigo, ke vi detenu vin de seksa malĉasteco, ke ĉiu el vi sciu kiel regi sian propran korpon en sanktigo kaj honoro, ne en la pasio de volupto, kiel la Gentiloj kiuj ne konas Dion, ke neniu profitu kaj maljustu fraton aŭ fratinon en ĉi tiu afero; ĉar la Sinjoro estas venĝanto en ĉiuj ĉi tiuj aferoj, kiel ni ankaŭ avertis vin kaj atestis. Ĉar Dio vokis nin ne por malpureco, sed en sanktigo. Tial tiu, kiu malakceptas ĉi tion, ne malakceptas homon, sed Dion, kiu ankaŭ donis sian Sanktan Spiriton al vi.
+
+Sed pri frata amo, vi ne bezonas, ke iu skribu al vi. Ĉar vi mem estas instruitaj de Dio ami unu la alian, ĉar efektive vi faras ĝin al ĉiuj la fratoj, kiuj estas en tuta Makedonio. Sed ni instigas vin, fratoj, ke vi abundu pli kaj pli; kaj ke vi faru vian ambicion vivi trankvilan vivon, kaj fari vian propran aferon, kaj labori per viaj propraj manoj, kiel ni instruis vin, ke vi povu marŝi ĝuste al tiuj, kiuj estas ekstere, kaj ne bezonu ion.
+
+Sed ni ne volas, ke vi estu nescipovaj, fratoj, pri tiuj, kiuj endormiĝis, por ke vi ne malĝoju kiel la ceteraj, kiuj ne havas esperon. Ĉar se ni kredas, ke Jesuo mortis kaj releviĝis, eĉ tiel Dio alportos kun li tiujn, kiuj endormiĝis en Jesuo. Ĉar ĉi tion ni diras al vi per la vorto de la Sinjoro, ke ni, kiuj estas vivaj, kiuj restas ĝis la alveno de la Sinjoro, neniel antaŭos tiujn, kiuj endormiĝis. Ĉar la Sinjoro mem malsupreniros el la ĉielo kun krio, kun la voĉo de la ĉefanĝelo kaj kun la trumpeto de Dio. La mortintoj en Kristo leviĝos unue, tiam ni, kiuj estas vivaj, kiuj restas, estos kaptitaj kune kun ili en la nuboj por renkonti la Sinjoron en la aero. Do ni estos kun la Sinjoro eterne. Tial konsolu unu la alian per ĉi tiuj vortoj.
+
+### Ĉapitro 5
+
+Sed pri la tempoj kaj la sezonoj, fratoj, vi ne bezonas, ke io estu skribita al vi. Ĉar vi mem bone scias, ke la tago de la Sinjoro venas kiel ŝtelisto en la nokto. Ĉar kiam ili diras, "Paco kaj sekureco," tiam subita detruo venos sur ilin, kiel naskodoloroj sur graveda virino. Tiam ili neniel eskapos. Sed vi, fratoj, ne estas en mallumo, ke la tago kaptu vin kiel ŝtelisto. Vi ĉiuj estas infanoj de lumo kaj infanoj de la tago. Ni ne apartenas al la nokto, nek al mallumo, do ni ne dormu, kiel la ceteraj, sed ni gardu kaj estu sobraj. Ĉar tiuj, kiuj dormas, dormas en la nokto; kaj tiuj, kiuj estas ebriaj, estas ebriaj en la nokto. Sed ĉar ni apartenas al la tago, ni estu sobraj, surmetante la kirason de fido kaj amo, kaj kiel kaskon, la esperon de savo. Ĉar Dio ne destinis nin al kolero, sed al la akiro de savo per nia Sinjoro Jesuo Kristo, kiu mortis por ni, ke, ĉu ni vekiĝas aŭ dormas, ni vivu kune kun li. Tial instigu unu la alian, kaj konstruu unu la alian, kiel vi ankaŭ faras.
+
+Sed ni petegas vin, fratoj, koni tiujn, kiuj laboras inter vi, kaj estas super vi en la Sinjoro kaj admonas vin, kaj respekti kaj honori ilin en amo pro ilia laboro.
+
+Estu en paco inter vi. Ni instigas vin, fratoj: Admonu la malordemajn; kuraĝigu la malfortanimajn; subtenu la malfortajn; estu paciencaj al ĉiuj. Zorgu, ke neniu redonu malbonon por malbono al iu ajn, sed ĉiam sekvu tion, kio estas bona por unu la alian kaj por ĉiuj.
+
+Ĉiam ĝoju. Preĝu senĉese. En ĉio danku, ĉar tio estas la volo de Dio en Kristo Jesuo al vi. Ne estingu la Spiriton. Ne malestimu profetaĵojn. Provu ĉion, kaj firme tenu tion, kio estas bona. Detenu vin de ĉiu formo de malbono.
+
+La Dio de paco mem sanktigu vin tute. Via tuta spirito, animo, kaj korpo estu konservataj senkulpaj ĉe la alveno de nia Sinjoro Jesuo Kristo.
+
+Li, kiu vokas vin, estas fidela, kiu ankaŭ faros ĝin.
+
+Fratoj, preĝu por ni.
+
+Salutu ĉiujn fratojn per sankta kiso. Mi solene ordonas al vi per la Sinjoro, ke ĉi tiu letero estu legata al ĉiuj sanktaj fratoj.
+
+La graco de nia Sinjoro Jesuo Kristo estu kun vi. Amen.
+
+## 2 Tesalonikanoj
+
+La Dua Letero de Paŭlo al la Tesalonikanoj
+
+### Ĉapitro 1
+
+Paŭlo, Silvano, kaj Timoteo, al la kunveno de la Tesalonikanoj en Dio nia Patro kaj la Sinjoro Jesuo Kristo: Graco al vi kaj paco de Dio nia Patro kaj la Sinjoro Jesuo Kristo.
+
+Ni estas devigitaj ĉiam danki Dion pro vi, fratoj, kiel estas konvene, ĉar via fido kreskas tre multe, kaj la amo de ĉiu el vi unu al la alia abunde pliiĝas, tiel ke ni mem fanfaronas pri vi en la kunvenoj de Dio pro via persisto kaj fido en ĉiuj viaj persekutoj kaj en la afliktoj, kiujn vi eltenas. Ĉi tio estas evidenta signo de la justa juĝo de Dio, por ke vi estu kalkulitaj indaj je la Regno de Dio, por kiu vi ankaŭ suferas. Ĉar estas justa afero kun Dio repagi aflikton al tiuj, kiuj afliktas vin, kaj doni ripozon al vi, kiuj estas afliktitaj kun ni, kiam la Sinjoro Jesuo estos malkaŝita el la ĉielo kun siaj potencaj anĝeloj en flamanta fajro, punante tiujn, kiuj ne konas Dion, kaj tiujn, kiuj ne obeas la Bonan Novaĵon de nia Sinjoro Jesuo, kiuj pagos la punon: eterna detruo de la vizaĝo de la Sinjoro kaj de la gloro de lia potenco, kiam li venos en tiu tago por esti glorata en siaj sanktuloj kaj por esti admirata inter ĉiuj, kiuj kredis, ĉar nia atesto al vi estis kredis.
+
+Por ĉi tiu celo ni ankaŭ ĉiam preĝas por vi, ke nia Dio kalkulu vin indaj je via voko, kaj plenumu ĉiun deziron de boneco kaj laboron de fido kun potenco, ke la nomo de nia Sinjoro Jesuo estu glorata en vi, kaj vi en li, laŭ la graco de nia Dio kaj la Sinjoro Jesuo Kristo.
+
+### Ĉapitro 2
+
+Nun, fratoj, koncerne la venon de nia Sinjoro Jesuo Kristo kaj nia kunveno al li, ni petas vin ne esti rapide skuitaj en via menso aŭ maltrankviligitaj, ĉu per spirito aŭ per vorto aŭ per letero kvazaŭ de ni, dirante ke la tago de Kristo jam venis. Neniu trompu vin iel ajn. Ĉar ĝi ne estos krom se la ribelo unue venos, kaj la homo de peko estos malkaŝita, la filo de detruo. Li kontraŭstaras kaj sin altigas kontraŭ ĉio, kio estas nomata Dio aŭ kiu estas adorata, tiel ke li sidas kiel Dio en la templo de Dio, starigante sin kiel Dio. Ĉu vi ne memoras, ke kiam mi ankoraŭ estis kun vi, mi diris al vi ĉi tiujn aferojn? Nun vi scias, kio lin retenas, por ke li estu malkaŝita en sia propra sezono. Ĉar la mistero de senleĝeco jam funkcias. Nur estas unu, kiu nun retenas, ĝis li estos forigita. Tiam la senleĝulo estos malkaŝita, kiun la Sinjoro mortigos per la spiro de sia buŝo kaj detruos per la manifestiĝo de sia alveno; eĉ li, kies alveno estas laŭ la laboro de Satano kun ĉia potenco kaj signoj kaj mensogaj mirakloj, kaj kun ĉia trompo de malboneco por tiuj, kiuj perdiĝas, ĉar ili ne ricevis la amon de la vero, ke ili povus esti savitaj. Pro tio, Dio sendas al ili potencan iluzion, ke ili kredu mensogon, ke ili ĉiuj estu juĝitaj, kiuj ne kredis la veron, sed havis plezuron en maljusteco.
+
+Sed ni estas devigitaj ĉiam danki Dion pro vi, fratoj amataj de la Sinjoro, ĉar Dio elektis vin de la komenco por savo per sanktigo de la Spirito kaj kredo en la vero, al kiu li vokis vin per nia Bona Novaĵo, por la akiro de la gloro de nia Sinjoro Jesuo Kristo. Do tiam, fratoj, staru firme kaj tenu la tradiciojn, kiujn vi estis instruataj de ni, ĉu per vorto aŭ per letero.
+
+Nun nia Sinjoro Jesuo Kristo mem, kaj Dio nia Patro, kiu amis nin kaj donis al ni eternan komforton kaj bonan esperon per graco, komfortu viajn korojn kaj starigu vin en ĉiu bona laboro kaj vorto.
+
+### Ĉapitro 3
+
+Fine, fratoj, preĝu por ni, ke la vorto de la Sinjoro rapide disvastiĝu kaj estu glorata, eĉ kiel ankaŭ kun vi, kaj ke ni estu liberigitaj de neraciaj kaj malbonaj homoj; ĉar ne ĉiuj havas fidon. Sed la Sinjoro estas fidela, kiu starigos vin kaj gardos vin kontraŭ la malbona. Ni havas fidon en la Sinjoro pri vi, ke vi ambaŭ faras kaj faros la aferojn, kiujn ni ordonas. Ke la Sinjoro direktu viajn korojn en la amon de Dio kaj en la persistecon de Kristo.
+
+Nun ni ordonas al vi, fratoj, en la nomo de nia Sinjoro Jesuo Kristo, ke vi retiriĝu de ĉiu frato, kiu iras en ribelo kaj ne laŭ la tradicio, kiun ili ricevis de ni. Ĉar vi scias, kiel vi devus imiti nin. Ĉar ni ne kondutis ribeleme inter vi, nek ni manĝis panon de ies mano sen pagi por ĝi, sed en laboro kaj penado laboris tage kaj nokte, ke ni ne ŝarĝu iun el vi. Ĉi tio ne estis ĉar ni ne havas la rajton, sed por fari nin ekzemplo al vi, ke vi imitu nin. Ĉar eĉ kiam ni estis kun vi, ni ordonis al vi ĉi tion: "Se iu ne volas labori, ne lasu lin manĝi." Ĉar ni aŭdas pri iuj, kiuj iras inter vi en ribelo, kiuj tute ne laboras, sed estas okupemuloj. Nun tiuj, kiuj estas tiel, ni ordonas kaj instigas en la Sinjoro Jesuo Kristo, ke ili laboru kun trankvilo kaj manĝu sian propran panon.
+
+Sed vi, fratoj, ne laciĝu fari tion, kio estas ĝusta. Se iu homo ne obeas nian vorton en ĉi tiu letero, notu tiun homon kaj ne havu kompanion kun li, por ke li hontu. Ne kalkulu lin kiel malamikon, sed admonu lin kiel fraton.
+
+Nun la Sinjoro de paco mem donu al vi pacon ĉiam en ĉiuj manieroj. La Sinjoro estu kun vi ĉiuj.
+
+Mi, Paŭlo, skribas ĉi tiun saluton per mia propra mano, kiu estas la signo en ĉiu letero. Tiel mi skribas. La graco de nia Sinjoro Jesuo Kristo estu kun vi ĉiuj. Amen.
+
+## 1 Timoteo
+
+La Unua Letero de Paŭlo al Timoteo
+
+### Ĉapitro 1
+
+Paŭlo, apostolo de Jesuo Kristo laŭ la ordono de Dio, nia Savanto, kaj de la Sinjoro Jesuo Kristo, nia espero, al Timoteo, mia vera infano en la kredo: Graco, kompato, kaj paco de Dio, nia Patro, kaj Kristo Jesuo, nia Sinjoro.
+
+Kiel mi instigis vin, kiam mi iris en Makedonion, restu en Efeso, por ke vi ordonu al certaj homoj ne instrui malsaman doktrinon, kaj ne atenti mitojn kaj senfinajn genealogiojn, kiuj kaŭzas disputojn prefere ol la administrado de Dio, kiu estas en fido. Sed la celo de ĉi tiu ordono estas amo el pura koro, bona konscienco, kaj sincera kredo, el kiuj kelkaj, maltrafinte la celon, deturniĝis al vana parolado, dezirante esti instruistoj de la leĝo, kvankam ili ne komprenas, kion ili diras, nek pri kio ili forte asertas.
+
+Sed ni scias, ke la leĝo estas bona, se homo uzas ĝin laŭleĝe, sciante ĉi tion, ke la leĝo ne estas farita por justulo, sed por la senleĝaj kaj ribelaj, por la malpiuloj kaj pekuloj, por la malpuraj kaj profanaj, por patromurdistoj kaj patrino-murdistoj, por hommortigistoj, por la seksaj malmoraluloj, por samseksemuloj, por sklavkomercistoj, por mensogantoj, por falsĵurantoj, kaj por ĉiu alia afero kontraŭa al la sana doktrino, laŭ la Bona Novaĵo de la gloro de la benita Dio, kiu estis konfidita al mia fido.
+
+Mi dankas tiun, kiu ebligis min, Kristo Jesuo, nia Sinjoro, ĉar li konsideris min fidela, nomumante min al servo, kvankam mi antaŭe estis blasfemanto, persekutanto, kaj aroganta. Tamen, mi ricevis kompaton, ĉar mi faris ĝin nescie en nekredemo. La graco de nia Sinjoro abunde superfluis kun fido kaj amo, kiu estas en Kristo Jesuo. La diro estas fidela kaj inda je plena akcepto, ke Kristo Jesuo venis en la mondon por savi pekulojn, el kiuj mi estas la ĉefa. Tamen, pro ĉi tiu kaŭzo mi ricevis kompaton, ke en mi unue, Kristo Jesuo povus montri sian tutan paciencon kiel ekzemplon por tiuj, kiuj intencas kredi en li por eterna vivo. Nun al la Reĝo eterna, senmorta, nevidebla, al Dio, kiu sola estas saĝa, estu honoro kaj gloro por ĉiam kaj eterne. Amen.
+
+Mi konfidas ĉi tiun instrukcion al vi, mia infano Timoteo, laŭ la profetaĵoj, kiuj estis donitaj al vi antaŭe, ke per ili vi povus batali la bonan batalon, tenante fidon kaj bonan konsciencon, kiujn kelkaj, forpuŝinte, faris ŝiprompon rilate al la fido, el kiuj estas Himeneo kaj Aleksandro, kiujn mi transdonis al Satano, por ke ili estu instruitaj ne blasfemi.
+
+### Ĉapitro 2
+
+Mi do instigas, antaŭ ĉio, ke petoj, preĝoj, intercedoj, kaj dankoj estu faritaj por ĉiuj homoj, por reĝoj kaj ĉiuj, kiuj estas en altaj pozicioj, por ke ni povu vivi trankvilan kaj kvietan vivon en ĉia pieco kaj respekto. Ĉar tio estas bona kaj akceptebla antaŭ Dio, nia Savanto, kiu deziras, ke ĉiuj homoj estu savitaj kaj venu al plena scio de la vero. Ĉar estas unu Dio kaj unu peranto inter Dio kaj homoj, la homo Kristo Jesuo, kiu donis sin kiel elaĉeton por ĉiuj, la atesto en la ĝusta tempo, al kiu mi estis nomumita predikisto kaj apostolo—mi diras la veron en Kristo, ne mensogas—instruisto de la nacianoj en fido kaj vero.
+
+Mi do deziras, ke la viroj en ĉiu loko preĝu, levante sanktajn manojn sen kolero kaj dubo. Same, ke virinoj ankaŭ ornamu sin en deca vesto, kun modesto kaj dececo, ne kun plektitaj haroj, oro, perloj, aŭ multekosta vesto, sed kun bonaj faroj, kiuj estas konvenaj por virinoj, kiuj konfesas piecon. Lasu virinon lerni en silento kun plena submetiĝo. Sed mi ne permesas al virino instrui, nek ekzerci aŭtoritaton super viro, sed esti en silento. Ĉar Adamo estis formita unue, poste Eva. Adamo ne estis trompita, sed la virino, trompita, falis en malobeon; sed ŝi estos savita per sia infanportado, se ili daŭrigos en fido, amo, kaj sankteco kun sobro.
+
+### Ĉapitro 3
+
+Ĉi tio estas fidela diro: iu, kiu serĉas esti superrigardanto, deziras bonan laboron. La superrigardanto do devas esti sen riproĉo, la edzo de unu edzino, sobra, prudenta, modesta, gastama, bona en instruado; ne drinkema, ne perforta, ne avara pri mono, sed milda, ne kverelema, ne avidema; kiu bone regas sian propran domon, havante infanojn en submetiĝo kun tuta respekto; (ĉar kiel povus iu, kiu ne scias regi sian propran domon, zorgi pri la kunveno de Dio?) ne nova konvertito, por ke li ne estu ŝveligita kaj falu en la saman kondamnon kiel la diablo. Krome li devas havi bonan ateston de tiuj, kiuj estas ekstere, por eviti fali en riproĉon kaj la kaptilon de la diablo.
+
+Servantoj, same, devas esti respektindaj, ne dupersonaj, ne adictaj al multe da vino, ne avidaj pri mono, tenante la misteron de la kredo en pura konscienco. Lasu ilin ankaŭ unue esti provitaj; tiam lasu ilin servi se ili estas senkulpaj. Iliaj edzinoj same devas esti respektindaj, ne kalumniantoj, sobraj, kaj fidelaj en ĉiuj aferoj. Lasu servantojn esti edzoj de unu edzino, regante siajn infanojn kaj siajn proprajn domojn bone. Ĉar tiuj, kiuj bone servis, akiras por si bonan staron kaj grandan kuraĝon en la kredo, kiu estas en Kristo Jesuo.
+
+Ĉi tiujn aferojn mi skribas al vi, esperante veni al vi baldaŭ, sed se mi longe atendas, ke vi sciu kiel homoj devas konduti en la domo de Dio, kiu estas la kunveno de la vivanta Dio, la kolono kaj fundamento de la vero. Senkonteste, la mistero de pieco estas granda:
+
+Dio estis malkaŝita en la karno,
+
+pravigita en la spirito,
+
+vidita de anĝeloj,
+
+predikita inter la nacioj,
+
+kredita en la mondo,
+
+kaj ricevita en gloro.
+
+### Ĉapitro 4
+
+Sed la Spirito klare diras, ke en pli postaj tempoj iuj forfalos de la kredo, atentante delogajn spiritojn kaj doktrinojn de demonoj, per la hipokriteco de homoj, kiuj parolas mensogojn, markitaj en sia propra konscienco kiel per varmega fero, malpermesante geedziĝon kaj ordonante abstini de manĝaĵoj, kiujn Dio kreis por esti ricevitaj kun dankemo de tiuj, kiuj kredas kaj konas la veron. Ĉar ĉiu kreitaĵo de Dio estas bona, kaj nenio estas forĵetenda se ĝi estas ricevita kun dankemo. Ĉar ĝi estas sanktigita per la vorto de Dio kaj preĝo.
+
+Se vi instruas la fratojn pri ĉi tiuj aferoj, vi estos bona servanto de Kristo Jesuo, nutrata en la vortoj de la kredo kaj de la bona doktrino, kiun vi sekvis. Sed rifuzu profanajn kaj maljunulajn fabelojn. Ekzercu vin al pieco. Ĉar korpa ekzercado havas iom da valoro, sed pieco havas valoron en ĉiuj aferoj, havante la promeson de la vivo, kiu estas nun kaj de tiu, kiu venos. Ĉi tiu diro estas fidela kaj inda je ĉia akcepto. Ĉar por ĉi tiu celo ni ambaŭ laboras kaj suferas riproĉon, ĉar ni metis nian fidon en la vivantan Dion, kiu estas la Savanto de ĉiuj homoj, precipe de tiuj, kiuj kredas. Ordonu kaj instruu ĉi tiujn aferojn.
+
+Lasu neniu malestimi vian junecon; sed estu ekzemplo al tiuj, kiuj kredas, en vorto, en via vivmaniero, en amo, en spirito, en kredo, kaj en pureco. Ĝis mi venos, atentu legadon, instigon, kaj instruadon. Ne neglektu la donacon, kiu estas en vi, kiu estis donita al vi per profetaĵo kun la metado de la manoj de la pliaĝuloj. Estu diligenta en ĉi tiuj aferoj. Donu vin tute al ili, ke via progreso estu malkaŝita al ĉiuj. Atentu vin mem kaj vian instruadon. Daŭru en ĉi tiuj aferoj, ĉar farante tion vi savos kaj vin mem kaj tiujn, kiuj aŭdas vin.
+
+### Ĉapitro 5
+
+Ne riproĉu maljunan viron, sed admonu lin kiel patron; la pli junajn virojn kiel fratojn; la pli aĝajn virinojn kiel patrinojn; la pli junajn kiel fratinojn, en ĉia pureco.
+
+Honoru vidvinojn, kiuj estas vere vidvinoj. Sed se iu vidvino havas infanojn aŭ genepojn, lasu ilin unue lerni montri piecon al sia propra familio kaj repagi siajn gepatrojn, ĉar tio estas akceptebla antaŭ Dio. Nun ŝi, kiu estas vere vidvino kaj senespera, havas sian esperon metitan sur Dio kaj daŭrigas en petoj kaj preĝoj nokte kaj tage. Sed ŝi, kiu sin donas al plezuro, estas mortinta dum ŝi vivas. Ankaŭ ordonu ĉi tiujn aferojn, ke ili estu sen riproĉo. Sed se iu ne provizas por siaj propraj, kaj precipe por sia propra domanaro, li malkonfesis la kredon kaj estas pli malbona ol nekredanto.
+
+Ne lasu iun esti registrita kiel vidvino sub sesdek jaroj, estinte la edzino de unu viro, aprobita de bonaj faroj, se ŝi kreskigis infanojn, se ŝi estis gastama al fremduloj, se ŝi lavis la piedojn de la sanktuloj, se ŝi helpis la suferantojn, kaj se ŝi diligente sekvis ĉiun bonan faron.
+
+Sed rifuzu pli junajn vidvinojn, ĉar kiam ili fariĝis voluptemaj kontraŭ Kristo, ili deziras edziniĝi, havante kondamnon, ĉar ili forĵetis sian unuan promeson. Krome, ili ankaŭ lernas esti senokupaj, irante de domo al domo. Ne nur senokupaj, sed ankaŭ klaĉemaj kaj enmiksiĝemaj, dirante aferojn, kiujn ili ne devus. Mi deziras do, ke la pli junaj vidvinoj edziniĝu, nasku infanojn, regu la domanaron, kaj ne donu okazon al la kontraŭulo por insultado. Ĉar jam iuj foriris post Satano. Se iu viro aŭ virino, kiu kredas, havas vidvinojn, lasu ilin helpi ilin, kaj ne lasu la kunvenon esti ŝarĝita, ke ĝi povu helpi tiujn, kiuj estas vere vidvinoj.
+
+Lasu la pliaĝulojn, kiuj bone regas, esti konsiderataj indaj je duobla honoro, precipe tiuj, kiuj laboras en la vorto kaj en instruado. Ĉar la Skribo diras, "Vi ne muelu la bovon, kiam ĝi tretas la grenon." Kaj, "La laboristo estas inda je sia salajro."
+
+Ne akceptu akuzon kontraŭ pliaĝulo krom ĉe la vorto de du aŭ tri atestantoj. Tiuj, kiuj pekas, riproĉu antaŭ ĉiuj, ke la ceteraj ankaŭ timu. Mi ordonas al vi antaŭ Dio, kaj la Sinjoro Jesuo Kristo, kaj la elektitaj anĝeloj, ke vi observu ĉi tiujn aferojn sen antaŭjuĝo, farante nenion per partiaĵo. Ne metu manojn haste sur iun. Ne estu partoprenanto en la pekoj de aliaj homoj. Gardu vin pura.
+
+Ne plu estu nur akvotrinkanto, sed uzu iom da vino pro via stomako kaj viaj oftaj malsanoj.
+
+Iuj homoj pekas evidente, antaŭirante ilin al juĝo, kaj iuj ankaŭ sekvas poste. Same ankaŭ estas bonaj faroj, kiuj estas evidentaj, kaj tiuj, kiuj estas alie, ne povas esti kaŝitaj.
+
+Lasu tiom da servistoj sub la jugo konsideri siajn proprajn mastrojn indaj je ĉia honoro, ke la nomo de Dio kaj la doktrino ne estu blasfemataj. Tiuj, kiuj havas kredantajn mastrojn, ne malestimu ilin ĉar ili estas fratoj, sed prefere servu ilin, ĉar tiuj, kiuj partoprenas la profiton, estas kredantaj kaj amataj. Instruu kaj admonu ĉi tiujn aferojn.
+
+Se iu instruas malsaman doktrinon kaj ne konsentas al sanaj vortoj, la vortoj de nia Sinjoro Jesuo Kristo, kaj al la doktrino, kiu estas laŭ pieco, li estas aroganta, sciante nenion, sed obsedita de argumentoj, disputoj, kaj vortbataloj, el kiuj venas envio, malpaco, insultado, malbonaj suspektoj, konstanta frotado de homoj kun koruptaj mensoj kaj senigitaj de la vero, kiuj supozas, ke pieco estas rimedo de gajno. Retiru vin de tiaj.
+
+Sed pieco kun kontenteco estas granda gajno. Ĉar ni alportis nenion en la mondon, kaj ni certe ne povas elporti ion. Sed havante manĝaĵon kaj vestojn, ni estos kontentaj kun tio. Sed tiuj, kiuj estas deciditaj esti riĉaj, falas en tenton, kaptilon, kaj multajn malsaĝajn kaj malutilajn dezirojn, kiuj dronigas homojn en ruino kaj detruo. Ĉar la amo al mono estas radiko de ĉiaj malbonoj. Iuj estis forlogitaj de la kredo en sia avideco, kaj trapikis sin per multaj doloroj.
+
+Sed vi, homo de Dio, fuĝu de ĉi tiuj aferoj, kaj sekvu justecon, piecon, kredon, amon, persistecon, kaj mildecon. Batalu la bonan batalon de la kredo. Prenu la eternan vivon, al kiu vi estis vokita, kaj vi konfesis la bonan konfeson antaŭ multaj atestantoj. Mi ordonas al vi antaŭ Dio, kiu donas vivon al ĉiuj aferoj, kaj antaŭ Kristo Jesuo, kiu antaŭ Pontio Pilato atestis la bonan konfeson, ke vi tenu la ordonon sen makulo, senkulpa ĝis la apero de nia Sinjoro Jesuo Kristo, kiun en la ĝusta tempo li montros, kiu estas la benita kaj sola Reganto, la Reĝo de reĝoj kaj Sinjoro de sinjoroj. Li sola havas senmortecon, loĝante en nealirebla lumo, kiun neniu homo vidis nek povas vidi, al kiu estu honoro kaj eterna potenco. Amen.
+
+Instruu tiujn, kiuj estas riĉaj en ĉi tiu nuna aĝo, ke ili ne estu arogantaj, nek havu sian esperon metitan sur la necerteco de riĉaĵoj, sed sur la vivanta Dio, kiu riĉe provizas al ni ĉion por ĝui; ke ili faru bonon, ke ili estu riĉaj en bonaj faroj, ke ili estu pretaj distribui, volonte dividi; metante en stoko por si bonan fundamenton kontraŭ la tempo por veni, ke ili povu preni la eternan vivon.
+
+Timoteo, gardu tion, kio estas konfidita al vi, turnante vin for de la malplena babilado kaj kontraŭdiroj de tio, kio estas false nomata scio, kiun iuj konfesas, kaj tiel forvagis de la kredo.
+
+Graco estu kun vi. Amen.
+
+## 2 Timothy
+
+La Dua Letero de Paŭlo al Timoteo
+
+### Ĉapitro 1
+
+Paŭlo, apostolo de Jesuo Kristo laŭ la volo de Dio, laŭ la promeso de la vivo, kiu estas en Kristo Jesuo, al Timoteo, mia amata infano: Graco, kompato, kaj paco, de Dio la Patro kaj Kristo Jesuo nia Sinjoro.
+
+Mi dankas Dion, kiun mi servas kiel miaj prapatroj, kun pura konscienco. Kiel senĉesa estas mia memoro pri vi en miaj petoj, nokte kaj tage sopirante vidi vin, rememorante viajn larmojn, ke mi povu esti plena de ĝojo; rememorigita pri la sincera fido, kiu estas en vi, kiu unue loĝis en via avino Lois kaj via patrino Eunice kaj, mi estas konvinkita, ankaŭ en vi.
+
+Pro tio, mi memorigas vin, ke vi revivigu la donacon de Dio, kiu estas en vi per la metado de miaj manoj. Ĉar Dio ne donis al ni spiriton de timo, sed de potenco, amo, kaj memregado. Tial ne hontu pri la atesto de nia Sinjoro, nek pri mi lia malliberulo; sed eltenu malfacilaĵojn por la Bona Novaĵo laŭ la potenco de Dio, kiu savis nin kaj vokis nin per sankta voko, ne laŭ niaj faroj, sed laŭ sia propra celo kaj graco, kiu estis donita al ni en Kristo Jesuo antaŭ eternaj tempoj, sed nun estas malkaŝita per la apero de nia Savanto, Kristo Jesuo, kiu nuligis morton, kaj alportis vivon kaj senmortecon al lumo per la Bona Novaĵo. Por tio mi estis nomumita predikisto, apostolo, kaj instruisto de la nacianoj. Pro tio mi ankaŭ suferas ĉi tiujn aferojn.
+
+Tamen mi ne hontas, ĉar mi scias, kiun mi kredis, kaj mi estas konvinkita, ke li kapablas gardi tion, kion mi konfidis al li kontraŭ tiu tago.
+
+Tenadu la modelon de sanaj vortoj, kiujn vi aŭdis de mi, en fido kaj amo, kiuj estas en Kristo Jesuo. Tiu bona afero, kiu estis konfidita al vi, gardu per la Sankta Spirito, kiu loĝas en ni.
+
+Ĉi tion vi scias, ke ĉiuj, kiuj estas en Azio, forlasis min, el kiuj estas Figelo kaj Hermogeno. La Sinjoro donu kompaton al la domo de Onesiforo, ĉar li ofte refreŝigis min, kaj ne hontis pri mia ĉeno, sed kiam li estis en Romo, li diligente serĉis min kaj trovis min (la Sinjoro donu al li trovi la kompaton de la Sinjoro en tiu tago); kaj en kiom multaj aferoj li servis en Efeso, vi tre bone scias.
+
+### Ĉapitro 2
+
+Vi do, mia infano, estu fortigita en la graco, kiu estas en Kristo Jesuo. La aferojn, kiujn vi aŭdis de mi inter multaj atestantoj, konfidu la samajn aferojn al fidelaj viroj, kiuj ankaŭ povos instrui aliajn. Vi do devas elteni malfacilaĵojn kiel bona soldato de Kristo Jesuo. Neniu soldato en deĵoro implikas sin en la aferoj de la vivo, ke li povu plaĉi al tiu, kiu enlistigis lin kiel soldato. Ankaŭ, se iu konkuras en atletiko, li ne estas kronita, krom se li konkuris laŭ la reguloj. La farmisto, kiu laboras, devas esti la unua, kiu ricevas parton de la rikolto. Konsideru tion, kion mi diras, kaj la Sinjoro donu al vi komprenon en ĉiuj aferoj.
+
+Memoru Jesuon Kriston, leviĝintan el la mortintoj, el la idaro de David, laŭ mia Bona Novaĵo, en kiu mi suferas malfacilaĵojn ĝis la punkto de ĉenoj kiel krimulo. Sed la vorto de Dio ne estas ĉenita. Tial mi eltenas ĉiujn aferojn por la elektitoj, ke ili ankaŭ povu akiri la savon, kiu estas en Kristo Jesuo kun eterna gloro. Ĉi tiu diro estas fidinda:
+
+"Ĉar se ni mortis kun li,
+
+ni ankaŭ vivos kun li.
+
+Se ni eltenas,
+
+ni ankaŭ regos kun li.
+
+Se ni neas lin,
+
+li ankaŭ neos nin.
+
+Se ni estas senfidaj,
+
+li restas fidela;
+
+ĉar li ne povas nei sin mem."
+
+Memorigu ilin pri ĉi tiuj aferoj, ŝargante ilin antaŭ la Sinjoro, ke ili ne disputu pri vortoj al neniu profito, al la subfosado de tiuj, kiuj aŭdas.
+
+Donu diligentecon por prezenti vin aprobita de Dio, laboristo, kiu ne bezonas honti, ĝuste traktante la Vorton de Vero. Sed evitu malplenajn babiladojn, ĉar ĝi iros plu en malpiecon, kaj tiuj vortoj konsumos kiel gangreno, el kiuj estas Himeneo kaj Fileto: viroj, kiuj eraris koncerne la veron, dirante, ke la releviĝo jam pasis, kaj renversante la fidon de iuj. Tamen, la firma fundamento de Dio staras, havante ĉi tiun sigelon: "La Sinjoro konas tiujn, kiuj estas liaj," kaj, "Lasu ĉiun, kiu nomas la nomon de la Sinjoro, foriri de maljusteco."
+
+Nun en granda domo estas ne nur vazoj de oro kaj de arĝento, sed ankaŭ de ligno kaj de argilo. Iuj estas por honoro kaj iuj por malhonoro. Se iu do purigas sin de ĉi tiuj, li estos vazo por honoro, sanktigita, kaj taŭga por la uzo de la mastro, preparita por ĉiu bona laboro.
+
+Forkuru de junecaj deziroj; sed serĉu justecon, fidon, amon, kaj pacon kun tiuj, kiuj vokas la Sinjoron el pura koro. Sed rifuzu malsaĝajn kaj ignorantajn demandojn, sciante, ke ili generas konflikton. La servanto de la Sinjoro ne devas kvereli, sed esti milda al ĉiuj, kapabla instrui, pacienca, en mildeco korektante tiujn, kiuj kontraŭas lin. Eble Dio donos al ili penton kondukante al plena scio pri la vero, kaj ili povus resaniĝi el la kaptilo de la diablo, kaptitaj de li por fari lian volon.
+
+### Ĉapitro 3
+
+Sed sciu ĉi tion: ke en la lastaj tagoj venos malfacilaj tempoj. Ĉar homoj estos amantoj de si mem, amantoj de mono, fanfaronemaj, arogantaj, blasfemantoj, malobeemaj al gepatroj, nedankemaj, malpiaj, sen natura amo, neforgivemaj, kalumniantoj, sen memregado, furiozaj, ne amantoj de bono, perfiduloj, obstinaj, vantaj, amantoj de plezuro pli ol amantoj de Dio, tenante formon de pieco sed neante ĝian potencon. Foriru ankaŭ de ĉi tiuj. Ĉar iuj el ĉi tiuj estas homoj, kiuj rampas en domojn kaj kaptas naivajn virinojn ŝarĝitajn per pekoj, forkondukitajn de diversaj voluptoj, ĉiam lernantaj kaj neniam kapablaj veni al la scio de la vero. Eĉ kiel Jannes kaj Jambres kontraŭstaris Moseon, tiel ĉi tiuj ankaŭ kontraŭstaras la veron, homoj koruptitaj en menso, kiuj rilate al la kredo estas rifuzitaj. Sed ili ne progresos plu. Ĉar ilia malsaĝeco estos evidenta al ĉiuj homoj, kiel ankaŭ ilia fariĝis.
+
+Sed vi sekvis mian instruadon, konduton, celon, kredon, paciencon, amon, konstantecon, persekutojn, kaj suferojn—tiujn aferojn, kiuj okazis al mi en Antioĥio, Ikonio, kaj Lystra. Mi eltenis tiujn persekutojn. La Sinjoro liberigis min el ĉiuj ili. Jes, kaj ĉiuj, kiuj deziras vivi pie en Kristo Jesuo, suferos persekuton. Sed malbonaj homoj kaj trompantoj plimalboniĝos kaj plimalboniĝos, trompantaj kaj trompitaj. Sed vi restu en la aferoj, kiujn vi lernis kaj estis certigitaj pri, sciante de kiu vi lernis ilin. Ekde infanaĝo, vi konis la sanktajn Skribojn, kiuj kapablas fari vin saĝa por savo per fido, kiu estas en Kristo Jesuo. Ĉiu Skribo estas inspirita de Dio kaj utila por instruado, por riproĉo, por korekto, kaj por instruado en justeco, ke ĉiu persono, kiu apartenas al Dio, estu kompleta, plene ekipita por ĉiu bona laboro.
+
+### Ĉapitro 4
+
+Mi ordonas vin do antaŭ Dio kaj la Sinjoro Jesuo Kristo, kiu juĝos la vivantojn kaj la mortintojn ĉe sia apero kaj sia Regno: prediku la vorton; estu urĝa en sezono kaj ekster sezono; riproĉu, ripetu, kaj instigu kun ĉia pacienco kaj instruado. Ĉar venos la tempo, kiam ili ne aŭskultos la sanan doktrinon, sed havante jukantajn orelojn, amasiĝos por si instruistojn laŭ siaj propraj voluptoj, kaj forturnos siajn orelojn de la vero, kaj turnos sin al fabeloj. Sed vi estu sobra en ĉiuj aferoj, suferu malfacilaĵojn, faru la laboron de evangeliisto, kaj plenumu vian ministerion.
+
+Ĉar mi jam estas oferata, kaj la tempo de mia foriro venis. Mi batalis la bonan batalon. Mi finis la kurson. Mi konservis la kredon. De nun, la krono de justeco estas konservita por mi, kiun la Sinjoro, la justa juĝisto, donos al mi en tiu tago; kaj ne nur al mi, sed ankaŭ al ĉiuj, kiuj amis lian aperon.
+
+Estu diligenta veni al mi baldaŭ, ĉar Demas forlasis min, amante ĉi tiun nunan mondon, kaj iris al Tesaloniko; Kreskens al Galatio; kaj Tito al Dalmatio. Nur Luko estas kun mi. Prenu Markon kaj alportu lin kun vi, ĉar li estas utila al mi por servo. Sed mi sendis Tiĥikon al Efeso. Alportu la mantelon, kiun mi lasis en Troas kun Karpo, kiam vi venos—kaj la librojn, precipe la pergamenojn. Aleksandro la kuprofabrikisto faris multan malbonon al mi. La Sinjoro repagos lin laŭ liaj faroj. Gardu vin kontraŭ li, ĉar li forte kontraŭstaris niajn vortojn.
+
+Ĉe mia unua defendo, neniu venis helpi min, sed ĉiuj forlasis min. Ne estu tenata kontraŭ ili. Sed la Sinjoro staris apud mi kaj fortigis min, ke per mi la mesaĝo povu esti plene proklamita, kaj ke ĉiuj nacianoj povu aŭdi. Do mi estis liberigita el la buŝo de la leono. Kaj la Sinjoro liberigos min de ĉiu malbona laboro kaj konservos min por sia ĉiela Regno. Al li estu la gloro eterne kaj eterne. Amen.
+
+Salutu Priskan kaj Akvilan, kaj la domon de Onesiforo. Erasto restis en Korinto, sed mi lasis Trofimon en Mileto malsana. Estu diligenta veni antaŭ vintro. Eubulo salutas vin, kiel ankaŭ Pudens, Linus, Klaŭdia, kaj ĉiuj fratoj.
+
+La Sinjoro Jesuo Kristo estu kun via spirito. Graco estu kun vi. Amen.
+
+## Tito
+
+La Letero de Paulo al Tito
+
+### Ĉapitro 1
+
+Paŭlo, servisto de Dio kaj apostolo de Jesuo Kristo, laŭ la fido de la elektitoj de Dio kaj la scio de la vero, kiu estas laŭ pieco, en espero de eterna vivo, kiun Dio, kiu ne povas mensogi, promesis antaŭ la tempoj komenciĝis; sed en sia propra tempo malkaŝis sian vorton en la mesaĝo kun kiu mi estis konfidita laŭ la ordono de Dio nia Savanto, al Tito, mia vera infano laŭ komuna fido: Graco, kompato, kaj paco de Dio la Patro kaj la Sinjoro Jesuo Kristo nia Savanto.
+
+Mi lasis vin en Kreto pro ĉi tiu kialo, ke vi ordigu la aferojn, kiuj mankas kaj nomumu presbiterojn en ĉiu urbo, kiel mi direktis vin— se iu estas senkulpa, la edzo de unu edzino, havante infanojn kiuj kredas, kiuj ne estas akuzitaj de malĉasta aŭ malorda konduto. Ĉar la superrigardanto devas esti senkulpa, kiel administranto de Dio, ne memplaĉa, ne facile kolerema, ne donita al vino, ne perforta, ne avara por malhonesta gajno; sed donita al gastamo, amanto de bono, sobra, justa, sankta, memkontrola, tenante al la fidela vorto kiu estas laŭ la instruado, ke li povu admoni en la sana doktrino, kaj konvinki tiujn, kiuj kontraŭdiras lin.
+
+Ĉar estas ankaŭ multaj malordaj homoj, vantaj parolantoj kaj trompantoj, precipe tiuj de la cirkumcido, kies buŝoj devas esti fermitaj: homoj kiuj renversas tutajn domojn, instruante aferojn kiujn ili ne devus, por malhonesta gajno. Unu el ili, profeto de siaj propraj, diris, "Kretanoj estas ĉiam mensogantoj, malbonaj bestoj, kaj maldiligentaj glutemuloj." Ĉi tiu atesto estas vera. Pro ĉi tiu kialo, riproĉu ilin akre, ke ili estu sanaj en la fido, ne atentante judajn fabelojn kaj ordonojn de homoj kiuj foriras de la vero. Al la puraj, ĉiuj aferoj estas puraj, sed al tiuj, kiuj estas malpurigitaj kaj nekredemaj, nenio estas pura; sed ambaŭ ilia menso kaj ilia konscienco estas malpurigitaj. Ili konfesas, ke ili konas Dion, sed per siaj faroj ili neas lin, estante abomenindaj, malobeemaj, kaj nekapablaj por iu ajn bona laboro.
+
+### Ĉapitro 2
+
+Sed diru la aferojn kiuj konvenas al sana doktrino, ke pli aĝaj viroj estu sobraj, prudentaj, sobra menso, sanaj en fido, en amo, kaj en persisto, kaj ke pli aĝaj virinoj same estu respektindaj en konduto, ne kalumniantoj nek sklavigitaj al multe da vino, instruistoj de tio, kio estas bona, ke ili povu trejni la junajn edzinojn ami siajn edzojn, ami siajn infanojn, esti sobra menso, ĉastaj, laboristoj hejme, bonkoraj, estante en submetiĝo al siaj propraj edzoj, ke la vorto de Dio ne estu blasfemita.
+
+Simile, admonu la pli junajn virojn esti sobra menso. En ĉiuj aferoj montru vin ekzemplo de bonaj faroj. En via instruado, montru integrecon, seriozecon, nekorupteblecon, kaj sonon de parolo kiu ne povas esti kondamnita, ke tiu, kiu kontraŭas vin, hontu, havante nenion malbonan por diri pri ni.
+
+Admonu servistojn esti en submetiĝo al siaj propraj mastroj kaj esti plaĉaj en ĉiuj aferoj, ne kontraŭdirante, ne ŝtelante, sed montrante ĉian bonan fidelecon, ke ili povu ornami la doktrinon de Dio, nia Savanto, en ĉiuj aferoj. Ĉar la graco de Dio aperis, alportante savon al ĉiuj homoj, instruante nin al la intenco ke, neante malpiecon kaj mondajn dezirojn, ni vivu sobraj, juste, kaj pie en ĉi tiu nuna epoko; atendante la benitan esperon kaj aperon de la gloro de nia granda Dio kaj Savanto, Jesuo Kristo, kiu donis sin por ni, ke li povu elaĉeti nin de ĉiu maljusteco kaj purigi por si popolon por sia propra posedo, fervoran por bonaj faroj.
+
+Diru ĉi tiujn aferojn kaj admonu kaj riproĉu kun ĉia aŭtoritato. Lasu neniu malestimi vin.
+
+### Ĉapitro 3
+
+Rememoru ilin esti en submetiĝo al regantoj kaj al aŭtoritatoj, esti obeemaj, esti pretaj por ĉiu bona laboro, ne paroli malbonon pri iu ajn, ne esti kverelemaj, esti mildaj, montrante ĉian humilecon al ĉiuj homoj. Ĉar ni ankaŭ iam estis malsaĝaj, malobeemaj, trompitaj, servante diversajn dezirojn kaj plezurojn, vivante en malico kaj envio, malamegaj, kaj malamantaj unu la alian. Sed kiam la boneco de Dio nia Savanto kaj lia amo al la homaro aperis, ne per faroj de justeco kiujn ni faris mem, sed laŭ lia kompato, li savis nin per la lavado de regenerado kaj renovigo per la Sankta Spirito, kiun li abunde elverŝis sur nin per Jesuo Kristo nia Savanto; ke estante pravigitaj per lia graco, ni povu esti faritaj heredantoj laŭ la espero de eterna vivo. Ĉi tiu diro estas fidela, kaj pri ĉi tiuj aferoj mi deziras ke vi insistu konfide, por ke tiuj, kiuj kredis Dion, estu zorgemaj por konservi bonajn farojn. Ĉi tiuj aferoj estas bonaj kaj profitaj al homoj; sed evitu malsaĝajn demandojn, genealogiojn, disputojn, kaj disputojn pri la leĝo; ĉar ili estas neprofitaj kaj vanaj. Evitu fakciulon post unua kaj dua averto, sciante ke tia estas perversigita kaj pekema, estante memkondamnita.
+
+Kiam mi sendos Artemason al vi, aŭ Tihikon, estu diligenta veni al mi al Nikopolo, ĉar mi decidis vintri tie. Sendu Zenason la advokaton kaj Apolon en ilian vojaĝon rapide, ke nenio manku por ili. Lasu niajn homojn ankaŭ lerni konservi bonajn farojn por plenumi necesajn bezonojn, ke ili ne estu senfruktaj.
+
+Ĉiuj, kiuj estas kun mi, salutas vin. Salutu tiujn, kiuj amas nin en fido.
+
+Graco estu kun vi ĉiuj. Amen.
+
+## Philemon
+
+Paul’s Letter to Philemon
+
+### Ĉapitro 1
+
+Paŭlo, malliberulo de Kristo Jesuo, kaj Timoteo, nia frato, al Filemon, nia amata kunlaboranto, al la amata Apfia, al Arĥipo, nia kunbatalanto, kaj al la kunveno en via domo: Graco al vi kaj paco de Dio, nia Patro, kaj la Sinjoro Jesuo Kristo.
+
+Mi ĉiam dankas mian Dion, menciinte vin en miaj preĝoj, aŭdante pri via amo kaj la fido, kiun vi havas al la Sinjoro Jesuo kaj al ĉiuj sanktuloj, ke la kunuleco de via fido fariĝu efika en la scio de ĉiu bona afero, kiu estas en ni en Kristo Jesuo. Ĉar ni havas multan ĝojon kaj konsolon en via amo, ĉar la koroj de la sanktuloj estis refreŝigitaj per vi, frato.
+
+Tial, kvankam mi havas ĉian kuraĝon en Kristo por ordoni al vi tion, kio estas konvena, tamen pro amo mi prefere petas vin, estante tia, kia estas Paŭlo, la maljuna, sed ankaŭ malliberulo de Jesuo Kristo. Mi petas vin pri mia infano Onesimo, kiun mi fariĝis patro en miaj katenoj, kiu iam estis senutila al vi, sed nun estas utila al vi kaj al mi. Mi sendas lin reen. Do akceptu lin, tio estas, mian propran koron, kiun mi deziris teni kun mi, ke nome de vi li povus servi min en miaj katenoj por la Bona Novaĵo. Sed mi volis fari nenion sen via konsento, ke via boneco ne estu kiel neceso, sed de libera volo. Ĉar eble li estis tial apartigita de vi por iom da tempo, ke vi havu lin por ĉiam, ne plu kiel sklavo, sed pli ol sklavo, amata frato—precipe al mi, sed kiom pli al vi, kaj en la karno kaj en la Sinjoro.
+
+Se do vi konsideras min partnero, akceptu lin kiel vi akceptus min. Sed se li maljustis al vi aŭ ŝuldas al vi ion, metu tion al mia konto. Mi, Paŭlo, skribas ĉi tion per mia propra mano: Mi repagos ĝin (ne menciante al vi, ke vi ŝuldas al mi eĉ vian propran memon). Jes, frato, lasu min havi ĝojon de vi en la Sinjoro. Refreŝigu mian koron en la Sinjoro.
+
+Havante fidon en via obeo, mi skribas al vi, sciante, ke vi faros eĉ pli ol mi diras.
+
+Ankaŭ, preparu gastĉambron por mi, ĉar mi esperas, ke per viaj preĝoj mi estos restarigita al vi.
+
+Epaphras, mia kunmalliberulo en Kristo Jesuo, salutas vin, kiel ankaŭ Marko, Aristarko, Demas, kaj Luko, miaj kunlaborantoj.
+
+La graco de nia Sinjoro Jesuo Kristo estu kun via spirito. Amen.
+
+## Hebreoj
+
+La Letero al la Hebreoj
+
+### Ĉapitro 1
+
+Dio, kiu en la pasinteco parolis al la patroj per la profetoj multfoje kaj diversmaniere, en la fino de ĉi tiuj tagoj parolis al ni per sia Filo, kiun Li nomumis heredanto de ĉiuj aferoj, per kiu ankaŭ Li kreis la mondojn. Lia Filo estas la radiado de Lia gloro, la tre bildo de Lia substanco, kaj subtenantaj ĉiujn aferojn per la vorto de Lia potenco, kiu, kiam Li mem purigis nin de niaj pekoj, sidiĝis dekstre de la Majesto en la alto, fariĝinte tiom pli bona ol la anĝeloj, kiom la pli bonega nomo, kiun Li heredis, estas pli bona ol ilia. Ĉar al kiu el la anĝeloj Li iam diris,
+
+"Vi estas Mia Filo.
+
+Hodiaŭ Mi fariĝis via patro?"
+
+kaj denove,
+
+"Mi estos al li Patro,
+
+kaj li estos al Mi Filo?"
+
+Kiam Li denove enkondukas la unuenaskiton en la mondon, Li diras, "Ĉiuj anĝeloj de Dio adoru Lin." Pri la anĝeloj Li diras,
+
+"Li faras siajn anĝelojn ventoj,
+
+kaj siajn servantojn flamoj de fajro."
+
+Sed pri la Filo Li diras,
+
+"Via trono, ho Dio, estas por ĉiam kaj eterne.
+
+La sceptro de justeco estas la sceptro de Via Regno.
+
+Vi amis justecon kaj malamis maljustecon;
+
+tial Dio, Via Dio, sanktoleis Vin per la oleo de ĝojo super viaj kunuloj."
+
+Kaj,
+
+"Vi, Sinjoro, en la komenco, metis la fundamenton de la tero.
+
+La ĉieloj estas la verkoj de Viaj manoj.
+
+Ili pereos, sed Vi daŭras.
+
+Ili ĉiuj maljuniĝos kiel vesto.
+
+Vi rulos ilin kiel mantelon,
+
+kaj ili ŝanĝiĝos;
+
+sed Vi estas la sama.
+
+Viaj jaroj ne malsukcesos."
+
+Sed al kiu el la anĝeloj Li iam diris,
+
+"Sidu dekstre de Mi,
+
+ĝis Mi faros viajn malamikojn la piedbenketo de viaj piedoj?"
+
+Ĉu ili ne estas ĉiuj servaj spiritoj, senditaj por servi pro tiuj, kiuj heredos savon?
+
+### Ĉapitro 2
+
+Tial ni devas pli atenti la aferojn, kiujn ni aŭdis, por ke ni ne forglitu. Ĉar se la vorto parolita per anĝeloj pruviĝis firma, kaj ĉiu transgresado kaj malobeo ricevis justan punon, kiel ni eskapos, se ni neglektos tiel grandan savon, kiu unue estis parolita per la Sinjoro, kaj estis konfirmita al ni de tiuj, kiuj aŭdis, Dio ankaŭ atestante kun ili, per signoj kaj mirakloj, per diversaj potencaj faroj, kaj per donacoj de la Sankta Spirito, laŭ sia propra volo?
+
+Ĉar li ne submetis la venontan mondon, pri kiu ni parolas, al anĝeloj. Sed iu ie atestis, dirante,
+
+"Kio estas homo, ke vi pensas pri li?
+
+Aŭ la filo de homo, ke vi zorgas pri li?
+
+Vi faris lin iomete pli malalta ol la anĝeloj.
+
+Vi kronis lin per gloro kaj honoro.
+
+Vi metis ĉiujn aferojn sub liajn piedojn."
+
+Ĉar en tio, ke li submetis ĉiujn aferojn al li, li lasis nenion, kio ne estas submetita al li. Sed nun ni ankoraŭ ne vidas ĉiujn aferojn submetitajn al li. Sed ni vidas lin, kiu estis farita iomete pli malalta ol la anĝeloj, Jesuo, pro la suferado de morto kronita per gloro kaj honoro, ke per la graco de Dio li gustumu morton por ĉiuj.
+
+Ĉar estis konvene al li, por kiu estas ĉiuj aferoj kaj per kiu estas ĉiuj aferoj, en alportado de multaj infanoj al gloro, fari la aŭtoron de ilia savo perfekta per suferadoj. Ĉar ambaŭ li, kiu sanktigas, kaj tiuj, kiuj estas sanktigitaj, estas ĉiuj el unu, pro kio li ne hontas nomi ilin fratoj, dirante,
+
+"Mi deklaros vian nomon al miaj fratoj.
+
+Inter la kunveno mi kantos vian laŭdon."
+
+Denove, "Mi metos mian fidon en lin." Denove, "Jen mi estas kun la infanoj, kiujn Dio donis al mi." Ĉar ekde tiam la infanoj partoprenis en karno kaj sango, li ankaŭ mem en la sama maniero partoprenis en la sama, ke per morto li povu neniigi tiun, kiu havis la potencon de morto, tio estas, la diablo, kaj povu liberigi ĉiujn, kiuj pro timo de morto estis dum sia tuta vivo submetitaj al sklaveco. Ĉar certe, li ne donas helpon al anĝeloj, sed li donas helpon al la idaro de Abraham. Tial li estis devigita en ĉiuj aferoj esti farita kiel siaj fratoj, por ke li povu fariĝi kompatema kaj fidela ĉefpastro en aferoj rilataj al Dio, por fari repaciĝon por la pekoj de la popolo. Ĉar en tio, ke li mem suferis estante tentita, li povas helpi tiujn, kiuj estas tentataj.
+
+### Ĉapitro 3
+
+Tial, sanktaj fratoj, partoprenantoj de ĉiela voko, konsideru la Apostolon kaj Ĉefpastron de nia konfeso: Jesuo, kiu estis fidela al tiu, kiu nomumis lin, kiel ankaŭ Moseo estis en sia tuta domo. Ĉar li estis konsiderita inda je pli da gloro ol Moseo, ĉar tiu, kiu konstruis la domon, havas pli da honoro ol la domo. Ĉar ĉiu domo estas konstruita de iu; sed tiu, kiu konstruis ĉiujn aferojn, estas Dio. Moseo ja estis fidela en sia tuta domo kiel servisto, por atesto de tiuj aferoj, kiuj poste estis parolotaj, sed Kristo estas fidela kiel Filo super sia domo. Ni estas lia domo, se ni firme tenas nian fidon kaj la gloradon de nia espero ĝis la fino. Tial, kiel diras la Sankta Spirito,
+
+"Hodiaŭ, se vi aŭdos lian voĉon,
+
+ne malmoligu viajn korojn kiel en la ribelo,
+
+en la tago de la provo en la dezerto,
+
+kie viaj patroj testis min kaj provis min,
+
+kaj vidis miajn farojn dum kvardek jaroj.
+
+Tial mi estis malkontenta kun tiu generacio,
+
+kaj diris, 'Ili ĉiam eraras en sia koro,
+
+sed ili ne konis miajn vojojn.'
+
+Kiel mi ĵuris en mia kolero,
+
+'Ili ne eniros en mian ripozon.'"
+
+Gardu vin, fratoj, por ke eble ne estu en iu el vi malbona koro de nekredemo, en foriro de la vivanta Dio; sed instigu unu la alian tage post tage, tiel longe kiel ĝi estas nomata "hodiaŭ", por ke neniu el vi estu malmoligita per la trompo de peko. Ĉar ni fariĝis partoprenantoj de Kristo, se ni tenas la komencon de nia fido firme ĝis la fino, dum ĝi estas dirite,
+
+"Hodiaŭ, se vi aŭdos lian voĉon,
+
+ne malmoligu viajn korojn, kiel en la ribelo."
+
+Ĉar kiuj, kiam ili aŭdis, ribelis? Ĉu ne ĉiuj, kiuj eliris el Egiptujo gvidataj de Moseo? Kun kiuj li estis malkontenta dum kvardek jaroj? Ĉu ne kun tiuj, kiuj pekis, kies korpoj falis en la dezerto? Al kiuj li ĵuris, ke ili ne eniros en lian ripozon, sed al tiuj, kiuj estis malobeemaj? Ni vidas, ke ili ne povis eniri pro nekredemo.
+
+### Ĉapitro 4
+
+Ni timu do, ke eble iu el vi ŝajnu esti mankinta la promeson eniri en Lian ripozon. Ĉar efektive ni ricevis bonan novaĵon, kiel ankaŭ ili, sed la vorto, kiun ili aŭdis, ne profitis al ili, ĉar ĝi ne estis miksita kun fido de tiuj, kiuj aŭdis. Ĉar ni, kiuj kredis, eniras en tiun ripozon, kiel Li diris, "Kiel Mi ĵuris en Mia kolero, ili ne eniros en Mian ripozon;" kvankam la verkoj estis finitaj de la fundamento de la mondo. Ĉar Li diris ie pri la sepa tago, "Dio ripozis en la sepa tago de ĉiuj Siaj verkoj;" kaj en ĉi tiu loko denove, "Ili ne eniros en Mian ripozon."
+
+Vidante do, ke restas, ke iuj eniru en ĝin, kaj tiuj, al kiuj la bona novaĵo estis predikita antaŭe, malsukcesis eniri pro malobeo, Li denove difinas certan tagon, "hodiaŭ", dirante per David post longa tempo (kiel estis dirite),
+
+"Hodiaŭ, se vi aŭdos Lian voĉon,
+
+ne malmoligu viajn korojn."
+
+Ĉar se Joŝuo donis al ili ripozon, Li ne parolus poste pri alia tago. Restas do sabata ripozo por la popolo de Dio. Ĉar tiu, kiu eniris en Lian ripozon, ankaŭ ripozis de siaj verkoj, kiel Dio faris de Siaj. Ni do klopodu eniri en tiun ripozon, por ke neniu falu laŭ la sama ekzemplo de malobeo. Ĉar la vorto de Dio estas viva kaj aktiva, kaj pli akra ol iu ajn du-randa glavo, penetrante eĉ ĝis la disigo de animo kaj spirito, de ambaŭ artikoj kaj medolo, kaj kapablas distingi la pensojn kaj intencojn de la koro. Ne ekzistas kreitaĵo, kiu estas kaŝita de Lia vido, sed ĉiuj aferoj estas nudaj kaj malfermitaj antaŭ la okuloj de Tiu, al kiu ni devas doni raporton.
+
+Havante do grandan ĉefpastron, kiu trapasis la ĉielojn, Jesuo, la Filo de Dio, ni firme tenu nian konfeson. Ĉar ni ne havas ĉefpastron, kiu ne povas esti tuŝita de la sento de niaj malfortoj, sed unu, kiu estis en ĉiuj punktoj tentita kiel ni, tamen sen peko. Ni do alproksimiĝu kun kuraĝo al la trono de graco, por ke ni ricevu kompaton kaj trovu gracon por helpo en tempo de bezono.
+
+### Ĉapitro 5
+
+Ĉar ĉiu ĉefpastro, prenita el inter homoj, estas nomumita por homoj en aferoj rilataj al Dio, por ke li ofertu donacojn kaj oferojn por pekoj. La ĉefpastro povas trakti milde kun tiuj, kiuj estas nescipovaj kaj erarvagantaj, ĉar li mem ankaŭ estas ĉirkaŭita de malforteco. Pro tio, li devas oferti oferojn por pekoj por la popolo, same kiel por si mem. Neniu prenas ĉi tiun honoron sur si mem, sed li estas vokita de Dio, kiel Aaron estis. Tiel ankaŭ Kristo ne glorigis sin por esti farita ĉefpastro, sed estis Li, kiu diris al li,
+
+"Vi estas Mia Filo.
+
+Hodiaŭ Mi fariĝis via patro."
+
+Kiel Li diras ankaŭ en alia loko,
+
+"Vi estas pastro por ĉiam,
+
+laŭ la ordo de Melkicedek."
+
+Li, en la tagoj de sia karno, oferinte preĝojn kaj petojn kun forta plorado kaj larmoj al Tiu, kiu povis savi lin de morto, kaj estinte aŭdita pro sia pia timo, kvankam Li estis Filo, tamen lernis obeon per la aferoj, kiujn Li suferis. Estinte perfekta, Li fariĝis al ĉiuj, kiuj obeas Lin, la aŭtoro de eterna savo, nomita de Dio ĉefpastro laŭ la ordo de Melkicedek.
+
+Pri Li ni havas multajn vortojn por diri, kaj malfacile interpreteblajn, vidante ke vi fariĝis malakraj en aŭdado. Ĉar kvankam ĝis nun vi devus esti instruistoj, vi denove bezonas, ke iu instruu al vi la rudimentojn de la unuaj principoj de la revelacioj de Dio. Vi bezonas lakton, kaj ne solidan manĝaĵon. Ĉar ĉiu, kiu vivas per lakto, ne estas sperta en la vorto de justeco, ĉar li estas bebo. Sed solida manĝaĵo estas por tiuj, kiuj estas plenkreskaj, kiuj pro uzo havas siajn sentojn ekzercitajn por distingi bonon kaj malbonon.
+
+### Ĉapitro 6
+
+Tial, forlasante la instruadon de la unuaj principoj de Kristo, ni strebu al perfekteco—ne denove metante fundamenton de pento de mortaj faroj, de fido al Dio, de la instruado de baptoj, de la metado de manoj, de la releviĝo de la mortintoj, kaj de eterna juĝo. Ĉi tion ni faros, se Dio permesos. Ĉar pri tiuj, kiuj iam estis lumigitaj kaj gustumis la ĉielan donacon, kaj fariĝis partoprenantoj de la Sankta Spirito, kaj gustumis la bonan vorton de Dio kaj la potencojn de la estonta epoko, kaj poste falis, estas neeble renovigi ilin denove al pento; ĉar ili denove krucumas al si la Filon de Dio, kaj metas lin al publika honto. Ĉar la tero, kiu trinkis la pluvon, kiu ofte venas sur ĝin kaj produktas rikolton taŭgan por tiuj, pro kies kialo ĝi ankaŭ estas prilaborata, ricevas benon de Dio; sed se ĝi portas dornojn kaj kardojn, ĝi estas rifuzita kaj proksima al esti malbenita, kies fino estas esti bruligita.
+
+Sed, amataj, ni estas konvinkitaj pri pli bonaj aferoj por vi, kaj aferoj, kiuj akompanas savon, eĉ se ni parolas tiel. Ĉar Dio ne estas maljusta, tiel ke li forgesu vian laboron kaj la laboron de amo, kiun vi montris al lia nomo, en tio, ke vi servis la sanktulojn, kaj ankoraŭ servas ilin. Ni deziras, ke ĉiu el vi montru la saman diligentecon al la pleneco de espero eĉ ĝis la fino, ke vi ne estu malviglaj, sed imitantoj de tiuj, kiuj per fido kaj persisto heredis la promesojn.
+
+Ĉar kiam Dio faris promeson al Abraham, ĉar li povis ĵuri per neniu pli granda, li ĵuris per si mem, dirante, "Certe benante mi benos vin, kaj multigante mi multigos vin." Tiel, pacience elteninte, li akiris la promeson. Ĉar homoj ja ĵuras per pli granda, kaj en ĉiu ilia disputo la ĵuro estas fina por konfirmo. Tiel Dio, decidinte montri pli abunde al la heredantoj de la promeso la nemoveblecon de sia konsilo, intervenis per ĵuro, ke per du nemoveblaj aferoj, en kiuj estas neeble por Dio mensogi, ni havu fortan kuraĝigon, kiuj fuĝis por rifuĝo por ekteni la esperon metitan antaŭ ni. Ĉi tiu espero ni havas kiel ankron de la animo, espero kaj certa kaj firma kaj eniranta en tion, kio estas ene de la vualo, kie kiel antaŭkuranto Jesuo eniris por ni, fariĝinte ĉefpastro por ĉiam laŭ la ordo de Melkicedek.
+
+### Ĉapitro 7
+
+Ĉar ĉi tiu Melkicedek, reĝo de Salem, pastro de Dio Plejalta, kiu renkontis Abrahamon revenantan de la buĉado de la reĝoj kaj benis lin, al kiu ankaŭ Abraham dividis dekonon de ĉio (estante unue, laŭ interpreto, "reĝo de justeco", kaj poste ankaŭ "reĝo de Salem", kio signifas "reĝo de paco", sen patro, sen patrino, sen genealogio, havante nek komencon de tagoj nek finon de vivo, sed farita simila al la Filo de Dio), restas pastro senĉese.
+
+Nun konsideru kiel granda ĉi tiu viro estis, al kiu eĉ Abraham la patriarko donis dekonon el la plej bona rabaĵo. Ili ja el la filoj de Levi, kiuj ricevas la pastran oficon, havas ordonon preni dekonaĵojn de la popolo laŭ la leĝo, tio estas, de siaj fratoj, kvankam ĉi tiuj eliris el la korpo de Abraham, sed tiu, kies genealogio ne estas kalkulita el ili, akceptis dekonaĵojn de Abraham, kaj benis lin, kiu havas la promesojn. Sed sen ia disputo la malpli granda estas benita de la pli granda. Ĉi tie homoj, kiuj mortas, ricevas dekonaĵojn, sed tie unu ricevas dekonaĵojn, pri kiu estas atestite, ke li vivas. Ni povas diri, ke tra Abraham eĉ Levi, kiu ricevas dekonaĵojn, pagis dekonaĵojn, ĉar li ankoraŭ estis en la korpo de sia patro, kiam Melkicedek renkontis lin.
+
+Nun se perfekteco estis tra la Levida pastraro (ĉar sub ĝi la popolo ricevis la leĝon), kia plua bezono estis por alia pastro leviĝi laŭ la ordo de Melkicedek, kaj ne esti nomata laŭ la ordo de Aaron? Ĉar la pastraro ŝanĝiĝas, estas necese ankaŭ ŝanĝo en la leĝo. Ĉar li, pri kiu ĉi tiuj aferoj estas diritaj, apartenas al alia tribo, el kiu neniu oficiis ĉe la altaro. Ĉar estas evidente, ke nia Sinjoro eliris el Jehuda, pri kiu tribo Moseo nenion parolis koncerne pastraron. Ĉi tio estas ankoraŭ pli abunde evidenta, se laŭ la simileco de Melkicedek leviĝas alia pastro, kiu estis farita, ne laŭ la leĝo de karna ordono, sed laŭ la potenco de senfina vivo; ĉar estas atestite,
+
+"Vi estas pastro por ĉiam,
+
+laŭ la ordo de Melkicedek."
+
+Ĉar estas nuligo de antaŭa ordono pro ĝia malforteco kaj senutileco (ĉar la leĝo faris nenion perfekta), kaj enkonduko de pli bona espero, per kiu ni proksimiĝas al Dio. Ĉar li ne estis farita pastro sen la preno de ĵuro (ĉar ili ja estis faritaj pastroj sen ĵuro), sed li kun ĵuro de tiu, kiu diras pri li,
+
+"La Sinjoro ĵuris kaj ne ŝanĝos sian menson,
+
+'Vi estas pastro por ĉiam,
+
+laŭ la ordo de Melkicedek.'"
+
+Per tiom, Jesuo fariĝis la garantio de pli bona interligo.
+
+Multaj, ja, estis faritaj pastroj, ĉar ili estas malhelpitaj daŭrigi per morto. Sed li, ĉar li vivas por ĉiam, havas sian pastraron neŝanĝebla. Tial li ankaŭ povas savi ĝis la plej ekstrema tiujn, kiuj proksimiĝas al Dio tra li, vidante ke li vivas por ĉiam por fari interceson por ili.
+
+Ĉar tia ĉefpastro estis konvena por ni: sankta, senkulpa, senmakula, apartigita de pekuloj, kaj farita pli alta ol la ĉieloj; kiu ne bezonas, kiel tiuj ĉefpastroj, oferi ĉiutage, unue por siaj propraj pekoj, kaj poste por la pekoj de la popolo. Ĉar li faris ĉi tion unufoje por ĉiuj, kiam li oferis sin mem. Ĉar la leĝo nomumas homojn kiel ĉefpastroj, kiuj havas malfortecon, sed la vorto de la ĵuro, kiu venis post la leĝo, nomumas Filon por ĉiam, kiu estis perfektigita.
+
+### Ĉapitro 8
+
+Nun en la aferoj, kiujn ni diras, la ĉefa punkto estas ĉi tio: ni havas tian ĉefpastron, kiu sidiĝis dekstre de la trono de la Majesto en la ĉieloj, servanto de la sanktejo kaj de la vera tabernaklo, kiun la Sinjoro starigis, ne homo. Ĉar ĉiu ĉefpastro estas nomumita por oferi kaj donacojn kaj oferojn. Tial necesas, ke ĉi tiu ĉefpastro ankaŭ havu ion por oferi. Ĉar se li estus sur la tero, li tute ne estus pastro, vidante ke estas pastroj, kiuj oferas la donacojn laŭ la leĝo, kiuj servas kopion kaj ombron de la ĉielaj aferoj, kiel Moseo estis avertita de Dio kiam li estis pri fari la tabernaklon, ĉar li diris, "Vidu, vi faru ĉion laŭ la modelo, kiu estis montrita al vi sur la monto." Sed nun li akiris pli bonegan ministerion, tiom kiom li ankaŭ estas la peranto de pli bona interligo, kiu sur pli bonaj promesoj estis donita kiel leĝo.
+
+Ĉar se tiu unua interligo estus senkulpa, tiam neniu loko estus serĉita por dua. Ĉar trovante kulpon kun ili, li diris,
+
+"Jen, la tagoj venas", diras la Sinjoro,
+
+"ke mi faros novan interligon kun la domo de Izrael kaj kun la domo de Jehuda;
+
+ne laŭ la interligo, kiun mi faris kun iliaj patroj
+
+en la tago, kiam mi prenis ilin per la mano por konduki ilin el la lando de Egiptujo;
+
+ĉar ili ne daŭrigis en mia interligo,
+
+kaj mi malatentis ilin," diras la Sinjoro.
+
+"Ĉar ĉi tio estas la interligo, kiun mi faros kun la domo de Izrael
+
+post tiuj tagoj," diras la Sinjoro:
+
+"Mi metos miajn leĝojn en ilian menson;
+
+Mi ankaŭ skribos ilin sur ilia koro.
+
+Mi estos ilia Dio,
+
+kaj ili estos mia popolo.
+
+Ili ne instruos ĉiun homon sian kunloĝanton
+
+kaj ĉiun homon sian fraton, dirante, 'Sciu la Sinjoron,'
+
+ĉar ĉiuj konos min,
+
+de ilia plej malgranda ĝis ilia plej granda.
+
+Ĉar mi estos kompatema al ilia maljusteco.
+
+Mi ne plu memoros iliajn pekojn kaj senleĝajn farojn."
+
+En tio, ke li diras, "Nova interligo", li malnovigis la unuan. Sed tio, kio fariĝas malnova kaj maljuniĝas, estas proksima al malaperi.
+
+### Ĉapitro 9
+
+Nun ja eĉ la unua interligo havis ordonojn de dia servo kaj tera sanktejo. Ĉar tabernaklo estis preparita. En la unua parto estis la lampo, la tablo, kaj la montrpano, kiu estas nomata la Sankta Loko. Post la dua vualo estis la tabernaklo, kiu estas nomata la Plejsanktejo, havante oran altaron de incenso kaj la keston de la interligo kovritan ĉie per oro, en kiu estis ora poto tenanta la manon, la bastono de Aaron kiu burĝonis, kaj la tabuloj de la interligo; kaj super ĝi keruboj de gloro ombrantaj la kompatsidlokon, pri kiuj aferoj ni ne povas nun paroli detale.
+
+Nun ĉi tiuj aferoj estinte tiel preparitaj, la pastroj eniras konstante en la unuan tabernaklon, plenumante la servojn, sed en la duan la ĉefpastro sola, unufoje en la jaro, ne sen sango, kiun li oferas por si mem kaj por la eraroj de la popolo. La Sankta Spirito indikas ĉi tion, ke la vojo en la Sanktan Lokon ankoraŭ ne estis malkaŝita dum la unua tabernaklo ankoraŭ staris. Ĉi tio estas simbolo de la nuna epoko, kie donacoj kaj oferoj estas ofertitaj, kiuj estas nekapablaj, koncerne la konsciencon, fari la adoranton perfekta, estante nur (kun manĝaĵoj kaj trinkaĵoj kaj diversaj lavadoj) karnecaj ordonoj, trudataj ĝis tempo de reformado.
+
+Sed Kristo veninte kiel ĉefpastro de la venontaj bonaj aferoj, tra la pli granda kaj pli perfekta tabernaklo, ne farita per manoj, tio estas, ne de ĉi tiu kreado, nek tra la sango de kaproj kaj bovidoj, sed tra sia propra sango, eniris unufoje por ĉiam en la Sanktan Lokon, akirinte eternan elaĉeton. Ĉar se la sango de kaproj kaj bovoj, kaj la cindro de junbovino aspergante tiujn, kiuj estis malpurigitaj, sanktigas al la pureco de la karno, kiom pli la sango de Kristo, kiu tra la eterna Spirito oferis sin sen difekto al Dio, purigos vian konsciencon de mortaj faroj por servi la vivantan Dion? Pro ĉi tiu kialo li estas la peranto de nova interligo, ĉar morto okazis por la elaĉeto de la transgresoj, kiuj estis sub la unua interligo, ke tiuj, kiuj estis vokitaj, povu ricevi la promeson de la eterna heredaĵo. Ĉar kie estas lasta volo kaj testamento, tie devas necese esti la morto de tiu, kiu faris ĝin. Ĉar testamento estas en forto kie estis morto, ĉar ĝi neniam estas en forto dum tiu, kiu faris ĝin, vivas. Tial eĉ la unua interligo ne estis dediĉita sen sango. Ĉar kiam ĉiu ordono estis parolita de Moseo al la tuta popolo laŭ la leĝo, li prenis la sangon de la bovidoj kaj la kaproj, kun akvo kaj skarlata lano kaj hisopo, kaj aspergis kaj la libron mem kaj la tutan popolon, dirante, "Ĉi tio estas la sango de la interligo, kiun Dio ordonis al vi."
+
+Li aspergis la tabernaklon kaj ĉiujn vazojn de la ministerio same per la sango. Laŭ la leĝo, preskaŭ ĉio estas purigita per sango, kaj krom la verŝado de sango ne estas pardono.
+
+Estis necese do, ke la kopioj de la aferoj en la ĉielo estu purigitaj per ĉi tiuj, sed la ĉielaj aferoj mem per pli bonaj oferoj ol ĉi tiuj. Ĉar Kristo ne eniris en sanktajn lokojn faritajn per manoj, kiuj estas reprezentoj de la vera, sed en la ĉielon mem, nun por aperi en la ĉeesto de Dio por ni; nek ke li ofertu sin ofte, kiel la ĉefpastro eniras en la sanktan lokon jaron post jaro kun sango ne sia propra, aŭ alie li devus suferi ofte ekde la fundamento de la mondo. Sed nun unufoje ĉe la fino de la aĝoj, li estis malkaŝita por forigi pekon per la ofero de si mem. Ĉar estas destinite por homoj morti unufoje, kaj post tio, juĝo, tiel Kristo ankaŭ, estinte ofertita unufoje por porti la pekojn de multaj, aperos duan fojon, ne por trakti kun peko, sed por savi tiujn, kiuj fervore atendas lin.
+
+### Ĉapitro 10
+
+Ĉar la leĝo, havante ombron de la bonaj aferoj venontaj, ne la mem bildon de la aferoj, neniam povas per la samaj oferoj jaro post jaro, kiujn ili oferas konstante, perfektigi tiujn, kiuj alproksimiĝas. Alie ĉu ili ne ĉesus esti ofertitaj, ĉar la adorantoj, unufoje purigitaj, ne havus plu konscion pri pekoj? Sed en tiuj oferoj estas jara rememoro pri pekoj. Ĉar estas neeble, ke la sango de bovoj kaj kaproj forprenu pekojn. Tial kiam li venas en la mondon, li diras,
+
+"Vi ne deziris oferon kaj donacon,
+
+sed vi preparis korpon por mi.
+
+Vi ne havis plezuron en tutbrulaj oferoj kaj oferoj por peko.
+
+Tiam mi diris, 'Jen, mi venis (en la volumo de la libro estas skribite pri mi)
+
+por fari vian volon, ho Dio.'"
+
+Antaŭe dirante, "Oferojn kaj donacojn kaj tutbrulajn oferojn kaj oferojn por peko vi ne deziris, nek havis plezuron en ili" (tiuj, kiuj estas ofertitaj laŭ la leĝo), tiam li diris, "Jen, mi venis por fari vian volon." Li forprenas la unuan, por ke li starigu la duan, per kiu volo ni estas sanktigitaj per la ofero de la korpo de Jesuo Kristo unufoje por ĉiam.
+
+Ĉiu pastro ja staras tagon post tago servante kaj ofte oferante la samajn oferojn, kiuj neniam povas forpreni pekojn, sed li, kiam li oferis unu oferon por pekoj por ĉiam, sidiĝis dekstre de Dio, de tiu tempo atendante ĝis liaj malamikoj fariĝos la piedbenketo de liaj piedoj. Ĉar per unu ofero li perfektigis por ĉiam tiujn, kiuj estas sanktigitaj. La Sankta Spirito ankaŭ atestas al ni, ĉar post dirante,
+
+"Ĉi tio estas la interligo, kiun mi faros kun ili
+
+post tiuj tagoj," diras la Sinjoro,
+
+"Mi metos miajn leĝojn sur ilian koron,
+
+Mi ankaŭ skribos ilin sur ilia menso;"
+
+tiam li diras,
+
+"Mi ne plu memoros iliajn pekojn kaj iliajn maljustaĵojn."
+
+Nun kie estas la pardono de ĉi tiuj, ne plu estas ofero por peko.
+
+Havante do, fratoj, kuraĝon eniri en la sanktan lokon per la sango de Jesuo, per la vojo, kiun li dediĉis por ni, nova kaj viva vojo, tra la vualo, tio estas, lia karno, kaj havante grandan pastron super la domo de Dio, ni alproksimiĝu kun vera koro en pleneco de fido, havante niajn korojn aspergitajn de malbona konscienco kaj havante nian korpon lavitan per pura akvo, ni firme tenu la konfeson de nia espero sen hezito; ĉar li, kiu promesis, estas fidela.
+
+Ni konsideru kiel inciti unu la alian al amo kaj bonaj faroj, ne forlasante nian propran kunvenadon, kiel estas la kutimo de iuj, sed instigante unu la alian, kaj des pli multe, kiel vi vidas la Tagon alproksimiĝantan.
+
+Ĉar se ni pekas volonte post kiam ni ricevis la scion de la vero, ne plu restas ofero por pekoj, sed certa timiga atendo de juĝo, kaj furiozeco de fajro, kiu formanĝos la kontraŭulojn. Homo, kiu malrespektas la leĝon de Moseo, mortas sen kompato sur la vorto de du aŭ tri atestantoj. Kiom pli malbona puno vi pensas, ke li estos juĝita inda, kiu piedpremis la Filon de Dio, kaj konsideris la sangon de la interligo, per kiu li estis sanktigita, malpura afero, kaj insultis la Spiriton de graco? Ĉar ni konas lin, kiu diris, "Venĝo apartenas al mi. Mi repagos," diras la Sinjoro. Denove, "La Sinjoro juĝos sian popolon." Estas timiga afero fali en la manojn de la vivanta Dio.
+
+Sed memoru la antaŭajn tagojn, en kiuj, post kiam vi estis lumigitaj, vi eltenis grandan batalon kun suferoj: parte, esti eksponitaj al ambaŭ riproĉoj kaj premoj, kaj parte, fariĝi partoprenantoj kun tiuj, kiuj estis tiel traktitaj. Ĉar vi ambaŭ havis kompaton al mi en miaj ĉenoj kaj ĝoje akceptis la rabon de viaj posedaĵoj, sciante, ke vi havas por vi mem pli bonan posedaĵon kaj daŭran en la ĉieloj. Tial ne forĵetu vian kuraĝon, kiu havas grandan rekompencon. Ĉar vi bezonas eltenemon, por ke, farinte la volon de Dio, vi ricevu la promeson.
+
+"En tre mallonga tempo,
+
+li, kiu venas, venos kaj ne atendos.
+
+Sed la justa vivos per fido.
+
+Se li retiriĝas, mia animo ne havas plezuron en li."
+
+Sed ni ne estas el tiuj, kiuj retiriĝas al detruo, sed el tiuj, kiuj havas fidon al la savo de la animo.
+
+### Ĉapitro 11
+
+Nun fido estas certigo de aferoj esperataj, pruvo de aferoj ne viditaj. Ĉar per tio, la maljunuloj ricevis aprobon. Per fido ni komprenas, ke la universo estis kadrita per la vorto de Dio, tiel ke tio, kio estas vidata, ne estis farita el aferoj, kiuj estas videblaj.
+
+Per fido Abel oferadis al Dio pli bonegan oferon ol Kain, per kiu li ricevis ateston, ke li estis justa, Dio atestante pri liaj donacoj; kaj per ĝi li, estante mortinta, ankoraŭ parolas.
+
+Per fido Henok estis forprenita, por ke li ne vidu morton, kaj li ne estis trovita, ĉar Dio tradukis lin. Ĉar li ricevis ateston, ke antaŭ sia traduko li plaĉis al Dio. Sen fido estas neeble plaĉi al li, ĉar tiu, kiu venas al Dio, devas kredi, ke li ekzistas, kaj ke li estas rekompencanto de tiuj, kiuj serĉas lin.
+
+Per fido Noa, avertita pri aferoj ankoraŭ ne viditaj, moviĝis kun pia timo, preparis ŝipon por la savo de sia domo, per kiu li kondamnis la mondon kaj fariĝis heredanto de la justeco laŭ fido.
+
+Per fido Abraham, kiam li estis vokita, obeis por eliri al la loko, kiun li devis ricevi kiel heredaĵon. Li eliris, ne sciante, kien li iris. Per fido li loĝis kiel fremdulo en la lando de promeso, kiel en lando ne sia, loĝante en tendoj kun Isaak kaj Jakob, la heredantoj kun li de la sama promeso. Ĉar li serĉis la urbon, kiu havas fundamentojn, kies konstruanto kaj kreinto estas Dio.
+
+Eĉ Sara mem per fido ricevis potencon koncipi, kaj ŝi naskis infanon, kiam ŝi estis preter aĝo, ĉar ŝi konsideris lin fidela, kiu promesis. Tial tiom multaj kiel la steloj de la ĉielo en multo, kaj kiel ne nombrable kiel la sablo ĉe la marbordo, estis generitaj de unu viro, kaj li kiel mortinta.
+
+Ĉiuj ĉi mortis en fido, ne ricevante la promesojn, sed vidante ilin kaj brakumante ilin de malproksime, kaj konfesis, ke ili estis fremduloj kaj pilgrimoj sur la tero. Ĉar tiuj, kiuj diras tiajn aferojn, klare montras, ke ili serĉas landon propran. Se vere ili pensis pri tiu lando, el kiu ili eliris, ili havus sufiĉe da tempo por reveni. Sed nun ili deziras pli bonan landon, tio estas, ĉielan. Tial Dio ne hontas pri ili, esti nomata ilia Dio, ĉar li preparis urbon por ili.
+
+Per fido, Abraham, provita, oferadis Isaakon. Jes, li, kiu ĝoje ricevis la promesojn, oferadis sian solan naskitan filon, al kiu estis dirite: "Via idaro estos kalkulata kiel el Isaak," konkludante, ke Dio povas levi eĉ el la mortintoj. Figursence parolante, li ankaŭ ricevis lin reen el la mortintoj.
+
+Per fido Isaak benis Jakobon kaj Esavon, eĉ pri aferoj venontaj.
+
+Per fido Jakob, kiam li mortis, benis ĉiun el la filoj de Jozefo, kaj adoris, klinante sin sur la pinto de sia bastono.
+
+Per fido Jozefo, kiam lia fino estis proksima, menciis la foriron de la infanoj de Izrael, kaj donis instrukciojn pri siaj ostoj.
+
+Per fido Moseo, kiam li naskiĝis, estis kaŝita dum tri monatoj de siaj gepatroj, ĉar ili vidis, ke li estis bela infano; kaj ili ne timis la ordonon de la reĝo.
+
+Per fido Moseo, kiam li kreskis, rifuzis esti nomata la filo de la filino de Faraono, elektante prefere dividi malbonan traktadon kun la popolo de Dio ol ĝui la plezurojn de peko dum tempo, konsiderante la riproĉon de Kristo pli grandaj riĉaĵoj ol la trezoroj de Egiptujo; ĉar li rigardis al la rekompenco. Per fido li forlasis Egiptujon, ne timante la koleron de la reĝo; ĉar li eltenis, kiel vidante lin, kiu estas nevidebla. Per fido li konservis la Paskon kaj la aspergadon de la sango, ke la detruanto de la unuenaskito ne tuŝu ilin.
+
+Per fido ili trapasis la Ruĝan Maron kiel sur seka tero. Kiam la Egiptoj provis fari tion, ili estis englutitaj.
+
+Per fido la muroj de Jeriko falis post kiam ili estis ĉirkaŭitaj dum sep tagoj.
+
+Per fido Rahab la prostituitino ne pereis kun tiuj, kiuj estis malobeemaj, ricevante la spionojn en paco.
+
+Kion pli mi diru? Ĉar la tempo mankus al mi, se mi rakontus pri Gideon, Barak, Samson, Jeftah, David, Samuel, kaj la profetoj—kiuj per fido subigis regnojn, laboris justecon, ricevis promesojn, fermis la buŝojn de leonoj, estingis la potencon de fajro, eskapis la randon de la glavo, el malforteco fariĝis fortaj, kreskis potencaj en milito, kaj kaŭzis fremdajn armeojn fuĝi. Virinoj ricevis siajn mortintojn per resurekto. Aliaj estis torturitaj, ne akceptante sian liberigon, por ke ili povu akiri pli bonan resurekton. Aliaj estis provitaj per mokado kaj skurĝado, jes, plie per katenoj kaj malliberigo. Ili estis ŝtonumitaj. Ili estis segitaj. Ili estis tentitaj. Ili estis mortigitaj per la glavo. Ili ĉirkaŭiris en ŝafaj feloj kaj en kapraj feloj; estante senhavaj, afliktitaj, malbone traktitaj—de kiuj la mondo ne estis inda—vagante en dezertoj, montoj, kavernoj, kaj la truoj de la tero.
+
+Ĉiuj ĉi, estante laŭdataj pro sia fido, ne ricevis la promeson, Dio provizinte ion pli bonan pri ni, por ke sen ni ili ne estu perfektigitaj.
+
+### Ĉapitro 12
+
+Tial ni ankaŭ, ĉirkaŭitaj de tiel granda nubo da atestantoj, demetu ĉiun pezon kaj la pekon, kiu tiel facile implikas nin, kaj kuru kun persisto la kuradon, kiu estas antaŭ ni, rigardante al Jesuo, la aŭtoro kaj perfektiganto de la fido, kiu pro la ĝojo metita antaŭ li eltenis la krucon, malestimante ĝian honton, kaj sidiĝis dekstre de la trono de Dio.
+
+Konsideru lin, kiu eltenis tian kontraŭdiron de pekuloj kontraŭ si mem, por ke vi ne laciĝu, malfortiĝante en viaj animoj. Vi ankoraŭ ne rezistis ĝis sango, luktante kontraŭ peko. Vi forgesis la admonon, kiu parolas al vi kiel al infanoj,
+
+“Mia filo, ne malŝatu la punon de la Eternulo,
+
+nek laciĝu, kiam vi estas riproĉata de li;
+
+ĉar kiun la Eternulo amas, tiun li punas,
+
+kaj batas ĉiun filon, kiun li akceptas.”
+
+Ĝi estas por disciplino, ke vi eltenas. Dio traktas vin kiel infanojn, ĉar kiu filo estas tie, kiun lia patro ne punas? Sed se vi estas sen disciplino, de kiu ĉiuj fariĝis partoprenantoj, tiam vi estas neleĝitimaj, kaj ne infanoj. Plue, ni havis la patrojn de nia karno por puni nin, kaj ni respektis ilin. Ĉu ni ne multe pli submetiĝu al la Patro de spiritoj kaj vivu? Ĉar ili ja dum kelkaj tagoj disciplinis nin laŭ sia plaĉo, sed li por nia profito, ke ni partoprenu en lia sankteco. Ĉiu puno ŝajnas por la momento ne ĝoja sed malĝoja; tamen poste ĝi donas la pacan frukton de justeco al tiuj, kiuj estis ekzercitaj per ĝi. Tial levu la manojn, kiuj pendas malsupren, kaj la malfortajn genuojn, kaj faru rektajn vojojn por viaj piedoj, por ke tio, kio estas lama, ne elartikiĝu, sed prefere resaniĝu.
+
+Sekvu pacon kun ĉiuj homoj, kaj la sanktigon, sen kiu neniu vidos la Eternulon, atente rigardante, ke ne estu iu, kiu mankas al la graco de Dio, ke ne estu iu radiko de amareco, kiu kreskante ĝenu vin kaj multaj estu malpurigitaj per ĝi, ke ne estu iu seksmoralulo aŭ profana persono, kiel Esav, kiu vendis sian unuenaskitecon por unu manĝo. Ĉar vi scias, ke eĉ kiam li poste deziris heredi la benon, li estis rifuzita, ĉar li trovis neniun lokon por ŝanĝo de menso kvankam li serĉis ĝin diligente kun larmoj.
+
+Ĉar vi ne alvenis al monto, kiu povus esti tuŝita kaj kiu brulis per fajro, kaj al nigreco, mallumo, ŝtormo, la sono de trumpeto, kaj la voĉo de vortoj; kiujn tiuj, kiuj aŭdis ĝin, petegis, ke ne unu plia vorto estu parolata al ili, ĉar ili ne povis elteni tion, kio estis ordonita, “Se eĉ besto tuŝas la monton, ĝi estu ŝtonumita.” Tiel timiga estis la aspekto, ke Moseo diris, “Mi estas terurita kaj tremanta.”
+
+Sed vi alvenis al Monto Cion kaj al la urbo de la vivanta Dio, la ĉiela Jerusalemo, kaj al sennombraj amasiĝoj de anĝeloj, al la festena kunveno kaj asembleo de la unuenaskitoj, kiuj estas registritaj en la ĉielo, al Dio la Juĝisto de ĉiuj, al la spiritoj de justuloj perfektigitaj, al Jesuo, la peranto de nova interligo, kaj al la sango de aspergado, kiu parolas pli bone ol tiu de Abel.
+
+Vidu, ke vi ne rifuzu lin, kiu parolas. Ĉar se ili ne eskapis, kiam ili rifuzis lin, kiu avertis sur la tero, kiom pli ni ne eskapos, kiuj turnas sin for de li, kiu avertas el la ĉielo, kies voĉo tiam skuis la teron, sed nun li promesis, dirante, “Ankoraŭ unufoje mi skuos ne nur la teron, sed ankaŭ la ĉielojn.” Ĉi tiu frazo, “Ankoraŭ unufoje” signifas la forigon de tiuj aferoj, kiuj estas skuitaj, kiel de aferoj, kiuj estis faritaj, ke tiuj aferoj, kiuj ne estas skuitaj, restu. Tial, ricevante Regnon, kiu ne povas esti skuita, ni havu gracon, per kiu ni servu Dion akcepteble, kun respekto kaj timo, ĉar nia Dio estas konsumanta fajro.
+
+### Ĉapitro 13
+
+Lasu fratan amon daŭri. Ne forgesu montri gastamon al fremduloj, ĉar farante tion, iuj gastigis anĝelojn sen scii ĝin. Memoru tiujn, kiuj estas en katenoj, kvazaŭ ligitaj kun ili, kaj tiujn, kiuj estas malbone traktataj, ĉar vi ankaŭ estas en la korpo. Lasu geedziĝon esti tenata en honoro inter ĉiuj, kaj lasu la liton esti senmakula; sed Dio juĝos la seksan malmoralon kaj adultulojn.
+
+Estu liberaj de la amo al mono, kontentaj kun tiaj aferoj, kiaj vi havas, ĉar li diris, "Mi neniel forlasos vin, nek mi iel forlasos vin." Tiel ke kun bona kuraĝo ni diras,
+
+"La Sinjoro estas mia helpanto. Mi ne timos.
+
+Kion homo povas fari al mi?"
+
+Memoru viajn gvidantojn, virojn, kiuj parolis al vi la vorton de Dio, kaj konsiderante la rezultojn de ilia konduto, imitu ilian fidon. Jesuo Kristo estas la sama hieraŭ, hodiaŭ, kaj eterne. Ne lasu vin forporti de diversaj kaj strangaj instruoj, ĉar estas bone, ke la koro estu establita per graco, ne per manĝaĵoj, per kiuj tiuj, kiuj estis tiel okupitaj, ne estis profitigitaj.
+
+Ni havas altaron, el kiu tiuj, kiuj servas la sanktan tabernaklon, ne rajtas manĝi. Ĉar la korpoj de tiuj bestoj, kies sango estas alportita en la sanktan lokon de la ĉefpastro kiel ofero por peko, estas bruligitaj ekster la tendaro. Tial Jesuo ankaŭ, por ke li sanktigu la popolon per sia propra sango, suferis ekster la pordego. Ni do iru al li ekster la tendaro, portante lian riproĉon. Ĉar ni ne havas ĉi tie daŭran urbon, sed ni serĉas tiun, kiu venos. Per li, do, ni ofertu oferon de laŭdo al Dio kontinue, tio estas, la frukto de lipoj, kiuj proklamas fidelecon al lia nomo. Sed ne forgesu fari bonon kaj dividi, ĉar per tiaj oferoj Dio estas bone plaĉita.
+
+Obeu viajn gvidantojn kaj submetiĝu al ili, ĉar ili gardas nome de viaj animoj, kiel tiuj, kiuj donos konton, ke ili faru tion kun ĝojo kaj ne kun ĝemado, ĉar tio estus neprofita por vi.
+
+Preĝu por ni, ĉar ni estas konvinkitaj, ke ni havas bonan konsciencon, dezirante vivi honeste en ĉiuj aferoj. Mi forte instigas vin fari tion, ke mi estu restarigita al vi pli frue.
+
+Nun la Dio de paco, kiu revivigis el la mortintoj la grandan paŝtiston de la ŝafoj per la sango de eterna interligo, nia Sinjoro Jesuo, faru vin kompletaj en ĉiu bona laboro por plenumi lian volon, laborante en vi tion, kio estas bone plaĉa en lia vido, per Jesuo Kristo, al kiu estu la gloro eterne kaj eterne. Amen.
+
+Sed mi instigas vin, fratoj, eltenu la vorton de instigo, ĉar mi skribis al vi en malmultaj vortoj. Sciu, ke nia frato Timoteo estis liberigita, kun kiu, se li venos baldaŭ, mi vidos vin.
+
+Salutu ĉiujn viajn gvidantojn kaj ĉiujn sanktulojn. La italoj salutas vin.
+
+Graco estu kun vi ĉiuj. Amen.
