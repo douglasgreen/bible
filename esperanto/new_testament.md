@@ -6126,3 +6126,906 @@ Sed mi instigas vin, fratoj, eltenu la vorton de instigo, ĉar mi skribis al vi 
 Salutu ĉiujn viajn gvidantojn kaj ĉiujn sanktulojn. La italoj salutas vin.
 
 Graco estu kun vi ĉiuj. Amen.
+
+## Jakobo
+
+La Letero de Jakobo
+
+### Ĉapitro 1
+
+Jakobo, servisto de Dio kaj de la Sinjoro Jesuo Kristo, al la dek du triboj, kiuj estas en la Disporo: Salutojn.
+
+Kalkulu ĝin ĉia ĝojo, miaj fratoj, kiam vi falas en diversajn tentojn, sciante, ke la provado de via fido produktas paciencon. Lasu paciencon havi sian perfektan laboron, por ke vi estu perfektaj kaj kompletaj, mankantaj nenion.
+
+Sed se iu el vi mankas saĝon, lasu lin peti de Dio, kiu donas al ĉiuj libere kaj sen riproĉo, kaj ĝi estos donita al li. Sed lasu lin peti en fido, sen iu dubo, ĉar tiu, kiu dubas, estas kiel ondo de la maro, pelata de la vento kaj ĵetata. Ĉar tiu homo ne pensu, ke li ricevos ion de la Sinjoro. Li estas duobla-mensa homo, malstabila en ĉiuj siaj vojoj.
+
+Lasu la fraton en humilaj cirkonstancoj glori en sia alta pozicio; kaj la riĉulo, en tio, ke li estas humiligita, ĉar kiel la floro en la herbo, li pasos. Ĉar la suno leviĝas kun la bruliga vento kaj velkas la herbon; kaj la floro en ĝi falas, kaj la beleco de ĝia aspekto pereas. Tiel ankaŭ la riĉulo forvelkos en siaj klopodoj.
+
+Feliĉa estas persono, kiu eltenas tenton, ĉar kiam li estas aprobita, li ricevos la kronon de vivo, kiun la Sinjoro promesis al tiuj, kiuj amas lin.
+
+Neniu diru, kiam li estas tentata, "Mi estas tentata de Dio," ĉar Dio ne povas esti tentata de malbono, kaj li mem ne tentas iun. Sed ĉiu estas tentata, kiam li estas forlogita de sia propra volupto kaj logita. Tiam la volupto, kiam ĝi estas koncipita, naskas pekon. La peko, kiam ĝi estas plenkreska, produktas morton. Ne trompiĝu, miaj amataj fratoj. Ĉiu bona donaco kaj ĉiu perfekta donaco estas de supre, malsuprenvenanta de la Patro de lumo, kun kiu ne povas esti variado nek ombro de turniĝo. De sia propra volo li naskis nin per la vorto de vero, ke ni estu speco de unuaj fruktoj de liaj kreitaĵoj.
+
+Do, tiam, miaj amataj fratoj, lasu ĉiun homon esti rapida por aŭdi, malrapida por paroli, kaj malrapida por koleri; ĉar la kolero de homo ne produktas la justecon de Dio. Tial, forigante ĉian malpurecon kaj superfluon de malboneco, ricevu kun humileco la enplantitan vorton, kiu povas savi viajn animojn.
+
+Sed estu farantoj de la vorto, kaj ne nur aŭskultantoj, trompante viajn proprajn memojn. Ĉar se iu estas aŭskultanto de la vorto kaj ne faranto, li estas kiel homo rigardanta sian naturan vizaĝon en spegulo; ĉar li vidas sin, kaj foriras, kaj tuj forgesas, kia homo li estis. Sed tiu, kiu rigardas en la perfektan leĝon de libereco kaj daŭras, ne estante aŭskultanto, kiu forgesas, sed faranto de la laboro, tiu homo estos feliĉa en tio, kion li faras.
+
+Se iu inter vi pensas sin esti religia dum li ne bridlas sian langon, sed trompas sian koron, tiu homo religio estas senvalora. Pura religio kaj senmakula antaŭ nia Dio kaj Patro estas ĉi tio: viziti la orfojn kaj vidvinojn en ilia aflikto, kaj teni sin senmakula de la mondo.
+
+### Ĉapitro 2
+
+Miaj fratoj, ne tenu la fidon de nia glora Sinjoro Jesuo Kristo kun partiaĵo. Ĉar se viro kun ora ringo, en belaj vestoj, eniras vian sinagogon, kaj malriĉulo en malpuraj vestoj ankaŭ eniras, kaj vi donas specialan atenton al tiu, kiu portas la belajn vestojn kaj diras, "Sidu ĉi tie en bona loko;" kaj vi diras al la malriĉulo, "Stariĝu tie," aŭ "Sidu apud mia piedbenketo," ĉu vi ne montris partiaĵon inter vi mem, kaj fariĝis juĝistoj kun malbonaj pensoj? Aŭskultu, miaj amataj fratoj. Ĉu Dio ne elektis tiujn, kiuj estas malriĉaj en ĉi tiu mondo, por esti riĉaj en fido kaj heredantoj de la Regno, kiun li promesis al tiuj, kiuj amas lin? Sed vi malhonoris la malriĉulon. Ĉu la riĉuloj ne premas vin kaj persone trenadas vin antaŭ la tribunaloj? Ĉu ili ne blasfemas la honorindan nomon, per kiu vi estas vokitaj?
+
+Tamen, se vi plenumas la reĝan leĝon laŭ la Skribo, "Vi amu vian proksimulon kiel vin mem," vi faras bone. Sed se vi montras partiaĵon, vi pekas, estante kondamnitaj de la leĝo kiel transgresantoj. Ĉar kiu ajn observas la tutan leĝon, kaj tamen falas en unu punkto, li fariĝis kulpa de ĉiuj. Ĉar tiu, kiu diris, "Ne adultu," ankaŭ diris, "Ne mortigu." Nun se vi ne adultas sed mortigas, vi fariĝis transgresanto de la leĝo. Do parolu kaj tiel faru kiel homoj, kiuj estos juĝataj laŭ la leĝo de libereco. Ĉar juĝo estas sen kompato al tiu, kiu montris neniun kompaton. Kompato triumfas super juĝo.
+
+Kio utilas, miaj fratoj, se viro diras, ke li havas fidon, sed ne havas farojn? Ĉu fido povas savi lin? Kaj se frato aŭ fratino estas nudaj kaj mankas ĉiutaga manĝo, kaj unu el vi diras al ili, "Iru en paco. Estu varmigitaj kaj plenigitaj;" tamen vi ne donis al ili la aferojn, kiujn la korpo bezonas, kio utilas? Eĉ tiel fido, se ĝi ne havas farojn, estas morta en si mem. Jes, viro diros, "Vi havas fidon, kaj mi havas farojn." Montru al mi vian fidon sen faroj, kaj mi montros al vi mian fidon per miaj faroj.
+
+Vi kredas, ke Dio estas unu. Vi faras bone. La demonoj ankaŭ kredas—kaj tremas. Sed ĉu vi volas scii, vana homo, ke fido aparta de faroj estas morta? Ĉu Abrahamo, nia patro, ne estis pravigita per faroj, en tio, ke li oferis Isaakon, sian filon, sur la altaro? Vi vidas, ke fido laboris kun liaj faroj, kaj per faroj fido estis perfektigita. Do la Skribo estis plenumita, kiu diras, "Abraham kredis Dion, kaj ĝi estis kalkulita al li kiel justeco," kaj li estis nomita la amiko de Dio. Vi vidas do, ke per faroj viro estas pravigita, kaj ne nur per fido. Same, ĉu Rahab la prostituitino ne estis ankaŭ pravigita per faroj, kiam ŝi ricevis la mesaĝistojn kaj sendis ilin alian vojon? Ĉar kiel la korpo aparta de la spirito estas morta, eĉ tiel fido aparta de faroj estas morta.
+
+### Ĉapitro 3
+
+Ne multaj el vi estu instruistoj, miaj fratoj, sciante ke ni ricevos pli severan juĝon. Ĉar ni ĉiuj falpuŝiĝas en multaj aferoj. Kiu ne falpuŝiĝas en vorto estas perfekta homo, kapabla bridigi ankaŭ la tutan korpon. Efektive, ni metas bridojn en la buŝojn de la ĉevaloj por ke ili obeu nin, kaj ni gvidas ilian tutan korpon. Jen, ankaŭ la ŝipoj, kvankam ili estas tiel grandaj kaj estas pelataj de furiozaj ventoj, tamen estas gvidataj de tre malgranda stirilo, kien ajn la piloto deziras. Tiel ankaŭ la lango estas malgranda membro, kaj fanfaronas pri grandaj aferoj. Vidu kiel malgranda fajro povas disvastiĝi al granda arbaro! Kaj la lango estas fajro. La mondo de maljusteco inter niaj membroj estas la lango, kiu malpurigas la tutan korpon, kaj ekbruligas la kurson de la naturo, kaj estas ekbruligita de Geheno. Ĉar ĉiu speco de besto, birdo, rampantaĵo, kaj marestaĵo estas subjugita, kaj estis subjugita de la homaro; sed neniu povas subjugigi la langon. Ĝi estas senripoza malbono, plena de mortiga veneno. Per ĝi ni benas nian Dion kaj Patron, kaj per ĝi ni malbenas homojn, kiuj estas faritaj laŭ la bildo de Dio. El la sama buŝo venas beno kaj malbeno. Miaj fratoj, ĉi tiuj aferoj ne devus esti tiel. Ĉu fonto elsendas el la sama aperturo freŝan kaj amaran akvon? Ĉu figarbo, miaj fratoj, produktas olivojn, aŭ vinberarbo figojn? Tiel neniu fonto produktas kaj salan akvon kaj freŝan akvon.
+
+Kiu estas saĝa kaj komprenema inter vi? Lasu lin montri per sia bona konduto, ke liaj faroj estas faritaj en mildo de saĝeco. Sed se vi havas amaran ĵaluzon kaj egoisman ambicion en via koro, ne fanfaronu kaj ne mensogu kontraŭ la vero. Ĉi tiu saĝeco ne estas tiu, kiu venas de supre, sed estas tera, sensuala, kaj demonisma. Ĉar kie estas ĵaluzo kaj egoisma ambicio, tie estas konfuzo kaj ĉiu malbona faro. Sed la saĝeco, kiu estas de supre, estas unue pura, poste paca, milda, racia, plena de kompato kaj bonaj fruktoj, senpartia, kaj senhipokrita. Nun la frukto de justeco estas semita en paco de tiuj, kiuj faras pacon.
+
+### Ĉapitro 4
+
+De kie venas militoj kaj bataloj inter vi? Ĉu ili ne venas el viaj voluptoj, kiuj militas en viaj membroj? Vi deziras, kaj ne havas. Vi murdas kaj enviadas, kaj ne povas akiri. Vi batalas kaj militas. Vi ne havas, ĉar vi ne petas. Vi petas, kaj ne ricevas, ĉar vi petas kun malĝustaj motivoj, por ke vi elspezu ĝin por viaj voluptoj. Vi adultuloj kaj adultulinoj, ĉu vi ne scias, ke amikeco kun la mondo estas malamikeco kontraŭ Dio? Kiu do volas esti amiko de la mondo, faras sin malamiko de Dio. Aŭ ĉu vi pensas, ke la Skribo vane diras: "La Spirito, kiu loĝas en ni, sopiras ĵaluze"? Sed li donas pli da graco. Tial ĝi diras: "Dio kontraŭstaras la fierulojn, sed donas gracon al la humilaj." Submetiĝu do al Dio. Rezistu la diablon, kaj li forkuros de vi. Alproksimiĝu al Dio, kaj li alproksimiĝos al vi. Purigu viajn manojn, vi pekuloj. Purigu viajn korojn, vi duoblamensaj. Lamentu, funebru, kaj ploru. Via rido estu turnita al funebro kaj via ĝojo al malgajo. Humiliĝu antaŭ la Sinjoro, kaj li altigos vin.
+
+Ne parolu kontraŭ unu la alian, fratoj. Kiu parolas kontraŭ frato kaj juĝas sian fraton, parolas kontraŭ la leĝo kaj juĝas la leĝon. Sed se vi juĝas la leĝon, vi ne estas plenumanto de la leĝo, sed juĝisto. Nur unu estas la leĝdonanto, kiu povas savi kaj detrui. Sed kiu vi estas por juĝi alian?
+
+Venu nun, vi, kiuj diras: "Hodiaŭ aŭ morgaŭ ni iru en ĉi tiun urbon kaj pasigu jaron tie, komercu kaj profitu." Tamen vi ne scias, kia estos via vivo morgaŭ. Ĉar kio estas via vivo? Ĉar vi estas vaporo, kiu aperas por mallonga tempo kaj poste malaperas. Ĉar vi devus diri: "Se la Sinjoro volas, ni vivos kaj faros ĉi tion aŭ tion." Sed nun vi fieras en via fanfaronado. Ĉia tia fanfaronado estas malbona. Al tiu do, kiu scias fari bonon kaj ne faras ĝin, al li ĝi estas peko.
+
+### Ĉapitro 5
+
+Venu nun, vi riĉuloj, ploru kaj ĝemu pro viaj mizeroj, kiuj venas sur vin. Viaj riĉaĵoj estas putrintaj kaj viaj vestoj estas tine-manĝitaj. Via oro kaj via arĝento estas koroditaj, kaj ilia korodo estos atesto kontraŭ vi kaj manĝos vian karnon kiel fajro. Vi amasigis vian trezoron en la lastaj tagoj. Jen, la salajroj de la laboristoj, kiuj falĉis viajn kampojn, kiujn vi retenis per fraŭdo, krias; kaj la krioj de tiuj, kiuj rikoltis, eniris en la orelojn de la Sinjoro de Armeoj. Vi vivis en lukso sur la tero, kaj prenis vian plezuron. Vi nutris viajn korojn kiel en tago de buĉado. Vi kondamnis kaj mortigis la justulon. Li ne rezistas vin.
+
+Estu paciencaj do, fratoj, ĝis la alveno de la Sinjoro. Jen, la farmisto atendas la valoran frukton de la tero, estante pacienca pri ĝi, ĝis ĝi ricevas la fruan kaj malfruan pluvon. Vi ankaŭ estu paciencaj. Firmigu viajn korojn, ĉar la alveno de la Sinjoro estas proksima.
+
+Ne murmuru, fratoj, unu kontraŭ la alia, por ke vi ne estu juĝitaj. Jen, la juĝisto staras ĉe la pordo. Prenu, fratoj, kiel ekzemplon de suferado kaj eltenemo, la profetojn, kiuj parolis en la nomo de la Sinjoro. Jen, ni nomas ilin benitaj, kiuj eltenis. Vi aŭdis pri la eltenemo de Ijob kaj vidis la Sinjoron en la rezulto, kaj kiel la Sinjoro estas plena de kompato kaj mizerikordo.
+
+Sed super ĉio, miaj fratoj, ne ĵuru—nek per la ĉielo, nek per la tero, nek per iu ajn alia ĵuro; sed via "jes" estu "jes", kaj via "ne", "ne", por ke vi ne falu en hipokritecon.
+
+Ĉu iu inter vi suferas? Li preĝu. Ĉu iu ĝojas? Li kantadu laŭdojn. Ĉu iu inter vi malsanas? Li alvoku la pliaĝulojn de la kunveno, kaj ili preĝu super li, ŝmirante lin per oleo en la nomo de la Sinjoro; kaj la preĝo de fido resanigos lin, kiu estas malsana, kaj la Sinjoro levos lin. Se li pekis, li estos pardonita. Konfesu viajn pekojn unu al la alia kaj preĝu unu por la alia, por ke vi resaniĝu. La insista preĝo de justa homo estas potence efika. Elija estis homo kun naturo kiel nia, kaj li fervore preĝis, ke ne plu pluvas, kaj ne pluvis sur la tero dum tri jaroj kaj ses monatoj. Li preĝis denove, kaj la ĉielo donis pluvon, kaj la tero produktis sian frukton.
+
+Fratoj, se iu inter vi eraras de la vero kaj iu lin revenigas, li sciu, ke tiu, kiu revenigas pekulon de la eraro de lia vojo, savos animon de morto kaj kovros multon da pekoj.
+
+## 1 Petro
+
+La Unua Letero de Petro
+
+### Ĉapitro 1
+
+Petro, apostolo de Jesuo Kristo, al la elektitoj, kiuj loĝas kiel fremduloj en la Disporo en Ponto, Galatio, Kapadokio, Azio, kaj Bitinio, laŭ la antaŭsciado de Dio la Patro, en sanktigo de la Spirito, por ke vi obeu Jesuon Kriston kaj estu aspergitaj per lia sango: Graco al vi kaj paco estu multigita.
+
+Benata estu la Dio kaj Patro de nia Sinjoro Jesuo Kristo, kiu laŭ sia granda kompato kaŭzis, ke ni renaskiĝu al viva espero per la releviĝo de Jesuo Kristo el la mortintoj, al neputrema kaj nesenkura heredaĵo, kiu ne velkas, rezervita en la Ĉielo por vi, kiuj per la potenco de Dio estas gardataj per fido por savo preta esti malkaŝita en la lasta tempo. En tio vi tre ĝojas, kvankam nun por mallonga tempo, se necese, vi estis afliktitaj en diversaj provoj, por ke la pruvo de via fido, kiu estas pli valora ol oro, kiu pereas, eĉ se ĝi estas provita per fajro, estu trovita rezultigi laŭdon, gloron, kaj honoron ĉe la malkaŝo de Jesuo Kristo— kiun, ne konante, vi amas. En li, kvankam nun vi ne vidas lin, tamen kredante, vi tre ĝojas kun ĝojo, kiu estas neesprimebla kaj plena de gloro, ricevante la rezulton de via fido, la savon de viaj animoj.
+
+Pri ĉi tiu savo, la profetoj serĉis kaj diligente esploris. Ili profetis pri la graco, kiu venos al vi, serĉante kiu aŭ kia tempo la Spirito de Kristo, kiu estis en ili, indikis, kiam li antaŭdiris la suferojn de Kristo kaj la glorojn, kiuj sekvos ilin. Al ili estis malkaŝite, ke ili servis ne al si mem, sed al vi, en ĉi tiuj aferoj, kiuj nun estis anoncitaj al vi per tiuj, kiuj predikis la Bonan Novaĵon al vi per la Sankta Spirito sendita el la ĉielo; kiujn aferojn anĝeloj deziras rigardi.
+
+Tial preparu viajn mensojn por agado. Estu sobraj, kaj metu vian esperon plene sur la gracon, kiu estos alportita al vi ĉe la malkaŝo de Jesuo Kristo— kiel infanoj de obeo, ne konformante vin laŭ viaj antaŭaj deziroj kiel en via nescio, sed kiel tiu, kiu vokis vin, estas sankta, vi mem ankaŭ estu sanktaj en ĉiuj viaj kondutoj, ĉar estas skribite, "Vi estos sanktaj, ĉar mi estas sankta."
+
+Se vi vokas lin kiel Patron, kiu sen respekto de personoj juĝas laŭ la laboro de ĉiu homo, pasigu la tempon de via vivo kiel fremduloj ĉi tie en respektoplena timo, sciante, ke vi estis elaĉetitaj, ne per putrememaj aferoj kiel arĝento aŭ oro, de la senutila vivmaniero transdonita de viaj patroj, sed per la altvalora sango, kiel de ŝafido sen makulo aŭ difekto, la sango de Kristo, kiu estis antaŭkonata ja antaŭ la fundamento de la mondo, sed estis malkaŝita en ĉi tiu lasta aĝo por via bono, kiuj per li estas kredantoj en Dio, kiu levis lin el la mortintoj kaj donis al li gloron, por ke via fido kaj espero estu en Dio.
+
+Vidante, ke vi purigis viajn animojn en via obeo al la vero per la Spirito en sincera frata amo, amu unu la alian el la koro fervore, estante renaskitaj, ne el putrema semo, sed el neputrema, per la vorto de Dio, kiu vivas kaj restas eterne. Ĉar,
+
+"Ĉiu karno estas kiel herbo,
+
+kaj ĉiu gloro de homo kiel la floro en la herbo.
+
+La herbo velkas, kaj ĝia floro falas;
+
+sed la vorto de la Sinjoro restas eterne."
+
+Ĉi tio estas la vorto de la Bona Novaĵo, kiu estis predikita al vi.
+
+### Ĉapitro 2
+
+Forigante do ĉian malbonon, ĉian trompon, hipokritecojn, enviojn, kaj ĉian malbonan parolon, kiel novnaskitaj infanoj, sopiru la puran spiritan lakton, por ke per ĝi vi kresku, se vere vi gustumis, ke la Sinjoro estas favora. Venu al li, vivanta ŝtono, vere rifuzita de homoj, sed elektita de Dio, altvalora. Vi ankaŭ kiel vivantaj ŝtonoj estas konstruitaj kiel spirita domo, por esti sankta pastraro, por oferi spiritajn oferojn, akcepteblajn al Dio per Jesuo Kristo. Ĉar ĝi estas enhavita en la Skribo,
+
+“Jen, mi metas en Cion ĉefan angulŝtonon, elektitan kaj altvaloran.
+
+Kiu kredas al li ne estos seniluziigita.”
+
+Por vi, kiuj kredas, do estas la honoro, sed por tiuj, kiuj estas malobeemaj,
+
+“La ŝtono, kiun la konstruistoj rifuzis
+
+fariĝis la ĉefa angulŝtono,”
+
+kaj,
+
+“ŝtono de falpuŝiĝo kaj roko de ofendo.”
+
+Ĉar ili falpuŝiĝas ĉe la vorto, estante malobeemaj, al kiu ankaŭ ili estis destinataj. Sed vi estas elektita raso, reĝa pastraro, sankta nacio, popolo por propra posedo de Dio, por ke vi proklamu la bonecon de tiu, kiu vokis vin el mallumo en sian mirindan lumon. En la pasinteco, vi ne estis popolo, sed nun estas la popolo de Dio, kiuj ne ricevis kompaton, sed nun ricevis kompaton.
+
+Karuloj, mi petegas vin kiel fremduloj kaj pilgrimoj abstini de karnecaj deziroj, kiuj militas kontraŭ la animo, havante bonan konduton inter la nacioj, tiel ke en tio, pri kio ili parolas kontraŭ vi kiel malbonfarantoj, ili povas vidi viajn bonajn farojn kaj glori Dion en la tago de vizito.
+
+Do submetu vin al ĉiu ordono de homo pro la Sinjoro: ĉu al la reĝo, kiel supera, aŭ al guberniestroj, kiel senditaj de li por venĝo kontraŭ malbonfarantoj kaj por laŭdo al tiuj, kiuj faras bone. Ĉar tio estas la volo de Dio, ke per bonfarado vi silentigu la nescion de malsaĝaj homoj. Vivu kiel liberaj homoj, tamen ne uzante vian liberecon kiel kovrilon de malbono, sed kiel servistoj de Dio.
+
+Honoru ĉiujn homojn. Amu la frataron. Timu Dion. Honoru la reĝon.
+
+Servistoj, estu submetitaj al viaj mastroj kun ĉia respekto, ne nur al la bonaj kaj mildaj, sed ankaŭ al la malbonaj. Ĉar estas laŭdinda, se iu eltenas doloron, suferante maljuste, pro konscienco al Dio. Ĉar kia gloro estas, se, kiam vi pekas, vi pacience eltenas batadon? Sed se, kiam vi faras bone, vi pacience eltenas suferadon, tio estas laŭdinda ĉe Dio. Ĉar vi estis vokitaj al tio, ĉar Kristo ankaŭ suferis por ni, lasante al vi ekzemplon, ke vi sekvu liajn paŝojn, kiu ne pekis, “nek trompo troviĝis en lia buŝo.” Kiam li estis insultita, li ne insultis reen. Kiam li suferis, li ne minacis, sed sin konfidis al tiu, kiu juĝas juste. Li mem portis niajn pekojn en sia korpo sur la ligno, por ke ni, mortinte al pekoj, povu vivi al justeco. Vi estis resanigitaj per liaj vundoj. Ĉar vi estis vagantaj kiel ŝafoj; sed nun vi revenis al la Paŝtisto kaj Gardanto de viaj animoj.
+
+### Ĉapitro 3
+
+En la sama maniero, edzinoj, estu submetitaj al viaj propraj edzoj, por ke, eĉ se iuj ne obeas la Vorton, ili estu gajnitaj per la konduto de siaj edzinoj sen vorto, vidante vian puran konduton en timo. Via beleco ne venu de la ekstera ornamado de plektado de viaj haroj, kaj de portado de oraj ornamaĵoj aŭ de surmetado de belaj vestoj, sed de la kaŝita persono de la koro, en la neputrebla ornamado de milda kaj kvieta spirito, kiu estas tre valora en la okuloj de Dio. Ĉar tiel en la pasinteco la sanktaj virinoj, kiuj esperis en Dio, ankaŭ ornamis sin, estante submetitaj al siaj propraj edzoj. Tiel Sara obeis Abrahamon, nomante lin sinjoro, kies infanoj vi nun estas, se vi faras bone kaj ne estas timigitaj de iu teruro.
+
+Vi edzoj, en la sama maniero, loĝu kun viaj edzinoj laŭ scio, donante honoron al la virino kiel al la pli malforta vazeto, kiel ankaŭ estante kunheredantoj de la graco de vivo, por ke viaj preĝoj ne estu malhelpitaj.
+
+Fine, ĉiuj vi estu samideaj, kompatemaj, amantaj kiel fratoj, tenerkoraj, ĝentilaj, ne redonante malbonon por malbono aŭ insulton por insulto; sed anstataŭe benante, sciante, ke vi estis vokitaj al tio, ke vi povu heredi benon. Ĉar,
+
+“Kiu volus ami la vivon
+
+kaj vidi bonajn tagojn,
+
+li tenu sian langon for de malbono
+
+kaj siajn lipojn for de parolado de trompo.
+
+Li turnu sin for de malbono kaj faru bonon.
+
+Li serĉu pacon kaj persekutu ĝin.
+
+Ĉar la okuloj de la Sinjoro estas sur la justuloj,
+
+kaj liaj oreloj malfermitaj al ilia preĝo;
+
+sed la vizaĝo de la Sinjoro estas kontraŭ tiuj, kiuj faras malbonon.”
+
+Nun kiu damaĝos vin, se vi fariĝos imitantoj de tio, kio estas bona? Sed eĉ se vi suferus pro justeco, vi estas benitaj. “Ne timu tion, kion ili timas, nek estu maltrankviligitaj.” Sed sanktigu la Sinjoron Dion en viaj koroj. Ĉiam estu pretaj doni respondon al ĉiu, kiu demandas vin pri la espero, kiu estas en vi, kun humileco kaj timo, havante bonan konsciencon. Tiel, dum vi estas parolataj kontraŭ kiel malbonfarantoj, ili povas esti seniluziigitaj, kiuj malbenas vian bonan vivmanieron en Kristo. Ĉar estas pli bone, se estas la volo de Dio, ke vi suferu pro farado de tio, kio estas ĝusta, ol pro farado de malbono. Ĉar Kristo ankaŭ suferis pro pekoj unufoje, la justa por la maljustuloj, por ke li povu alporti vin al Dio, estante mortigita en la karno, sed vivigita en la Spirito, en kiu li ankaŭ iris kaj predikis al la spiritoj en malliberejo, kiuj antaŭe estis malobeemaj kiam Dio pacience atendis en la tagoj de Noa dum la ŝipo estis konstruita. En ĝi, malmultaj, tio estas, ok animoj, estis savitaj tra akvo. Ĉi tio estas simbolo de bapto, kiu nun savas vin—ne la forigo de la malpuraĵo de la karno, sed la respondo de bona konscienco al Dio—per la releviĝo de Jesuo Kristo, kiu estas ĉe la dekstra mano de Dio, enirinte en la ĉielon, anĝeloj kaj aŭtoritatoj kaj potencoj estante submetitaj al li.
+
+### Ĉapitro 4
+
+Tial, ĉar Kristo suferis por ni en la karno, armu vin ankaŭ per la sama menso; ĉar tiu, kiu suferis en la karno, ĉesis peki, por ke vi ne plu vivu la reston de via tempo en la karno por la voluptoj de homoj, sed por la volo de Dio. Ĉar ni sufiĉe pasigis nian pasintan tempon farante la dezirojn de la nacianoj, kaj irante en malĉasteco, voluptoj, drinkado, orgioj, diboĉado, kaj abomenindaj idolatrioj. Ili pensas, ke estas strange, ke vi ne kuras kun ili en la saman eksceson de tumulto, parolante malbone pri vi. Ili donos konton al tiu, kiu estas preta juĝi la vivantojn kaj la mortintojn. Ĉar por ĉi tiu celo la Bona Novaĵo estis predikita eĉ al la mortintoj, ke ili povus esti juĝitaj kiel homoj en la karno, sed vivi kiel al Dio en la spirito.
+
+Sed la fino de ĉiuj aferoj estas proksima. Tial estu prudentaj, memkontrolitaj, kaj sobraj en preĝo. Kaj super ĉio estu fervoraj en via amo inter vi mem, ĉar amo kovras multon da pekoj. Estu gastamaj unu al la alia sen murmurado. Kiel ĉiu ricevis donacon, uzu ĝin por servi unu al la alia, kiel bonaj administrantoj de la graco de Dio en ĝiaj diversaj formoj. Se iu parolas, lasu ĝin esti kvazaŭ la vortoj de Dio. Se iu servas, lasu ĝin esti kiel de la forto, kiun Dio provizas, por ke en ĉiuj aferoj Dio estu glorata per Jesuo Kristo, al kiu apartenas la gloro kaj la regado por ĉiam kaj eterne. Amen.
+
+Amataj, ne miru pri la fajra provo, kiu venis sur vin por testi vin, kvazaŭ stranga afero okazis al vi. Sed ĉar vi estas partoprenantoj de la suferoj de Kristo, ĝoju, ke ĉe la revelacio de lia gloro vi ankaŭ povas ĝoji kun ekstrema ĝojo. Se vi estas insultitaj pro la nomo de Kristo, vi estas benitaj, ĉar la Spirito de gloro kaj de Dio ripozas sur vi. Aliflanke li estas blasfemata, sed aliflanke li estas glorata. Sed neniu el vi suferu kiel murdisto, aŭ ŝtelisto, aŭ malbonfaranto, aŭ enmiksiĝanto en aliaj homaj aferoj. Sed se unu el vi suferas pro esti kristano, li ne hontu; sed li gloru Dion en ĉi tiu afero. Ĉar la tempo venis por juĝo komenci kun la domanaro de Dio. Se ĝi komenciĝas unue kun ni, kio okazos al tiuj, kiuj ne obeas la Bonan Novaĵon de Dio? "Se estas malfacile por la justuloj esti savitaj, kio okazos al la malpiuloj kaj la pekuloj?" Tial lasu ankaŭ tiujn, kiuj suferas laŭ la volo de Dio en farado de bono, konfidi siajn animojn al li, kiel al fidela Kreinto.
+
+### Ĉapitro 5
+
+Tial mi instigas la pliaĝulojn inter vi, kiel kunpliaĝulo kaj atestanto de la suferoj de Kristo, kaj kiu ankaŭ partoprenos en la gloro, kiu estos malkaŝita: paŝtu la gregon de Dio, kiu estas inter vi, praktikante la superrigardon, ne devige, sed volonte; ne por malhonesta gajno, sed volonte; ne kiel sinjorante super tiuj, kiuj estas konfiditaj al vi, sed farante vin mem ekzemploj al la grego. Kiam la ĉefa Paŝtisto estos malkaŝita, vi ricevos la kronon de gloro, kiu ne velkas.
+
+Simile, vi pli junaj, estu submetitaj al la pliaĝulo. Jes, ĉiuj vi vestu vin per humileco kaj submetu vin unu al la alia; ĉar "Dio kontraŭstaras la fierulojn, sed donas gracon al la humilaj." Humiligu vin do sub la potenca mano de Dio, ke li povu altigi vin en la ĝusta tempo, ĵetante ĉiujn viajn zorgojn sur lin, ĉar li zorgas pri vi.
+
+Estu sobra kaj memkontrola. Estu vigla. Via kontraŭulo, la diablo, iras ĉirkaŭe kiel blekanta leono, serĉante kiun li povus formanĝi. Rezistu lin firme en via fido, sciante, ke viaj fratoj, kiuj estas en la mondo, spertas la samajn suferojn. Sed la Dio de ĉia graco, kiu vokis vin al sia eterna gloro per Kristo Jesuo, post kiam vi suferis iom da tempo, perfektigu, starigu, fortigu, kaj firmigu vin. Al li estu la gloro kaj la potenco por ĉiam kaj eterne. Amen.
+
+Per Silvano, nia fidela frato, kiel mi konsideras lin, mi skribis al vi mallonge, instigante kaj atestante, ke ĉi tio estas la vera graco de Dio, en kiu vi staras. Ŝi, kiu estas en Babilono, elektita kune kun vi, salutas vin. Same faras Marko, mia filo. Salutu unu la alian per kiso de amo.
+
+Paco estu al ĉiuj vi, kiuj estas en Kristo Jesuo. Amen.
+
+## 2 Petro
+
+La Dua Letero de Petro
+
+### Ĉapitro 1
+
+Simon Petro, servisto kaj apostolo de Jesuo Kristo, al tiuj, kiuj akiris similan altvaloran kredon kun ni en la justeco de nia Dio kaj Savanto, Jesuo Kristo: Graco al vi kaj paco estu multobligitaj en la scio de Dio kaj de Jesuo nia Sinjoro, vidante ke lia dia potenco donis al ni ĉion, kio rilatas al vivo kaj pieco, per la scio de tiu, kiu vokis nin per sia propra gloro kaj virto, per kiuj li donis al ni siajn altvalorajn kaj tre grandajn promesojn; ke per ĉi tiuj vi povu fariĝi partoprenantoj de la dia naturo, eskapinte de la korupto, kiu estas en la mondo pro volupto. Jes, kaj pro ĉi tiu tre kaŭzo aldonante de via flanko ĉian diligentecon, en via kredo provizu moralan ekscelencon; kaj en morala ekscelenco, scion; kaj en scio, memregadon; kaj en memregado, persistecon; kaj en persisteco, piecon; kaj en pieco, fratan amon; kaj en frata amo, amon. Ĉar se ĉi tiuj aferoj estas viaj kaj abundas, ili igas vin ne esti senokupaj aŭ senfruktaj en la scio de nia Sinjoro Jesuo Kristo. Ĉar tiu, kiu mankas ĉi tiujn aferojn, estas blinda, vidante nur tion, kio estas proksima, forgesinte la purigon de siaj malnovaj pekoj. Tial, fratoj, estu pli diligentaj por fari vian vokon kaj elekton certa. Ĉar se vi faras ĉi tiujn aferojn, vi neniam falpuŝiĝos. Ĉar tiel vi estos riĉe provizitaj per la eniro en la eternan Regnon de nia Sinjoro kaj Savanto, Jesuo Kristo.
+
+Tial mi ne estos neglektanta rememorigante vin pri ĉi tiuj aferoj, kvankam vi scias ilin kaj estas establitaj en la nuna vero. Mi pensas, ke estas ĝuste, dum mi estas en ĉi tiu tendo, veki vin per rememorigado, sciante, ke la forigo de mia tendo venas rapide, kiel nia Sinjoro Jesuo Kristo klare montris al mi. Jes, mi faros ĉian penon, ke vi ĉiam povu memori ĉi tiujn aferojn eĉ post mia foriro.
+
+Ĉar ni ne sekvis ruze elpensitajn fabelojn, kiam ni sciigis al vi la potencon kaj alvenon de nia Sinjoro Jesuo Kristo, sed ni estis atestantoj de lia majesto. Ĉar li ricevis de Dio la Patro honoron kaj gloron, kiam la voĉo venis al li el la Majesta Gloro, "Ĉi tiu estas mia amata Filo, en kiu mi bone plaĉas." Ni aŭdis ĉi tiun voĉon veni el la ĉielo, kiam ni estis kun li sur la sankta monto.
+
+Ni havas la pli certan profetan vorton; kaj vi bone faras, ke vi atentas ĝin kiel lampon brilantan en malhela loko, ĝis la tago ekbrilas kaj la matena stelo leviĝas en viaj koroj, sciante ĉi tion unue, ke neniu profetaĵo de Skribo estas de privata interpreto. Ĉar neniu profetaĵo iam venis per la volo de homo, sed sanktaj homoj de Dio parolis, movitaj de la Sankta Spirito.
+
+### Ĉapitro 2
+
+Sed falsaj profetoj ankaŭ leviĝis inter la popolo, kiel falsaj instruistoj ankaŭ estos inter vi, kiuj sekrete enkondukos detruajn herezojn, eĉ neante la Mastro, kiu aĉetis ilin, alportante sur sin rapidan detruon. Multaj sekvos iliajn malmoralajn vojojn, kaj kiel rezulto, la vojo de la vero estos kalumniita. En avideco ili ekspluatos vin per trompaj vortoj: kies juĝo nun de antikve ne prokrastas, kaj ilia detruo ne dormas.
+
+Ĉar se Dio ne indulgis anĝelojn kiam ili pekis, sed ĵetis ilin en Tartaron, kaj transdonis ilin al fosaĵoj de mallumo por esti rezervitaj por juĝo; kaj ne indulgis la antikvan mondon, sed konservis Noan kun sep aliaj, predikiston de justeco, kiam li alportis diluvon sur la mondon de la malpiuloj, kaj turnante la urbojn de Sodomo kaj Gomora en cindron, kondamnis ilin al detruo, farinte ilin ekzemplo al tiuj, kiuj vivus malpie, kaj liberigis justan Loton, kiu estis tre afliktita de la volupta vivo de la malvirtuloj (ĉar tiu justa viro loĝante inter ili estis turmentita en sia justa animo de tago al tago vidante kaj aŭdante kontraŭleĝajn agojn), tiam la Sinjoro scias kiel liberigi la piulojn el tento kaj teni la malpiulojn sub puno por la tago de juĝo, sed ĉefe tiuj, kiuj iras post la karno en la volupto de malpuraĵo kaj malestimas aŭtoritaton. Aŭdacaj, obstinaj, ili ne timas paroli malbone pri eminentuloj, dum anĝeloj, kvankam pli grandaj en forto kaj potenco, ne alportas kalumnian juĝon kontraŭ ili antaŭ la Sinjoro. Sed ĉi tiuj, kiel senraciaj kreitaĵoj, naskitaj naturaj bestoj por esti kaptitaj kaj detruitaj, parolante malbone pri aferoj pri kiuj ili estas ignorantaj, en sia detruado certe estos detruitaj, ricevante la salajron de maljusteco; homoj, kiuj konsideras plezuron ĝui en la tago, makuloj kaj difektoj, ĝuante en sia trompo dum ili festenas kun vi; havante okulojn plenajn de adulto, kaj kiuj ne povas ĉesi peki, logante malstabilajn animojn, havante koron trejnitan en avideco, malbenitaj infanoj! Forsakante la ĝustan vojon, ili eraris, sekvante la vojon de Bileam, filo de Beor, kiu amis la salajron de malbonfarado; sed li estis riproĉita pro sia propra malobeo. Senparola azeno parolis per homa voĉo kaj haltigis la frenezon de la profeto.
+
+Ĉi tiuj estas putoj sen akvo, nuboj pelataj de ŝtormo, por kiuj la nigreco de mallumo estas rezervita por ĉiam. Ĉar, eldirante grandajn ŝvelajn vortojn de malpleno, ili logas en la voluptoj de la karno, per malĉasteco, tiujn, kiuj vere eskapas de tiuj, kiuj vivas en eraro; promesante al ili liberecon, dum ili mem estas servistoj de korupto; ĉar homo estas alportita en sklavecon de kiu ajn superas lin.
+
+Ĉar se, post kiam ili eskapis la malpuraĵon de la mondo per la scio de la Sinjoro kaj Savanto Jesuo Kristo, ili denove implikiĝas en ĝi kaj estas superitaj, la lasta stato fariĝis pli malbona por ili ol la unua. Ĉar estus pli bone por ili ne koni la vojon de justeco, ol post koni ĝin, turniĝi reen de la sankta ordono liverita al ili. Sed tio okazis al ili laŭ la vera proverbo, "La hundo revenas al sia propra vomitaĵo," kaj "la porkino, kiu estis lavita, al ruliĝi en la koto."
+
+### Ĉapitro 3
+
+Jen nun, amataj, la dua letero, kiun mi skribis al vi; kaj en ambaŭ mi vekas vian sinceran menson per rememorigado, ke vi memoru la vortojn, kiuj estis parolitaj antaŭe de la sanktaj profetoj kaj la ordonon de ni, la apostoloj de la Sinjoro kaj Savanto, sciante ĉi tion unue, ke en la lastaj tagoj mokantoj venos, irante laŭ siaj propraj deziroj kaj dirante, "Kie estas la promeso de lia alveno? Ĉar, de la tago kiam la patroj endormiĝis, ĉiuj aferoj daŭras kiel ili estis de la komenco de la kreado." Ĉar ili volonte forgesas, ke estis ĉieloj de antikve, kaj tero formita el akvo kaj meze de akvo per la vorto de Dio, per kiu la mondo, kiu tiam ekzistis, estante superfluita per akvo, pereis. Sed la ĉieloj, kiuj ekzistas nun kaj la tero, per la sama vorto estas konservitaj por fajro, estante rezervitaj kontraŭ la tago de juĝo kaj detruo de malpiuloj.
+
+Sed ne forgesu ĉi tiun unu aferon, amataj, ke unu tago estas ĉe la Sinjoro kiel mil jaroj, kaj mil jaroj kiel unu tago. La Sinjoro ne malrapidas koncerne sian promeson, kiel iuj kalkulas malrapidecon; sed li estas pacienca kun ni, ne dezirante ke iu pereu, sed ke ĉiuj venu al pento. Sed la tago de la Sinjoro venos kiel ŝtelisto en la nokto, en kiu la ĉieloj pasos kun granda bruo, kaj la elementoj dissolviĝos kun fervora varmego; kaj la tero kaj la faroj, kiuj estas en ĝi, estos forbruligitaj. Tial, ĉar ĉiuj ĉi tiuj aferoj estos detruitaj tiel, kiajn homojn vi devus esti en sankta vivado kaj pieco, atendante kaj fervore dezirante la alvenon de la tago de Dio, kiu kaŭzos la brulantajn ĉielojn dissolviĝi, kaj la elementoj fandiĝos kun fervora varmego? Sed, laŭ lia promeso, ni atendas novajn ĉielojn kaj novan teron, en kiuj loĝas justeco.
+
+Tial, amataj, vidante ke vi atendas ĉi tiujn aferojn, estu diligentaj por esti trovitaj en paco, sen difekto kaj senkulpa antaŭ lia vido. Rigardu la paciencon de nia Sinjoro kiel savon; eĉ kiel nia amata frato Paŭlo ankaŭ, laŭ la saĝeco donita al li, skribis al vi, kiel ankaŭ en ĉiuj liaj leteroj, parolante en ili pri ĉi tiuj aferoj. En tiuj, estas iuj aferoj, kiuj estas malfacile kompreneblaj, kiujn la nescipovaj kaj malstabilaj tordas, kiel ili ankaŭ faras al la aliaj Skriboj, al sia propra detruo. Vi do, amataj, sciante ĉi tiujn aferojn antaŭe, gardu vin, por ke ne estu forportitaj per la eraro de la malvirtuloj, vi falu de via propra firmeco. Sed kresku en la graco kaj scio de nia Sinjoro kaj Savanto Jesuo Kristo. Al li estu la gloro nun kaj eterne. Amen.
+
+## 1 Johano
+
+La Unua Letero de Johano
+
+### Ĉapitro 1
+
+Tio, kio estis de la komenco, tio, kion ni aŭdis, tio, kion ni vidis per niaj okuloj, tio, kion ni rigardis, kaj niaj manoj tuŝis, pri la Vorto de vivo (kaj la vivo estis malkaŝita, kaj ni vidis, kaj atestas, kaj anoncas al vi la vivon, la eternan vivon, kiu estis kun la Patro, kaj estis malkaŝita al ni); tio, kion ni vidis kaj aŭdis, ni anoncas al vi, por ke vi ankaŭ havu kunulecon kun ni. Jes, kaj nia kunuleco estas kun la Patro kaj kun Lia Filo, Jesuo Kristo. Kaj ni skribas ĉi tiujn aferojn al vi, por ke nia ĝojo estu plenumita.
+
+Jen la mesaĝo, kiun ni aŭdis de li kaj anoncas al vi, ke Dio estas lumo, kaj en li estas nenia mallumo. Se ni diras, ke ni havas kunulecon kun li kaj iras en la mallumo, ni mensogas kaj ne diras la veron. Sed se ni iras en la lumo, kiel li estas en la lumo, ni havas kunulecon unu kun la alia, kaj la sango de Jesuo Kristo, lia Filo, purigas nin de ĉiu peko. Se ni diras, ke ni ne havas pekon, ni trompas nin mem, kaj la vero ne estas en ni. Se ni konfesas niajn pekojn, li estas fidela kaj justa por pardoni al ni la pekojn kaj purigi nin de ĉiu maljusteco. Se ni diras, ke ni ne pekis, ni faras lin mensoganto, kaj lia vorto ne estas en ni.
+
+### Ĉapitro 2
+
+Miaj infanetoj, mi skribas ĉi tiujn aferojn al vi, por ke vi ne peku. Se iu pekas, ni havas Konsilanton kun la Patro, Jesuon Kriston, la justan. Kaj li estas la repaciga ofero por niaj pekoj, kaj ne nur por niaj, sed ankaŭ por la tuta mondo. Tiel ni scias, ke ni konas lin: se ni observas liajn ordonojn. Tiu, kiu diras, "Mi konas lin," kaj ne observas liajn ordonojn, estas mensoganto, kaj la vero ne estas en li. Sed la amo de Dio certe estas perfektiĝinta en tiu, kiu observas lian vorton. Tiel ni scias, ke ni estas en li: tiu, kiu diras, ke li restas en li, devas ankaŭ mem iri, kiel li iris.
+
+Fratoj, mi ne skribas al vi novan ordonon, sed malnovan ordonon, kiun vi havis de la komenco. La malnova ordono estas la vorto, kiun vi aŭdis de la komenco. Denove, mi skribas al vi novan ordonon, kiu estas vera en li kaj en vi, ĉar la mallumo forpasas kaj la vera lumo jam brilas. Tiu, kiu diras, ke li estas en la lumo kaj malamas sian fraton, estas en la mallumo eĉ ĝis nun. Tiu, kiu amas sian fraton, restas en la lumo, kaj ne estas okazo por faligi en li. Sed tiu, kiu malamas sian fraton, estas en la mallumo, kaj iras en la mallumo, kaj ne scias, kien li iras, ĉar la mallumo blindigis liajn okulojn.
+
+Mi skribas al vi, infanetoj, ĉar viaj pekoj estas pardonitaj pro lia nomo.
+
+Mi skribas al vi, patroj, ĉar vi konas tiun, kiu estas de la komenco.
+
+Mi skribas al vi, junuloj, ĉar vi venkis la malbonulon.
+
+Mi skribas al vi, infanetoj, ĉar vi konas la Patron.
+
+Mi skribis al vi, patroj, ĉar vi konas tiun, kiu estas de la komenco.
+
+Mi skribis al vi, junuloj, ĉar vi estas fortaj, kaj la vorto de Dio restas en vi, kaj vi venkis la malbonulon.
+
+Ne amu la mondon nek la aferojn, kiuj estas en la mondo. Se iu amas la mondon, la amo de la Patro ne estas en li. Ĉar ĉio, kio estas en la mondo—la deziro de la karno, la deziro de la okuloj, kaj la fiero de la vivo—ne estas de la Patro, sed estas de la mondo. La mondo forpasas kun siaj deziroj, sed tiu, kiu faras la volon de Dio, restas eterne.
+
+Infanetoj, ĉi tiuj estas la finaj tempoj, kaj kiel vi aŭdis, ke la Antikristo venas, eĉ nun multaj antikristoj leviĝis. Per tio ni scias, ke ĝi estas la fina horo. Ili eliris el ni, sed ili ne apartenis al ni; ĉar se ili apartenus al ni, ili daŭrus kun ni. Sed ili foriris, por ke ili estu malkaŝitaj, ke neniu el ili apartenas al ni. Vi havas sanktoleon de la Sanktulo, kaj vi ĉiuj havas scion. Mi ne skribis al vi, ĉar vi ne konas la veron, sed ĉar vi konas ĝin, kaj ĉar neniu mensogo estas de la vero. Kiu estas la mensoganto krom tiu, kiu neas, ke Jesuo estas la Kristo? Ĉi tiu estas la Antikristo, tiu, kiu neas la Patron kaj la Filon. Kiu neas la Filon, ne havas la Patron. Kiu konfesas la Filon, havas la Patron ankaŭ.
+
+Tial, kiel por vi, lasu tion resti en vi, kion vi aŭdis de la komenco. Se tio, kion vi aŭdis de la komenco, restas en vi, vi ankaŭ restos en la Filo kaj en la Patro. Ĉi tio estas la promeso, kiun li promesis al ni, la eterna vivo.
+
+Ĉi tiujn aferojn mi skribis al vi pri tiuj, kiuj volus konduki vin erare. Kiel por vi, la sanktoleo, kiun vi ricevis de li, restas en vi, kaj vi ne bezonas, ke iu instruu vin. Sed kiel lia sanktoleo instruas vin pri ĉiuj aferoj, kaj estas vera, kaj estas nenia mensogo, kaj eĉ kiel ĝi instruis vin, vi restos en li.
+
+Nun, infanetoj, restu en li, por ke kiam li aperos, ni havu kuraĝon kaj ne hontu antaŭ li ĉe lia alveno. Se vi scias, ke li estas justa, vi scias, ke ĉiu, kiu praktikas justecon, estas naskita de li.
+
+### Ĉapitro 3
+
+Vidu kiel granda amo la Patro donis al ni, ke ni estu nomataj infanoj de Dio! Pro tio la mondo ne konas nin, ĉar ĝi ne konis lin. Amataj, nun ni estas infanoj de Dio. Ankoraŭ ne estas malkaŝite, kio ni estos; sed ni scias, ke kiam li estos malkaŝita, ni estos similaj al li, ĉar ni vidos lin ĝuste kiel li estas. Ĉiu, kiu havas ĉi tiun esperon metitan sur lin, purigas sin, same kiel li estas pura.
+
+Ĉiu, kiu pekas, ankaŭ faras maljustecon. Peko estas maljusteco. Vi scias, ke li estis malkaŝita por forigi niajn pekojn, kaj neniu peko estas en li. Kiu restas en li, ne pekas. Kiu pekas, ne vidis lin kaj ne konas lin.
+
+Infanetoj, neniu trompu vin. Kiu faras justecon, estas justa, same kiel li estas justa. Kiu pekas, estas de la diablo, ĉar la diablo pekas de la komenco. Por ĉi tiu celo la Filo de Dio estis malkaŝita: ke li povu detrui la verkojn de la diablo. Kiu estas naskita de Dio, ne faras pekon, ĉar lia semo restas en li, kaj li ne povas peki, ĉar li estas naskita de Dio. En tio la infanoj de Dio estas malkaŝitaj, kaj la infanoj de la diablo. Kiu ne faras justecon, ne estas de Dio, nek tiu, kiu ne amas sian fraton. Ĉar ĉi tio estas la mesaĝo, kiun vi aŭdis de la komenco, ke ni amu unu la alian — male al Kaino, kiu estis de la malbona kaj mortigis sian fraton. Kial li mortigis lin? Ĉar liaj faroj estis malbonaj, kaj la de lia frato justaj.
+
+Ne miru, miaj fratoj, se la mondo malamas vin. Ni scias, ke ni transiris el morto en vivon, ĉar ni amas la fratojn. Kiu ne amas sian fraton, restas en morto. Kiu malamas sian fraton, estas murdisto, kaj vi scias, ke neniu murdisto havas eternan vivon restantan en li.
+
+Per tio ni konas amon, ĉar li demetis sian vivon por ni. Kaj ni devas demeti niajn vivojn por la fratoj. Sed kiu havas la mondajn havaĵojn kaj vidas sian fraton en bezono, tiam fermas sian koron de kompato kontraŭ li, kiel la amo de Dio restas en li?
+
+Miaj infanetoj, ni ne amu nur per vorto, aŭ per la lango, sed per faro kaj vero. Kaj per tio ni scias, ke ni estas de la vero kaj persvadas niajn korojn antaŭ li, ĉar se nia koro kondamnas nin, Dio estas pli granda ol nia koro, kaj scias ĉiujn aferojn. Amataj, se niaj koroj ne kondamnas nin, ni havas kuraĝon al Dio; do kion ajn ni petas, ni ricevas de li, ĉar ni gardas liajn ordonojn kaj faras la aferojn, kiuj plaĉas al li. Ĉi tio estas lia ordono, ke ni kredu je la nomo de lia Filo, Jesuo Kristo, kaj amu unu la alian, same kiel li ordonis. Kiu gardas liajn ordonojn, restas en li, kaj li en li. Per tio ni scias, ke li restas en ni, per la Spirito, kiun li donis al ni.
+
+### Ĉapitro 4
+
+Amataj, ne kredu ĉiun spiriton, sed provu la spiritojn, ĉu ili estas de Dio, ĉar multaj falsaj profetoj eliris en la mondon. Per tio vi scias la Spiriton de Dio: ĉiu spirito, kiu konfesas, ke Jesuo Kristo venis en la karno, estas de Dio, kaj ĉiu spirito, kiu ne konfesas, ke Jesuo Kristo venis en la karno, ne estas de Dio; kaj tio estas la spirito de la Antikristo, pri kiu vi aŭdis, ke ĝi venas. Nun ĝi jam estas en la mondo. Vi estas de Dio, infanetoj, kaj venkis ilin, ĉar pli granda estas tiu, kiu estas en vi, ol tiu, kiu estas en la mondo. Ili estas de la mondo. Tial ili parolas pri la mondo, kaj la mondo aŭskultas ilin. Ni estas de Dio. Kiu konas Dion, aŭskultas nin. Kiu ne estas de Dio, ne aŭskultas nin. Per tio ni scias la spiriton de vero, kaj la spiriton de eraro.
+
+Amataj, ni amu unu la alian, ĉar amo estas de Dio; kaj ĉiu, kiu amas, naskiĝis de Dio kaj konas Dion. Kiu ne amas, ne konas Dion, ĉar Dio estas amo. Per tio la amo de Dio estis malkaŝita en ni, ke Dio sendis sian solnaskitan Filon en la mondon, por ke ni vivu per li. En tio estas amo, ne ke ni amis Dion, sed ke li amis nin, kaj sendis sian Filon kiel la repacigan oferon por niaj pekoj. Amataj, se Dio tiel amis nin, ni ankaŭ devas ami unu la alian. Neniu vidis Dion iam ajn. Se ni amas unu la alian, Dio restas en ni, kaj lia amo estas perfektigita en ni.
+
+Per tio ni scias, ke ni restas en li kaj li en ni, ĉar li donis al ni el sia Spirito. Ni vidis kaj atestas, ke la Patro sendis la Filon kiel la Savanton de la mondo. Kiu konfesas, ke Jesuo estas la Filo de Dio, Dio restas en li, kaj li en Dio. Ni scias kaj kredis la amon, kiun Dio havas por ni. Dio estas amo, kaj kiu restas en amo, restas en Dio, kaj Dio restas en li. En tio, amo estas perfektigita inter ni, por ke ni havu kuraĝon en la tago de juĝo, ĉar kiel li estas, tiel ni estas en ĉi tiu mondo. Ne estas timo en amo; sed perfekta amo forpelas timon, ĉar timo havas punon. Kiu timas, ne estas perfektigita en amo. Ni amas lin, ĉar li unue amis nin. Se homo diras, "Mi amas Dion," kaj malamas sian fraton, li estas mensoganto; ĉar kiu ne amas sian fraton, kiun li vidis, kiel li povas ami Dion, kiun li ne vidis? Ĉi tiun ordonon ni havas de li, ke kiu amas Dion, ankaŭ amu sian fraton.
+
+### Ĉapitro 5
+
+Kiu ajn kredas, ke Jesuo estas la Kristo, estas naskita de Dio. Kiu ajn amas la Patron, ankaŭ amas la infanon, kiu estas naskita de li. Per tio ni scias, ke ni amas la infanojn de Dio, kiam ni amas Dion kaj observas liajn ordonojn. Ĉar tio estas ami Dion, ke ni observas liajn ordonojn. Liaj ordonoj ne estas pezaj. Ĉar kio ajn estas naskita de Dio venkas la mondon. Tio estas la venko, kiu venkis la mondon: via fido. Kiu estas tiu, kiu venkas la mondon, krom tiu, kiu kredas, ke Jesuo estas la Filo de Dio?
+
+Tiu estas tiu, kiu venis per akvo kaj sango, Jesuo Kristo; ne nur per la akvo, sed per la akvo kaj la sango. Estas la Spirito, kiu atestas, ĉar la Spirito estas la vero. Ĉar estas tri, kiuj atestas: la Spirito, la akvo, kaj la sango; kaj la tri konsentas kiel unu. Se ni ricevas la ateston de homoj, la atesto de Dio estas pli granda; ĉar tio estas la atesto de Dio, kiun li atestis pri sia Filo. Kiu kredas en la Filo de Dio, havas la ateston en si mem. Kiu ne kredas Dion, faris lin mensoganto, ĉar li ne kredis en la atesto, kiun Dio donis pri sia Filo. La atesto estas ĉi tio: ke Dio donis al ni eternan vivon, kaj ĉi tiu vivo estas en lia Filo. Kiu havas la Filon, havas la vivon. Kiu ne havas la Filon de Dio, ne havas la vivon.
+
+Ĉi tiujn aferojn mi skribis al vi, kiuj kredas en la nomo de la Filo de Dio, por ke vi sciu, ke vi havas eternan vivon, kaj ke vi daŭre kredu en la nomo de la Filo de Dio.
+
+Ĉi tio estas la kuraĝo, kiun ni havas al li, ke se ni petas ion laŭ lia volo, li aŭskultas nin. Kaj se ni scias, ke li aŭskultas nin, kion ajn ni petas, ni scias, ke ni havas la petojn, kiujn ni petis de li.
+
+Se iu vidas sian fraton pekanta pekon ne kondukantan al morto, li petu, kaj Dio donos al li vivon por tiuj, kiuj pekas ne kondukantan al morto. Estas peko kondukanta al morto. Mi ne diras, ke li petu pri tio. Ĉia maljusteco estas peko, kaj estas peko ne kondukanta al morto.
+
+Ni scias, ke kiu ajn estas naskita de Dio, ne pekas, sed tiu, kiu estis naskita de Dio, gardas sin, kaj la malbona ne tuŝas lin. Ni scias, ke ni estas de Dio, kaj la tuta mondo kuŝas en la potenco de la malbona. Ni scias, ke la Filo de Dio venis kaj donis al ni komprenon, ke ni sciu lin, kiu estas vera; kaj ni estas en li, kiu estas vera, en lia Filo Jesuo Kristo. Ĉi tio estas la vera Dio kaj eterna vivo.
+
+Infanetoj, gardu vin de idoloj.
+
+## 2 Johano
+
+La dua letero de Johano
+
+### Ĉapitro 1
+
+La maljunulo, al la elektita sinjorino kaj ŝiaj infanoj, kiujn mi amas en vero, kaj ne nur mi, sed ankaŭ ĉiuj, kiuj konas la veron, pro la vero, kiu restas en ni, kaj ĝi estos kun ni eterne: Graco, kompato, kaj paco estos kun ni, de Dio la Patro kaj de la Sinjoro Jesuo Kristo, la Filo de la Patro, en vero kaj amo.
+
+Mi ĝojas tre, ke mi trovis kelkajn el viaj infanoj irantaj en vero, kiel ni estis ordonitaj de la Patro. Nun mi petegas vin, kara sinjorino, ne kvazaŭ mi skribus al vi novan ordonon, sed tion, kion ni havis de la komenco, ke ni amu unu la alian. Tio estas amo, ke ni iru laŭ liaj ordonoj. Tio estas la ordono, kiel vi aŭdis de la komenco, ke vi iru en ĝi.
+
+Ĉar multaj trompistoj eliris en la mondon, tiuj, kiuj ne konfesas, ke Jesuo Kristo venis en la karno. Tio estas la trompisto kaj la Antikristo. Gardu vin, ke ni ne perdu la aferojn, kiujn ni atingis, sed ke ni ricevu plenan rekompencon. Kiu transpaŝas kaj ne restas en la instruo de Kristo, tiu ne havas Dion. Kiu restas en la instruo, tiu havas kaj la Patron kaj la Filon. Se iu venas al vi kaj ne alportas ĉi tiun instruon, ne akceptu lin en vian domon, kaj ne bonvenigu lin, ĉar kiu bonvenigas lin, partoprenas en liaj malbonaj faroj.
+
+Havante multajn aferojn por skribi al vi, mi ne volas fari tion per papero kaj inko, sed mi esperas veni al vi kaj paroli vizaĝon al vizaĝo, ke nia ĝojo estu plena. La infanoj de via elektita fratino salutas vin. Amen.
+
+## 3 Johano
+
+La tria letero de Johano
+
+### Ĉapitro 1
+
+La maljunulo al Gajo la amata, kiun mi amas en vero.
+
+Amata, mi preĝas, ke vi prosperu en ĉiuj aferoj kaj estu sana, kiel via animo prosperas. Ĉar mi tre ĝojis, kiam fratoj venis kaj atestis pri via vero, kiel vi iras en vero. Mi havas nenian pli grandan ĝojon ol ĉi tion: aŭdi pri miaj infanoj irantaj en vero.
+
+Amata, vi faras fidindan laboron en ĉio, kion vi plenumas por tiuj, kiuj estas fratoj kaj fremduloj. Ili atestis pri via amo antaŭ la kunveno. Vi faros bone sendi ilin antaŭen en ilia vojaĝo laŭ maniero inda je Dio, ĉar pro la Nomo ili eliris, prenante nenion de la Gentiloj. Ni do devas akcepti tiajn, ke ni estu kunlaborantoj por la vero.
+
+Mi skribis al la kunveno, sed Diotrefes, kiu amas esti unua inter ili, ne akceptas tion, kion ni diras. Tial, se mi venos, mi atentigos pri liaj faroj, kiujn li faras, maljuste akuzante nin per malicaj vortoj. Ne kontenta pri tio, li mem ne akceptas la fratojn, kaj tiujn, kiuj volus, li malpermesas kaj elĵetas el la kunveno.
+
+Amata, ne imitu tion, kio estas malbona, sed tion, kio estas bona. Kiu faras bonon, tiu estas de Dio. Kiu faras malbonon, tiu ne vidis Dion. Demetrio havas la ateston de ĉiuj, kaj de la vero mem; jes, ni ankaŭ atestas, kaj vi scias, ke nia atesto estas vera.
+
+Mi havis multajn aferojn por skribi al vi, sed mi ne volas skribi al vi per inko kaj plumo; sed mi esperas vidi vin baldaŭ. Tiam ni parolos vizaĝon al vizaĝo.
+
+Paco estu al vi. La amikoj salutas vin. Salutu la amikojn laŭnome.
+
+## Judaso
+
+La Letero de Judaso
+
+### Ĉapitro 1
+
+Judaso, servisto de Jesuo Kristo, kaj frato de Jakobo, al tiuj, kiuj estas vokitaj, sanktigitaj de Dio la Patro, kaj konservitaj por Jesuo Kristo: Kompato, paco, kaj amo estu multobligitaj al vi.
+
+Amataj, dum mi tre fervore volis skribi al vi pri nia komuna savo, mi estis devigita skribi al vi instigante vin fervore batali por la fido, kiu unufoje por ĉiam estis transdonita al la sanktuloj. Ĉar estas iuj homoj, kiuj enŝteliĝis sekrete, eĉ tiuj, kiuj estis longe antaŭe skribitaj por ĉi tiu kondamno: malpiuloj, turnante la gracon de nia Dio en maldececon, kaj neante nian solan Majstron, Dion, kaj Sinjoron, Jesuon Kriston.
+
+Nun mi deziras rememorigi vin, kvankam vi jam scias tion, ke la Sinjoro, savinte popolon el la lando Egiptujo, poste detruis tiujn, kiuj ne kredis. Anĝeloj, kiuj ne konservis sian unuan regnon, sed forlasis sian propran loĝejon, li konservis en eternaj ligoj sub mallumo por la juĝo de la granda tago. Eĉ kiel Sodomo kaj Gomora kaj la urboj ĉirkaŭ ili, havante en la sama maniero kiel ĉi tiuj sin doninte al seksa malĉasteco kaj sekvante strangan karnon, estas montritaj kiel ekzemplo, suferante la punon de eterna fajro. Tamen en la sama maniero, ĉi tiuj ankaŭ en siaj sonĝoj malpurigas la karnon, malestimas aŭtoritaton, kaj kalumnias ĉielajn estaĵojn. Sed Miĥaelo, la ĉefanĝelo, kiam li disputis kun la diablo kaj argumentis pri la korpo de Moseo, ne kuraĝis alporti kontraŭ li ofendan kondamnon, sed diris, "La Sinjoro vin riproĉu!" Sed ĉi tiuj parolas malbone pri kio ajn ili ne scias. Ili estas detruitaj en ĉi tiuj aferoj, kiujn ili komprenas nature, kiel la kreitaĵoj sen racio. Ve al ili! Ĉar ili iris laŭ la vojo de Kaino, kaj kuris tumulteme en la eraron de Bileam por salajro, kaj pereis en la ribelo de Koreo. Ĉi tiuj estas kaŝitaj ŝtonaj rifoj en viaj amfestoj kiam ili festas kun vi, paŝtistoj kiuj sen timo nutras sin; nuboj sen akvo, portataj de ventoj; aŭtunaj arboj sen frukto, dufoje mortintaj, elradikigitaj; sovaĝaj ondoj de la maro, ŝaŭmantaj sian propran honton; vagantaj steloj, por kiuj la nigreco de mallumo estas rezervita por ĉiam. Pri ĉi tiuj ankaŭ Enoĥo, la sepa de Adamo, profetis, dirante, "Jen, la Sinjoro venis kun dekmiloj da siaj sanktuloj, por plenumi juĝon kontraŭ ĉiuj, kaj por konvinki ĉiujn malpiulojn pri ĉiuj iliaj malpiecoj, kiujn ili faris en malpia maniero, kaj pri ĉiuj malfacilaj aferoj, kiujn malpia pekuloj parolis kontraŭ li." Ĉi tiuj estas murmuremaj kaj plendantoj, irantaj laŭ siaj deziroj—kaj ilia buŝo parolas fierajn aferojn—montrante respekton al personoj por akiri avantaĝon.
+
+Sed vi, amataj, memoru la vortojn, kiuj estis parolitaj antaŭe de la apostoloj de nia Sinjoro Jesuo Kristo. Ili diris al vi, "En la lasta tempo estos mokantoj, irantaj laŭ siaj propraj malpiuloj deziroj." Ĉi tiuj estas tiuj, kiuj kaŭzas dividojn kaj estas sensualaj, ne havante la Spiriton.
+
+Sed vi, amataj, daŭre konstruu vin mem sur via plej sankta fido, preĝante en la Sankta Spirito. Konservu vin en la amo de Dio, atendante la kompaton de nia Sinjoro Jesuo Kristo al eterna vivo. Al iuj havu kompaton, farante distingon, kaj iujn savu, eltirante ilin el la fajro kun timo, malamantaj eĉ la veston makulitan de la karno.
+
+Nun al tiu, kiu povas konservi ilin de falado, kaj prezenti vin senmakulaj antaŭ la ĉeesto de lia gloro en granda ĝojo, al Dio nia Savanto, kiu sola estas saĝa, estu gloro kaj majesto, regado kaj potenco, nun kaj eterne. Amen.
+
+## Apokalipso
+
+La Apokalipso al Johano
+
+### Ĉapitro 1
+
+Jen la Apokalipso de Jesuo Kristo, kiun Dio donis al li por montri al siaj servantoj la aferojn, kiuj devas baldaŭ okazi, kiun li sendis kaj sciigis per sia anĝelo al sia servanto, Johano, kiu atestis pri la vorto de Dio kaj pri la atesto de Jesuo Kristo, pri ĉio, kion li vidis.
+
+Feliĉa estas tiu, kiu legas kaj tiuj, kiuj aŭdas la vortojn de la profetaĵo, kaj konservas la aferojn, kiuj estas skribitaj en ĝi, ĉar la tempo estas proksima.
+
+Johano, al la sep kunvenoj, kiuj estas en Azio: Graco al vi kaj paco de Dio, kiu estas kaj kiu estis kaj kiu venos; kaj de la sep Spiritoj, kiuj estas antaŭ lia trono; kaj de Jesuo Kristo, la fidela atestanto, la unuenaskito el la mortintoj, kaj la reganto de la reĝoj de la tero. Al li, kiu amas nin, kaj lavis nin de niaj pekoj per sia sango— kaj li faris nin esti Regno, pastroj al sia Dio kaj Patro—al li estu la gloro kaj la regado por ĉiam kaj eterne. Amen.
+
+Jen, li venas kun la nuboj, kaj ĉiu okulo vidos lin, inkluzive tiujn, kiuj trapikis lin. Ĉiuj triboj de la tero ploros pro li. Tamen, Amen.
+
+"Mi estas la Alfa kaj la Omega," diras la Sinjoro Dio, "kiu estas kaj kiu estis kaj kiu venos, la Ĉiopova."
+
+Mi, Johano, via frato kaj kunulo kun vi en la premo, Regno, kaj persisto en Kristo Jesuo, estis sur la insulo, kiu estas nomata Patmos pro la Vorto de Dio kaj la atesto de Jesuo Kristo. Mi estis en la Spirito en la tago de la Sinjoro, kaj mi aŭdis malantaŭ mi laŭtan voĉon, kiel trumpeton dirantan, "Kion vi vidas, skribu en libron kaj sendu al la sep kunvenoj: al Efeso, Smirno, Pergamo, Tiatira, Sardeso, Filadelfio, kaj al Laodikeo."
+
+Mi turnis min por vidi la voĉon, kiu parolis kun mi. Turninte min, mi vidis sep orajn lampingojn. Kaj inter la lampingoj estis unu simila al filo de homo, vestita per robo atinganta ĝis liaj piedoj, kaj kun ora zono ĉirkaŭ lia brusto. Lia kapo kaj liaj haroj estis blankaj kiel blanka lano, kiel neĝo. Liaj okuloj estis kiel flamo de fajro. Liaj piedoj estis kiel brila latuno, kvazaŭ ĝi estus rafinita en forno. Lia voĉo estis kiel la voĉo de multaj akvoj. Li havis sep stelojn en sia dekstra mano. El lia buŝo eliris akra du-randa glavo. Lia vizaĝo estis kiel la suno brila ĉe sia plej hela. Kiam mi vidis lin, mi falis ĉe liaj piedoj kiel mortinto.
+
+Li metis sian dekstran manon sur min, dirante, "Ne timu. Mi estas la unua kaj la lasta, kaj la Vivanta. Mi estis morta, kaj jen, mi estas vivanta por ĉiam kaj eterne. Amen. Mi havas la ŝlosilojn de Morto kaj de Hadeso. Skribu do la aferojn, kiujn vi vidis, kaj la aferojn, kiuj estas, kaj la aferojn, kiuj okazos poste. La mistero de la sep steloj, kiujn vi vidis en mia dekstra mano, kaj la sep oraj lampingoj estas ĉi tio: La sep steloj estas la anĝeloj de la sep kunvenoj. La sep lampingoj estas sep kunvenoj."
+
+### Ĉapitro 2
+
+Al la anĝelo de la kunveno en Efeso skribu:
+
+“Tiu, kiu tenas la sep stelojn en sia dekstra mano, tiu, kiu iras inter la sep oraj lampingoj, diras ĉi tiujn aferojn:
+
+“Mi konas viajn farojn, kaj vian laboron kaj paciencon, kaj ke vi ne povas toleri malbonajn homojn, kaj vi provis tiujn, kiuj nomas sin apostoloj, kaj ili ne estas, kaj trovis ilin falsaj. Vi havas paciencon kaj eltenis pro mia nomo, kaj ne laciĝis. Sed mi havas ĉi tion kontraŭ vi, ke vi forlasis vian unuan amon. Memoru do, de kie vi falis, kaj pentu kaj faru la unuajn farojn; aŭ alie mi rapide venos al vi, kaj movos vian lampingon el ĝia loko, krom se vi pentos. Sed ĉi tion vi havas, ke vi malamas la farojn de la Nikolaitoj, kiujn mi ankaŭ malamas. Kiu havas orelon, tiu aŭdu, kion la Spirito diras al la kunvenoj. Al tiu, kiu venkas, mi donos manĝi el la arbo de la vivo, kiu estas en la Paradizo de mia Dio.
+
+Al la anĝelo de la kunveno en Smirno skribu:
+
+“La unua kaj la lasta, kiu estis morta, kaj reviviĝis, diras ĉi tiujn aferojn:
+
+“Mi konas viajn farojn, premon, kaj vian malriĉecon (sed vi estas riĉa), kaj la blasfemon de tiuj, kiuj diras, ke ili estas Judoj, kaj ili ne estas, sed estas sinagogo de Satano. Ne timu la aferojn, kiujn vi estas proksima suferi. Jen, la diablo estas proksima ĵeti kelkajn el vi en malliberejon, por ke vi estu provitaj; kaj vi havos premon dum dek tagoj. Estu fidela ĝis morto, kaj mi donos al vi la kronon de la vivo. Kiu havas orelon, tiu aŭdu, kion la Spirito diras al la kunvenoj. Kiu venkas, ne estos damaĝita de la dua morto.
+
+Al la anĝelo de la kunveno en Pergamo skribu:
+
+“Tiu, kiu havas la akran du-randan glavon, diras ĉi tiujn aferojn:
+
+“Mi konas viajn farojn kaj kie vi loĝas, kie estas la trono de Satano. Vi firme tenas mian nomon, kaj ne neis mian fidon en la tagoj de Antipas mia atestanto, mia fidela, kiu estis mortigita inter vi, kie Satano loĝas. Sed mi havas kelkajn aferojn kontraŭ vi, ĉar vi havas tie kelkajn, kiuj tenas la instruon de Bileam, kiu instruis Balakon ĵeti falilon antaŭ la infanoj de Izrael, por manĝi aferojn oferitajn al idoloj, kaj fari seksan malĉastecon. Do ankaŭ vi same havas kelkajn, kiuj tenas la instruon de la Nikolaitoj. Pentu do, aŭ alie mi rapide venos al vi kaj faros militon kontraŭ ili per la glavo de mia buŝo. Kiu havas orelon, tiu aŭdu, kion la Spirito diras al la kunvenoj. Al tiu, kiu venkas, al tiu mi donos el la kaŝita manno, kaj mi donos al li blankan ŝtonon, kaj sur la ŝtono novan nomon skribitan, kiun neniu scias krom tiu, kiu ricevas ĝin.
+
+Al la anĝelo de la kunveno en Tiatira skribu:
+
+“La Filo de Dio, kiu havas siajn okulojn kiel flamoj de fajro, kaj liaj piedoj estas kiel polurita bronzo, diras ĉi tiujn aferojn:
+
+“Mi konas viajn farojn, vian amon, fidon, servon, paciencan eltenon, kaj ke viaj lastaj faroj estas pli ol la unuaj. Sed mi havas ĉi tion kontraŭ vi, ke vi toleras vian virinon Jezebel, kiu nomas sin profetino. Ŝi instruas kaj delogas miajn servantojn fari seksan malĉastecon kaj manĝi aferojn oferitajn al idoloj. Mi donis al ŝi tempon por penti, sed ŝi rifuzas penti pri sia seksa malĉasteco. Jen, mi ĵetos ŝin kaj tiujn, kiuj adultas kun ŝi, en liton de granda premo, krom se ili pentos pri ŝiaj faroj. Mi mortigos ŝiajn infanojn per Morto, kaj ĉiuj kunvenoj scios, ke mi estas tiu, kiu esploras la mensojn kaj korojn. Mi donos al ĉiu el vi laŭ viaj faroj. Sed al vi mi diras, al la ceteraj, kiuj estas en Tiatira—tiom kiom ne havas ĉi tiun instruon, kiuj ne scias, kion iuj nomas ‘la profundaj aferoj de Satano’—al vi mi diras, mi ne metas iun alian ŝarĝon sur vi. Tamen, tenu firme tion, kion vi havas, ĝis mi venos. Kiu venkas, kaj kiu konservas miajn farojn ĝis la fino, al tiu mi donos aŭtoritaton super la nacioj. Li regos ilin per fera bastono, frakasante ilin kiel argilajn potojn, kiel mi ankaŭ ricevis de mia Patro; kaj mi donos al li la matenstelo. Kiu havas orelon, tiu aŭdu, kion la Spirito diras al la kunvenoj.
+
+### Ĉapitro 3
+
+Kaj al la anĝelo de la kunveno en Sardeso skribu:
+
+“Tiu, kiu havas la sep Spiritojn de Dio kaj la sep stelojn, diras ĉi tion:
+
+“Mi konas viajn farojn, ke vi havas reputacion esti vivanta, sed vi estas morta. Vekiĝu kaj fortigu la aferojn, kiuj restas, kiujn vi estis proksimaj forĵeti, ĉar mi ne trovis viajn farojn perfektigitaj antaŭ mia Dio. Memoru do kiel vi ricevis kaj aŭdis. Konservu ĝin kaj pentu. Se do vi ne observos, mi venos kiel ŝtelisto, kaj vi ne scios, en kiu horo mi venos sur vin. Tamen vi havas kelkajn nomojn en Sardeso, kiuj ne malpurigis siajn vestojn. Ili iros kun mi en blanko, ĉar ili estas indaj. Tiu, kiu venkas, estos vestita en blankaj vestoj, kaj mi neniel forviŝos lian nomon el la libro de vivo, kaj mi konfesas lian nomon antaŭ mia Patro, kaj antaŭ liaj anĝeloj. Kiu havas orelon, tiu aŭdu, kion la Spirito diras al la kunvenoj.
+
+“Al la anĝelo de la kunveno en Filadelfio skribu:
+
+“Tiu, kiu estas sankta, tiu, kiu estas vera, tiu, kiu havas la ŝlosilon de David, tiu, kiu malfermas kaj neniu povas fermi, kaj kiu fermas kaj neniu malfermas, diras ĉi tion:
+
+“Mi konas viajn farojn (jen, mi metis antaŭ vi malfermitan pordon, kiun neniu povas fermi), ke vi havas malmulte da potenco, kaj konservis mian vorton, kaj ne neis mian nomon. Jen, mi faras kelkajn el la sinagogo de Satano, el tiuj, kiuj diras, ke ili estas Judoj, kaj ili ne estas, sed mensogas—jen, mi faros ilin veni kaj adorkliniĝi antaŭ viaj piedoj, kaj scii, ke mi amis vin. Ĉar vi konservis mian ordonon elteni, mi ankaŭ konservos vin de la horo de provado, kiu venos sur la tutan mondon, por provi tiujn, kiuj loĝas sur la tero. Mi venas rapide! Firmtenu tion, kion vi havas, por ke neniu prenu vian kronon. Tiu, kiu venkas, mi faros lin kolono en la templo de mia Dio, kaj li ne plu eliros de tie. Mi skribos sur li la nomon de mia Dio kaj la nomon de la urbo de mia Dio, la nova Jerusalemo, kiu malsuprenvenas el la ĉielo de mia Dio, kaj mian propran novan nomon. Kiu havas orelon, tiu aŭdu, kion la Spirito diras al la kunvenoj.
+
+“Al la anĝelo de la kunveno en Laodikeo skribu:
+
+“La Amen, la Fidela kaj Vera Atestanto, la Komenco de la kreado de Dio, diras ĉi tion:
+
+“Mi konas viajn farojn, ke vi estas nek malvarma nek varma. Mi dezirus, ke vi estus malvarma aŭ varma. Do, ĉar vi estas varmeta, kaj nek varma nek malvarma, mi elvomos vin el mia buŝo. Ĉar vi diras, ‘Mi estas riĉa, kaj akiris riĉaĵojn, kaj bezonas nenion,’ kaj ne scias, ke vi estas la kompatinda, mizera, malriĉa, blinda, kaj nuda; mi konsilas vin aĉeti de mi oron rafinitan per fajro, por ke vi riĉiĝu; kaj blankajn vestojn, por ke vi vestiĝu, kaj ke la honto de via nudecon ne estu malkaŝita; kaj okulungventon por ŝmiri viajn okulojn, por ke vi vidu. Kiom mi amas, mi riproĉas kaj punas. Estu fervora do, kaj pentu. Jen, mi staras ĉe la pordo kaj frapas. Se iu aŭdas mian voĉon kaj malfermas la pordon, tiam mi eniros al li kaj manĝos kun li, kaj li kun mi. Tiu, kiu venkas, mi donos al li sidi kun mi sur mia trono, kiel mi ankaŭ venkis kaj sidiĝis kun mia Patro sur lia trono. Kiu havas orelon, tiu aŭdu, kion la Spirito diras al la kunvenoj.”
+
+### Ĉapitro 4
+
+Post ĉi tiuj aferoj mi rigardis kaj vidis pordon malfermitan en la ĉielo; kaj la unua voĉo, kiun mi aŭdis, kiel trumpeto parolanta kun mi, estis unu diranta, “Venu ĉi tien, kaj mi montros al vi la aferojn, kiuj devas okazi post ĉi tio.”
+
+Tuj mi estis en la Spirito. Jen, estis trono starigita en la ĉielo, kaj unu sidanta sur la trono, kiu aspektis kiel jaspiso kaj sardio. Ĉirkaŭ la trono estis ĉielarko, simila al smeraldo. Ĉirkaŭ la trono estis dudek kvar tronoj. Sur la tronoj sidis dudek kvar aĝestroj, vestitaj per blankaj vestoj, kun kronoj el oro sur iliaj kapoj. El la trono eliris fulmoj, sonoj, kaj tondroj. Estis sep lampoj de fajro brulantaj antaŭ lia trono, kiuj estas la sep Spiritoj de Dio. Antaŭ la trono estis io kiel maro el vitro, simila al kristalo. Meze de la trono, kaj ĉirkaŭ la trono estis kvar vivaj estaĵoj plenaj de okuloj antaŭe kaj malantaŭe. La unua estaĵo estis kiel leono, la dua estaĵo kiel bovido, la tria estaĵo havis vizaĝon kiel homo, kaj la kvara estis kiel fluganta aglo. La kvar vivaj estaĵoj, ĉiu el ili havante ses flugilojn, estas plenaj de okuloj ĉirkaŭe kaj interne. Ili ne havas ripozon tage kaj nokte, dirante, “Sankta, sankta, sankta estas la Sinjoro Dio, la Ĉiopova, kiu estis kaj kiu estas kaj kiu venos!”
+
+Kiam la vivaj estaĵoj donas gloron, honoron, kaj dankon al tiu, kiu sidas sur la trono, al tiu, kiu vivas por ĉiam kaj eterne, la dudek kvar aĝestroj falas antaŭ tiu, kiu sidas sur la trono kaj adoras tiun, kiu vivas por ĉiam kaj eterne, kaj ĵetas siajn kronojn antaŭ la trono, dirante, “Inda estas vi, nia Sinjoro kaj Dio, la Sankta, ricevi la gloron, la honoron, kaj la potencon, ĉar vi kreis ĉiujn aferojn, kaj pro via deziro ili ekzistis kaj estis kreitaj!”
+
+### Ĉapitro 5
+
+Mi vidis, en la dekstra mano de tiu, kiu sidis sur la trono, libron skribitan interne kaj ekstere, sigelitan per sep sigeloj. Mi vidis potencan anĝelon proklamantan per laŭta voĉo, "Kiu estas inda malfermi la libron kaj rompi ĝiajn sigelojn?" Neniu en la ĉielo supre, nek sur la tero, nek sub la tero, povis malfermi la libron aŭ rigardi en ĝin. Tiam mi multe ploris, ĉar neniu estis trovita inda malfermi la libron aŭ rigardi en ĝin. Unu el la pliaĝuloj diris al mi, "Ne ploru. Jen, la Leono el la tribo de Jehuda, la Radiko de David, venkis: li malfermas la libron kaj ĝiajn sep sigelojn."
+
+Mi vidis en la mezo de la trono kaj de la kvar vivaj estaĵoj, kaj en la mezo de la pliaĝuloj, Ŝafidon starantan, kvazaŭ ĝi estus buĉita, havantan sep kornojn kaj sep okulojn, kiuj estas la sep Spiritoj de Dio, senditaj en la tutan teron. Tiam li venis, kaj li prenis ĝin el la dekstra mano de tiu, kiu sidis sur la trono. Nun kiam li prenis la libron, la kvar vivaj estaĵoj kaj la dudek kvar pliaĝuloj falis antaŭ la Ŝafido, ĉiu havante harpon, kaj orajn bovlojn plenajn de incenso, kiuj estas la preĝoj de la sanktuloj. Ili kantis novan kanton, dirante,
+
+"Vi estas inda preni la libron
+
+kaj malfermi ĝiajn sigelojn,
+
+ĉar vi estis mortigita,
+
+kaj aĉetis nin por Dio per via sango
+
+el ĉiu tribo, lingvo, popolo, kaj nacio,
+
+kaj faris nin reĝoj kaj pastroj al nia Dio;
+
+kaj ni regos sur la tero."
+
+Mi rigardis, kaj mi aŭdis ion kiel voĉon de multaj anĝeloj ĉirkaŭ la trono, la vivaj estaĵoj, kaj la pliaĝuloj. Ilia nombro estis dekmiloj de dekmiloj, kaj miloj de miloj, dirante per laŭta voĉo, "Inda estas la Ŝafido, kiu estis mortigita, ricevi la potencon, riĉecon, saĝecon, forton, honoron, gloron, kaj benon!"
+
+Mi aŭdis ĉiun kreitan estaĵon, kiu estas en la ĉielo, sur la tero, sub la tero, sur la maro, kaj ĉion en ili, dirante, "Al tiu, kiu sidas sur la trono kaj al la Ŝafido estu la beno, la honoro, la gloro, kaj la regado, por ĉiam kaj eterne! Amen!"
+
+La kvar vivaj estaĵoj diris, "Amen!" Tiam la pliaĝuloj falis kaj adoris.
+
+### Ĉapitro 6
+
+Mi vidis, ke la Ŝafido malfermis unu el la sep sigeloj, kaj mi aŭdis unu el la kvar vivestaĵoj diranta, kiel per voĉo de tondro, "Venu kaj rigardu!" Tiam aperis blanka ĉevalo, kaj tiu, kiu sidis sur ĝi, havis pafarkon. Krono estis donita al li, kaj li eliris venkante, kaj por venki.
+
+Kiam li malfermis la duan sigelon, mi aŭdis la duan vivestaĵon diranta, "Venu!" Alia eliris, ruĝa ĉevalo. Al tiu, kiu sidis sur ĝi, estis donita potenco forpreni pacon de la tero, kaj ke ili mortigu unu la alian. Granda glavo estis donita al li.
+
+Kiam li malfermis la trian sigelon, mi aŭdis la trian vivestaĵon diranta, "Venu kaj rigardu!" Kaj jen, nigra ĉevalo, kaj tiu, kiu sidis sur ĝi, havis pesilon en sia mano. Mi aŭdis voĉon en la mezo de la kvar vivestaĵoj diranta, "Unu kojniko da tritiko por denaro, kaj tri kojniko da hordeo por denaro! Ne difektu la oleon kaj la vinon!"
+
+Kiam li malfermis la kvaran sigelon, mi aŭdis la kvaran vivestaĵon diranta, "Venu kaj rigardu!" Kaj jen, pala ĉevalo, kaj la nomo de tiu, kiu sidis sur ĝi, estis Morto. Hades sekvis kun li. Aŭtoritato super unu kvara parto de la tero, por mortigi per glavo, per malsato, per morto, kaj per la sovaĝaj bestoj de la tero estis donita al li.
+
+Kiam li malfermis la kvinan sigelon, mi vidis sub la altaro la animojn de tiuj, kiuj estis mortigitaj pro la Vorto de Dio, kaj pro la atesto de la Ŝafido, kiun ili havis. Ili kriis per laŭta voĉo, dirante, "Kiom longe, Sinjoro, la sankta kaj vera, ĝis vi juĝos kaj venĝos nian sangon sur tiuj, kiuj loĝas sur la tero?" Longa blanka robo estis donita al ĉiu el ili. Ili estis diritaj, ke ili ripozu ankoraŭ iom da tempo, ĝis iliaj kunservantoj kaj iliaj fratoj, kiuj ankaŭ estus mortigitaj kiel ili, kompletigus sian kurson.
+
+Mi vidis, kiam li malfermis la sesan sigelon, kaj estis granda tertremo. La suno fariĝis nigra kiel sakto el haro, kaj la tuta luno fariĝis kiel sango. La steloj de la ĉielo falis al la tero, kiel figarbo faliganta siajn nematurajn figojn kiam ĝi estas skuita de granda vento. La ĉielo estis forigita kiel volvaĵo kiam ĝi estas volvita. Ĉiu monto kaj insulo estis movitaj el sia loko. La reĝoj de la tero, la princoj, la komandantoj, la riĉuloj, la fortuloj, kaj ĉiu sklavo kaj libera persono, kaŝis sin en la kavernoj kaj en la rokoj de la montoj. Ili diris al la montoj kaj la rokoj, "Falu sur nin, kaj kaŝu nin de la vizaĝo de tiu, kiu sidas sur la trono, kaj de la kolero de la Ŝafido, ĉar la granda tago de lia kolero venis, kaj kiu povas stari?"
+
+### Ĉapitro 7
+
+Post tio, mi vidis kvar anĝelojn starantajn ĉe la kvar anguloj de la tero, tenantajn la kvar ventojn de la tero, por ke neniu vento blovu sur la tero, nek sur la maro, nek sur iu ajn arbo. Mi vidis alian anĝelon supreniri de la sunleviĝo, havante la sigelon de la vivanta Dio. Li kriis per laŭta voĉo al la kvar anĝeloj, al kiuj estis donite damaĝi la teron kaj la maron, dirante: “Ne damaĝu la teron, la maron, nek la arbojn, ĝis ni sigelos la servistojn de nia Dio sur iliaj fruntoj!” Mi aŭdis la nombron de tiuj, kiuj estis sigelitaj, cent kvardek kvar mil, sigelitaj el ĉiu tribo de la infanoj de Izrael:
+
+el la tribo de Jehuda dek du mil estis sigelitaj,
+
+el la tribo de Ruben dek du mil,
+
+el la tribo de Gad dek du mil,
+
+el la tribo de Aŝer dek du mil,
+
+el la tribo de Naftali dek du mil,
+
+el la tribo de Manase dek du mil,
+
+el la tribo de Simeon dek du mil,
+
+el la tribo de Levi dek du mil,
+
+el la tribo de Isaĥar dek du mil,
+
+el la tribo de Zebulun dek du mil,
+
+el la tribo de Jozefo dek du mil, kaj
+
+el la tribo de Benjamen dek du mil estis sigelitaj.
+
+Post ĉi tiuj aferoj mi rigardis, kaj jen, granda amaso, kiun neniu povis kalkuli, el ĉiu nacio kaj el ĉiuj triboj, popoloj, kaj lingvoj, starantaj antaŭ la trono kaj antaŭ la Ŝafido, vestitaj per blankaj roboj, kun palmoj en siaj manoj. Ili kriis per laŭta voĉo, dirante: “Savo estu al nia Dio, kiu sidas sur la trono, kaj al la Ŝafido!”
+
+Ĉiuj anĝeloj staris ĉirkaŭ la trono, la pliaĝuloj, kaj la kvar vivaj estaĵoj; kaj ili falis sur siaj vizaĝoj antaŭ lia trono, kaj adoris Dion, dirante: “Amen! Beno, gloro, saĝo, danko, honoro, potenco, kaj forto, estu al nia Dio eterne kaj eterne! Amen.”
+
+Unu el la pliaĝuloj respondis, dirante al mi: “Ĉi tiuj, kiuj estas vestitaj per la blankaj roboj, kiuj ili estas, kaj de kie ili venis?”
+
+Mi diris al li: “Mia sinjoro, vi scias.”
+
+Li diris al mi: “Ĉi tiuj estas tiuj, kiuj eliris el la granda suferado. Ili lavis siajn robojn kaj blankigis ilin en la sango de la Ŝafido. Tial ili estas antaŭ la trono de Dio, kaj ili servas lin tage kaj nokte en lia templo. Tiu, kiu sidas sur la trono, etendos sian tabernaklon super ili. Ili neniam plu malsatos aŭ soifos. La suno ne batos sur ilin, nek iu ajn varmego; ĉar la Ŝafido, kiu estas en la mezo de la trono, paŝtistos ilin kaj kondukos ilin al fontoj de vivodonaj akvoj. Kaj Dio viŝos ĉiun larmon de iliaj okuloj.”
+
+### Ĉapitro 8
+
+Kiam li malfermis la sepan sigelon, estis silento en la ĉielo dum proksimume duonhoro. Mi vidis la sep anĝelojn, kiuj staras antaŭ Dio, kaj sep trumpetoj estis donitaj al ili.
+
+Alia anĝelo venis kaj staris super la altaro, havante oran incensujon. Multa incenso estis donita al li, por ke li aldonu ĝin al la preĝoj de ĉiuj sanktuloj sur la ora altaro, kiu estis antaŭ la trono. La fumo de la incenso, kun la preĝoj de la sanktuloj, supreniris antaŭ Dio el la mano de la anĝelo. La anĝelo prenis la incensujon, kaj li plenigis ĝin per la fajro de la altaro, kaj ĵetis ĝin sur la teron. Tondroj, sonoj, fulmoj, kaj tertremo sekvis.
+
+La sep anĝeloj, kiuj havis la sep trumpetojn, pretigis sin por soni.
+
+La unua sonis, kaj sekvis hajlo kaj fajro, miksitaj kun sango, kaj ili estis ĵetitaj sur la teron. Unu triono de la tero bruliĝis, kaj unu triono de la arboj bruliĝis, kaj ĉiu verda herbo bruliĝis.
+
+La dua anĝelo sonis, kaj io kiel granda brulanta monto estis ĵetita en la maron. Unu triono de la maro fariĝis sango, kaj unu triono de la vivantaj estaĵoj, kiuj estis en la maro, mortis. Unu triono de la ŝipoj estis detruitaj.
+
+La tria anĝelo sonis, kaj granda stelo falis el la ĉielo, brulante kiel torĉo, kaj ĝi falis sur unu triono de la riveroj, kaj sur la fontoj de akvo. La nomo de la stelo estas "Absinto." Unu triono de la akvoj fariĝis absintaj. Multaj homoj mortis pro la akvoj, ĉar ili fariĝis amaraj.
+
+La kvara anĝelo sonis, kaj unu triono de la suno estis frapita, kaj unu triono de la luno, kaj unu triono de la steloj, tiel ke unu triono de ili mallumiĝis; kaj la tago ne brilis dum unu triono de ĝi, kaj la nokto same. Mi vidis, kaj mi aŭdis aglon, flugantan en la mezo de la ĉielo, dirante per laŭta voĉo, "Ve! Ve! Ve al tiuj, kiuj loĝas sur la tero, pro la aliaj sonoj de la trumpetoj de la tri anĝeloj, kiuj ankoraŭ devas soni!"
+
+### Ĉapitro 9
+
+La kvina anĝelo trumpetis, kaj mi vidis stelon el la ĉielo, kiu falis sur la teron. La ŝlosilo al la puto de la abismo estis donita al li. Li malfermis la puton de la abismo, kaj fumo supreniris el la puto, kiel la fumo el brulanta forno. La suno kaj la aero mallumiĝis pro la fumo el la puto. Tiam el la fumo venis akridoj sur la teron, kaj potenco estis donita al ili, kiel la skorpioj de la tero havas potencon. Oni diris al ili, ke ili ne vundu la herbon de la tero, nek iun verdan aĵon, nek iun arbon, sed nur tiujn homojn, kiuj ne havas la sigelon de Dio sur siaj fruntoj. Ili ricevis potencon, ne por mortigi ilin, sed por turmenti ilin dum kvin monatoj. Ilia turmento estis kiel la turmento de skorpio, kiam ĝi pikas homon. En tiuj tagoj homoj serĉos morton, kaj neniel trovos ĝin. Ili deziros morti, kaj morto forkuros de ili.
+
+La formoj de la akridoj estis kiel ĉevaloj pretigitaj por milito. Sur iliaj kapoj estis io kiel oraj kronoj, kaj iliaj vizaĝoj estis kiel homaj vizaĝoj. Ili havis harojn kiel virinaj haroj, kaj iliaj dentoj estis kiel tiuj de leonoj. Ili havis brustkirasojn kiel feraj brustkirasoj. La sono de iliaj flugiloj estis kiel la sono de multaj ĉaroj kaj ĉevaloj rapidantaj al milito. Ili havas vostojn kiel tiuj de skorpioj, kun pikiloj. En iliaj vostoj ili havas potencon vundi homojn dum kvin monatoj. Ili havas super si kiel reĝon la anĝelon de la abismo. Lia nomo en la hebrea estas "Abadono", sed en la greka, li havas la nomon "Apoliono".
+
+La unua ve estas pasinta. Jen, ankoraŭ du veoj venas post tio.
+
+La sesa anĝelo trumpetis. Mi aŭdis voĉon el la kornoj de la ora altaro, kiu estas antaŭ Dio, dirante al la sesa anĝelo, kiu havis la trumpeton, "Liberigu la kvar anĝelojn, kiuj estas ligitaj ĉe la granda rivero Eŭfrato!"
+
+La kvar anĝeloj estis liberigitaj, kiuj estis pretigitaj por tiu horo kaj tago kaj monato kaj jaro, por ke ili mortigu trionon de la homaro. La nombro de la armeoj de la rajdantoj estis ducent milionoj. Mi aŭdis la nombron de ili. Tiel mi vidis la ĉevalojn en la vizio kaj tiujn, kiuj sidis sur ili, havante brustkirasojn de fajra ruĝo, hiacinta bluo, kaj sulfura flavo; kaj la kapoj de la ĉevaloj similis leonajn kapojn. El iliaj buŝoj eliris fajro, fumo, kaj sulfuro. Per ĉi tiuj tri plagoj, triono de la homaro estis mortigita: per la fajro, la fumo, kaj la sulfuro, kiuj eliris el iliaj buŝoj. Ĉar la potenco de la ĉevaloj estas en iliaj buŝoj kaj en iliaj vostoj. Ĉar iliaj vostoj estas kiel serpentoj, kaj havas kapojn; kaj per ili ili vundas.
+
+La resto de la homaro, kiu ne estis mortigita per ĉi tiuj plagoj, ne pentis pri la faroj de siaj manoj, ke ili ne adoru demonojn, kaj la idolojn el oro, kaj el arĝento, kaj el kupro, kaj el ŝtono, kaj el ligno, kiuj ne povas vidi, aŭdi, aŭ marŝi. Ili ne pentis pri siaj murdoj, siaj sorĉadoj, sia seksa malĉasteco, aŭ siaj ŝteloj.
+
+### Ĉapitro 10
+
+Mi vidis potencan anĝelon malsuprenirantan el la ĉielo, vestitan per nubo. Ĉielarko estis sur lia kapo. Lia vizaĝo estis kiel la suno, kaj liaj piedoj kiel kolonoj de fajro. Li havis en sia mano malgrandan malfermitan libron. Li metis sian dekstran piedon sur la maron, kaj sian maldekstran sur la teron. Li kriis per laŭta voĉo, kiel leono blekas. Kiam li kriis, la sep tondroj eldiris siajn voĉojn. Kiam la sep tondroj sonis, mi estis preta skribi; sed mi aŭdis voĉon el la ĉielo dirantan, "Sigelu la aferojn, kiujn la sep tondroj diris, kaj ne skribu ilin."
+
+La anĝelo, kiun mi vidis starantan sur la maro kaj sur la tero, levis sian dekstran manon al la ĉielo kaj ĵuris per tiu, kiu vivas eterne kaj eterne, kiu kreis la ĉielon kaj la aferojn, kiuj estas en ĝi, la teron kaj la aferojn, kiuj estas en ĝi, kaj la maron kaj la aferojn, kiuj estas en ĝi, ke ne plu estos prokrasto, sed en la tagoj de la voĉo de la sepa anĝelo, kiam li estas preta soni, tiam la mistero de Dio estas finita, kiel li deklaris al siaj servantoj la profetoj.
+
+La voĉo, kiun mi aŭdis el la ĉielo, denove parolante kun mi, diris, "Iru, prenu la libron, kiu estas malfermita en la mano de la anĝelo, kiu staras sur la maro kaj sur la tero."
+
+Mi iris al la anĝelo, dirante al li doni al mi la malgrandan libron.
+
+Li diris al mi, "Prenu ĝin kaj manĝu ĝin. Ĝi faros vian stomakon amara, sed en via buŝo ĝi estos dolĉa kiel mielo."
+
+Mi prenis la malgrandan libron el la mano de la anĝelo, kaj manĝis ĝin. Ĝi estis dolĉa kiel mielo en mia buŝo. Kiam mi manĝis ĝin, mia stomako fariĝis amara. Ili diris al mi, "Vi devas profeti denove super multaj popoloj, nacioj, lingvoj, kaj reĝoj."
+
+### Ĉapitro 11
+
+Kano kiel bastono estis donita al mi. Iu diris, “Leviĝu kaj mezuru la templon de Dio, kaj la altaron, kaj tiujn, kiuj adoras en ĝi. Lasu eksteren la korton, kiu estas ekster la templo, kaj ne mezuru ĝin, ĉar ĝi estas donita al la nacioj. Ili piedpremados la sanktan urbon dum kvardek du monatoj. Mi donos potencon al miaj du atestantoj, kaj ili profetos mil ducent sesdek tagojn, vestitaj en sakaĵo.”
+
+Ĉi tiuj estas la du olivarboj kaj la du lampostandoj, starantaj antaŭ la Sinjoro de la tero. Se iu deziras vundi ilin, fajro eliras el ilia buŝo kaj formanĝas iliajn malamikojn. Se iu deziras vundi ilin, li devas esti mortigita tiel. Ĉi tiuj havas la potencon fermi la ĉielon, ke ĝi ne pluvas dum la tagoj de ilia profetado. Ili havas potencon super la akvoj, por transformi ilin en sangon, kaj por frapi la teron per ĉiu pesto, tiel ofte kiel ili deziras.
+
+Kiam ili finos sian ateston, la besto, kiu supreniras el la abismo, faros militon kontraŭ ili, kaj venkos ilin, kaj mortigos ilin. Iliaj mortaj korpoj estos sur la strato de la granda urbo, kiu spirite estas nomata Sodomo kaj Egiptujo, kie ankaŭ ilia Sinjoro estis krucumita. El inter la popoloj, triboj, lingvoj, kaj nacioj, homoj rigardos iliajn mortajn korpojn dum tri kaj duono tagoj, kaj ne permesos, ke iliaj mortaj korpoj estu metitaj en tombon. Tiuj, kiuj loĝas sur la tero, ĝojos pri ili, kaj ili estos ĝojaj. Ili donos donacojn unu al la alia, ĉar ĉi tiuj du profetoj turmentis tiujn, kiuj loĝas sur la tero.
+
+Post la tri kaj duono tagoj, la spirito de vivo de Dio eniris en ilin, kaj ili staris sur siaj piedoj. Granda timo falis sur tiujn, kiuj vidis ilin. Mi aŭdis laŭtan voĉon el la ĉielo dirantan al ili, “Venu ĉi tien!” Ili supreniris en la ĉielon en nubo, kaj iliaj malamikoj vidis ilin. En tiu tago estis granda tertremo, kaj dekon de la urbo falis. Sep mil homoj estis mortigitaj en la tertremo, kaj la ceteraj estis terurigitaj kaj donis gloron al la Dio de la ĉielo.
+
+La dua ve estas pasinta. Jen, la tria ve rapide venas.
+
+La sepa anĝelo sonigis, kaj grandaj voĉoj en la ĉielo sekvis, dirante, “La regno de la mondo fariĝis la Regno de nia Sinjoro kaj de lia Kristo. Li regos por ĉiam kaj eterne!”
+
+La dudek kvar aĝestroj, kiuj sidas sur siaj tronoj antaŭ la trono de Dio, falis sur siajn vizaĝojn kaj adoris Dion, dirante: “Ni dankas vin, Sinjoro Dio, la Ĉiopova, la unu, kiu estas kaj kiu estis, ĉar vi prenis vian grandan potencon kaj regis. La nacioj koleris, kaj via kolero venis, kiel ankaŭ la tempo por la mortintoj esti juĝitaj, kaj por doni al viaj servistoj la profetoj, ilian rekompencon, same kiel al la sanktuloj kaj tiuj, kiuj timas vian nomon, al la malgrandaj kaj la grandaj, kaj por detrui tiujn, kiuj detruas la teron.”
+
+La templo de Dio, kiu estas en la ĉielo, estis malfermita, kaj la kesto de la interligo de la Sinjoro estis vidita en lia templo. Fulmoj, sonoj, tondroj, tertremo, kaj granda hajlo sekvis.
+
+### Ĉapitro 12
+
+Granda signo estis vidita en la ĉielo: virino vestita per la suno, kaj la luno sub ŝiaj piedoj, kaj sur ŝia kapo krono de dek du steloj. Ŝi estis graveda. Ŝi kriis en doloro, laborante por naski.
+
+Alia signo estis vidita en la ĉielo. Jen, granda ruĝa drako, havanta sep kapojn kaj dek kornojn, kaj sur liaj kapoj sep kronoj. Lia vosto tiris trionon de la steloj de la ĉielo, kaj ĵetis ilin al la tero. La drako staris antaŭ la virino, kiu estis preta naski, por ke kiam ŝi naskos, li povu formanĝi ŝian infanon. Ŝi naskis filon, viran infanon, kiu regos ĉiujn naciojn per fera bastono. Ŝia infano estis kaptita al Dio kaj al lia trono. La virino fuĝis en la dezerton, kie ŝi havas lokon preparitan de Dio, por ke tie ili nutru ŝin dum mil ducent sesdek tagoj.
+
+Estis milito en la ĉielo. Miĥaelo kaj liaj anĝeloj militis kontraŭ la drako. La drako kaj liaj anĝeloj militis. Ili ne venkis. Neniu loko plu estis trovita por ili en la ĉielo. La granda drako estis ĵetita malsupren, la malnova serpento, kiu estas nomata la diablo kaj Satano, la trompanto de la tuta mondo. Li estis ĵetita malsupren al la tero, kaj liaj anĝeloj estis ĵetitaj malsupren kun li.
+
+Mi aŭdis laŭtan voĉon en la ĉielo, dirante, “Nun venis la savo, la potenco, kaj la Regno de nia Dio, kaj la aŭtoritato de lia Kristo; ĉar la akuzanto de niaj fratoj estis ĵetita malsupren, kiu akuzas ilin antaŭ nia Dio tage kaj nokte. Ili venkis lin pro la sango de la Ŝafido, kaj pro la vorto de ilia atesto. Ili ne amis sian vivon, eĉ ĝis morto. Tial ĝoju, ĉieloj, kaj vi, kiuj loĝas en ili. Ve al la tero kaj al la maro, ĉar la diablo malsupreniris al vi, havante grandan koleron, sciante ke li havas nur mallongan tempon.”
+
+Kiam la drako vidis, ke li estis ĵetita malsupren al la tero, li persekutis la virinon, kiu naskis la viran infanon. Du flugiloj de la granda aglo estis donitaj al la virino, por ke ŝi povu flugi en la dezerton al sia loko, por ke ŝi povu esti nutrata dum tempo, tempoj, kaj duono de tempo, for de la vizaĝo de la serpento. La serpento elverŝis akvon el sia buŝo post la virino kiel rivero, por ke li povu kaŭzi ŝin esti forportita de la fluo. La tero helpis la virinon, kaj la tero malfermis sian buŝon kaj englutis la riveron, kiun la drako elverŝis el sia buŝo. La drako koleriĝis kontraŭ la virino, kaj foriris por militi kontraŭ la resto de ŝiaj idoj, kiuj gardas la ordonojn de Dio kaj tenas la ateston de Jesuo.
+
+### Ĉapitro 13
+
+Tiam mi staris sur la sablo de la maro. Mi vidis beston suprenirantan el la maro, havantan dek kornojn kaj sep kapojn. Sur ĝiaj kornoj estis dek kronoj, kaj sur ĝiaj kapoj, blasfemaj nomoj. La besto, kiun mi vidis, estis kiel leopardo, kaj ĝiaj piedoj estis kiel tiuj de urso, kaj ĝia buŝo kiel la buŝo de leono. La drako donis al ĝi sian potencon, sian tronon, kaj grandan aŭtoritaton. Unu el ĝiaj kapoj aspektis kvazaŭ ĝi estus mortige vundita. Ĝia mortiga vundo estis resanigita, kaj la tuta tero miris pri la besto. Ili adoris la drakon ĉar li donis sian aŭtoritaton al la besto; kaj ili adoris la beston, dirante, "Kiu estas kiel la besto? Kiu povas fari militon kontraŭ ĝi?"
+
+Buŝo parolanta grandajn aferojn kaj blasfemion estis donita al ĝi. Aŭtoritato fari militon dum kvardek du monatoj estis donita al ĝi. Ĝi malfermis sian buŝon por blasfemio kontraŭ Dio, por blasfemi lian nomon, lian loĝejon, kaj tiujn, kiuj loĝas en la ĉielo. Ĝi ricevis la povon fari militon kontraŭ la sanktuloj kaj venki ilin. Aŭtoritato super ĉiu tribo, popolo, lingvo, kaj nacio estis donita al ĝi. Ĉiuj, kiuj loĝas sur la tero, adoros ĝin, ĉiuj kies nomo ne estis skribita de la fundamento de la mondo en la libro de vivo de la Ŝafido, kiu estis mortigita. Se iu havas orelon, lasu lin aŭdi. Se iu estas por iri en kaptitecon, li iros en kaptitecon. Se iu estas por esti mortigita per la glavo, li devas esti mortigita. Jen estas la pacienco kaj la fido de la sanktuloj.
+
+Mi vidis alian beston suprenirantan el la tero. Ĝi havis du kornojn kiel ŝafido kaj parolis kiel drako. Ĝi ekzercas ĉiun aŭtoritaton de la unua besto en ĝia ĉeesto. Ĝi igas la teron kaj tiujn, kiuj loĝas en ĝi, adori la unuan beston, kies mortiga vundo estis resanigita. Ĝi faras grandajn signojn, eĉ igante fajron malsupreniri el la ĉielo al la tero antaŭ la homoj. Ĝi trompas miajn proprajn homojn, kiuj loĝas sur la tero, pro la signoj, kiujn ĝi ricevis por fari antaŭ la besto, dirante al tiuj, kiuj loĝas sur la tero, ke ili faru bildon al la besto, kiu havis la glavan vundon kaj vivis. Ĝi ricevis la povon doni spiron al la bildo de la besto, ke la bildo de la besto parolu, kaj kaŭzu, ke tiom multaj, kiuj ne adorus la bildon de la besto, estu mortigitaj. Ĝi kaŭzas ĉiujn, la malgrandajn kaj la grandajn, la riĉajn kaj la malriĉajn, kaj la liberajn kaj la sklavojn, ricevi markojn sur siaj dekstraj manoj aŭ sur siaj fruntoj; kaj ke neniu povus aĉeti aŭ vendi krom se li havas tiun markon, kiu estas la nomo de la besto aŭ la nombro de ĝia nomo. Jen estas saĝo. Kiu havas komprenon, lasu lin kalkuli la nombron de la besto, ĉar ĝi estas la nombro de homo. Ĝia nombro estas sescent sesdek ses.
+
+### Ĉapitro 14
+
+Mi vidis, kaj jen, la Ŝafido staranta sur la monto Cion, kaj kun li nombro, cent kvardek kvar mil, havantaj lian nomon kaj la nomon de lia Patro skribitan sur iliaj fruntoj. Mi aŭdis sonon el la ĉielo kiel la sono de multaj akvoj kaj kiel la sono de granda tondro. La sono, kiun mi aŭdis, estis kiel tiu de harpistoj ludantaj sur siaj harpoj. Ili kantas novan kanton antaŭ la trono kaj antaŭ la kvar vivaj estaĵoj kaj la aĝestroj. Neniu povis lerni la kanton krom la cent kvardek kvar mil, tiuj, kiuj estis elaĉetitaj el la tero. Ĉi tiuj estas tiuj, kiuj ne malpuriĝis kun virinoj, ĉar ili estas virgulinoj. Ĉi tiuj estas tiuj, kiuj sekvas la Ŝafidon kien ajn li iras. Ĉi tiuj estis elaĉetitaj de Jesuo el inter homoj, la unuaj fruktoj al Dio kaj al la Ŝafido. En ilia buŝo ne troviĝis mensogo, ĉar ili estas senkulpaj.
+
+Mi vidis anĝelon flugantan en la meza ĉielo, havantan eternan Bonan Novaĵon por proklami al tiuj, kiuj loĝas sur la tero—al ĉiu nacio, tribo, lingvo, kaj popolo. Li diris per laŭta voĉo, “Timu la Sinjoron, kaj donu al li gloron, ĉar la horo de lia juĝo venis. Adoru lin, kiu faris la ĉielon, la teron, la maron, kaj la fontojn de akvoj!”
+
+Alia, dua anĝelo, sekvis, dirante, “Babelo la granda falis, kiu igis ĉiujn naciojn trinki el la vino de la kolero de ŝia seksa malĉasteco.”
+
+Alia anĝelo, tria, sekvis ilin, dirante per granda voĉo, “Se iu adoras la beston kaj ĝian bildon, kaj ricevas markon sur sia frunto aŭ sur sia mano, li ankaŭ trinkos el la vino de la kolero de Dio, kiu estas preparita nemiksita en la pokalo de lia kolero. Li estos turmentita per fajro kaj sulfuro antaŭ la sanktaj anĝeloj kaj antaŭ la Ŝafido. La fumo de ilia turmento leviĝas por ĉiam kaj eterne. Ili ne havas ripozon tage kaj nokte, tiuj, kiuj adoras la beston kaj ĝian bildon, kaj kiu ajn ricevas la markon de ĝia nomo.
+
+Jen la persisto de la sanktuloj, tiuj, kiuj gardas la ordonojn de Dio kaj la fidon de Jesuo.”
+
+Mi aŭdis voĉon el la ĉielo dirante, “Skribu, ‘Feliĉaj estas la mortintoj, kiuj mortas en la Sinjoro de nun.’”
+
+“Jes,” diras la Spirito, “ke ili ripozu de siaj laboroj, ĉar iliaj faroj sekvas kun ili.”
+
+Mi rigardis, kaj vidis blankan nubon, kaj sur la nubo sidantan kiel filo de homo, havantan sur sia kapo oran kronon, kaj en sia mano akran rikoltilon. Alia anĝelo eliris el la templo, kriante per laŭta voĉo al tiu, kiu sidis sur la nubo, “Sendu vian rikoltilon kaj rikoltu, ĉar la horo por rikolti venis; ĉar la rikolto de la tero estas matura!” Tiu, kiu sidis sur la nubo, puŝis sian rikoltilon sur la teron, kaj la tero estis rikoltita.
+
+Alia anĝelo eliris el la templo, kiu estas en la ĉielo. Li ankaŭ havis akran rikoltilon. Alia anĝelo eliris de la altaro, tiu, kiu havas potencon super fajro, kaj li vokis per granda voĉo al tiu, kiu havis la akran rikoltilon, dirante, “Sendu vian akran rikoltilon kaj kolektu la grapolojn de la vinberarbo de la tero, ĉar la vinberoj de la tero estas plene maturaj!” La anĝelo puŝis sian rikoltilon en la teron, kaj kolektis la vinberrikolton de la tero kaj ĵetis ĝin en la grandan vinpremejon de la kolero de Dio. La vinpremejo estis piedpremita ekster la urbo, kaj sango eliris el la vinpremejo, ĝis la bridoj de la ĉevaloj, ĝis mil sescent stadioj.
+
+### Ĉapitro 15
+
+Mi vidis alian grandan kaj mirindan signon en la ĉielo: sep anĝeloj havantaj la sep lastajn plagojn, ĉar en ili la kolero de Dio estas finita.
+
+Mi vidis ion kiel vitran maron miksitan kun fajro, kaj tiuj, kiuj venkis la beston, ĝian bildon, kaj la nombron de ĝia nomo, starantaj sur la vitra maro, havantaj harpojn de Dio. Ili kantis la kanton de Moseo, la servanto de Dio, kaj la kanton de la Ŝafido, dirante,
+
+“Grandaj kaj mirindaj estas viaj faroj, Sinjoro Dio, la Ĉiopova!
+
+Justaj kaj veraj estas viaj vojoj, vi Reĝo de la nacioj.
+
+Kiu ne timus vin, Sinjoro,
+
+kaj glorifus vian nomon?
+
+Ĉar vi sola estas sankta.
+
+Ĉar ĉiuj nacioj venos kaj adorkliniĝos antaŭ vi.
+
+Ĉar viaj justaj agoj estas malkaŝitaj.”
+
+Post ĉi tiuj aferoj mi rigardis, kaj la templo de la tabernaklo de la atesto en la ĉielo estis malfermita. La sep anĝeloj, kiuj havis la sep plagojn, eliris, vestitaj per pura, brila tolo, kaj portante orajn zonojn ĉirkaŭ siaj brustoj.
+
+Unu el la kvar vivaj estaĵoj donis al la sep anĝeloj sep orajn bovlojn plenajn de la kolero de Dio, kiu vivas eterne kaj eterne. La templo estis plenigita per fumo de la gloro de Dio kaj de lia potenco. Neniu povis eniri en la templon ĝis la sep plagoj de la sep anĝeloj estus finitaj.
+
+### Ĉapitro 16
+
+Mi aŭdis laŭtan voĉon el la templo, dirante al la sep anĝeloj, "Iru kaj verŝu la sep kalikojn de la kolero de Dio sur la teron!"
+
+La unua iris, kaj verŝis sian kalikon sur la teron, kaj ĝi fariĝis malutila kaj dolora ulcero sur la homoj, kiuj havis la markon de la besto, kaj kiuj adoris lian bildon.
+
+La dua anĝelo verŝis sian kalikon en la maron, kaj ĝi fariĝis sango kiel de mortinto. Ĉiu vivanta estaĵo en la maro mortis.
+
+La tria verŝis sian kalikon en la riverojn kaj fontojn de akvo, kaj ili fariĝis sango. Mi aŭdis la anĝelon de la akvoj dirante, "Vi estas justa, kiu estas kaj kiu estis, ho Sanktulo, ĉar vi juĝis ĉi tiujn aferojn. Ĉar ili verŝis la sangon de sanktuloj kaj profetoj, kaj vi donis al ili sangon por trinki. Ili meritas ĉi tion."
+
+Mi aŭdis la altaron dirante, "Jes, Sinjoro Dio, la Ĉiopova, veraj kaj justaj estas viaj juĝoj."
+
+La kvara verŝis sian kalikon sur la sunon, kaj estis donite al li bruligi homojn per fajro. Homoj estis bruligitaj per granda varmego, kaj homoj blasfemis la nomon de Dio, kiu havas la potencon super ĉi tiuj plagoj. Ili ne pentis kaj ne donis al li gloron.
+
+La kvina verŝis sian kalikon sur la tronon de la besto, kaj lia regno mallumiĝis. Ili mordis siajn langojn pro la doloro, kaj ili blasfemis la Dion de la ĉielo pro siaj doloroj kaj siaj ulceroj. Ili ankoraŭ ne pentis pri siaj faroj.
+
+La sesa verŝis sian kalikon sur la grandan riveron, la Eŭfrato. Ĝia akvo sekigis, ke la vojo estu preparita por la reĝoj, kiuj venas de la sunleviĝo. Mi vidis elirantajn el la buŝo de la drako, kaj el la buŝo de la besto, kaj el la buŝo de la falsa profeto, tri malpurajn spiritojn, io kiel ranoj; ĉar ili estas spiritoj de demonoj, farantaj signojn, kiuj iras al la reĝoj de la tuta loĝata tero, por kunigi ilin por la milito de tiu granda tago de Dio la Ĉiopova.
+
+"Jen, mi venas kiel ŝtelisto. Benata estas tiu, kiu gardas, kaj konservas siajn vestojn, por ke li ne iru nuda, kaj ili vidu lian honton." Li kunigis ilin en la lokon, kiu estas nomata en la hebrea, "Harmagedono".
+
+La sepa verŝis sian kalikon en la aeron. Laŭta voĉo eliris el la templo de la ĉielo, de la trono, dirante, "Ĝi estas farita!" Estis fulmoj, sonoj, kaj tondroj; kaj estis granda tertremo tia, kia ne okazis de kiam estis homoj sur la tero—tiom granda tertremo kaj tiom potenca. La granda urbo estis dividita en tri partojn, kaj la urboj de la nacioj falis. Babilono la granda estis memorita antaŭ Dio, por doni al ŝi la kalikon de la vino de la furiozeco de lia kolero. Ĉiu insulo forkuris, kaj la montoj ne estis trovitaj. Grandaj hajloŝtonoj, ĉirkaŭ la pezo de talento, falis el la ĉielo sur homojn. Homoj blasfemis Dion pro la plago de la hajlo, ĉar ĉi tiu plago estis ekstreme severa.
+
+### Ĉapitro 17
+
+Unu el la sep anĝeloj, kiuj havis la sep kalikojn, venis kaj parolis kun mi, dirante: “Venu ĉi tien. Mi montros al vi la juĝon de la granda prostituitino, kiu sidas sur multaj akvoj, kun kiu la reĝoj de la tero faris seksan malĉastecon. Tiuj, kiuj loĝas sur la tero, estis ebrigitaj per la vino de ŝia seksa malĉasteco.” Li portis min en la Spirito en dezerton. Mi vidis virinon sidantan sur skarlatkolora besto, plena de blasfemaj nomoj, havanta sep kapojn kaj dek kornojn. La virino estis vestita per purpuro kaj skarlato, kaj ornamita per oro kaj valoraj ŝtonoj kaj perloj, havante en sia mano oran kalikon plenan de abomenindaĵoj kaj la malpurecoj de la seksa malĉasteco de la tero. Kaj sur ŝia frunto estis skribita nomo, “MISTERO, BABELONO LA GRANDA, LA PATRINO DE LA PROSTITUITINOJ KAJ DE LA ABOMENOJ DE LA TERO.” Mi vidis la virinon ebria per la sango de la sanktuloj kaj per la sango de la martiroj de Jesuo. Kiam mi vidis ŝin, mi miris kun granda miro.
+
+La anĝelo diris al mi, “Kial vi miras? Mi diros al vi la misteron de la virino kaj de la besto, kiu portas ŝin, kiu havas la sep kapojn kaj la dek kornojn. La besto, kiun vi vidis, estis, kaj ne estas; kaj estas proksima al veni el la abismo kaj iri en detruon. Tiuj, kiuj loĝas sur la tero kaj kies nomoj ne estis skribitaj en la libro de vivo ekde la fundamento de la mondo, miros kiam ili vidos, ke la besto estis, kaj ne estas, kaj estos ĉeestanta.
+
+Jen la menso, kiu havas saĝon. La sep kapoj estas sep montoj, sur kiuj la virino sidas. Ili estas sep reĝoj. Kvin falis, unu estas, kaj la alia ankoraŭ ne venis. Kiam li venos, li devas daŭri iom da tempo. La besto, kiu estis, kaj ne estas, estas mem ankaŭ oka, kaj estas el la sep; kaj li iras al detruo. La dek kornoj, kiujn vi vidis, estas dek reĝoj, kiuj ankoraŭ ne ricevis regnon, sed ili ricevas aŭtoritaton kiel reĝoj kun la besto por unu horo. Ĉi tiuj havas unu menson, kaj ili donas sian potencon kaj aŭtoritaton al la besto. Ĉi tiuj militos kontraŭ la Ŝafido, kaj la Ŝafido venkos ilin, ĉar li estas Sinjoro de sinjoroj kaj Reĝo de reĝoj; kaj tiuj, kiuj estas kun li, estas vokitaj, elektitaj, kaj fidelaj.” Li diris al mi, “La akvoj, kiujn vi vidis, kie la prostituitino sidas, estas popoloj, amasegoj, nacioj, kaj lingvoj. La dek kornoj, kiujn vi vidis, ili kaj la besto malamos la prostituitinon, faros ŝin dezerta, nudigos ŝin, manĝos ŝian karnon, kaj bruligos ŝin tute per fajro. Ĉar Dio metis en iliajn korojn fari tion, kion li intencas, esti de unu menso, kaj doni sian regnon al la besto, ĝis la vortoj de Dio estu plenumitaj. La virino, kiun vi vidis, estas la granda urbo, kiu regas super la reĝoj de la tero.”
+
+### Ĉapitro 18
+
+Post ĉi tiuj aferoj, mi vidis alian anĝelon malsuprenirantan el la ĉielo, havantan grandan aŭtoritaton. La tero estis lumigita per lia gloro. Li kriis per potenca voĉo, dirante: “Falinta, falinta estas Babel la granda, kaj ŝi fariĝis loĝejo de demonoj, malliberejo de ĉiu malpura spirito, kaj malliberejo de ĉiu malpura kaj malamata birdo! Ĉar ĉiuj nacioj trinkis el la vino de la kolero de ŝia seksa malĉasteco, la reĝoj de la tero faris seksan malĉastecon kun ŝi, kaj la komercistoj de la tero riĉiĝis pro la abundo de ŝia lukso.”
+
+Mi aŭdis alian voĉon el la ĉielo, dirante: “Eliru el ŝi, mia popolo, por ke vi ne partoprenu en ŝiaj pekoj, kaj por ke vi ne ricevu el ŝiaj plagoj, ĉar ŝiaj pekoj atingis ĝis la ĉielo, kaj Dio rememoris ŝiajn maljustaĵojn. Redonu al ŝi kiel ŝi redonis, kaj repagu al ŝi duoble kiel ŝi faris, kaj laŭ ŝiaj faroj. En la pokalo, kiun ŝi miksis, miksu al ŝi duoble. Kiom ajn ŝi gloris sin kaj fariĝis volupta, tiom donu al ŝi turmenton kaj funebron. Ĉar ŝi diras en sia koro, ‘Mi sidas kiel reĝino, kaj ne estas vidvino, kaj neniel vidos funebron.’ Tial en unu tago ŝiaj plagoj venos: morto, funebro, kaj malsato; kaj ŝi estos tute bruligita per fajro, ĉar la Sinjoro Dio, kiu juĝis ŝin, estas forta.
+
+La reĝoj de la tero, kiuj faris seksan malĉastecon kaj vivis volupteme kun ŝi, ploros kaj ĝemos super ŝi, kiam ili rigardos la fumon de ŝia brulado, starante malproksime pro la timo de ŝia turmento, dirante, ‘Ve, ve, la granda urbo, Babel, la forta urbo! Ĉar via juĝo venis en unu horo.’ La komercistoj de la tero ploras kaj funebras super ŝi, ĉar neniu aĉetas ilian varon plu: varon de oro, arĝento, valoraj ŝtonoj, perloj, fajna tolo, purpuro, silko, skarlato, ĉiu multekosta ligno, ĉiu vazaro el eburo, ĉiu vazaro farita el plej multekosta ligno, kaj el kupro, kaj fero, kaj marmoro; kaj cinamo, incenso, parfumo, olibano, vino, olivoleo, fajna faruno, tritiko, brutoj, ŝafoj, ĉevaloj, ĉaroj, kaj homaj korpoj kaj animoj. La fruktoj, kiujn via animo deziris, perdiĝis al vi. Ĉiuj aferoj, kiuj estis delikataj kaj luksaj, pereis de vi, kaj vi ne trovos ilin plu. La komercistoj de ĉi tiuj aferoj, kiuj riĉiĝis per ŝi, staros malproksime pro la timo de ŝia turmento, plorante kaj funebrante, dirante, ‘Ve, ve, la granda urbo, ŝi, kiu estis vestita per fajna tolo, purpuro, kaj skarlato, kaj ornamita per oro kaj valoraj ŝtonoj kaj perloj! Ĉar en unu horo tiaj grandaj riĉaĵoj estas dezertigitaj.’ Ĉiu ŝipestro, kaj ĉiu, kiu navigas ie ajn, kaj maristoj, kaj tiom kiom gajnas sian vivon per maro, staris malproksime, kaj kriis, kiam ili rigardis la fumon de ŝia brulado, dirante, ‘Kio estas kiel la granda urbo?’ Ili ĵetis polvon sur siajn kapojn, kaj kriis, plorante kaj funebrante, dirante, ‘Ve, ve, la granda urbo, en kiu ĉiuj, kiuj havis siajn ŝipojn en la maro, riĉiĝis pro ŝia granda riĉeco!’ Ĉar ŝi estas dezertigita en unu horo.
+
+“Ĝoju super ŝi, ho ĉielo, vi sanktuloj, apostoloj, kaj profetoj, ĉar Dio juĝis vian juĝon sur ŝi.”
+
+Potenca anĝelo prenis ŝtonon kiel granda muelŝtono kaj ĵetis ĝin en la maron, dirante, “Tiel per perforto Babel, la granda urbo, estos ĵetita malsupren, kaj ne estos trovita plu. La voĉo de harpistoj, muzikistoj, flutistoj, kaj trumpetistoj ne estos aŭdita plu en vi. Neniu metiisto de kia ajn metio estos trovita plu en vi. La sono de muelilo ne estos aŭdita plu en vi. La lumo de lampo ne brilos plu en vi. La voĉo de la fianĉo kaj de la fianĉino ne estos aŭdita plu en vi, ĉar viaj komercistoj estis la princoj de la tero; ĉar per via sorĉado ĉiuj nacioj estis trompitaj. En ŝi estis trovita la sango de profetoj kaj de sanktuloj, kaj de ĉiuj, kiuj estis mortigitaj sur la tero.”
+
+### Ĉapitro 19
+
+Post ĉi tiuj aferoj mi aŭdis ion kiel laŭtan voĉon de granda homamaso en la ĉielo, dirante: “Haleluja! Savo, potenco, kaj gloro apartenas al nia Dio; ĉar liaj juĝoj estas veraj kaj justaj. Ĉar li juĝis la grandan prostituitinon, kiu koruptis la teron per sia seksa malĉasteco, kaj li venĝis la sangon de siaj servantoj ĉe ŝia mano.”
+
+Dua diris, “Haleluja! Ŝia fumo supreniras por ĉiam kaj eterne.” La dudek kvar aĝestroj kaj la kvar vivantaj estaĵoj falis kaj adoris Dion, kiu sidas sur la trono, dirante, “Amen! Haleluja!”
+
+Voĉo venis el la trono, dirante, “Donu laŭdon al nia Dio, ĉiuj liaj servantoj, vi kiuj timas lin, la malgrandaj kaj la grandaj!”
+
+Mi aŭdis ion kiel la voĉo de granda homamaso, kaj kiel la voĉo de multaj akvoj, kaj kiel la voĉo de potencaj tondroj, dirante, “Haleluja! Ĉar la Sinjoro nia Dio, la Ĉiopova, regas! Ni ĝoju kaj estu ekstreme ĝojaj, kaj ni donu la gloron al li. Ĉar la geedziĝo de la Ŝafido venis, kaj lia edzino pretigis sin.” Estis donite al ŝi, ke ŝi vestu sin per brila, pura, delikata tolo, ĉar la delikata tolo estas la justaj agoj de la sanktuloj.
+
+Li diris al mi, “Skribu, ‘Benitaj estas tiuj, kiuj estas invititaj al la geedziĝa festeno de la Ŝafido.’” Li diris al mi, “Ĉi tiuj estas veraj vortoj de Dio.”
+
+Mi falis antaŭ liaj piedoj por adori lin. Li diris al mi, “Rigardu! Ne faru tion! Mi estas kunservanto kun vi kaj kun viaj fratoj, kiuj tenas la ateston de Jesuo. Adoru Dion, ĉar la atesto de Jesuo estas la Spirito de Profetaĵo.”
+
+Mi vidis la ĉielon malfermitan, kaj jen, blanka ĉevalo, kaj tiu, kiu sidis sur ĝi, estas nomata Fidela kaj Vera. En justeco li juĝas kaj faras militon. Liaj okuloj estas flamo de fajro, kaj sur lia kapo estas multaj kronoj. Li havas nomojn skribitajn kaj nomon skribitan, kiun neniu scias krom li mem. Li estas vestita per vesto ŝprucita per sango. Lia nomo estas nomata “La Vorto de Dio.” La armeoj, kiuj estas en la ĉielo, vestitaj per blanka, pura, delikata tolo, sekvis lin sur blankaj ĉevaloj. El lia buŝo eliras akra, duoble tranĉanta glavo, ke per ĝi li frapu la naciojn. Li regos ilin per fera bastono. Li tretas la vinpremilon de la furiozeco de la kolero de Dio, la Ĉiopova. Li havas sur sia vesto kaj sur sia femuro nomon skribitan, “REĜO DE REĜOJ KAJ SINJORO DE SINJOROJ.”
+
+Mi vidis anĝelon starantan en la suno. Li kriis per laŭta voĉo, dirante al ĉiuj birdoj, kiuj flugas en la ĉielo, “Venu! Kolektiĝu al la granda festeno de Dio, ke vi manĝu la karnon de reĝoj, la karnon de kapitanoj, la karnon de potencaj viroj, kaj la karnon de ĉevaloj kaj de tiuj, kiuj sidas sur ili, kaj la karnon de ĉiuj homoj, kaj liberaj kaj sklavoj, malgrandaj kaj grandaj.” Mi vidis la beston, la reĝojn de la tero, kaj iliajn armeojn, kolektitajn por fari militon kontraŭ tiu, kiu sidis sur la ĉevalo kaj kontraŭ lia armeo. La besto estis kaptita, kaj kun li la falsa profeto, kiu faris la signojn antaŭ lia vido, per kiuj li trompis tiujn, kiuj ricevis la markon de la besto kaj tiujn, kiuj adoris lian bildon. Ĉi tiuj du estis ĵetitaj vivaj en la lagon de fajro, kiu brulas per sulfuro. La ceteraj estis mortigitaj per la glavo de tiu, kiu sidis sur la ĉevalo, la glavo, kiu eliris el lia buŝo. Do ĉiuj birdoj estis plenigitaj per ilia karno.
+
+### Ĉapitro 20
+
+Mi vidis anĝelon malsuprenirantan el la ĉielo, havantan la ŝlosilon de la abismo kaj grandan ĉenon en sia mano. Li kaptis la drakon, la malnovan serpenton, kiu estas la diablo kaj Satano, kiu trompas la tutan loĝatan teron, kaj ligis lin por mil jaroj, kaj ĵetis lin en la abismon, kaj fermis ĝin kaj sigelis ĝin super li, por ke li ne plu trompu la naciojn ĝis la mil jaroj finiĝos. Post tio, li devas esti liberigita por mallonga tempo.
+
+Mi vidis tronojn, kaj ili sidis sur ili, kaj juĝo estis donita al ili. Mi vidis la animojn de tiuj, kiuj estis senkapigitaj pro la atesto de Jesuo kaj pro la vorto de Dio, kaj tiuj, kiuj ne adoris la beston nek ĝian bildon, kaj ne ricevis la markon sur sia frunto kaj sur sia mano. Ili vivis kaj regis kun Kristo dum mil jaroj. La ceteraj mortintoj ne vivis ĝis la mil jaroj finiĝis. Ĉi tio estas la unua releviĝo. Feliĉa kaj sankta estas tiu, kiu havas parton en la unua releviĝo. Super ĉi tiuj, la dua morto ne havas potencon, sed ili estos pastroj de Dio kaj de Kristo, kaj regos kun li dum mil jaroj.
+
+Kaj post la mil jaroj, Satano estos liberigita el sia malliberejo kaj li eliros por trompi la naciojn, kiuj estas en la kvar anguloj de la tero, Gog kaj Magog, por kunigi ilin al la milito, kies nombro estas kiel la sablo de la maro. Ili supreniris super la larĝeco de la tero kaj ĉirkaŭis la tendaron de la sanktuloj kaj la amata urbo. Fajro malsupreniris el la ĉielo de Dio kaj formanĝis ilin. La diablo, kiu trompis ilin, estis ĵetita en la lagon de fajro kaj sulfuro, kie ankaŭ estas la besto kaj la falsa profeto. Ili estos turmentataj tage kaj nokte eterne kaj eterne.
+
+Mi vidis grandan blankan tronon kaj tiun, kiu sidis sur ĝi, de kies vizaĝo la tero kaj la ĉielo forkuris. Ne estis trovita loko por ili. Mi vidis la mortintojn, la grandajn kaj la malgrandajn, starantajn antaŭ la trono, kaj ili malfermis librojn. Alia libro estis malfermita, kiu estas la libro de vivo. La mortintoj estis juĝitaj laŭ la aferoj, kiuj estis skribitaj en la libroj, laŭ iliaj faroj. La maro donis la mortintojn, kiuj estis en ĝi. Morto kaj Hadeso donis la mortintojn, kiuj estis en ili. Ili estis juĝitaj, ĉiu laŭ siaj faroj. Morto kaj Hadeso estis ĵetitaj en la lagon de fajro. Ĉi tio estas la dua morto, la lago de fajro. Se iu ne estis trovita skribita en la libro de vivo, li estis ĵetita en la lagon de fajro.
+
+### Ĉapitro 21
+
+Mi vidis novan ĉielon kaj novan teron, ĉar la unua ĉielo kaj la unua tero forpasis, kaj la maro ne plu ekzistas. Mi vidis la sanktan urbon, Nov-Jerusalemon, malsuprenirantan el la ĉielo de Dio, preparitan kiel fianĉino ornamita por sia edzo. Mi aŭdis laŭtan voĉon el la ĉielo dirantan: “Jen, la loĝejo de Dio estas kun homoj; kaj li loĝos kun ili, kaj ili estos lia popolo, kaj Dio mem estos kun ili kiel ilia Dio. Li viŝos ĉiun larmon de iliaj okuloj. Morte ne plu ekzistos; nek estos plorado, nek krio, nek doloro plu. La unuaj aferoj forpasis.”
+
+Tiu, kiu sidas sur la trono, diris: “Jen, mi faras ĉion nova.” Li diris: “Skribu, ĉar ĉi tiuj vortoj de Dio estas fidelaj kaj veraj.” Li diris al mi: “Mi estas la Alfa kaj la Omega, la Komenco kaj la Fino. Mi donos senpage al tiu, kiu soifas, el la fonto de la akvo de vivo. Tiu, kiu venkas, mi donos al li ĉi tiujn aferojn. Mi estos lia Dio, kaj li estos mia filo. Sed por la timemaj, nekredemaj, pekuloj, abomenindaj, murdistoj, seksaj malĉastuloj, sorĉistoj, idolanoj, kaj ĉiuj mensogantoj, ilia parto estas en la lago, kiu brulas per fajro kaj sulfuro, kiu estas la dua morto.”
+
+Unu el la sep anĝeloj, kiuj havis la sep bovlojn, kiuj estis plenigitaj per la sep lastaj plagoj, venis, kaj li parolis kun mi, dirante: “Venu ĉi tien. Mi montros al vi la fianĉinon, la edzinon de la Ŝafido.” Li portis min for en la Spirito al granda kaj alta monto, kaj montris al mi la sanktan urbon, Jerusalemon, malsuprenirantan el la ĉielo de Dio, havantan la gloron de Dio. Ŝia lumo estis kiel plej valora ŝtono, kiel jaspiso, klara kiel kristalo; havante grandan kaj altan muron kun dek du pordegoj, kaj ĉe la pordegoj dek du anĝeloj, kaj nomoj skribitaj sur ili, kiuj estas la nomoj de la dek du triboj de la infanoj de Izrael. Oriente estis tri pordegoj, kaj norde tri pordegoj, kaj sude tri pordegoj, kaj okcidente tri pordegoj. La muro de la urbo havis dek du fundamentojn, kaj sur ili dek du nomojn de la dek du Apostoloj de la Ŝafido.
+
+Tiu, kiu parolis kun mi, havis por mezuro oran kanon por mezuri la urbon, ĝiajn pordegojn, kaj ĝiajn murojn. La urbo estas kvadrata. Ĝia longo estas tiel granda kiel ĝia larĝo. Li mezuris la urbon per la kano: dek du mil stadioj. Ĝia longo, larĝo, kaj alto estas egalaj. Ĝia muro estas cent kvardek kvar ulnoj, laŭ la mezuro de homo, tio estas, de anĝelo. La konstruo de ĝia muro estis jaspiso. La urbo estis pura oro, kiel pura vitro. La fundamentoj de la muro de la urbo estis ornamitaj per ĉiaj valoraj ŝtonoj. La unua fundamento estis jaspiso, la dua safiro; la tria kalcedono, la kvara smeraldo, la kvina sardonikso, la sesa sardio, la sepa krizolito, la oka berilo, la naŭa topazo, la deka krizopraso, la dekunua hiacinto, kaj la dekdua ametisto. La dek du pordegoj estis dek du perloj. Ĉiu el la pordegoj estis farita el unu perlo. La strato de la urbo estis pura oro, kiel travidebla vitro.
+
+Mi vidis neniun templon en ĝi, ĉar la Sinjoro Dio la Ĉiopova kaj la Ŝafido estas ĝia templo. La urbo ne bezonas la sunon aŭ lunon por lumi, ĉar la gloro de Dio lumigis ĝin kaj ĝia lampo estas la Ŝafido. La nacioj marŝos en ĝia lumo. La reĝoj de la tero alportas la gloron kaj honoron de la nacioj en ĝin. Ĝiaj pordegoj neniel estos fermitaj tage (ĉar tie ne estos nokto), kaj ili alportos la gloron kaj la honoron de la nacioj en ĝin por ke ili eniru. Nenio profana, nek iu, kiu kaŭzas abomenon aŭ mensogon, eniros en ĝin, sed nur tiuj, kiuj estas skribitaj en la libro de vivo de la Ŝafido.
+
+### Ĉapitro 22
+
+Li montris al mi riveron de akvo de vivo, klara kiel kristalo, elirantan el la trono de Dio kaj de la Ŝafido, en la mezo de ĝia strato. Ĉi-flanke de la rivero kaj tie estis la arbo de vivo, portanta dek du specojn de fruktoj, donante sian frukton ĉiumonate. La folioj de la arbo estis por la resanigo de la nacioj. Ne estos plu malbeno. La trono de Dio kaj de la Ŝafido estos en ĝi, kaj liaj servantoj servos lin. Ili vidos lian vizaĝon, kaj lia nomo estos sur iliaj fruntoj. Ne estos nokto, kaj ili ne bezonos lampan lumon aŭ sunan lumon; ĉar la Sinjoro Dio iluminos ilin. Ili regos eterne kaj eterne.
+
+Li diris al mi, “Ĉi tiuj vortoj estas fidelaj kaj veraj. La Sinjoro Dio de la spiritoj de la profetoj sendis sian anĝelon por montri al siaj servistoj la aferojn, kiuj devas okazi baldaŭ.”
+
+“Jen, mi venas baldaŭ! Benata estas tiu, kiu gardas la vortojn de la profetaĵo de ĉi tiu libro.”
+
+Nun mi, Johano, estas tiu, kiu aŭdis kaj vidis ĉi tiujn aferojn. Kiam mi aŭdis kaj vidis, mi falis malsupren por adori antaŭ la piedoj de la anĝelo, kiu montris al mi ĉi tiujn aferojn. Li diris al mi, “Vi ne devas fari tion! Mi estas kunservisto kun vi kaj kun viaj fratoj, la profetoj, kaj kun tiuj, kiuj gardas la vortojn de ĉi tiu libro. Adoru Dion.” Li diris al mi, “Ne sigelu la vortojn de la profetaĵo de ĉi tiu libro, ĉar la tempo estas proksima. Kiu agas maljuste, lasu lin agi maljuste ankoraŭ. Kiu estas malpura, lasu lin esti malpura ankoraŭ. Kiu estas justa, lasu lin fari justecon ankoraŭ. Kiu estas sankta, lasu lin esti sankta ankoraŭ.”
+
+“Jen, mi venas baldaŭ! Mia rekompenco estas kun mi, por repagi al ĉiu homo laŭ lia laboro. Mi estas la Alfa kaj la Omega, la Unua kaj la Lasta, la Komenco kaj la Fino. Benataj estas tiuj, kiuj faras liajn ordonojn, ke ili havu la rajton al la arbo de vivo, kaj eniru tra la pordegoj en la urbon. Ekstere estas la hundoj, la sorĉistoj, la seksaj malmoraluloj, la murdistoj, la idolanoj, kaj ĉiu, kiu amas kaj praktikas malveron. Mi, Jesuo, sendis mian anĝelon por atesti ĉi tiujn aferojn al vi por la asembleoj. Mi estas la radiko kaj la idaro de David, la Brila kaj Matena Stelo.”
+
+La Spirito kaj la fianĉino diras, “Venu!” Kiu aŭdas, lasu lin diri, “Venu!” Kiu soifas, lasu lin veni. Kiu deziras, lasu lin preni la akvon de vivo senpage.
+
+Mi atestas al ĉiu, kiu aŭdas la vortojn de la profetaĵo de ĉi tiu libro: se iu aldonas al ili, Dio aldonos al li la plagojn, kiuj estas skribitaj en ĉi tiu libro. Se iu forprenas el la vortoj de la libro de ĉi tiu profetaĵo, Dio forprenos lian parton el la arbo de vivo, kaj el la sankta urbo, kiuj estas skribitaj en ĉi tiu libro. Tiu, kiu atestas ĉi tiujn aferojn, diras, “Jes, mi venas baldaŭ.”
+
+Amen! Jes, venu, Sinjoro Jesuo!
+
+La graco de la Sinjoro Jesuo Kristo estu kun ĉiuj sanktuloj. Amen.
+
+## Glosaro
+
+### Monda Angla Biblia Glosaro
+
+La sekvaj vortoj uzataj en la Monda Angla Biblio (WEB) ne estas tre oftaj, aŭ ĉar ili rilatas al antikvaj pezoj, mezuroj aŭ mono, aŭ ĉar ili estas iel unike bibliaj.
+
+Abaddon: Abaddon estas hebrea por detruo.
+
+Abba: Abba estas kaldea vorto por patro, uzata en respektema, ama kaj familia maniero, kiel paĉjo. Ofte uzata en preĝo por rilati al nia Patro en Ĉielo.
+
+adultereco: Adultereco estas havi seksan rilaton kun iu krom via propra edzo aŭ edzino. En la Biblio, la sola legitima seksa rilato estas inter viro kaj virino kiuj estas geedzitaj unu kun la alia.
+
+alfa: Alfa estas la unua litero de la greka alfabeto. Ĝi foje estas uzata por signifi la komencon aŭ la unuan.
+
+amen: Amen signifas "Tiel estu" aŭ "Mi kredas ke ĝi certe estas tiel."
+
+anĝelo: "Anĝelo" laŭvorte signifas "mesaĝisto" aŭ "sendito," kaj kutime estas uzata por rilati al spiritaj estaĵoj kiuj normale estas nevideblaj al ni, sed ankaŭ povas aperi kiel ekstreme fortaj estaĵoj aŭ kiel homoj.
+
+Apoliono: Apoliono estas greka por detruanto.
+
+apostolo: "Apostolo" signifas delegito, mesaĝisto, aŭ iu sendita kun ordonoj. Ĉi tiu termino estas aplikata en la Nova Testamento en kaj ĝenerala senco rilata al ministerio de establado kaj fortigo de ekleziaj kunvenoj, kaj en specifa senco al "La 12 Apostoloj de la Ŝafido" (Apokalipso 21:14). La unua kategorio aplikiĝas al specifa ministerio kiu daŭras en la Eklezio (Efesanoj 4:11-13) kaj kiu inkluzivas multe pli ol 12 homojn, dum la lasta rilatas al la apostoloj nomitaj en Mateo 10:2-4, krom kun Judas Iskarioto anstataŭigita de Matiaso (Agoj 1:26).
+
+Armagedono: Vidu Har-magedon.
+
+asariono: Asariono estas malgranda roma kupra monero valora unu dekonon de draĥmo, aŭ ĉirkaŭ unu horo da salajro por agrikultura laboristo.
+
+aŭreo: Aŭreo estas roma ora monero, valora 25 arĝentajn denarojn. Aŭreo pezis de 115 ĝis 126.3 grajnoj (7.45 ĝis 8.18 gramoj).
+
+bapti: Bapti signifas mergi en, aŭ lavi per io, kutime akvo. Bapto en la Sankta Spirito, fajro, la Korpo de Kristo, kaj suferado ankaŭ estas menciitaj en la Nova Testamento, kune kun bapto en akvo. Bapto ne estas nur por purigi la korpon, sed kiel ekstera signo de interna spirita purigado kaj sindevontigo. Bapto estas signo de pento, kiel praktikita de Johano la Baptisto, kaj de fido en Jesuo Kristo, kiel praktikita de la disĉiploj de Jesuo.
+
+bato: Bato estas likva mezuro de ĉirkaŭ 22 litroj, 5.8 usonaj galonoj, aŭ 4.8 imperiaj galonoj.
+
+batoso: Batoso estas likva mezuro de ĉirkaŭ 39.5 litroj, 10.4 usonaj galonoj, aŭ 8.7 imperiaj galonoj.
+
+Beelzebul: laŭvorte, sinjoro de la muŝoj. Nomo uzata por la diablo.
+
+Beerŝeba: Beerŝeba estas hebrea por "puto de la ĵuro" aŭ "puto de la sep." Urbo en Israelo.
+
+jen: Rigardu! Vidu! Ho! Rimarku ĉi tion! Jen!
+
+kerubo: Kerubo estas speco de anĝelo kun flugiloj kaj manoj kiu estas asociita kun la tronĉambro de Dio kaj gardista devo. Vidu Jeĥezkel 10.
+
+keruboj: Keruboj signifas pli ol unu kerubo aŭ potenca kerubo.
+
+hoenikso: Hoenikso estas seka volummezuro kiu estas iom pli ol litro (kiu estas iom pli ol kvarto). Hoenikso estis la ĉiutaga porcio de greno por soldato en iuj armeoj.
+
+konkubino: virino kiu estas kunigita al viro por la celo de provizi lin per seksa plezuro kaj infanoj, sed ne estas honorata kiel plena partnero en geedzeco; edzino de dua klaso. En la tempoj de la Malnova Testamento (kaj en iuj lokoj nuntempe), estis kutimo de mezorientaj reĝoj, ĉefoj, kaj riĉuloj edziĝi al pluraj edzinoj kaj konkubinoj, sed Dio ordonis al la reĝoj de Izrael ne fari tion (Readmono 17:17) kaj Jesuo instigis homojn aŭ resti fraŭlaj aŭ geedziĝi kiel Dio origine intencis: unu viro edziĝinta al unu virino (Mateo 19:3-12; 1 Korintanoj 7:1-13).
+
+kor: Kor estas seka mezuro de ĉirkaŭ 391 litroj, 103 usonaj galonoj, aŭ 86 imperiaj galonoj.
+
+korban: Korban estas hebrea vorto por ofero dediĉita al Dio.
+
+krucumi: Krucumi signifas ekzekuti iun per najlado al kruco kun metalaj pikiloj. Iliaj manoj estas etenditaj sur la transversan trabon kun pikiloj enigitaj tra iliaj pojnoj aŭ manoj. Iliaj piedoj aŭ maleoloj estas fiksitaj al kruco per metala pikilo. La pezo de la viktimo tendencas eligi la aeron el liaj pulmoj. Por leviĝi por spiri, la viktimo devas meti pezon sur la vundojn kaj uzi multe da forto. La viktimo estas najlita al la kruco dum la kruco estas sur la tero, poste la kruco estas levita kaj faligita en truon, tiel skuante la vundojn. Antaŭ krucumo, la viktimo kutime estis vipita per romia kato de naŭ vostoj, kiu havis pecojn de vitro kaj metalo ligitajn al ĝiaj finoj. Tio kaŭzis forigon de pecoj de karno kaj malfermitajn vundojn kontraŭ la kruda ligno de la kruco. La viktimo estis devigita porti la pezan transversan trabon de sia kruco de la loko de juĝo al la loko de krucumo, sed ofte estis fizike nekapabla post la skurĝado, do alia persono estis devigita porti la krucon por li. Romia krucumo ĝenerale estis farita tute nuda por maksimumigi kaj honton kaj malkomforton. Fine, la doloro, malforteco, dehidratiĝo, kaj elĉerpiĝo de la muskoloj necesaj por spiri igas spiradon neebla, kaj la viktimo sufokiĝas.
+
+kubito: Kubito estas unuo de linia mezuro, de la kubuto ĝis la pinto de la plej longa fingro de viro. Ĉi tiu unuo estas ofte konvertita al 0.46 metroj aŭ 18 coloj, kvankam tio varias laŭ la alteco de la viro faranta la mezuron. Estas ankaŭ "longa" kubito kiu estas pli longa ol regula kubito per manlarĝo. (Ezekiel 43:13)
+
+kumino: Kumino estas aromata semo de Cuminum cyminum, simila al karvio en gusto kaj aspekto. Ĝi estas uzata kiel spico.
+
+lolio: Lolio estas herba fiherbo (probable barbeta lolio aŭ Lolium temulentum) kiu aspektas tre simila al tritiko ĝis ĝi maturiĝas, kiam la semoj montras grandan diferencon. Lolio-semoj ne estas bonaj por multe krom kiel kokida manĝaĵo aŭ por bruligi por malhelpi la disvastiĝon de ĉi tiu fiherbo.
+
+denaroj: Denaroj: pluralo de denaro, arĝenta romia monero valora je ĉirkaŭ unu tago da salajro por laboristo.
+
+denaro: Denaro estas arĝenta romia monero valora je ĉirkaŭ unu tago da salajro por agrikultura laboristo. Denaro valoris 1/25 de romia aureo.
+
+diablo: La vorto "diablo" devenas de la greka "diabolos," kiu signifas "tendenca al kalumnio; mensoganto." "Diablo" estas uzata por rilati al falinta anĝelo, ankaŭ nomata "Satano," kiu laboras por ŝteli, mortigi, detrui, kaj fari malbonon. La sorto de la diablo estas certa, kaj estas nur demando de tempo antaŭ ol li estos ĵetita en la Fajran Lagon, neniam por eskapi.
+
+didrakmo: Didrakmo estas greka arĝenta monero valora je 2 drakmoj, ĉirkaŭ tiom kiom 2 romiaj denaroj, aŭ ĉirkaŭ 2 tagoj da salajro. Ĝi estis ofte uzata por pagi la duon-ŝekelan templimposton.
+
+disĉiplo: lernanto kiu sekvas instruiston por lerni kaj per instruo kaj per ekzemplo.
+
+distafilo: parto de ŝpinrado uzata por tordi fadenojn.
+
+drakmo: Drakmo estas greka arĝenta monero valora je ĉirkaŭ unu romia denaro, aŭ ĉirkaŭ unu tago da salajro por agrikultura laboristo.
+
+El-Elohe-Israel: El-Elohe-Israel signifas "Dio, la Dio de Izrael" aŭ "La Dio de Izrael estas potenca."
+
+efa: Efa estas mezuro de volumeno de ĉirkaŭ 22 litroj, 5.8 usonaj galonoj, 4.8 imperiaj galonoj, aŭ iom pli ol duono de buŝelo.
+
+Geheno: Geheno estas unu vorto uzata por Infero. Ĝi devenas de la hebrea Gey-Hinnom, laŭvorte "valo de Hinnom." Ĉi tiu vorto originis kiel la nomo por loko sude de la malnova urbo Jerusalemo kie la rubo de la urbo estis bruligita. Iam, vivaj beboj estis ĵetitaj plorantaj en la fajron sub la brakoj de la idolo, Moloch, por morti tie. Ĉi tiu loko estis tiel malestimata de la homoj post kiam la justa reĝo Josiah aboliciis ĉi tiun abomenindan praktikon, ke ĝi estis farita en rubamason. Kadavroj de malsanaj bestoj kaj ekzekutitaj krimuloj estis ĵetitaj tie kaj bruligitaj.
+
+gitito: Gitito estas muzika termino eble signifanta "instrumento de Gat."
+
+pikilo: akra, pinta instiga ilo uzata por motivigi malvolontajn bestojn (kiel bovojn kaj mulojn) moviĝi en la ĝustan direkton.
+
+evangelio: Evangelio signifas "bona novaĵo" aŭ "ĝojaj sciigoj," specife la Bona Novaĵo de la vivo, morto, kaj releviĝo de Jesuo por nia savo, resanigo, kaj provizo; kaj la espero de eterna vivo kiun Jesuo faris disponebla al ni per la graco de Dio.
+
+Hadeso: Hadeso: La subtera regno de la senkorpaj spiritoj. Ankaŭ konata kiel "infero." Vidu ankaŭ "Ŝeol."
+
+Har-Magedono: Har-Magedono, ankaŭ nomata Armegedono, plej verŝajne rilatas al monteto ("har") de Megido, proksime al la Karmela Montaro en Israelo. Ĉi tiu areo havas grandan valan ebenaĵon kun sufiĉe da spaco por armeoj manovri.
+
+Hin: Hin estas mezuro de volumeno de ĉirkaŭ 6.5 litroj aŭ 1.7 galonoj.
+
+Homer: Unu homer estas ĉirkaŭ 220 litroj, 6.2 usonaj buŝeloj, 6.1 imperiaj buŝeloj, 58 usonaj galonoj, aŭ 48.4 imperiaj galonoj.
+
+Hipokritulo: sceneja aktoro; iu kiu ŝajnigas esti iu alia ol kiu ili vere estas; ŝajniganto; trompanto.
+
+Iŝmael: Iŝmael estas la filo de Abraham kaj Hagar. Iŝmael laŭvorte signifas, "Dio aŭdas."
+
+Jehovo: Vidu "Javeo."
+
+Jesuo: "Jesuo" estas la greka por la hebrea nomo "Jeŝua," kiu estas mallonga versio de "Jehoŝua," kiu devenas de "Joŝia," kiu signifas "Li savos."
+
+Kodranto: Kodranto estas malgranda monero valora je duono de atika kalko aŭ du leptonoj. Ĝi valoras malpli ol 2% de tagaj salajroj por agrikultura laboristo.
+
+Leptonoj: Leptonoj estas tre malgrandaj, latunaj, judaj moneroj valoraj je duono de roma kvadranto ĉiu, kiu valoras kvaronon de kupra asario. Leptonoj valoras malpli ol 1% de agrikultura laboristo ĉiutagaj salajroj.
+
+Leviatano: Leviatano estas poezia nomo por granda akva estaĵo, eble krokodilo aŭ dinosaŭro.
+
+Mahalato: Mahalato estas la nomo de melodio aŭ muzika termino.
+
+Mano: Nomo por la manĝaĵo, kiun Dio mirakle provizis al la Izraelidoj dum ili vagadis en la dezerto inter Egiptujo kaj la promesita lando. De la hebrea man-hu (Kio estas tio?) aŭ manan (disdoni). Vidu Eliro 16:14-35.
+
+Geedziĝo: la unuiĝo de edzo kaj edzino por la celo de kunloĝado, reproduktado, kaj ĝui unu la alian. La plano de Dio por geedziĝo estas inter unu viro kaj unu virino (Marko 10:6-9; 1 Korintanoj 7). Kvankam estas multaj kazoj de viro edziĝanta al pli ol unu virino en la Malnova Testamento, esti edziĝinta al unu edzino estas postulo por servi en certaj ekleziaj gvidaj pozicioj (1 Timoteo 3:2,12; Tito 1:5-6).
+
+Maskilo: Maskilo estas muzika kaj literatura termino por "meditado" aŭ "medita psalmo."
+
+Miĥtamo: Miĥtamo estas poemo.
+
+Mino: Mino estas greka monero valora je 100 grekaj drakmoj (aŭ 100 romaj denaroj), aŭ ĉirkaŭ 100 tagaj salajroj por agrikultura laboristo.
+
+Mirho: Mirho estas la bonodora substanco, kiu elfluas el la tigoj kaj branĉoj de la malalta, arbusteca arbo komiforo mirho aŭ komiforo kataf indiĝena al la arabaj dezertoj kaj partoj de Afriko. La bonodora gumo falas al la tero kaj malmoliĝas en oleecan flavecan-brunan rezinon. Mirho estis tre aprezata kiel parfumo, kaj kiel ingredienco en medicinaj kaj ceremoniaj ungventoj.
+
+Nikolaitanoj: Nikolaitanoj plej verŝajne estis gnostikoj, kiuj instruis la abomenindan mensogon, ke la fizikaj kaj spiritaj sferoj estis tute apartaj kaj ke malmoraleco en la fizika sfero ne damaĝus vian spiritan sanon.
+
+Omega: Omega estas la lasta litero de la greka alfabeto. Ĝi foje estas uzata por signifi la lastan aŭ la finon.
+
+Penuelo: Penuelo estas la hebrea por "vizaĝo de Dio."
+
+Filakterio: leda ujo por teni malgrandan skribrulaĵon enhavantan gravajn Skribajn fragmentojn, kiu estas portata sur la brako aŭ frunto en preĝo. Ĉi tiuj filakterioj (tefilin en la hebrea) ankoraŭ estas uzataj de ortodoksaj judaj viroj. Vidu Readmono 6:8.
+
+Pretorio: Pretorio: la loĝejo kaj oficejo de la roma guberniestro, kaj tiuj, kiuj laboras tie.
+
+Kvadranto: Kvadranto estas roma monero valora je ĉirkaŭ 1/64 de denaro. Denaro estas ĉirkaŭ unu tago da salajro por agrikultura laboristo.
+
+Rabeno: Rabeno estas transskribo de la hebrea vorto por "mia instruisto," uzata kiel titolo de respekto por judaj instruistoj.
+
+Rahabo: Rahabo estas aŭ (1) La prostituitino, kiu kaŝis la 2 spionojn de Josuo en Jeriko (Josuo 2,6) kaj poste fariĝis prapatrino de Jesuo (Mateo 1:5) kaj ekzemplo de fido (Hebreoj 11:31; Jakobo 2:25); aŭ (2) Laŭvorte, "fiero" aŭ "aroganteco" —eble referenco al granda akva estaĵo (Ijob 9:13; 26:12; Jesaja 51:9) aŭ simbole referencanta al Egiptujo (Psalmoj 87:4; 89:10; Jesaja 30:7).
+
+penti: ŝanĝi sian menson; turniĝi for de peko kaj turniĝi al Dio; abomeni siajn pasintajn pekojn kaj decidi sekvi Dion.
+
+Rhabboni: transliterumo de la hebrea vorto por "granda instruisto."
+
+Sabato: La sepa tago de la semajno, destinita de Dio por ke homo ripozu.
+
+sanktuloj: La greka vorto por "sanktuloj" laŭvorte signifas "sanktaj." Sanktuloj estas homoj apartigitaj por servo al Dio kiel sanktaj kaj apartaj, vivantaj en justeco. Uzita en la Biblio por rilati al ĉiuj kristanoj kaj al ĉiuj, kiuj adoras Javeon en la Malnova Testamento.
+
+Samariano: Samariano estas loĝanto de Samario. La Samaranoj kaj la Judoj ĝenerale malamis unu la alian dum la tempo kiam Jesuo piediris inter ni.
+
+sanktigi: Deklari aŭ apartigi ion kiel sanktan. Purigi kaj apartigi personon de peko.
+
+sata: seka mezuro de kapacito proksimume egala al 13 litroj aŭ 1.5 pekoj.
+
+Satano: Satano signifas "akuzanto." Ĉi tio estas unu nomo por la diablo, malamiko de Dio kaj de la popolo de Dio.
+
+skribisto: Skribisto estas tiu, kiu kopias la leĝon de Dio. Ili ofte estis respektataj kiel instruistoj kaj aŭtoritatoj pri la leĝo de Dio.
+
+selah: muzika termino indikanta paŭzon aŭ instrumentan interludon por reflekto.
+
+serafim: ses-flugilaj anĝeloj. Vidu Jesaja 6:2-6.
+
+seksa malĉasteco: La termino "seksa malĉasteco" en la Nova Testamento devenas de la greka "porneia," kiu rilatas al ajna seksa agado krom tiu inter edzo kaj edzino. Alivorte, prostituado (vira aŭ ina), bestialeco, samseksema agado, ajna seksa kunligo ekster geedzeco, kaj la produktado kaj konsumado de pornografio ĉiuj estas inkluzivitaj en ĉi tiu termino.
+
+Ŝekelo: Mezuro de pezo, kaj kiam temas pri tiu pezo en oro, arĝento, aŭ latuno, de mono. Ŝekelo estas proksimume 16 gramoj, ĉirkaŭ duona unco, aŭ 20 geraoj (Ezekiel 45:12).
+
+Ŝeol: Ŝeol estas la loko de la mortintoj. Vidu ankaŭ "Hadeso."
+
+Ŝibah: hebrea por "ĵuro" aŭ "sep." Vidu Beer-Ŝeba.
+
+ŝigionot: venka muziko.
+
+animo: "Animo" rilatas al la emocioj kaj intelekto de vivanta persono, same kiel al la vivo de tiu persono. Ĝi estas distingita en la Biblio de la spirito kaj korpo de persono. (1 Tesalonikanoj 5:23, Hebreoj 4:12)
+
+spano: La longo de la pinto de la dikfingro de viro ĝis la pinto de lia eta fingro kiam lia mano estas etendita (ĉirkaŭ duona ulno, aŭ 9 coloj, aŭ 22.8 cm).
+
+spirito: Spirito, spiro, kaj vento ĉiuj devenas de la samaj hebreaj kaj grekaj vortoj. La spirito de persono estas la esenco de la vivo de tiu persono, kiu venas de Dio, kiu estas Spirita estaĵo (Johano 4:24, Genezo 1:2; 2:7). La Biblio distingas inter la spirito, animo, kaj korpo de persono (1 Tesalonikanoj 5:23, Hebreoj 4:12). Iuj estaĵoj povas ekzisti kiel spiritoj sen nepre havi videblan korpon, kiel anĝeloj kaj demonoj (Luko 9:39, 1 Johano 4:1-3).
+
+stadionoj: pluralo por "stadiono," linia mezuro de ĉirkaŭ 184.9 metroj aŭ 606.6 futoj (la longo de la kurejo ĉe Olimpio).
+
+statero: greka arĝenta monero ekvivalenta al kvar atikaj aŭ du aleksandriaj draĥmoj, aŭ juda ŝekelo: ĝuste sufiĉe por kovri la duonan ŝekelan Templan Imposton por du homoj.
+
+tabernaklo: loĝejo aŭ loko de kultado, kutime tendo.
+
+talento: mezuro de pezo aŭ maso de 3000 ŝekeloj.
+
+Tartaro: la greka nomo por submondo por la malvirtaj mortintoj; alia nomo por Geheno aŭ Infero.
+
+terafim: domaj idoloj kiuj eble estis asociitaj kun heredrajtoj al la domaj posedaĵoj.
+
+Jah: mallongigita formo de "Javeo," kiu estas la propra nomo de Dio. Ĉi tiu formo estas uzata foje en la Malnova Testamento, plejparte en la Psalmoj. Vidu "Javeo."
+Javeo: "Javeo" estas la propra nomo de Dio. En la hebrea, la kvar konsonantoj proksimume ekvivalentaj al YHWH estis konsiderataj tro sanktaj por prononci, do la hebrea vorto por "Sinjoro" (Adonai) estis anstataŭigita kiam oni legis ĝin laŭte. Kiam vokalaj punktoj estis aldonitaj al la hebrea Malnova Testamento, la vokalaj punktoj por "Adonai" estis miksitaj kun la konsonantoj por "Javeo," kio, se vi prononcus ĝin laŭlitere kiel skribite, estus prononcita "Jehovah" aŭ "Jehovo." Kiam la Malnova Testamento estis tradukita al la greka, la tradicio de anstataŭigi "Sinjoro" por la propra nomo de Dio daŭris en la traduko de la nomo de Dio al "Sinjoro" (Kurios). Iuj anglaj Biblioj tradukas la propran nomon de Dio al "SINJORO" aŭ "DIO" (kutime kun malgrandaj majuskloj), bazite sur tiu sama tradicio. Ĉi tio povas fariĝi vere konfuziga, ĉar du aliaj vortoj ("Adonai" kaj "Elohim") tradukiĝas al "Sinjoro" kaj "Dio," kaj ili estas foje uzataj kune. La ASV de 1901 (kaj iuj aliaj tradukoj) redonas YHWH kiel "Jehovo." La plej probabla prononco de la propra nomo de Dio estas "Javeo." En la hebrea, la nomo "Javeo" rilatas al la aktiva deklaro "MI ESTAS." Vidu Eliro 3:13-14. Ĉar la hebrea ne havas tempojn, la deklaro "MI ESTAS" ankaŭ povas esti interpretita kiel "MI ESTIS" kaj "MI ESTOS." Komparu Apokalipso 1:8.
+
+Ciono: Ciono estas nomo kiu origine rilatis al unu el la montoj de Jerusalemo. Ĝi fariĝis termino sinonima kun Jerusalemo mem. La termino "Ĉiela Ciono" ankaŭ estas uzata por rilati al la estonta loĝloko de la popolo de Dio.
+
+Ĉi tiu akompana glosaro al la Monda Angla Biblio estas en la Publika Domajno. Vi ne rajtas kopirajti ĝin aŭ postuli aŭtorecon super ĝi, sed vi estas libera uzi, vendi, distribui, aŭ kopii ĝin.
