@@ -609,3 +609,316 @@ Isaak semis en tiu lando kaj rikoltis en la sama jaro centoble pli ol li plantis
 Isaak foriris de tie, starigis tendaron en la valo de Gerar kaj loĝis tie.
 
 Isaak denove fosis la putojn da akvo kiujn oni fosis en la tagoj de Abraham lia patro, ĉar la Filiŝtoj plenigis ilin post la morto de Abraham. Li nomis ilin laŭ la nomoj per kiuj lia patro nomis ilin. La servantoj de Isaak fosis en la valo kaj trovis tie puton kun fluanta akvo. La paŝtistoj de Gerar disputis kun la paŝtistoj de Isaak dirante: “La akvo estas nia.” Tial li nomis la puton Esek, ĉar ili disputis kun li. Ili fosis alian puton kaj ankaŭ pri tio ili disputis. Tial li nomis ĝin Sitna. Li forlasis tiun lokon kaj fosis alian puton. Ili ne disputis pri tiu ĉi puto. Tial li nomis ĝin Reĥobot kaj diris: “Ĉar nun Jave donis spacon por ni kaj ni estos fruktodonaj en la lando.”
+
+Li supreniris de tie al Beerŝeba. Jahve aperis al li en tiu sama nokto, kaj diris: “Mi estas la Dio de via patro Abraham. Ne timu, ĉar Mi estas kun vi, kaj Mi benos vin, kaj multigos vian idaron pro mia servanto Abraham.”
+
+Li konstruis tie altaron, vokis la nomon de Jahve, kaj starigis sian tendon tie. Tie la servantoj de Isaak fosis puton.
+
+Tiam Abimeleh venis al li el Gerar kun sia amiko Ahuzat kaj Fikol, la estro de lia armeo. Isaak diris al ili: “Kial vi venis al mi, ĉar vi malamas min kaj forsendis min de vi?”
+
+Ili diris: “Ni klare vidis, ke Jahve estas kun vi. Ni diris: ‘Estu nun ĵuro inter ni, eĉ inter ni kaj vi, kaj ni faru interligon kun vi, ke vi ne faros al ni malbonon, kiel ni ne tuŝis vin, kaj kiel ni faris al vi nenion krom bono, kaj forsendis vin en paco.’ Nun vi estas la benito de Jahve.”
+
+Li faris por ili festenon, kaj ili manĝis kaj trinkis. Ili leviĝis frumatene, kaj ĵuris unu al la alia. Isaak forsendis ilin, kaj ili foriris de li en paco. En tiu sama tago, la servantoj de Isaak venis kaj rakontis al li pri la puto, kiun ili fosis, kaj diris al li: “Ni trovis akvon.” Li nomis ĝin “Ŝiba”. Tial la nomo de la urbo estas “Beerŝeba” ĝis hodiaŭ.
+
+Kiam Esav estis kvardekjara, li prenis kiel edzinon Juditon, filinon de Beeri la Ĥetido, kaj Basmaton, filinon de Elon la Ĥetido. Ili ĉagrenis la spiriton de Isaak kaj Rebeka.
+
+### Ĉapitro 27
+
+Kiam Isaak maljuniĝis, kaj liaj okuloj fariĝis mallertaj tiel ke li ne povis vidi, li vokis sian pli aĝan filon Esav, kaj diris al li: “Mia filo?”
+
+Li diris al li: “Jen mi estas.”
+
+Li diris: “Vidu nun, mi estas maljuna. Mi ne scias la tagon de mia morto. Nun do, bonvolu preni viajn armilojn, vian sagon kaj vian pafarkon, kaj eliru al la kampo por ĉasi cervon por mi. Faru por mi bongustan manĝaĵon, kiel mi amas, kaj alportu ĝin al mi, por ke mi manĝu kaj mia animo benu vin antaŭ ol mi mortos.”
+
+Rebeka aŭdis kiam Isaak parolis al Esav sia filo. Esav iris al la kampo por ĉasi cervon kaj alporti ĝin. Rebeka parolis al Jakob sia filo, dirante: “Jen mi aŭdis vian patron paroli al Esav via frato, dirante: ‘Alportu al mi cervon kaj faru bongustan manĝaĵon por mi, por ke mi manĝu kaj benu vin antaŭ Jahve antaŭ mia morto.’ Nun do, mia filo, obeu mian voĉon laŭ tio kion mi ordonas al vi. Iru nun al la grego kaj prenu por mi du bonajn junajn kapridojn. Mi faros el ili bongustan manĝaĵon por via patro, kiel li amas. Vi portos ĝin al via patro, por ke li manĝu kaj benu vin antaŭ sia morto.”
+
+Jakob diris al Rebeka sia patrino: “Jen Esav mia frato estas harplena viro, kaj mi estas glat-haŭta viro. Kio se mia patro tuŝos min? Mi ŝajnos al li trompisto, kaj mi ricevos malbenon sur min anstataŭ benon.”
+
+Lia patrino diris al li: “Via malbeno estu sur mi, mia filo. Nur obeu mian voĉon kaj iru preni ilin por mi.”
+
+Li iris kaj prenis ilin, kaj alportis ilin al sia patrino. Lia patrino faris bongustan manĝaĵon, kiel lia patro amis. Rebeka prenis la bonajn vestojn de Esav sia pli aĝa filo, kiuj estis kun ŝi en la domo, kaj metis ilin sur Jakob sian pli junan filon. Ŝi metis la haŭtojn de la junaj kapridoj sur liajn manojn kaj sur la glatan parton de lia kolo. Ŝi donis la bongustan manĝaĵon kaj la panon, kiujn ŝi preparis, en la manojn de sia filo Jakob.
+
+Li venis al sia patro kaj diris: “Mia patro?”
+
+Li diris: “Jen mi estas. Kiu vi estas, mia filo?”
+
+Jakob diris al sia patro: “Mi estas Esav via unuenaskito. Mi faris tion kion vi petis min fari. Bonvolu leviĝi, sidiĝi kaj manĝi el mia cervo-viando, por ke via animo benu min.”
+
+Isaak diris al sia filo: “Kiel eblas ke vi trovis ĝin tiel rapide, mia filo?”
+
+Li diris: “Ĉar Jahve via Dio donis al mi sukceson.”
+
+Isaak diris al Jakob: “Bonvolu veni pli proksimen, por ke mi povu tuŝi vin, mia filo, ĉu vi vere estas mia filo Esav aŭ ne.”
+
+Jakob venis pli proksimen al Isaak sia patro. Li tuŝis lin kaj diris: “La voĉo estas voĉo de Jakob, sed la manoj estas manoj de Esav.” Li ne rekonis lin ĉar liaj manoj estis harplenaj kiel la manoj de lia frato Esav. Tiel li benis lin. Li diris: “Ĉu vi vere estas mia filo Esav?”
+
+Li diris, "Mi estas."
+
+Li diris, "Alportu ĝin proksimen al mi, kaj mi manĝos el la ĉasaĵo de mia filo, por ke mia animo benu vin."
+
+Li alportis ĝin proksimen al li, kaj li manĝis. Li alportis al li vinon, kaj li trinkis. Lia patro Isaak diris al li, "Venu nun proksimen, kaj kisu min, mia filo." Li venis proksimen kaj kisis lin. Li flaris la odoron de liaj vestoj, kaj benis lin, dirante:
+
+"Jen, la odoro de mia filo  
+estas kiel la odoro de kampo, kiun la Eternulo benis.  
+
+Dio donu al vi la roson de la ĉielo,  
+la grasecon de la tero,  
+kaj abundon da greno kaj nova vino.  
+
+Popoloj servu vin,  
+kaj nacioj klinu sin antaŭ vi.  
+
+Estu sinjoro super viaj fratoj.  
+La filoj de via patrino klinu sin antaŭ vi.  
+
+Malbenita estu ĉiu, kiu malbenas vin.  
+Benita estu ĉiu, kiu benas vin."
+
+Kiam Isaak finis beni Jakobon, kaj Jakobo ĵus foriris el la ĉeesto de sia patro Isaak, Esav, lia frato, venis el sia ĉasado. Li ankaŭ preparis bongustan manĝaĵon kaj alportis ĝin al sia patro. Li diris al sia patro, "Leviĝu, mia patro, kaj manĝu el la ĉasaĵo de via filo, por ke via animo benu min."
+
+Lia patro Isaak diris al li, "Kiu vi estas?"
+
+Li diris, "Mi estas via filo, via unuenaskito, Esav."
+
+Isaak forte ektremis kaj diris, "Kiu do estas tiu, kiu kaptis ĉasaĵon kaj alportis ĝin al mi? Mi manĝis el ĉio antaŭ ol vi venis, kaj mi benis lin. Jes, li estos benita."
+
+Kiam Esav aŭdis la vortojn de sia patro, li ekkriis per tre granda kaj amara krio kaj diris al sia patro, "Benu min ankaŭ, eĉ min, mia patro."
+
+Li diris, "Via frato venis per trompo kaj forprenis vian benon."
+
+Li diris, "Ĉu ne prave li nomiĝas Jakobo? Ĉar li dufoje trompis min. Li forprenis mian unuenaskitecon. Vidu nun, li forprenis mian benon." Li diris, "Ĉu vi ne rezervis benon por mi?"
+
+Isaak respondis al Esav: "Jen mi faris lin via sinjoro, kaj ĉiujn liajn fratojn mi donis al li kiel servantojn. Mi subtenis lin per greno kaj nova vino. Kion do mi faros por vi, mia filo?"
+
+Esav diris al sia patro: "Ĉu vi havas nur unu benon, mia patro? Benu min ankaŭ, eĉ min, mia patro." Esav levis sian voĉon kaj ploris.
+
+Isaak lia patro respondis al li:
+
+"Jen via loĝejo estos en la graseco de la tero  
+kaj en la roso de la ĉielo supre.  
+
+Vi vivos per via glavo kaj servos vian fraton.  
+Okazos tamen, kiam vi liberiĝos,  
+ke vi forĵetos lian jugon de sur via kolo."
+
+Esav malamis Jakobon pro la beno per kiu lia patro benis lin. Esav diris en sia koro: "La tagoj de funebro por mia patro estas proksimaj. Tiam mi mortigos mian fraton Jakobon."
+
+La vortoj de Esav, ŝia pli aĝa filo, estis raportitaj al Rebeka. Ŝi sendis kaj vokis Jakobon, sian pli junan filon, kaj diris al li: "Jen via frato Esav konsolas sin pri vi per plano mortigi vin. Nun do, mia filo, obeu mian voĉon. Leviĝu, forkuru al Laban, mia frato en Haran. Restu kun li kelkajn tagojn ĝis la kolero de via frato forpasos—ĝis la kolero de via frato forpasos for de vi kaj li forgesos tion, kion vi faris al li. Tiam mi sendos por repreni vin de tie. Kial mi estu senigita je vi ambaŭ en unu tago?"
+
+Rebeka diris al Isaak: "Mi estas laca de mia vivo pro la filinoj de Het. Se Jakobo prenos edzinon el la filinoj de Het, kiel ĉi tiuj el la filinoj de la lando, kio utilos mia vivo al mi?"
+
+### Ĉapitro 28
+
+Isaak vokis Jakobon, benis lin kaj ordonis lin: "Vi ne prenu edzinon el la filinoj de Kanaano. Leviĝu, iru al Padan-Aram, al la domo de Betuel, la patro de via patrino. Prenu edzinon tie el la filinoj de Laban, la frato de via patrino. Dio Ĉiopova benu vin kaj igu vin fruktodona kaj multobligita, por ke vi fariĝu komunumo de popoloj kaj donu al vi la benon de Abrahamo—al vi kaj al via idaro kun vi—por ke vi heredu la landon kie vi loĝas kiel fremdulo—tiun kiun Dio donis al Abrahamo."
+
+Isaak sendis Jakobon foren. Li iris al Padan-Aram al Laban, filo de Betuel la Siriano, la frato de Rebeka—la patrino de Jakobo kaj Esav.
+
+Nun Esav vidis ke Isaak benis Jakobon kaj sendis lin foren al Padan-Aram por preni edzinon tie; kaj dum li benis lin li donis ordonon dirante: "Vi ne prenu edzinon el la filinoj de Kanaano;" kaj ke Jakobo obeis sian patron kaj sian patrinon kaj iris al Padan-Aram. Esav vidis ke la filinoj de Kanaano ne plaĉas al Isaak lia patro. Do Esav iris al Iŝmael kaj prenis (aldone al la edzinoj kiujn li jam havis) Mahalaton filinon de Iŝmael—filo de Abrahamo—la fratino de Nebajot kiel sian edzinon.
+
+Jakobo foriris el Beerŝeba kaj iris al Harano. Li venis al certa loko kaj restis tie dum la tuta nokto, ĉar la suno subiris. Li prenis unu el la ŝtonoj de la loko, metis ĝin sub sian kapon, kaj kuŝiĝis en tiu loko por dormi. Li sonĝis kaj vidis ŝtuparon starigitan sur la tero, kies supro atingis la ĉielon. Jen, la anĝeloj de Dio supreniris kaj malsupreniris sur ĝi. Jen, Jahve staris super ĝi kaj diris: “Mi estas Jahve, la Dio de via patro Abraham kaj la Dio de Isaak. Mi donos al vi kaj al via idaro la teron, sur kiu vi kuŝas. Via idaro estos kiel la polvo de la tero, kaj vi disvastiĝos okcidenten, orienten, norden kaj suden. En vi kaj en via idaro ĉiuj familioj de la tero estos benitaj. Jen, Mi estas kun vi kaj gardos vin, kien ajn vi iros, kaj Mi revenigos vin al ĉi tiu lando. Ĉar Mi ne forlasos vin ĝis Mi plenumos tion, kion Mi promesis al vi.”
+
+Jakobo vekiĝis el sia dormo kaj diris: “Certe Jahve estas en ĉi tiu loko, kaj mi ne sciis tion.” Li timis kaj diris: “Kiel timinda estas ĉi tiu loko! Ĉi tio estas nenio alia ol la domo de Dio, kaj ĉi tio estas la pordego de la ĉielo.”
+
+Jakobo leviĝis frue matene, prenis la ŝtonon, kiun li metis sub sian kapon, starigis ĝin kiel kolonon kaj verŝis oleon sur ĝian supron. Li nomis tiun lokon Betel, sed antaŭe la nomo de la urbo estis Luz. Jakobo faris promeson, dirante: “Se Dio estos kun mi kaj gardos min sur ĉi tiu vojo, kiun mi iras, kaj donos al mi panon por manĝi kaj vestojn por surmeti, tiel ke mi revenos en paco al la domo de mia patro, tiam Jahve estos mia Dio. Kaj ĉi tiu ŝtono, kiun mi starigis kiel kolonon, estos la domo de Dio. El ĉio, kion Vi donos al mi, mi certe donos dekonaĵon al Vi.”
+
+### Ĉapitro 29
+
+Tiam Jakobo daŭrigis sian vojaĝon kaj venis al la lando de la orientaj popoloj. Li rigardis kaj vidis puton en la kampo, kaj tri gregarojn da ŝafoj kuŝantajn apud ĝi. Ĉar el tiu puto oni akvumis la gregojn. La ŝtono sur la buŝo de la puto estis granda. Tie ĉiuj gregoj kolektiĝis. Ili rulis la ŝtonon de la buŝo de la puto, akvumis la ŝafojn kaj remetis la ŝtonon sur ĝian lokon super la buŝo de la puto. Jakobo diris al ili: “Miaj parencoj, de kie vi estas?”
+
+Ili diris: “Ni estas el Harano.”
+
+Li diris al ili: “Ĉu vi konas Labanon, la filon de Nahor?”
+
+Ili diris: “Ni konas lin.”
+
+Li diris al ili: “Ĉu li fartas bone?”
+
+Ili diris: “Li fartas bone. Jen Rachel, lia filino, venas kun la ŝafoj.”
+
+Li diris: “Jen ankoraŭ estas mezo de la tago; ne estas tempo kolekti la brutojn. Akvumu la ŝafojn kaj iru paŝtigi ilin.”
+
+Ili diris: “Ni ne povas ĝis ĉiuj gregoj kolektiĝos kaj oni rulos la ŝtonon de la buŝo de la puto. Tiam ni akvumos la ŝafojn.”
+
+Dum li ankoraŭ parolis kun ili, Rachel venis kun la ŝafoj de sia patro, ĉar ŝi paŝtis ilin. Kiam Jakobo vidis Rachelon, la filinon de Labano, sia patrina frato, kaj la ŝafojn de Labano, sia patrina frato, Jakobo proksimiĝis kaj rulis la ŝtonon de la buŝo de la puto kaj akvumis la gregojn de Labano, sia patrina frato. Jakobo kisis Rachelon kaj levis sian voĉon kaj ploris. Jakobo rakontis al Rachel ke li estas parenco de ŝia patro kaj ke li estas filo de Rebeka. Ŝi kuris kaj rakontis al sia patro.
+
+Kiam Labano aŭdis pri Jakobo, sia fratino filo, li kuris renkonte al Jakobo, brakumis lin, kisis lin kaj kondukis lin en sian domon. Jakobo rakontis al Labano ĉion ĉi tion. Labano diris al li: “Certe vi estas mia osto kaj mia karno.” Jakobo restis kun li dum unu monato. Labano diris al Jakobo: “Ĉar vi estas mia parenco, ĉu vi servu min senpage? Diru al mi: kio estos viaj salajroj?”
+
+Labano havis du filinojn. La nomo de la pli aĝa estis Lea, kaj la nomo de la pli juna estis Rachel. La okuloj de Lea estis malfortaj, sed Rachel estis bela laŭ formo kaj alloga. Jakobo amis Rachelon. Li diris: “Mi servos vin sep jarojn por Rachel, via pli juna filino.”
+
+Labano diris: “Estas pli bone ke mi donu ŝin al vi ol ke mi donu ŝin al alia viro. Restu kun mi.”
+
+Jakobo servis sep jarojn por Raĥel. Ili ŝajnis al li nur kelkaj tagoj, pro la amo, kiun li havis por ŝi.
+
+Jakobo diris al Laban: “Donu al mi mian edzinon, ĉar miaj tagoj estas plenumitaj, por ke mi iru al ŝi.”
+
+Laban kunvenigis ĉiujn virojn de la loko kaj faris festenon. Vespere li prenis sian filinon Lea kaj alportis ŝin al Jakobo. Li iris al ŝi. Laban donis sian servistinon Zilpa al sia filino Lea kiel servistinon. Matene, jen, estis Lea! Jakobo diris al Laban: “Kion vi faris al mi? Ĉu mi ne servis por Raĥel? Kial do vi trompis min?”
+
+Laban diris: “En nia loko oni ne faras tiel, ke oni donu la pli junan antaŭ la unuenaskitan. Plenumu la semajnon de ĉi tiu, kaj ni donos al vi ankaŭ la alian kontraŭ la servo, kiun vi servos kun mi dum sep pliaj jaroj.”
+
+Jakobo tion faris kaj plenumis ŝian semajnon. Laban donis al li sian filinon Raĥel kiel edzinon. Laban donis sian servistinon Bilha al sia filino Raĥel kiel servistinon. Jakobo iris ankaŭ al Raĥel, kaj li amis Raĥel pli ol Lea, kaj servis kun Laban sep pliajn jarojn.
+
+Jahve vidis, ke Lea estis malamata, kaj li malfermis ŝian uteron, sed Raĥel estis senfrukta. Lea gravediĝis kaj naskis filon, kaj ŝi nomis lin Ruben, ĉar ŝi diris: “Ĉar Jahve rigardis mian suferon; nun mia edzo amos min.” Ŝi denove gravediĝis kaj naskis filon, kaj diris: “Ĉar Jahve aŭdis, ke mi estas malamata, li donis al mi ankaŭ ĉi tiun filon.” Ŝi nomis lin Simeon. Ŝi denove gravediĝis kaj naskis filon. Ŝi diris: “Ĉi-foje mia edzo aliĝos al mi, ĉar mi naskis al li tri filojn.” Tial lia nomo estis Levi. Ŝi denove gravediĝis kaj naskis filon. Ŝi diris: “Ĉi-foje mi laŭdos Jahve.” Tial ŝi nomis lin Jehuda. Poste ŝi ĉesis naski.
+
+### Ĉapitro 30
+
+Kiam Raĥel vidis, ke ŝi ne naskas infanojn al Jakobo, ŝi enviis sian fratinon. Ŝi diris al Jakobo: “Donu al mi infanojn, aŭ mi mortos.”
+
+La kolero de Jakobo ekbrulis kontraŭ Raĥel, kaj li diris: “Ĉu mi estas en la loko de Dio, kiu retenis de vi la frukton de la utero?”
+
+Ŝi diris: “Jen mia servistino Bilha. Iru al ŝi, por ke ŝi nasku sur miaj genuoj, kaj ankaŭ mi havu infanojn per ŝi.” Ŝi donis al li sian servistinon Bilha kiel edzinon, kaj Jakobo iris al ŝi. Bilha gravediĝis kaj naskis filon al Jakobo. Raĥel diris: “Dio juĝis min kaj ankaŭ aŭdis mian voĉon kaj donis al mi filon.” Tial ŝi nomis lin Dan. Bilha, la servistino de Raĥel, denove gravediĝis kaj naskis duan filon al Jakobo. Raĥel diris: “Mi luktis kun mia fratino per grandaj luktoj kaj venkis.” Ŝi nomis lin Naftali.
+
+Kiam Lea vidis, ke ŝi ĉesis naski, ŝi prenis sian servistinon Zilpa kaj donis ŝin al Jakobo kiel edzinon. Zilpa, la servistino de Lea, naskis filon al Jakobo. Lea diris: “Kiel bonŝance!” Ŝi nomis lin Gad. Zilpa denove naskis duan filon al Jakobo. Lea diris: “Feliĉa mi estas, ĉar la filinoj nomos min feliĉa.” Ŝi nomis lin Aŝer.
+
+Ruben iris en la tagoj de tritikrikolto kaj trovis mandragojn en la kampo kaj portis ilin al sia patrino Lea. Tiam Raĥel diris al Lea: “Bonvolu doni al mi iom el la mandragoj de via filo.”
+
+Lea diris al ŝi: “Ĉu estas malgranda afero, ke vi prenis mian edzon? Ĉu vi ankaŭ prenos la mandragojn de mia filo?”
+
+Raĥel diris: “Tial li kuŝos kun vi ĉi-nokte kontraŭ la mandragoj de via filo.”
+
+Jakobo venis el la kampo vespere, kaj Lea eliris renkonte al li kaj diris: “Vi devas veni al mi; ĉar mi certe dungis vin per la mandragoj de mia filo.”
+
+Li kuŝis kun ŝi tiun nokton. Dio aŭskultis Lean, kaj ŝi gravediĝis kaj naskis kvinan filon al Jakobo. Lea diris: “Dio donis al mi mian salajron, ĉar mi donis mian servistinon al mia edzo.” Ŝi nomis lin Isaĥar. Lea denove gravediĝis kaj naskis sesan filon al Jakobo. Lea diris: “Dio dotigis min per bona doto. Nun mia edzo loĝos kun mi, ĉar mi naskis al li ses filojn.” Ŝi nomis lin Zebulun. Poste ŝi naskis filinon kaj nomis ŝin Dina.
+
+Dio memoris Raĥel, kaj Dio aŭskultis ŝin kaj malfermis ŝian uteron. Ŝi gravediĝis, naskis filon kaj diris: “Dio forprenis mian malhonoron.” Ŝi nomis lin Jozef, dirante: “Jahve aldoniĝu alian filon al mi.”
+
+Kiam Raĥel naskis Jozefon, Jakob diris al Laban: “Sendu min for, por ke mi iru al mia propra loko kaj al mia lando. Donu al mi miajn edzinojn kaj miajn infanojn, por kiuj mi servis vin, kaj lasu min iri; ĉar vi scias mian servadon, per kiu mi servis vin.”
+
+Laban diris al li: “Se mi nun trovis favoron en viaj okuloj, restu ĉi tie, ĉar mi divenis, ke Javeo benis min pro vi.” Li diris: “Nomu al mi vian salajron, kaj mi donos ĝin.”
+
+Jakob diris al li: “Vi scias, kiel mi servis vin, kaj kiel viaj brutoj prosperis kun mi. Ĉar malmulte vi havis antaŭ ol mi venis, kaj ĝi kreskis al granda multo. Javeo benis vin kien ajn mi turniĝis. Nun kiam mi ankaŭ zorgos pri mia propra domo?”
+
+Laban diris: “Kion mi donu al vi?”
+
+Jakob diris: “Vi ne donos al mi ion ajn. Se vi faros ĉi tiun aferon por mi, mi denove paŝtos viajn ŝafojn kaj zorgos pri ili. Mi trairu hodiaŭ ĉiujn viajn ŝafojn, forigante de tie ĉiun makulitan kaj makulecan, kaj ĉiun nigran inter la ŝafoj, kaj la makulecajn kaj makulitajn inter la kaproj. Tio estos mia salajro. Tiel mia justeco respondos por mi poste, kiam vi venos kontroli mian salajron antaŭ vi. Ĉiu, kiu ne estas makulita kaj makuleca inter la kaproj, kaj nigra inter la ŝafoj, kiu eble estos kun mi, estos konsiderata ŝtelita.”
+
+Laban diris: “Jen, estu laŭ via vorto.”
+
+Tiu tago li forigis la virajn kaprojn, kiuj estis striitaj kaj makulecaj, kaj ĉiujn inajn kaprojn, kiuj estis makulitaj kaj makulecaj, ĉiun kiu havis blankon en si, kaj ĉiujn nigrajn inter la ŝafoj, kaj donis ilin en la manojn de siaj filoj. Li starigis distancon de tri tagoj inter si kaj Jakob, kaj Jakob paŝtis la reston de la ŝafoj de Laban.
+
+Jakob prenis al si bastonojn el freŝa poplo, migdalarbo kaj platano, senŝeligis blankajn striojn en ili, kaj elmontris la blankon en la bastonoj. Li metis la bastonojn, kiujn li senŝeligis, kontraŭ la ŝafojn en la trinkujon ĉe la akvotruoj, kie la ŝafoj venis trinki. Ili pariĝis kiam ili venis trinki. La ŝafoj pariĝis antaŭ la bastonoj, kaj la ŝafoj naskis striitajn, makulitajn kaj makulecajn idojn. Jakob apartigis la ŝafidojn kaj turnis la vizaĝojn de la ŝafoj al la striitaj kaj ĉiuj nigraj en la ŝafoj de Laban. Li apartigis siajn proprajn gregojn kaj ne metis ilin kun la ŝafoj de Laban. Kiam ajn la pli fortaj el la ŝafoj pariĝis, Jakob metis la bastonojn antaŭ la okulojn de la ŝafoj en la trinkujon, por ke ili pariĝu antaŭ la bastonoj; sed kiam la ŝafoj estis malfortaj, li ne metis ilin tie. Tiel la malfortuloj estis de Laban, kaj la pli fortaj estis de Jakob. La viro tre riĉiĝis kaj havis grandajn gregojn, inajn servistinojn kaj virservistojn, kamelojn kaj azenojn.
+
+### Ĉapitro 31
+
+Jakob aŭdis la vortojn de la filoj de Laban dirantajn: “Jakob forprenis ĉion, kio apartenis al nia patro. Li akiris ĉi tiun tutan riĉecon el tio, kio apartenis al nia patro.” Jakob vidis la esprimon sur la vizaĝo de Laban, kaj jen ĝi ne estis al li kiel antaŭe. Javeo diris al Jakob: “Reiru al la lando de viaj patroj kaj al viaj parencoj, kaj Mi estos kun vi.”
+
+Jakob sendis kaj vokis Raĥelon kaj Lean al la kampo al sia grego, kaj diris al ili: “Mi vidas la esprimon sur via patro vizaĝo, ke ĝi ne estas al mi kiel antaŭe; sed la Dio de mia patro estis kun mi. Vi scias, ke mi servis vian patron per mia tuta forto. Via patro trompis min kaj ŝanĝis mian salajron dek fojojn; sed Dio ne permesis lin vundi min. Se li diris: ‘La makulitaj estos via salajro,’ tiam ĉiuj ŝafoj naskis makulitajn; se li diris: ‘La striitaj estos via salajro,’ tiam ĉiuj ŝafoj naskis striitajn. Tiel Dio forprenis de via patro liajn brutojn kaj donis ilin al mi. Dum pariĝsezono mi levis miajn okulojn kaj vidis en sonĝo jen: la virkaproj kiuj saltas sur la ŝafojn estis striitaj, makulitaj kaj grizaj. La anĝelo de Dio diris al mi en sonĝo: ‘Jakob,’ kaj mi diris: ‘Jen mi.’ Li diris: ‘Nun levas viajn okulojn kaj rigardu: ĉiuj virkaproj kiuj saltas sur la ŝafojn estas striitaj, makulitaj kaj grizaj; ĉar Mi vidis ĉion kion Laban faras al vi. Mi estas la Dio de Betel, kie vi sanktoleis kolonon, kie vi faris promeson al Mi. Nun leviĝu, eliru el ĉi tiu lando kaj revenu al la lando de via naskiĝo.’”
+
+Raĥel kaj Lea respondis al li: “Ĉu restas al ni ankoraŭ parto aŭ heredaĵo en la domo de nia patro? Ĉu ni ne estas konsiderataj fremdulinoj de li? Ĉar li vendis nin, kaj ankaŭ foruzis nian monon. Ĉiuj la riĉaĵoj, kiujn Dio forprenis de nia patro, apartenas al ni kaj al niaj infanoj. Nun do, kion ajn Dio diris al vi, faru tion.”
+
+Tiam Jakob leviĝis, kaj metis siajn filojn kaj siajn edzinojn sur la kamelojn, kaj li forprenis ĉiujn siajn brutojn kaj ĉiujn siajn havaĵojn, kiujn li kolektis, inkluzive la brutojn, kiujn li akiris en Padan-Aram, por iri al sia patro Isaak, al la lando Kanaano. Nun Laban estis foririnta por tondi siajn ŝafojn; kaj Raĥel ŝtelis la terafimojn, kiuj apartenis al ŝia patro.
+
+Jakob trompis Labanon la Sirianon, ĉar li ne diris al li, ke li forkuris. Do li forkuris kun ĉio, kion li havis. Li leviĝis, transiris la Riveron, kaj direktis sian vizaĝon al la monto Gilead.
+
+Laban estis informita en la tria tago, ke Jakob forkuris. Li prenis siajn parencojn kun si kaj persekutis lin dum sep tagoj da vojaĝo. Li atingis lin en la monto Gilead. Dio venis al Laban la Siriano en sonĝo dum la nokto kaj diris al li: “Gardu vin, ke vi ne parolu al Jakob nek bonon nek malbonon.”
+
+Laban atingis Jakobon. Nun Jakob starigis sian tendon sur la monto, kaj Laban kun siaj parencoj starigis tendaron sur la monto Gilead. Laban diris al Jakob: “Kion vi faris, ke vi trompis min kaj forportis miajn filinojn kiel kaptitinojn per glavo? Kial vi forkuris sekrete kaj trompis min, kaj ne diris al mi, por ke mi povu sendi vin for kun ĝojo kaj kun kantoj, kun tamburino kaj harpo; kaj ne permesis al mi kisi miajn filojn kaj miajn filinojn? Vi agis malsaĝe. Estas en mia povo vundi vin, sed la Dio de via patro parolis al mi pasintan nokton, dirante: ‘Gardu vin, ke vi ne parolu al Jakob nek bonon nek malbonon.’ Nun vi volas foriri, ĉar vi forte sopiris al la domo de via patro, sed kial vi ŝtelis miajn diojn?”
+
+Jakob respondis al Laban: “Ĉar mi timis; mi pensis: ‘Eble vi forprenos viajn filinojn de mi perforte.’ Ĉiu, ĉe kiu vi trovos viajn diojn, ne vivos. Antaŭ niaj parencoj esploru, kio estas via ĉe mi, kaj prenu ĝin.” Ĉar Jakob ne sciis, ke Raĥel ŝtelis ilin.
+
+Laban eniris en la tendon de Jakob, en la tendon de Lea, kaj en la tendon de la du servantinoj; sed li ne trovis ilin. Li eliris el la tendo de Lea kaj eniris en la tendon de Raĥel. Nun Raĥel prenis la terafimojn, metis ilin en la selo de kamelo kaj sidis sur ili. Laban palpis ĉirkaŭ la tuta tendo sed ne trovis ilin. Ŝi diris al sia patro: “Ne koleru mia sinjoro, ke mi ne povas leviĝi antaŭ vi; ĉar mi havas mian menstruon.” Li serĉis sed ne trovis la terafimojn.
+
+Jakob koleris kaj disputis kun Laban. Jakob respondis al Laban: “Kio estas mia krimo? Kio estas mia peko, ke vi tiel furioze persekutis min? Nun kiam vi palpis ĉion mian, kion vi trovis el ĉiuj viaj havaĵoj? Metu ĝin ĉi tie antaŭ miaj parencoj kaj viaj parencoj, por ke ili juĝu inter ni du.
+
+“Dudek jarojn mi estis kun vi. Viaj ŝafinoj kaj viaj kaprinoj ne abortigis siajn idojn, kaj mi ne manĝis la virŝafojn de viaj gregoj. Tion, kion sovaĝaj bestoj disŝiris, mi ne alportis al vi; mi mem portis la perdon. De mia mano vi postulis ĝin, ĉu ĝi estis ŝtelita tage aŭ nokte. Tia estis mia situacio: dumtage sekeco konsumadis min, kaj frostoj nokte; kaj mia dormo forflugis de miaj okuloj. Dudek jarojn mi estis en via domo. Mi servis vin dek kvar jarojn por viaj du filinoj kaj ses jarojn por viaj gregoj; kaj vi ŝanĝis mian salajron dek fojojn. Se la Dio de mia patro, la Dio de Abraham kaj la timo de Isaak ne estus kun mi, certe nun vi estus sendinta min for malplena. Dio vidis mian suferadon kaj la laboron de miaj manoj kaj riproĉis vin pasintan nokton.”
+
+Laban respondis al Jakob: “La filinoj estas miaj filinoj, la infanoj estas miaj infanoj, la gregoj estas miaj gregoj, kaj ĉio kion vi vidas estas mia! Kion mi povas fari hodiaŭ al ĉi tiuj miaj filinoj aŭ al iliaj infanoj, kiujn ili naskis? Nun venu, ni faru interligon, vi kaj mi. Ĝi estu atesto inter mi kaj vi.”
+
+Jakobo prenis ŝtonon kaj starigis ĝin kiel kolonon. Jakobo diris al siaj parencoj: “Kolektu ŝtonojn.” Ili prenis ŝtonojn kaj faris monteton. Ili manĝis tie apud la monteto. Laban nomis ĝin Jegar-Sahaduta, sed Jakobo nomis ĝin Galeed. Laban diris: “Ĉi tiu monteto estas atestanto inter mi kaj vi hodiaŭ.” Tial ĝi estis nomita Galeed kaj Mizpa, ĉar li diris: “Jahve gardu inter mi kaj vi, kiam ni estos for unu de la alia. Se vi turmentos miajn filinojn, aŭ se vi prenos edzinojn krom miaj filinoj, neniu homo estos kun ni; jen, Dio estas atestanto inter mi kaj vi.” Laban diris al Jakobo: “Rigardu ĉi tiun monteton, kaj rigardu la kolonon, kiun mi starigis inter mi kaj vi. Ĉi tiu monteto estu atestanto, kaj la kolono estu atestanto, ke mi ne transiros ĉi tiun monteton al vi, kaj ke vi ne transiros ĉi tiun monteton kaj ĉi tiun kolonon al mi por malbono. La Dio de Abraham, kaj la Dio de Nahor, la Dio de ilia patro, juĝu inter ni.” Tiam Jakobo ĵuris per la timo de sia patro Isaak. Jakobo oferbuĉis en la monto kaj vokis siajn parencojn por manĝi panon. Ili manĝis panon kaj restis la tutan nokton en la monto. Frue matene Laban leviĝis, kisis siajn filojn kaj siajn filinojn, kaj benis ilin. Laban foriris kaj revenis al sia loko.
+
+### Ĉapitro 32
+
+Jakobo daŭrigis sian vojon, kaj la anĝeloj de Dio renkontis lin. Kiam li vidis ilin, Jakobo diris: “Ĉi tio estas la armeo de Dio.” Li nomis tiun lokon Mahanaim.
+
+Jakobo sendis mesaĝistojn antaŭ si al Esav, sia frato, al la lando de Seir, la kampo de Edom. Li ordonis al ili, dirante: “Tion vi diros al mia sinjoro Esav: ‘Tion diras via servanto Jakobo: Mi loĝis kiel fremdulo kun Laban kaj restis ĝis nun. Mi havas brutojn, azenojn, ŝafojn, servistojn kaj servantinojn. Mi sendas por informi mian sinjoron, por ke mi trovu favoron antaŭ viaj okuloj.’” La mesaĝistoj revenis al Jakobo, dirante: “Ni iris al via frato Esav. Li venas renkonte al vi, kaj kvarcent viroj estas kun li.” Tiam Jakobo tre timis kaj maltrankviliĝis. Li dividis la homojn kun li, kune kun la ŝafoj, brutoj kaj kameloj, en du grupojn. Li diris: “Se Esav venos al unu grupo kaj atakos ĝin, tiam la alia grupo povos eskapi.” Jakobo diris: “Dio de mia patro Abraham, kaj Dio de mia patro Isaak, Jahve, kiu diris al mi: ‘Revenu al via lando kaj al viaj parencoj, kaj mi faros al vi bonon,’ mi ne meritas eĉ la plej malgrandan el ĉiuj viaj bonfaroj kaj el ĉiu vero, kiun vi montris al via servanto; ĉar kun nur mia bastono mi transiris ĉi tiun Jordanon; kaj nun mi fariĝis du grupoj. Bonvolu savi min el la mano de mia frato, el la mano de Esav; ĉar mi timas lin, ke li povus veni kaj ataki min kaj la patrinojn kun la infanoj. Vi diris: ‘Mi certe faros al vi bonon kaj multigos vian idaron kiel la sablo de la maro, kiu ne povas esti kalkulita pro ĝia multo.’”
+
+Li restis tie tiun nokton kaj prenis el tio, kion li havis kun si, donacon por Esav, sia frato: ducent kaprinojn kaj dudek kaprojn, ducent ŝafinojn kaj dudek virŝafojn, tridek lakto-kamelojn kun iliaj idoj, kvardek bovinojn, dek virbovojn, dudek azeninojn kaj dek azenidojn. Li transdonis ilin en la manojn de siaj servantoj, ĉiun gregon aparte, kaj diris al siaj servantoj: “Iru antaŭ mi kaj lasu spacon inter grego kaj grego.” Li ordonis al la unua, dirante: “Kiam Esav, mia frato, renkontos vin kaj demandos vin: ‘Kies vi estas? Kien vi iras? Kies estas ĉi tiuj antaŭ vi?’ tiam vi diros: ‘Ili apartenas al via servanto Jakobo. Ĝi estas donaco sendita al mia sinjoro Esav. Jen ankaŭ li estas malantaŭ ni.’” Li ankaŭ ordonis al la dua kaj al la tria kaj al ĉiuj sekvantaj la gregojn, dirante: “Tiel vi parolos al Esav kiam vi trovos lin. Vi diros ankaŭ: ‘Jen via servanto Jakobo estas malantaŭ ni.’” Ĉar li pensis: “Mi trankviligos lin per la donaco kiu iras antaŭ mi; poste mi vidos lian vizaĝon. Eble li akceptos min.”
+
+Do la donaco iris antaŭ li, kaj li mem restis tiun nokton en la tendaro.
+
+### Ĉapitro 32
+
+Li leviĝis tiun nokton, kaj prenis siajn du edzinojn, siajn du servantinojn, kaj siajn dek unu filojn, kaj transiris la vadon de la Jabok. Li prenis ilin, kaj sendis ilin trans la riveron, kaj ankaŭ sendis tion, kion li havis. Jakob restis sola, kaj luktis tie kun viro ĝis la tagiĝo. Kiam li vidis, ke li ne superfortas lin, la viro tuŝis la kavaĵon de lia femuro, kaj la kavaĵo de la femuro de Jakob estis elartikigita dum li luktis. La viro diris: "Lasu min iri, ĉar la tago ekrompiĝas."
+
+Jakob diris: "Mi ne lasos vin iri, krom se vi benos min."
+
+Li diris al li: "Kio estas via nomo?"
+
+Li diris: "Jakob."
+
+Li diris: "Via nomo ne plu estos Jakob, sed Izrael; ĉar vi luktis kun Dio kaj kun homoj, kaj vi venkis."
+
+Jakob demandis lin: "Bonvolu diri al mi vian nomon."
+
+Li diris: "Kial vi demandas mian nomon?" Kaj li benis lin tie.
+
+Jakob nomis la lokon Peniel; ĉar li diris: "Mi vidis Dion vizaĝon kontraŭ vizaĝo, kaj mia vivo estas konservita." La suno leviĝis super li kiam li preterpasis Peniel, kaj li lamis pro sia femuro. Tial la filoj de Izrael ĝis hodiaŭ ne manĝas la tendenon de la kokso, kiu estas sur la kavaĵo de la femuro, ĉar li tuŝis la kavaĵon de la femuro de Jakob ĉe la tendeno de la kokso.
+
+### Ĉapitro 33
+
+Jakob levis siajn okulojn, kaj rigardis, kaj jen Esav venis, kaj kun li kvarcent viroj. Li dividis la infanojn inter Lea, Raĥel, kaj la du servantinoj. Li metis la servantinojn kaj iliajn infanojn antaŭe, Lea kaj ŝiaj infanoj poste, kaj Raĥel kaj Jozefon plej malantaŭe. Li mem iris antaŭ ili, kaj klinis sin al la tero sep fojojn, ĝis li alproksimiĝis al sia frato.
+
+Esav kuris renkonte al li, brakumis lin, falis sur lian kolon, kisis lin, kaj ili ploris. Li levis siajn okulojn, kaj vidis la virinojn kaj la infanojn; kaj diris: "Kiu estas ĉi tiuj kun vi?"
+
+Li diris: "La infanoj, kiujn Dio gracie donis al via servanto." Tiam la servantinoj alproksimiĝis kun siaj infanoj, kaj ili klinis sin. Lea ankaŭ kaj ŝiaj infanoj alproksimiĝis, kaj klinis sin. Poste Jozef alproksimiĝis kun Raĥel, kaj ili klinis sin.
+
+Esav diris: "Kion vi celas per ĉi tiu tuta grupo, kiun mi renkontis?"
+
+Jakob diris: "Por trovi favoron en la okuloj de mia sinjoro."
+
+Esav diris: "Mi havas sufiĉe, mia frato; lasu tion, kion vi havas, esti via."
+
+Jakob diris: "Bonvolu, ne; se mi nun trovis favoron en viaj okuloj, tiam akceptu mian donacon el mia mano, ĉar mi vidis vian vizaĝon kiel oni vidas la vizaĝon de Dio, kaj vi estis kontenta pri mi. Bonvolu preni la donacon, kiun mi alportis al vi, ĉar Dio gracie traktis min, kaj ĉar mi havas sufiĉe." Li insistis pri tio, kaj Esav akceptis ĝin.
+
+Esav diris: "Ni ekvojaĝu kune, kaj mi iros antaŭ vi."
+
+Jakob diris al li: "Mia sinjoro scias, ke la infanoj estas delikataj, kaj ke la ŝafaro kaj brutaro kun mi havas siajn idojn; se oni tro forte pelus ilin unu tagon, ĉiuj brutaro mortos. Bonvolu lasi mian sinjoron iri antaŭ sia servanto, kaj mi sekvos malrapide laŭ la paŝo de la brutaro antaŭ mi kaj laŭ la paŝo de la infanoj, ĝis mi venos al mia sinjoro en Seir."
+
+Esav diris: "Lasu min nun lasi kun vi kelkajn el la homoj kun mi."
+
+Li diris: "Kial? Lasu min trovi favoron en la okuloj de mia sinjoro."
+
+Do Esav revenis tiun tagon sur sian vojon al Seir. Jakob vojaĝis al Sukot, konstruis por si domon, kaj faris ŝirmejojn por sia brutaro. Tial oni nomas tiun lokon Sukot.
+
+Jakob venis en paco al la urbo Ŝeĥem, kiu estas en la lando Kanaano, kiam li venis el Padan-Aram; kaj li starigis sian tendaron antaŭ la urbo. Li aĉetis la parcelon da tero kie li starigis sian tendon el la manoj de la filoj de Hamor, patro de Ŝeĥem, por cent pecoj da mono. Li starigis tie altaron, kaj nomis ĝin El-Elohe-Izrael.
+
+### Ĉapitro 34
+
+Dinah, la filino de Lea, kiun ŝi naskis al Jakob, eliris por vidi la filinojn de la lando. Ŝeĥem, filo de Hamor la Ĥivito, princo de la lando, vidis ŝin. Li prenis ŝin, kuŝiĝis kun ŝi, kaj humiligis ŝin. Lia animo ligiĝis al Dinah, filino de Jakob; li amis la junulinon kaj parolis afable al ŝi. Ŝeĥem parolis al sia patro Hamor dirante: "Prenu por mi ĉi tiun junulinon kiel edzinon."
+
+Nun Jakob aŭdis, ke li malhonoris Dinan, lian filinon; kaj liaj filoj estis kun la brutaro sur la kampo. Jakob silentis ĝis ili venis. Hamor, la patro de Ŝeĥem, iris al Jakob por paroli kun li. La filoj de Jakob venis de la kampo, kiam ili tion aŭdis. La viroj estis ĉagrenitaj kaj tre koleraj, ĉar li faris malnoblaĵon en Izrael, kuŝante kun la filino de Jakob, aferon, kiu ne devas esti farata. Hamor parolis kun ili, dirante: “La animo de mia filo Ŝeĥem sopiras vian filinon. Bonvolu doni ŝin al li kiel edzinon. Faru geedziĝojn kun ni. Donu viajn filinojn al ni, kaj prenu niajn filinojn por vi mem. Vi loĝos kun ni, kaj la lando estos antaŭ vi. Loĝu kaj komercu en ĝi, kaj akiru posedaĵojn en ĝi.”
+
+Ŝeĥem diris al ŝia patro kaj al ŝiaj fratoj: “Permesu al mi trovi favoron en viaj okuloj, kaj kion ajn vi diros al mi, mi donos. Petu de mi grandan doton, kaj mi donos kion ajn vi petos de mi, sed donu al mi la junulinon kiel edzinon.”
+
+La filoj de Jakob respondis al Ŝeĥem kaj Hamor, lia patro, per ruzeco, kiam ili parolis, ĉar li malhonoris ilian fratinon Dinan, kaj diris al ili: “Ni ne povas fari ĉi tiun aferon, doni nian fratinon al iu necirkumcidita; ĉar tio estas malhonoro por ni. Nur sub ĉi tiu kondiĉo ni konsentos al vi: Se vi estos kiel ni estas, ke ĉiu viro inter vi estu cirkumcidita, tiam ni donos niajn filinojn al vi; kaj ni prenos viajn filinojn por ni mem, kaj ni loĝos kun vi, kaj ni fariĝos unu popolo. Sed se vi ne aŭskultos nin kaj ne cirkumcidiĝos, tiam ni prenos nian fratinon kaj foriros.”
+
+Iliaj vortoj plaĉis al Hamor kaj Ŝeĥem, la filo de Hamor. La junulo ne atendis fari ĉi tiun aferon, ĉar li ĝojis pri la filino de Jakob, kaj li estis honorata super ĉiuj en la domo de sia patro. Hamor kaj Ŝeĥem, lia filo, iris al la pordego de sia urbo kaj parolis kun la viroj de sia urbo, dirante: “Ĉi tiuj viroj estas pacemaj kun ni. Tial lasu ilin loĝi en la lando kaj komerci en ĝi. Ĉar jen, la lando estas sufiĉe vasta por ili. Ni prenu iliajn filinojn kiel edzinojn por ni mem, kaj ni donu niajn filinojn al ili. Nur sub ĉi tiu kondiĉo la viroj konsentos loĝi kun ni kaj fariĝi unu popolo kun ni: se ĉiu viro inter ni estos cirkumcidita, kiel ili estas cirkumciditaj. Ĉu iliaj brutoj kaj iliaj posedaĵoj kaj ĉiuj iliaj bestoj ne fariĝos niaj? Nur konsentu al ili, kaj ili loĝos kun ni.”
+
+Ĉiuj, kiuj eliris tra la pordego de sia urbo, aŭskultis Hamoron kaj Ŝeĥemon, lian filon; kaj ĉiu viro estis cirkumcidita, ĉiuj kiuj eliris tra la pordego de sia urbo. En la tria tago, kiam ili suferis pro doloro, du el la filoj de Jakob, Simeon kaj Levi, fratoj de Dina, ĉiu prenis sian glavon, venis kontraŭ la senzorga urbo kaj mortigis ĉiujn virojn. Ili mortigis Hamoron kaj Ŝeĥemon, lian filon, per la glavo, prenis Dinan el la domo de Ŝeĥem kaj foriris. La filoj de Jakob venis sur la mortintojn kaj rabprenis la urbon, ĉar ili malhonoris ilian fratinon. Ili prenis iliajn ŝafojn, iliajn bovojn, iliajn azenojn, tion kio estis en la urbo kaj tion kio estis sur la kampo, kaj ĉiujn iliajn riĉaĵojn. Ili kaptis ĉiujn iliajn infanojn kaj iliajn edzinojn kaj prenis kiel rabaĵon ĉion kio estis en la domo. Jakob diris al Simeon kaj Levi: “Vi kaŭzis al mi problemojn, farante min malamata inter la loĝantoj de la lando, inter la Kanaananoj kaj la Perizanoj. Mi estas malmultnombra. Ili kolektiĝos kontraŭ mi kaj atakos min, kaj mi estos detruita, mi kaj mia domo.”
+
+Ili diris: “Ĉu li devas trakti nian fratinon kiel malĉastulinon?”
+
+### Ĉapitro 35
+
+Dio diris al Jakob: “Leviĝu, iru supren al Bet-El kaj loĝu tie. Faru tie altaron al Dio, kiu aperis al vi kiam vi fuĝis for de via frato Esav.”
+
+Tiam Jakob diris al sia familio kaj al ĉiuj kiuj estis kun li: “Forigu la fremdajn diojn kiuj estas inter vi, purigu vin mem kaj ŝanĝu viajn vestojn. Ni leviĝu kaj iru supren al Bet-El. Mi faros tie altaron al Dio, kiu respondis min en la tago de mia aflikto kaj estis kun mi sur la vojo kiun mi iris.”
+
+Ili donis al Jakob ĉiujn fremdajn diojn, kiuj estis en iliaj manoj, kaj la ringojn, kiuj estis en iliaj oreloj; kaj Jakob kaŝis ilin sub la kverko, kiu estis apud Ŝeĥem. Ili vojaĝis, kaj teruro de Dio estis sur la urboj ĉirkaŭ ili, kaj ili ne persekutis la filojn de Jakob. Do Jakob venis al Luz (tio estas, Bet-El), kiu estas en la lando Kanaano, li kaj ĉiuj homoj kun li. Li konstruis tie altaron kaj nomis la lokon El-Bet-El; ĉar tie Dio estis malkaŝita al li, kiam li fuĝis for de sia frato. Debora, la nutristino de Rebeka, mortis, kaj ŝi estis entombigita sub Bet-El sub la kverko; kaj ĝia nomo estis nomita Alon-Bakut.
+
+Dio aperis al Jakob denove, kiam li revenis el Padan-Aram, kaj benis lin. Dio diris al li: "Via nomo estas Jakob. Via nomo ne plu estos Jakob, sed via nomo estos Izrael." Li nomis lin Izrael. Dio diris al li: "Mi estas Dio Ĉiopova. Estu fruktodona kaj multiĝu. Nacio kaj aro da nacioj devenos de vi, kaj reĝoj eliros el via korpo. La landon, kiun Mi donis al Abraham kaj Isaak, Mi donos al vi, kaj al viaj posteuloj post vi Mi donos la landon."
+
+Dio supreniris for de li en la loko, kie Li parolis kun li. Jakob starigis kolonon en la loko, kie Li parolis kun li, kolonon el ŝtono. Li verŝis sur ĝin trinkoferton kaj verŝis oleon sur ĝin. Jakob nomis la lokon, kie Dio parolis kun li, "Bet-El".
+
+Ili vojaĝis for de Bet-El. Ankoraŭ estis iom da distanco por veni al Efrata, kaj Raĥel naskodoloris. Ŝi havis malfacilan akuŝon. Kiam ŝi estis en malfacila akuŝo, la akuŝistino diris al ŝi: "Ne timu, ĉar nun vi havos alian filon."
+
+Kiam ŝia animo foriris (ĉar ŝi mortis), ŝi nomis lin Ben-Oni, sed lia patro nomis lin Benjamen. Raĥel mortis kaj estis entombigita survoje al Efrata (ankaŭ nomata Bet-Leĥem). Jakob starigis kolonon sur ŝia tombo. Ĝi estas la Kolono de la Tombo de Raĥel ĝis hodiaŭ. Izrael vojaĝis kaj starigis sian tendon preter la turo de Eder. Dum Izrael loĝis en tiu lando, Ruben iris kaj kuŝis kun Bilha, la kromvirino de sia patro, kaj Izrael tion aŭdis.
+
+Nun la filoj de Jakob estis dek du. La filoj de Lea: Ruben (la unuenaskito de Jakob), Simeon, Levi, Jehuda, Isaĥar kaj Zebulun. La filoj de Raĥel: Jozef kaj Benjamen. La filoj de Bilha (la servistino de Raĥel): Dan kaj Naftali. La filoj de Zilpa (la servistino de Lea): Gad kaj Aŝer. Ĉi tiuj estas la filoj de Jakob, kiuj naskiĝis al li en Padan-Aram. Jakob venis al Isaak, sia patro, al Mamre, al Kirjat-Arba (kiu estas Ĥebron), kie Abraham kaj Isaak loĝis kiel fremduloj.
+
+La tagoj de Isaak estis cent okdek jaroj. Isaak elspiris sian spiriton kaj mortis, kaj estis kolektita al sia popolo, maljuna kaj plena je tagoj. Esav kaj Jakob, liaj filoj, entombigis lin.
+
+### Ĉapitro 36
+
+Jen estas la historio de la generacioj de Esav (tio estas Edom). Esav prenis siajn edzinojn el la filinoj de Kanaano: Ada, la filino de Elon, la Ĥetido; kaj Oholibama, la filino de Ana, la filino de Cibeon, la Ĥivido; kaj Basemat, la filino de Iŝmael, fratino de Nebajot. Ada naskis al Esav Elifazon. Basemat naskis Reuelon. Oholibama naskis Jeuŝon, Jalamon kaj Korahon. Ĉi tiuj estas la filoj de Esav, kiuj naskiĝis al li en la lando Kanaano. Esav prenis siajn edzinojn, siajn filojn, siajn filinojn kaj ĉiujn membrojn de sia domanaro kun sia brutaro, ĉiujn siajn bestojn kaj ĉiujn siajn posedaĵojn, kiujn li kolektis en la lando Kanaano, kaj iris en landon for de sia frato Jakob. Ĉar ilia havaĵo estis tro granda por ke ili loĝu kune, kaj la lando de iliaj vojaĝoj ne povis subteni ilin pro ilia brutaro. Esav loĝis en la montaro Seir. Esav estas Edom.
+
+Jen estas la historio de la generacioj de Esav, la patro de la Edomidoj en la montaro Seir: jen estas la nomoj de la filoj de Esav: Elifaz, filo de Ada, edzino de Esav; kaj Reuel, filo de Basemat, edzino de Esav. La filoj de Elifaz estis Teman, Omaro, Cefo, Gatam kaj Kenaz. Timna estis kromvirino al Elifaz, filo de Esav; kaj ŝi naskis al Elifaz Amalekon. Ĉi tiuj estas la posteuloj de Ada, edzino de Esav. Jen estas la filoj de Reuel: Nahat, Zeraĥo, Ŝamao kaj Miza. Ĉi tiuj estis posteuloj de Basemat, edzino de Esav. Jen estis la filoj de Oholibama, filino de Ana, filino de Cibeon, edzino de Esav: ŝi naskis al Esav Jeuŝon, Jalamon kaj Korahon.
