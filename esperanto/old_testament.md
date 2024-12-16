@@ -39988,3 +39988,6834 @@ Leviĝu, kriu nokte,
 Verŝu vian koron kiel akvon antaŭ la vizaĝo de la Sinjoro.   
 
 Levu viajn manojn al li pro la vivo de viaj junaj infanoj,  
+--- input623
+kiuj svenas pro malsato ĉe la kapo de ĉiu strato.
+
+“Rigardu, Jahve, kaj vidu, al kiu Vi tion faris!
+
+Ĉu virinoj manĝu siajn idojn,
+
+la infanojn, kiujn ili portis kaj balancis sur siaj genuoj?
+
+Ĉu pastro kaj profeto estu mortigitaj en la sanktejo de la Eternulo?
+
+“La junuloj kaj la maljunuloj kuŝas sur la tero en la stratoj.
+
+Miaj virgulinoj kaj miaj junuloj falis de la glavo.
+
+Vi mortigis ilin en la tago de Via kolero.
+
+Vi buĉis kaj ne kompatemis.
+
+“Vi vokis, kiel en tago de solena kunveno, miajn terurojn ĉirkaŭe.
+
+Neniu eskapis aŭ restis en la tago de la kolero de Jahve.
+
+Mia malamiko konsumis tiujn, kiujn mi zorgis kaj kreskigis.
+
+### Ĉapitro 3
+
+Mi estas la viro, kiu vidis suferon
+
+per la vergo de Lia kolero.
+
+Li kondukis min kaj igis min iri en mallumo,
+
+kaj ne en lumo.
+
+Certe Li turnas Sian manon kontraŭ mi
+
+denove kaj denove dum la tuta tago.
+
+Li maljunigis mian karnon kaj mian haŭton.
+
+Li rompis miajn ostojn.
+
+Li konstruis kontraŭ mi,
+
+kaj ĉirkaŭis min per amareco kaj malfacilaĵoj.
+
+Li igis min loĝi en mallumaj lokoj,
+
+kiel tiuj, kiuj delonge mortis.
+
+Li enfermis min, tiel ke mi ne povas eliri.
+
+Li igis mian ĉenon peza.
+
+Jes, kiam mi krias kaj vokas por helpo,
+
+Li fermas mian preĝon.
+
+Li enfermis miajn vojojn per hakita ŝtono.
+
+Li kurbigis miajn vojojn.
+
+Li estas al mi kiel urso embuskanta,
+
+kiel leono kaŝita.
+
+Li deturnis mian vojon,
+
+kaj disŝiris min en pecojn.
+
+Li igis min dezolata.
+
+Li fleksis Sian arkon,
+
+kaj metis min kiel celon por la sago.
+
+Li igis la ŝaftojn de Sia sagujo penetri miajn renojn.
+
+Mi fariĝis mokado al ĉiuj miaj popoloj,
+
+kaj ilia kanto dum la tuta tago.
+
+Li plenigis min per amareco.
+
+Li plenigis min per absinto.
+
+Li ankaŭ rompis miajn dentojn per gruzo.
+
+Li kovris min per cindro.
+
+Vi forigis mian animon malproksimen de paco.
+
+Mi forgesis prosperon.
+
+Mi diris: “Mia forto pereis,
+
+kune kun mia espero de Jahve.”
+
+Memoru mian suferon kaj mian mizerecon,
+
+la absinton kaj la amarecon.
+
+Mia animo ankoraŭ memoras ilin,
+
+kaj estas kliniĝinta ene de mi.
+
+Tion mi rememoras al mia menso;
+
+tial mi havas esperon.
+
+Estas pro la bonecoj de Jahve, ke ni ne estas konsumitaj,
+
+ĉar Liaj kompatoj ne malsukcesas.
+
+Ili estas novaj ĉiumatene.
+
+Granda estas Via fideleco.
+
+“Jahve estas mia parto,” diras mia animo.
+
+“Tial mi esperos al Li.”
+
+Jahve estas bona al tiuj, kiuj atendas Lin,
+
+al la animo, kiu serĉas Lin.
+
+Estas bone, ke homo esperu
+
+kaj silente atendu la savon de Jahve.
+
+Estas bone por homo porti la jugon en sia juneco.
+
+Lasu lin sidi sola kaj silenti,
+
+ĉar Li metis ĝin sur lin.
+
+Lasu lin meti sian buŝon en la polvon,
+
+se eble ekzistas espero.
+
+Lasu lin doni sian vangon al tiu, kiu batas lin.
+
+Lasu lin esti plenigita per malhonoro.
+
+Ĉar la Sinjoro ne forpuŝos por ĉiam.
+
+Ĉar kvankam Li kaŭzas doloron,
+
+tamen Li havos kompaton laŭ la multo de Liaj bonecoj.
+
+Ĉar Li ne afliktas volonte,
+
+nek malĝojigas la infanojn de homoj.
+
+Por dispremi sub piedoj ĉiujn malliberulojn de la tero,
+
+por deturni la rajton de homo antaŭ la vizaĝo de la Plejaltulo,
+
+por subfosi homon en lia afero, la Sinjoro ne aprobas tion.
+
+Kiu estas tiu, kiu diras, kaj ĝi okazas,
+
+kiam la Sinjoro ne ordonas ĝin?
+
+Ĉu malbono kaj bono ne venas el la buŝo de la Plejaltulo?
+
+Kial vivanta homo plendu,
+
+homo pro la puno de siaj pekoj?
+
+Ni esploru kaj provu niajn vojojn,
+
+kaj reiru al Jahve.
+
+Ni levu nian koron kun niaj manoj al Dio en la ĉieloj.
+
+“Ni pekis kaj ribelis.
+
+Vi ne pardonis.
+
+“Vi kovris nin per kolero kaj persekutis nin.
+
+Vi mortigis.
+
+Vi ne kompatemis.
+
+Vi kovris Vin per nubo,
+
+tiel ke neniu preĝo povas trairi ĝin.
+
+Vi faris nin forĵetaĵo kaj malpuraĵo
+
+meze de la popoloj.
+
+“Ĉiuj niaj malamikoj malfermis sian buŝon vaste kontraŭ ni.
+
+Teruro kaj foso venis sur nin,
+
+detruo kaj ruiniĝo.”
+
+Mia okulo fluas kun torentoj da akvo.
+--- input624
+Por la detruo de la filino de mia popolo.
+
+Mia okulo elverŝas larmojn
+
+kaj ne ĉesas,
+
+sen ia interrompo,
+
+ĝis kiam Jahve rigardos malsupren,
+
+kaj vidos el la ĉielo.
+
+Mia okulo afliktas mian animon,
+
+pro ĉiuj filinoj de mia urbo.
+
+Ili persekutis min senĉese kiel birdon,
+
+tiuj, kiuj estas miaj malamikoj sen kaŭzo.
+
+Ili fortranĉis mian vivon en la malliberejo,
+
+kaj ĵetis ŝtonon sur min.
+
+Akvoj fluis super mia kapo.
+
+Mi diris, "Mi estas fortranĉita."
+
+Mi vokis vian nomon, Jahve,
+
+el la plej profunda malliberejo.
+
+Vi aŭdis mian voĉon:
+
+"Ne kaŝu vian orelon de mia ĝemado,
+
+kaj mia krio."
+
+Vi alproksimiĝis en la tago, kiam mi vokis vin.
+
+Vi diris, "Ne timu."
+
+Sinjoro, vi pledis la aferojn de mia animo.
+
+Vi elaĉetis mian vivon.
+
+Jahve, vi vidis mian maljustaĵon.
+
+Juĝu mian aferon.
+
+Vi vidis ĉiujn iliajn venĝojn
+
+kaj ĉiujn iliajn planojn kontraŭ mi.
+
+Vi aŭdis ilian riproĉon, Jahve,
+
+kaj ĉiujn iliajn planojn kontraŭ mi,
+
+la lipojn de tiuj, kiuj leviĝis kontraŭ mi,
+
+kaj iliajn intrigojn kontraŭ mi dum la tuta tago.
+
+Vi vidas ilian sidon kaj ilian leviĝon.
+
+Mi estas ilia kanto.
+
+Vi repagos ilin, Jahve,
+
+laŭ la laboro de iliaj manoj.
+
+Vi donos al ili malmolecon de koro,
+
+vian malbenon al ili.
+
+Vi persekutos ilin en kolero,
+
+kaj detruos ilin sub la ĉieloj de Jahve.
+
+### Ĉapitro 4
+
+Kiel la oro fariĝis malhela!
+
+La plej pura oro ŝanĝiĝis!
+
+La ŝtonoj de la sanktejo estas disĵetitaj
+
+ĉe la kapo de ĉiu strato.
+
+La valoraj filoj de Cion,
+
+kompareblaj al delikata oro,
+
+kiel ili estas taksataj kiel argilaj kruĉoj,
+
+la laboro de la manoj de la potisto!
+
+Eĉ la ŝakaloj ofertas sian mamon.
+
+Ili nutras siajn idojn.
+
+Sed la filino de mia popolo fariĝis kruela,
+
+kiel la strutoj en la dezerto.
+
+La lango de la suĉanta infano algluiĝas al la tegmento de lia buŝo pro soifo.
+
+La junaj infanoj petas panon,
+
+kaj neniu rompas ĝin por ili.
+
+Tiuj, kiuj manĝis delikataĵojn, estas senhelpaj sur la stratoj.
+
+Tiuj, kiuj estis kreskigitaj en purpuro, brakumas sterkaĵojn.
+
+Ĉar la maljusteco de la filino de mia popolo estas pli granda ol la peko de Sodomo,
+
+kiu estis renversita kvazaŭ en momento.
+
+Neniu mano estis metita sur ŝin.
+
+Ŝiaj nobeloj estis pli puraj ol neĝo.
+
+Ili estis pli blankaj ol lakto.
+
+Ili estis pli ruĝaj en korpo ol rubenoj.
+
+Ilia polurado estis kiel safiro.
+
+Ilia aspekto estas pli nigra ol karbo.
+
+Oni ne rekonas ilin sur la stratoj.
+
+Ilia haŭto algluiĝas al iliaj ostoj.
+
+Ĝi velkis.
+
+Ĝi fariĝis kiel ligno.
+
+Tiuj, kiuj estas mortigitaj per glavo, estas pli bonŝancaj ol tiuj, kiuj mortas pro malsato;
+
+ĉar ĉi tiuj velkas, trapikitaj,
+
+pro manko de la fruktoj de la kampo.
+
+La manoj de kompatemaj virinoj boligis siajn proprajn infanojn.
+
+Ili estis ilia manĝaĵo en la detruo de la filino de mia popolo.
+
+Jahve plenumis sian koleron.
+
+Li elverŝis sian furiozan koleron.
+
+Li ekbruligis fajron en Cion,
+
+kiu formanĝis ĝiajn fundamentojn.
+
+La reĝoj de la tero ne kredis,
+
+nek ĉiuj loĝantoj de la mondo,
+
+ke la malamiko kaj kontraŭulo enirus en la pordegojn de Jerusalemo.
+
+Ĉi tio estas pro la pekoj de ŝiaj profetoj
+
+kaj la maljustaĵoj de ŝiaj pastroj,
+
+kiuj verŝis la sangon de justuloj meze de ŝi.
+
+Ili vagadas kiel blinduloj sur la stratoj.
+
+Ili estas poluitaj per sango,
+
+tiel ke homoj ne povas tuŝi iliajn vestojn.
+
+"Fornu!" ili kriis al ili.
+
+"Malpura! Foriru! Foriru! Ne tuŝu!"
+
+Kiam ili forkuris kaj vagadis, homoj diris inter la nacioj,
+
+"Ili ne povas plu loĝi ĉi tie."
+
+La kolero de Jahve disĵetis ilin.
+
+Li ne plu atentos ilin.
+
+Ili ne respektis la personojn de la pastroj.
+
+Ili ne favoris la aĝulojn.
+
+Niaj okuloj ankoraŭ malsukcesas,
+
+rigardante vane por nia helpo.
+
+En nia observado ni observis nacion, kiu ne povis savi nin.
+
+Ili ĉasas niajn paŝojn,
+
+tiel ke ni ne povas iri sur niaj stratoj.
+
+Nia fino estas proksima.
+
+Niaj tagoj estas plenumitaj,
+
+ĉar nia fino venis.
+
+Niaj persekutantoj estis pli rapidaj ol agloj de la ĉielo.
+
+Ili persekutis nin sur la montoj.
+
+Ili starigis embuskon por ni en la dezerto.
+--- input625
+La spiro de niaj naztruoj,  
+
+la sanktoleito de Javeo,  
+
+estis kaptita en iliaj kaptiloj;  
+
+pri kiu ni diris,  
+
+sub lia ombro ni vivos inter la nacioj.  
+
+Ĝoju kaj estu gaja, filino de Edom,  
+
+kiu loĝas en la lando de Uz.  
+
+La pokalo pasos ankaŭ al vi.  
+
+Vi ebriiĝos,  
+
+kaj vi malkovros vin mem.  
+
+La puno de via malpieco estas plenumita, filino de Ciono.  
+
+Li ne plu forportos vin en kaptitecon.  
+
+Li vizitos vian malpiecon, filino de Edom.  
+
+Li malkovros viajn pekojn.  
+
+### Ĉapitro 5  
+
+Memoru, Javeo, kio okazis al ni.  
+
+Rigardu, kaj vidu nian malhonoron.  
+
+Nia heredaĵo estis transdonita al fremduloj,  
+
+niaj domoj al eksterlandanoj.  
+
+Ni estas orfoj kaj senpatraj.  
+
+Niaj patrinoj estas kiel vidvinoj.  
+
+Ni devas pagi por akvo por trinki.  
+
+Nia ligno estas vendata al ni.  
+
+Niaj persekutantoj estas sur niaj koloj.  
+
+Ni estas lacaj kaj ne havas ripozon.  
+
+Ni donis niajn manojn al la Egiptoj,  
+
+kaj al la Asirianoj, por esti kontentigitaj per pano.  
+
+Niaj patroj pekis kaj ne plu ekzistas.  
+
+Ni portis iliajn malpiecojn.  
+
+Servistoj regas super ni.  
+
+Estas neniu por liberigi nin el ilia mano.  
+
+Ni ricevas nian panon kun risko de nia vivo,  
+
+pro la glavo en la dezerto.  
+
+Nia haŭto estas nigra kiel forno,  
+
+pro la brulanta varmego de malsato.  
+
+Ili malhonoris la virinojn en Ciono,  
+
+la virgulinojn en la urboj de Judujo.  
+
+Princoj estis pendigitaj per siaj manoj.  
+
+La vizaĝoj de maljunuloj ne estis honoritaj.  
+
+La junuloj portas muelŝtonojn.  
+
+La infanoj faletis sub ŝarĝoj de ligno.  
+
+La maljunuloj ĉesis ĉe la pordego,  
+
+kaj la junuloj ĉesis de sia muziko.  
+
+La ĝojo de nia koro ĉesis.  
+
+Nia danco transformiĝis en funebron.  
+
+La krono falis de nia kapo.  
+
+Ve al ni, ĉar ni pekis!  
+
+Pro tio nia koro estas malforta.  
+
+Pro ĉi tiuj aferoj niaj okuloj estas obtuzaj:  
+
+pro la monto de Ciono, kiu estas dezerta.  
+
+La vulpoj marŝas sur ĝi.  
+
+Vi, Javeo, restas eterne.  
+
+Via trono estas de generacio al generacio.  
+
+Kial vi forgesas nin eterne,  
+
+kaj forlasas nin tiel longe?  
+
+Turnu nin al vi mem, Javeo, kaj ni estos turnitaj.  
+
+Renovigu niajn tagojn kiel antaŭe.  
+
+Sed vi tute forpuŝis nin.  
+
+Vi estas tre kolera kontraŭ ni.  
+
+## Jeĥezkel
+
+La Libro de Jeĥezkel
+
+### Ĉapitro 1
+
+Nun en la trideka jaro, en la kvara monato, en la kvina tago de la monato, kiam mi estis inter la kaptitoj ĉe la rivero Kebar, la ĉieloj malfermiĝis, kaj mi vidis viziojn de Dio.
+
+En la kvina tago de la monato, kiu estis la kvina jaro de la kaptiteco de reĝo Jehojaĉin, la vorto de Javeo venis al Jeĥezkel, la pastro, filo de Buzi, en la lando de la Ĥaldeoj ĉe la rivero Kebar; kaj la mano de Javeo estis tie sur li.
+
+Mi rigardis, kaj jen, ŝtorma vento venis el la nordo: granda nubo kun fulmantaj fulmoj kaj brilo ĉirkaŭ ĝi, kaj el ĝia mezo kvazaŭ brila metalo, el la mezo de fajro. El ĝia centro venis la simileco de kvar vivantaj estaĵoj. Tia estis ilia aspekto: Ili havis similecon al homo. Ĉiu havis kvar vizaĝojn, kaj ĉiu el ili havis kvar flugilojn. Iliaj piedoj estis rektaj piedoj. La plando de iliaj piedoj estis kiel la plando de bovida piedo; kaj ili brilis kiel polurita bronzo. Ili havis homajn manojn sub siaj flugiloj sur siaj kvar flankoj. La kvar el ili havis siajn vizaĝojn kaj siajn flugilojn tiel: Iliaj flugiloj estis kunigitaj unu kun alia. Ili ne turniĝis kiam ili iris. Ĉiu iris rekte antaŭen.
+
+Pri la simileco de iliaj vizaĝoj, ili havis la vizaĝon de homo. La kvar el ili havis la vizaĝon de leono ĉe la dekstra flanko. La kvar el ili havis la vizaĝon de bovo ĉe la maldekstra flanko. La kvar el ili ankaŭ havis la vizaĝon de aglo. Tiaj estis iliaj vizaĝoj. Iliaj flugiloj estis etenditaj supre. Du flugiloj de ĉiu tuŝis unu la alian, kaj du kovris iliajn korpojn. Ĉiu iris rekte antaŭen. Kien ajn iris la spirito, ili iris. Ili ne turniĝis kiam ili iris. Pri la simileco de la vivantaj estaĵoj, ilia aspekto estis kiel brulantaj karboj da fajro, kiel la aspekto de torĉoj. La fajro supreniris kaj malsupreniris inter la vivantaj estaĵoj. La fajro estis hela, kaj fulmo eliris el la fajro. La vivantaj estaĵoj kuris kaj revenis kiel aspekto de fulmo.
+--- input626
+Nun, kiam mi vidis la vivajn estaĵojn, jen, estis unu rado sur la tero apud la vivaj estaĵoj, por ĉiu el la kvar vizaĝoj de ĝi. La aspekto de la radoj kaj ilia laboro estis kiel berilo. La kvar el ili havis saman aspekton. Ilia aspekto kaj ilia laboro estis kvazaŭ rado ene de rado. Kiam ili iris, ili iris en siaj kvar direktoj. Ili ne turniĝis kiam ili iris. Koncerne iliajn randojn, ili estis altaj kaj timindaj; kaj la kvar el ili havis siajn randojn plenajn de okuloj ĉirkaŭe.
+
+Kiam la vivaj estaĵoj iris, la radoj iris apud ili. Kiam la vivaj estaĵoj leviĝis de la tero, la radoj leviĝis. Kien ajn la spirito volis iri, ili iris. La spirito volis iri tien. La radoj leviĝis apud ili; ĉar la spirito de la viva estaĵo estis en la radoj. Kiam tiuj iris, ĉi tiuj iris. Kiam tiuj staris, ĉi tiuj staris. Kiam tiuj leviĝis de la tero, la radoj leviĝis apud ili; ĉar la spirito de la viva estaĵo estis en la radoj.
+
+Super la kapo de la viva estaĵo estis io simila al firmamento, kiel mirinda kristalo laŭ aspekto, etendita super iliaj kapoj supre. Sub la firmamento iliaj flugiloj estis rektaj, unu kontraŭ la alia. Ĉiu havis du flugilojn kiuj kovris ĉi tiun flankon, kaj ĉiu havis du kiuj kovris iliajn korpojn sur tiu flanko. Kiam ili iris, mi aŭdis la bruon de iliaj flugiloj kiel la bruo de grandaj akvoj, kiel la voĉo de la Plejpotenca, bruo de tumulto kiel la bruo de armeo. Kiam ili staris, ili mallevis siajn flugilojn.
+
+Estis voĉo super la firmamento kiu estis super iliaj kapoj. Kiam ili staris, ili mallevis siajn flugilojn. Super la firmamento kiu estis super iliaj kapoj estis io simila al trono, kiel la aspekto de safirŝtono. Sur io simila al trono estis io simila al la aspekto de homo supre. Mi vidis kvazaŭ brilan metalon, kiel la aspekto de fajro ene de ĝi ĉirkaŭe, de la aspekto de lia talio supren; kaj de la aspekto de lia talio malsupren mi vidis kvazaŭ la aspekton de fajro, kaj estis brilo ĉirkaŭ li. Kiel la aspekto de l' ĉielarko kiu estas en la nubo en pluva tago, tiel estis la aspekto de l' brilo ĉirkaŭe.
+
+Tio estis la aspekto de l' simileco de l' gloro de Jahveo. Kiam mi vidis ĝin, mi falis sur mian vizaĝon, kaj mi aŭdis voĉon de iu kiu parolis.
+
+### Ĉapitro 2
+
+Li diris al mi: “Ho filo de homo, stariĝu sur viaj piedoj, kaj Mi parolos kun vi.” La Spirito eniris min kiam Li parolis al mi, kaj starigis min sur miajn piedojn; kaj mi aŭdis Lin kiu parolis al mi.
+
+Li diris al mi: “Ho filo de homo, Mi sendas vin al la infanoj de Izrael, al nacio da ribeluloj kiuj ribelis kontraŭ Mi. Ili kaj iliaj patroj pekis kontraŭ Mi ĝis ĉi tiu tago. La infanoj estas arogantaj kaj obstinaj en sia koro. Mi sendas vin al ili, kaj vi diros al ili: ‘Tiel diras la Sinjoro Jahveo.’ Ili, ĉu ili aŭskultos aŭ ĉu ili rifuzos—ĉar ili estas ribelema domo—tamen ili scios ke profeto estis inter ili. Vi, filo de homo, ne timu ilin, nek timu iliajn vortojn, kvankam dornoj kaj pikiloj estas kun vi, kaj vi loĝas inter skorpionoj. Ne timu iliajn vortojn, nek estu timigita pro iliaj rigardoj, kvankam ili estas ribelema domo. Vi parolos Miajn vortojn al ili, ĉu ili aŭskultos aŭ ĉu ili rifuzos; ĉar ili estas tre ribelemaj. Sed vi, filo de homo, aŭskultu tion kion Mi diras al vi. Ne estu ribelema kiel tiu ribelema domo. Malfermu vian buŝon kaj manĝu tion kion Mi donas al vi.”
+
+Kiam mi rigardis, jen mano etendiĝis al mi; kaj jen rulvolvaĵo estis en ĝi. Li malfermis ĝin antaŭ mi. Ĝi estis skribita interne kaj ekstere; kaj lamentadoj, plorado kaj veoj estis skribitaj en ĝi.
+
+### Ĉapitro 3
+
+Li diris al mi: “Filo de homo, manĝu tion kion vi trovas. Manĝu ĉi tiun rulvolvaĵon kaj iru, parolu al la domo de Izrael.”
+
+Do mi malfermis mian buŝon, kaj Li igis min manĝi la rulvolvaĵon.
+
+Li diris al mi: “Filo de homo, manĝu ĉi tiun rulvolvaĵon kiun Mi donas al vi kaj plenigu vian ventron kaj intestojn per ĝi.”
+--- input627
+Tiam mi manĝis ĝin. Ĝi estis tiel dolĉa kiel mielo en mia buŝo.
+
+Li diris al mi: “Ho filo de homo, iru al la domo de Izrael kaj parolu miajn vortojn al ili. Ĉar vi ne estas sendita al popolo kun stranga parolado kaj malfacila lingvo, sed al la domo de Izrael—ne al multaj popoloj kun stranga parolado kaj malfacila lingvo, kies vortojn vi ne povas kompreni. Certe, se mi sendus vin al ili, ili aŭskultus vin. Sed la domo de Izrael ne aŭskultos vin, ĉar ili ne aŭskultas min; ĉar la tuta domo de Izrael estas obstina kaj malmolkoraj. Jen, mi faris vian vizaĝon malmola kontraŭ iliaj vizaĝoj, kaj vian frunton malmola kontraŭ iliaj fruntoj. Mi faris vian frunton kiel diamanto, pli malmola ol siliko. Ne timu ilin, nek malkuraĝiĝu pro iliaj rigardoj, kvankam ili estas ribelema domo.”
+
+Krome li diris al mi: “Ho filo de homo, akceptu en vian koron kaj aŭskultu per viaj oreloj ĉiujn miajn vortojn, kiujn mi parolas al vi. Iru al tiuj en la kaptiteco, al la infanoj de via popolo, kaj parolu al ili, kaj diru al ili: ‘Tion diras la Sinjoro Jahve,’ ĉu ili aŭskultos, ĉu ili rifuzos.”
+
+Tiam la Spirito levis min, kaj mi aŭdis malantaŭ mi la voĉon de granda bruo, dirante: “Benata estu la gloro de Jahve el lia loko.” Mi aŭdis la bruon de la flugiloj de la vivestaĵoj kiam ili tuŝis unu la alian, kaj la bruon de la radoj apud ili, eĉ la bruon de granda bruo. Do la Spirito levis min kaj forportis min; kaj mi iris en amareco, en la varmego de mia spirito; kaj la mano de Jahve estis forta sur mi. Tiam mi venis al tiuj en la kaptiteco ĉe Tel-Abib, kiuj loĝis ĉe la rivero Kebar, kaj al kie ili loĝis; kaj mi sidis tie superfortita inter ili dum sep tagoj.
+
+Post sep tagoj, la vorto de Jahve venis al mi, dirante: “Ho filo de homo, mi faris vin gardisto por la domo de Izrael. Tial aŭskultu la vorton el mia buŝo kaj avertu ilin de mi. Kiam mi diros al la malvirtulo: ‘Vi certe mortos;’ kaj vi ne avertos lin, nek parolos por averti la malvirtulon for de lia malvirta vojo, por savi lian vivon, tiu malvirtulo mortos en sia malvirto; sed mi postulos lian sangon el via mano. Tamen se vi avertos la malvirtulon, kaj li ne turnos sin for de sia malvirteco, nek for de sia malvirta vojo, li mortos en sia malvirto; sed vi savis vian animon.”
+
+“Denove, kiam virtulo turnas sin for de sia virteco kaj faras malvirton, kaj mi metas falilon antaŭ li, li mortos. Ĉar vi ne avertis lin, li mortos en sia peko, kaj liaj virtaj faroj, kiujn li faris, ne estos memorataj; sed mi postulos lian sangon el via mano. Tamen se vi avertos la virtulon, ke li ne peku, kaj li ne pekas, li certe vivos, ĉar li akceptis la averton; kaj vi savis vian animon.”
+
+La mano de Jahve estis tie sur mi; kaj li diris al mi: “Leviĝu, iru eksteren en la ebenaĵon, kaj tie mi parolos kun vi.”
+
+Tiam mi leviĝis kaj iris eksteren en la ebenaĵon, kaj jen, la gloro de Jahve staris tie, kiel la gloro kiun mi vidis ĉe la rivero Kebar. Tiam mi falis sur mian vizaĝon.
+
+Tiam la Spirito eniris en min kaj starigis min sur miaj piedoj. Li parolis kun mi kaj diris al mi: “Iru, fermu vin interne de via domo. Sed vi, filo de homo, jen ili metos ŝnurojn sur vin kaj ligos vin per ili, kaj vi ne iros eksteren inter ilin. Mi faros vian langon algluiĝi al la tegmento de via buŝo tiel ke vi estos muta kaj ne povos riproĉi ilin, ĉar ili estas ribelema domo. Sed kiam mi parolos kun vi, mi malfermos vian buŝon, kaj vi diros al ili: ‘Tion diras la Sinjoro Jahve.’ Kiu aŭskultas, lasu lin aŭskulti; kaj kiu rifuzas, lasu lin rifuzi; ĉar ili estas ribelema domo.”
+
+### Ĉapitro 4
+
+“Vi ankaŭ, filo de homo, prenu kahelon kaj metu ĝin antaŭ vi, kaj bildigu sur ĝi urbon, eĉ Jerusalemon. Sieĝu ĝin, konstruu fortikaĵojn kontraŭ ĝi kaj starigu monteton kontraŭ ĝi. Ankaŭ starigu tendarojn kontraŭ ĝi kaj plantu sieĝrompilojn ĉirkaŭ ĝi. Prenu por vi feran paton kaj starigu ĝin kiel feran muron inter vi kaj la urbo. Poste turnu vian vizaĝon kontraŭ ĝi. Ĝi estos sieĝata, kaj vi sieĝos ĝin. Ĉi tio estos signo por la domo de Izrael."
+--- input628
+"Plue, kuŝu sur via maldekstra flanko, kaj metu la malbonagon de la domo de Izrael sur ĝin. Laŭ la nombro de la tagoj, kiujn vi kuŝos sur ĝi, vi portos ilian malbonagon. Ĉar Mi difinis al vi la jarojn de ilia malbonago kiel nombron da tagoj, eĉ tricent naŭdek tagojn. Tiel vi portos la malbonagon de la domo de Izrael.
+
+"Kaj kiam vi plenumos tion, vi kuŝos sur via dekstra flanko kaj portos la malbonagon de la domo de Jehuda. Mi difinis al vi kvardek tagojn, po unu tago por ĉiu jaro. Vi turnos vian vizaĝon al la sieĝo de Jerusalemo, kun via brako malkovrita; kaj vi profetos kontraŭ ĝi. Jen, Mi metos ŝnurojn sur vin, kaj vi ne povos turni vin de unu flanko al la alia, ĝis vi plenumos la tagojn de via sieĝo.
+
+"Prenu ankaŭ por vi tritikon, hordeon, fabojn, lentojn, miliojn kaj spelton, kaj metu ilin en unu vazon. Faru panon el tio. Laŭ la nombro de la tagoj, kiujn vi kuŝos sur via flanko, eĉ tricent naŭdek tagojn, vi manĝos el ĝi. Via manĝaĵo, kiun vi manĝos, estos laŭ pezo, dudek ŝekeloj tage. De tempo al tempo vi manĝos ĝin. Vi trinkos akvon laŭ mezuro, sesonon de hino. De tempo al tempo vi trinkos ĝin. Vi manĝos ĝin kiel hordeajn kukojn, kaj vi bakos ĝin antaŭ iliaj okuloj kun homa sterko." Yahweh diris: "Eĉ tiel la infanoj de Izrael manĝos sian panon malpura inter la nacioj, kien Mi forpelos ilin."
+
+Tiam mi diris: "Ho Sinjoro Yahweh! Jen, mia animo ne estis malpurigita; ĉar de mia juneco ĝis nun mi ne manĝis ion, kio mortis mem aŭ estis disŝirita de bestoj. Neniu abomenaĵo eniris mian buŝon!"
+
+Tiam Li diris al mi: "Jen, Mi donas al vi bovinan sterkon anstataŭ homa sterko, kaj vi preparos vian panon sur ĝi."
+
+Plue Li diris al mi: "Ho filo de homo, jen Mi rompos la apogilon de pano en Jerusalemo. Ili manĝos panon laŭ pezo kaj kun timo. Ili trinkos akvon laŭ mezuro kaj kun konsterniĝo; por ke ili manku je pano kaj akvo, konsterniĝu unu kun alia kaj velku pro sia malbonago.
+
+### Ĉapitro 5
+
+"Vi, filo de homo, prenu akran glavon. Vi prenos ĝin kiel razilon de barbiro por vi mem kaj pasos ĝin super via kapo kaj super via barbo. Poste prenu pesilon por pesi kaj dividu la harojn. Trionon vi bruligos en la fajro meze de la urbo, kiam finiĝos la tagoj de la sieĝo. Trionon vi frapos per glavo ĉirkaŭ ĝi. Trionon vi disĵetos al la vento, kaj Mi eltiros glavon post ili. Vi prenos malgrandan nombron el tiuj kaj ligos ilin en la faldoj de via robo. El tiuj denove vi prenos kaj ĵetos ilin en la mezo de la fajro kaj bruligos ilin en la fajro. El ĝi fajro eliros al la tuta domo de Izrael.
+
+"La Sinjoro Yahweh diras: 'Ĉi tio estas Jerusalemo. Mi metis ŝin en la mezo de la nacioj, kaj landoj estas ĉirkaŭ ŝi. Ŝi ribelis kontraŭ Miaj ordonoj farante malbonon pli ol la nacioj kaj kontraŭ Miaj leĝoj pli ol la landoj ĉirkaŭ ŝi; ĉar ili forĵetis Miajn ordonojn kaj ne sekvis Miajn leĝojn.'
+
+"Tial la Sinjoro Yahweh diras: 'Ĉar vi estas pli ribelema ol la nacioj ĉirkaŭ vi kaj ne sekvis Miajn leĝojn nek observis Miajn ordonojn nek sekvis la leĝojn de la nacioj ĉirkaŭ vi; tial la Sinjoro Yahweh diras: 'Jen Mi, eĉ Mi mem, estas kontraŭ vi; kaj Mi faros juĝojn inter vi antaŭ la okuloj de la nacioj. Mi faros en vi tion, kion Mi ne faris antaŭe kaj kion Mi ne faros plu pro ĉiuj viaj abomenindaĵoj. Tial la patroj manĝos siajn filojn inter vi, kaj la filoj manĝos siajn patrojn. Mi faros juĝojn kontraŭ vi; kaj Mi disĵetos ĉiujn restintojn el vi al ĉiuj ventoj. Tial kiel Mi vivas,' diras la Sinjoro Yahweh, 'certe ĉar vi profanis Mian sanktejon per ĉiuj viaj abomenindaĵoj kaj per ĉiuj viaj abomenindaĵoj, tial Mi ankaŭ malpliigos vin. Mia okulo ne indulgos, kaj Mi ne kompatos. Triono el vi mortos pro pesto kaj estos konsumita per malsato interne de vi. Triono falos per glavo ĉirkaŭ vi. Trionon Mi disĵetos al ĉiuj ventoj kaj eltiros glavon post ili."
+--- input629
+“‘Tiel mia kolero estos plenumita, kaj mi trankviligos mian indignon kontraŭ ili, kaj mi konsolos min. Ili scios, ke mi, Javeo, parolis en mia fervoro, kiam mi plenumos mian indignon kontraŭ ili.
+
+“‘Krome mi faros vin dezertaĵo kaj malhonoro inter la nacioj ĉirkaŭ vi, antaŭ la okuloj de ĉiuj, kiuj preterpasas. Tiel ĝi fariĝos malhonoro kaj moko, instruo kaj miro al la nacioj ĉirkaŭ vi, kiam mi plenumos juĝojn kontraŭ vi en kolero kaj indigno, kaj en furiozaj riproĉoj—mi, Javeo, tion diris—kiam mi sendos kontraŭ ilin la malbonajn sagojn de malsato, kiuj estas por detruo, kiujn mi sendos por detrui vin. Mi pligrandigos la malsaton kontraŭ vi kaj rompos vian panbastonon. Mi sendos kontraŭ vin malsaton kaj malbonajn bestojn, kaj ili senigos vin. Pesto kaj sango trairigos vin. Mi alportos la glavon kontraŭ vin. Mi, Javeo, tion diris.’”
+
+### Ĉapitro 6
+
+La vorto de Javeo venis al mi, dirante: “Ho filo de homo, turnu vian vizaĝon al la montoj de Izrael, kaj profetu kontraŭ ili, kaj diru: ‘Vi montoj de Izrael, aŭskultu la vorton de la Sinjoro Javeo! La Sinjoro Javeo diras al la montoj kaj al la montetoj, al la torentoj kaj al la valoj: “Jen mi, eĉ mi, alportos glavon kontraŭ vin, kaj mi detruos viajn altajn lokojn. Viaj altaroj fariĝos dezertaj, kaj viaj incensaltaroj estos rompitaj. Mi ĵetos viajn mortintojn antaŭ viaj idoloj. Mi metos la kadavrojn de la infanoj de Izrael antaŭ iliaj idoloj. Mi disĵetos viajn ostojn ĉirkaŭ viaj altaroj. En ĉiuj viaj loĝlokoj la urboj estos ruinigitaj kaj la altaj lokoj fariĝos dezertaj, tiel ke viaj altaroj estos ruinigitaj kaj fariĝos dezertaj, kaj viaj idoloj estos rompitaj kaj ĉesos ekzisti, kaj viaj incensaltaroj estos fortranĉitaj, kaj viaj faroj estos nuligitaj. La mortintoj falos inter vi, kaj vi scios, ke mi estas Javeo.
+
+“‘ “Tamen mi lasos restaĵon, tiel ke kelkaj el vi eskapos la glavon inter la nacioj, kiam vi estos disigitaj tra la landoj. Tiuj el vi, kiuj eskapos, memoros min inter la nacioj, kie ili estas kaptitaj, kiel mi estis rompita pro ilia malĉasta koro, kiu foriris de mi, kaj pro iliaj okuloj, kiuj prostituis sin post iliaj idoloj. Tiam ili abomenos sin antaŭ siaj propraj okuloj pro la malbonagoj, kiujn ili faris en ĉiuj siaj abomenindaĵoj. Ili scios, ke mi estas Javeo. Mi ne vane diris, ke mi farus ĉi tiun malbonon al ili.”’
+
+“La Sinjoro Javeo diras: ‘Batu per via mano kaj piedfrapu per via piedo, kaj diru: “Ve!”, pro ĉiuj malbonaj abomenindaĵoj de la domo de Izrael; ĉar ili falos per glavo, per malsato kaj per pesto. Tiu, kiu estas malproksime, mortos pro pesto. Tiu, kiu estas proksime, falos per glavo. Tiu, kiu restas kaj estas sieĝata, mortos pro malsato. Tiel mi plenumos mian koleron kontraŭ ili. Vi scios, ke mi estas Javeo kiam iliaj mortintoj estos inter iliaj idoloj ĉirkaŭ iliaj altaroj, sur ĉiu alta monteto, sur ĉiuj pintoj de la montoj, sub ĉiu verda arbo kaj sub ĉiu dika kverko—la lokoj kie ili oferadis agrablan aromon al ĉiuj siaj idoloj. Mi etendos mian manon kontraŭ ilin kaj faros la landon dezertaĵo kaj ruino, de la dezerto ĝis Dibla, tra ĉiuj iliaj loĝlokoj. Tiam ili scios, ke mi estas Javeo.’”
+
+### Ĉapitro 7
+
+Krome la vorto de Javeo venis al mi, dirante: “Vi, filo de homo, la Sinjoro Javeo diras al la lando de Izrael: ‘Fino! La fino venis sur la kvar angulojn de la lando. Nun la fino estas sur vi, kaj mi sendos mian koleron sur vin kaj juĝos vin laŭ viaj vojoj. Mi alportos sur vin ĉiujn viajn abomenindaĵojn. Mia okulo ne indulgos vin, nek mi havos kompaton; sed mi alportos viajn vojojn sur vin, kaj viaj abomenindaĵoj estos inter vi. Tiam vi scios, ke mi estas Javeo.’
+
+“La Sinjoro Javeo diras: ‘Katastrofo! Unika katastrofo! Jen ĝi venas. Fino venis. La fino venis! Ĝi vekiĝas kontraŭ vi. Jen ĝi venas. Via pereo venis al vi, loĝanto de la lando! La tempo venis! La tago estas proksima—tago de tumulto kaj ne de ĝoja kanto sur la montoj. Nun mi baldaŭ verŝos mian koleron sur vin kaj plenumos mian koleron kontraŭ vi kaj juĝos vin laŭ viaj vojoj. Mi alportos sur vin ĉiujn viajn abomenindaĵojn. Mia okulo ne indulgos vin; nek mi havos kompaton. Mi punos vin laŭ viaj vojoj. Viaj abomenindaĵoj estos inter vi. Tiam vi scios, ke mi estas Javeo kiu frapas.’”
+--- input630
+“‘Jen, la tago! Jen, ĝi venas! Via pereo eliris. La bastono ekfloris. Fiero ekburĝonis. Perforto leviĝis en bastonon de malboneco. Neniu restos, nek el ilia amaso, nek el ilia riĉeco. Nenio valora estos inter ili. La tempo venis! La tago proksimiĝas. Ne lasu la aĉetanton ĝoji, nek la vendanton plori; ĉar kolero estas sur la tuta amaso. Ĉar la vendanto ne revenos al tio, kio estas vendita, kvankam ili ankoraŭ vivas; ĉar la vizio koncernas la tutan amason. Neniu revenos. Neniu fortigos sin en la maljusteco de sia vivo. Ili blovis la trumpetojn kaj pretigis ĉion; sed neniu iras al la batalo, ĉar mia kolero estas sur la tuta amaso.
+
+“‘La glavo estas ekstere, kaj pesto kaj malsato interne. Tiu, kiu estas en la kampo, mortos per la glavo. Tiu, kiu estas en la urbo, estos konsumita de malsato kaj pesto. Sed tiuj, kiuj eskapos, ili eskapos kaj estos sur la montoj kiel kolomboj de la valoj, ĉiuj ĝemantaj, ĉiu en sia maljusteco. Ĉiuj manoj estos senfortaj, kaj ĉiuj genuoj estos malfortaj kiel akvo. Ili ankaŭ vestos sin per sakaĵo, kaj teruro kovros ilin. Honto estos sur ĉiuj vizaĝoj, kaj kalveco sur ĉiuj kapoj. Ili ĵetos sian arĝenton sur la stratojn, kaj ilia oro estos kiel malpuraĵo. Ilia arĝento kaj ilia oro ne povos savi ilin en la tago de la kolero de Yahweh. Ili ne kontentigos siajn animojn nek plenigos siajn ventrojn; ĉar ĝi estis la falilo de ilia maljusteco. Pri la beleco de lia ornamo, li starigis ĝin en majesto; sed ili faris bildojn de siaj abomenindaĵoj kaj siaj detestindaj aferoj tie. Tial mi faris ĝin por ili kiel malpuraĵo. Mi donos ĝin en la manojn de fremduloj kiel rabaĵon, kaj al la malbonuloj de la tero kiel prirabon; kaj ili profanos ĝin. Mi ankaŭ turnos mian vizaĝon for de ili, kaj ili profanos mian sekretan lokon. Rabistoj eniros en ĝin kaj profanos ĝin.
+
+“‘Faru ĉenojn, ĉar la lando estas plena de sangaj krimoj, kaj la urbo estas plena de perforto. Tial mi alportos la plej malbonajn el la nacioj, kaj ili posedos iliajn domojn. Mi ankaŭ ĉesigos la fieron de la fortuloj. Iliaj sanktaj lokoj estos profanataj. Detruo venas! Ili serĉos pacon, sed ĝi ne estos trovita. Malbono venos sur malbonon, kaj onidiro sur onidiron. Ili serĉos vizion de la profeto; sed la leĝo pereos de la pastro, kaj konsilo de la plejaĝuloj. La reĝo ploros, kaj la princo estos vestita per dezolado. La manoj de la popolo de la lando estos konfuzitaj. Mi agos kontraŭ ili laŭ ilia vojo, kaj laŭ iliaj propraj juĝoj mi juĝos ilin. Tiam ili scios, ke mi estas Yahweh.’”
+
+### Ĉapitro 8
+
+En la sesa jaro, en la sesa monato, en la kvina tago de la monato, dum mi sidis en mia domo kaj la plejaĝuloj de Judujo sidis antaŭ mi, la mano de Sinjoro Yahweh falis sur min tie. Tiam mi vidis, kaj jen simileco kiel aspekto de fajro—de lia talio malsupren fajro, kaj de lia talio supren kiel aspekto de brilo, kvazaŭ brulanta metalo. Li etendis formon de mano kaj kaptis min je hararo de mia kapo; kaj la Spirito levis min inter la tero kaj la ĉielo kaj alportis min en vizioj de Dio al Jerusalemo, al la pordo de la pordego de la interna korto kiu rigardas norden, kie estis la sidloko de la bildo de ĵaluzo, kiu provokas ĵaluzon. Jen, la gloro de Dio de Izrael estis tie, laŭ la aspekto kiun mi vidis sur la ebenaĵo.
+
+Tiam li diris al mi: “Ho filo de homo, levas viajn okulojn nun laŭ la vojo norden.”
+
+Do mi levis miajn okulojn laŭ la vojo norden kaj vidis norde de la pordego de la altaro ĉi tiun bildon de ĵaluzo ĉe la enirejo.
+
+Li diris al mi: “Ho filo de homo, ĉu vi vidas kion ili faras? Eĉ grandajn abomenindaĵojn kiujn faras ĉi tie la domo de Izrael, ke mi foriru malproksimen de mia sanktejo? Sed vi denove vidos ankoraŭ aliajn grandajn abomenindaĵojn.”
+
+Li kondukis min al la pordo de la korto; kaj kiam mi rigardis, jen truo en la muro. Tiam li diris al mi: “Ho filo de homo, fosu nun en la muro.”
+--- input631
+Kiam mi fosadis en la muro, mi vidis pordon.
+
+Li diris al mi: “Eniru kaj vidu la malvirtajn abomenaĵojn, kiujn ili faras ĉi tie.”
+
+Do mi eniris kaj rigardis, kaj mi vidis ĉiun specon de rampaj estaĵoj, abomenindajn bestojn, kaj ĉiujn idolojn de la domo de Izrael, bildigitajn ĉirkaŭe sur la muro. Sepdek viroj el la plejaĝuloj de la domo de Izrael staris antaŭ ili. Meze de ili staris Jaazanja, filo de Ŝafan, ĉiu kun sia incensilo en la mano; kaj la odoro de la nubo de incenso leviĝis.
+
+Tiam li diris al mi: “Ho filo de homo, ĉu vi vidis, kion la plejaĝuloj de la domo de Izrael faras en la mallumo, ĉiu en siaj ĉambroj de bildoj? Ĉar ili diras: ‘Jahve ne vidas nin. Jahve forlasis la landon.’” Li ankaŭ diris al mi: “Vi denove vidos pli grandajn abomenaĵojn, kiujn ili faras.”
+
+Tiam li kondukis min al la pordo de la pordego de la domo de Jahve, kiu estis al la nordo; kaj mi vidis virinojn sidantajn tie, plorantajn pro Tamuz. Tiam li diris al mi: “Ĉu vi vidis tion, ho filo de homo? Vi denove vidos ankoraŭ pli grandajn abomenaĵojn ol ĉi tiuj.”
+
+Li kondukis min en la internan korton de la domo de Jahve; kaj mi vidis ĉe la pordo de la templo de Jahve, inter la portiko kaj la altaro, estis ĉirkaŭ dudek kvin viroj kun siaj dorsoj turnitaj al la templo de Jahve kaj iliaj vizaĝoj turnitaj al la oriento. Ili adoris la sunon orienten.
+
+Tiam li diris al mi: “Ĉu vi vidis tion, ho filo de homo? Ĉu estas malgranda afero por la domo de Jehuda fari la abomenaĵojn, kiujn ili faras ĉi tie? Ĉar ili plenigis la landon per perforto kaj denove turniĝis por provoki min al kolero. Jen, ili metas branĉon al sia nazo. Tial mi ankaŭ agos kun kolero. Mia okulo ne indulgos, nek mi havos kompaton. Kvankam ili krios en miaj oreloj per laŭta voĉo, tamen mi ne aŭskultos ilin.”
+
+### Ĉapitro 9
+
+Tiam li kriis en miaj oreloj per laŭta voĉo, dirante: “Voku tiujn, kiuj respondecas pri la urbo, por alproksimiĝi, ĉiu viro kun sia detrua armilo en sia mano.” Jen ses viroj venis el la direkto de la supra pordego, kiu estas al la nordo, ĉiu viro kun sia buĉa armilo en sia mano. Unu viro meze de ili estis vestita per tolo, kun skribista inkujo ĉe sia flanko. Ili eniris kaj staris apud la bronza altaro.
+
+La gloro de la Dio de Izrael leviĝis de super la kerubo, kie ĝi estis, ĝis la sojlo de la domo; kaj li vokis al la viro vestita per tolo, kiu havis la skribistan inkujon ĉe sia flanko. Jahve diris al li: “Iru tra la mezo de la urbo, tra la mezo de Jerusalemo, kaj metu markon sur la fruntojn de tiuj viroj, kiuj ĝemas kaj ploras pro ĉiuj abomenaĵoj farataj en ĝi.”
+
+Al la aliaj li diris en mia aŭdo: “Iru tra la urbo post li kaj frapu. Ne indulgu via okulo, nek havu kompaton. Mortigu tute maljunulojn, junulojn, virgulinojn, infanojn kaj virinojn; sed ne alproksimiĝu al iu ajn viro sur kiu estas la marko. Komencu ĉe mia sanktejo.”
+
+Tiam ili komencis ĉe la maljunuloj, kiuj estis antaŭ la domo.
+
+Li diris al ili: “Malpurigu la domon kaj plenigu la kortojn per mortigitoj. Iru eksteren!”
+
+Ili iris eksteren kaj frapis en la urbo.
+
+Dum ili mortigis kaj mi restis sola, mi falis sur mian vizaĝon kaj kriis, dirante: “Ho Sinjoro Jahve! Ĉu vi detruos ĉiujn restantojn de Izrael dum vi elverŝas vian koleron sur Jerusalemon?”
+
+Tiam li diris al mi: “La malpieco de la domo de Izrael kaj Jehuda estas tre granda, kaj la lando estas plena je sango, kaj la urbo plena je perversio; ĉar ili diras: ‘Jahve forlasis la landon, kaj Jahve ne vidas.’ Ankaŭ rilate al mi mem, mia okulo ne indulgos, nek mi havos kompaton; sed mi venigos ilian vojon sur ilian kapon.”
+
+Jen, la viro vestita per tolo, kiu havis la inkujon ĉe sia flanko, raportis pri tio, dirante: “Mi faris kiel vi ordonis al mi.”
+
+### Ĉapitro 10
+
+Tiam mi rigardis kaj jen, en la firmamento super la kapoj de la keruboj aperis io kiel safira ŝtono, kiel aspekto de trono. Li parolis al la viro vestita per tolo kaj diris: “Eniru inter la turniĝantaj radoj sube de la kerubo kaj plenigu ambaŭ viajn manojn per karboj el fajro inter la keruboj kaj disĵetu ilin super la urbo.”
+--- input632
+Li eniris dum mi observis. Nun la keruboj staris ĉe la dekstra flanko de la domo, kiam la viro eniris; kaj la nubo plenigis la internan korton. La gloro de Jave leviĝis de super la kerubo kaj staris super la sojlo de la domo; kaj la domo estis plenigita per la nubo, kaj la korto estis plena de la brilo de la gloro de Jave. Oni aŭdis la sonon de la flugiloj de la keruboj eĉ ĝis la ekstera korto, kiel la voĉo de Dio Ĉiopova kiam Li parolas.
+
+Kaj okazis, kiam Li ordonis al la viro vestita per tolo, dirante: “Prenu fajron el inter la turniĝantaj radoj, el inter la keruboj,” ke li eniris kaj staris apud rado. La kerubo etendis sian manon el inter la keruboj al la fajro, kiu estis inter la keruboj, kaj prenis iom el ĝi, kaj metis ĝin en la manojn de tiu, kiu estis vestita per tolo, kiu prenis ĝin kaj eliris. La formo de homa mano aperis tie ĉe la keruboj sub iliaj flugiloj.
+
+Mi rigardis, kaj jen estis kvar radoj apud la keruboj, unu rado apud unu kerubo, kaj alia rado apud alia kerubo. La aspekto de la radoj estis kiel berilo-ŝtono. Koncerne ilian aspekton, ĉiuj kvar havis saman similecon, kiel rado ene de rado. Kiam ili iris, ili iris en siaj kvar direktoj. Ili ne turniĝis dum ili iris, sed al la loko, kien rigardis la kapo, ili sekvis ĝin. Ili ne turniĝis dum ili iris. Ilia tuta korpo, inkluzive de iliaj dorsoj, iliaj manoj, iliaj flugiloj, kaj la radoj, estis plenaj de okuloj ĉirkaŭe, eĉ la radoj kiujn ĉiuj kvar havis. Koncerne la radojn, oni nomis ilin en mia aŭdo “la turniĝantaj radoj.” Ĉiu el ili havis kvar vizaĝojn. La unua vizaĝo estis vizaĝo de kerubo. La dua vizaĝo estis vizaĝo de homo. La tria vizaĝo estis vizaĝo de leono. La kvara estis vizaĝo de aglo.
+
+La keruboj leviĝis. Ĉi tio estas la viva estaĵo, kiun mi vidis ĉe la rivero Kebar. Kiam la keruboj iris, la radoj iris apud ili; kaj kiam la keruboj levis siajn flugilojn por leviĝi de sur la tero, ankaŭ la radoj ne foriĝis de apud ili. Kiam ili staris, ĉi tiuj staris. Kiam ili leviĝis, ĉi tiuj leviĝis kun ili; ĉar la spirito de la viva estaĵo estis en ili.
+
+La gloro de Jave eliris de super la sojlo de la domo kaj staris super la keruboj. La keruboj levis siajn flugilojn kaj leviĝis de sur la tero antaŭ miaj okuloj kiam ili eliris, kun la radoj apud ili. Tiam ili staris ĉe la pordo de la orienta pordego de la domo de Jave; kaj la gloro de Dio de Izrael estis super ili supre.
+
+Ĉi tio estas la viva estaĵo, kiun mi vidis sub Dio de Izrael ĉe la rivero Kebar; kaj mi sciis, ke ili estis keruboj. Ĉiu havis kvar vizaĝojn, kaj ĉiu kvar flugilojn. La simileco de homaj manoj estis sub iliaj flugiloj. Koncerne la similecon de iliaj vizaĝoj, ili estis la vizaĝoj kiujn mi vidis ĉe la rivero Kebar, iliaj aspektoj kaj ili mem. Ili ĉiuj iris rekte antaŭen.
+
+### Ĉapitro 11
+
+Plue, la Spirito levis min kaj kondukis min al la orienta pordego de la domo de Jave, kiu rigardas orienten. Jen dudek kvin viroj estis ĉe la pordo de la pordego; kaj mi vidis inter ili Jaazanjaon, filon de Azur, kaj Pelatjaon, filon de Benaja, princojn de la popolo. Li diris al mi: “Ho filo de homo, ĉi tiuj estas la viroj kiuj elpensas maljustaĵon kaj donas malvirtan konsilon en ĉi tiu urbo; kiuj diras: ‘La tempo ne estas proksima por konstrui domojn. Ĉi tio estas kaldrono, kaj ni estas la viando.’ Tial profetu kontraŭ ili. Profetu, ho filo de homo.”
+
+La Spirito de Jave falis sur min, kaj Li diris al mi: “Parolu: ‘Jave diras: “Tiel vi diris, ho domo de Izrael; ĉar Mi konas tion kio venas en vian menson. Vi multigis viajn mortigitojn en ĉi tiu urbo, kaj vi plenigis ĝiajn stratojn per mortigitoj.”
+
+“‘Tial diras Sinjoro Jave: “Viaj mortigitoj kiujn vi metis en ĝian mezo, ili estas la viando, kaj ĉi tio estas kaldrono; sed vi estos elprenitaj el ĝia mezo. Vi timis glavon; kaj Mi alportos glavon sur vin,” diras Sinjoro Jave. “Mi elprenos vin el ĝia mezo, kaj transdonos vin en la manojn de fremduloj, kaj Mi plenumos juĝojn inter vi. Vi falos per glavo. Mi juĝos vin ĉe la limo de Izrael. Tiam vi scios ke Mi estas Jave. Ĉi tio ne estos via kaldrono, nek vi estos la viando en ĝia mezo. Mi juĝos vin ĉe la limo de Izrael. Vi scios ke Mi estas Jave; ĉar vi ne marŝis laŭ Miaj statutoj. Vi ne plenumis Miajn ordonojn, sed agis laŭ ordonoj de nacioj kiuj estas ĉirkaŭ vi.” ’”
+--- input633
+Kiam mi profetis, Pelatja, filo de Benaja, mortis. Tiam mi falis sur mian vizaĝon, kaj ekkriis per laŭta voĉo, kaj diris: “Ho Sinjoro Javeho! Ĉu Vi plene ekstermos la restaĵon de Izrael?”
+
+La vorto de Javeho venis al mi, dirante: “Ho filo de homo, viaj fratoj, eĉ viaj fratoj, la viroj de via parencaro, kaj la tuta domo de Izrael, ĉiuj ili, estas tiuj, al kiuj la loĝantoj de Jerusalemo diris: ‘Foriru malproksimen de Javeho. Ĉi tiu lando estas donita al ni kiel posedaĵo.’
+
+“Tial diru: ‘La Sinjoro Javeho diras: “Kvankam Mi forigis ilin malproksimen inter la naciojn, kaj kvankam Mi disĵetis ilin inter la landojn, tamen Mi estos por ili sanktejo dum mallonga tempo en la landoj, kien ili venis.”’
+
+“Tial diru: ‘La Sinjoro Javeho diras: “Mi kolektos vin el inter la popoloj, kaj kunigos vin el la landoj, kien vi estis disĵetitaj, kaj Mi donos al vi la landon de Izrael.”
+
+“‘Ili venos tien, kaj ili forigos ĉiujn ĝiajn abomenindaĵojn kaj ĉiujn ĝiajn abomenojn de tie. Mi donos al ili unu koron, kaj Mi metos novan spiriton en ilin. Mi forprenos la ŝtonan koron el ilia karno, kaj donos al ili koron el karno, por ke ili iru laŭ Miaj leĝoj, kaj observu Miajn ordonojn, kaj plenumu ilin. Ili estos Mia popolo, kaj Mi estos ilia Dio. Sed rilate tiujn, kies koro sekvas la koron de iliaj abomenindaĵoj kaj iliaj abomenoj, Mi venigos ilian vojon sur iliajn proprajn kapojn,’ diras la Sinjoro Javeho.”
+
+Tiam la keruboj levis siajn flugilojn, kaj la radoj estis apud ili. La gloro de la Dio de Izrael estis super ili supre. La gloro de Javeho leviĝis el la mezo de la urbo, kaj staris sur la monto oriente de la urbo. La Spirito levis min, kaj kondukis min en vizio per la Spirito de Dio al Ĥaldeujo, al la kaptitoj.
+
+Do la vizio, kiun mi vidis, foriris de mi. Tiam mi parolis al la kaptitoj ĉiujn aferojn, kiujn Javeho montris al mi.
+
+### Ĉapitro 12
+
+La vorto de Javeho ankaŭ venis al mi, dirante: “Ho filo de homo, vi loĝas meze de ribelema domo, kiu havas okulojn por vidi sed ne vidas, kiu havas orelojn por aŭdi sed ne aŭdas; ĉar ili estas ribelema domo.
+
+“Tial vi, filo de homo, preparu vian pakaĵon por translokiĝo, kaj moviĝu tage antaŭ iliaj okuloj. Vi moviĝu el via loko al alia loko antaŭ iliaj okuloj. Eble ili konsideros tion, kvankam ili estas ribelema domo. Vi elportu vian pakaĵon tage antaŭ iliaj okuloj kiel pakaĵon por translokiĝo. Vi eliru mem vespere antaŭ iliaj okuloj, kiel kiam homoj eliras en ekzilon. Fosetu tra la muro antaŭ iliaj okuloj, kaj portu vian pakaĵon tiamaniere. Antaŭ iliaj okuloj vi portu ĝin sur via ŝultro kaj eliru en mallumo. Kovru vian vizaĝon, por ke vi ne vidu la landon; ĉar Mi faris vin signo por la domo de Izrael.”
+
+Mi faris tiel kiel mi estis ordonita. Mi elportis mian pakaĵon tage kiel pakaĵon por translokiĝo, kaj vespere mi fosetis tra la muro per mia mano. Mi elportis ĝin en mallumo kaj portis ĝin sur mia ŝultro antaŭ iliaj okuloj.
+
+Matene la vorto de Javeho venis al mi, dirante: “Ho filo de homo, ĉu la domo de Izrael, la ribelema domo, ne diris al vi: ‘Kion vi faras?’
+
+“Diru al ili: ‘La Sinjoro Javeho diras: “Ĉi tiu ŝarĝo rilatas al la princo en Jerusalemo kaj al la tuta domo de Izrael inter kiuj ili estas.”’
+
+“Diru: ‘Mi estas via signo. Kiel mi faris, tiel estos farite al ili. Ili iros en ekzilon, en kaptitecon.
+
+“‘La princo kiu estas inter ili portos sian pakaĵon sur sia ŝultro en mallumo kaj eliros. Ili fosetos tra la muro por porti aĵojn tiamaniere. Li kovros sian vizaĝon ĉar li ne vidos la landon per siaj okuloj. Mi ankaŭ etendos Mian reton sur lin, kaj li estos kaptita en Mia kaptilo. Mi kondukos lin al Babel al la lando de la Ĥaldeoj; tamen li ne vidos ĝin kvankam li mortos tie. Mi disĵetos al ĉiu vento ĉiujn kiuj estas ĉirkaŭ li por helpi lin, kaj ĉiujn liajn grupojn. Mi eltirus glavon post ili.
+
+“‘Ili scios ke Mi estas Javeho kiam Mi disigos ilin inter la nacioj kaj disĵetos ilin tra la landoj. Sed Mi lasos kelkajn el ili eskapi de la glavo, malsato kaj pesto, por ke ili deklaru ĉiujn siajn abomenindaĵojn inter la nacioj kien ili venos. Tiam ili scios ke Mi estas Javeho.’”
+--- input634
+Krome, la vorto de Javeo venis al mi, dirante: “Ho filo de homo, manĝu vian panon kun tremado, kaj trinku vian akvon kun tremado kaj kun timo. Diru al la popolo de la lando: ‘Tiele diras la Sinjoro Javeo pri la loĝantoj de Jerusalemo kaj la lando de Izrael: “Ili manĝos sian panon kun timo kaj trinkos sian akvon kun konsterniĝo, por ke ĝia lando fariĝu dezerta, kaj ĉio, kio estas en ĝi, pro la perforto de ĉiuj, kiuj loĝas en ĝi. La urboj, kiuj estas loĝataj, estos ruinigitaj, kaj la lando fariĝos dezerta. Tiam vi scios, ke Mi estas Javeo.”’”
+
+La vorto de Javeo venis al mi, dirante: “Ho filo de homo, kio estas ĉi tiu proverbo, kiun vi havas en la lando de Izrael, dirante: ‘La tagoj estas prokrastitaj, kaj ĉiu vizio malsukcesas’? Diru do al ili: ‘Tiele diras la Sinjoro Javeo: “Mi faros ĉi tiun proverbon ĉesi, kaj ili ne plu uzos ĝin kiel proverbon en Izrael;”’ sed diru al ili: ‘“La tagoj estas proksimaj, kaj la plenumo de ĉiu vizio. Ĉar ne plu estos iu falsa vizio nek flata divenado en la domo de Izrael. Ĉar Mi estas Javeo. Mi parolos, kaj la vorto, kiun Mi parolas, estos plenumita. Ĝi ne plu estos prokrastita; ĉar en viaj tagoj, ribela domo, Mi parolos la vorton kaj plenumos ĝin,” diras la Sinjoro Javeo.’”
+
+Denove la vorto de Javeo venis al mi, dirante: “Ho filo de homo, jen tiuj el la domo de Izrael diras: ‘La vizio, kiun li vidas, estas por multaj tagoj poste, kaj li profetas pri tempoj malproksimaj.’
+
+“Tial diru al ili: ‘Tiele diras la Sinjoro Javeo: “Neniu el Miaj vortoj plu estos prokrastita, sed la vorto, kiun Mi parolas, estos plenumita,” diras la Sinjoro Javeo.’”
+
+### Ĉapitro 13
+
+La vorto de Javeo venis al mi, dirante: “Ho filo de homo, profetu kontraŭ la profetoj de Izrael, kiuj profetas, kaj diru al tiuj, kiuj profetas el sia propra koro: ‘Aŭskultu la vorton de Javeo: Tiele diras la Sinjoro Javeo: “Ve al la malsaĝaj profetoj, kiuj sekvas sian propran spiriton kaj nenion vidis! Izrael, viaj profetoj estis kiel vulpoj en ruinoj. Vi ne supreniris en la breĉojn nek konstruis la muron por la domo de Izrael, por stari en la batalo en la tago de Javeo. Ili vidis malveron kaj mensogan divenadon, kiuj diras: ‘Javeo diras;’ sed Javeo ne sendis ilin. Ili igis homojn esperi, ke la vorto estus konfirmita. Ĉu vi ne vidis malveran vizion, kaj ĉu vi ne parolis mensogan divenadon, kiam vi diras: ‘Javeo diras;’ sed Mi ne parolis?”
+
+“‘Tial la Sinjoro Javeo diras: “Ĉar vi parolis malveron kaj vidis mensogojn, jen Mi estas kontraŭ vi,” diras la Sinjoro Javeo. “Mia mano estos kontraŭ la profetoj, kiuj vidas falsajn viziojn kaj kiuj eldiras mensogajn divenadojn. Ili ne estos en la konsilio de Mia popolo, nek ili estos skribitaj en la libro de la domo de Izrael, nek ili eniros en la landon de Izrael. Tiam vi scios, ke Mi estas la Sinjoro Javeo.”
+
+“‘Ĉar ili delogis Mian popolon, dirante: “Paco;” kaj ne ekzistas paco. Kiam iu konstruas muron, jen ili ŝmiras ĝin per kalko. Diru al tiuj, kiuj ŝmiras ĝin per kalko, ke ĝi falos. Estos superfluanta pluvo; kaj vi, grandaj hajloŝtonoj, falos. Ventego disŝiros ĝin. Jen kiam la muro falos, ĉu oni ne diros al vi: “Kie estas la kalko per kiu vi ŝmiris ĝin?”
+
+“‘Tial la Sinjoro Javeo diras: “Mi eĉ disŝiros ĝin per ventego en Mia kolero. Estos superfluanta pluvo en Mia kolero, kaj grandaj hajloŝtonoj en kolero por konsumi ĝin. Do Mi rompos la muron, kiun vi ŝmiris per kalko, kaj faligos ĝin ĝis la tero tiel ke ĝia fundamento estos malkovrita. Ĝi falos, kaj vi estos konsumitaj meze de ĝi. Tiam vi scios, ke Mi estas Javeo. Tiel Mi plenumos Mian koleron sur la muro kaj sur tiuj, kiuj ŝmiris ĝin per kalko. Mi diros al vi: ‘La muro ne plu ekzistas nek tiuj, kiuj ŝmiris ĝin— nome la profetoj de Izrael kiuj profetas pri Jerusalemo kaj kiuj vidas viziojn de paco por ŝi, sed ne ekzistas paco,’” diras la Sinjoro Javeo.’”
+--- input635
+Vi, filo de homo, turnu vian vizaĝon kontraŭ la filinoj de via popolo, kiuj profetas el sia propra koro; kaj profetu kontraŭ ili, kaj diru: “La Sinjoro Javeo diras: ‘Ve al la virinoj, kiuj kudras magiajn bandaĝojn sur ĉiuj kubutoj kaj faras vualojn por la kapo de homoj de ĉiu staturo por ĉasi animojn! Ĉu vi ĉasos la animojn de mia popolo kaj savos animojn por vi mem? Vi malsanktigis min inter mia popolo pro manplenoj da hordeo kaj pro pecoj da pano, por mortigi la animojn, kiuj ne devus morti, kaj por savi la animojn, kiuj ne devus vivi, per viaj mensogoj al mia popolo, kiu aŭskultas mensogojn.’
+
+“Tial la Sinjoro Javeo diras: ‘Jen, mi estas kontraŭ viaj magiaj bandaĝoj, per kiuj vi ĉasas la animojn por igi ilin flugi, kaj mi disŝiros ilin de viaj brakoj. Mi lasos la animojn flugi liberaj, eĉ la animojn, kiujn vi kaptas kiel birdojn. Mi ankaŭ disŝiros viajn vualojn kaj liberigos mian popolon el via mano; kaj ili ne plu estos en via mano por esti kaptitaj. Tiam vi scios, ke mi estas Javeo. Ĉar per mensogoj vi malĝojigis la koron de la virtuloj, kiujn mi ne malĝojigis; kaj fortigis la manojn de la malvirtuloj, por ke li ne revenu de sia malvirta vojo kaj estu savita viva. Tial vi ne plu vidos falsajn viziojn nek praktikos divenadon. Mi liberigos mian popolon el via mano. Tiam vi scios, ke mi estas Javeo.’”
+
+### Ĉapitro 14
+
+Tiam kelkaj el la pliaĝuloj de Izrael venis al mi kaj sidiĝis antaŭ mi. La vorto de Javeo venis al mi, dirante: “Filo de homo, ĉi tiuj viroj prenis siajn idolojn en sian koron kaj metis la falilon de sia malpieco antaŭ sian vizaĝon. Ĉu mi entute estu konsultata de ili? Tial parolu al ili kaj diru al ili: ‘La Sinjoro Javeo diras: “Ĉiu viro el la domo de Izrael, kiu prenas siajn idolojn en sian koron kaj metas la falilon de sia malpieco antaŭ sian vizaĝon, tiam venas al la profeto, mi, Javeo, respondos al li tie laŭ la multo de liaj idoloj, por ke mi kaptu la domon de Izrael en ilia propra koro, ĉar ili ĉiuj fremdiĝis de mi per siaj idoloj.”’
+
+“Tial diru al la domo de Izrael: ‘La Sinjoro Javeo diras: “Revenu kaj turnu vin for de viaj idoloj! Deturnu viajn vizaĝojn de ĉiuj viaj abomenindaĵoj.
+
+“‘“Ĉar ĉiu el la domo de Izrael aŭ el la fremduloj, kiuj loĝas en Izrael, kiu apartigas sin de mi kaj prenas siajn idolojn en sian koron kaj metas la falilon de sia malpieco antaŭ sian vizaĝon kaj venas al la profeto por konsulti min pri si mem, mi, Javeo, respondos al li per mi mem. Mi turnos mian vizaĝon kontraŭ tiun viron kaj faros lin teruraĵo, signo kaj proverbo, kaj mi fortranĉos lin el inter mia popolo. Tiam vi scios, ke mi estas Javeo.
+
+“‘“Se la profeto estas trompita kaj parolas vorton, mi, Javeo, trompis tiun profeton, kaj mi etendos mian manon sur lin kaj detruos lin el inter mia popolo Izrael. Ili portos sian malpiecon. La malpieco de la profeto estos eĉ kiel la malpieco de tiu, kiu serĉas lin, por ke la domo de Izrael ne plu erarvagu for de mi nek plu malpurigu sin per ĉiuj siaj pekoj; sed ke ili estu mia popolo kaj mi estu ilia Dio,” diras la Sinjoro Javeo.’”
+
+La vorto de Javeo venis al mi, dirante: “Filo de homo, kiam lando pekas kontraŭ mi farante krimon, kaj mi etendas mian manon sur ĝin kaj rompas ĝian panbastonon kaj sendas malsaton sur ĝin kaj fortranĉas el ĝi homon kaj beston—kvankam ĉi tiuj tri viroj, Noa, Danielo kaj Ijob estus en ĝi, ili savus nur siajn proprajn animojn per sia justeco,” diras la Sinjoro Javeo.
+
+“Se mi kaŭzas malbonajn bestojn trairi la landon kaj ili detruas ĝin tiel ke neniu homo povas trairi pro la bestoj—kvankam ĉi tiuj tri viroj estus en ĝi, kiel mi vivas,” diras la Sinjoro Javeo, “ili savus nek filojn nek filinojn. Ili nur estus savitaj mem, sed la lando estus dezerta.
+
+“Aŭ se mi alportas glavon sur tiun landon kaj diras: ‘Glavo, trairu la landon,’ tiel ke mi fortranĉas el ĝi homon kaj beston—kvankam ĉi tiuj tri viroj estus en ĝi, kiel mi vivas,” diras la Sinjoro Javeo, “ili savus nek filojn nek filinojn; sed ili nur estus savitaj mem.
+--- input636
+“Ĉu mi sendus peston en tiun landon kaj verŝus mian koleron sur ĝin per sango, por ekstermi el ĝi homon kaj beston—kvankam Noa, Daniel kaj Ijob estus en ĝi, kiel mi vivas,” diras la Sinjoro Javeo, “ili savus nek filon nek filinon; ili savus nur siajn proprajn animojn per sia justeco.”
+
+Ĉar la Sinjoro Javeo diras: “Kiom pli, kiam mi sendos miajn kvar severajn juĝojn sur Jerusalemon—la glavon, la malsaton, la malbonajn bestojn kaj la peston—por ekstermi el ĝi homon kaj beston! Tamen, jen, restos restaĵo en ĝi, kiu estos elportita, ambaŭ filoj kaj filinoj. Jen, ili eliros al vi, kaj vi vidos ilian vojon kaj iliajn agojn. Tiam vi estos konsolita pri la malbono, kiun mi alportis sur Jerusalemon, eĉ pri ĉio, kion mi alportis sur ĝin. Ili konsolos vin, kiam vi vidos ilian vojon kaj iliajn agojn; tiam vi scios, ke mi ne faris ĉion, kion mi faris en ĝi, sen kialo,” diras la Sinjoro Javeo.
+
+### Ĉapitro 15
+
+La vorto de Javeo venis al mi, dirante: “Ho filo de homo, kio estas la vinberarbo pli ol iu ajn alia arbo, la vinbranĉo inter la arboj de la arbaro? Ĉu oni prenos lignon de ĝi por fari ion? Ĉu homoj prenos ŝtipeton de ĝi por pendigi iun ujon sur ĝi? Jen, ĝi estas ĵetita en la fajron kiel brulaĵo; la fajro formanĝis ambaŭ ĝiajn finojn, kaj ĝia mezo estas bruligita. Ĉu ĝi estas utila por iu laboro? Jen, kiam ĝi estis tuta, ĝi ne estis taŭga por iu laboro. Kiom malpli, kiam la fajro formanĝis ĝin kaj ĝi estis bruligita, ĉu ĝi ankoraŭ estos taŭga por iu laboro?”
+
+Tial la Sinjoro Javeo diras: “Kiel la vinligno inter la arboj de la arbaro, kiun mi donis al la fajro kiel brulaĵo, tiel mi donos la loĝantojn de Jerusalemo. Mi turnos mian vizaĝon kontraŭ ilin. Ili eliros el la fajro, sed la fajro tamen formanĝos ilin. Tiam vi scios, ke mi estas Javeo, kiam mi turnos mian vizaĝon kontraŭ ilin. Mi faros la landon dezerta, ĉar ili agis malfidele,” diras la Sinjoro Javeo.
+
+### Ĉapitro 16
+
+Denove la vorto de Javeo venis al mi, dirante: “Ho filo de homo, igu Jerusalemon koni ŝiajn abomenindaĵojn; kaj diru: ‘La Sinjoro Javeo diras al Jerusalemo: “Via origino kaj via naskiĝo estas el la lando de Kanaananoj. Amorido estis via patro, kaj via patrino estis Ĥetidino. Pri via naskiĝo, en la tago kiam vi naskiĝis via umbiliko ne estis tranĉita. Vi ne estis lavita per akvo por purigi vin. Vi ne estis salita entute nek envolvita en tukoj entute. Neniu okulo kompateme rigardis vin por fari iun el tiuj aferoj al vi, por havi kompaton al vi; sed vi estis ĵetita en la malferman kampon, ĉar vi estis abomenata en la tago kiam vi naskiĝis.
+
+“‘ “Kiam mi preterpasis vin kaj vidis vin ruliĝantan en via sango, mi diris al vi: ‘Kvankam vi estas en via sango, vivu!’ Jes, mi diris al vi: ‘Kvankam vi estas en via sango, vivu!’ Mi igis vin multiĝi kiel tio, kio kreskas en la kampo, kaj vi kreskis kaj fariĝis granda, kaj vi atingis bonegan belecon. Viaj mamoj formiĝis, kaj viaj haroj kreskis; tamen vi estis nuda kaj sen vesto.
+
+“‘ “Nun kiam mi preterpasis vin kaj rigardis vin, jen via tempo estis la tempo de amo; kaj mi etendis mian mantelon super vin kaj kovris vian nudecon. Jes, mi promesis min al vi kaj eniris en interligon kun vi,” diras la Sinjoro Javeo, “kaj vi fariĝis mia.
+
+“‘ “Tiam mi lavis vin per akvo. Jes, mi plene forlavis vian sangon de vi kaj sanktoleis vin per oleo. Mi vestis vin ankaŭ per brodita laboro kaj metis ledajn sandalojn sur vin. Mi vestis vin per delikata tolo kaj kovris vin per silko. Mi ornamis vin per ornamaĵoj, metis braceletojn sur viajn manojn kaj metis ĉenon sur vian kolon. Mi metis ringon sur vian nazon, orelringojn en viajn orelojn kaj belan kronon sur vian kapon. Tiel vi estis ornamita per oro kaj arĝento. Viaj vestoj estis el delikata tolo, silko kaj brodita laboro. Vi manĝis bonkvalitan farunon, mielon kaj oleon. Vi estis ekstreme bela kaj prosperis ĝis reĝa rango. Via famo disvastiĝis inter la nacioj pro via beleco; ĉar ĝi estis perfekta pro mia majesto kiun mi metis sur vin,” diras la Sinjoro Javeo.
+--- input637
+“‘ “Sed vi fidis vian belecon, kaj vi malĉastis pro via famo, kaj vi elverŝis vian malĉastecon sur ĉiun preteriranton. Ĝi apartenis al li. Vi prenis kelkajn el viaj vestoj kaj faris al vi altajn lokojn ornamitajn per diversaj koloroj, kaj vi malĉastis sur ili. Tio ne devus okazi, nek ĝi estu. Vi ankaŭ prenis viajn belajn juvelojn el mia oro kaj mia arĝento, kiujn mi donis al vi, kaj faris al vi bildojn de viroj, kaj malĉastis kun ili. Vi prenis viajn broditajn vestojn, kovris ilin, kaj metis mian oleon kaj mian incenson antaŭ ili. Ankaŭ mian panon, kiun mi donis al vi, bonan farunon, oleon, kaj mielon, per kiuj mi nutris vin, vi eĉ metis ĝin antaŭ ili kiel agrablan aromon; kaj tiel estis,” diras la Sinjoro Jahve.
+
+“‘ “Krome vi prenis viajn filojn kaj viajn filinojn, kiujn vi naskis al mi, kaj vi oferbuĉis ilin al ili por esti formanĝitaj. Ĉu via malĉasteco estis bagatelo, ke vi mortigis miajn infanojn kaj transdonis ilin, igante ilin pasi tra la fajro al ili? En ĉiuj viaj abomenindaĵoj kaj via malĉasteco vi ne memoris la tagojn de via juneco, kiam vi estis nuda kaj malriĉa, kaj ruliĝis en via sango.
+
+“‘ “Ĉio ĉi okazis post via tuta malboneco—ve, ve al vi!” diras la Sinjoro Jahve— “ke vi konstruis al vi volbitan lokon, kaj faris al vi altan lokon sur ĉiu strato. Vi konstruis vian altan lokon ĉe la kapo de ĉiu vojo, kaj faris vian belecon abomenindaĵo, kaj malfermis viajn piedojn al ĉiu preteriranto, kaj multigis vian malĉastecon. Vi ankaŭ faris seksan malmoralon kun la Egiptoj, viaj najbaroj, grandaj de karno; kaj multigis vian malĉastecon por provoki min al kolero. Vidu do, mi etendis mian manon super vin, kaj mi malpliigis vian parton, kaj transdonis vin al la volo de tiuj, kiuj malamas vin, la filinoj de la Filiŝtoj, kiuj hontas pri via malĉasta vojo. Vi ankaŭ malĉastis kun la Asirianoj, ĉar vi estis nesatigebla; jes, vi malĉastis kun ili, kaj tamen vi ne estis kontenta. Vi plue multigis vian malĉastecon ĝis la lando de komercistoj, ĝis Kaldeo; kaj tamen vi ne estis kontenta per tio.
+
+“‘ “Kiel malforta estas via koro,” diras la Sinjoro Jahve, “ĉar vi faras ĉiujn ĉi aferojn, la laboron de senhonta prostituitino; en tio ke vi konstruas vian volbitan lokon ĉe la kapo de ĉiu vojo, kaj faras vian altan lokon sur ĉiu strato, kaj ne estis kiel prostituitino en tio ke vi malestimas pagon.
+
+“‘ “Adulta edzino, kiu prenas fremdulojn anstataŭ sia edzo! Homoj donas donacojn al ĉiuj prostituitinoj; sed vi donas viajn donacojn al ĉiuj viaj amantoj, kaj subaĉetas ilin, ke ili venu al vi de ĉiuj flankoj por via malĉasteco. Vi estas malsama ol aliaj virinoj en via malĉasteco, en tio ke neniu sekvas vin por fariĝi prostituitino; kaj dum vi donas salajron, kaj neniu salajro estas donita al vi, tial vi estas malsama.”’
+
+“Tial, prostituitino, aŭdu la vorton de Jahve: ‘La Sinjoro Jahve diras: “Ĉar via malpureco estis elverŝita, kaj via nudecon malkovrita per via malĉasteco kun viaj amantoj; kaj pro ĉiuj idoloj de viaj abomenindaĵoj, kaj pro la sango de viaj infanoj, kiujn vi donis al ili; tial vidu, mi kolektos ĉiujn viajn amantojn, kun kiuj vi ĝuis plezuron, kaj ĉiujn tiujn, kiujn vi amis, kun ĉiuj tiujn kiujn vi malamis. Mi eĉ kolektos ilin kontraŭ vin de ĉiuj flankoj, kaj malkovros vian nudecon al ili, ke ili vidu vian tutan nudecon. Mi juĝos vin kiel virinojn kiuj rompas geedzecon kaj verŝas sangon estas juĝataj; kaj mi venigos sur vin la sangon de kolero kaj ĵaluzo. Mi ankaŭ transdonos vin en iliajn manojn, kaj ili ĵetos malsupren vian volbitan lokon, kaj rompos viajn altajn lokojn. Ili senvestigos vin de viaj vestoj kaj prenos viajn belajn juvelojn. Ili lasos vin nuda kaj senhava. Ili ankaŭ venigos amason kontraŭ vin, kaj ili ŝtonmortigos vin per ŝtonoj, kaj trapikos vin per siaj glavoj. Ili bruligos viajn domojn per fajro, kaj plenumos juĝojn kontraŭ vi antaŭ multaj virinoj. Mi igos vin ĉesi esti prostituitino, kaj vi ankaŭ ne plu donos salajron. Tiel mi igos mian koleron kontraŭ vin ripozi, kaj mia ĵaluzo foriros de vi. Mi estos trankvila kaj ne plu koleros."
+--- input638
+“‘ “Ĉar vi ne memoris la tagojn de via juneco, sed koleris kontraŭ mi en ĉiuj ĉi tiuj aferoj; tial jen, mi ankaŭ alportos vian vojon sur vian kapon,” diras la Sinjoro Javeo: “kaj vi ne plu faros ĉi tiun malĉastecon kun ĉiuj viaj abomenindaĵoj.
+
+“‘ “Jen, ĉiuj, kiuj uzas proverbojn, uzos ĉi tiun proverbon kontraŭ vi, dirante: ‘Kiel estas la patrino, tiel estas ŝia filino.’ Vi estas la filino de via patrino, kiu malŝatas sian edzon kaj siajn infanojn; kaj vi estas la fratino de viaj fratinoj, kiuj malŝatis siajn edzojn kaj siajn infanojn. Via patrino estis Ĥetidino, kaj via patro estis Amorido. Via pli aĝa fratino estas Samario, kiu loĝas ĉe via maldekstra mano, ŝi kaj ŝiaj filinoj; kaj via pli juna fratino, kiu loĝas ĉe via dekstra mano, estas Sodomo kun ŝiaj filinoj. Tamen vi ne iris laŭ iliaj vojoj, nek faris iliajn abomenindaĵojn; sed baldaŭ vi fariĝis pli korupta ol ili en ĉiuj viaj vojoj. Kiel mi vivas,” diras la Sinjoro Javeo, “Sodomo, via fratino, ne faris, ŝi nek ŝiaj filinoj, kiel vi faris, vi kaj viaj filinoj.
+
+“‘ “Jen, tio estis la malbonago de via fratino Sodomo: fiereco, pleneco de pano, kaj prospera trankvilo estis en ŝi kaj en ŝiaj filinoj. Ŝi ankaŭ ne fortigis la manon de la malriĉulo kaj bezonanto. Ili estis arogantaj kaj faris abomenindaĵojn antaŭ mi. Tial mi forprenis ilin kiam mi tion vidis. Samario ne faris duonon de viaj pekoj; sed vi multigis viajn abomenindaĵojn pli ol ili, kaj pravigis viajn fratinojn per ĉiuj viaj abomenindaĵoj, kiujn vi faris. Vi ankaŭ portu vian propran honton, ĉar vi juĝis viajn fratinojn; per viaj pekoj, kiujn vi faris pli abomenindaj ol ili, ili estas pli justaj ol vi. Jes, estu ankaŭ konfuzita kaj portu vian honton, ĉar vi pravigis viajn fratinojn.
+
+“‘ “Mi inversigos ilian kaptitecon, la kaptitecon de Sodomo kaj ŝiaj filinoj, kaj la kaptitecon de Samario kaj ŝiaj filinoj, kaj la kaptitecon de viaj kaptitoj inter ili; por ke vi portu vian propran honton kaj hontu pro ĉio, kion vi faris, ĉar vi estas konsolo por ili. Viaj fratinoj, Sodomo kaj ŝiaj filinoj, revenos al sia antaŭa stato; kaj Samario kaj ŝiaj filinoj revenos al sia antaŭa stato; kaj vi kaj viaj filinoj revenos al via antaŭa stato. Ĉar via fratino Sodomo ne estis menciita per via buŝo en la tago de via fiereco, antaŭ ol via malpieco estis malkovrita, kiel en la tempo de la riproĉo de la filinoj de Sirio kaj de ĉiuj ĉirkaŭ ŝi, la filinoj de la Filiŝtoj, kiuj malestimas vin ĉirkaŭe. Vi portis vian malĉastecon kaj viajn abomenindaĵojn,” diras Javeo.
+
+“‘Ĉar la Sinjoro Javeo diras: “Mi ankaŭ traktos vin kiel vi agis, kiuj malestimis la ĵuron rompante la interligon. Tamen mi memoros mian interligon kun vi en la tagoj de via juneco, kaj mi starigos eternan interligon kun vi. Tiam vi memoros viajn vojojn kaj hontos kiam vi ricevos viajn fratinojn, viajn pli aĝajn fratinojn kaj viajn pli junajn; kaj mi donos ilin al vi kiel filinojn, sed ne per via interligo. Mi starigos mian interligon kun vi. Tiam vi scios, ke mi estas Javeo; por ke vi memoru kaj estu konfuzita kaj neniam plu malfermu vian buŝon pro via honto, kiam mi pardonis al vi ĉion, kion vi faris,” diras la Sinjoro Javeo.’”
+
+### Ĉapitro 17
+
+La vorto de Javeo venis al mi, dirante: “Ho filo de homo, rakontu enigmon kaj parolu parabole al la domo de Izrael; kaj diru: ‘La Sinjoro Javeo diras: “Granda aglo kun grandaj flugiloj kaj longaj plumoj, plena je plumoj kun diversaj koloroj, venis al Libano kaj prenis la supron de la cedro. Li detranĉis la plej supran el ĝiaj junaj branĉetoj kaj portis ĝin al lando de komerco. Li plantis ĝin en urbo de komercistoj.
+
+“‘ “Li ankaŭ prenis iom da semo de la lando kaj plantis ĝin en fruktodona grundo. Li metis ĝin apud multaj akvoj. Li starigis ĝin kiel salikon. Ĝi kreskis kaj fariĝis disvastiĝanta vito kun malalta staturo, kies branĉoj turniĝis al li, kaj ĝiaj radikoj estis sub li. Tiel ĝi fariĝis vito, produktis branĉojn kaj elsendis branĉetojn.
+--- input639
+“‘ “Estis ankaŭ alia granda aglo kun grandaj flugiloj kaj multaj plumoj. Jen, ĉi tiu vito klinis siajn radikojn al li kaj etendis siajn branĉojn al li, el la tero kie ĝi estis plantita, por ke li akvumu ĝin. Ĝi estis plantita en bona grundo apud multaj akvoj, por ke ĝi produktu branĉojn kaj portu frukton, por ke ĝi estu bona vito.”’
+
+“Diru: ‘La Sinjoro Yahweh diras: “Ĉu ĝi prosperos? Ĉu li ne eltiros ĝiajn radikojn kaj detranĉos ĝian frukton, por ke ĝi velku, por ke ĉiuj ĝiaj freŝaj ŝosoj velku? Ĝi ne povas esti levita el siaj radikoj per forta brako aŭ multaj homoj. Jes, jen, plantita, ĉu ĝi prosperos? Ĉu ĝi ne tute velkos kiam la orienta vento ĝin tuŝos? Ĝi velkos en la grundo kie ĝi kreskis.”’”
+
+Plue la vorto de Yahweh venis al mi, dirante: “Diru nun al la ribelema domo: ‘Ĉu vi ne scias, kion signifas ĉi tiuj aferoj?’ Diru al ili: ‘Jen, la reĝo de Babel venis al Jerusalemo kaj prenis ĝian reĝon kaj ĝiajn princojn kaj kondukis ilin al Babel. Li prenis unu el la reĝa idaro kaj faris kun li interligon. Li ankaŭ metis lin sub ĵuron kaj forprenis la potenculojn de la lando, por ke la regno estu malaltigita, por ke ĝi ne leviĝu, sed ke per observado de lia interligo ĝi povu stari. Sed li ribelis kontraŭ li sendante siajn ambasadorojn al Egiptujo, por ke ili donu al li ĉevalojn kaj multajn homojn. Ĉu li prosperos? Ĉu tiu, kiu faras tiajn aferojn, eskapos? Ĉu li rompos la interligon kaj tamen eskapos?
+
+“‘Kiel mi vivas,’ diras la Sinjoro Yahweh, ‘certe en la loko kie loĝas la reĝo, kiu faris lin reĝo, kies ĵuron li malestimis kaj kies interligon li rompis, eĉ kun li meze de Babel li mortos. Faraono kun sia potenca armeo kaj granda amaso ne helpos lin en la milito, kiam ili konstruos montetojn kaj konstruos fortikaĵojn por fortranĉi multajn personojn. Ĉar li malestimis la ĵuron rompante la interligon; kaj jen, li donis sian manon kaj tamen faris ĉiujn ĉi tiujn aferojn. Li ne eskapos.
+
+“Tial la Sinjoro Yahweh diras: ‘Kiel mi vivas, mi certe alportos sur lian propran kapon mian ĵuron, kiun li malestimis, kaj mian interligon, kiun li rompis. Mi etendos mian reton sur lin, kaj li estos kaptita en mia kaptilo. Mi kondukos lin al Babel kaj juĝos lin tie pro lia perfido kontraŭ mi. Ĉiuj liaj fuĝintoj en ĉiuj liaj grupoj falos per glavo, kaj tiuj, kiuj restos, estos disigitaj al ĉiu vento. Tiam vi scios, ke mi, Yahweh, tion parolis.’
+
+“La Sinjoro Yahweh diras: ‘Mi ankaŭ prenos iom el la alta supro de la cedro kaj plantos ĝin. Mi detranĉos de ĝiaj plej supraj junaj branĉetoj molan unuon kaj plantos ĝin sur alta kaj majesta monto. Mi plantos ĝin sur la monto de la alteco de Izrael; kaj ĝi produktos branĉojn kaj portos frukton kaj estos bona cedro. Birdoj de ĉiu speco loĝos en la ombro de ĝiaj branĉoj. Ĉiuj arboj de la kampo scios, ke mi, Yahweh, malaltigis la altan arbon, altigis la malaltan arbon, sekigis la verdan arbon kaj igis la sekigitan arbon floranta.
+
+“‘Mi, Yahweh, tion parolis kaj tion faris.’”
+
+### Ĉapitro 18
+
+La vorto de Yahweh denove venis al mi, dirante: “Kion vi celas per tio, ke vi uzas ĉi tiun proverbon pri la lando de Izrael, dirante:
+
+‘La patroj manĝis acidajn vinberojn,
+
+kaj la dentoj de la infanoj estas obtuzigitaj’?
+
+“Kiel mi vivas,” diras la Sinjoro Yahweh, “vi ne plu uzos ĉi tiun proverbon en Izrael. Jen ĉiuj animoj estas miaj; kiel la animo de la patro, tiel ankaŭ la animo de la filo estas mia. La animo kiu pekas, tiu mortos.
+
+“Sed se homo estas justa,
+
+kaj faras tion, kio estas laŭleĝa kaj ĝusta,
+
+kaj ne manĝis sur la montetoj,
+
+ne levis siajn okulojn al la idoloj de la domo de Izrael,
+
+ne malpurigis la edzinon de sia najbaro,
+
+ne alproksimiĝis al virino en ŝia malpureco,
+
+kaj ne maljuste agis kontraŭ iu,
+
+sed redonis al ŝuldanto lian garantion,
+
+ne prenis ion per rabado,
+
+donis sian panon al malsatulo,
+
+kaj kovris nudulon per vesto;
+
+tiu, kiu ne pruntedonis kun interezo,
+
+ne prenis pligrandigon...
+--- input640
+kiu retiris sian manon de malbonagoj,
+
+plenuminte veran justecon inter homo kaj homo,
+
+irinte laŭ Miaj leĝoj,
+
+kaj observinte Miajn ordonojn,
+
+por agi vere;
+
+li estas justa,
+
+li certe vivos,” diras la Sinjoro Javeo.
+
+“Se li naskas filon, kiu estas rabisto, kiu verŝas sangon, kaj kiu faras iun el ĉi tiuj aferoj, aŭ kiu ne faras iujn el tiuj aferoj,
+
+sed manĝis ĉe la montaj sanktejoj
+
+kaj malpurigis la edzinon de sia proksimulo,
+
+maljuste agis kontraŭ la malriĉuloj kaj bezonantoj,
+
+ŝtelis per rabado,
+
+ne redonis la garantion,
+
+kaj levis siajn okulojn al la idoloj,
+
+faris abomenaĵon,
+
+pruntis kun interezo,
+
+kaj prenis pligrandigon de la malriĉuloj,
+
+ĉu li tiam vivos? Li ne vivos. Li faris ĉiujn ĉi tiujn abomenaĵojn. Li certe mortos. Lia sango estos sur li.
+
+“Nun, jen, se li naskas filon, kiu vidas ĉiujn pekojn de sia patro, kiujn li faris, kaj timas, kaj ne faras same,
+
+kiu ne manĝis sur la montoj,
+
+ne levis siajn okulojn al la idoloj de la domo de Izrael,
+
+ne malpurigis la edzinon de sia proksimulo,
+
+ne maljuste agis kontraŭ iu ajn,
+
+ne prenis ion kiel garantion,
+
+ne ŝtelis per rabado,
+
+sed donis sian panon al la malsatuloj,
+
+kaj kovris la nudulon per vesto;
+
+kiu retiris sian manon de la malriĉuloj,
+
+kiu ne ricevis interezon aŭ pligrandigon,
+
+plenuminte Miajn ordonojn,
+
+irinte laŭ Miaj leĝoj;
+
+li ne mortos pro la malbonagoj de sia patro. Li certe vivos. Sed pri lia patro, ĉar li kruele premis, ŝtelis sian fraton, kaj faris tion, kio ne estas bona inter sia popolo, jen, li mortos pro sia malbonago.
+
+“Tamen vi diras: ‘Kial la filo ne portas la kulpon de la patro?’ Kiam la filo faris tion, kio estas laŭleĝa kaj ĝusta, kaj observis ĉiujn Miajn leĝojn, kaj faris ilin, li certe vivos. La animo, kiu pekas, tiu mortos. La filo ne portos la kulpon de la patro, nek la patro portos la kulpon de la filo. La justeco de la justa estos sur li, kaj la malboneco de la malbonulo estos sur li.
+
+“Sed se la malbonulo turniĝas for de ĉiuj siaj pekoj, kiujn li faris, kaj observas ĉiujn Miajn leĝojn, kaj faras tion, kio estas laŭleĝa kaj ĝusta, li certe vivos. Li ne mortos. Neniu el liaj transgresioj, kiujn li faris, estos memorita kontraŭ li. En sia justeco, kiun li faris, li vivos. Ĉu Mi havas plezuron en la morto de la malbonulo?” diras la Sinjoro Javeo, “kaj ne prefere ke li turniĝu for de sia vojo kaj vivu?
+
+“Sed kiam la justa turniĝas for de sia justeco kaj faras malbonagon, kaj agas laŭ ĉiuj abomenaĵoj, kiujn faras la malbonulo, ĉu li vivos? Neniu el liaj justaj agoj, kiujn li faris, estos memorita. En sia transgresio, kiun li transgresis, kaj en sia peko, kiun li pekis, en ili li mortos.
+
+“Tamen vi diras: ‘La vojo de la Sinjoro ne estas justa.’ Aŭskultu nun, domo de Izrael: Ĉu Mia vojo ne estas justa? Ĉu viaj vojoj ne estas maljustaj? Kiam la justa turniĝas for de sia justeco kaj faras malbonagon kaj mortas en ĝi, tiam li mortas pro sia malbonago, kiun li faris. Denove, kiam la malbonulo turniĝas for de sia malboneco, kiun li faris, kaj faras tion, kio estas laŭleĝa kaj ĝusta, li savos sian animon vivanta. Ĉar li konsideras kaj turniĝas for de ĉiuj siaj transgresioj, kiujn li faris, li certe vivos. Li ne mortos. Tamen la domo de Izrael diras: ‘La vojo de la Sinjoro ne estas justa.’ Domo de Izrael, ĉu Miaj vojoj ne estas justaj? Ĉu viaj vojoj ne estas maljustaj?
+
+“Tial Mi juĝos vin, domo de Izrael, ĉiun laŭ liaj vojoj,” diras la Sinjoro Javeo. “Revenu kaj turnu vin for de ĉiuj viaj transgresioj, por ke malbonago ne estu via ruino. Forĵetu de vi ĉiujn viajn transgresiojn, en kiuj vi transgresis; kaj kreu al vi novan koron kaj novan spiriton. Ĉar kial vi mortos, domo de Izrael? Ĉar Mi ne havas plezuron en la morto de tiu, kiu mortas,” diras la Sinjoro Javeo. “Tial turnu vin kaj vivu!
+
+### Ĉapitro 19
+
+“Krome prenu lamentadon por la princoj de Izrael kaj diru:
+--- input641
+‘Kio estis via patrino?
+
+Leonino.
+
+Ŝi kuŝis inter leonoj,
+
+meze de la junaj leonoj ŝi nutris siajn idojn.
+
+Ŝi kreskigis unu el siaj idoj.
+
+Li fariĝis juna leono.
+
+Li lernis kapti predon.
+
+Li formanĝis homojn.
+
+Ankaŭ la nacioj aŭdis pri li.
+
+Li estis kaptita en ilia kaptilo;
+
+kaj ili kondukis lin kun hoko al la lando Egiptujo.
+
+“‘Nun kiam ŝi vidis, ke ŝi atendis,
+
+kaj ŝia espero estis perdita,
+
+tiam ŝi prenis alian el siaj idoj,
+
+kaj faris lin juna leono.
+
+Li iris supren kaj malsupren inter la leonoj.
+
+Li fariĝis juna leono.
+
+Li lernis kapti predon.
+
+Li formanĝis homojn.
+
+Li konis iliajn palacojn,
+
+kaj detruis iliajn urbojn.
+
+La lando estis dezerta kun sia pleneco,
+
+pro la bruo de lia muĝado.
+
+Tiam la nacioj atakis lin ĉirkaŭe el la provincoj.
+
+Ili disvastigis sian reton super li.
+
+Li estis kaptita en ilia kaptilo.
+
+Ili metis lin en kaĝon kun hoko,
+
+kaj kondukis lin al la reĝo de Babilono.
+
+Ili kondukis lin en fortikaĵojn,
+
+por ke lia voĉo ne plu estu aŭdita sur la montoj de Izrael.
+
+“‘Via patrino estis kiel vito en via sango, plantita apud la akvoj.
+
+Ĝi estis fruktodona kaj plena de branĉoj pro multaj akvoj.
+
+Ĝi havis fortajn branĉojn por la sceptroj de tiuj, kiuj regis.
+
+Ilia staturo estis altigita inter la densaj branĉoj.
+
+Ili estis vidataj en sia alteco
+
+kun la multo de siaj branĉoj.
+
+Sed ĝi estis elŝirita en furiozo.
+
+Ĝi estis ĵetita al la tero,
+
+kaj la orienta vento sekigis ĝian frukton.
+
+Ĝiaj fortaj branĉoj estis rompitaj kaj velkintaj.
+
+La fajro konsumigis ilin.
+
+Nun ĝi estas plantita en la dezerto,
+
+en seka kaj soifa lando.
+
+Fajro eliris el ĝiaj branĉoj.
+
+Ĝi formanĝis ĝian frukton,
+
+tiel ke en ĝi ne estas forta branĉo por esti sceptro por regi.’
+
+Ĉi tio estas lamentado, kaj ĝi estos por lamentado.”
+
+### Ĉapitro 20
+
+En la sepa jaro, en la kvina monato, la deka tago de la monato, kelkaj el la pliaĝuloj de Izrael venis por demandi pri Jahve, kaj sidis antaŭ mi.
+
+La vorto de Jahve venis al mi, dirante: “Ho filo de homo, parolu al la pliaĝuloj de Izrael, kaj diru al ili: ‘La Sinjoro Jahve diras: “Ĉu por demandi pri mi vi venis? Kiel mi vivas,” diras la Sinjoro Jahve, “mi ne estos demandata de vi.” ’
+
+“Ĉu vi juĝos ilin, filo de homo? Ĉu vi juĝos ilin? Kialigu ilin koni la abomenindaĵojn de iliaj patroj. Diru al ili, ‘La Sinjoro Jahve diras: “En la tago, kiam mi elektis Izraelon, kaj ĵuris al la idaro de la domo de Jakob, kaj faris min konata al ili en la lando Egiptujo, kiam mi ĵuris al ili, dirante, ‘Mi estas Jahve via Dio;’ en tiu tago mi ĵuris al ili konduki ilin el la lando Egiptujo en landon, kiun mi serĉis por ili, fluantan per lakto kaj mielo, kiu estas la gloro de ĉiuj landoj. Mi diris al ili, ‘Ĉiu el vi forĵetu la abomenindaĵojn de siaj okuloj. Ne malpurigu vin per la idoloj de Egiptujo. Mi estas Jahve via Dio.’
+
+“‘ “Sed ili ribelis kontraŭ mi kaj ne volis aŭskulti min. Ili ĉiuj ne forĵetis la abomenindaĵojn de siaj okuloj. Ili ankaŭ ne forlasis la idolojn de Egiptujo. Tiam mi diris, ke mi verŝos mian koleron sur ilin, por plenumi mian indignon kontraŭ ili meze de la lando Egiptujo. Sed mi agis pro mia nomo, por ke ĝi ne estu malhonorita antaŭ la okuloj de la nacioj inter kiuj ili estis, antaŭ kies okuloj mi faris min konata al ili kondukante ilin el la lando Egiptujo. Tiel mi igis ilin eliri el la lando Egiptujo kaj kondukis ilin en la dezerton. Mi donis al ili miajn leĝojn kaj montris al ili miajn ordonojn, kiujn homo farante vivos per ili. Krome mi ankaŭ donis al ili miajn sabatojn, por esti signo inter mi kaj ili, ke ili povu scii, ke mi estas Jahve kiu sanktigas ilin."
+--- input642
+“‘ “Sed la infanoj ribelis kontraŭ Mi. Ili ne sekvis Miajn leĝojn, kaj ne observis Miajn ordonojn por plenumi ilin, kiujn, se homo faras, li vivos per ili. Ili malsanktigis Miajn sabatojn. Tiam Mi diris, ke Mi verŝos Mian koleron sur ilin, por plenumi Mian indignon kontraŭ ili en la dezerto. Tamen Mi retiris Mian manon kaj agis pro Mia nomo, por ke ĝi ne estu malsanktigita antaŭ la okuloj de la nacioj, antaŭ kies okuloj Mi elkondukis ilin. Krome Mi ĵuris al ili en la dezerto, ke Mi disĵetos ilin inter la nacioj kaj disigos ilin tra la landoj, ĉar ili ne plenumis Miajn ordonojn, sed malakceptis Miajn leĝojn, kaj malsanktigis Miajn sabatojn, kaj iliaj okuloj sekvis la idolojn de iliaj patroj. Krome Mi ankaŭ donis al ili leĝojn, kiuj ne estis bonaj, kaj ordonojn, en kiuj ili ne povis vivi. Mi poluis ilin per iliaj propraj donacoj, en tio, ke ili igis ĉion, kio malfermas la uteron, pasi tra la fajro, por ke Mi ruinigu ilin, por ke ili eksciu, ke Mi estas Jahve.”’
+
+“Tial, ho filo de homo, parolu al la domo de Izrael, kaj diru al ili: ‘La Sinjoro Jahve diras: “Krome, en tio viaj patroj blasfemis Min, ĉar ili faris malfidelecon kontraŭ Mi. Ĉar kiam Mi kondukis ilin en la landon, kiun Mi ĵuris doni al ili, tiam ili vidis ĉiun altan monton kaj ĉiun densan arbon, kaj tie ili oferadis siajn oferojn, kaj tie ili prezentis la provokon de siaj oferoj. Tie ili ankaŭ faris sian agrablan aromon, kaj tie ili verŝis siajn trinkofertojn. Tiam Mi diris al ili: ‘Kion signifas la alta loko, kien vi iras?’ Tial ĝia nomo estas nomata Bama ĝis hodiaŭ.”’
+
+“Tial diru al la domo de Izrael: ‘La Sinjoro Jahve diras: “Ĉu vi poluas vin laŭ la maniero de viaj patroj? Ĉu vi malĉastas post iliaj abomenaĵoj? Kiam vi oferadas viajn donacojn, kiam vi igas viajn filojn pasi tra la fajro, ĉu vi poluas vin per ĉiuj viaj idoloj ĝis hodiaŭ? Ĉu Mi estu demandata de vi, ho domo de Izrael? Kiel Mi vivas,” diras la Sinjoro Jahve, “Mi ne estos demandata de vi!
+
+“‘ “Tio, kio venas en vian menson, tute ne okazos, ke vi diras: ‘Ni estos kiel la nacioj, kiel la familioj de la landoj, por servi lignajn kaj ŝtonajn diojn.’ Kiel Mi vivas,” diras la Sinjoro Jahve, “certe per potenca mano, per etendita brako, kaj per verŝita kolero Mi estos reĝo super vi. Mi elkondukos vin el inter la popoloj kaj kolektos vin el la landoj, en kiuj vi estas disigitaj, per potenca mano, per etendita brako, kaj per verŝita kolero. Mi kondukos vin en la dezerton de la popoloj kaj tie Mi juĝos vin vizaĝon kontraŭ vizaĝo. Kiel Mi juĝis viajn patrojn en la dezerto de la lando Egiptujo, tiel Mi juĝos vin,” diras la Sinjoro Jahve. “Mi igos vin pasi sub la vergo kaj kondukos vin en la ligon de la interligo. Mi purigos el inter vi la ribelulojn kaj tiujn, kiuj malobeas Min. Mi elkondukos ilin el la lando, kie ili loĝas, sed ili ne eniros en la landon de Izrael. Tiam vi ekscios, ke Mi estas Jahve.”
+
+“‘Pri vi, ho domo de Izrael,’ diras la Sinjoro Jahve: “Iru ĉiu servu siajn idolojn; sed poste ankaŭ se vi ne aŭskultos Min; tamen vi ne plu malsanktigos Mian sanktan nomon per viaj donacoj kaj per viaj idoloj. Ĉar sur Mia sankta monto, sur la monto de alteco de Izrael,” diras la Sinjoro Jahve, “tie ĉiuj el la domo de Izrael servos Min en la lando. Tie Mi akceptos ilin kaj tie Mi postulos viajn oferojn kaj viajn unuaĵojn de viaj donacoj kun ĉiuj viaj sanktaj aferoj. Mi akceptos vin kiel agrablan aromon kiam Mi elkondukos vin el inter la popoloj kaj kolektos vin el la landoj, en kiuj vi estis disigitaj. Mi estos sanktigita en vi antaŭ la okuloj de la nacioj. Vi ekscios, ke Mi estas Jahve kiam Mi kondukos vin en la landon de Izrael, en la landon kiun Mi ĵuris doni al viaj patroj. Tie vi memoros viajn vojojn kaj ĉiujn viajn agojn per kiuj vi poluis vin mem. Tiam vi abomenos vin mem antaŭ viaj propraj okuloj pro ĉiuj viaj malbonagoj kiujn vi faris. Vi ekscios ke Mi estas Jahve kiam Mi agos kun vi pro Mia nomo ne laŭ viaj malbonaj vojoj nek laŭ viaj koruptaj agoj ho domo de Izrael,” diras la Sinjoro Jahve.’”
+--- input643
+La vorto de Jahve venis al mi, dirante: “Ho filo de homo, turnu vian vizaĝon al la sudo, kaj prediku kontraŭ la sudo, kaj profetu kontraŭ la arbaro de la kampo en la sudo. Diru al la arbaro de la sudo: ‘Aŭskultu la vorton de Jahve: La Sinjoro Jahve diras: “Jen, Mi ekbruligos fajron en vi, kaj ĝi formanĝos ĉiun verdan arbon en vi, kaj ĉiun sekan arbon. La brulanta flamo ne estingiĝos, kaj ĉiuj vizaĝoj de la sudo ĝis la nordo estos bruligitaj per ĝi. Ĉiu karno vidos, ke Mi, Jahve, ekbruligis ĝin. Ĝi ne estingiĝos.” ’”
+
+Tiam mi diris: “Ho Sinjoro Jahve! Ili diras pri mi: ‘Ĉu li ne estas parabolisto?’”
+
+### Ĉapitro 21
+
+La vorto de Jahve venis al mi, dirante: “Ho filo de homo, turnu vian vizaĝon al Jerusalemo, kaj prediku kontraŭ la sanktejoj, kaj profetu kontraŭ la lando de Izrael. Diru al la lando de Izrael: ‘Jahve diras: “Jen, Mi estas kontraŭ vi, kaj Mi eltiros Mian glavon el ĝia ingo, kaj Mi ekstermos el vi la virtulojn kaj la malvirtulojn. Ĉar Mi ekstermos el vi la virtulojn kaj la malvirtulojn, tial Mia glavo eliros el ĝia ingo kontraŭ ĉiu karno de la sudo ĝis la nordo. Ĉiu karno scios, ke Mi, Jahve, eltiris Mian glavon el ĝia ingo. Ĝi ne revenos plu.” ’
+
+“Tial ĝemu, ho filo de homo. Vi ĝemu antaŭ iliaj okuloj kun rompita koro kaj kun amareco. Kaj estos tiel, kiam ili demandos vin: ‘Kial vi ĝemas?’ ke vi diros: ‘Pro la novaĵo, ĉar ĝi venas! Ĉiu koro degelos, ĉiuj manoj fariĝos senfortaj, ĉiu spirito senkuraĝiĝos, kaj ĉiuj genuoj fariĝos kiel akvo. Jen, ĝi venas, kaj ĝi estos farita, diras la Sinjoro Jahve.’”
+
+La vorto de Jahve venis al mi, dirante: “Ho filo de homo, profetu, kaj diru: ‘Jahve diras:
+
+“Glavo! Glavo!
+
+Ĝi estas akrigita,
+
+kaj ankaŭ polurita.
+
+Ĝi estas akrigita por buĉado.
+
+Ĝi estas polurita por brili kiel fulmo.
+
+Ĉu ni tiam ĝoju?
+
+La bastono de Mia filo kondamnas ĉiun arbon.
+
+Ĝi estas donita por esti polurita,
+
+por ke ĝi estu uzata.
+
+La glavo estas akrigita.
+
+Jes, ĝi estas polurita
+
+por esti donita en la manon de mortiganto.” ’
+
+Ploru kaj ĝemu, ho filo de homo;
+
+ĉar ĝi estas kontraŭ Mia popolo.
+
+Ĝi estas kontraŭ ĉiuj princoj de Izrael.
+
+Ili estas transdonitaj al la glavo kun Mia popolo.
+
+Tial frapu vian femuron.
+
+“Ĉar ekzistas juĝo. Kio se eĉ la bastono kiu kondamnas ne plu ekzistos?” diras la Sinjoro Jahve.
+
+“Vi do, ho filo de homo, profetu,
+
+kaj frapu viajn manojn kune.
+
+Lasu la glavon esti duobligita trifoje,
+
+la glavo de mortigitoj.
+
+Ĝi estas la glavo de granda mortigito,
+
+kiu eniras en iliajn ĉambrojn.
+
+Mi starigis minacan glavon kontraŭ ĉiuj iliaj pordegoj,
+
+por ke ilia koro degelu,
+
+kaj iliaj faloj multiĝu.
+
+Ho! Ĝi estas farita kiel fulmo.
+
+Ĝi estas montrita por buĉado.
+
+Kolektiĝu kune.
+
+Iru dekstren.
+
+Starigu vin en ordo.
+
+Iru maldekstren,
+
+kien ajn via vizaĝo estas direktita.
+
+Mi ankaŭ frapos Miajn manojn kune,
+
+kaj Mi kaŭzos Mian koleron ripozi.
+
+Mi, Jahve, tion diris.”
+
+La vorto de Jahve venis al mi denove, dirante: “Ankaŭ vi, ho filo de homo, difinu du vojojn, ke la glavo de la reĝo de Babel venu. Ili ambaŭ eliros el unu lando, kaj marku lokon. Marku ĝin ĉe la kapo de la vojo al la urbo. Vi difinu vojon por ke la glavo venu al Raba de la infanoj de Amon, kaj al Judujo en Jerusalemo fortikigita. Ĉar la reĝo de Babel staris ĉe la disvojiĝo de la vojo, ĉe la kapo de la du vojoj, por uzi divenadon. Li skuis la sagojn tien kaj reen. Li konsultis la terafim. Li rigardis en la hepaton. En lia dekstra mano estis la sorto por Jerusalemo, por starigi sieĝrompilojn, por malfermi buŝon en buĉado, por levi voĉon kun kriado, por starigi sieĝrompilojn kontraŭ la pordegoj, por amasigi montetojn, kaj por konstrui fortikaĵojn. Ĝi estos al ili kiel falsa divenado antaŭ iliaj okuloj, kiuj ĵuris ĵurojn al ili; sed li rememorigas maljustaĵon, por ke ili estu kaptitaj.
+
+“Tial la Sinjoro Jahve diras: ‘Ĉar vi kaŭzis ke via maljusteco estu rememorata, ĉar viaj pekoj estas malkovritaj tiel ke en ĉiuj viaj agoj viaj pekoj aperas; ĉar vi venis al memoro, vi estos kaptitaj per mano.’”
+--- input644
+“‘Vi, mortige vundita malvirtulo, la princo de Izrael, kies tago venis, en la tempo de la maljusteco de la fino, la Sinjoro Javeo diras: “Forigu la turbano, kaj deprenu la kronon. Ĉi tio ne estos kiel ĝi estis. Altigu tion, kio estas malalta, kaj humiligu tion, kio estas alta. Mi renversos, renversos, renversos ĝin. Ĉi tio ankaŭ ne plu ekzistos, ĝis venos tiu, al kiu apartenas la rajto; kaj mi donos ĝin al li.”’
+
+“Vi, ho filo de homo, profetu kaj diru: ‘La Sinjoro Javeo diras ĉi tion pri la infanoj de Amono kaj pri ilia malhonoro:
+
+“Glavo! Glavo estas eltirita!
+
+Ĝi estas polurita por buĉado,
+
+por ke ĝi voru,
+
+por ke ĝi estu kiel fulmo;
+
+dum ili vidas por vi falsajn viziojn,
+
+dum ili divenas mensogojn al vi,
+
+por meti vin sur la kolojn de la malvirtuloj, kiuj estas mortige vunditaj,
+
+kies tago venis en la tempo de la maljusteco de la fino.
+
+Revenigu ĝin en ĝian ingon.
+
+En la loko kie vi estis kreita,
+
+en la lando de via naskiĝo, mi juĝos vin.
+
+Mi verŝos mian indignon sur vin.
+
+Mi blovos sur vin per la fajro de mia kolero.
+
+Mi transdonos vin en la manojn de brutalaj homoj,
+
+lertaj por detrui.
+
+Vi estos kiel brulaĵo por la fajro.
+
+Via sango estos en la mezo de la lando.
+
+Vi ne plu estos memorata;
+
+ĉar mi, Javeo, tion diris.”’”
+
+### Ĉapitro 22
+
+Plue venis al mi la vorto de Javeo, dirante: “Vi, filo de homo, ĉu vi juĝos? Ĉu vi juĝos la sangoverŝan urbon? Tiam igu ŝin koni ĉiujn ŝiajn abomenindaĵojn. Vi diros: ‘La Sinjoro Javeo diras: “Urbo kiu verŝas sangon interne de si mem, por ke ŝia tempo venu, kaj kiu faras idolojn kontraŭ si mem por malpurigi sin! Vi fariĝis kulpa pro via sango kiun vi verŝis, kaj estas malpurigita pro viaj idoloj kiujn vi faris! Vi kaŭzis ke viaj tagoj alproksimiĝu, kaj venis al la fino de viaj jaroj. Tial mi faris vin malhonoro al la nacioj kaj mokado al ĉiuj landoj. Tiuj kiuj estas proksimaj kaj tiuj kiuj estas malproksimaj de vi mokos vin, vi famkonata unu, plena de tumulto.
+
+“‘“Jen, la princoj de Izrael, ĉiu laŭ sia potenco, estis en vi por verŝi sangon. En vi ili traktis patron kaj patrinon kun malestimo. Inter vi ili premis fremdulon. En vi ili maljuste traktis orfon kaj vidvinon. Vi malestimis miajn sanktajn aferojn kaj profanis miajn sabatojn. Kalumniaj homoj estis en vi por verŝi sangon. En vi ili manĝis sur la montoj. Ili faris malĉastecon inter vi. En vi ili malkovris la nudecon de siaj patroj. En vi ili humiligis ŝin kiu estis malpura en sia malpureco. Unu faris abomenindaĵon kun la edzino de sia najbaro, kaj alia malĉaste malpurigis sian bofilinon. Alia inter vi humiligis sian fratinon, la filinon de sia patro. En vi ili prenis subaĉetaĵojn por verŝi sangon. Vi prenis interezon kaj pligrandigon, kaj avide akiris de viaj najbaroj per subpremo, kaj forgesis min,” diras la Sinjoro Javeo.
+
+“‘“Jen, tial mi frapis mian manon kontraŭ via malhonesta gajno kiun vi faris, kaj kontraŭ la sango kiu estis verŝita interne de vi. Ĉu via koro eltenos aŭ ĉu viaj manoj estos fortaj en la tagoj kiam mi traktos vin? Mi, Javeo, tion diris kaj faros ĝin. Mi disigos vin inter la nacioj kaj disĵetos vin tra la landoj. Mi purigos vian malpurecon el vi. Vi estos profanita en vi mem antaŭ la okuloj de la nacioj. Tiam vi scios ke mi estas Javeo.”’”
+
+Venis al mi la vorto de Javeo, dirante: “Filo de homo, la domo de Izrael fariĝis skorio al mi. Ĉiuj ili estas bronzo, stano, fero kaj plumbo en la mezo de forno. Ili estas la skorio de arĝento. Tial diras la Sinjoro Javeo: ‘Ĉar ĉiuj vi fariĝis skorio, jen mi kolektos vin en la mezo de Jerusalemo. Kiel oni kolektas arĝenton, bronzon, feron, plumon kaj stanon en la mezo de forno por blovi fajron sur ĝin por fandi ĝin, tiel mi kolektos vin en mia kolero kaj en mia furiozo kaj metos vin tie kaj fandos vin. Jes, mi kolektos vin kaj blovos sur vin per la fajro de mia kolero, kaj vi fandiĝos en ĝia mezo. Kiel arĝento fandiĝas en la mezo de forno, tiel vi fandiĝos en ĝia mezo; kaj vi scios ke mi, Javeo, verŝis mian koleron sur vin.’”
+--- input645
+La vorto de Javeo venis al mi, dirante: “Ho filo de homo, diru al ŝi: ‘Vi estas lando, kiu ne estas purigita nek pluvigita en la tago de indigno.’ Estas konspiro de ŝiaj profetoj interne de ĝi, kiel muĝanta leono rabanta predon. Ili formanĝis animojn. Ili prenis trezorojn kaj valorajn aĵojn. Ili faris multajn vidvinojn interne de ĝi. Ŝiaj pastroj perfortis mian leĝon kaj profanis miajn sanktajn aferojn. Ili faris nenian distingon inter la sankta kaj la ordinara, nek ili instruis homojn distingi inter la malpura kaj la pura, kaj ili kaŝis siajn okulojn for de miaj sabatoj. Tial mi estas profanita inter ili. Ŝiaj princoj interne de ĝi estas kiel lupoj rabantaj predon, por verŝi sangon kaj detrui animojn, por ke ili akiru malhonestan profiton. Ŝiaj profetoj ŝmiris por ili per blankigaĵo, vidante falsajn viziojn kaj divenante mensogojn al ili, dirante, ‘La Sinjoro Javeo diras,’ kiam Javeo ne parolis. La popolo de la lando uzis subpremon kaj praktikis rabon. Jes, ili ĝenis la malriĉulojn kaj bezonantojn, kaj maljuste subpremis la fremdulon.
+
+“Mi serĉis homon inter ili, kiu konstruus la muron kaj starus en la breĉo antaŭ mi por la lando, por ke mi ne detruu ĝin; sed mi trovis neniun. Tial mi verŝis mian indignon sur ilin. Mi konsumigis ilin per la fajro de mia kolero. Mi alportis ilian propran vojon sur iliajn kapojn,” diras la Sinjoro Javeo.
+
+### Ĉapitro 23
+
+La vorto de Javeo denove venis al mi, dirante: “Ho filo de homo, estis du virinoj, filinoj de unu patrino. Ili malĉastis en Egiptujo. Ili malĉastis en sia juneco. Iliaj mamoj estis karesitaj tie, kaj iliaj junaj cicoj estis tuŝitaj tie. Iliaj nomoj estis Oholah, la pli aĝa, kaj Oholibah, ŝia fratino. Ili fariĝis miaj, kaj ili naskis filojn kaj filinojn. Pri iliaj nomoj: Samario estas Oholah, kaj Jerusalemo estas Oholibah.
+
+“Oholah malĉastis kiam ŝi estis mia. Ŝi amis siajn amantojn, la Asirianojn, siajn najbarojn, kiuj estis vestitaj per bluo—guberniestroj kaj regantoj, ĉiuj dezirindaj junuloj, rajdantoj sur ĉevaloj. Ŝi donis sin kiel malĉastulino al ili, ĉiuj el ili la plej bonaj viroj de Asirio. Ŝi malpurigis sin per la idoloj de tiuj, kiujn ŝi deziris. Ŝi ne forlasis sian malĉastecon ekde sia foriro el Egiptujo; ĉar en sia juneco ili kuŝis kun ŝi. Ili karesis ŝiajn junajn cicojn kaj verŝis sian malĉastecon sur ŝi.
+
+“Tial mi transdonis ŝin en la manojn de ŝiaj amantoj, en la manojn de la Asirianoj, kiujn ŝi amis. Tiuj malkovris ŝian nudecon. Ili prenis ŝiajn filojn kaj ŝiajn filinojn, kaj ili mortigis ŝin per glavo. Ŝi fariĝis proverbo inter virinoj; ĉar ili plenumis juĝojn kontraŭ ŝi.
+
+“Ŝia fratino Oholibah vidis tion, tamen ŝi estis pli korupta en sia deziro ol ŝi, kaj en sia malĉasteco, kiu estis pli malvirta ol la malĉasteco de ŝia fratino. Ŝi deziris la Asirianojn, guberniestrojn kaj regantojn—siajn najbarojn, vestitajn plej bele, rajdantojn sur ĉevaloj, ĉiujn dezirindajn junulojn. Mi vidis ke ŝi estis malpurigita. Ili ambaŭ iris laŭ la sama vojo.
+
+“Ŝi pligrandigis sian malĉastecon; ĉar ŝi vidis virojn portretitajn sur la muro, bildojn de la Ĥaldeanoj portretitajn per ruĝo, vestitajn per zonoj ĉirkaŭ siaj talioj, kun fluantaj turbanoj sur siaj kapoj, ĉiuj aspektantaj kiel princoj, laŭ la simileco de la Babilonanoj en Ĥaldeo, la lando de ilia naskiĝo. Tuj kiam ŝi vidis ilin, ŝi deziris ilin kaj sendis mesaĝistojn al ili en Ĥaldeon. La Babilonanoj venis al ŝi en la liton de amo, kaj ili malpurigis ŝin per sia malĉasteco. Ŝi estis poluita kun ili, kaj ŝia animo fremdiĝis de ili. Tiel ŝi malkovris sian malĉastecon kaj malkovris sian nudecon. Tiam mia animo fremdiĝis de ŝi, same kiel mia animo fremdiĝis de ŝia fratino. Tamen ŝi multigis sian malĉastecon, memorante la tagojn de sia juneco, en kiuj ŝi malĉastis en la lando Egiptujo. Ŝi deziris siajn amantojn, kies karno estas kiel la karno de azenoj, kaj kies elfluo estas kiel tiu de ĉevaloj. Tiel vi rememoris la malĉastecon de via juneco, en la karesado de viaj cicoj fare de la Egiptoj pro viaj junaj mamoj."
+--- input646
+Jen la traduko al Esperanto:
+
+“Tial, Oholiba, la Sinjoro Yahweh diras: ‘Jen, Mi levos viajn amantojn kontraŭ vin, de kiuj via animo estas fremdigita, kaj Mi alvenigos ilin kontraŭ vin de ĉiu flanko: la Babilonanoj kaj ĉiuj Ĥaldeoj, Pekod, Ŝoa, Koa, kaj ĉiuj Asirianoj kun ili; ĉiuj dezirindaj junuloj, guberniestroj kaj regantoj, princoj kaj famaj viroj, ĉiuj rajdantaj sur ĉevaloj. Ili venos kontraŭ vin kun armiloj, ĉaroj kaj ĉarveturiloj, kaj kun aro da popoloj. Ili starigos sin kontraŭ vi kun ŝildo, ŝirmilo kaj kasko ĉirkaŭe. Mi transdonos la juĝon al ili, kaj ili juĝos vin laŭ siaj juĝoj. Mi starigos Mian ĵaluzon kontraŭ vin, kaj ili agos kun furiozo kontraŭ vi. Ili forprenos vian nazon kaj viajn orelojn. Via restaĵo falos per glavo. Ili forprenos viajn filojn kaj viajn filinojn; kaj la cetero de vi estos konsumita per fajro. Ili ankaŭ senigos vin je viaj vestoj kaj forprenos viajn belajn juvelojn. Tiel Mi ĉesigos vian malĉastecon de vi, kaj forigos vian prostituadon el la lando de Egiptujo, por ke vi ne plu levu viajn okulojn al ili, nek memoru Egiptujon plu.’
+
+“Ĉar la Sinjoro Yahweh diras: ‘Jen, Mi transdonos vin en la manojn de tiuj, kiujn vi malamas, en la manojn de tiuj, de kiuj via animo estas fremdigita. Ili agos kun malamo kontraŭ vi, kaj forprenos ĉiujn viajn laborojn, kaj lasos vin nuda kaj senigita. La nudecon de via prostituado oni malkovros, vian malĉastecon kaj vian prostituadon. Ĉi tiuj aferoj estos faritaj al vi ĉar vi ludis la prostituitinon post la nacioj, kaj ĉar vi estas malpurigita per iliaj idoloj. Vi iris laŭ la vojo de via fratino; tial Mi donos ŝian pokalon en vian manon.’
+
+“La Sinjoro Yahweh diras:
+
+‘Vi trinkos el la pokalo de via fratino,
+
+kiu estas profunda kaj granda.
+
+Vi estos mokata kaj malestimata.
+
+Ĝi enhavas multe.
+
+Vi pleniĝos de ebrieco kaj malĝojo,
+
+kun la pokalo de miro kaj dezolado,
+
+kun la pokalo de via fratino Samario.
+
+Vi eĉ trinkos ĝin kaj eltrinkos ĝin.
+
+Vi mordos ĝiajn rompitajn pecojn,
+
+kaj disŝiros viajn brustojn;
+
+ĉar Mi tion diris,’ diras la Sinjoro Yahweh.
+
+“Tial la Sinjoro Yahweh diras: ‘Ĉar vi forgesis Min kaj ĵetis Min malantaŭ vian dorson, tial ankaŭ vi portos vian malĉastecon kaj vian prostituadon.’”
+
+Yahweh plue diris al mi: “Ho filo de homo, ĉu vi juĝos Oholan kaj Oholiban? Tiam deklaru al ili iliajn abomenindaĵojn. Ĉar ili adultis, kaj sango estas en iliaj manoj. Ili adultis kun siaj idoloj. Ili ankaŭ igis siajn filojn, kiujn ili naskis al Mi, pasi tra fajro al ili por esti konsumitaj. Cetere tion ili faris al Mi: ili malpurigis Mian sanktejon en la sama tago, kaj profanis Miajn sabatojn. Ĉar kiam ili mortigis siajn infanojn al siaj idoloj, tiam ili venis en la sama tago en Mian sanktejon por profani ĝin; kaj jen, ili faris tion meze de Mia domo.
+
+“Krome vi fratinoj sendis por virojn, kiuj venas de malproksime, al kiuj mesaĝisto estis sendita, kaj jen ili venis; por kiuj vi lavis vin, pentris viajn okulojn, ornamis vin per ornamaĵoj, kaj sidis sur majesta lito, kun tablo preparita antaŭ ĝi, sur kiu vi metis Mian incenson kaj Mian oleon.
+
+“La voĉo de amaso en komforto estis kun ŝi. Kun viroj el la ordinara popolo estis alportitaj ebriuloj el la dezerto; kaj ili metis braceletojn sur iliajn manojn, kaj belajn kronojn sur iliajn kapojn. Tiam Mi diris pri ŝi, kiu estis maljuna en adultadoj: ‘Nun ili ludos la prostituitinon kun ŝi, kaj ŝi kun ili.’ Ili iris al ŝi, kiel oni iras al prostituitino. Tiel ili iris al Ohola kaj al Oholiba, la malĉastaj virinoj. Justaj viroj juĝos ilin laŭ la juĝo de adultulinoj kaj laŭ la juĝo de virinoj, kiuj verŝas sangon, ĉar ili estas adultulinoj, kaj sango estas en iliaj manoj.
+
+“Ĉar la Sinjoro Yahweh diras: ‘Mi levos homamason kontraŭ ilin, kaj donos ilin por esti ĵetataj tien kaj reen kaj rabataj. La aro ŝtonmortigos ilin per ŝtonoj kaj mortigos ilin per siaj glavoj. Ili mortigos iliajn filojn kaj iliajn filinojn, kaj bruligos iliajn domojn per fajro.’”
+--- input647
+“‘Tiel mi ĉesigos malĉastecon en la lando, por ke ĉiuj virinoj estu instruataj ne esti malĉastaj kiel vi. Ili redonos al vi vian malĉastecon, kaj vi portos la pekojn de viaj idoloj. Tiam vi scios, ke Mi estas la Sinjoro, Yahweh.’”
+
+### Ĉapitro 24
+
+Denove, en la naŭa jaro, en la deka monato, en la deka tago de la monato, la vorto de Yahweh venis al mi, dirante: “Ho filo de homo, skribu la nomon de la tago, ĝuste ĉi tiun tagon. La reĝo de Babel alproksimiĝis al Jerusalemo ĝuste ĉi tiun tagon. Diru parabolon al la ribelema domo kaj diru al ili: ‘La Sinjoro Yahweh diras:
+
+“Metu la kaldronon sur la fajron.
+
+Metu ĝin,
+
+kaj ankaŭ verŝu akvon en ĝin.
+
+Kolektu ĝiajn pecojn en ĝin,
+
+eĉ ĉiun bonan pecon:
+
+la femuron kaj la ŝultron.
+
+Plenigu ĝin per la plej bonaj ostoj.
+
+Prenu la plej bonajn el la grego,
+
+kaj ankaŭ amason da ligno por la ostoj sub la kaldrono.
+
+Faru ĝin bone boli.
+
+Jes, lasu ĝiajn ostojn boli en ĝi.”
+
+“‘Tial la Sinjoro Yahweh diras:
+
+“Ve al la sangoverŝa urbo,
+
+al la kaldrono kies rusto estas en ĝi,
+
+kaj kies rusto ne foriĝis el ĝi!
+
+Eltiru el ĝi pecon post peco
+
+sen ĵeti loton por ĝi.
+
+“‘ “Ĉar la sango, kiun ŝi verŝis, estas en ŝia mezo.
+
+Ŝi metis ĝin sur nudan rokon.
+
+Ŝi ne verŝis ĝin sur la teron,
+
+por kovri ĝin per polvo.
+
+Por ke ĝi kaŭzu koleron leviĝi por venĝo,
+
+Mi metis ŝian sangon sur nudan rokon,
+
+por ke ĝi ne estu kovrita.”
+
+“‘Tial la Sinjoro Yahweh diras:
+
+“Ve al la sangoverŝa urbo!
+
+Mi ankaŭ faros la amason granda.
+
+Amasigu lignojn.
+
+Faru la fajron varmega.
+
+Boligu la viandon bone.
+
+Faru la buljonon densa,
+
+kaj lasu la ostojn bruli.
+
+Tiam metu ĝin malplenan sur ĝiajn karbojn,
+
+por ke ĝi varmiĝu,
+
+kaj ĝia bronzo brulu,
+
+kaj por ke ĝia malpureco fandiĝu en ĝi,
+
+por ke ĝia rusto estu konsumita.
+
+Ŝi laciĝis pro laborado;
+
+tamen ŝia granda rusto,
+
+rusto per fajro, ne forlasas ŝin.
+
+“‘ “En via malpureco estas malĉasteco. Ĉar Mi purigis vin kaj vi ne estis purigita, vi ne plu estos purigita de via malpureco, ĝis Mi kaŭzos, ke Mia kolero kontraŭ vi ripozu.
+
+“‘ “Mi, Yahweh, tion diris. Ĝi okazos, kaj Mi faros ĝin. Mi ne revenos. Mi ne indulgos. Mi ne pentos. Laŭ viaj vojoj kaj laŭ viaj agoj ili juĝos vin,” diras la Sinjoro Yahweh.’”
+
+Ankaŭ la vorto de Yahweh venis al mi, dirante: “Ho filo de homo, jen, Mi forprenos de vi per unu bato la deziron de viaj okuloj; tamen vi nek funebros nek ploros, nek viaj larmoj fluos. Suspiru, sed ne laŭte. Ne funebru por la mortinto. Ligu vian kapornamon sur vin, kaj metu viajn sandalojn sur viajn piedojn. Ne kovru viajn lipojn, kaj ne manĝu funebran panon.”
+
+Do mi parolis al la popolo matene, kaj vespere mia edzino mortis. Do mi faris matene kiel mi estis ordonita.
+
+La popolo demandis min: “Ĉu vi ne diros al ni, kion signifas ĉi tiuj aferoj por ni, ke vi agas tiel?”
+
+Tiam mi diris al ili: “La vorto de Yahweh venis al mi, dirante: ‘Parolu al la domo de Izrael: “La Sinjoro Yahweh diras: ‘Jen Mi profanos Mian sanktejon, la fieron de via potenco, la deziron de viaj okuloj, kaj tion, kion via animo kompatas; kaj viaj filoj kaj viaj filinoj, kiujn vi lasis malantaŭe, falos per glavo. Vi agos kiel mi agis. Vi ne kovros viajn lipojn nek manĝos funebran panon. Viaj turbanoj estos sur viaj kapoj, kaj viaj sandaloj sur viaj piedoj. Vi ne funebros nek ploros; sed vi velkos en viaj malbonagoj kaj ĝemos unu al alia. Tiel Jeĥezkel estos signo por vi; laŭ ĉio, kion li faris, vi faros. Kiam tio okazos, tiam vi scios, ke Mi estas la Sinjoro Yahweh.’”’”
+
+“Vi, ho filo de homo, ĉu ne estos en tiu tago kiam Mi forprenos de ili ilian forton, la ĝojon de ilia gloro, la deziron de iliaj okuloj, kaj tion, sur kio ili metas sian koron—iliajn filojn kaj iliajn filinojn—ke en tiu tago tiu kiu eskapas venos al vi por sciigi tion al vi per viaj oreloj? En tiu tago via buŝo malfermiĝos al tiu kiu eskapis, kaj vi parolos kaj ne plu estos muta. Tiel vi estos signo por ili. Tiam ili scios, ke Mi estas Yahweh.”
+
+### Ĉapitro 25
+--- input648
+La vorto de Javeo venis al mi, dirante: “Ho filo de homo, turnu vian vizaĝon al la infanoj de Amono, kaj profetu kontraŭ ili. Diru al la infanoj de Amono: ‘Aŭskultu la vorton de la Sinjoro Javeo! La Sinjoro Javeo diras: “Ĉar vi diris, ‘Ha ha!’ kontraŭ mia sanktejo kiam ĝi estis malpurigita, kaj kontraŭ la lando de Izrael kiam ĝi estis dezertigita, kaj kontraŭ la domo de Jehuda kiam ili iris en kaptitecon, tial jen, mi transdonos vin al la infanoj de la oriento kiel posedon. Ili starigos siajn tendarojn en vi kaj faros siajn loĝejojn en vi. Ili manĝos viajn fruktojn kaj trinkos vian lakton. Mi faros Raban stalon por kameloj kaj la infanojn de Amono ripozejo por ŝafaro. Tiam vi scios, ke mi estas Javeo.” Ĉar la Sinjoro Javeo diras: “Ĉar vi frapis per viaj manoj, stampis per viaj piedoj, kaj ĝojis kun tuta malestimo de via animo kontraŭ la lando de Izrael, tial jen, mi etendis mian manon sur vin, kaj mi transdonos vin kiel rabaĵon al la nacioj. Mi fortranĉos vin el inter la popoloj, kaj mi igos vin perei el la landoj. Mi detruos vin. Tiam vi scios, ke mi estas Javeo.”
+
+“‘La Sinjoro Javeo diras: “Ĉar Moab kaj Seir diras, ‘Jen, la domo de Jehuda estas kiel ĉiuj nacioj,’ tial jen, mi malfermos la flankon de Moab el la urboj, el liaj urboj kiuj estas ĉe ĝiaj limoj, la gloro de la lando, Bet-Ĵeŝimot, Baal-Meon, kaj Kirjataim, al la infanoj de la oriento, por iri kontraŭ la infanojn de Amono; kaj mi donos ilin kiel posedon, por ke la infanoj de Amono ne estu memorataj inter la nacioj. Mi plenumos juĝojn kontraŭ Moab. Tiam ili scios, ke mi estas Javeo.”
+
+“‘La Sinjoro Javeo diras: “Ĉar Edom agis kontraŭ la domo de Jehuda per venĝo, kaj grave ofendis kaj prenis venĝon kontraŭ ili,” tial la Sinjoro Javeo diras: “Mi etendos mian manon sur Edomon, kaj mi fortranĉos homojn kaj bestojn el ĝi; kaj mi faros ĝin dezerta ekde Teman. Ili falos per glavo ĝis Dedan. Mi metos mian venĝon sur Edomon per la mano de mia popolo Izrael. Ili agos en Edom laŭ mia kolero kaj laŭ mia furiozo. Tiam ili scios mian venĝon,” diras la Sinjoro Javeo.
+
+“‘La Sinjoro Javeo diras: “Ĉar la Filiŝtoj prenis venĝon kaj agis kun malestimo de animo por detrui kun eterna malamikeco,” tial la Sinjoro Javeo diras: “Jen, mi etendos mian manon sur la Filiŝtojn, kaj mi fortranĉos la Keretidojn kaj detruos la restaĵon de la marbordo. Mi plenumos grandan venĝon sur ili kun koleraj riproĉoj. Tiam ili scios, ke mi estas Javeo, kiam mi metos mian venĝon sur ilin.” ’”
+
+### Ĉapitro 26
+
+En la dek-unua jaro, en la unua tago de la monato, venis al mi la vorto de Javeo, dirante: “Ho filo de homo, ĉar Tiro diris kontraŭ Jerusalemo, ‘Ha ha! Ŝi estas rompita! Ŝi, kiu estis la pordego de la popoloj, estas redonita al mi. Mi estos replenigita nun kiam ŝi estas detruita;’ tial la Sinjoro Javeo diras: ‘Jen, mi estas kontraŭ vi, Tiro, kaj mi kaŭzos multajn naciojn veni kontraŭ vin, kiel la maro kaŭzas siajn ondojn supreniri. Ili detruos la murojn de Tiro kaj rompos ŝiajn turojn. Mi ankaŭ forigos ŝian polvon de ŝi kaj faros ŝin nuda roko. Ŝi estos loko por sterni retojn meze de la maro; ĉar mi tion parolis,’ diras la Sinjoro Javeo. ‘Ŝi fariĝos rabaĵo por la nacioj. Ŝiaj filinoj kiuj estas en la kampo estos mortigitaj per glavo. Tiam ili scios, ke mi estas Javeo.’
+
+“Ĉar la Sinjoro Javeo diras: ‘Jen, mi alportos sur Tiron Nebukadnecaron reĝon de Babel, reĝon de reĝoj, el la nordo, kun ĉevaloj, ĉaroj, rajdantoj kaj armeo kun multaj homoj. Li mortigos viajn filinojn en la kampo per glavo. Li konstruos fortikaĵojn kontraŭ vi, ĵetos tumulon kontraŭ vi kaj levos ŝildojn kontraŭ vi. Li starigos siajn batilojn kontraŭ viaj muroj kaj per siaj hakiloj li rompos viajn turojn. Pro la abundo de liaj ĉevaloj ilia polvo kovros vin. Viaj muroj skuiĝos ĉe la bruo de rajdantoj, ĉaroj kaj ĉaroj kiam li eniros en viajn pordegojn kiel homoj eniras en urbon kiu estas rompita malferme. Li piedpremos ĉiujn viajn stratojn per hufoj de siaj ĉevaloj. Li mortigos viajn homojn per glavo. La kolonoj de via forteco falos al la grundo. Ili faros rabaĵon el viaj riĉaĵoj kaj kaptos vian komercon kiel predon. Ili rompos viajn murojn kaj detruos viajn agrablajn domojn. Ili ĵetos viajn ŝtonojn, lignon kaj polvon en mezo de akvoj. Mi kaŭzos ke la bruo de viaj kantoj ĉesu. La sono de viaj harpoj ne plu estos aŭdita. Mi faros vin nuda roko. Vi estos loko por sterni retojn. Vi ne plu estos konstruita; ĉar mi Javeo tion parolis,’ diras la Sinjoro Javeo."
+--- input649
+“La Sinjoro Yahweh diras al Tiro: ‘Ĉu la insuloj ne skuiĝos ĉe la sono de via falo, kiam la vunditoj ĝemos, kiam la buĉado okazos interne de vi? Tiam ĉiuj princoj de la maro malsupreniros de siaj tronoj, demetos siajn robojn, kaj senvestigos siajn broditajn vestojn. Ili vestos sin per tremado. Ili sidos sur la tero, kaj tremos ĉiumomente, kaj estos miregigitaj pri vi. Ili levos lamentadon pri vi, kaj diros:
+
+“Kiel vi estas detruita,
+
+vi, kiu estis loĝata de maristoj,
+
+la fama urbo,
+
+kiu estis forta en la maro,
+
+ŝi kaj ŝiaj loĝantoj,
+
+kiuj kaŭzis teruron al ĉiuj, kiuj loĝis tie!”
+
+Nun la insuloj tremos en la tago de via falo.
+
+Jes, la insuloj, kiuj estas en la maro, estos konsternitaj pro via foriro.’
+
+“Ĉar la Sinjoro Yahweh diras: ‘Kiam mi faros vin dezerta urbo, kiel la urboj, kiuj ne estas loĝataj, kiam mi levos la profundon super vin, kaj la grandaj akvoj kovros vin, tiam mi malsuprenigos vin kun tiuj, kiuj descendas en la abismon, al la homoj de antikvaj tempoj, kaj mi igos vin loĝi en la plej malaltaj partoj de la tero, en lokoj dezertaj de antikveco, kun tiuj, kiuj malsupreniras en la abismon, por ke vi ne estu loĝata; kaj mi starigos gloron en la lando de la vivantoj. Mi faros vin teruro, kaj vi ne plu ekzistos. Kvankam oni serĉos vin, tamen oni neniam plu trovos vin,’ diras la Sinjoro Yahweh.”
+
+### Ĉapitro 27
+
+La vorto de Yahweh denove venis al mi, dirante: “Vi, filo de homo, levu lamentadon pri Tiro; kaj diru al Tiro: ‘Vi, kiu loĝas ĉe la enirejo de la maro, kiu estas komercisto de la popoloj al multaj insuloj, la Sinjoro Yahweh diras:
+
+“Vi, Tiro, diris,
+
+‘Mi estas perfekta en beleco.’
+
+Viaj limoj estas en la koro de la maroj.
+
+Viaj konstruistoj perfektigis vian belecon.
+
+Ili faris ĉiujn viajn tabulojn el cipresarboj el Senir.
+
+Ili prenis cedron el Libano por fari maston por vi.
+
+Ili faris viajn remilojn el kverkoj de Baŝan.
+
+Ili faris viajn benkojn el eburo enkonstruita en cipresligno el la insuloj de Kitim.
+
+Via velo estis el delikata tolo kun brodita laboro el Egiptujo,
+
+por ke ĝi estu por vi standardo.
+
+Blua kaj purpura el la insuloj de Eliŝa estis via tegmentaĵo.
+
+La loĝantoj de Cidon kaj Arvad estis viaj remistoj.
+
+Viaj saĝuloj, Tiro, estis en vi.
+
+Ili estis viaj pilotoj.
+
+La maljunuloj de Gebal
+
+kaj ĝiaj saĝuloj estis viaj riparistoj de ŝipkudroj en vi.
+
+Ĉiuj ŝipoj de la maro kun siaj maristoj estis en vi
+
+por trakti vian komercon.
+
+“‘ “Persio, Lud, kaj Put estis en via armeo,
+
+viaj militistoj.
+
+Ili pendigis ŝildon kaj kaskon en vi.
+
+Ili montris vian belecon.
+
+La viroj de Arvad kun via armeo estis sur viaj muroj ĉirkaŭe,
+
+kaj kuraĝaj viroj estis en viaj turoj.
+
+Ili pendigis siajn ŝildojn sur viaj muroj ĉirkaŭe.
+
+Ili perfektigis vian belecon.
+
+“‘ “Tarŝiŝ estis via komercisto pro la multo da ĉiuspecaj riĉaĵoj. Ili komercis por viaj varoj per arĝento, fero, stano, kaj plumbo.
+
+“‘ “Javan, Tubal, kaj Meŝeĥ estis viaj komercistoj. Ili komercis homojn kaj vazojn el bronzo kontraŭ viaj varoj.
+
+“‘ “La domo de Togarma komercis por viaj varoj per ĉevaloj, militĉevaloj, kaj muloj.
+
+“‘ “La viroj de Dedan komercis kun vi. Multaj insuloj estis la merkato de via mano. Ili alportis al vi kornojn el eburo kaj ebono kontraŭ interŝanĝo.
+
+“‘ “Sirio estis via komercisto pro la multo da viaj manfaritaĵoj. Ili komercis por viaj varoj per smeraldoj, purpuro, brodita laboro, delikata tolo, koralo, kaj rubenoj.
+
+“‘ “Judujo kaj la lando de Izrael estis viaj komercistoj. Ili komercis tritikon el Minito, dolĉaĵojn, mielon, oleon, kaj balzamon kontraŭ viaj varoj.
+
+“‘ “Damasko estis via komercisto pro la multo da viaj manfaritaĵoj pro la multo da ĉiuspecaj riĉaĵoj kun la vino de Ĥelbon kaj blanka lano.
+
+“‘ “Vedan kaj Javan komercis per fadeno kontraŭ viaj varoj; forĝita fero, kasio, kaj kalamo estis inter viaj varoj.
+
+“‘ “Dedan estis via komercisto per altvaloraj selkovriloj por rajdado.
+
+“‘ “Arabio kaj ĉiuj princoj de Kedar estis viaj favorataj komercistoj per ŝafidoj, virŝafoj, kaj kaproj. Per ĉi tiuj ili estis viaj komercistoj.
+--- input650
+“‘ “La komercistoj de Ŝeba kaj Raama estis viaj komercistoj. Ili komercis por viaj varoj per la plej bonaj spicoj, ĉiuj valoraj ŝtonoj, kaj oro.
+
+“‘ “Haran, Kaneo, Edeno, la komercistoj de Ŝeba, Asŝur kaj Ĉilmad, estis viaj komercistoj. Ili estis viaj komercistoj en elektitaj varoj, en envolvaĵoj de bluo kaj brodita laboro, kaj en cedraj kestoj de riĉaj vestoj ligitaj per ŝnuroj, inter viaj varoj.
+
+“‘ “La ŝipoj de Tarŝiŝ estis viaj karavanoj por viaj varoj.
+
+Vi estis replenigita
+
+kaj fariĝis tre glora en la koro de la maroj.
+
+Viaj remantoj kondukis vin en grandajn akvojn.
+
+La orienta vento rompis vin en la koro de la maroj.
+
+Viaj riĉaĵoj, viaj varoj, viaj komercaĵoj,
+
+viaj maristoj, viaj pilotoj, viaj riparistoj de ŝipoj,
+
+la komercistoj de viaj varoj,
+
+kaj ĉiuj viaj militistoj kiuj estas en vi,
+
+kun ĉiuj viaj kunuloj kiuj estas inter vi,
+
+faliĝos en la koron de la maroj en la tago de via ruiniĝo.
+
+Je la sono de la krio de viaj pilotoj,
+
+la paŝtejoj skuiĝos.
+
+Ĉiuj kiuj manipulas la remilojn,
+
+la maristoj kaj ĉiuj pilotoj de la maro,
+
+malsupreniros el siaj ŝipoj.
+
+Ili staros sur la tero,
+
+kaj igos sian voĉon aŭdiĝi super vi,
+
+kaj ploros amare.
+
+Ili ĵetos polvon sur siajn kapojn.
+
+Ili ruliĝos en la cindro.
+
+Ili faros sin kalvaj pro vi,
+
+kaj vestos sin per sakaĵo.
+
+Ili ploros pro vi kun amareco de animo,
+
+kun amara funebro.
+
+En sia lamentado ili prenos lamenton pri vi,
+
+kaj lamentos super vi, dirante:
+
+‘Kiu estas kiel Tiro,
+
+kiel ŝi kiu estas silentigita en la mezo de la maro?’
+
+Kiam viaj varoj venis el la maroj,
+
+vi plenigis multajn popolojn.
+
+Vi riĉigis la reĝojn de la tero
+
+per la multo de viaj riĉaĵoj kaj de viaj varoj.
+
+En la tempo kiam vi estis rompita per la maroj,
+
+en la profundoj de la akvoj,
+
+viaj varoj kaj ĉiuj viaj kunuloj falis ene de vi.
+
+Ĉiuj loĝantoj de la insuloj estas mirigitaj pri vi,
+
+kaj iliaj reĝoj estas terure timigitaj.
+
+Ili estas ĝenitaj en sia vizaĝo.
+
+La komercistoj inter la popoloj fajfas pri vi.
+
+Vi venis al terura fino,
+
+kaj vi ne plu ekzistos.”’”
+
+### Ĉapitro 28
+
+La vorto de Javeo denove venis al mi, dirante: “Ho filo de homo, diru al la princo de Tiro: ‘La Sinjoro Javeo diras:
+
+“Ĉar via koro leviĝis,
+
+kaj vi diris, ‘Mi estas dio,
+
+mi sidas sur la trono de Dio,
+
+en la mezo de la maroj;’
+
+tamen vi estas homo,
+
+kaj ne dio,
+
+kvankam vi metas vian koron kiel la koron de dio—
+
+jen, vi estas pli saĝa ol Danielo.
+
+Ne ekzistas sekreto kaŝita antaŭ vi.
+
+Per via saĝeco kaj per via kompreno vi akiris al vi riĉaĵojn,
+
+kaj akiris oron kaj arĝenton en viajn trezorejojn.
+
+Per via granda saĝeco
+
+kaj per via komercado vi pligrandigis viajn riĉaĵojn,
+
+kaj via koro leviĝis pro viaj riĉaĵoj—”
+
+“‘tial la Sinjoro Javeo diras:
+
+“Ĉar vi metis vian koron kiel la koron de Dio,
+
+tial jen, mi alportos fremdulojn kontraŭ vin,
+
+la terurajn el la nacioj.
+
+Ili eltiregos siajn glavojn kontraŭ la belecon de via saĝeco.
+
+Ili malpurigos vian brilecon.
+
+Ili malsuprenigos vin al la foso.
+
+Vi mortos per morto de tiuj kiuj estas mortigitaj
+
+en la koro de la maroj.
+
+Ĉu vi ankoraŭ diros antaŭ tiu kiu mortigas vin, ‘Mi estas dio’?
+
+Sed vi estas homo, kaj ne dio,
+
+en la mano de tiu kiu vundas vin.
+
+Vi mortos per morto de necirkumciditoj
+
+per la mano de fremduloj;
+
+ĉar mi tion parolis,” diras la Sinjoro Javeo.’”
+
+Plue, la vorto de Javeo venis al mi, dirante: “Ho filo de homo, prenu lamenton super la reĝo de Tiro, kaj diru al li: ‘La Sinjoro Javeo diras:
+
+“Vi estis sigelo de plena mezuro,
+
+plena je saĝeco,
+
+kaj perfekta en beleco.
+
+Vi estis en Edeno,
+
+la ĝardeno de Dio.
+
+Ĉiu valora ŝtono ornamis vin:
+
+rubeno, topazo, smeraldo,
+
+krisolito, onikso, jaspiso,
+
+safiro, turkiso, kaj berilo.
+
+Ora laboro de tamburinoj
+
+kaj flutoj estis en vi.
+
+Ili estis preparitaj en la tago kiam vi estis kreita.
+
+Vi estis la sanktoleita kerubo kiu kovras.
+
+Tiam mi starigis vin sur la sankta monto de Dio.
+
+Vi iris supren kaj malsupren en la mezo de fajraj ŝtonoj.
+--- input651
+Vi estis perfekta en viaj vojoj de la tago, kiam vi estis kreita,  
+
+ĝis maljusteco estis trovita en vi.  
+
+Pro la abundo de via komerco, viaj internaj partoj pleniĝis de perforto,  
+
+kaj vi pekis.  
+
+Tial mi forĵetis vin kiel profanan el la monto de Dio.  
+
+Mi detruis vin, kovranta kerubo,  
+
+el la mezo de la ŝtonoj de fajro.  
+
+Via koro leviĝis pro via beleco.  
+
+Vi koruptis vian saĝon pro via brilo.  
+
+Mi ĵetis vin al la tero.  
+
+Mi metis vin antaŭ reĝoj,  
+
+por ke ili vidu vin.  
+
+Pro la multo de viaj maljustaĵoj,  
+
+en la maljusteco de via komerco,  
+
+vi profanis viajn sanktejojn.  
+
+Tial mi eltiris fajron el via mezo.  
+
+Ĝi konsumigis vin.  
+
+Mi turnis vin al cindro sur la tero  
+
+antaŭ la okuloj de ĉiuj, kiuj vidas vin.  
+
+Ĉiuj, kiuj konas vin inter la popoloj, estos mirigitaj pri vi.  
+
+Vi fariĝis teruro,  
+
+kaj vi ekzistos neniam plu.”’”  
+
+La vorto de Jahve venis al mi, dirante: “Ho filo de homo, turnu vian vizaĝon al Cidon, kaj profetu kontraŭ ĝi, kaj diru: ‘La Sinjoro Jahve diras:  
+
+“Jen mi estas kontraŭ vi, Cidon.  
+
+Mi estos glorata inter vi.  
+
+Tiam ili scios, ke mi estas Jahve,  
+
+kiam mi plenumos juĝojn en ĝi,  
+
+kaj estos sanktigita en ĝi.  
+
+Ĉar mi sendos peston en ĝin,  
+
+kaj sangon en ĝiajn stratojn.  
+
+La vunditoj falos ene de ĝi,  
+
+kun la glavo ĉirkaŭ ĝi.  
+
+Tiam ili scios, ke mi estas Jahve.  
+
+“‘ “Ne plu estos pikanta dorno por la domo de Izrael, nek doloriga dorno el tiuj ĉirkaŭ ili, kiuj mokis ilin. Tiam ili scios, ke mi estas la Sinjoro Jahve.”  
+
+“‘La Sinjoro Jahve diras: “Kiam mi kolektos la domon de Izrael el la popoloj, inter kiuj ili estas disigitaj, kaj estos montrita kiel sankta inter ili antaŭ la nacioj, tiam ili loĝos en sia propra lando, kiun mi donis al mia servanto Jakob. Ili loĝos en ĝi sekure. Jes, ili konstruos domojn, plantos vinberĝardenojn, kaj loĝos sekure kiam mi plenumos juĝojn kontraŭ ĉiuj ĉirkaŭ ili, kiuj traktis ilin kun malestimo. Tiam ili scios, ke mi estas Jahve ilia Dio.”’”  
+
+### Ĉapitro 29
+
+En la deka jaro, en la deka monato, en la dek-dua tago de la monato, la vorto de Jahve venis al mi, dirante: “Ho filo de homo, turnu vian vizaĝon kontraŭ Faraono reĝo de Egiptujo, kaj profetu kontraŭ li kaj kontraŭ tuta Egiptujo. Parolu kaj diru: ‘La Sinjoro Jahve diras:  
+
+“Jen mi estas kontraŭ vi, Faraono reĝo de Egiptujo,  
+
+la granda monstro kuŝanta en la mezo de siaj riveroj,  
+
+kiu diris: ‘Mia rivero estas mia propra,  
+
+kaj mi faris ĝin por mi mem.’  
+
+Mi metos hokojn en viajn makzelojn,  
+
+kaj mi faros la fiŝojn de viaj riveroj algluiĝi al viaj skvamoj.  
+
+Mi eltiros vin el la mezo de viaj riveroj,  
+
+kun ĉiuj fiŝoj de viaj riveroj algluiĝantaj al viaj skvamoj.  
+
+Mi ĵetos vin en la dezerton,  
+
+vin kaj ĉiujn fiŝojn de viaj riveroj.  
+
+Vi falos sur la malferman kampon.  
+
+Oni ne kolektos nek kunigos vin.  
+
+Mi donis vin kiel manĝaĵon al la bestoj de la tero  
+
+kaj al la birdoj de la ĉielo.  
+
+“‘ “Ĉiuj loĝantoj de Egiptujo scios, ke mi estas Jahve, ĉar ili estis kano-bastono por la domo de Izrael. Kiam ili kaptis vin per via mano, vi rompiĝis kaj ŝiris ĉiujn iliajn ŝultrojn. Kiam ili apogis sin sur vi, vi rompiĝis kaj paralizis ĉiujn iliajn femurojn.”  
+
+“‘Tial la Sinjoro Jahve diras: “Jen mi alportos glavon sur vin kaj ekstermos homojn kaj bestojn el vi. La lando Egiptujo fariĝos dezerto kaj ruino. Tiam ili scios, ke mi estas Jahve.  
+
+“‘ “Ĉar li diris: ‘La rivero estas mia propra, kaj mi faris ĝin,’ tial jen mi estas kontraŭ vi kaj kontraŭ viaj riveroj. Mi faros la landon Egiptujo tute dezerta kaj ruinaĵo, de la turo de Sevene ĝis la limo de Etiopio. Neniu piedo de homo pasos tra ĝi, nek piedo de besto pasos tra ĝi. Ĝi ne estos loĝata dum kvardek jaroj. Mi faros la landon Egiptujo dezerta meze de landoj dezertaj. Ĝiaj urboj inter urboj ruinitaj fariĝos dezertaj dum kvardek jaroj. Mi disigos la Egiptojn inter la nacioj kaj disĵetos ilin tra la landoj.”
+--- input652
+“‘Ĉar la Sinjoro Jahve diras: “Post kvardek jaroj Mi kolektos la Egiptojn el la popoloj, kie ili estis disigitaj. Mi revenigos la kaptitecon de Egiptujo kaj igos ilin reveni en la landon de Patros, en la landon de ilia naskiĝo. Tie ili estos malalta regno. Ĝi estos la plej malalta el la regnoj. Ĝi ne plu leviĝos super la nacioj. Mi malgrandigos ilin, por ke ili ne plu regu super la nacioj. Ĝi ne plu estos la fido de la domo de Izrael, rememorigante malbonagon, kiam ili turnos sin por rigardi ilin. Tiam ili scios, ke Mi estas la Sinjoro Jahve.”’
+
+Ĝi okazis en la dudek-sepa jaro, en la unua monato, en la unua tago de la monato, ke la vorto de Jahve venis al mi, dirante: “Ho filo de homo, Nebukadnecar, reĝo de Babel, igis sian armeon servi grandan servon kontraŭ Tiro. Ĉiu kapo kalviĝis, kaj ĉiu ŝultro eluzita; tamen li ne ricevis salajron, nek lia armeo, el Tiro, por la servo, kiun li plenumis kontraŭ ĝi. Tial la Sinjoro Jahve diras: ‘Jen Mi donos la landon Egiptujo al Nebukadnecar, reĝo de Babel. Li forportos ĝian amason, prenos ĝian rabaĵon kaj ĝian predon. Tio estos la salajro por lia armeo. Mi donis al li la landon Egiptujo kiel lian pagon pro tio, ke li servis al Mi,’ diras la Sinjoro Jahve.
+
+“En tiu tago Mi elkreskigos kornon por la domo de Izrael, kaj Mi malfermos vian buŝon inter ili. Tiam ili scios, ke Mi estas Jahve.”
+
+### Ĉapitro 30
+
+La vorto de Jahve denove venis al mi, dirante: “Ho filo de homo, profetu kaj diru: ‘La Sinjoro Jahve diras:
+
+“Ploru: ‘Ho ve pro la tago!’
+
+Ĉar la tago estas proksima,
+
+eĉ la tago de Jahve estas proksima.
+
+Ĝi estos tago de nuboj,
+
+tempo de la nacioj.
+
+Glavo venos sur Egiptujon,
+
+kaj angoro estos en Etiopujo,
+
+kiam falos mortigitoj en Egiptujo.
+
+Oni forprenos ĝian amason,
+
+kaj ĝiaj fundamentoj estos detruitaj.
+
+“‘ “Etiopujo, Put, Lud, ĉiuj miksitaj popoloj, Kub kaj la infanoj de la lando aliancita kun ili falos kune per glavo.”
+
+“‘Jahve diras:
+
+“Ankaŭ tiuj, kiuj subtenas Egiptujon, falos.
+
+La fiero de ĝia potenco malaltiĝos.
+
+Ili falos per glavo en ĝi ekde la turo de Sevene,”
+
+diras la Sinjoro Jahve.
+
+“Ili estos dezertigitaj meze de landoj dezertigitaj.
+
+Ĝiaj urboj estos inter urboj ruinigitaj.
+
+Ili scios, ke Mi estas Jahve,
+
+kiam Mi ekbruligos fajron en Egiptujo,
+
+kaj ĉiuj ĝiaj helpantoj estos detruitaj.
+
+“‘ “En tiu tago mesaĝistoj eliros antaŭ Mi en ŝipoj por timigi senzorgajn Etiopojn. Estos angoro sur ili, kiel en la tago de Egiptujo; ĉar jen ĝi venas.”
+
+“‘La Sinjoro Jahve diras:
+
+“Mi ankaŭ ĉesigos la amason de Egiptujo,
+
+per la mano de Nebukadnecar, reĝo de Babel.
+
+Li kaj lia popolo kun li,
+
+la teruraj el la nacioj,
+
+estos alportitaj por detrui la landon.
+
+Ili eltiras siajn glavojn kontraŭ Egiptujon,
+
+kaj plenigos la landon per mortigitoj.
+
+Mi sekigos la riverojn,
+
+kaj vendos la landon en la manojn de malbonuloj.
+
+Mi dezertigos la landon,
+
+kaj ĉion en ĝi,
+
+per la mano de fremduloj.
+
+Mi, Jahve, tion parolis.”
+
+“‘La Sinjoro Jahve diras:
+
+“Mi ankaŭ detruos idolojn,
+
+kaj Mi kaŭzos ke bildoj ĉesu en Memfiso.
+
+Princo ne plu ekzistos el la lando Egiptujo.
+
+Mi metos timon en la landon Egiptujo.
+
+Mi dezertigos Patroson,
+
+kaj ekbruligos fajron en Coan,
+
+kaj plenumos juĝojn kontraŭ No.
+
+Mi verŝos Mian koleron sur Sin,
+
+la fortikaĵon de Egiptujo.
+
+Mi ekstermos la amason de No.
+
+Mi ekbruligos fajron en Egiptujo;
+
+Sin havos grandan angoron.
+
+No estos disrompita.
+
+Memfiso havos kontraŭulojn dumtage.
+
+La junuloj de Aven kaj Pibeset falos per glavo.
+
+Ili iros en kaptitecon.
+
+Ankaŭ ĉe Tehaphnehes la tago mallumiĝos,
+
+kiam Mi rompos la jugojn de Egiptujo tie.
+
+La fiero de ĝia potenco ĉesos en ĝi.
+
+Kiel al ĝi, nubo kovros ĝin,
+
+kaj ĝiaj filinoj iros en kaptitecon.
+
+Tiel Mi plenumos juĝojn kontraŭ Egiptujo.
+--- input653
+Kaj tiam ili scios, ke Mi estas Jahve.’”
+
+En la dekunua jaro, en la unua monato, en la sepa tago de la monato, la vorto de Jahve venis al mi, dirante: “Ho filo de homo, Mi rompis la brakon de Faraono, reĝo de Egiptujo. Jen, ĝi ne estis bandaĝita, por apliki kuracilojn, por meti bandaĝon por ligi ĝin, ke ĝi povu fortiĝi por teni la glavon. Tial la Sinjoro Jahve diras: ‘Jen, Mi estas kontraŭ Faraono, reĝo de Egiptujo, kaj Mi rompos liajn brakojn, la fortan brakon kaj tiun, kiu jam estas rompita. Mi kaŭzos, ke la glavo falu el lia mano. Mi disĵetos la Egiptojn inter la naciojn kaj disigos ilin tra la landoj. Mi fortigos la brakojn de la reĝo de Babel, kaj metos Mian glavon en lian manon; sed Mi rompos la brakojn de Faraono, kaj li ĝemos antaŭ la reĝo de Babel kun la ĝemado de mortige vundita homo. Mi subtenos la brakojn de la reĝo de Babel, sed la brakoj de Faraono falos. Tiam ili scios, ke Mi estas Jahve, kiam Mi metos Mian glavon en la manon de la reĝo de Babel, kaj li etendos ĝin super la landon Egiptujo. Mi disĵetos la Egiptojn inter la naciojn kaj disigos ilin tra la landoj. Tiam ili scios, ke Mi estas Jahve.’”
+
+### Ĉapitro 31
+
+En la dekunua jaro, en la tria monato, en la unua tago de la monato, la vorto de Jahve venis al mi, dirante: “Ho filo de homo, diru al Faraono, reĝo de Egiptujo, kaj al lia amaso:
+
+‘Kiu vi similas en via grandeco?
+
+Jen, la Asiriano estis cedro en Libano
+
+kun belaj branĉoj,
+
+kaj kun ombro kiel arbaro,
+
+de alta staturo;
+
+kaj ĝia supro estis inter densaj branĉoj.
+
+La akvoj ĝin nutris.
+
+La profundo igis ĝin kreski.
+
+Ĝiaj riveretoj fluis ĉirkaŭ ĝia plantejo.
+
+Ĝi sendis siajn kanalojn al ĉiuj arboj de la kampo.
+
+Tial ĝia staturo estis pli alta ol ĉiuj arboj de la kampo;
+
+kaj ĝiaj branĉoj multiĝis.
+
+Ĝiaj branĉetoj fariĝis longaj pro multaj akvoj,
+
+kiam ĝi ilin etendis.
+
+Ĉiuj birdoj de la ĉielo faris siajn nestojn en ĝiaj branĉoj.
+
+Sub ĝiaj branĉetoj ĉiuj bestoj de la kampo naskis siajn idojn.
+
+Ĉiuj grandaj nacioj loĝis sub ĝia ombro.
+
+Tiel ĝi estis bela en sia grandeco,
+
+en la longeco de siaj branĉetoj;
+
+ĉar ĝia radiko estis ĉe multaj akvoj.
+
+La cedroj en la ĝardeno de Dio ne povis ĝin kaŝi.
+
+La cipresoj ne estis kiel ĝiaj branĉoj.
+
+La pinoj ne estis kiel ĝiaj branĉetoj;
+
+nek iu ajn arbo en la ĝardeno de Dio estis kiel ĝi en sia beleco.
+
+Mi faris ĝin bela per la multo da ĝiaj branĉetoj,
+
+tiel ke ĉiuj arboj de Edeno,
+
+kiuj estis en la ĝardeno de Dio, enviis ĝin.’
+
+“Tial tiel diras la Sinjoro Jahve: ‘Ĉar li estas altigita en staturo, kaj li metis sian supron inter densajn branĉojn, kaj lia koro leviĝis pro lia alteco, Mi transdonos lin en la manon de potenca el la nacioj. Li certe agos kun li. Mi forpelis lin pro lia malpieco. Fremduloj, tiranoj el la nacioj, detranĉis lin kaj forlasis lin. Liaj branĉoj falis sur la montojn kaj en ĉiujn valojn, kaj liaj branĉetoj rompiĝis ĉe ĉiuj akvovojoj de la lando. Ĉiuj popoloj de la tero foriris el sub lia ombro kaj forlasis lin. Ĉiuj birdoj de la ĉielo loĝos sur lia ruino, kaj ĉiuj bestoj de la kampo estos sur liaj branĉetoj, por ke neniu el ĉiuj arboj ĉe la akvoj altigu sin en sia staturo kaj ne metu sian supron inter densajn branĉojn. Iliaj potenculoj ne staru altece, eĉ ĉiuj kiuj trinkas akvon; ĉar ili ĉiuj estas transdonitaj al morto, al la malsupraj partoj de la tero, inter la infanoj de homoj, kun tiuj kiuj malsupreniras en la abismon.’
+
+“La Sinjoro Jahve diras: ‘En tiu tago kiam li malsupreniris al Ŝeol, Mi kaŭzis funebron. Mi kovris la profundon por li, kaj Mi retenis ĝiajn riverojn. La grandaj akvoj haltis. Mi kaŭzis Libanon funebri pro li, kaj ĉiuj arboj de la kampo svenis pro li. Mi igis la naciojn tremi ĉe la sono de lia falo, kiam Mi ĵetis lin malsupren al Ŝeol kun tiuj kiuj malsupreniras en la abismon. Ĉiuj arboj de Edeno, la elektitaj kaj plej bonaj el Libano, ĉiuj kiuj trinkas akvon, konsoliĝis en la malsupraj partoj de la tero. Ili ankaŭ malsupreniris al Ŝeol kun li al tiuj kiuj estas mortigitaj per glavo; jes, tiuj kiuj estis liaj brakoj, kiuj loĝis sub lia ombro meze de la nacioj.’
+--- input654
+“‘Al kiu vi estas simila en gloro kaj grandeco inter la arboj de Edeno? Tamen vi estos malsuprenigita kun la arboj de Edeno al la plej malaltaj partoj de la tero. Vi kuŝos meze de la necirkumciditoj, kun tiuj, kiuj estas mortigitaj per la glavo.
+
+“‘Tio estas Faraono kaj lia tuta amaso,’ diras la Sinjoro Javeo.”
+
+### Ĉapitro 32
+
+En la dek-dua jaro, en la dek-dua monato, en la unua tago de la monato, “la vorto de Javeo venis al mi, dirante: ‘Ho filo de homo, ekprenu lamentadon pri Faraono, reĝo de Egiptujo, kaj diru al li:
+
+“Vi estis komparita al juna leono de la nacioj;
+
+tamen vi estas kiel monstro en la maroj.
+
+Vi eksplodis kun viaj riveroj,
+
+kaj ĝenis la akvojn per viaj piedoj,
+
+kaj malpurigis iliajn riverojn.”
+
+La Sinjoro Javeo diras:
+
+“Mi disetendos mian reton super vi kun aro da multaj popoloj.
+
+Ili levos vin en mia reto.
+
+Mi lasos vin sur la tero.
+
+Mi ĵetos vin sur la malferman kampon,
+
+kaj mi kaŭzos, ke ĉiuj birdoj de la ĉielo ekloĝu sur vi.
+
+Mi satigos la bestojn de la tuta tero per vi.
+
+Mi metos vian karnon sur la montojn,
+
+kaj plenigos la valojn per via alteco.
+
+Mi ankaŭ akvumos la teron, en kiu vi naĝas, per via sango,
+
+eĉ ĝis la montoj.
+
+La akvovojoj pleniĝos de vi.
+
+Kiam mi estingas vin, mi kovros la ĉielon
+
+kaj mallumigos ĝiajn stelojn.
+
+Mi kovros la sunon per nubo,
+
+kaj la luno ne donos sian lumon.
+
+Mi mallumigos ĉiujn brilajn lumojn de la ĉielo super vi,
+
+kaj metos mallumon sur vian landon,” diras la Sinjoro Javeo.
+
+“Mi ankaŭ ĝenos la korojn de multaj popoloj,
+
+kiam mi alportos vian detruon inter la naciojn,
+
+en la landojn, kiujn vi ne konis.
+
+Jes, mi igos multajn popolojn mirigitaj pri vi,
+
+kaj iliaj reĝoj estos terure timigitaj pro vi,
+
+kiam mi svingos mian glavon antaŭ ili.
+
+Ili tremos ĉiumomente,
+
+ĉiu homo por sia propra vivo,
+
+en la tago de via falo.”
+
+Ĉar la Sinjoro Javeo diras:
+
+“La glavo de la reĝo de Babel venos sur vin.
+
+Mi kaŭzos, ke via amaso falu per la glavoj de la potenculoj.
+
+Ili ĉiuj estas senkompataj el la nacioj.
+
+Ili malplenigos la fierecon de Egiptujo,
+
+kaj ĉiuj ĝiaj amasoj estos detruitaj.
+
+Mi ankaŭ detruos ĉiujn ĝiajn bestojn apud multaj akvoj.
+
+La piedo de homo ne ĝenos ilin plu,
+
+nek hufoj de bestoj ĝenos ilin.
+
+Tiam mi klarigos iliajn akvojn,
+
+kaj kaŭzos, ke iliaj riveroj fluadu kiel oleo,”
+
+diras la Sinjoro Javeo.
+
+“Kiam mi faros la landon de Egiptujo dezerta kaj senhoma,
+
+lando senigita je tio, kio plenigis ĝin,
+
+kiam mi frapos ĉiujn, kiuj loĝas tie,
+
+tiam ili scios, ke mi estas Javeo.
+
+“‘ “Tio estas la lamentado, per kiu ili lamentos. La filinoj de la nacioj lamentos per tio. Ili lamentos per tio pri Egiptujo kaj pri ĉiuj ĝiaj amasoj,” diras la Sinjoro Javeo.’”
+
+Ankaŭ en la dek-dua jaro, en la dek-kvina tago de la monato, venis al mi vorto de Javeo, dirante: “Ho filo de homo, ploru pri la amaso de Egiptujo, kaj ĵetu ilin malsupren, eĉ ŝin kaj la filinojn de famaj nacioj, al la plej malaltaj partoj de la tero, kun tiuj, kiuj malsupreniras en la abismon. Kiun vi superas en beleco? Iru malsupren kaj kuŝu kun la necirkumciditoj. Ili falos inter tiuj, kiuj estas mortigitaj per glavo. Ŝi estas transdonita al glavo. Forportu ŝin kun ĉiuj ŝiaj amasoj. La fortuloj inter la potenculoj parolos al li el mezo de Ŝeol kun tiuj, kiuj helpas lin. Ili malsupreniris. La necirkumciditoj kuŝas senmove, mortigitaj per glavo.
+
+“Asuro estas tie kun ĉiuj ŝiaj kompanianoj. Ŝiaj tomboj estas ĉirkaŭ ŝi. Ĉiuj ili estas mortigitaj, falintaj per glavo, kies tomboj estas metitaj en la plej ekstremajn partojn de la abismo, kaj ŝia kompanio estas ĉirkaŭ ŝia tombo; ĉiuj ili mortigitaj, falintaj per glavo, kiuj kaŭzis teruron en la lando de vivantoj.
+
+“Estas Elamo kaj ĉiuj ŝiaj amasoj ĉirkaŭ ŝia tombo; ĉiuj ili mortigitaj, falintaj per glavo, kiuj malsupreniris necirkumciditaj en la plej malaltajn partojn de la tero, kiuj kaŭzis sian teruron en la lando de vivantoj kaj portis sian honton kun tiuj, kiuj malsupreniras en la abismon. Ili faris por Elamo liton inter la mortigitaj kun ĉiuj ŝiaj amasoj. Ŝiaj tomboj estas ĉirkaŭ ŝi; ĉiuj ili necirkumciditaj, mortigitaj per glavo; ĉar ilia teruro estis kaŭzita en la lando de vivantoj kaj ili portis sian honton kun tiuj, kiuj malsupreniras en la abismon. Ŝi estas metita inter tiuj, kiuj estas mortigitaj.
+--- input655
+“Estas tie Meŝeĥ, Tubal, kaj ilia tuta amaso. Iliaj tomboj estas ĉirkaŭ ili, ĉiuj necirkumciditaj, mortigitaj per glavo; ĉar ili kaŭzis teruron en la lando de la vivantoj. Ili ne kuŝos kun la potenculoj, kiuj falis el la necirkumciditaj, kiuj malsupreniris al Ŝeol kun siaj militarmiloj kaj metis siajn glavojn sub siajn kapojn. Iliaj malbonagoj estas sur iliaj ostoj; ĉar ili estis la teruro de la potenculoj en la lando de la vivantoj.
+
+“Sed vi estos frakasita inter la necirkumciditaj kaj kuŝos kun tiuj, kiuj estas mortigitaj per glavo.
+
+“Estas tie Edom, ĝiaj reĝoj kaj ĉiuj ĝiaj princoj, kiuj en sia potenco estas kuŝigitaj kun tiuj, kiuj estas mortigitaj per glavo. Ili kuŝos kun la necirkumciditaj kaj kun tiuj, kiuj malsupreniris al la abismo.
+
+“Estas tie la princoj de la nordo, ĉiuj el ili, kaj ĉiuj la Sidonanoj, kiuj malsupreniris kun la mortigitaj. Ili estas hontigitaj en la teruro, kiun ili kaŭzis per sia potenco. Ili kuŝas necirkumciditaj kun tiuj, kiuj estas mortigitaj per glavo, kaj portas sian honton kun tiuj, kiuj malsupreniris al la abismo.
+
+“Faraono vidos ilin kaj konsolos sin pri sia tuta amaso, eĉ Faraono kaj lia tuta armeo, mortigitaj per glavo,” diras la Sinjoro Javeo. “Ĉar Mi metis lian teruron en la landon de la vivantoj. Li estos kuŝigita inter la necirkumciditaj, kun tiuj, kiuj estas mortigitaj per glavo, eĉ Faraono kaj lia tuta amaso,” diras la Sinjoro Javeo.
+
+### Ĉapitro 33
+
+La vorto de Javeo venis al mi, dirante: “Ho filo de homo, parolu al la infanoj de via popolo kaj diru al ili: ‘Kiam Mi alportos glavon sur landon, kaj la popolo de tiu lando elektos viron el inter si kaj starigos lin kiel gardiston, se li vidas la glavon veni sur la landon kaj blovas la trumpeton por averti la popolon, tiam kiu ajn aŭdas la sonon de la trumpeto kaj ne atentas la averton, se la glavo venas kaj forprenas lin, lia sango estos sur lia propra kapo. Li aŭdis la sonon de la trumpeto kaj ne prenis averton. Lia sango estos sur li; dum se li atentus la averton, li savus sian animon. Sed se la gardisto vidas la glavon veni kaj ne blovas la trumpeton, kaj la popolo ne estas avertita, kaj la glavo venas kaj forprenas iun el inter ili, tiu estos forprenita pro sia malbonago, sed Mi postulos lian sangon ĉe la mano de la gardisto.’
+
+“Tial vi, filo de homo, Mi starigis vin kiel gardiston por la domo de Izrael. Tial aŭskultu la vorton el Mia buŝo kaj donu al ili avertojn de Mi. Kiam Mi diros al malvirtulo: ‘Ho malvirtulo, vi certe mortos,’ kaj vi ne parolos por averti la malvirtulon for de lia vojo, tiu malvirtulo mortos pro sia malbonago, sed Mi postulos lian sangon ĉe via mano. Tamen se vi avertas la malvirtulon pri lia vojo por ke li turnu sin de ĝi, kaj li ne turnas sin de sia vojo; li mortos pro sia malbonago, sed vi savis vian animon.
+
+“Vi, filo de homo, diru al la domo de Izrael: ‘Vi diras jenon: “Niaj transgresioj kaj niaj pekoj estas sur ni, kaj ni velkas en ili. Kiel do ni povas vivi?” ’ Diru al ili: ‘ “Kiel Mi vivas,” diras la Sinjoro Javeo, “Mi ne ĝojas pri la morto de malvirtulo, sed ke la malvirtulo turnu sin for de sia vojo kaj vivu. Turnu vin, turnu vin for de viaj malbonaj vojoj! Ĉar kial vi mortos, ho domo de Izrael?” ’
+
+“Vi, filo de homo, diru al la infanoj de via popolo: ‘La justeco de virtulo ne savos lin en la tago de lia malobeo. Kaj rilate al la malvirteco de malvirtulo, li ne falos pro ĝi en la tago kiam li turnas sin for de sia malvirteco; nek tiu kiu estas virtulo povos vivi pro ĝi en la tago kiam li pekas. Kiam Mi diros al virtulo ke li certe vivos, se li fidas sian justecon kaj faras malbonagon, neniu el liaj virtaj faroj estos memorita; sed li mortos pro sia malbonago kiun li faris. Denove, kiam Mi diros al malvirtulo: “Vi certe mortos,” se li turnas sin for de sia peko kaj faras tion kio estas laŭleĝa kaj ĝusta, se la malvirtulo redonas garantion, redonas tion kion li prenis per rabado, iras laŭ la statutoj de vivo sen fari malbonagon, li certe vivos. Li ne mortos. Neniu el liaj pekoj kiujn li faris estos memorita kontraŭ li. Li faris tion kio estas laŭleĝa kaj ĝusta. Li certe vivos.’
+--- input656
+“‘Tamen la infanoj de via popolo diras: “La vojo de la Eternulo ne estas justa;” sed ilia vojo ne estas justa. Kiam la virtulo deturniĝas de sia virto kaj faras maljustaĵon, li mortos pro tio. Kiam la malvirtulo deturniĝas de sia malvirto kaj faras tion, kio estas laŭleĝa kaj justa, li vivos pro tio. Tamen vi diras: “La vojo de la Eternulo ne estas justa.” Ho domo de Izrael, Mi juĝos ĉiun el vi laŭ liaj vojoj.’
+
+En la dekdua jaro de nia kaptiteco, en la deka monato, en la kvina tago de la monato, venis al mi unu, kiu eskapis el Jerusalemo, dirante: “La urbo estas venkita!” Nun la mano de Javeo estis sur mi vespere, antaŭ ol tiu, kiu eskapis, venis; kaj Li malfermis mian buŝon ĝis li venis al mi matene; kaj mia buŝo estis malfermita, kaj mi ne plu estis muta.
+
+La vorto de Javeo venis al mi, dirante: “Ho filo de homo, tiuj, kiuj loĝas en la dezertaj lokoj en la lando de Izrael, diras: ‘Abraham estis unu sola, kaj li heredis la landon; sed ni estas multaj. La lando estas donita al ni kiel heredaĵo.’ Tial diru al ili: ‘La Sinjoro Javeo diras: “Vi manĝas kun la sango, levas viajn okulojn al viaj idoloj, kaj verŝas sangon. Ĉu vi do heredos la landon? Vi staras sur via glavo, faras abomenindaĵojn, kaj ĉiu el vi malpurigas la edzinon de sia proksimulo. Ĉu vi do heredos la landon?”’
+
+“Vi diros al ili: ‘La Sinjoro Javeo diras: “Kiel Mi vivas, certe tiuj, kiuj estas en la dezertaj lokoj, falos per la glavo. Mi donos tiujn, kiuj estas sur la kampo, al la bestoj por esti formanĝitaj, kaj tiuj en la fortikaĵoj kaj kavernoj mortos pro pesto. Mi faros la landon dezerto kaj miro. La fiero de ĝia potenco ĉesos. La montoj de Izrael fariĝos dezertaj, tiel ke neniu pasos tra ili. Tiam ili scios, ke Mi estas Javeo, kiam Mi faros la landon dezerto kaj miro pro ĉiuj iliaj abomenindaĵoj, kiujn ili faris.”’
+
+“Sed vi, ho filo de homo, la infanoj de via popolo parolas pri vi apud la muroj kaj ĉe la pordoj de la domoj, kaj parolas unu al alia, ĉiu al sia frato, dirante: ‘Bonvolu veni kaj aŭdi kio estas tiu vorto, kiu venas el Javeo.’ Ili venas al vi kiel popolo venas, kaj sidas antaŭ vi kiel Mia popolo, kaj ili aŭdas viajn vortojn, sed ne faras ilin; ĉar per sia buŝo ili montras multe da amo, sed ilia koro sekvas sian profiton. Jen vi estas al ili kiel tre ĉarma kanto de iu kun agrabla voĉo kaj kiu bone ludas instrumenton; ĉar ili aŭdas viajn vortojn, sed ne faras ilin.
+
+“Kiam tio okazos—jen ĝi okazas—tiam ili scios, ke profeto estis inter ili.”
+
+### Ĉapitro 34
+
+La vorto de Javeo venis al mi, dirante: “Ho filo de homo, profetu kontraŭ la paŝtistoj de Izrael. Profetu kaj diru al ili, eĉ al la paŝtistoj: ‘La Sinjoro Javeo diras: “Ve al la paŝtistoj de Izrael, kiuj nutras sin mem! Ĉu la paŝtistoj ne devas nutri la ŝafojn? Vi manĝas la grason. Vi vestas vin per la lano. Vi buĉas la grasajn ŝafojn, sed vi ne nutras la ŝafojn. Vi ne fortigis la malsanajn. Vi ne resanigis tion, kio estis malsana. Vi ne bandaĝis tion, kio estis rompita. Vi ne revenigis tion, kio estis forpelita. Vi ne serĉis tion, kio estis perdita. Sed vi regis super ili per forto kaj per rigoro. Ili disiĝis ĉar ne estis paŝtisto. Ili fariĝis manĝaĵo por ĉiuj bestoj de la kampo kaj disiĝis. Miaj ŝafoj vagadis tra ĉiuj montoj kaj sur ĉiu alta monteto. Jes, Miaj ŝafoj disiĝis sur ĉiuj surfacoj de la tero. Ne estis iu ajn kiu serĉis aŭ esploris ilin.”
+
+“‘Tial vi paŝtistoj aŭskultu la vorton de Javeo: “Kiel Mi vivas,” diras la Sinjoro Javeo, “certe ĉar Miaj ŝafoj fariĝis predo kaj Miaj ŝafoj fariĝis manĝaĵo por ĉiuj bestoj de la kampo ĉar ne estis paŝtisto; ĉar Miaj paŝtistoj ne serĉis Miajn ŝafojn sed la paŝtistoj nutris sin mem kaj ne nutris Miajn ŝafojn; tial vi paŝtistoj aŭskultu la vorton de Javeo!” La Sinjoro Javeo diras: “Jen Mi estas kontraŭ la paŝtistoj. Mi postulos Miajn ŝafojn el iliaj manoj kaj kaŭzos ke ili ĉesu nutri Miajn ŝafojn. La paŝtistoj ne plu nutros sin mem. Mi liberigos Miajn ŝafojn el ilia buŝo por ke ili ne estu manĝaĵo por ili.”
+--- input657
+“‘Ĉar la Sinjoro Yahweh diras: “Jen mi mem, eĉ mi, serĉos miajn ŝafojn kaj esploros ilin. Kiel paŝtisto esploras sian gregon en la tago, kiam li estas inter siaj ŝafoj, kiuj estas disigitaj, tiel mi esploros miajn ŝafojn. Mi savos ilin el ĉiuj lokoj, kie ili estis disigitaj en la nuba kaj malluma tago. Mi elkondukos ilin el la popoloj, kaj kolektos ilin el la landoj, kaj kondukos ilin en ilian propran landon. Mi paŝtos ilin sur la montoj de Izrael, apud la riveretoj, kaj en ĉiuj loĝataj lokoj de la lando. Mi paŝtos ilin per bona paŝtejo, kaj ilia ripozejo estos sur la altaj montoj de Izrael. Tie ili kuŝos en bona ripozejo. Ili manĝos riĉan paŝtejon sur la montoj de Izrael. Mi mem estos la paŝtisto de miaj ŝafoj, kaj mi igos ilin kuŝi,” diras la Sinjoro Yahweh. “Mi serĉos tion, kio perdiĝis, kaj revenigos tion, kio estis forpelita, kaj bandaĝos tion, kio estis rompita, kaj fortigos tion, kio estis malsana; sed mi detruos la grasajn kaj fortajn. Mi paŝtos ilin kun justeco.”’
+
+“Pri vi, ho mia grego, la Sinjoro Yahweh diras: ‘Jen mi juĝas inter ŝafo kaj ŝafo, inter virŝafoj kaj virkaproj. Ĉu al vi ŝajnas malgrava afero manĝi el la bona paŝtejo, sed vi devas piedpremi per viaj piedoj la restaĵon de via paŝtejo? Kaj trinki el la klaraj akvoj, sed vi devas malpurigi per viaj piedoj la restaĵon de la akvoj? Kiel al miaj ŝafoj, ili manĝas tion, kion vi piedpremis per viaj piedoj, kaj trinkas tion, kion vi malpurigis per viaj piedoj.’
+
+“Tial la Sinjoro Yahweh diras al ili: ‘Jen mi mem juĝos inter la grasaj ŝafoj kaj la malgrasaj ŝafoj. Ĉar vi puŝas per flanko kaj per ŝultro, kaj pelas ĉiujn malsanajn per viaj kornoj, ĝis vi disigis ilin foren, tial mi savos mian gregon, kaj ili ne plu estos predo. Mi juĝos inter ŝafo kaj ŝafo. Mi starigos unu paŝtiston super ili, kaj li paŝtos ilin, eĉ mian servanton Davidon. Li paŝtos ilin, kaj li estos ilia paŝtisto. Mi, Yahweh, estos ilia Dio, kaj mia servanto David estos princo inter ili. Mi, Yahweh, tion diris.
+
+“‘Mi faros kun ili interligon de paco, kaj mi forigos malbonajn bestojn el la lando. Ili loĝos sekure en la dezerto kaj dormos en la arbaroj. Mi faros ilin kaj la lokojn ĉirkaŭ mia monteto beno. Mi kaŭzos ke pluvo falu ĝustatempe. Estos pluvegoj de beno. La arbo de la kampo donos sian frukton, kaj la tero donos sian rikolton, kaj ili estos sekuraj en sia lando. Tiam ili scios ke mi estas Yahweh, kiam mi rompos la stangojn de ilia jugo, kaj liberigos ilin el la mano de tiuj kiuj sklavigis ilin. Ili ne plu estos predo por la nacioj, nek bestoj de la tero manĝos ilin; sed ili loĝos sekure, kaj neniu timigos ilin. Mi starigos por ili plantejon por famo, kaj ili ne plu estos konsumitaj de malsato en la lando, nek portos la honton de la nacioj plu. Ili scios ke mi, Yahweh, ilia Dio estas kun ili, kaj ke ili, la domo de Izrael, estas mia popolo,” diras la Sinjoro Yahweh. “Vi miaj ŝafoj, la ŝafoj de mia paŝtejo, estas homoj, kaj mi estas via Dio,” diras la Sinjoro Yahweh.’
+
+### Ĉapitro 35
+
+Plue venis al mi vorto de Yahweh, dirante: “Ho filo de homo, turnu vian vizaĝon kontraŭ monto Seir, kaj profetu kontraŭ ĝi, kaj diru al ĝi: ‘La Sinjoro Yahweh diras: “Jen mi estas kontraŭ vi, monto Seir, kaj mi etendos mian manon kontraŭ vin. Mi faros vin dezerto kaj miro. Mi ruinigos viajn urbojn, kaj vi fariĝos dezerta. Tiam vi scios ke mi estas Yahweh.
+
+“‘ “Ĉar vi havis eternan malamikecon kaj transdonis la infanojn de Izrael al la potenco de glavo en ilia mizera tempo, en la tempo de ilia peko ĉe la fino; tial kiel mi vivas,” diras la Sinjoro Yahweh, “mi preparos vin por sango, kaj sango vin persekutos. Ĉar vi ne malamis sangon, tial sango vin persekutos. Tiel mi faros monton Seir miro kaj dezerto. Mi ekstermos el ĝi tiun kiu pasas tra ĝi kaj tiun kiu revenas. Mi plenigos ĝiajn montojn per ĝiaj mortigitoj. La mortigitoj per glavo falos sur viaj montetoj kaj en viaj valoj kaj en ĉiuj viaj riveretoj. Mi faros vin eterna dezerto, kaj viaj urboj ne plu estos loĝataj. Tiam vi scios ke mi estas Yahweh.”
+--- input658
+“‘ “Ĉar vi diris: ‘Ĉi tiuj du nacioj kaj ĉi tiuj du landoj estos miaj, kaj ni posedos ilin,’ kvankam Jahve estis tie, tial, kiel Mi vivas,” diras la Sinjoro Jahve, “Mi agos laŭ via kolero, kaj laŭ via envio, kiun vi montris el via malamo kontraŭ ili; kaj Mi montros Min inter ili kiam Mi juĝos vin. Vi scios, ke Mi, Jahve, aŭdis ĉiujn viajn insultojn, kiujn vi parolis kontraŭ la montoj de Izrael, dirante: ‘Ili estas dezertigitaj. Ili estas donitaj al ni por forkonsumi.’ Vi grandigis vin kontraŭ Mi per via buŝo, kaj multigis viajn vortojn kontraŭ Mi. Mi tion aŭdis.” La Sinjoro Jahve diras: “Kiam la tuta tero ĝojos, Mi faros vin dezerta. Kiel vi ĝojis pri la heredaĵo de la domo de Izrael, ĉar ĝi estis dezerta, tiel Mi faros al vi. Vi estos dezerta, Monto Seir, kaj ĉiu Edomo, eĉ ĉiuj el ĝi. Tiam ili scios, ke Mi estas Jahve.’”
+
+### Ĉapitro 36
+
+Vi, ho filo de homo, profetu al la montoj de Izrael, kaj diru: “Vi montoj de Izrael, aŭskultu la vorton de Jahve. La Sinjoro Jahve diras: ‘Ĉar la malamiko diris kontraŭ vi: “Ha!” kaj, “La antikvaj altaj lokoj estas niaj en posedo!” ’ tial profetu, kaj diru: ‘La Sinjoro Jahve diras: “Ĉar, eĉ ĉar ili faris vin dezerta, kaj englutis vin ĉirkaŭe, por ke vi estu posedaĵo al la restaĵo de la nacioj, kaj vi estas prenitaj en la lipojn de parolantoj, kaj en la malbonan famon de la popolo;” tial vi montoj de Izrael, aŭskultu la vorton de la Sinjoro Jahve: La Sinjoro Jahve diras al la montoj kaj al la montetoj, al la akvovojoj kaj al la valoj, al la dezertigitaj ruinoj kaj al la urboj forlasitaj, kiuj fariĝis predo kaj mokado al la restaĵo de la nacioj ĉirkaŭe; tial la Sinjoro Jahve diras: “Certe en la fajro de Mia ĵaluzo Mi parolis kontraŭ la restaĵo de la nacioj, kaj kontraŭ ĉiu Edomo, kiu asignis Mian landon al si mem kiel posedaĵon kun ĝojo de sia tuta koro, kun malestimo de animo, por forĵeti ĝin kiel predon.” ’ Tial profetu pri la lando de Izrael, kaj diru al la montoj, al la montetoj, al la akvovojoj kaj al la valoj: ‘La Sinjoro Jahve diras: “Jen Mi parolis en Mia ĵaluzo kaj en Mia kolero, ĉar vi portis la honton de la nacioj.” Tial la Sinjoro Jahve diras: “Mi ĵuris: ‘Certe la nacioj ĉirkaŭ vi portos sian honton.’
+
+“‘ “Sed vi, montoj de Izrael, vi elsendos viajn branĉojn kaj donos vian frukton al Mia popolo Izrael; ĉar ili estas proksimaj por veni. Ĉar jen Mi estas por vi, kaj Mi venos al vi, kaj vi estos plugataj kaj semataj. Mi multigos homojn sur vi, la tutan domon de Izrael, eĉ ĉiujn el ĝi. La urboj estos loĝataj kaj la ruinigitaj lokoj estos konstruitaj. Mi multigos homojn kaj bestojn sur vi. Ili kreskos kaj estos fruktodonaj. Mi kaŭzos ke vi estu loĝataj kiel antaŭe, kaj vi faros pli bone ol ĉe viaj komencoj. Tiam vi scios ke Mi estas Jahve. Jes, Mi kaŭzos ke homoj marŝu sur vi, eĉ Mia popolo Izrael. Ili posedos vin, kaj vi estos ilia heredaĵo, kaj vi neniam plu senigos ilin je iliaj infanoj.”
+
+“‘La Sinjoro Jahve diras: “Ĉar ili diras al vi: ‘Vi estas forkonsumanto de homoj, kaj senigis vian nacion je ĝiaj infanoj;’ tial vi ne plu forkonsumos homojn, nek senigos vian nacion je ĝiaj infanoj,” diras la Sinjoro Jahve. “Mi ne permesos ke vi plu aŭdu la honton de la nacioj. Vi ne plu portos la riproĉon de la popoloj, kaj vi ne plu kaŭzos ke via nacio falpuŝiĝu,” diras la Sinjoro Jahve.’”
+
+Plue venis al mi la vorto de Jahve, dirante: “Ho filo de homo, kiam la domo de Izrael loĝis en sia propra lando, ili malpurigis ĝin per siaj vojoj kaj per siaj agoj. Ilia vojo antaŭ Mi estis kiel malpureco de virino en ŝia malpureco. Tial Mi elverŝis Mian koleron sur ilin pro la sango kiun ili elverŝis sur la landon, kaj ĉar ili malpurigis ĝin per siaj idoloj. Mi disĵetis ilin inter la naciojn, kaj ili estis disigitaj tra la landoj. Mi juĝis ilin laŭ ilia vojo kaj laŭ iliaj agoj. Kiam ili venis al la nacioj kien ili iris, ili profanis Mian sanktan nomon per tio ke homoj diris pri ili: ‘Ĉi tiuj estas popolo de Jahve, kaj forlasis Lian landon.’ Sed Mi respektis Mian sanktan nomon, kiun la domo de Izrael profanis inter la nacioj kien ili iris."
+--- input659
+“Sekve diru al la domo de Izrael: ‘La Sinjoro Javeo diras: “Mi ne faras tion pro vi, domo de Izrael, sed pro mia sankta nomo, kiun vi malhonoris inter la nacioj, kien vi iris. Mi sanktigos mian grandan nomon, kiu estis malhonorita inter la nacioj, kiun vi malhonoris inter ili. Tiam la nacioj scios, ke Mi estas Javeo,” diras la Sinjoro Javeo, “kiam Mi estos montrita sankta en vi antaŭ iliaj okuloj.
+
+“‘ “Ĉar Mi prenos vin el inter la nacioj kaj kolektos vin el ĉiuj landoj, kaj Mi venigos vin en vian propran landon. Mi aspergos sur vin puran akvon, kaj vi estos puraj. Mi purigos vin de ĉiuj viaj malpuraĵoj kaj de ĉiuj viaj idoloj. Mi ankaŭ donos al vi novan koron, kaj Mi metos novan spiriton en vin. Mi forigos la ŝtonan koron el via karno, kaj Mi donos al vi koron el karno. Mi metos Mian Spiriton en vin, kaj Mi igos vin iri laŭ Miaj leĝoj. Vi observos Miajn ordonojn kaj plenumos ilin. Vi loĝos en la lando, kiun Mi donis al viaj patroj. Vi estos Mia popolo, kaj Mi estos via Dio. Mi savos vin de ĉiuj viaj malpuraĵoj. Mi vokos por la greno kaj multigos ĝin, kaj ne metos malsaton sur vin. Mi multigos la frukton de la arbo kaj la kreskon de la kampo, por ke vi ne plu suferu la riproĉon de malsato inter la nacioj.
+
+“‘ “Tiam vi memoros viajn malbonajn vojojn kaj viajn agojn, kiuj ne estis bonaj; kaj vi abomenos vin mem antaŭ viaj propraj okuloj pro viaj maljustaĵoj kaj pro viaj abomenindaĵoj. Mi ne faras tion pro vi,” diras la Sinjoro Javeo. “Sciu tion. Hontu kaj konfuzu vin pro viaj vojoj, domo de Izrael.”
+
+“‘La Sinjoro Javeo diras: “En la tago, kiam Mi purigos vin de ĉiuj viaj maljustaĵoj, Mi igos la urbojn esti loĝataj kaj la dezertigitaj lokoj estos rekonstruitaj. La lando, kiu estis dezerta, estos plugata anstataŭ esti dezerta antaŭ la okuloj de ĉiuj, kiuj preterpasis. Ili diros: ‘Ĉi tiu lando, kiu estis dezerta, fariĝis kiel la ĝardeno de Edeno. La dezertigitaj, ruinigitaj kaj detruitaj urboj estas fortikigitaj kaj loĝataj.’ Tiam la nacioj, kiuj restas ĉirkaŭ vi, scios, ke Mi, Javeo, rekonstruis la ruinigitajn lokojn kaj plantis tion, kio estis dezerta. Mi, Javeo, tion diris, kaj Mi tion faros.”
+
+“‘La Sinjoro Javeo diras: “Krome, pri tio Mi estos demandata de la domo de Izrael por fari ĝin por ili: Mi multigos ilin per homoj kiel ŝafaro. Kiel ŝafaro por oferoj, kiel la ŝafaro de Jerusalemo en ŝiaj fiksitaj festoj, tiel la dezertigitaj urboj estos plenigitaj per homaroj. Tiam ili scios, ke Mi estas Javeo.’”
+
+### Ĉapitro 37
+
+La mano de Javeo estis sur mi, kaj Li elkondukis min per la Spirito de Javeo kaj metis min meze de valo; kaj ĝi estis plena de ostoj. Li igis min pasi ĉirkaŭ ili; kaj jen estis tre multaj en la malferma valo; kaj jen ili estis tre sekaj. Li diris al mi: “Ho filo de homo, ĉu ĉi tiuj ostoj povas vivi?”
+
+Mi respondis: “Sinjoro Javeo, Vi scias.”
+
+Denove Li diris al mi: “Profetu pri ĉi tiuj ostoj, kaj diru al ili: ‘Ho sekaj ostoj, aŭskultu la vorton de Javeo. La Sinjoro Javeo diras al ĉi tiuj ostoj: “Jen Mi enmetos spiron en vin, kaj vi vivos. Mi metos sur vin tendenojn kaj alportos karnon sur vin kaj kovros vin per haŭto kaj enmetos spiron en vin, kaj vi vivos. Tiam vi scios, ke Mi estas Javeo.” ’”
+
+Do mi profetis kiel mi estis ordonita. Dum mi profetis, estis bruo; jen estis tertremo; tiam la ostoj kuniĝis unu kun alia. Mi rigardis; jen estis tendenoj sur ili, kaj karno kreskis supre; haŭto kovris ilin supre; sed ne estis spiro en ili.
+
+Tiam Li diris al mi: “Profetu al la vento, profetu, ho filo de homo, kaj diru al la vento: ‘La Sinjoro Javeo diras: “Venu el la kvar ventoj, ho spiro, kaj spiru sur ĉi tiujn mortigitojn, por ke ili vivu.” ’”
+
+Do mi profetis kiel Li ordonis al mi; kaj la spiro venis en ilin, kaj ili vivis kaj staris sur siaj piedoj kiel tre granda armeo.
+
+Tiam Li diris al mi: “Ho filo de homo, ĉi tiuj ostoj estas la tuta domo de Izrael. Jen ili diras: ‘Niaj ostoj estas sekigitaj, kaj nia espero estas perdita. Ni estas tute fortranĉitaj.’ Sekve profetu kaj diru al ili: ‘La Sinjoro Javeo diras: “Jen Mi malfermos viajn tombojn kaj elkondukos vin el viaj tomboj, ho Mia popolo; kaj Mi venigos vin en la landon de Izrael. Vi scios, ke Mi estas Javeo, kiam Mi malfermos viajn tombojn kaj elkondukos vin el viaj tomboj, ho Mia popolo. Mi metos Mian Spiriton en vin, kaj vi vivos. Tiam Mi metos vin en vian propran landon; tiam vi scios, ke Mi, Javeo, tion diris kaj tion plenumis,” diras Javeo.’”
+--- input660
+La vorto de Javeo denove venis al mi, dirante: “Vi, filo de homo, prenu unu bastonon kaj skribu sur ĝi: ‘Por Jehuda, kaj por la infanoj de Izrael, liaj kunuloj.’ Poste prenu alian bastonon, kaj skribu sur ĝi: ‘Por Jozef, la bastono de Efraim, kaj por la tuta domo de Izrael, liaj kunuloj.’ Poste kunigu ilin unu al la alia en unu bastonon, ke ili fariĝu unu en via mano.
+
+“Kiam la infanoj de via popolo parolos al vi, dirante: ‘Ĉu vi ne montros al ni, kion vi celas per tio?’ diru al ili: ‘La Sinjoro Javeo diras: “Jen, Mi prenos la bastonon de Jozef, kiu estas en la mano de Efraim, kaj la tribojn de Izrael, liaj kunuloj; kaj Mi metos ilin kun ĝi, kun la bastono de Jehuda, kaj Mi faros ilin unu bastono, kaj ili estos unu en Mia mano. La bastonoj, sur kiuj vi skribis, estos en via mano antaŭ iliaj okuloj.” ’ Diru al ili: ‘La Sinjoro Javeo diras: “Jen, Mi prenos la infanojn de Izrael el inter la nacioj, kien ili iris, kaj Mi kolektos ilin de ĉiuj flankoj kaj kondukos ilin en ilian propran landon. Mi faros ilin unu nacio en la lando, sur la montoj de Izrael. Unu reĝo estos reĝo super ili ĉiuj. Ili ne plu estos du nacioj. Ili ne plu estos dividitaj en du regnojn. Ili ne plu malpuriĝos per siaj idoloj, nek per siaj abomenindaĵoj, nek per iu el siaj pekoj; sed Mi savos ilin el ĉiuj iliaj loĝlokoj, en kiuj ili pekis, kaj Mi purigos ilin. Ili estos Mia popolo, kaj Mi estos ilia Dio.
+
+“‘ “Mia servanto David estos reĝo super ili. Ili ĉiuj havos unu paŝtiston. Ili ankaŭ iros laŭ Miaj ordonoj kaj observos Miajn leĝojn kaj plenumos ilin. Ili loĝos en la lando, kiun Mi donis al Jakob, Mia servanto, kie viaj patroj loĝis. Ili loĝos tie, ili, kaj iliaj infanoj, kaj la infanoj de iliaj infanoj, por ĉiam. David Mia servanto estos ilia princo por ĉiam. Krome Mi faros interligon de paco kun ili. Ĝi estos eterna interligo kun ili. Mi starigos ilin, multigos ilin, kaj Mi starigos Mian sanktejon inter ili por ĉiam. Mia tendo ankaŭ estos kun ili. Mi estos ilia Dio, kaj ili estos Mia popolo. La nacioj scios, ke Mi estas Javeo, kiu sanktigas Izraelon, kiam Mia sanktejo estos inter ili por ĉiam.” ’”
+
+### Ĉapitro 38
+
+La vorto de Javeo venis al mi, dirante: “Filo de homo, turnu vian vizaĝon kontraŭ Gog el la lando Magog, la princo de Roŝ, Meŝeĥ kaj Tubal, kaj profetu kontraŭ li, kaj diru: ‘La Sinjoro Javeo diras: “Jen Mi estas kontraŭ vi, Gog, princo de Roŝ, Meŝeĥ kaj Tubal. Mi turnos vin ĉirkaŭen kaj metos hokojn en viajn makzelojn, kaj Mi elkondukos vin kun via tuta armeo, ĉevaloj kaj rajdantoj, ĉiuj vestitaj per plena kiraso, granda aro kun ŝildo kaj ŝirmilo, ĉiuj manovrantaj glavojn; Persujo, Kuŝo kaj Put kun ili, ĉiuj kun ŝildo kaj kasko; Gomer kaj ĉiuj ĝiaj hordoj; la domo de Togarma el la plej nordaj partoj kaj ĉiuj ĝiaj hordoj—eĉ multaj popoloj kun vi.
+
+“‘ “Estu preta, jes, preparu vin mem, vi kaj ĉiuj viaj kompanioj kiuj estas kunvenigitaj al vi, kaj estu gardisto por ili. Post multaj tagoj vi estos vizitita. En la lastaj jaroj vi venos en la landon kiu estas revenigita el la glavo, kiu estas kolektita el multaj popoloj sur la montoj de Izrael, kiuj estis konstanta dezerto; sed ĝi estas elkondukita el la popoloj kaj ili loĝos sekure, ĉiuj el ili. Vi supreniros. Vi venos kiel ŝtormo. Vi estos kiel nubo por kovri la landon, vi kaj ĉiuj viaj hordoj kaj multaj popoloj kun vi.”
+
+“‘La Sinjoro Javeo diras: “Okazos en tiu tago ke aferoj venos en vian menson kaj vi elpensos malbonan planon. Vi diros: ‘Mi supreniros al la lando de senmurejoj. Mi iros al tiuj kiuj ripozas, kiuj loĝas sekure, ĉiuj loĝantaj sen muroj kaj havantaj nek riglilojn nek pordegojn; por preni rabaĵon kaj kapti predon; por turni vian manon kontraŭ la dezertaj lokoj kiuj estas loĝataj kaj kontraŭ la popolo kiu estas kolektita el la nacioj, kiu akiris brutaron kaj havaĵojn, kiuj loĝas meze de la tero.’ Ŝeba, Dedan kaj la komercistoj de Tarŝiŝ kun ĉiuj ĝiaj junaj leonoj demandos vin: ‘Ĉu vi venis por preni rabaĵon? Ĉu vi kunvenigis vian kompanion por kapti predon, por forporti arĝenton kaj oron, por forpreni brutaron kaj havaĵojn, por preni grandan rabaĵon?’” ’
+--- input661
+“Sekve, ho filo de homo, profetu kaj diru al Gog: ‘La Sinjoro Javeo diras: “En tiu tago, kiam Mia popolo Izrael loĝos sekure, ĉu vi ne scios tion? Vi venos el via loko el la plej malproksimaj partoj de la nordo, vi kaj multaj popoloj kun vi, ĉiuj rajdantaj sur ĉevaloj, granda amaso kaj potenca armeo. Vi supreniros kontraŭ Mian popolon Izrael kiel nubo por kovri la landon. Okazos en la lastaj tagoj, ke Mi venigos vin kontraŭ Mian landon, por ke la nacioj konatiĝu kun Mi, kiam Mi estos sanktigita en vi, Gog, antaŭ iliaj okuloj.”
+
+“‘La Sinjoro Javeo diras: “Ĉu vi estas tiu, pri kiu Mi parolis en antikvaj tempoj per Miaj servantoj, la profetoj de Izrael, kiuj profetis dum tiuj tagoj dum jaroj, ke Mi venigos vin kontraŭ ilin? Okazos en tiu tago, kiam Gog venos kontraŭ la landon de Izrael,” diras la Sinjoro Javeo, “ke Mia kolero leviĝos en Mia nazo. Ĉar en Mia ĵaluzo kaj en la fajro de Mia kolero Mi parolis. Certe en tiu tago estos granda skuado en la lando de Izrael, tiel ke la fiŝoj de la maro, la birdoj de la ĉielo, la bestoj de la kampo, ĉiuj rampuloj kiuj rampas sur la tero, kaj ĉiuj homoj kiuj estas sur la surfaco de la tero skuiĝos ĉe Mia ĉeesto. Tiam la montoj estos renversitaj, la krutaj lokoj falos, kaj ĉiu muro falos al la tero. Mi vokos glavon kontraŭ li sur ĉiuj Miaj montoj,” diras la Sinjoro Javeo. “Ĉiu homo turnos sian glavon kontraŭ sia frato. Mi juĝos lin per pesto kaj per sango. Mi pluvigos sur lin, sur liajn hordojn, kaj sur la multaj popoloj kiuj estas kun li, torentajn pluvojn kun grandaj hajloŝtonoj, fajron kaj sulfuron. Mi grandigos Min kaj sanktigos Min, kaj Mi faros Min konata antaŭ la okuloj de multaj nacioj. Tiam ili scios, ke Mi estas Javeo.” ’
+
+### Ĉapitro 39
+
+“Vi, ho filo de homo, profetu kontraŭ Gog kaj diru: ‘La Sinjoro Javeo diras: “Jen Mi estas kontraŭ vi, Gog, princo de Roŝ, Meŝeĥ kaj Tubal. Mi turnos vin ĉirkaŭen, kondukos vin antaŭen kaj kaŭzos vin supreniri el la plej malproksimaj partoj de la nordo; kaj Mi venigos vin sur la montojn de Izrael. Mi frapos vian arkon el via maldekstra mano kaj kaŭzos viajn sagojn fali el via dekstra mano. Vi falos sur la montojn de Izrael, vi kaj ĉiuj viaj hordoj kaj la popoloj kiuj estas kun vi. Mi donos vin al ĉiuj rabemaj birdoj de ĉiu speco kaj al la bestoj de la kampo por esti formanĝitaj. Vi falos sur la malferma kampo, ĉar Mi tion parolis,” diras la Sinjoro Javeo. “Mi sendos fajron sur Magog kaj sur tiujn kiuj loĝas sekure en la insuloj. Tiam ili scios, ke Mi estas Javeo.
+
+“‘ “Mi faros Mian sanktan nomon konata inter Mia popolo Izrael. Mi ne plu permesos Mian sanktan nomon esti profanita. Tiam la nacioj scios, ke Mi estas Javeo, la Sankta en Izrael. Jen ĝi venas, kaj ĝi estos farita,” diras la Sinjoro Javeo. “Tio estas la tago pri kiu Mi parolis.
+
+“‘ “Tiuj kiuj loĝas en la urboj de Izrael eliros kaj faros fajrojn el la armiloj kaj bruligos ilin: ŝildojn kaj bukloŝildojn, arkojn kaj sagojn, militklubojn kaj lancojn; kaj ili faros fajrojn per ili dum sep jaroj; tiel ke ili ne prenos lignon el la kampo nek hakos iun el la arbaroj; ĉar ili faros fajrojn per la armiloj. Ili prirabos tiujn kiuj prirabis ilin kaj ŝtelos de tiuj kiuj ŝtelis ilin,” diras la Sinjoro Javeo.
+
+“‘ “Okazos en tiu tago, ke Mi donos al Gog lokon por entombigo en Izrael, en la valo de tiuj kiuj trapasas oriente de la maro; kaj ĝi haltigos tiujn kiuj trapasas. Ili enterigos Gogon kaj ĉiujn liajn amaso tie, kaj ili nomos ĝin ‘La valo de Hamon-Gog’.
+
+“‘ “La domo de Izrael enterigos ilin dum sep monatoj por purigi la landon. Jes, ĉiuj homoj de la lando enterigos ilin; kaj ili famiĝos en tiu tago kiam Mi estos glorita,” diras la Sinjoro Javeo.
+
+“‘ “Ili apartigos homojn por konstanta laborado kiuj trapasos la landon. Tiuj kiuj trapasos iros kun tiuj kiuj enterigos tiujn kiuj restas sur la surfaco de la lando por purigi ĝin. Post sep monatoj ili serĉos. Tiuj kiuj serĉas tra la lando pasos; kaj kiam iu vidos oston de homo, tiam li starigos signon ĉe ĝi ĝis kiam enterigistoj enterigos ĝin en la valo de Hamon-Gog. Hamona ankaŭ estos nomo de urbo. Tiel ili purigos la landon.” ’
+--- input662
+“Vi, ho filo de homo, la Sinjoro Javeo diras: ‘Parolu al la birdoj de ĉiu speco, kaj al ĉiu besto de la kampo: “Kolektiĝu kaj venu; kunvenu ĉirkaŭ mia ofero, kiun mi oferas por vi, eĉ granda ofero sur la montoj de Izrael, por ke vi manĝu viandon kaj trinku sangon. Vi manĝos la karnon de potenculoj kaj trinkos la sangon de la princoj de la tero, de ŝafoj, ŝafidoj, kaproj kaj bovoj, ĉiuj grasigitaj en Baŝan. Vi manĝos grason ĝis vi satiĝos kaj trinkos sangon ĝis vi ebriecos, el mia ofero, kiun mi oferis por vi. Vi estos plenigitaj ĉe mia tablo per ĉevaloj kaj ĉaristoj, per potenculoj kaj ĉiuj militistoj,” diras la Sinjoro Javeo.’
+
+“Mi starigos mian gloron inter la nacioj. Tiam ĉiuj nacioj vidos mian juĝon, kiun mi plenumis, kaj mian manon, kiun mi metis sur ilin. Tiel la domo de Izrael scios, ke mi estas Javeo, ilia Dio, de tiu tago kaj pluen. La nacioj scios, ke la domo de Izrael iris en kaptitecon pro sia malpieco, ĉar ili pekis kontraŭ mi, kaj mi kaŝis mian vizaĝon de ili; do mi transdonis ilin en la manojn de iliaj kontraŭuloj, kaj ili ĉiuj falis per la glavo. Mi agis kontraŭ ili laŭ ilia malpureco kaj laŭ iliaj krimoj. Mi kaŝis mian vizaĝon de ili.
+
+“Tial la Sinjoro Javeo diras: ‘Nun mi renversos la kaptitecon de Jakob kaj kompatos la tutan domon de Izrael. Mi estos ĵaluza pro mia sankta nomo. Ili forgesos sian honton kaj ĉiujn siajn krimojn, per kiuj ili pekis kontraŭ mi, kiam ili loĝos sekure en sia lando. Neniu timigos ilin, kiam mi revenigos ilin el la popoloj, kolektos ilin el la landoj de iliaj malamikoj, kaj estos montrita sankta inter ili antaŭ multaj nacioj. Ili scios, ke mi estas Javeo, ilia Dio, ĉar mi kaŭzis ilin iri en kaptitecon inter la nacioj kaj kolektis ilin en ilian propran landon. Tiam mi ne plu lasos iun el ili en kaptiteco. Mi ne plu kaŝos mian vizaĝon de ili, ĉar mi elverŝis mian Spiriton sur la domon de Izrael,’ diras la Sinjoro Javeo.”
+
+### Ĉapitro 40
+
+En la dudek-kvina jaro de nia kaptiteco, komence de la jaro, en la deka tago de la monato, en la dek-kvara jaro post kiam la urbo estis frapita, en tiu sama tago, la mano de Javeo estis sur mi, kaj li alportis min tien. En vizioj de Dio li alportis min al la lando de Izrael kaj sidigis min sur tre alta monto, sur kiu estis io kiel kadro de urbo al la sudo. Li alportis min tien; kaj jen estis viro kies aspekto estis kiel bronzo, kun lina ŝnuro en sia mano kaj mezurilo; kaj li staris ĉe la pordego. La viro diris al mi: “Filo de homo, rigardu per viaj okuloj kaj aŭskultu per viaj oreloj, kaj metu vian koron sur ĉion, kion mi montros al vi; ĉar vi estis alportita ĉi tien por ke mi montru ilin al vi. Deklaru ĉion, kion vi vidas, al la domo de Izrael.”
+
+Jen estis muro ekstere ĉirkaŭ la domo, kaj en la mano de la viro estis mezurilo ses ulnojn longa, ĉiu ulno kun larĝo de ulno kaj manlarĝo. Do li mezuris la dikecon de la konstruaĵo: unu mezurilo; kaj ĝian altecon: unu mezurilo.
+
+Tiam li venis al la pordego kiu rigardas orienten kaj supreniris ĝiajn ŝtupojn. Li mezuris la sojlon de la pordego: unu mezurilo larĝa; kaj alian sojlon: unu mezurilo larĝa. Ĉiu ĉambro estis unu mezurilo longa kaj unu mezurilo larĝa. Inter la ĉambroj estis kvin ulnoj. La sojlo de la pordego ĉe la portiko de la pordego direkte al la domo estis unu mezurilo.
+
+Li ankaŭ mezuris la portikon de la pordego direkte al la domo: unu mezurilo. Tiam li mezuris la portikon de la pordego: ok ulnoj; kaj ĝiajn fostojn: du ulnoj; kaj la portiko de la pordego estis direkte al la domo.
+
+La flankaj ĉambroj de la orienta pordego estis tri ĉe ĉi tiu flanko kaj tri ĉe tiu flanko. Ĉiuj tri havis saman mezuron. La fostoj havis saman mezuron ĉe ĉi tiu flanko kaj ĉe tiu flanko. Li mezuris la larĝon de la aperturo de la pordego: dek ulnoj; kaj la longon de la pordego: dek tri ulnoj; kaj limon antaŭ la ĉambroj: unu ulno ĉe ĉi tiu flanko kaj limon: unu ulno ĉe tiu flanko; kaj flankajn ĉambrojn: ses ulnoj ĉe ĉi tiu flanko kaj ses ulnoj ĉe tiu flanko. Li mezuris la pordegon de tegmento de unu flanka ĉambro ĝis tegmento de alia: larĝo dudek kvin ulnoj, pordo kontraŭ pordo. Li ankaŭ faris fostojn: sesdek ulnoj; kaj la korto atingis ĝis la fostoj ĉirkaŭe ĉe la pordego. De antaŭe ĉe la enirejo ĝis antaŭe ĉe interna portiko de pordego estis kvindek ulnoj. Estis fermitaj fenestroj ĉe flankaj ĉambroj kaj ĉe iliaj fostoj interne ĉirkaŭe ĉe pordego; same ĉe arkoj. Fenestroj estis ĉirkaŭe interne. Palmoj estis sur ĉiu fosto.
+--- input663
+Tiam li kondukis min en la eksteran korton. Jen, estis ĉambroj kaj pavimo faritaj por la korto ĉirkaŭe. Tridek ĉambroj estis sur la pavimo. La pavimo estis ĉe la flanko de la pordegoj, laŭ la longo de la pordegoj, eĉ la malsupra pavimo. Poste li mezuris la larĝon de la antaŭo de la malsupra pordego ĝis la antaŭo de la interna korto ekstere, cent ulnojn, kaj oriente kaj norde.
+
+Li mezuris la longon kaj larĝon de la pordego de la ekstera korto, kiu frontas norden. Ĝiaj loĝejoj estis tri ĉi-flanke kaj tri tie-flanke. Ĝiaj fostoj kaj ĝiaj arkoj estis laŭ la mezuro de la unua pordego: ĝia longo estis kvindek ulnoj, kaj ĝia larĝo dudek kvin ulnoj. Ĝiaj fenestroj, ĝiaj arkoj, kaj ĝiaj palmoj estis laŭ la mezuro de la pordego, kiu frontas orienten. Oni supreniris al ĝi per sep ŝtupoj. Ĝiaj arkoj estis antaŭ ili. Estis pordego al la interna korto fronte al alia pordego, norde kaj oriente. Li mezuris cent ulnojn de pordego al pordego.
+
+Li kondukis min suden; kaj jen, estis pordego suden. Li mezuris ĝiajn fostojn kaj ĝiajn arkojn laŭ ĉi tiuj mezuroj. Estis fenestroj en ĝi kaj en ĝiaj arkoj ĉirkaŭe, kiel la aliaj fenestroj: ĝia longo estis kvindek ulnoj, kaj ĝia larĝo dudek kvin ulnoj. Estis sep ŝtupoj por supreniri al ĝi, kaj ĝiaj arkoj estis antaŭ ili. Ĝi havis palmojn, unu ĉi-flanke, kaj alian tie-flanke, sur ĝiaj fostoj. Estis pordego al la interna korto suden. Li mezuris cent ulnojn de pordego al pordego suden.
+
+Tiam li kondukis min al la interna korto per la suda pordego. Li mezuris la sudan pordegon laŭ ĉi tiuj mezuroj; kun ĝiaj loĝejoj, ĝiaj fostoj, kaj ĝiaj arkoj, laŭ ĉi tiuj mezuroj. Estis fenestroj en ĝi kaj en ĝiaj arkoj ĉirkaŭe. Ĝi estis kvindek ulnoj longa, kaj dudek kvin ulnoj larĝa. Estis arkoj ĉirkaŭe, dudek kvin ulnoj longaj kaj kvin ulnoj larĝaj. Ĝiaj arkoj estis al la ekstera korto. Palmoj estis sur ĝiaj fostoj. La supreniro al ĝi havis ok ŝtupojn.
+
+Li kondukis min en la internan korton orienten. Li mezuris la pordegon laŭ ĉi tiuj mezuroj; kun ĝiaj loĝejoj, ĝiaj fostoj, kaj ĝiaj arkoj, laŭ ĉi tiuj mezuroj. Estis fenestroj en ĝi kaj en ĝiaj arkoj ĉirkaŭe. Ĝi estis kvindek ulnoj longa, kaj dudek kvin ulnoj larĝa. Ĝiaj arkoj estis al la ekstera korto. Palmoj estis sur ĝiaj fostoj ĉi-flanke kaj tie-flanke. La supreniro al ĝi havis ok ŝtupojn.
+
+Li kondukis min al la norda pordego, kaj li mezuris ĝin laŭ ĉi tiuj mezuroj—ĝiaj loĝejoj, ĝiaj fostoj, kaj ĝiaj arkoj. Estis fenestroj en ĝi ĉirkaŭe. La longo estis kvindek ulnoj kaj la larĝo dudek kvin ulnoj. Ĝiaj fostoj estis al la ekstera korto. Palmoj estis sur ĝiaj fostoj ĉi-flanke kaj tie-flanke. La supreniro al ĝi havis ok ŝtupojn.
+
+Ĉambro kun sia pordo estis ĉe la fostoj ĉe la pordegoj. Ili lavis la bruloferon tie. En la portiko de la pordego estis du tabloj ĉi-flanke kaj du tabloj tie-flanke, sur kiuj oni buĉis la bruloferon, pekoferton, kaj kulpoferon. Ĉe unu flanko ekstere, kiam oni supreniris al la enirejo de la pordego norden, estis du tabloj; kaj ĉe alia flanko, kiu apartenis al la portiko de la pordego, estis du tabloj. Kvar tabloj estis ĉi-flanke, kaj kvar tabloj tie-flanke, ĉe la flanko de la pordego: ok tabloj, sur kiuj oni buĉis la oferojn. Estis kvar elhakitaj ŝtonaj tabloj por la brulofero, unu ulno kaj duono longa, unu ulno kaj duono larĝa, kaj unu ulno alta. Ili metis sur ilin la ilojn per kiuj ili buĉis la bruloferon kaj la oferon. La hokoj, manlarĝaj longaj, estis fiksitaj interne ĉirkaŭe. La viando de la ofero estis sur la tabloj.
+
+Ekstere de la interna pordego estis ĉambroj por kantistoj en la interna korto, kiu estis ĉe la flanko de la norda pordego. Ili frontis suden. Unu ĉe la flanko de la orienta pordego frontis norden. Li diris al mi: “Ĉi tiu ĉambro, kiu frontas suden, estas por la pastroj kiuj plenumas la devojn de la domo. La ĉambro kiu frontas norden estas por la pastroj kiuj plenumas la devojn de la altaro. Ĉi tiuj estas la filoj de Cadok, kiuj el inter la filoj de Levi proksimiĝas al Jahveo por servi al li.” Li mezuris la korton, cent ulnojn longa kaj cent ulnojn larĝa, kvadrata. La altaro estis antaŭ la domo.
+--- input664
+Kaj li kondukis min al la portiko de la domo, kaj mezuris ĉiun foston de la portiko, kvin ulnojn ĉe ĉi tiu flanko, kaj kvin ulnojn ĉe tiu flanko. La larĝo de la pordego estis tri ulnoj ĉe ĉi tiu flanko kaj tri ulnoj ĉe tiu flanko. La longo de la portiko estis dudek ulnoj kaj la larĝo dek unu ulnoj, ĝis la ŝtupoj, per kiuj oni supreniris al ĝi. Estis kolonoj apud la fostoj, unu ĉe ĉi tiu flanko, kaj alia ĉe tiu flanko.
+
+### Ĉapitro 41
+
+Li kondukis min al la sanktejo kaj mezuris la fostojn, ses ulnojn larĝe ĉe unu flanko kaj ses ulnojn larĝe ĉe la alia flanko, kio estis la larĝo de la tendo. La larĝo de la enirejo estis dek ulnoj, kaj la flankoj de la enirejo estis kvin ulnoj ĉe unu flanko, kaj kvin ulnoj ĉe la alia flanko. Li mezuris ĝian longon, kvardek ulnojn, kaj ĝian larĝon, dudek ulnojn.
+
+Poste li iris interne kaj mezuris ĉiun foston de la enirejo, du ulnojn; kaj la enirejon, ses ulnojn; kaj la larĝon de la enirejo, sep ulnojn. Li mezuris ĝian longon, dudek ulnojn, kaj ĝian larĝon, dudek ulnojn, antaŭ la sanktejo. Li diris al mi: "Ĉi tio estas la Plej Sankta Loko."
+
+Tiam li mezuris la muron de la domo, ses ulnojn; kaj la larĝon de ĉiu flankĉambro, kvar ulnojn, ĉirkaŭe ĉirkaŭ la domo. La flankĉambroj estis en tri etaĝoj, unu super alia, kaj tridek en ĉiu etaĝo. Ili eniris en la muron, kiu apartenis al la domo por la flankĉambroj ĉirkaŭe, por ke ili estu subtenataj kaj ne penetru en la muron de la domo. La flankĉambroj estis pli larĝaj ĉe la pli altaj niveloj, ĉar la muroj estis pli mallarĝaj ĉe la pli altaj niveloj. Tial la larĝo de la domo pligrandiĝis supren; kaj tiel oni supreniris de la plej malsupra nivelo al la plej alta tra la meza nivelo.
+
+Mi ankaŭ vidis, ke la domo havis levitan bazon ĉirkaŭe. La fundamentoj de la flankĉambroj estis plena kano de ses grandaj ulnoj. La dikeco de la ekstera muro de la flankĉambroj estis kvin ulnoj. Tio, kio restis, estis la loko de la flankĉambroj apartenantaj al la domo. Inter la ĉambroj estis larĝo de dudek ulnoj ĉirkaŭe ĉirkaŭ la domo. La pordoj de la flankĉambroj estis direktitaj al malferma areo, unu pordo al la nordo, kaj alia pordo al la sudo. La larĝo de la malferma areo estis kvin ulnoj ĉirkaŭe.
+
+La konstruaĵo antaŭ la aparta loko ĉe ĝia okcidenta flanko estis sepdek ulnoj larĝa; kaj la muro de la konstruaĵo estis kvin ulnoj dika ĉirkaŭe, kaj ĝia longo naŭdek ulnoj.
+
+Do li mezuris la templon, cent ulnojn longa; kaj la aparta loko, kaj la konstruaĵo kun ĝiaj muroj, cent ulnojn longa; ankaŭ la larĝo de la fasado de la templo, kaj de la aparta loko orienten, cent ulnojn.
+
+Li mezuris la longon de la konstruaĵo antaŭ la aparta loko ĉe ĝia dorso, kaj ĝiajn galeriojn ĉe unu flanko kaj ĉe alia flanko, cent ulnojn de la interna templo, kaj la portikojn de la korto, la sojlojn, kaj fermitajn fenestrojn, kaj galeriojn ĉirkaŭe en iliaj tri etaĝoj kontraŭe al la sojlo, kun lignaj plafonoj ĉirkaŭe, kaj de surtere ĝis la fenestroj (nuntempe kovritaj), ĝis la spaco super la pordo, eĉ ĝis la interna domo, kaj ekstere, kaj laŭ ĉiuj muroj ĉirkaŭe interne kaj ekstere laŭ mezuro. Ĝi estis farita kun keruboj kaj palmoj. Palmo estis inter kerubo kaj kerubo, kaj ĉiu kerubo havis du vizaĝojn: tiel ke estis vizaĝo de homo kontraŭ palmo ĉe unu flanko, kaj vizaĝo de juna leono kontraŭ palmo ĉe alia flanko. Ĝi estis farita tiel tra ĉiuj muroj ĉirkaŭe en la domo. Keruboj kaj palmoj estis faritaj de surtere ĝis super la pordo. La muro de la templo estis tia.
+
+La pordofostoj de la sanktejo estis kvadrataj. Koncerne al la fasado de la sanktejo, ĝia aspekto estis kiel tiu de la templo. La altaro estis el ligno, tri ulnojn alta, kaj ĝia longo du ulnoj. Ĝiaj anguloj, ĝia bazo, kaj ĝiaj muroj estis el ligno. Li diris al mi: "Ĉi tio estas la tablo antaŭ Javeo." La templo kaj la sanktejo havis du pordojn. La pordoj havis po du foliojn: du turniĝantajn foliojn por unu pordo, kaj du foliojn por alia pordo. Sur ili estis faritaj keruboj kaj palmoj sur la pordoj de la sanktejo, kiel tiuj faritaj sur la muroj. Estis sojlo el ligno surfasade alportike ekstere. Estis fermitaj fenestroj kaj palmoj ĉe unu flanko kaj ĉe alia flanko surflanke alportike. Tiel aranĝiĝis flankĉambroj de templo kun sojloj.
+--- input665
+### Ĉapitro 42
+
+Tiam li elkondukis min al la ekstera korto, laŭ la vojo al la nordo. Li kondukis min en la ĉambron, kiu estis kontraŭ la aparta loko kaj kontraŭ la konstruaĵo al la nordo. Fronte al la longo de cent ulnoj estis la norda pordo, kaj la larĝo estis kvindek ulnoj. Kontraŭ la dudek ulnoj, kiuj apartenis al la interna korto, kaj kontraŭ la pavimo, kiu apartenis al la ekstera korto, estis galerio kontraŭ galerio en tri etaĝoj. Antaŭ la ĉambroj estis piedvojo de dek ulnoj larĝe interne, vojo de unu ulno; kaj iliaj pordoj estis al la nordo. La supraj ĉambroj nun estis pli mallongaj; ĉar la galerioj forprenis pli de tiuj ol de la malsupraj kaj mezaj en la konstruaĵo. Ili estis en tri etaĝoj, kaj ili ne havis kolonojn kiel la kolonoj de la kortoj. Tial la plej supra estis pli malantaŭa ol la plej malsupra kaj meza de sur la tero. La muro ekstere ĉe la flanko de la ĉambroj, kontraŭ la ekstera korto antaŭ la ĉambroj, estis kvindek ulnoj longa. Ĉar la longo de la ĉambroj, kiuj estis en la ekstera korto, estis kvindek ulnoj. Jen, tiuj fronte al la templo estis cent ulnoj. Sub tiuj ĉi ĉambroj estis enirejo ĉe la orienta flanko, kiel oni eniras ilin el la ekstera korto.
+
+En la dikeco de la muro de la korto al la oriento, antaŭ la aparta loko kaj antaŭ la konstruaĵo, estis ĉambroj. La vojo antaŭ ili estis kiel la aspekto de la ĉambroj, kiuj estis al la nordo. Ilia longo kaj larĝo estis samaj. Ĉiuj iliaj elirejoj havis saman aranĝon kaj pordojn. Kiel la pordoj de la ĉambroj, kiuj estis al la sudo, estis pordo ĉe la kapo de la vojo, eĉ la vojo rekte antaŭ la muro al la oriento, kiel oni eniras en ilin.
+
+Tiam li diris al mi: “La nordaj ĉambroj kaj sudaj ĉambroj, kiuj estas kontraŭ la aparta loko, estas sanktaj ĉambroj, kie la pastroj, kiuj estas proksimaj al Javeo, manĝos la plej sanktajn aferojn. Tie ili metos la plej sanktajn aferojn, kun la farunofero, pekoferto, kaj kulpofero; ĉar tiu loko estas sankta. Kiam la pastroj eniros, tiam ili ne eliros el la sankta loko en la eksteran korton ĝis ili demetos siajn vestojn, per kiuj ili servas tie; ĉar ili estas sanktaj. Poste ili surmetos aliajn vestojn kaj alproksimiĝos al tio, kio estas por la popolo.”
+
+Kiam li finis mezuri la internan domon, li elkondukis min laŭ la vojo de la pordego, kiu frontas orienten, kaj mezuris ĝin ĉirkaŭe. Li mezuris ĉe la orienta flanko per mezurilo kvincent kanojn, per mezurilo ĉirkaŭe. Li mezuris ĉe la norda flanko kvincent kanojn per mezurilo ĉirkaŭe. Li mezuris ĉe la suda flanko kvincent kanojn per mezurilo. Li turnis sin al la okcidenta flanko kaj mezuris kvincent kanojn per mezurilo. Li mezuris ĝin ĉe ĉiuj kvar flankoj. Ĝi havis muron ĉirkaŭ ĝi, kun longo de kvincent ulnoj kaj larĝo de kvincent ulnoj, por fari apartigon inter tio, kio estas sankta kaj tio, kio estas ordinara.
+
+### Ĉapitro 43
+
+Poste li kondukis min al la pordego, eĉ al tiu pordego, kiu rigardas orienten. Jen, la gloro de Dio de Izrael venis laŭ la vojo de oriento. Lia voĉo estis kiel sono de multaj akvoj; kaj la tero lumis pro lia gloro. Ĝi estis kiel aspekto de vizio, kiun mi vidis, eĉ laŭ tiu vizio, kiun mi vidis kiam mi venis por detrui la urbon; kaj tiuj vizioj estis kiel tiu vizio, kiun mi vidis ĉe la rivero Kebar; kaj mi falis sur mian vizaĝon. La gloro de Javeo eniris en la domon laŭ la vojo de la pordego, kiu frontas orienten. La Spirito levis min kaj kondukis min en la internan korton; kaj jen, gloro de Javeo plenigis la domon.
+
+Mi aŭdis iun paroli al mi el interne de la domo, kaj viro staris apud mi. Li diris al mi: “Ho filo de homo, ĉi tio estas loko de mia trono kaj loko de miaj piedplandoj, kie mi loĝos inter la infanoj de Izrael eterne. La domo de Izrael ne plu malpurigos mian sanktan nomon, nek ili nek iliaj reĝoj, per sia malĉasteco kaj per kadavroj de siaj reĝoj sur iliaj altaj lokoj; metante sian sojlon apud mian sojlon kaj sian pordfoston apud mian pordfoston. Estis muro inter mi kaj ili; kaj ili malpurigis mian sanktan nomon per siaj abomenindaĵoj, kiujn ili faris. Tial mi konsumigis ilin en mia kolero. Nun ili forigu sian malĉastecon kaj kadavrojn de siaj reĝoj for de mi. Tiam mi loĝos inter ili eterne.”
+--- input666
+“Vi, ho filo de homo, montru la domon al la domo de Izrael, por ke ili hontu pri siaj malbonagoj; kaj mezuru la planon. Se ili hontas pri ĉio, kion ili faris, sciigu al ili la formon de la domo, ĝian aspekton, ĝiajn elirejojn, ĝiajn enirejojn, ĝian strukturon, ĉiujn ĝiajn leĝojn, ĉiujn ĝiajn formojn kaj ĉiujn ĝiajn regulojn; kaj skribu tion antaŭ iliaj okuloj, por ke ili observu la tutan formon de ĝi kaj ĉiujn ĝiajn regulojn kaj plenumu ilin.
+
+“Tio estas la leĝo de la domo. Sur la supro de la monto la tuta limo ĉirkaŭ ĝi estos plej sankta. Jen, tio estas la leĝo de la domo.
+
+“Jen estas la mezuroj de la altaro laŭ ulnoj (la ulno estas ulno kaj manlarĝo): la bazo estos unu ulno, kaj la larĝo unu ulno, kaj ĝia rando ĉirkaŭe estos unu manlarĝo; kaj tio estos la fundamento de la altaro. De la bazo sur la tero ĝis la malsupra kornico estos du ulnoj, kaj la larĝo unu ulno; kaj de la pli malgranda kornico ĝis la pli granda kornico estos kvar ulnoj, kaj la larĝo unu ulno. La supra altaro estos kvar ulnoj; kaj de la altara fajrejo supren estos kvar kornoj. La altara fajrejo estos dek du ulnoj longa kaj dek du larĝa, kvadrata en siaj kvar flankoj. La kornico estos dek kvar ulnoj longa kaj dek kvar larĝa en siaj kvar flankoj; kaj la rando ĉirkaŭ ĝi estos duona ulno; kaj ĝia bazo estos unu ulno ĉirkaŭe; kaj ĝiaj ŝtupoj rigardos orienten.”
+
+Li diris al mi: “Ho filo de homo, la Sinjoro Javeo diras: ‘Jen estas la reguloj de la altaro en la tago kiam oni faros ĝin, por oferi bruloferojn sur ĝi kaj aspergi sangon sur ĝi. Vi donos al la Levidaj pastroj, kiuj estas el la idaro de Cadok, kiuj proksimiĝas al mi por servi al mi,’ diras la Sinjoro Javeo, ‘junbovon kiel pekoferton. Vi prenos el ĝia sango kaj metos ĝin sur ĝiajn kvar kornojn, sur la kvar angulojn de la kornico kaj sur la randon ĉirkaŭe. Vi purigos ĝin kaj faros repaciĝon por ĝi tiel. Vi ankaŭ prenos la bovon de la pekoferto, kaj ĝi estos bruligita en difinita loko de la domo, ekster la sanktejo.
+
+“En la dua tago vi oferos virkapron sen difekto kiel pekoferton; kaj ili purigos la altaron, kiel ili purigis ĝin per la bovo. Kiam vi finos purigi ĝin, vi oferos junbovon sen difekto kaj virŝafon el la ŝafaro sen difekto. Vi alportos ilin antaŭ Javeo, kaj la pastroj aspergos salon sur ilin, kaj ili oferos ilin kiel bruloferon al Javeo.
+
+“Dum sep tagoj vi preparos ĉiutage kapron kiel pekoferton. Ili ankaŭ preparos junbovon kaj virŝafon el la ŝafaro sen difekto. Dum sep tagoj ili faros repaciĝon por la altaro kaj purigos ĝin. Tiel ili konsekros ĝin. Kiam ili plenumos tiujn tagojn, okazos ke en la oka tago kaj poste, la pastroj oferos viajn bruloferojn sur la altaro kaj viajn pacofertojn. Tiam mi akceptos vin,’ diras la Sinjoro Javeo.”
+
+### Ĉapitro 44
+
+Tiam li revenigis min laŭ la vojo de la ekstera pordego de la sanktejo, kiu rigardas orienten; kaj ĝi estis fermita. Javeo diris al mi: “Ĉi tiu pordego restos fermita. Ĝi ne estos malfermita, neniu homo eniros tra ĝi; ĉar Javeo, Dio de Izrael, eniris tra ĝi. Tial ĝi restos fermita. Rilate al la princo, li sidos en ĝi kiel princo por manĝi panon antaŭ Javeo. Li eniros laŭ la vojo de la portiko de la pordego kaj eliros laŭ tiu sama vojo.”
+
+Tiam li kondukis min laŭ la vojo de la norda pordego antaŭen al la domo; kaj mi rigardis, kaj jen, la gloro de Javeo plenigis la domon de Javeo; do mi falis sur mian vizaĝon.
+
+Javeo diris al mi: “Ho filo de homo, atentu bone, rigardu per viaj okuloj kaj aŭskultu per viaj oreloj ĉion, kion mi diras al vi pri ĉiuj reguloj de la domo de Javeo kaj ĉiuj ĝiaj leĝoj; kaj atentu bone pri la enirejo de la domo kun ĉiu elirejo de la sanktejo. Vi diros al ribelema popolo, eĉ al la domo de Izrael: ‘La Sinjoro Javeo diras: “Ho domo de Izrael, sufiĉas pri ĉiuj viaj abomenindaĵoj! Ĉar vi enkondukis fremdulojn, necirkumciditajn en koro kaj necirkumciditajn en karno, por esti en mia sanktejo por profani ĝin, eĉ mian domon, kiam vi oferas mian panon, grason kaj sangon; kaj ili rompis mian interligon krom ĉiuj viaj abomenindaĵoj. Vi ne plenumis mian sanktan servon; sed vi starigis fremdulojn por plenumi mian servon en mia sanktejo anstataŭ vi.” La Sinjoro Javeo diras: “Neniu fremdulo, necirkumcidita en koro kaj necirkumcidita en karno, eniros en mian sanktejon el ĉiuj fremduloj inter la infanoj de Izrael.”
+--- input667
+“‘ “Sed la Levidoj, kiuj malproksimiĝis de mi, kiam Izrael eraris, kiuj eraris de mi post siaj idoloj, ili portos sian maljustecon. Tamen ili estos servistoj en mia sanktejo, havante superrigardon ĉe la pordegoj de la domo kaj servante en la domo. Ili buĉos la bruloferon kaj la oferon por la popolo, kaj ili staros antaŭ ili por servi al ili. Ĉar ili servis al ili antaŭ iliaj idoloj kaj fariĝis falilo de maljusteco al la domo de Izrael, tial mi levis mian manon kontraŭ ili,” diras la Sinjoro Javeo, “kaj ili portos sian maljustecon. Ili ne alproksimiĝos al mi por plenumi la oficon de pastro al mi, nek alproksimiĝos al iuj el miaj sanktaj aferoj, al la plej sanktaj aferoj; sed ili portos sian honton kaj siajn abomenindaĵojn, kiujn ili faris. Tamen mi faros ilin plenumantoj de la devo de la domo, por ĝia tuta servo kaj por ĉio, kio estos farita en ĝi.
+
+“‘ “Sed la Levidaj pastroj, la filoj de Cadok, kiuj plenumis la devon de mia sanktejo, kiam la infanoj de Izrael eraris for de mi, alproksimiĝos al mi por servi al mi. Ili staros antaŭ mi por oferi al mi la grason kaj la sangon,” diras la Sinjoro Javeo. “Ili eniros en mian sanktejon, kaj ili alproksimiĝos al mia tablo por servi al mi, kaj ili observos miajn instrukciojn.
+
+“‘ “Okazos, ke kiam ili eniros ĉe la pordegoj de la interna korto, ili estos vestitaj per tolaĵoj. Neniu lano venos sur ilin dum ili servas ĉe la pordegoj de la interna korto kaj interne. Ili havos tolaĵajn turbanojn sur siaj kapoj kaj tolaĵajn pantalonojn sur siaj lumboj. Ili ne vestiĝos per io ajn, kio igas ilin ŝviti. Kiam ili eliros en la eksteran korton, eĉ en la eksteran korton al la popolo, ili demetos siajn vestojn, en kiuj ili servas, kaj metos ilin en la sanktajn ĉambrojn. Ili surmetos aliajn vestojn, por ke ili ne sanktigu la popolon per siaj vestoj.
+
+“‘ “Ili ne razu siajn kapojn nek lasu siajn harojn kreski longaj. Ili nur tondos la harojn de siaj kapoj. Neniu el la pastroj trinku vinon kiam ili eniras en la internan korton. Ili ne prenu kiel edzinojn vidvinon aŭ forlasitan virinon; sed ili prenu virgulinojn el la idaro de la domo de Izrael aŭ vidvinon, kiu estas vidvino de pastro. Ili instruos mian popolon pri la diferenco inter sankta kaj profana kaj igos ilin distingi inter malpura kaj pura.
+
+“‘ “En disputo ili staros por juĝi. Ili juĝos ĝin laŭ miaj ordonoj. Ili observos miajn leĝojn kaj miajn statutojn en ĉiuj miaj fiksitaj festoj. Ili sanktigos miajn sabatojn.
+
+“‘ “Ili ne iru al mortinta persono por malpuriĝi; sed pro patro aŭ patrino aŭ filo aŭ filino aŭ frato aŭ fratino, kiu ne havis edzon, ili povas malpuriĝi. Post kiam li estos purigita, oni kalkulos al li sep tagojn. En la tago, kiam li eniros en la sanktejon, en la internan korton, por servi en la sanktejo, li oferos sian pekoferton,” diras la Sinjoro Javeo.
+
+“‘Ili havos heredaĵon: Mi estas ilia heredaĵo; kaj vi donos al ili neniun posedon en Izrael. Mi estas ilia posedo. Ili manĝos la farunoferon kaj la pekoferton kaj la kulpoferon; kaj ĉiu dediĉita afero en Izrael estos ilia. La unua el ĉiuj unuaĵoj de ĉio kaj ĉiu ofero el ĉio, el ĉiuj viaj oferoj, estos por la pastro. Vi ankaŭ donos al la pastroj la unuan parton de via pasto por kaŭzi benon ripozi sur via domo. La pastroj ne manĝu ion ajn, kio mortis mem aŭ estis disŝirita, ĉu birdo aŭ besto.
+
+### Ĉapitro 45
+
+“‘ “Cetere, kiam vi dividos per loto la teron por heredaĵo, vi oferos oferon al Javeo, sanktan parton de la tero. La longo estos dudek kvin mil kanojn longa kaj dek mil larĝa. Ĝi estos sankta en ĉiuj ĝiaj limoj ĉirkaŭe. El tio estos kvindekcent kvadratkanaj mezuroj por la sankta loko kaj kvindek ulnoj por ĝiaj paŝtejoj ĉirkaŭe. El ĉi tiu mezuro vi mezuru longon de dudek kvin mil kaj larĝon de dek mil. En ĝi estos la sanktejo, kiu estas plej sankta. Ĝi estas sankta parto de la tero; ĝi estos por la pastroj, servistoj de la sanktejo, kiuj alproksimiĝas por servi al Javeo. Ĝi estos loko por iliaj domoj kaj sankta loko por la sanktejo. Dudek kvin mil ulnoj longe kaj dek mil larĝe estos por la Levidoj, servistoj de la domo, kiel posedo por si mem, por dudek ĉambroj.”
+--- input668
+“‘ “Vi destinu la posedon de la urbo kvin mil ulnojn larĝa kaj dudek kvin mil ulnojn longa, apud la ofero de la sankta parto. Ĝi estu por la tuta domo de Izrael.
+
+“‘ “Kio apartenas al la princo estos sur unu flanko kaj sur la alia flanko de la sankta atribuo kaj de la posedo de la urbo, antaŭ la sankta atribuo kaj antaŭ la posedo de la urbo, okcidente okcidenten kaj oriente orienten, kaj laŭlonge korespondante al unu el la partoj, de la okcidenta limo ĝis la orienta limo. En la lando ĝi estos por li kiel posedo en Izrael. Miaj princoj ne plu premos mian popolon, sed ili donos la teron al la domo de Izrael laŭ iliaj triboj.”
+
+“‘La Sinjoro Javeo diras: “Sufiĉas al vi, princoj de Izrael! Forigu perforton kaj rabon, kaj plenumu justecon kaj justecon! Ĉesu senposedigi mian popolon!” diras la Sinjoro Javeo. “Vi havu justajn pesilojn, justan efon, kaj justan bation. La efo kaj la bato estu de unu mezuro, ke la bato enhavu unu dekonon de homer, kaj la efo unu dekonon de homer. Ĝia mezuro estu sama kiel la homer. La siklo estu dudek geraoj. Dudek sikloj plus dudek kvin sikloj plus dek kvin sikloj estu via minao.
+
+“‘ “Jen estas la ofero, kiun vi oferu: sesan parton de efo el homer da tritiko, kaj vi donu sesan parton de efo el homer da hordeo, kaj la difinitan parton de oleo, el bato da oleo, unu dekonon de bato el kor, kiu estas dek batoj, eĉ homer (ĉar dek batoj estas homer), kaj unu ŝafidon el ducent, el la bone akvumitaj paŝtejoj de Izrael—por farunofero, por brulofero, kaj por pacoferoj, por fari repaciĝon por ili,” diras la Sinjoro Javeo. “Ĉiuj homoj de la lando donu ĉi tiun oferon por la princo en Izrael. Estos parto de la princo doni la bruloferojn, la farunoferojn, kaj la trinkaĵofertojn, en la festoj, en la novlunoj, kaj en la sabatoj, en ĉiuj difinitaj festoj de la domo de Izrael. Li preparos la pekoferton, la farunoferon, la bruloferon, kaj la pacoferojn, por fari repaciĝon por la domo de Izrael.”
+
+“‘La Sinjoro Javeo diras: “En la unua monato, en la unua tago de la monato, vi prenu junan virbovon sen difekto, kaj vi purigu la sanktejon. La pastro prenu el la sango de la pekoferto kaj metu ĝin sur la pordfostojn de la domo, kaj sur la kvar angulojn de la rando de la altaro, kaj sur la fostojn de la pordego de la interna korto. Tiel vi faru en la sepa tago de la monato por ĉiu, kiu eraras, kaj por tiu, kiu estas simpla. Tiel vi faru repaciĝon por la domo.
+
+“‘ “En la unua monato, en la dek-kvara tago de la monato, vi havos Paskon, feston dum sep tagoj; senfermenta pano estu manĝata. En tiu tago la princo preparos por si mem kaj por ĉiuj homoj de la lando virbovon kiel pekoferton. Dum sep tagoj de la festo li preparos bruloferon al Javeo: sep virbovojn kaj sep ŝafidojn sen difekto ĉiutage dum sep tagoj; kaj virkapron ĉiutage kiel pekoferton. Li preparos farunoferon: efo por virbovo, efo por ŝafido, kaj hinon da oleo al efo.
+
+“‘ “En la sepa monato, en la dek-kvina tago de la monato, dum la festo, li faros same dum sep tagoj. Li faros saman provizon por pekoferto, brulofero, farunofero, kaj oleo.”
+
+### Ĉapitro 46
+
+“‘La Sinjoro Javeo diras: “La pordego de la interna korto, kiu rigardas orienten, estu fermita dum ses laboraj tagoj; sed en sabata tago ĝi estu malfermita, kaj en novluna tago ĝi estu malfermita. La princo eniru laŭvoje de la portiko de la pordego ekstere kaj staru ĉe la fostoj de la pordego; kaj la pastroj preparu lian bruloferon kaj liajn pacoferojn, kaj li adoru ĉe sojlo de la pordego. Poste li eliru, sed la pordego ne estu fermita ĝis vespero. La homoj de la lando adoru ĉe pordo de tiu pordego antaŭ Javeo en sabatoj kaj novlunoj. La brulofero, kiun oferu al Javeo princo en sabata tago: ses ŝafidoj sen difekto kaj ŝafido sen difekto; kaj farunofero estu efo por ŝafidoj laŭ lia kapablo doni, kaj hin da oleo al efo. En novluna tago ĝi estu juna virbovo sen difekto, ses ŝafidoj kaj ŝafido sen difekto. Ili estu sen difekto. Li preparos farunoferon: efo por virbovo, efo por ŝafidoj laŭ lia kapablo doni, kaj hin da oleo al efo. Kiam princo eniras, li iru laŭvoje de portiko de pordego kaj eliru laŭ ĝia vojo.”
+--- input669
+“‘ “Sed kiam la popolo de la lando venos antaŭ Javeon en la difinitaj festoj, tiu, kiu eniras per la norda pordego por adori, eliru per la suda pordego; kaj tiu, kiu eniras per la suda pordego, eliru per la norda pordego. Li ne revenu per la pordego, per kiu li eniris, sed eliru rekte antaŭen. La princo eniros kun ili, kiam ili eniros, kaj kiam ili eliros, li eliros.
+
+“‘ “En la festoj kaj en la difinitaj ferioj, la farunofero estu unu efao por bovo, kaj unu efao por ŝafo, kaj por la ŝafidoj laŭ tio, kion li povas doni, kaj unu hino da oleo por unu efao. Kiam la princo pretigos libervolan oferon, bruloferon aŭ pacoferojn kiel libervolan oferon al Javeo, oni malfermu por li la pordegon, kiu rigardas orienten; kaj li pretigu sian bruloferon kaj siajn pacoferojn, kiel li faras en la sabata tago. Poste li eliru; kaj post lia eliro oni fermu la pordegon.
+
+“‘ “Vi pretigu ŝafidon unujaran sen difekto kiel ĉiutagan bruloferon al Javeo. Ĉiumatene vi pretigu ĝin. Vi pretigu farunoferon kun ĝi ĉiumatene, sesonon de efao, kaj trionon de hino da oleo por malsekigi la fajnan farunon; farunoferon al Javeo konstante laŭ eterna ordono. Tiel ili pretigu la ŝafidon, la farunoferon, kaj la oleon, ĉiumatene, kiel konstanta brulofero.”
+
+“‘La Sinjoro Javeo diras: “Se la princo donas donacon al iu el siaj filoj, ĝi estas lia heredaĵo. Ĝi apartenu al liaj filoj. Ĝi estas ilia posedaĵo per heredo. Sed se li donas el sia heredaĵo donacon al unu el siaj servantoj, ĝi apartenu al li ĝis la jaro de libereco; tiam ĝi revenu al la princo; sed rilate al lia heredaĵo, ĝi apartenu al liaj filoj. Krome la princo ne prenu el la heredaĵo de la popolo por forpuŝi ilin el ilia posedaĵo. Li donu heredaĵon al siaj filoj el sia propra posedaĵo, por ke mia popolo ne estu disigita for de sia posedaĵo.”’”
+
+Tiam li kondukis min tra la enirejo, kiu estis ĉe la flanko de la pordego, en la sanktajn ĉambrojn por la pastroj, kiuj rigardis norden. Jen estis loko ĉe la malantaŭa parto okcidenten. Li diris al mi: “Ĉi tio estas la loko, kie la pastroj boligos la kulpoferon kaj la pekoferton, kaj kie ili bakos la farunoferon, por ke ili ne elportu ilin en la eksteran korton kaj sanktigu la popolon.”
+
+Tiam li kondukis min eksteren en la eksteran korton kaj igis min pasi ĉe la kvar anguloj de la korto; kaj jen en ĉiu angulo de la korto estis korto. En la kvar anguloj de la korto estis kortoj enfermitaj, kvardek ulnojn longaj kaj tridek larĝaj. Ĉi tiuj kvar en la anguloj estis samgrandaj. Estis muro ĉirkaŭ ili, ĉirkaŭ ĉiuj kvar, kaj boligaj lokoj estis faritaj sub la muroj ĉirkaŭe. Tiam li diris al mi: “Ĉi tiuj estas la boligaj domoj, kie la servantoj de la domo boligos la oferon de la popolo.”
+
+### Ĉapitro 47
+
+Li revenigis min al la pordo de la templo; kaj jen akvoj fluadis el sube de la sojlo de la templo orienten, ĉar la fronto de la templo estis orientita orienten. La akvoj malsupreniris de sube, de dekstre de la templo, sude de la altaro. Tiam li kondukis min eksteren per la norda pordego kaj gvidis min ĉirkaŭe ekstere al la ekstera pordego, laŭlonge de tiu pordego, kiu rigardas orienten. Jen akvoj fluadis dekstre.
+
+Kiam la viro iris orienten kun linio en sia mano, li mezuris mil ulnojn kaj igis min pasi tra akvoj ĝis maleoloj. Denove li mezuris mil ulnojn kaj igis min pasi tra akvoj ĝis genuoj. Denove li mezuris mil ulnojn kaj igis min pasi tra akvoj ĝis koksoj. Poste li mezuris mil ulnojn; kaj ĝi estis rivero, kiun mi ne povis transiri, ĉar la akvoj leviĝis, akvoj por naĝi en ili, rivero ne transirebla piede.
+--- input670
+Li diris al mi: “Ho filo de homo, ĉu vi vidis tion?”
+
+Tiam li kondukis min kaj revenigis min al la bordo de la rivero. Kiam mi revenis, jen, ĉe la bordo de la rivero estis tre multaj arboj sur unu flanko kaj sur la alia. Tiam li diris al mi: “Ĉi tiuj akvoj fluas al la orienta regiono kaj malsupreniros en la Araban Valon. Poste ili eniros en la maron kaj fluos en la maron, kiu estos sanigita; kaj la akvoj estos resanigitaj. Okazos, ke ĉiu viva estaĵo, kiu svarmas, en ĉiu loko, kien venos la riveroj, vivos. Tiam estos tre granda multo da fiŝoj; ĉar ĉi tiuj akvoj venis tien, kaj la akvoj de la maro estos resanigitaj, kaj ĉio vivos, kien ajn venos la rivero. Okazos, ke fiŝkaptistoj staros apud ĝi. De En-Gedi ĝis En-Eglaim estos loko por disetendi retojn. Iliaj fiŝoj estos laŭ siaj specoj, kiel la fiŝoj de la granda maro, tre multaj. Sed ĝiaj marĉoj kaj marĉejoj ne estos resanigitaj. Ili estos donitaj al salo. Ĉe la bordoj de la rivero, sur ambaŭ flankoj, kreskos ĉiu arbo por manĝaĵo, kies folio ne velkos, nek ĝia frukto mankos. Ĝi produktos novajn fruktojn ĉiumonate, ĉar ĝiaj akvoj elfluas el la sanktejo. Ĝiaj fruktoj estos por manĝaĵo, kaj ĝiaj folioj por resanigo.”
+
+La Sinjoro Jahve diras: “Jen estos la limo, laŭ kiu vi dividu la landon por heredaĵo laŭ la dek du triboj de Izrael. Jozefo havos du partojn. Vi heredos ĝin, unu same kiel alia; ĉar Mi ĵuris doni ĝin al viaj patroj. Ĉi tiu lando falos al vi kiel heredaĵo.
+
+“Jen estos la limo de la lando:
+
+“Sur la norda flanko, de la granda maro laŭ la vojo de Hetlon ĝis la enirejo de Cedado; Ĥamat, Berotaĥ, Sibrajim (kiu estas inter la limo de Damasko kaj la limo de Ĥamat), ĝis Ĥacer-Ĥatikon, kiu estas ĉe la limo de Ĥaurano. La limo de la maro estos Ĥacer-Enano ĉe la limo de Damasko; kaj norde norden estas la limo de Ĥamat. Jen estas la norda flanko.
+
+“La orienta flanko, inter Ĥaurano, Damasko, Gileado kaj la lando de Izrael, estos Jordan; de la norda limo ĝis la orienta maro vi mezuru. Jen estas la orienta flanko.
+
+“La suda flanko suden estos de Tamar ĝis la akvoj de Meribat-Kadeŝ, ĝis la torento, ĝis la granda maro. Jen estas la suda flanko suden.
+
+“La okcidenta flanko estos la granda maro, de la suda limo ĝis kontraŭe al la enirejo de Ĥamat. Jen estas la okcidenta flanko.
+
+“Tiel vi dividu ĉi tiun landon inter vi laŭ la triboj de Izrael. Vi dividu ĝin per loto kiel heredaĵon al vi kaj al la fremduloj, kiuj loĝas inter vi, kiuj generos infanojn inter vi. Ili estos al vi kiel indiĝenoj inter la infanoj de Izrael. Ili havos heredaĵon kun vi inter la triboj de Izrael. En kiu ajn tribo loĝas fremdulo, tie vi donu al li lian heredaĵon,” diras la Sinjoro Jahve.
+
+### Ĉapitro 48
+
+“Jen estas la nomoj de la triboj: De la norda fino, apud la vojo de Hetlon ĝis la enirejo de Ĥamat, Ĥacer-Enano ĉe la limo de Damasko, norden apud Ĥamat (kaj ili havos siajn flankojn oriente kaj okcidente), Dan, unu parto.
+
+“Apud la limo de Dan, de la orienta flanko ĝis la okcidenta flanko, Aŝer, unu parto.
+
+“Apud la limo de Aŝer, de la orienta flanko ĝis eĉ al la okcidenta flanko, Naftali, unu parto.
+
+“Apud la limo de Naftali, de la orienta flanko ĝis la okcidenta flanko, Manaseo, unu parto.
+
+“Apud la limo de Manaseo, de la orienta flanko ĝis la okcidenta flanko, Efraim, unu parto.
+
+“Apud la limo de Efraim, de la orienta flanko eĉ ĝis la okcidenta flanko, Ruben, unu parto.
+
+“Apud la limo de Ruben, de la orienta flanko ĝis la okcidenta flanko, Jehuda, unu parto.
+
+“Apud la limo de Jehuda, de la orienta flanko ĝis la okcidenta flanko, estos ofero kiun vi oferos: dudek kvin mil kanopegoj larĝe kaj longe kiel unu el tiuj partoj; de oriento ĝis okcidento; kaj en ĝia mezo estos sanktejo.
+--- input671
+„Apud la limo de la pastroj, la Levidoj havu dudek kvin mil ulnojn en longo kaj dek mil en larĝo. La tuta longo estu dudek kvin mil, kaj la larĝo dek mil. Ili ne vendu ĝin, nek interŝanĝu ĝin, nek la unuaĵojn de la tero ili fremdigu, ĉar ĝi estas sankta al Javeo.
+
+„La kvin mil ulnoj, kiuj restas en la larĝo, antaŭ la dudek kvin mil, estu por komuna uzo, por la urbo, por loĝado kaj por paŝtejoj; kaj la urbo estu en ĝia mezo. Jen ĝiaj mezuroj: la norda flanko kvar mil kvincent, kaj la suda flanko kvar mil kvincent, kaj ĉe la orienta flanko kvar mil kvincent, kaj ĉe la okcidenta flanko kvar mil kvincent. La urbo havu paŝtejojn: norden ducent kvindek, suden ducent kvindek, orienten ducent kvindek, kaj okcidenten ducent kvindek. La resto de la longo, apud la sankta oferaĵo, estu dek mil orienten kaj dek mil okcidenten; kaj ĝi estu apud la sankta oferaĵo. Ĝia produktaĵo estu por manĝaĵo al tiuj, kiuj laboras en la urbo. Tiuj, kiuj laboras en la urbo, el ĉiuj triboj de Izrael, kultivu ĝin. La tuta oferaĵo estu kvadrato de dudek kvin mil je dudek kvin mil. Vi ofertu ĝin kiel sanktan oferaĵon, kun la posedaĵo de la urbo.
+
+„La resto estu por la princo, ĉe unu flanko kaj ĉe la alia flanko de la sankta oferaĵo kaj de la posedaĵo de la urbo; antaŭ la dudek kvin mil de la oferaĵo orienten ĝis la orienta limo, kaj okcidenten antaŭ la dudek kvin mil ĝis la okcidenta limo, apud la partoj; ĝi estu por la princo. La sankta oferaĵo kaj la sanktejo de la domo estu en ĝia mezo. Krome, el la posedaĵo de la Levidoj kaj el la posedaĵo de la urbo, kiu estas en la mezo de tio, kio apartenas al la princo, inter la limo de Jehuda kaj la limo de Benjamen, ĝi estu por la princo.
+
+„Rilate al la ceteraj triboj: de la orienta flanko ĝis la okcidenta flanko, Benjamen havu unu parton.
+
+„Apud la limo de Benjamen, de la orienta flanko ĝis la okcidenta flanko, Simeon havu unu parton.
+
+„Apud la limo de Simeon, de la orienta flanko ĝis la okcidenta flanko, Isaĥar havu unu parton.
+
+„Apud la limo de Isaĥar, de la orienta flanko ĝis la okcidenta flanko, Zebulun havu unu parton.
+
+„Apud la limo de Zebulun, de la orienta flanko ĝis la okcidenta flanko, Gad havu unu parton.
+
+„Apud la limo de Gad, ĉe la suda flanko suden, la limo estu eĉ de Tamar ĝis la akvoj de Meribat-Kadeŝ, ĝis la torento, ĝis la granda maro.
+
+„Jen estas la lando, kiun vi dividu per loto al la triboj de Izrael kiel heredaĵon; kaj jen estas iliaj apartaj partoj,” diras Sinjoro Javeo.
+
+„Jen estas elirejoj de la urbo: Sur la norda flanko kvar mil kvincent kanojn laŭ mezuro; kaj la pordegoj de la urbo estu nomitaj laŭ la triboj de Izrael: tri pordegoj norden: unu pordego de Ruben; unu pordego de Jehuda; unu pordego de Levi.
+
+„Ĉe la orienta flanko kvar mil kvincent kanojn, kaj tri pordegoj: eĉ unu pordego de Jozefo; unu pordego de Benjamen; unu pordego de Dan.
+
+„Ĉe la suda flanko kvar mil kvincent kanojn laŭ mezuro, kaj tri pordegoj: unu pordego de Simeon; unu pordego de Isaĥar; unu pordego de Zebulun.
+
+„Ĉe la okcidenta flanko kvar mil kvincent kanojn kun siaj tri pordegoj: unu pordego de Gad; unu pordego de Aŝer; unu pordego de Naftali.
+
+„Ĝi havos dek ok mil kanojn en cirkonferenco; kaj ekde tiu tago oni nomos ĝin ‘Javeo estas tie.’”
+
+## Danielo
+
+La Libro de Danielo
+
+### Ĉapitro 1
+
+En la tria jaro de la regado de Jehojakim, reĝo de Jehuda, Nebukadnecar, reĝo de Babelio, venis al Jerusalemo kaj sieĝis ĝin. La Sinjoro transdonis Jehojakimon, reĝon de Jehuda, en lian manon kun kelkaj el la vazoj el la domo de Dio; kaj li portis ilin en la landon Ŝinar al la domo de sia dio. Li metis la vazojn en la trezorejon de sia dio.
+--- input672
+La reĝo parolis al Aŝpenaz, la estro de siaj eŭnukoj, ke li alportu kelkajn el la infanoj de Izrael, eĉ el la reĝa idaro kaj el la nobeloj: junuloj, en kiuj ne estis difekto, sed bone aspektantaj, lertaj en ĉia saĝo, dotitaj per scio, komprenemaj pri scienco, kaj kiuj havis la kapablon stari en la palaco de la reĝo; kaj ke li instruu al ili la lernadon kaj la lingvon de la Ĥaldeoj. La reĝo destinis por ili ĉiutagan porcion el la delikataĵoj de la reĝo kaj el la vino, kiun li trinkis, kaj ke ili estu nutritaj dum tri jaroj, por ke ĉe ĝia fino ili stariĝu antaŭ la reĝo.
+
+Nun inter tiuj el la infanoj de Jehuda estis Danielo, Ĥananja, Miŝael kaj Azarja. La princo de la eŭnukoj donis al ili nomojn: al Danielo li donis la nomon Belteŝacar; al Ĥananja, Ŝadraĥ; al Miŝael, Meŝaĥ; kaj al Azarja, Abed-Nego.
+
+Sed Danielo decidis en sia koro, ke li ne malpurigos sin per la delikataĵoj de la reĝo, nek per la vino, kiun li trinkis. Tial li petis de la princo de la eŭnukoj, ke li ne malpurigu sin. Dio faris, ke Danielo trovis favoron kaj kompaton ĉe la princo de la eŭnukoj. La princo de la eŭnukoj diris al Danielo: “Mi timas mian sinjoron, la reĝon, kiu destinis vian manĝaĵon kaj vian trinkaĵon. Ĉar kial li vidu viajn vizaĝojn pli malbonaspektajn ol tiuj de la junuloj de via sama aĝo? Tiam vi endanĝerigus mian kapon antaŭ la reĝo.”
+
+Tiam Danielo diris al la intendanto, kiun la princo de la eŭnukoj nomumis super Danielo, Ĥananja, Miŝael kaj Azarja: “Provu viajn servantojn, mi petas vin, dum dek tagoj; kaj lasu nin ricevi legomojn por manĝi kaj akvon por trinki. Poste niaj vizaĝoj estu ekzamenitaj antaŭ vi, kaj ankaŭ la vizaĝoj de la junuloj, kiuj manĝas el la delikataĵoj de la reĝo; kaj kiel vi vidos, tiel agu kun viaj servantoj.” Do li aŭskultis ilin pri ĉi tiu afero kaj provis ilin dum dek tagoj.
+
+Fine de dek tagoj iliaj vizaĝoj aperis pli belaj kaj ili estis pli dikaj ol ĉiuj junuloj, kiuj manĝis el la delikataĵoj de la reĝo. Tial la intendanto forprenis iliajn delikataĵojn kaj la vinon, kiun oni donis al ili por trinki, kaj donis al ili legomojn.
+
+Nun pri ĉi tiuj kvar junuloj Dio donis al ili scion kaj lertecon en ĉia lernado kaj saĝo; kaj Danielo havis komprenon pri ĉiuj vizioj kaj sonĝoj.
+
+Fine de la tagoj, kiujn la reĝo destinis por ilia alveno, la princo de la eŭnukoj alportis ilin antaŭ Nebukadnecar. La reĝo parolis kun ili; kaj inter ĉiuj ne troviĝis iu kiel Danielo, Ĥananja, Miŝael kaj Azarja. Tial ili staris antaŭ la reĝo. En ĉiu afero de saĝo kaj kompreno, pri kiu la reĝo demandis ilin, li trovis ilin dekoble pli bonaj ol ĉiuj magiistoj kaj sorĉistoj en lia tuta regno.
+
+Danielo restis ĝis la unua jaro de Reĝo Ciro.
+
+### Ĉapitro 2
+
+En la dua jaro de la regado de Nebukadnecar, Nebukadnecar sonĝis sonĝojn; kaj lia spirito estis maltrankvila, kaj lia dormo foriris de li. Tiam la reĝo ordonis, ke oni vokigu la magiistojn, sorĉistojn, aŭguristojn kaj Ĥaldeojn por diri al la reĝo liajn sonĝojn. Ili venis kaj staris antaŭ la reĝo. La reĝo diris al ili: “Mi sonĝis sonĝon, kaj mia spirito estas maltrankvila por scii la sonĝon.”
+
+Tiam la Ĥaldeoj parolis al la reĝo en la Siria lingvo: “Ho reĝo, vivu eterne! Diru al viaj servantoj la sonĝon, kaj ni montros ĝian interpreton.”
+
+La reĝo respondis al la Ĥaldeoj: “La afero foriris de mi. Se vi ne sciigos al mi la sonĝon kaj ĝian interpreton, vi estos dishakitaj pecojn, kaj viaj domoj fariĝos ruinaĵo. Sed se vi montros al mi la sonĝon kaj ĝian interpreton, vi ricevos de mi donacojn, rekompencon kaj grandan honoron. Tial montru al mi la sonĝon kaj ĝian interpreton.”
+
+Ili respondis duafoje kaj diris: “Lasu la reĝon diri al siaj servantoj la sonĝon, kaj ni montros ĝian interpreton.”
+
+La reĝo respondis: “Mi certe scias, ke vi provas gajni tempon, ĉar vi vidas, ke la afero foriris de mi. Sed se vi ne sciigos al mi la sonĝon, estas nur unu leĝo por vi; ĉar vi preparis mensogajn kaj koruptajn vortojn por diri antaŭ mi ĝis kiam ŝanĝiĝos la situacio. Tial diru al mi la sonĝon, kaj mi scios, ke vi povas montri al mi ĝian interpreton.”
+--- input673
+La Ĥaldeoj respondis al la reĝo kaj diris: “Ne ekzistas homo sur la tero, kiu povas klarigi al la reĝo lian aferon, ĉar neniu reĝo, sinjoro aŭ reganto iam postulis tian aferon de magiisto, sorĉisto aŭ Ĥaldeo. Estas malofta afero, kiun la reĝo postulas, kaj neniu alia povas klarigi ĝin antaŭ la reĝo krom la dioj, kies loĝejo ne estas kun karno.”
+
+Pro tio, la reĝo koleris kaj tre furioziĝis, kaj ordonis, ke ĉiuj saĝuloj de Babel estu detruitaj. Tial la dekreto estis eldonita, kaj la saĝuloj devis esti mortigitaj. Ili serĉis Danielon kaj liajn kunulojn por mortigi ilin.
+
+Tiam Daniel respondis kun konsilo kaj prudento al Arioĥ, la kapitano de la reĝa gardistaro, kiu eliris por mortigi la saĝulojn de Babel. Li demandis Arioĥon, la kapitano de la reĝo: “Kial la dekreto estas tiel urĝa de la reĝo?” Tiam Arioĥ klarigis la aferon al Danielo. Daniel iris enen kaj petis al la reĝo, ke li nomumu tempon, kaj li montros al la reĝo la interpreton.
+
+Tiam Daniel iris al sia domo kaj sciigis la aferon al Hananja, Miŝael kaj Azarja, liaj kunuloj: ke ili petu kompaton de la Dio de la ĉielo pri ĉi tiu sekreto, por ke Daniel kaj liaj kunuloj ne pereu kun la ceteraj saĝuloj de Babel. Tiam la sekreto estis malkaŝita al Danielo en nokta vizio. Tiam Daniel benis la Dion de la ĉielo. Daniel diris:
+
+“Benata estu la nomo de Dio por ĉiam kaj eterne;
+
+ĉar saĝeco kaj potenco apartenas al li.
+
+Li ŝanĝas la tempojn kaj sezonojn.
+
+Li forigas reĝojn kaj starigas reĝojn.
+
+Li donas saĝecon al la saĝuloj,
+
+kaj scion al tiuj, kiuj havas komprenon.
+
+Li malkaŝas profundajn kaj sekretajn aferojn.
+
+Li scias, kio estas en mallumo,
+
+kaj lumo loĝas kun li.
+
+Mi dankas vin kaj laŭdas vin,
+
+ho Dio de miaj patroj,
+
+kiu donis al mi saĝecon kaj potencon,
+
+kaj nun malkaŝis al mi tion, kion ni petis de vi;
+
+ĉar vi malkaŝis al ni la aferon de la reĝo.”
+
+Tial Daniel iris al Arioĥ, kiun la reĝo nomumis por detrui la saĝulojn de Babel. Li iris kaj diris al li: “Ne detruu la saĝulojn de Babel. Konduku min antaŭ la reĝon, kaj mi montros al la reĝo la interpreton.”
+
+Tiam Arioĥ rapide kondukis Danielon antaŭ la reĝon kaj diris al li: “Mi trovis homon el la kaptitoj de Judujo, kiu montros al la reĝo la interpreton.”
+
+La reĝo respondis al Danielo, kies nomo estis Belteŝacar: “Ĉu vi povas malkaŝi al mi la sonĝon, kiun mi vidis, kaj ĝian interpreton?”
+
+Daniel respondis antaŭ la reĝo kaj diris: “La sekreto, kiun la reĝo postulis, ne povas esti montrita al la reĝo de saĝuloj, sorĉistoj, magiistoj aŭ aŭguristoj; sed estas Dio en la ĉielo, kiu malkaŝas sekretojn, kaj li malkaŝis al Reĝo Nebukadnecar tion, kio okazos en la lastaj tagoj. Via sonĝo kaj la vizioj de via kapo sur via lito estas jenaj:
+
+“Vi, ho reĝo, havis pensojn sur via lito pri tio, kio okazos poste; kaj tiu, kiu malkaŝas sekretojn, sciigis al vi tion, kio okazos. Sed rilate min, ĉi tiu sekreto ne estas malkaŝita al mi pro ia saĝeco, kiun mi havas pli ol iu ajn vivanta; sed por ke oni faru konatan al la reĝo la interpreton kaj ke vi sciu la pensojn de via koro.
+
+“Vi, ho reĝo, vidis grandan bildon. Ĉi tiu bildo estis potenca kaj ĝia brilo estis eksterordinara; ĝi staris antaŭ vi, kaj ĝia aspekto estis timiga. Rilate ĉi tiun bildon: ĝia kapo estis el pura oro, ĝia brusto kaj brakoj el arĝento, ĝia ventro kaj femuroj el bronzo, ĝiaj kruroj el fero, ĝiaj piedoj parte el fero kaj parte el argilo. Vi vidis ĝis ŝtono estis eltranĉita sen manoj, kiu frapis la bildon sur ĝiaj piedoj el fero kaj argilo kaj disrompis ilin en pecojn. Tiam la fero, argilo, bronzo, arĝento kaj oro estis disrompitaj kune kaj fariĝis kiel pajlero sur someraj draŝejoj. La vento forportis ilin tiel ke nenia loko estis trovita por ili. La ŝtono, kiu frapis la bildon, fariĝis granda monto kaj plenigis la tutan teron.
+
+“Jen estas la sonĝo; kaj ni diros ĝian interpreton antaŭ la reĝo. Vi, ho reĝo, estas reĝo de reĝoj, al kiu la Dio de ĉielo donis regnon, potencon, forton kaj gloron. Kie ajn loĝas homoj, li donis en viajn manojn ankaŭ bestojn de kampo kaj birdojn de ĉielo kaj faris vin regi super ili ĉiuj. Vi estas la kapo el oro."
+--- input674
+“Post vi, alia regno leviĝos, kiu estos malpli supera ol vi; kaj alia tria regno el bronzo, kiu regos super la tuta tero. La kvara regno estos forta kiel fero, ĉar fero dispecigas kaj subigas ĉion; kaj kiel fero, kiu dispremas ĉion ĉi, ĝi dispecigos kaj dispremos. Ĉar vi vidis la piedojn kaj piedfingrojn, parte el potista argilo kaj parte el fero, ĝi estos dividita regno; tamen en ĝi estos iom da la forto de la fero, ĉar vi vidis la feron miksitan kun koto. Kiel la piedfingroj estis parte el fero kaj parte el argilo, tiel la regno estos parte forta kaj parte fragila. Ĉar vi vidis la feron miksitan kun koto, ili miksiĝos kun la semo de homoj; sed ili ne kuniĝos unu kun la alia, same kiel fero ne miksiĝas kun argilo.
+
+“En la tagoj de tiuj reĝoj la Dio de la ĉielo starigos regnon, kiu neniam estos detruita, nek ĝia suvereneco estos transdonita al alia popolo; sed ĝi dispecigos kaj konsumigos ĉiujn ĉi tiujn regnojn, kaj ĝi staros por ĉiam. Ĉar vi vidis, ke ŝtono estis eltranĉita el la monto sen manoj, kaj ke ĝi dispecigis la feron, la bronzon, la argilon, la arĝenton kaj la oron, la granda Dio sciigis al la reĝo tion, kio okazos poste. La sonĝo estas certa, kaj ĝia interpreto estas fidinda.”
+
+Tiam reĝo Nebukadnecar falis sur sian vizaĝon, adoris Danielon kaj ordonis, ke oni alportu oferon kaj dolĉajn odorojn al li. La reĝo respondis al Danielo kaj diris: “Vere via Dio estas la Dio de dioj, kaj la Sinjoro de reĝoj, kaj malkovranto de sekretoj, ĉar vi povis malkovri ĉi tiun sekreton.”
+
+Tiam la reĝo faris Danielon granda kaj donis al li multajn grandajn donacojn, kaj faris lin reganto super la tuta provinco de Babilono kaj ĉefestro super ĉiuj saĝuloj de Babilono. Danielo petis de la reĝo, kaj li nomumis Ŝadraĥon, Meŝaĥon kaj Abed-Negon super la aferoj de la provinco de Babilono, sed Danielo restis ĉe la pordego de la reĝo.
+
+### Ĉapitro 3
+
+Reĝo Nebukadnecar faris bildon el oro, kies alteco estis sesdek ulnoj kaj ĝia larĝo ses ulnoj. Li starigis ĝin sur la ebenaĵo de Dura en la provinco de Babilono. Tiam reĝo Nebukadnecar sendis por kunvenigi la regionestrojn, vicestrojn, guberniestrojn, juĝistojn, kasistojn, konsilistojn, ŝerifojn kaj ĉiujn regantojn de la provincoj por veni al la dediĉo de la bildo, kiun Nebukadnecar starigis. Tiam la regionestroj, vicestroj, guberniestroj, juĝistoj, kasistoj, konsilistoj, ŝerifoj kaj ĉiuj regantoj de la provincoj kunvenis al la dediĉo de la bildo, kiun Nebukadnecar starigis; kaj ili staris antaŭ la bildo, kiun Nebukadnecar starigis.
+
+Tiam heroldo laŭte kriis: “Al vi estas ordonite, popoloj, nacioj kaj lingvoj, ke kiam ajn vi aŭdos la sonon de korno, fluto, citro, harpo, liro, sakŝalmo kaj ĉia speco de muziko, vi kliniĝu kaj adoru la oran bildon, kiun Nebukadnecar starigis. Kiu ajn ne kliniĝos kaj ne adoros estos tuj ĵetita en mezo de brulanta fajra forno.”
+
+Tial en tiu tempo, kiam ĉiuj popoloj aŭdis la sonon de korno, fluto, citro, harpo, liro, sakŝalmo kaj ĉia speco de muziko, ĉiuj popoloj, nacioj kaj lingvoj kliniĝis kaj adoris la oran bildon, kiun Nebukadnecar starigis.
+
+Tial en tiu tempo certaj Ĥaldeoj alproksimiĝis kaj akuzis la Judojn. Ili respondis al reĝo Nebukadnecar: “Ho reĝo, vivu eterne! Vi, ho reĝo, faris dekretan ordonon ke ĉiu homo kiu aŭdas la sonon de korno, fluto, citro, harpo, liro, sakŝalmo kaj ĉia speco de muziko kliniĝu kaj adoru la oran bildon; kaj kiu ajn ne kliniĝos kaj ne adoros estos ĵetita en mezo de brulanta fajra forno. Estas certaj Judoj kiujn vi nomumis super la aferoj de la provinco de Babilono: Ŝadraĥo, Meŝaĥo kaj Abed-Nego. Tiuj viroj, ho reĝo, ne respektas vin. Ili ne servas viajn diojn kaj ne adoras la oran bildon kiun vi starigis.”
+--- input675
+Tiam Nebukadnecar, en kolero kaj furiozo, ordonis, ke oni alportu Ŝadrakon, Meŝakon kaj Abed-Negon. Tiam tiuj viroj estis alportitaj antaŭ la reĝo. Nebukadnecar diris al ili: “Ĉu vere, Ŝadrako, Meŝako kaj Abed-Nego, vi ne servas miajn diojn kaj ne adorkliniĝas antaŭ la ora bildo, kiun mi starigis? Nun, se vi estas pretaj, kiam vi aŭdos la sonon de la korno, fluto, citro, harpo, liro, sakŝalmo kaj ĉia speco de muziko, vi falos kaj adorkliniĝos antaŭ la bildo, kiun mi faris – bone; sed se vi ne adorkliniĝos, vi estos ĵetitaj en la saman horon en la mezo de brulanta fajra forno. Kaj kiu estas tiu dio, kiu liberigos vin el miaj manoj?”
+
+Ŝadrako, Meŝako kaj Abed-Nego respondis al la reĝo: “Nebukadnecar, ni ne bezonas respondi al vi pri ĉi tiu afero. Se tio okazos, nia Dio, kiun ni servas, kapablas liberigi nin el la brulanta fajra forno; kaj Li liberigos nin el viaj manoj, ho reĝo. Sed se ne, estu konate al vi, ho reĝo, ke ni ne servos viajn diojn nek adorkliniĝos antaŭ la ora bildo, kiun vi starigis.”
+
+Tiam Nebukadnecar pleniĝis de furiozo, kaj lia mieno ŝanĝiĝis kontraŭ Ŝadrako, Meŝako kaj Abed-Nego. Li parolis kaj ordonis varmigi la fornon sepoble pli ol kutime. Li ordonis al certaj potencaj viroj el sia armeo ligi Ŝadrakon, Meŝakon kaj Abed-Negon kaj ĵeti ilin en la brulantan fajran fornon. Tiam tiuj viroj estis ligitaj en siaj pantalonoj, tunikoj, manteloj kaj aliaj vestoj kaj estis ĵetitaj en la mezo de la brulanta fajra forno. Pro tio ke la ordono de la reĝo estis urĝa kaj la forno ekstreme varma, la flamo de la fajro mortigis tiujn virojn, kiuj portis supren Ŝadrakon, Meŝakon kaj Abed-Negon. Tiuj tri viroj, Ŝadrako, Meŝako kaj Abed-Nego, falis ligitaj en la mezo de la brulanta fajra forno.
+
+Tiam Nebukadnecar la reĝo miregis kaj rapide leviĝis. Li parolis kaj diris al siaj konsilistoj: “Ĉu ni ne ĵetis tri virojn ligitajn en la mezo de la fajro?”
+
+Ili respondis al la reĝo: “Vere, ho reĝo.”
+
+Li respondis: “Rigardu! Mi vidas kvar virojn senligitajn, promenantajn en la mezo de la fajro, kaj ili estas sendifektaj. La aspekto de la kvara estas kiel filo de dioj.”
+
+Tiam Nebukadnecar alproksimiĝis al la buŝo de la brulanta fajra forno. Li parolis kaj diris: “Ŝadrako, Meŝako kaj Abed-Nego, servantoj de la Plej Alta Dio, eliru kaj venu ĉi tien!”
+
+Tiam Ŝadrako, Meŝako kaj Abed-Nego eliris el la mezo de la fajro. La regionestroj, vicregantoj, guberniestroj kaj konsilistoj de la reĝo kolektiĝis kaj vidis tiujn virojn: ke la fajro ne havis potencon sur iliaj korpoj; ke eĉ iliaj haroj ne estis bruligitaj; ke iliaj vestoj ne ŝanĝiĝis; eĉ odoro de fajro ne estis sur ili.
+
+Nebukadnecar parolis kaj diris: “Benata estu la Dio de Ŝadrako, Meŝako kaj Abed-Nego, kiu sendis Sian anĝelon kaj liberigis Siajn servantojn, kiuj fidis Lin kaj ŝanĝis la vorton de la reĝo kaj oferintis siajn korpojn por ke ili ne servu nek adorkliniĝu antaŭ iu ajn dio krom sia propra Dio. Tial mi faras dekreton: ke ĉiu popolo, nacio aŭ lingvo kiu parolos ion malbonan kontraŭ la Dio de Ŝadrako, Meŝako kaj Abed-Nego estu dispecigita, kaj iliaj domoj fariĝu rubejo; ĉar ne ekzistas alia dio kapabla liberigi kiel ĉi tiu.”
+
+Tiam la reĝo promociis Ŝadrakon, Meŝakon kaj Abed-Negon en la provinco de Babilono.
+
+### Ĉapitro 4
+
+Nebukadnecar la reĝo,
+
+al ĉiuj popoloj, nacioj kaj lingvoj loĝantaj sur la tero:
+
+Paco estu multigita al vi.
+
+Ŝajnis bone al mi montri la signojn kaj mirindaĵojn, kiujn faris al mi la Plej Alta Dio.
+
+Kiel grandaj estas Liaj signoj!
+
+Kiel potencaj estas Liaj mirindaĵoj!
+
+Lia regno estas eterna regno.
+
+Lia regado estas de generacio al generacio.
+
+Mi, Nebukadnecar, estis en ripozo en mia domo kaj prosperanta en mia palaco. Mi vidis sonĝon kiu timigis min; kaj miaj pensoj sur mia lito kaj la vizioj de mia kapo maltrankviligis min. Tial mi faris dekreton venigi ĉiujn saĝulojn de Babilono antaŭ mi por ke ili sciigu al mi la interpreton de la sonĝo. Tiam venis la magiistoj, sorĉistoj, Ĥaldeoj kaj aŭguristoj; mi rakontis al ili la sonĝon, sed ili ne sciigis al mi ĝian interpreton. Sed fine Daniel venis antaŭ mi – kies nomo estas Belteŝacar laŭ la nomo de mia dio – kaj en kiu estas la spirito de sanktaj dioj. Mi rakontis al li la sonĝon dirante:
+--- input676
+“Belŝacar, majstro de la magiistoj, ĉar mi scias, ke la spirito de la sanktaj dioj estas en vi kaj neniu sekreto ĝenas vin, diru al mi la viziojn de mia sonĝo, kiujn mi vidis, kaj ĝian interpreton. Jen estis la vizioj de mia kapo sur mia lito: Mi vidis, kaj jen, arbo en la mezo de la tero; kaj ĝia alteco estis granda. La arbo kreskis kaj fariĝis forta. Ĝia alteco atingis la ĉielon kaj ĝia vido ĝis la fino de la tuta tero. Ĝiaj folioj estis belaj, kaj ĝi havis multajn fruktojn, kaj en ĝi estis manĝaĵo por ĉiuj. La bestoj de la kampo havis ombron sub ĝi, kaj la birdoj de la ĉielo loĝis en ĝiaj branĉoj, kaj ĉiu karno estis nutrata de ĝi.
+
+“Mi vidis en la vizioj de mia kapo sur mia lito, kaj jen, sankta gardanto malsupreniris el la ĉielo. Li kriis laŭte kaj diris jenon: ‘Dehaku la arbon, kaj detranĉu ĝiajn branĉojn! Skuiĝu ĝiaj folioj kaj disĵetu ĝiajn fruktojn! Lasu la bestojn foriri de sub ĝi kaj la birdojn de ĝiaj branĉoj. Tamen lasu la stumpon de ĝiaj radikoj en la tero, eĉ kun bendo el fero kaj bronzo, en la mola herbo de la kampo; kaj lasu ĝin malsekiĝi per la roso de la ĉielo. Lasu ĝian parton esti kun la bestoj en la herbo de la tero. Lasu ĝian koron esti ŝanĝita el homa al besta, kaj lasu besta koro esti donita al ĝi. Poste sep tempoj pasos super ĝi.
+
+“‘La juĝo estas laŭ la dekreto de la gardantoj kaj la postulo laŭ la vorto de la sanktuloj, por ke la vivantoj sciu, ke la Plejaltulo regas en la regno de homoj, kaj donas ĝin al kiu ajn li volas, kaj starigas super ĝi la plej malaltajn el homoj.’
+
+“Ĉi tiun sonĝon mi, Reĝo Nebukadnecaro, vidis; kaj vi, Belŝacar, deklaru la interpreton, ĉar ĉiuj saĝuloj de mia regno ne povas klarigi al mi la interpreton; sed vi povas, ĉar la spirito de la sanktaj dioj estas en vi.”
+
+Tiam Danielo, kies nomo estis Belŝacar, restis senparola dum iom da tempo, kaj liaj pensoj ĝenis lin. La reĝo diris: “Belŝacar, ne lasu ke la sonĝo aŭ ĝia interpreto ĝenu vin.”
+
+Belŝacar respondis: “Mia sinjoro, eble la sonĝo estu por viaj malamikoj, kaj ĝia interpreto por viaj kontraŭuloj. La arbo, kiun vi vidis, kiu kreskis kaj fariĝis forta, kies alteco atingis la ĉielon kaj kies vido estis ĝis ĉiuj partoj de la tero; kies folioj estis belaj kaj ĝiaj fruktoj abundaj, kaj en ĝi estis manĝaĵo por ĉiuj; sub kiu loĝis la bestoj de la kampo, kaj sur kies branĉoj loĝis la birdoj de la ĉielo— tio estas vi, ho reĝo, kiu kreskis kaj fariĝis forta; ĉar via grandeco kreskis kaj atingas ĝis la ĉielo, kaj via regado ĝis la finoj de la tero.
+
+“Kiam vi vidis sanktan gardanton malsuprenirantan el la ĉielo kaj dirantan: ‘Dehaku la arbon kaj detruu ĝin; tamen lasu la stumpon de ĝiaj radikoj en la tero, eĉ kun bendo el fero kaj bronzo, en la mola herbo de la kampo, kaj lasu ĝin malsekiĝi per la roso de la ĉielo. Lasu ĝian parton esti kun la bestoj de la kampo ĝis sep tempoj pasos super ĝi.’
+
+“Tio estas la interpreto, ho reĝo, kaj ĝi estas la dekretita juĝo de la Plejaltulo, kiu venos sur mian sinjoron reĝon: Vi estos forpelita el inter homoj kaj via loĝado estos kun la bestoj de la kampo. Vi estos devigita manĝi herbon kiel bovoj, kaj vi malsekiĝos per la roso de la ĉielo, kaj sep tempoj pasos super vi ĝis vi scios, ke la Plejaltulo regas en la regno de homoj kaj donas ĝin al kiu ajn li volas. Kiam oni ordonis lasi la stumpon de la radikoj de la arbo, via regno estos certigita al vi post kiam vi scios ke Ĉielo regas. Tial, ho reĝo, akceptu mian konsilon kaj forrompu viajn pekojn per justeco kaj viajn malbonagojn per montrado de kompato al malriĉuloj. Eble via trankvileco daŭros pli longe.”
+
+Ĉio ĉi venis sur Reĝon Nebukadnecaron. Post dek du monatoj li promenis en sia reĝa palaco en Babilono. La reĝo parolis kaj diris: “Ĉu ĉi tio ne estas granda Babilono, kiun mi konstruis kiel reĝan loĝejon per mia potenco por gloro de mia majesto?”
+
+Dum ankoraŭ estis vorto en lia buŝo, voĉo venis el la ĉielo dirante: “Ho Reĝo Nebukadnecaro, al vi estas dirite: ‘La regno estas forprenita de vi. Vi estos forpelita el inter homoj, kaj via loĝado estos kun la bestoj de la kampo. Vi estos devigita manĝi herbon kiel bovoj. Sep tempoj pasos super vi ĝis vi scios ke la Plejaltulo regas en la regno de homoj kaj donas ĝin al kiu ajn li volas.’”
+--- input677
+Ĉi tio estis plenumita en la sama horo sur Nebukadnecar. Li estis forpelita de homoj kaj manĝis herbon kiel bovoj; kaj lia korpo estis malseka de la roso de la ĉielo ĝis lia hararo kreskis kiel aglaj plumoj, kaj liaj ungoj kiel birdaj ungegoj.
+
+Je la fino de la tagoj mi, Nebukadnecar, levis miajn okulojn al la ĉielo, kaj mia prudento revenis al mi; kaj mi benis la Plejaltan, kaj mi laŭdis kaj honoris Lin, kiu vivas eterne,
+
+ĉar Lia regado estas eterna regado,
+
+kaj Lia regno estas de generacio al generacio.
+
+Ĉiuj loĝantoj de la tero estas rigardataj kiel nenio;
+
+kaj Li faras laŭ Sia volo en la armeo de la ĉielo,
+
+kaj inter la loĝantoj de la tero;
+
+kaj neniu povas haltigi Lian manon,
+
+aŭ demandi Lin: “Kion Vi faras?”
+
+En la sama tempo mia prudento revenis al mi; kaj por la gloro de mia regno, mia majesto kaj brilo revenis al mi. Miaj konsilistoj kaj miaj sinjoroj serĉis min; kaj mi estis starigita en mia regno, kaj elstara grandeco estis aldonita al mi. Nun mi, Nebukadnecar, laŭdas kaj altigas kaj honoras la Reĝon de la ĉielo; ĉar ĉiuj Liaj faroj estas vero, kaj Liaj vojoj justeco; kaj tiujn, kiuj iras en fiereco, Li povas humiligi.
+
+### Ĉapitro 5
+
+Belŝacar, la reĝo, faris grandan festenon por mil el siaj sinjoroj, kaj trinkis vinon antaŭ la milo. Belŝacar, dum li gustumis la vinon, ordonis, ke oni alportu la orajn kaj arĝentajn vazojn, kiujn Nebukadnecar, lia patro, prenis el la templo en Jerusalemo, por ke la reĝo kaj liaj sinjoroj, liaj edzinoj kaj liaj konkubinoj trinku el ili. Tiam oni alportis la orajn vazojn, kiuj estis prenitaj el la templo de la domo de Dio en Jerusalemo; kaj la reĝo kaj liaj sinjoroj, liaj edzinoj kaj liaj konkubinoj trinkis el ili. Ili trinkis vinon kaj laŭdis la diojn de oro, arĝento, bronzo, fero, ligno kaj ŝtono.
+
+En la sama horo aperis fingroj de homa mano kaj skribis apud la lampo sur la gipso de la muro de la reĝa palaco. La reĝo vidis la parton de la mano, kiu skribis. Tiam la vizaĝo de la reĝo ŝanĝiĝis en li, kaj liaj pensoj maltrankviligis lin; kaj la artikoj de liaj femuroj malstreĉiĝis, kaj liaj genuoj frapis unu kontraŭ alian.
+
+La reĝo kriis laŭte por venigi la sorĉistojn, Ĥaldeojn kaj aŭguristojn. La reĝo parolis kaj diris al la saĝuloj de Babel: “Kiu ajn legos ĉi tiun skribon kaj montros al mi ĝian interpreton, tiu estos vestita per purpuro, havos oran ĉenon ĉirkaŭ sia kolo, kaj estos la tria reganto en la regno.”
+
+Tiam ĉiuj saĝuloj de la reĝo venis; sed ili ne povis legi la skribon nek sciigi al la reĝo ĝian interpreton. Tiam reĝo Belŝacar estis tre maltrankvila, kaj lia vizaĝo ŝanĝiĝis en li, kaj liaj sinjoroj estis konfuzitaj.
+
+La reĝino pro la vortoj de la reĝo kaj liaj sinjoroj eniris en la festan domon. La reĝino parolis kaj diris: “Ho reĝo, vivu eterne; ne lasu viajn pensojn maltrankviligi vin nek lasu vian vizaĝon ŝanĝiĝi. Estas viro en via regno, en kiu estas la spirito de la sanktaj dioj; kaj en la tagoj de via patro oni trovis lumon, prudenton kaj saĝecon kiel tiu de dioj en li. La reĝo Nebukadnecar, via patro—jes, ho reĝo, via patro—faris lin majstro super la magiistoj, sorĉistoj, Ĥaldeoj kaj aŭguristoj, ĉar bonega spirito, scio, prudento, interpretado de sonĝoj, klarigado de enigmoj kaj solvado de duboj estis trovitaj en tiu sama Danielo, kiun la reĝo nomis Belteŝacar. Nun lasu Danielon esti vokita, kaj li montros la interpreton.”
+
+Tiam Danielo estis alportita antaŭ la reĝo. La reĝo parolis kaj diris al Danielo: “Ĉu vi estas tiu Danielo el la infanoj de Judujo kaptitaj fare de mia patro el Judujo? Mi aŭdis pri vi, ke estas en vi spirito de dioj kaj ke oni trovis lumon, prudenton kaj bonegan saĝecon en vi. Nun oni venigis antaŭ min saĝulojn kaj sorĉistojn por ke ili legu ĉi tiun skribon kaj sciigu al mi ĝian interpreton; sed ili ne povis montri al mi ĝian signifon. Sed mi aŭdis pri vi, ke vi povas doni interpretojn kaj solvi dubojn. Nun se vi povas legi ĉi tiun skribon kaj sciigi al mi ĝian interpreton, vi estos vestita per purpuro, havos oran ĉenon ĉirkaŭ via kolo, kaj estos la tria reganto en la regno.”
+--- input678
+Tiam Daniel respondis antaŭ la reĝo: “Lasu viajn donacojn al vi mem, kaj donu viajn rekompencojn al alia. Tamen mi legos la skribaĵon al la reĝo kaj sciigos al li la interpreton.
+
+“Al vi, ho reĝo, la Plejaltulo Dio donis al Nebukadnecar, via patro, la regnon, kaj grandecon, kaj gloron, kaj majeston. Pro la grandecon, kiun Li donis al li, ĉiuj popoloj, nacioj, kaj lingvoj tremis kaj timis antaŭ li. Li mortigis, kiun li volis, kaj li vivtenis, kiun li volis. Li altigis, kiun li volis, kaj li malaltigis, kiun li volis. Sed kiam lia koro leviĝis, kaj lia spirito obstiniĝis tiel ke li agis fiere, li estis forigita de sia reĝa trono, kaj oni prenis lian gloron for de li. Li estis forpelita el inter homoj, kaj lia koro fariĝis kiel tiu de bestoj, kaj lia loĝejo estis kun sovaĝaj azenoj. Oni nutris lin per herbo kiel bovojn, kaj lia korpo malsekiĝis per la roso de la ĉielo, ĝis li rekonis, ke la Plejaltulo Dio regas en la regno de homoj kaj starigas super ĝi tiun, kiun Li volas.
+
+“Vi, lia filo, Belŝacar, ne humiligis vian koron, kvankam vi sciis ĉion ĉi tion, sed vi levis vin kontraŭ la Sinjoron de la ĉielo; kaj oni alportis la vazojn de Lia domo antaŭ vin, kaj vi kaj viaj lordoj, viaj edzinoj kaj viaj kromvirinoj trinkis vinon el ili. Vi laŭdis la diojn el arĝento kaj oro, el bronzo, fero, ligno kaj ŝtono, kiuj ne vidas, ne aŭdas, nek scias; sed vi ne gloris la Dion en kies mano estas via spirado kaj ĉiuj viaj vojoj. Tiam parto de la mano estis sendita de antaŭ Li, kaj ĉi tiu skribaĵo estis gravurita.
+
+“Jen estas la skribaĵo gravurita: ‘MENE, MENE, TEKEL, UPHARSIN.’
+
+“Jen estas la interpreto de la afero:
+
+MENE: Dio kalkulis vian regnon kaj finis ĝin.
+
+TEKEL: vi estas pesita en la pesilo kaj trovita mankanta.
+
+PERES: via regno estas dividita kaj donita al Medoj kaj Persoj.”
+
+Tiam Belŝacar ordonis, ke oni vestu Danielon per purpuro, metu oran ĉenon ĉirkaŭ lian kolon, kaj proklamu pri li, ke li estu la tria reganto en la regno.
+
+En tiu nokto Belŝacar, la Ĥaldea reĝo, estis mortigita. Dario la Medo ricevis la regnon, estante ĉirkaŭ sesdek-du jarojn aĝa.
+
+### Ĉapitro 6
+
+Plaĉis al Dario starigi super la regno cent dudek regionajn guberniestrojn, kiuj estu tra la tuta regno; kaj super ili tri prezidantojn, el kiuj unu estis Danielo, por ke ĉi tiuj regionaj guberniestroj raportu al ili kaj ke la reĝo ne suferu perdon. Tiam ĉi tiu Danielo distingiĝis super la prezidantoj kaj regionaj guberniestroj pro bonega spirito en li; kaj la reĝo pensis starigi lin super la tuta regno.
+
+Tiam la prezidantoj kaj regionaj guberniestroj serĉis trovi pretekston kontraŭ Danielo rilate al la regno; sed ili ne povis trovi pretekston aŭ kulpon, ĉar li estis fidela. Ne estis eraro aŭ kulpo trovita en li. Tiam ĉi tiuj viroj diris: “Ni ne trovos pretekston kontraŭ ĉi tiu Danielo krom se ni trovos ĝin rilate al la leĝo de lia Dio.”
+
+Tiam ĉi tiuj prezidantoj kaj regionaj guberniestroj kunvenis antaŭ la reĝo kaj diris al li: “Reĝo Dario, vivu eterne! Ĉiuj prezidantoj de la regno, vicguberniestroj kaj regionaj guberniestroj, konsilistoj kaj guberniestroj kunkonsiliĝis por starigi reĝan statuton kaj fari fortan dekretan leĝon: ke iu ajn persono petanta peton de iu dio aŭ homo dum tridek tagoj krom de vi, ho reĝo, estu ĵetita en la kavon de leonoj. Nun do, ho reĝo, starigu la dekreton kaj subskribu la skribaĵon por ke ĝi ne ŝanĝiĝu laŭ la leĝo de Medoj kaj Persoj, kiu ne ŝanĝiĝas.” Tial Reĝo Dario subskribis la skribaĵon kaj la dekreton.
+
+Kiam Danielo sciis ke la skribaĵo estis subskribita, li iris en sian domon (nun liaj fenestroj estis malfermitaj en lia ĉambro direkte al Jerusalemo) kaj li genuis tri fojojn tage por preĝi kaj danki antaŭ sia Dio kiel li faris antaŭe. Tiam ĉi tiuj viroj kunvenis kune kaj trovis Danielon farantan peton kaj preĝon antaŭ sia Dio. Ili proksimiĝis kaj parolis antaŭ la reĝo pri lia dekreto: “Ĉu vi ne subskribis dekreton ke ĉiu homo kiu faras peton al iu dio aŭ homo ene de tridek tagoj krom al vi, ho reĝo, estu ĵetita en la kavon de leonoj?”
+--- input679
+La reĝo respondis: “Ĉi tiu afero estas vera, laŭ la leĝo de la Medoj kaj Persoj, kiu ne ŝanĝiĝas.”
+
+Tiam ili respondis kaj diris antaŭ la reĝo: “Tiu Danielo, kiu estas el la infanoj de la kaptiteco de Judujo, ne respektas vin, ho reĝo, nek la dekreton, kiun vi subskribis, sed faras sian peton tri fojojn tage.” Tiam la reĝo, kiam li aŭdis tiujn vortojn, tre ĉagreniĝis kaj decidis en sia koro savi Danielon; kaj li strebis ĝis la subiro de la suno por liberigi lin.
+
+Tiam tiuj viroj kunvenis antaŭ la reĝo kaj diris al la reĝo: “Sciu, ho reĝo, ke estas leĝo de la Medoj kaj Persoj, ke neniu dekreto nek statuto, kiun la reĝo starigas, povas esti ŝanĝita.”
+
+Tiam la reĝo ordonis, kaj oni alportis Danielon kaj ĵetis lin en la kavon de leonoj. La reĝo parolis kaj diris al Danielo: “Via Dio, kiun vi konstante servas, Li vin liberigos.”
+
+Ŝtono estis alportita kaj metita sur la buŝon de la kavo; kaj la reĝo sigelis ĝin per sia propra sigelringo kaj per la sigelringoj de siaj lordoj, por ke nenio povu esti ŝanĝita koncerne Danielon. Tiam la reĝo iris al sia palaco kaj pasigis la nokton fastante. Neniu muzika instrumento estis alportita antaŭ lin; kaj lia dormo forkuris de li.
+
+Tiam la reĝo leviĝis tre frue matene kaj rapidis al la kavo de leonoj. Kiam li alproksimiĝis al la kavo al Danielo, li kriis per maltrankvila voĉo. La reĝo parolis kaj diris al Danielo: “Danielo, servanto de la vivanta Dio, ĉu via Dio, kiun vi konstante servas, povis vin liberigi de la leonoj?”
+
+Tiam Danielo diris al la reĝo: “Ho reĝo, vivu eterne! Mia Dio sendis Sian anĝelon kaj fermis la buŝojn de la leonoj, kaj ili ne vundis min, ĉar senkulpeco estis trovita ĉe mi antaŭ Li; kaj ankaŭ antaŭ vi, ho reĝo, mi faris nenion malbonan.”
+
+Tiam la reĝo tre ĝojis kaj ordonis, ke oni elprenu Danielon el la kavo. Do oni elprenis Danielon el la kavo, kaj neniu speco de vundo estis trovita sur li, ĉar li fidis sian Dion.
+
+La reĝo ordonis, kaj oni alportis tiujn virojn, kiuj akuzis Danielon, kaj oni ĵetis ilin en la kavon de leonoj—ilin, iliajn infanojn kaj iliajn edzinojn; kaj la leonoj disŝiris ilin kaj rompis ĉiujn iliajn ostojn antaŭ ol ili atingis la fundon de la kavo.
+
+Tiam reĝo Dario skribis al ĉiuj popoloj, nacioj kaj lingvoj, kiuj loĝas sur la tero:
+
+“Paco estu multigita al vi.
+
+“Mi faras dekreton, ke en ĉiuj regnoj de mia regado homoj tremu kaj timu antaŭ la Dio de Danielo.
+
+“Ĉar Li estas la vivanta Dio,
+
+kaj restas por ĉiam.
+
+Lia regno estas tiu, kiu ne estos detruita.
+
+Lia regado daŭros ĝis la fino.
+
+Li savas kaj liberigas.
+
+Li faras signojn kaj miraklojn en la ĉielo kaj sur la tero,
+
+kiu liberigis Danielon el la potenco de la leonoj.”
+
+Do ĉi tiu Danielo prosperis dum la regado de Dario kaj dum la regado de Ciro, la Perso.
+
+### Ĉapitro 7
+
+En la unua jaro de Belŝacar, reĝo de Babel, Danielo havis sonĝon kaj viziojn de sia kapo dum li estis sur sia lito. Tiam li skribis la sonĝon kaj rakontis la esencon de la aferoj.
+
+Danielo parolis kaj diris: “Mi vidis en mia vizio nokte, kaj jen kvar ventoj de la ĉielo eksplodis sur la granda maro. Kvar grandaj bestoj leviĝis el la maro, malsamaj unu de alia.
+
+“La unua estis kiel leono kaj havis aglajn flugilojn. Mi rigardis ĝis ĝiaj flugiloj estis forŝiritaj, kaj ĝi estis levita de sur la tero kaj starigita sur du piedoj kiel homo. Homa koro estis donita al ĝi.
+
+“Jen alia besto, dua, kiel urso. Ĝi estis levita sur unu flanko, kaj tri ripoj estis en ĝia buŝo inter ĝiaj dentoj. Oni diris al ĝi: ‘Leviĝu! Manĝu multe da karno!’
+
+“Post tio mi vidis, kaj jen alia besto, kiel leopardo, kiu havis sur sia dorso kvar flugilojn de birdo. La besto ankaŭ havis kvar kapojn; kaj regado estis donita al ĝi.
+
+“Post tio mi vidis en noktaj vizioj, kaj jen estis kvara besto, timinda, potenca kaj ekstreme forta. Ĝi havis grandajn ferajn dentojn. Ĝi manĝis kaj disrompis en pecojn kaj piedpremis tion, kio restis. Ĝi estis malsama ol ĉiuj bestoj antaŭ ĝi. Ĝi havis dek kornojn.
+--- input680
+“Mi konsideris la kornojn, kaj jen, inter ili leviĝis alia korneto, malgranda, antaŭ kiu tri el la unuaj kornoj estis elradikigitaj; kaj jen, en ĉi tiu korneto estis okuloj kiel la okuloj de homo, kaj buŝo parolanta arogante.
+
+“Mi rigardis ĝis tronoj estis starigitaj,
+
+kaj unu antikva laŭ tagoj sidiĝis.
+
+Lia vesto estis blanka kiel neĝo,
+
+kaj la haroj de lia kapo kiel pura lano.
+
+Lia trono estis fajraj flamoj,
+
+kaj ĝiaj radoj brulanta fajro.
+
+Fajra rivero eliris kaj elfluis antaŭ li.
+
+Miloj da miloj servis al li.
+
+Dek mil fojojn dek mil staris antaŭ li.
+
+La juĝo estis starigita.
+
+La libroj estis malfermitaj.
+
+“Mi rigardis en tiu tempo pro la voĉo de la arogantaj vortoj, kiujn la korneto parolis. Mi rigardis ĝis la besto estis mortigita, kaj ĝia korpo detruita, kaj ĝi estis donita por esti bruligita per fajro. Koncerne la ceterajn bestojn, ilia regado estis forprenita; tamen iliaj vivoj estis plilongigitaj por sezono kaj tempo.
+
+“Mi vidis en la noktaj vizioj, kaj jen, kun la nuboj de la ĉielo venis iu kiel filo de homo, kaj li venis eĉ al la Antikva laŭ Tagoj, kaj ili alproksimigis lin antaŭ li. Regado estis donita al li, kaj gloro, kaj regno, ke ĉiuj popoloj, nacioj, kaj lingvoj servu al li. Lia regado estas eterna regado, kiu ne pasos for, kaj lia regno estas tia, kiu ne estos detruita.
+
+“Koncerne min, Danielo, mia spirito estis afliktita ene de mia korpo, kaj la vizioj de mia kapo ĝenis min. Mi alproksimiĝis al unu el tiuj, kiuj staris tie, kaj demandis lin pri la vero pri ĉio ĉi tio.
+
+“Do li diris al mi, kaj sciigis al mi la interpreton de la aferoj. ‘Ĉi tiuj grandaj bestoj, kiuj estas kvar, estas kvar reĝoj, kiuj leviĝos el la tero. Sed la sanktuloj de la Plejaltulo ricevos la regnon, kaj posedos la regnon eterne, eĉ eterne kaj eterne.’
+
+“Tiam mi deziris scii la veron pri la kvara besto, kiu estis malsama ol ĉiuj aliaj, tre terura, kies dentoj estis el fero, kaj ĝiaj ungoj el bronzo; kiu formanĝis, dispecigis, kaj piedpremis la restaĵon; kaj pri la dek kornoj sur ĝia kapo kaj la alia korneto, kiu leviĝis, antaŭ kiu tri falis, eĉ tiu korneto kun okuloj kaj buŝo parolanta arogante, kies aspekto estis pli forta ol ĝiaj kunuloj. Mi vidis, kaj tiu sama korneto faris militon kontraŭ la sanktuloj kaj superfortis ilin, ĝis venis la Antikva laŭ Tagoj, kaj juĝo estis donita al la sanktuloj de la Plejaltulo, kaj venis la tempo ke la sanktuloj posedu la regnon.
+
+“Do li diris: ‘La kvara besto estos kvara regno sur la tero, kiu estos malsama ol ĉiuj regnoj, kaj ĝi formanĝos la tutan teron, kaj piedpremos ĝin kaj dispecigos ĝin. Koncerne la dek kornojn, dek reĝoj leviĝos el ĉi tiu regno. Alia leviĝos post ili; kaj li estos malsama ol la antaŭaj, kaj li faligos tri reĝojn. Li parolos vortojn kontraŭ la Plejaltulo, kaj lacigos la sanktulojn de la Plejaltulo. Li planos ŝanĝi la tempojn kaj la leĝon; kaj ili estos donitaj en lian manon ĝis tempo kaj tempoj kaj duontempo.
+
+“‘Sed la juĝo estos starigita, kaj ili forprenos lian regadon por konsumi ĝin kaj detrui ĝin ĝisfine. La regno kaj la regado, kaj la grandeco de la regnoj sub la tuta ĉielo estos donitaj al la popolo de la sanktuloj de la Plejaltulo. Lia regno estas eterna regno, kaj ĉiuj regadoj servos kaj obeos lin.’
+
+“Jen estas la fino de la afero. Koncerne min, Danielo, miaj pensoj tre ĝenis min, kaj mia vizaĝo ŝanĝiĝis en mi; sed mi konservis la aferon en mia koro.”
+
+### Ĉapitro 8
+
+En la tria jaro de la regado de Reĝo Belŝacar aperis vizio al mi, eĉ al mi, Danielo, post tio kio aperis al mi unue. Mi vidis la vizion. Nun okazis tiel ke kiam mi vidis ĝin, mi estis en la citadelo de Suzo, kiu estas en la provinco Elamo. Mi vidis en la vizio, kaj mi estis apud la rivero Ulajo. Tiam mi levis miajn okulojn kaj vidis, kaj jen virŝafo kun du kornoj staris antaŭ la rivero. La du kornoj estis altaj, sed unu estis pli alta ol la alia, kaj tiu pli alta leviĝis laste. Mi vidis ke la virŝafo puŝis okcidenten, norden, kaj suden. Neniu besto povis stari antaŭ li. Neniu povis liberigi el lia mano; sed li agis laŭ sia volo kaj grandigis sin.
+--- input681
+Dum mi pripensis, jen, virkapro venis de okcidento super la surfacon de la tuta tero, kaj ne tuŝis la teron. La kapro havis rimarkindan korno inter siaj okuloj. Li venis al la ŝafido, kiu havis la du kornojn, kiun mi vidis staranta antaŭ la rivero, kaj kuris kontraŭ li kun la furiozo de sia potenco. Mi vidis lin alproksimiĝi al la ŝafido, kaj li koleriĝis kontraŭ li, kaj frapis la ŝafidon, kaj rompis liajn du kornojn. Ne estis potenco en la ŝafido por stari antaŭ li; sed li ĵetis lin teren kaj piedpremis lin. Ne estis iu ajn, kiu povus savi la ŝafidon el lia mano. La virkapro tre grandiĝis. Kiam li estis forta, la granda korno rompiĝis; kaj anstataŭ ĝi leviĝis kvar rimarkindaj kornoj direkte al la kvar ventoj de la ĉielo.
+
+El unu el ili eliris malgranda korno, kiu tre grandiĝis—direkte al la sudo, kaj direkte al la oriento, kaj al la glora lando. Ĝi grandiĝis eĉ ĝis la armeo de la ĉielo; kaj ĝi ĵetis kelkajn el la armeo kaj el la steloj teren kaj piedpremis ilin. Jes, ĝi grandiĝis eĉ ĝis la princo de la armeo; kaj ĝi forprenis de li la kontinuan bruloferon, kaj la loko de lia sanktejo estis ĵetita malsupren. La armeo estis transdonita al ĝi kune kun la kontinua brulofero pro malobeo. Ĝi ĵetis veron teren, kaj ĝi faris sian plezuron kaj prosperis.
+
+Tiam mi aŭdis sanktulon parolantan; kaj alia sanktulo diris al tiu certa, kiu parolis: “Kiom longe daŭros la vizio pri la kontinua brulofero, kaj la malobeo, kiu kaŭzas dezertigon, por doni ambaŭ la sanktejon kaj la armeon por esti piedpremataj?”
+
+Li diris al mi: “Ĝis du mil tricent vesperoj kaj matenoj. Tiam la sanktejo estos purigita.”
+
+Kiam mi, eĉ mi Danielo, vidis la vizion, mi serĉis kompreni ĝin. Tiam jen staris antaŭ mi iu kun la aspekto de viro. Mi aŭdis voĉon de viro inter la bordoj de Ulai, kiu vokis kaj diris: “Gabriel, klarigu al ĉi tiu viro la vizion.”
+
+Do li alproksimiĝis al kie mi staris; kaj kiam li venis, mi timiĝis kaj falis sur mian vizaĝon; sed li diris al mi: “Komprenu, ho filo de homo, ĉar la vizio apartenas al la tempo de la fino.”
+
+Dum li parolis kun mi, mi falis en profundan dormon kun mia vizaĝo surteren; sed li tuŝis min kaj starigis min rekte.
+
+Li diris: “Jen, mi sciigos al vi kio estos en la lasta tempo de la indigno, ĉar ĝi apartenas al la difinita tempo de la fino. La ŝafido, kiun vi vidis kun du kornoj, estas la reĝoj de Medujo kaj Persujo. La malglata virkapro estas la reĝo de Grekujo. La granda korno inter liaj okuloj estas la unua reĝo. Pri tio, kio rompiĝis, en ĝia loko staros kvar regnoj el tiu nacio, sed ne kun lia potenco.
+
+“En la lasta tempo de ilia regno, kiam la pekuloj pleniĝos, leviĝos reĝo kun severa vizaĝo kaj komprenanta enigmojn. Lia potenco estos potenca, sed ne per lia propra potenco. Li detruos terure, kaj prosperos en tio kion li faras. Li detruos potenculojn kaj sanktajn homojn. Per sia politiko li kaŭzos ke trompo prosperu en lia mano. Li grandiĝos en sia koro, kaj li detruos multajn en ilia sekureco. Li ankaŭ leviĝos kontraŭ la princon de princoj, sed li estos rompita sen homaj manoj.
+
+“La vizio pri vesperoj kaj matenoj kiu estis rakontita estas vera; sed sigelu la vizion, ĉar ĝi apartenas al multaj tagoj estonte.”
+
+Mi, Danielo, svenis kaj estis malsana dum kelkaj tagoj. Poste mi leviĝis kaj faris la aferojn de la reĝo. Mi miris pri la vizio, sed neniu komprenis ĝin.
+
+### Ĉapitro 9
+
+En la unua jaro de Dario filo de Aĥaŝveroŝo, el la idaro de Medoj, kiu estis farita reĝo super la regno de Ĥaldeoj—en la unua jaro de lia regado mi, Danielo, komprenis per libroj la nombron da jaroj pri kiuj venis vorto de Javeo al Jeremia profeto por plenumi la dezertiĝojn de Jerusalemo, eĉ sepdek jarojn. Mi turnis mian vizaĝon al Dio Eternulo por serĉi per preĝo kaj petegoj kun fastado kaj sakaĵo kaj cindro.
+--- input682
+Mi preĝis al Javeo, mia Dio, kaj faris konfeson, kaj diris:
+
+"Ho, Sinjoro, la granda kaj timinda Dio, kiu konservas interligon kaj amon kun tiuj, kiuj amas Lin kaj observas Liajn ordonojn, ni pekis, ni agis malbone, ni faris maljustaĵon kaj ribelis, eĉ deturniĝante de Viaj ordonoj kaj de Viaj leĝoj. Ni ne aŭskultis Viajn servantojn, la profetojn, kiuj parolis en Via nomo al niaj reĝoj, niaj princoj, niaj patroj kaj al la tuta popolo de la lando.
+
+"Sinjoro, al Vi apartenas justeco, sed al ni konfuzo de vizaĝo, kiel ĝi estas hodiaŭ; al la viroj de Judujo, al la loĝantoj de Jerusalemo kaj al la tuta Izrael, kiuj estas proksime kaj kiuj estas malproksime, tra ĉiuj landoj, kien Vi forpelis ilin pro ilia malfideleco kontraŭ Vi. Sinjoro, al ni apartenas konfuzo de vizaĝo, al niaj reĝoj, al niaj princoj kaj al niaj patroj, ĉar ni pekis kontraŭ Vi. Al la Sinjoro, nia Dio, apartenas kompatemo kaj pardono, ĉar ni ribelis kontraŭ Li. Ni ne obeis la voĉon de Javeo, nia Dio, por iri laŭ Liaj leĝoj, kiujn Li starigis antaŭ ni per Siaj servantoj, la profetoj. Jes, la tuta Izrael transpaŝis Vian leĝon, deturniĝante por ne obei Vian voĉon.
+
+"Tial la malbeno kaj la ĵuro skribitaj en la leĝo de Moseo, la servanto de Dio, estis verŝitaj sur nin, ĉar ni pekis kontraŭ Li. Li konfirmis Siajn vortojn, kiujn Li parolis kontraŭ ni kaj kontraŭ niaj juĝistoj, kiuj juĝis nin, alportante sur nin grandan malbonon; ĉar sub la tuta ĉielo nenio tia estis farita kiel tio, kio estis farita al Jerusalemo. Kiel estas skribite en la leĝo de Moseo, ĉi tiu tuta malbono venis sur nin. Tamen ni ne petegis la favoron de Javeo, nia Dio, por ke ni turnu nin for de niaj maljustaĵoj kaj havu discernon en Via vero. Tial Javeo observis la malbonon kaj alportis ĝin sur nin; ĉar Javeo, nia Dio, estas justa en ĉiuj Siaj faroj, kiujn Li faras, kaj ni ne obeis Lian voĉon.
+
+"Nun do, Sinjoro nia Dio, kiu elkondukis Vian popolon el la lando Egiptujo per potenca mano kaj akiris al Vi famon kiel ĝi estas hodiaŭ: ni pekis; ni agis malbone. Sinjoro, laŭ Via tuta justeco, bonvolu lasi Vian koleron kaj Vian indignon foriĝi de Via urbo Jerusalemo, Via sankta monto; ĉar pro niaj pekoj kaj pro la maljustaĵoj de niaj patroj Jerusalemo kaj Via popolo fariĝis riproĉo al ĉiuj ĉirkaŭ ni.
+
+"Nun do, nia Dio, aŭskultu la preĝon de Via servanto kaj liajn petegojn kaj igu Vian vizaĝon lumi sur Vian sanktejon, kiu estas dezerta, pro la Sinjoro. Mia Dio, turnu Vian orelon kaj aŭdu. Malfermu Viajn okulojn kaj vidu niajn dezertojn kaj la urbon nomitan laŭ Via nomo; ĉar ni ne prezentas niajn petegojn antaŭ Vi pro nia justeco sed pro Via granda kompato. Sinjoro aŭdu. Sinjoro pardonu. Sinjoro atentu kaj faru. Ne prokrastu pro Via propra nomo, mia Dio; ĉar Via urbo kaj Via popolo estas nomataj laŭ Via nomo."
+
+Dum mi parolis, preĝis kaj konfesis mian pekon kaj la pekon de mia popolo Izrael kaj prezentis mian petegon antaŭ Javeo mia Dio por la sankta monto de mia Dio—jes, dum mi parolis en preĝo—la viro Gabrielo, kiun mi vidis en la vizio ĉe la komenco, estante kaŭzita flugi rapidege, tuŝis min ĉirkaŭ la tempo de la vespera ofero. Li instruis min kaj parolis kun mi kaj diris: "Danielo, mi nun venis por doni al vi saĝon kaj komprenon. Ĉe la komenco de viaj petegoj eliris ordono, kaj mi venis por diri al vi; ĉar vi estas tre amata. Tial konsideru la aferon kaj komprenu la vizion.
+
+"Sepdek semajnoj estas dekretitaj super via popolo kaj super via sankta urbo por fini malobeon, por fini pekojn, por fari repaciĝon por maljusteco, por enkonduki eternan justecon, por sigeli vizion kaj profetaĵon kaj por sankti la Plej Sanktan.
+
+"Sciu do kaj komprenu ke de la eliro de ordono restarigi kaj konstrui Jerusalemon ĝis la Sanktoleito, la princo estos sep semajnoj kaj sesdek du semajnoj. Ĝi estos rekonstruita kun strato kaj fosaĵo eĉ en malfacilaj tempoj. Post la sesdek du semajnoj la Sanktoleito estos fortranĉita kaj havos nenion. La popolo de la princo kiu venos detruos la urbon kaj la sanktejon. Ĝia fino estos per inundo; milito estos ĝis la fino; detruoj estas determinataj. Li faros firman interligon kun multaj dum unu semajno. En la mezo de la semajno li ĉesigos oferadon kaj donacojn. Sur la flugilo de abomenindaĵoj venos tiu kiu dezertigxas; eĉ ĝis la dekretita plena fino kolero estos verŝita sur la dezertigitan."
+--- input683
+### Ĉapitro 10
+
+En la tria jaro de Ciro, reĝo de Persio, mesaĝo estis malkaŝita al Daniel, kies nomo estis nomata Belteŝacar; kaj la mesaĝo estis vera, eĉ granda milito. Li komprenis la mesaĝon kaj havis komprenon de la vizio.
+
+En tiuj tagoj mi, Daniel, funebris dum tri plenaj semajnoj. Mi manĝis nenian bongustan manĝaĵon. Neniu viando aŭ vino venis en mian buŝon. Mi tute ne ŝmiris min, ĝis la tri plenaj semajnoj finiĝis.
+
+En la dudek-kvara tago de la unua monato, kiam mi estis ĉe la bordo de la granda rivero, kiu estas Hiddekel, mi levis miajn okulojn kaj rigardis, kaj jen, estis viro vestita per tolo, kies zono estis ornamita per pura oro de Ufazo. Lia korpo ankaŭ estis kiel berilo, kaj lia vizaĝo kiel la aspekto de fulmo, kaj liaj okuloj kiel flamantaj torĉoj. Liaj brakoj kaj liaj piedoj estis kiel polurita bronzo. La voĉo de liaj vortoj estis kiel la voĉo de amaso.
+
+Mi, Daniel, sola vidis la vizion, ĉar la viroj, kiuj estis kun mi, ne vidis la vizion, sed granda tremo falis sur ilin, kaj ili forkuris por kaŝi sin. Tiel mi restis sola kaj vidis ĉi tiun grandan vizion. Neniu forto restis en mi; ĉar mia vizaĝo fariĝis morte pala, kaj mi retenis nenian forton. Tamen mi aŭdis la voĉon de liaj vortoj. Kiam mi aŭdis la voĉon de liaj vortoj, tiam mi falis en profundan dormon sur mian vizaĝon, kun mia vizaĝo al la tero.
+
+Jen mano tuŝis min, kiu starigis min sur miajn genuojn kaj sur la palmojn de miaj manoj. Li diris al mi: “Daniel, vi tre amata viro, komprenu la vortojn, kiujn mi parolas al vi, kaj stariĝu rekte, ĉar mi estas sendita al vi nun.” Kiam li parolis ĉi tiun vorton al mi, mi staris tremante.
+
+Tiam li diris al mi: “Ne timu, Daniel; ĉar de la unua tago, kiam vi metis vian koron por kompreni kaj humiligi vin antaŭ via Dio, viaj vortoj estis aŭditaj. Mi venis pro viaj vortoj. Sed la princo de la regno de Persio kontraŭstaris min dum dudek unu tagoj; sed jen Miĥaelo, unu el la ĉefaj princoj, venis por helpi min ĉar mi restis tie kun la reĝoj de Persio. Nun mi venis por klarigi al vi kio okazos al via popolo en la lastaj tagoj, ĉar la vizio estas ankoraŭ por multaj tagoj.”
+
+Kiam li parolis ĉi tiujn vortojn al mi, mi turnis mian vizaĝon al la tero kaj estis muta. Jen iu en la simileco de homidoj tuŝis miajn lipojn. Tiam mi malfermis mian buŝon kaj parolis kaj diris al tiu, kiu staris antaŭ mi: “Mia sinjoro, pro la vizio miaj malĝojoj superfortis min, kaj mi retenas nenian forton. Ĉar kiel povas la servanto de ĉi tiu mia sinjoro paroli kun ĉi tiu mia sinjoro? Ĉar pri mi mem, tuj restis nenia forto en mi. Ne restis spiro en mi.”
+
+Tiam iu kiel la aspekto de homo tuŝis min denove kaj fortigis min. Li diris: “Tre amata viro, ne timu. Paco estu al vi. Estu forta. Jes, estu forta.”
+
+Kiam li parolis al mi, mi estis fortigita kaj diris: “Lasu mian sinjoron paroli, ĉar vi fortigis min.”
+
+Tiam li diris: “Ĉu vi scias kial mi venis al vi? Nun mi revenos por batali kun la princo de Persio. Kiam mi foriros, jen venos la princo de Grekio. Sed mi diros al vi tion kio estas skribita en la skribo de vero. Neniu tenas kun mi kontraŭ ĉi tiuj krom Miĥaelo via princo.
+
+### Ĉapitro 11
+
+“Pri mi mem, en la unua jaro de Dario la Medo, mi stariĝis por konfirmi kaj fortigi lin.
+
+“Nun mi montros al vi la veron. Jen tri pliaj reĝoj stariĝos en Persio. La kvara estos multe pli riĉa ol ĉiuj ili. Kiam li fariĝos forta per siaj riĉaĵoj, li instigos ĉiujn kontraŭ la regno de Grekio. Potenca reĝo stariĝos, kiu regos kun granda regado kaj agos laŭ sia volo. Kiam li stariĝos, lia regno estos rompita kaj estos dividita al la kvar ventoj de la ĉielo, sed ne al lia idaro, nek laŭ lia regado per kiu li regis; ĉar lia regno estos elradikigita eĉ por aliaj krom tiuj.
+
+“La reĝo de la sudo estos forta. Unu el liaj princoj fariĝos pli forta ol li kaj havos regadon. Lia regado estos granda regado. Post jaroj ili kuniĝos; kaj la filino de la reĝo de la sudo venos al la reĝo de la nordo por fari interkonsenton, sed ŝi ne retenos la forton de sia brako. Li ankaŭ ne staros nek lia brako; sed ŝi estos transdonita kune kun tiuj kiuj alportis ŝin kaj tiu kiu fariĝis ŝia patro kaj tiu kiu fortigis ŝin en tiuj tempoj.
+--- input684
+“Sed el ŝoso de ŝiaj radikoj leviĝos unu en lia loko, kiu venos al la armeo kaj eniros en la fortikaĵon de la reĝo de la nordo, kaj agos kontraŭ ili kaj venkos. Li ankaŭ forportos iliajn diojn kun iliaj fanditaj bildoj, kaj kun iliaj belaj vazoj el arĝento kaj oro, kaptite en Egiptujon. Li sin detenos kelkajn jarojn for de la reĝo de la nordo. Li venos en la regnon de la reĝo de la sudo, sed li revenos en sian propran landon. Liaj filoj faros militon, kaj kolektos grandan amason da fortoj, kiuj venos, superfluos, kaj trairados. Ili revenos kaj faros militon, eĉ ĝis lia fortikaĵo.
+
+“La reĝo de la sudo koleros kaj eliros por batali kontraŭ li, eĉ kontraŭ la reĝo de la nordo. Li sendos grandan amason, kaj la amaso estos transdonita en lian manon. La amaso estos forportita, kaj lia koro estos altigita. Li faligos dekmilojn, sed li ne triumfos. La reĝo de la nordo revenos, kaj sendos amason pli grandan ol la antaŭa. Li venos ĉe la fino de la tempoj, eĉ post jaroj, kun granda armeo kaj kun abundaj provizoj.
+
+“En tiuj tempoj multaj leviĝos kontraŭ la reĝo de la sudo. Ankaŭ la filoj de la perfortuloj inter via popolo sin levos por starigi la vizion, sed ili falos. Tiam la reĝo de la nordo venos kaj konstruos monteton, kaj kaptos bone-fortikigitan urbon. La fortoj de la sudo ne staros, nek liaj elektitaj trupoj, nek estos ia forto por stari. Sed tiu, kiu venas kontraŭ li, agos laŭ sia propra volo, kaj neniu staros antaŭ li. Li staros en la glora lando, kaj detruo estos en lia mano. Li turnos sian vizaĝon por veni kun la forto de sia tuta regno, kaj kun li justaj kondiĉoj. Li plenumos ilin. Li donos al li la filinon de virinoj por detrui la regnon, sed ŝi ne staros, nek estos por li. Post tio li turnos sian vizaĝon al la insuloj, kaj kaptos multajn, sed princo kaŭzos ke la malhonoro ofertita de li ĉesu. Jes, plue li kaŭzos ke lia malhonoro turniĝu sur lin mem. Tiam li turnos sian vizaĝon al la fortikaĵoj de sia propra lando; sed li falpuŝiĝos kaj falos, kaj ne estos trovita.
+
+“Tiam unu, kiu kaŭzos impostiston pasi tra la regno por konservi ĝian gloron, leviĝos en lia loko; sed post malmultaj tagoj li estos detruita, ne en kolero, kaj ne en batalo.
+
+“En lia loko leviĝos malestiminda persono, al kiu oni ne donis la honoron de la regno; sed li venos en tempo de sekureco, kaj akiros la regnon per flatadoj. La superfortaj fortoj estos superfortitaj antaŭ li, kaj estos rompitaj. Jes, ankaŭ la princo de la interligo. Post kiam traktato estos farita kun li, li agos trompe; ĉar li supreniros kaj fariĝos forta kun malmultaj homoj. En tempo de sekureco li venos eĉ sur la plej grasajn lokojn de la provinco. Li faros tion, kion liaj patroj ne faris, nek liaj prauloj. Li disĵetos inter ili predon, rabon, kaj riĉaĵojn. Jes, li elpensos siajn planojn kontraŭ la fortikaĵoj, sed nur por tempo.
+
+“Li instigos sian potencon kaj sian kuraĝon kontraŭ la reĝon de la sudo kun granda armeo; kaj la reĝo de la sudo faros militon en batalo kun ekstreme granda kaj potenca armeo, sed li ne staros; ĉar oni elpensos planojn kontraŭ li. Jes, tiuj kiuj manĝas el liaj bongustaĵoj detruos lin, kaj lia armeo estos forbalaita. Multaj falos mortigitaj. Rilate al ambaŭ ĉi tiuj reĝoj, iliaj koroj intencos fari malbonon, kaj ili parolos mensogojn ĉe unu tablo; sed ĝi ne prosperos, ĉar la fino ankoraŭ estos ĉe la difinita tempo. Tiam li revenos en sian landon kun granda riĉeco. Lia koro estos kontraŭ la sankta interligo. Li agos kaj revenos al sia propra lando.
+
+“Li revenos ĉe la difinita tempo kaj venos en la sudon; sed ĝi ne estos en la lasta tempo kiel ĝi estis en la antaŭa. Ĉar ŝipoj el Kitim venos kontraŭ lin. Tial li estos ĉagrenita, kaj revenos, kaj havos indignon kontraŭ la sankta interligo, kaj agos. Li eĉ revenos kaj havos konsideron al tiuj kiuj forlasas la sanktan interligon."
+--- input685
+“Fortoj de li profanos la sanktejon, eĉ la fortikaĵon, kaj forigos la konstantan bruloferon. Poste ili starigos la abomenindaĵon, kiu kaŭzas dezerton. Li koruptos tiujn, kiuj agas malpie kontraŭ la interligo, per flatadoj; sed la popolo, kiu konas sian Dion, estos forta kaj agos.
+
+“Tiuj, kiuj estas saĝaj inter la popolo, instruos multajn; tamen ili falos per glavo kaj per fajro, per kaptiteco kaj per rabado, dum multaj tagoj. Kiam ili falos, ili ricevos iom da helpo; sed multaj aliĝos al ili per flatadoj. Iuj el tiuj, kiuj estas saĝaj, falos—por rafini ilin, purigi ilin, kaj blankigi ilin, ĝis la tempo de la fino, ĉar ĝi ankoraŭ estas por la difinita tempo.
+
+“La reĝo agos laŭ sia volo. Li altigos sin kaj grandigos sin super ĉiu dio, kaj parolos mirindajn aferojn kontraŭ la Dio de dioj. Li prosperos ĝis kiam la indigno estos plenumita, ĉar tio, kio estas determinita, estos farita. Li ne atentos la diojn de siaj patroj, nek la deziron de virinoj, nek atentos iun ajn dion; ĉar li grandigos sin super ĉio. Sed anstataŭe li honoros la dion de fortikaĵoj. Li honoros dion, kiun liaj patroj ne konis, per oro, arĝento, kaj per valoraj ŝtonoj kaj agrablaj aferoj. Li traktos kun la plej fortaj fortikaĵoj per la helpo de fremda dio. Li pligrandigos kun gloro tiujn, kiuj agnoskas lin. Li kaŭzos ilin regi super multaj, kaj disdividos la teron por prezo.
+
+“En la tempo de la fino la reĝo de la sudo batalos kontraŭ li; kaj la reĝo de la nordo venos kontraŭ lin kiel ventego, kun ĉaroj, kun rajdantoj, kaj kun multaj ŝipoj. Li eniros en la landojn, kaj superfluos kaj trairados. Li ankaŭ eniros en la gloran landon, kaj multaj landoj estos renversitaj; sed tiuj estos liberigitaj el lia mano: Edom, Moab, kaj la ĉefuloj de la infanoj de Amon. Li ankaŭ etendos sian manon sur la landojn. La lando de Egiptujo ne eskapos. Sed li havos potencon super la trezoroj de oro kaj arĝento, kaj super ĉiuj valoraj aferoj de Egiptujo. La Libianoj kaj Etiopoj sekvos liajn paŝojn. Sed novaĵoj el la oriento kaj el la nordo maltrankviligos lin; kaj li eliros kun granda furiozo por detrui kaj tute forviŝi multajn. Li starigos la tendojn de sia palaco inter la maro kaj la glora sankta monto; tamen li venos al sia fino, kaj neniu helpos lin.
+
+### Ĉapitro 12
+
+“En tiu tempo Mikaelo leviĝos, la granda princo kiu staras por la infanoj de via popolo; kaj estos tempo de aflikto, tia kia neniam estis ekde kiam ekzistis nacio ĝis tiu sama tempo. En tiu tempo via popolo estos liberigita, ĉiu kiu troviĝas skribita en la libro. Multaj el tiuj, kiuj dormas en la polvo de la tero, vekiĝos, iuj al eterna vivo, kaj iuj al honto kaj eterna malestimo. Tiuj, kiuj estas saĝaj, brilos kiel la brilo de la firmamento. Tiuj, kiuj turnas multajn al justeco, brilos kiel steloj por ĉiam kaj eterne. Sed vi, Danielo, fermu la vortojn kaj sigelu la libron ĝis la tempo de la fino. Multaj kurados tien kaj reen, kaj scio pliiĝos.”
+
+Tiam mi, Danielo, rigardis, kaj jen du aliaj staris, unu ĉe ĉi tiu flanko de la riverbordo kaj alia ĉe tiu flanko de la riverbordo. Unu diris al la viro vestita per tolo, kiu estis super la akvoj de la rivero: “Kiom longe daŭros ĝis la fino de ĉi tiuj mirindaĵoj?”
+
+Mi aŭdis la viron vestitan per tolo, kiu estis super la akvoj de la rivero, kiam li levis sian dekstran manon kaj sian maldekstran manon al ĉielo kaj ĵuris per tiu, kiu vivas eterne, ke ĝi estos por tempo, tempoj kaj duono; kaj kiam ili finos dispecigi la potencon de la sankta popolo, ĉiuj ĉi tiuj aferoj finiĝos.
+
+Mi aŭdis sed ne komprenis. Tiam mi diris: “Mia sinjoro, kio estos la rezulto de ĉi tiuj aferoj?”
+
+Li diris: “Iru vian vojon, Danielo; ĉar la vortoj estas fermitaj kaj sigelitaj ĝis la tempo de la fino. Multaj sin purigos, blankigos sin kaj rafiniĝos; sed malpiuloj agos malpie; kaj neniu el la malpiuloj komprenos; sed tiuj saĝaj komprenos."
+--- input686
+“De la tempo, kiam la kontinua brulofero estos forigita kaj la abomenindaĵo, kiu kaŭzas dezerton, estos starigita, pasos mil ducent naŭdek tagoj. Benata estas tiu, kiu atendas kaj atingas la mil tricent tridek kvin tagojn.
+
+“Sed iru vian vojon ĝis la fino; ĉar vi ripozos kaj staros en via heredaĵo ĉe la fino de la tagoj.”
+
+## Hoŝea
+
+La Libro de Hoŝea
+
+### Ĉapitro 1
+
+La vorto de Javeo, kiu venis al Hoŝea, filo de Beeri, en la tagoj de Uzija, Jotam, Aĥaz kaj Ĥizkija, reĝoj de Judujo, kaj en la tagoj de Jerobeam, filo de Joaŝ, reĝo de Izrael.
+
+Kiam Javeo unue parolis per Hoŝea, Javeo diris al Hoŝea: “Iru, prenu por vi edzinon de malĉasteco kaj infanojn de malfideleco; ĉar la lando faras grandan adulton, forlasante Javeon.”
+
+Do li iris kaj prenis Gomeron, filinon de Diblaim; kaj ŝi gravediĝis kaj naskis al li filon.
+
+Javeo diris al li: “Nomu lin Jizreel, ĉar post mallonga tempo Mi venĝos la sangon de Jizreel sur la domo de Jehu kaj Mi ĉesigos la regnon de la domo de Izrael. Okazos en tiu tago, ke Mi rompos la pafarkon de Izrael en la valo de Jizreel.”
+
+Ŝi denove gravediĝis kaj naskis filinon.
+
+Tiam Li diris al li: “Nomu ŝin Lo-Ruhama, ĉar Mi ne plu kompatos la domon de Izrael, por ke Mi pardonu ilin iel ajn. Sed Mi kompatos la domon de Judujo kaj Mi savos ilin per Javeo, ilia Dio, kaj Mi ne savos ilin per pafarko, glavo, batalo, ĉevaloj aŭ rajdantoj.”
+
+Kiam ŝi demamigis Lo-Ruhama, ŝi gravediĝis kaj naskis filon.
+
+Li diris: “Nomu lin Lo-Ammi, ĉar vi ne estas Mia popolo kaj Mi ne estos via Dio. Tamen la nombro de la infanoj de Izrael estos kiel la sablo de la maro, kiu ne povas esti mezurita aŭ kalkulita; kaj okazos, ke en la loko, kie estis dirite al ili: ‘Vi ne estas Mia popolo,’ oni nomos ilin ‘filoj de la vivanta Dio.’ La infanoj de Judujo kaj la infanoj de Izrael estos kunigitaj, kaj ili nomumos al si unu estro kaj supreniros el la lando; ĉar granda estos la tago de Jizreel.”
+
+### Ĉapitro 2
+
+“Diru al viaj fratoj: ‘Mia popolo!’
+
+kaj al viaj fratinoj: ‘Mia amata!’
+
+Procesu kontraŭ via patrino!
+
+Procesu, ĉar ŝi ne estas Mia edzino,
+
+nek Mi estas ŝia edzo;
+
+kaj ŝi forigu sian malĉastecon for de sia vizaĝo,
+
+kaj siajn adultojn for de inter siaj mamoj;
+
+por ke Mi ne senvestigu ŝin,
+
+kaj faru ŝin nuda kiel en la tago kiam ŝi naskiĝis,
+
+kaj faru ŝin kiel dezerto,
+
+kaj starigu ŝin kiel sekan landon,
+
+kaj mortigu ŝin pro soifo.
+
+Efektive, sur ŝiaj infanoj Mi ne kompatos,
+
+ĉar ili estas infanoj de malfideleco.
+
+Ĉar ilia patrino malĉastis.
+
+Ŝi, kiu koncipis ilin, agis hontinde;
+
+ĉar ŝi diris: ‘Mi iros post miaj amantoj,
+
+kiuj donas al mi mian panon kaj mian akvon,
+
+mian lanon kaj mian linon,
+
+mian oleon kaj mian trinkaĵon.’
+
+Tial jen Mi baros vian vojon per dornoj,
+
+kaj Mi konstruos muron kontraŭ ŝi,
+
+ke ŝi ne trovu sian vojon.
+
+Ŝi sekvos siajn amantojn,
+
+sed ŝi ne atingos ilin;
+
+kaj ŝi serĉos ilin,
+
+sed ne trovos ilin.
+
+Tiam ŝi diros: ‘Mi iros kaj revenos al mia unua edzo,
+
+ĉar tiam estis pli bone kun mi ol nun.’
+
+Ĉar ŝi ne sciis, ke Mi donis al ŝi grenon, novan vinon kaj oleon,
+
+kaj multigis por ŝi arĝenton kaj oron, kiujn ili uzis por Baalo.
+
+Tial Mi reprenos Mian grenon en ĝia tempo,
+
+kaj Mian novan vinon en ĝia sezono,
+
+kaj Mi forprenos Mian lanon kaj Mian linon, kiuj devus kovri ŝian nudecon.
+
+Nun Mi malkovros ŝian malĉastecon antaŭ ŝiaj amantoj,
+
+kaj neniu savos ŝin el Mia mano.
+
+Mi ankaŭ kaŭzos ĉesigon de ĉiuj ŝiaj festoj:
+
+ŝiaj festotagoj, ŝiaj novlunoj, ŝabatoj kaj ĉiuj ŝiaj solenaĵoj.
+
+Mi detruos ŝiajn vinberarbojn kaj ŝiajn figarbojn,
+
+pri kiuj ŝi diris: ‘Ĉi tiuj estas miaj salajroj, kiujn miaj amantoj donis al mi,’
+
+kaj Mi faros ilin arbaro,
+
+kaj la bestoj de la kampo manĝos ilin.
+
+Mi punos ŝin pro la tagoj de Baaloj,
+
+al kiuj ŝi bruligis incenson
+
+kiam ŝi ornamis sin per siaj orelringoj kaj juveloj.
+--- input687
+kaj iris post siajn amantojn  
+
+kaj forgesis min,” diras Jahveo.  
+
+“Tial jen, mi allogos ŝin,  
+
+kaj kondukos ŝin en la dezerton,  
+
+kaj parolos dolĉe al ŝi.  
+
+Mi donos al ŝi vinbergxardenojn de tie,  
+
+kaj la valon de Aĥor kiel pordon de espero;  
+
+kaj ŝi respondos tie  
+
+kiel en la tagoj de sia juneco,  
+
+kaj kiel en la tago, kiam ŝi eliris el la lando Egipta.  
+
+En tiu tago,” diras Jahveo,  
+
+“vi vokos min ‘mia edzo,’  
+
+kaj ne plu vokos min ‘mia sinjoro.’  
+
+Ĉar mi forigos la nomojn de la Baaloj el ŝia buŝo,  
+
+kaj ili ne plu estos menciataj laŭnome.  
+
+En tiu tago mi faros interligon por ili kun la bestoj de la kampo,  
+
+kaj kun la birdoj de la ĉielo,  
+
+kaj kun la rampuloj de la tero.  
+
+Mi rompos la pafarkon, la glavon, kaj la batalon el la lando,  
+
+kaj mi igos ilin kuŝi sekure.  
+
+Mi fianĉigos vin al mi por ĉiam.  
+
+Jes, mi fianĉigos vin al mi en justeco, en juĝo, en amo kaj en kompato.  
+
+Mi eĉ fianĉigos vin al mi en fideleco;  
+
+kaj vi konos Jahveon.  
+
+Okazos en tiu tago, ke mi respondos,” diras Jahveo.  
+
+“Mi respondos al la ĉieloj,  
+
+kaj ili respondos al la tero;  
+
+kaj la tero respondos al la greno, al la nova vino, kaj al la oleo;  
+
+kaj ili respondos al Jizreel.  
+
+Mi semos ŝin por mi sur la tero;  
+
+kaj mi kompatos ŝin, kiu ne ricevis kompaton;  
+
+kaj mi diros al tiuj, kiuj ne estis mia popolo: ‘Vi estas mia popolo;’  
+
+kaj ili diros: ‘Vi estas mia Dio!’”  
+
+### Ĉapitro 3
+
+Jahveo diris al mi: “Iru denove, amu virinon amata de alia kaj adultulinon, kiel Jahveo amas la infanojn de Izrael, kvankam ili turnas sin al aliaj dioj kaj amas sekvinberajn kukojn.”  
+
+Do mi aĉetis ŝin por mi kontraŭ dek kvin arĝentaj moneroj kaj unu homer kaj duono da hordeo. Mi diris al ŝi: “Vi restos kun mi multajn tagojn. Vi ne prostituiĝos, kaj vi ne estos kun alia viro. Mi ankaŭ estos tia al vi.”  
+
+Ĉar la infanoj de Izrael vivos multajn tagojn sen reĝo, sen princo, sen ofero, sen sankta ŝtono, kaj sen efodo aŭ idoloj. Poste la infanoj de Izrael revenos kaj serĉos Jahveon sian Dion kaj Davidon sian reĝon, kaj venos kun tremado al Jahveo kaj al Liaj benoj en la lastaj tagoj.  
+
+### Ĉapitro 4
+
+Aŭskultu la vorton de Jahveo, vi infanoj de Izrael,  
+
+ĉar Jahveo havas akuzon kontraŭ la loĝantoj de la lando:  
+
+“Efektive ne estas vero, nek boneco,  
+
+nek scio pri Dio en la lando.  
+
+Estas malbenado, mensogado, murdado, ŝtelado, kaj adultado;  
+
+ili rompas limojn, kaj sangoverŝado kaŭzas sangoverŝadon.  
+
+Tial la lando funebros,  
+
+kaj ĉiuj loĝantoj en ĝi malfortiĝos,  
+
+kun ĉiuj vivantaj estaĵoj en ĝi,  
+
+eĉ la bestoj de la kampo kaj la birdoj de la ĉielo;  
+
+jes, eĉ la fiŝoj de la maro mortos.  
+
+“Tamen neniu akuzu alian homon, nek iu kulpigu;  
+
+ĉar via popolo estas kiel tiuj, kiuj akuzas pastron.  
+
+Vi falpuŝiĝos dumtage,  
+
+kaj ankaŭ la profeto falpuŝiĝos kun vi dum nokte;  
+
+kaj mi detruos vian patrinon.  
+
+Mia popolo estas detruita pro manko de scio.  
+
+Ĉar vi rifuzis scion, mi ankaŭ rifuzos vin,  
+
+ke vi ne estu pastro por mi.  
+
+Ĉar vi forgesis la leĝon de via Dio,  
+
+mi ankaŭ forgesos viajn infanojn.  
+
+Kiel ili multiĝis, tiel ili pekis kontraŭ mi.  
+
+Mi ŝanĝos ilian gloron en honton.  
+
+Ili manĝas el la peko de mia popolo,  
+
+kaj metas sian koron sur ilian maljustecon.  
+
+Estos kiel popolo, kiel pastro;  
+
+kaj mi punos ilin pro iliaj vojoj,  
+
+kaj repagos ilin pro iliaj faroj.  
+
+Ili manĝos kaj ne havos sufiĉe.  
+
+Ili prostituiĝos kaj ne multiĝos;  
+
+ĉar ili forlasis aŭskultadon al Jahveo.  
+
+Prostituado, vino kaj nova vino forprenas komprenon.  
+
+Mia popolo konsultiĝas kun sia ligna idolo,  
+
+kaj respondas al bastono da ligno.  
+
+Efektive la spirito de prostituado kondukis ilin erare,  
+
+kaj ili estis malfidindaj al sia Dio.  
+
+Ili oferas sur la pintoj de montoj,  
+
+kaj bruligas incenson sur montetoj sub kverkoj, poploj kaj terebintoj...
+--- input688
+Ĉar ĝia ombro estas bona.
+
+Tial viaj filinoj malĉastas,  
+kaj viaj bofilinoj adultas.  
+
+Mi ne punos viajn filinojn, kiam ili malĉastas,  
+nek viajn bofilinojn, kiam ili adultas;  
+ĉar la viroj kuniĝas kun malĉastistinoj,  
+kaj ili oferas kun la sanktaj prostituitinoj;  
+tial la popolo sen kompreno pereos.  
+
+"Kvankam vi, Izrael, malĉastas,  
+ne lasu Judon peki;  
+kaj ne iru al Gilgal,  
+nek supreniru al Bet-Aven,  
+nek ĵuru: 'Kiel vivas Jahve.'  
+
+Ĉar Izrael kondutis tre obstine, kiel obstina bovino.  
+Kiel do Jahve paŝtos ilin kiel ŝafidon en herbejo?  
+
+Efraim aliĝis al idoloj.  
+Lasu lin!  
+
+Ilia trinkaĵo fariĝis acida.  
+Ili konstante malĉastas.  
+Ŝiaj regantoj kare amas sian hontindan vojon.  
+La vento envolvis ŝin en siaj flugiloj;  
+kaj ili estos seniluziigitaj pro siaj oferoj.  
+
+### Ĉapitro 5
+
+"Aŭskultu ĉi tion, vi pastroj!  
+Aŭskultu, domo de Izrael,  
+kaj atentu, domo de la reĝo!  
+Ĉar la juĝo estas kontraŭ vi;  
+ĉar vi estis kaptilo ĉe Micpa,  
+kaj reto dismetita sur Tabor.  
+
+La ribeluloj estas profunde en buĉado,  
+sed mi punos ĉiujn el ili.  
+
+Mi konas Efraimon,  
+kaj Izrael ne estas kaŝita antaŭ mi;  
+ĉar nun, Efraim, vi malĉastis.  
+Izrael estas malpurigita.  
+
+Iliaj agoj ne permesos al ili turni sin al sia Dio,  
+ĉar la spirito de malĉasteco estas en ili,  
+kaj ili ne konas Jahveon.  
+
+La fiereco de Izrael atestas kontraŭ li.  
+Tial Izrael kaj Efraim falpuŝiĝos en sia malbonago.  
+Ankaŭ Judujo falpuŝiĝos kun ili.  
+
+Ili iros kun siaj ŝafoj kaj kun siaj gregoj por serĉi Jahveon,  
+sed ili ne trovos lin.  
+Li forprenis sin de ili.  
+
+Ili estas malfidindaj al Jahve;  
+ĉar ili naskis neleĝajn infanojn.  
+Nun la nova luno formanĝos ilin kun iliaj kampoj.  
+
+"Blovu la kornojn en Gibea,  
+kaj la trumpetojn en Rama!  
+Sonigu batalvokon ĉe Bet-Aven, post vi, Benjamen!  
+
+Efraim fariĝos dezerto en la tago de riproĉo.  
+Inter la triboj de Izrael mi sciigis tion, kio certe okazos.  
+
+La princoj de Judujo estas kiel tiuj, kiuj forigas limŝtonon.  
+Mi verŝos mian koleron sur ilin kiel akvon.  
+
+Efraim estas premata,  
+li estas dispremita en juĝo,  
+ĉar li obstine persekutas idolojn.  
+
+Tial mi estos al Efraim kiel tineo,  
+kaj al la domo de Judujo kiel putro.  
+
+"Kiam Efraim vidis sian malsanon,  
+kaj Judujo sian vundon,  
+tiam Efraim iris al Asirio,  
+kaj sendis al Reĝo Jareb;  
+sed li ne kapablas resanigi vin,  
+nek li kuracos vin de via vundo.  
+
+Ĉar mi estos al Efraim kiel leono,  
+kaj kiel juna leono al la domo de Judujo.  
+Mi mem disŝiros kaj foriros.  
+Mi forportos, kaj neniu savos.  
+
+Mi iros kaj revenos al mia loko,  
+ĝis ili agnoskos sian kulpon,  
+kaj serĉos mian vizaĝon.  
+En sia suferado ili fervore serĉos min."  
+
+### Ĉapitro 6
+
+"Venu! Ni revenu al Jahve;  
+ĉar li disŝiris nin, kaj li resanigos nin;  
+li vundis nin, kaj li bandaĝos niajn vundojn.  
+
+Post du tagoj li revivigos nin.  
+En la tria tago li relevos nin,  
+kaj ni vivos antaŭ li.  
+
+Ni agnosku Jahveon.  
+Ni klopodu koni Jahveon.  
+Kiel certe kiel la suno leviĝas,  
+Jahve aperos.  
+
+Li venos al ni kiel pluvo,  
+kiel printempa pluvo kiu akvumas la teron."  
+
+"Efraim, kion mi faru al vi?  
+Judujo, kion mi faru al vi?  
+Ĉar via amo estas kiel matena nubo,  
+kaj kiel roso kiu frue malaperas.  
+
+Tial mi dispecigis ilin per la profetoj;  
+mi mortigis ilin per la vortoj de mia buŝo.  
+
+Viaj juĝoj estas kiel fulmo.  
+
+Ĉar mi deziras kompaton kaj ne oferon;  
+kaj konon de Dio pli ol bruloferojn.  
+
+Sed ili, kiel Adamo, rompis la interligon.  
+Ili estis malfidindaj al mi tie.  
+
+Gilead estas urbo de tiuj kiuj faras malbonagon;  
+ĝi estas makulita per sango.  
+
+Kiel bandoj da rabistoj embuskas homon,  
+tiel la grupo de pastroj murdas survoje al Ŝeĥem,  
+farante hontindajn krimojn."
+--- input689
+En la domo de Izraelo mi vidis teruran aferon.
+
+Estas malĉasteco en Efraim.
+
+Izraelo estas malpurigita.
+
+"Ankaŭ, Jehuda, rikolto estas destinita por vi,
+
+kiam mi restarigos la bonstaton de mia popolo.
+
+### Ĉapitro 7
+
+Kiam mi volus resanigi Izraelon,
+
+tiam la malpieco de Efraim estas malkovrita,
+
+ankaŭ la malboneco de Samario;
+
+ĉar ili faras mensogon,
+
+kaj la ŝtelisto eniras,
+
+kaj la bando de rabistoj rabas ekstere.
+
+Ili ne konsideras en siaj koroj, ke mi memoras ĉiujn iliajn malbonagojn.
+
+Nun iliaj propraj faroj ilin ĉirkaŭprenis.
+
+Ili estas antaŭ mia vizaĝo.
+
+Ili ĝojigas la reĝon per sia malboneco,
+
+kaj la princojn per siaj mensogoj.
+
+Ili ĉiuj estas adultuloj.
+
+Ili brulas kiel forno, kiun la bakisto ĉesas stiri,
+
+de la knedado de la pasto ĝis ĝi fermentiĝas.
+
+En la tago de nia reĝo, la princoj sin malsanigis pro la varmego de vino.
+
+Li kunigis sian manon kun mokantoj.
+
+Ĉar ili preparis sian koron kiel fornon,
+
+dum ili embuskas.
+
+Ilia kolero brulas dum la tuta nokto.
+
+Matene ĝi brulas kiel flamanta fajro.
+
+Ili ĉiuj estas varmegaj kiel forno,
+
+kaj formanĝas siajn juĝistojn.
+
+Ĉiuj iliaj reĝoj falis.
+
+Neniu inter ili vokas al mi.
+
+Efraim miksiĝas inter la nacioj.
+
+Efraim estas kvazaŭ ne turnita kuko.
+
+Fremduloj formanĝis lian forton,
+
+kaj li ne rimarkas ĝin.
+
+Efektive, grizaj haroj estas ĉi tie kaj tie sur li,
+
+kaj li ne rimarkas ĝin.
+
+La fiereco de Izraelo atestas kontraŭ lia vizaĝo;
+
+tamen ili ne revenis al Javeo, sia Dio,
+
+nek serĉis lin, malgraŭ ĉio ĉi tio.
+
+"Efraim estas kiel facile trompebla kolombo, sen kompreno.
+
+Ili vokas al Egiptujo.
+
+Ili iras al Asirio.
+
+Kiam ili iras, mi etendos mian reton super ilin.
+
+Mi malsuprenigos ilin kiel birdojn de la ĉielo.
+
+Mi punos ilin, kiel ilia kunveno aŭdis.
+
+Ve al ili!
+
+Ĉar ili forvagis de mi.
+
+Detruo al ili!
+
+Ĉar ili pekis kontraŭ mi.
+
+Kvankam mi volus elaĉeti ilin,
+
+tamen ili parolis mensogojn kontraŭ mi.
+
+Ili ne kriis al mi per sia koro,
+
+sed ili ĝemas sur siaj litoj.
+
+Ili kolektiĝas por greno kaj nova vino.
+
+Ili turnas sin for de mi.
+
+Kvankam mi instruis kaj fortigis iliajn brakojn,
+
+tamen ili planas malbonon kontraŭ mi.
+
+Ili revenas, sed ne al la Plejalta.
+
+Ili estas kiel misa arko.
+
+Iliaj princoj falos pro glavo pro la kolero de ilia lango.
+
+Tio estos ilia mokado en la lando de Egiptujo.
+
+### Ĉapitro 8
+
+"Metu la trumpeton al via buŝo!
+
+Io kiel aglo estas super la domo de Javeo,
+
+ĉar ili rompis mian interligon
+
+kaj ribelis kontraŭ mia leĝo.
+
+Ili krias al mi: 'Mia Dio, ni, Izraelo, rekonas vin!'
+
+Izraelo forĵetis tion, kio estas bona.
+
+La malamiko persekutos lin.
+
+Ili starigis reĝojn, sed ne laŭ mia volo.
+
+Ili faris princojn, kaj mi ne aprobis tion.
+
+El sia arĝento kaj oro ili faris al si idolojn,
+
+por ke ili estu detruitaj.
+
+Lasu Samarion forĵeti sian bovidon!
+
+Mia kolero brulas kontraŭ ili!
+
+Kiom longe ĝi daŭros ĝis ili kapablos esti puraj?
+
+Ĉar tio venas eĉ el Izraelo!
+
+La laboristo faris ĝin, kaj ĝi ne estas Dio;
+
+efektive, la bovo de Samario estos dispecigita.
+
+Ĉar ili semas venton,
+
+kaj ili rikoltos ventegon.
+
+Li havas nenian starantan grenon.
+
+La tigo ne donos spikon.
+
+Se ĝi donos, fremduloj ĝin formanĝos.
+
+Izraelo estas formanĝita.
+
+Nun ili estas inter la nacioj kiel senvalora objekto.
+
+Ĉar ili supreniris al Asirio,
+
+kiel sovaĝa azeno vaganta sola.
+
+Efraim dungis amantojn por si mem.
+
+Sed kvankam ili vendis sin inter la nacioj,
+
+mi nun kolektos ilin;
+
+kaj ili komencos malfortiĝi pro la premo de la reĝo de potenculoj.
+
+Ĉar Efraim multigis altarojn por pekado,
+
+ili fariĝis por li altaroj por pekado.
+
+Mi skribis por li multajn aferojn de mia leĝo,
+
+sed ili estis rigardataj kiel fremda afero.
+
+Koncerne la oferojn de miaj oferoj,
+
+ili oferas viandon kaj manĝas ĝin,
+
+sed Javeo ne akceptas ilin.
+
+Nun li memoros ilian malpiecon,
+
+kaj punos iliajn pekojn.
+
+Ili revenos al Egiptujo.
+--- input690
+Ĉar Izrael forgesis sian Kreinton kaj konstruis palacojn;
+
+kaj Jehuda multigis fortikigitajn urbojn;
+
+sed Mi sendos fajron sur liajn urbojn,
+
+kaj ĝi formanĝos liajn fortikaĵojn.”
+
+### Ĉapitro 9
+
+Ne ĝoju, Izrael, kun ĝojkrioj kiel la nacioj;
+
+ĉar vi estis malfidela al via Dio.
+
+Vi amas la salajron de prostituitino ĉe ĉiu grenbatadejo.
+
+La grenbatadejo kaj la vinpremejo ne nutros ilin,
+
+kaj la nova vino mankos al ŝi.
+
+Ili ne loĝos en la lando de Javeo;
+
+sed Efraim revenos al Egiptujo,
+
+kaj ili manĝos malpuran manĝaĵon en Asirio.
+
+Ili ne verŝos vinon kiel oferon al Javeo,
+
+nek ĝi estos agrabla al Li.
+
+Iliaj oferoj estos al ili kiel la pano de funebrantoj;
+
+ĉiuj, kiuj manĝas ĝin, estos malpurigitaj;
+
+ĉar ilia pano estos por ilia apetito.
+
+Ĝi ne eniros en la domon de Javeo.
+
+Kion vi faros en la tago de solena kunveno,
+
+kaj en la tago de la festo de Javeo?
+
+Ĉar jen, kiam ili fuĝos de detruo,
+
+Egiptujo kolektos ilin.
+
+Memfiso enterigos ilin.
+
+Urtikoj posedos iliajn agrablajn aĵojn el arĝento.
+
+Dornoj estos en iliaj tendoj.
+
+La tagoj de vizitado venis.
+
+La tagoj de kalkulado venis.
+
+Izrael konsideros la profeton kiel malsaĝulon,
+
+kaj la inspiritan homon kiel frenezulon,
+
+pro la abundo de viaj pekoj,
+
+kaj pro via granda malamikeco.
+
+Profeto gardas Efraimon kun mia Dio.
+
+Kaptilo de birdoĉasisto estas sur ĉiuj liaj vojoj,
+
+kaj malamikeco en la domo de lia Dio.
+
+Ili profunde koruptis sin,
+
+kiel en la tagoj de Gibea.
+
+Li memoros ilian maljustaĵon.
+
+Li punos ilin pro iliaj pekoj.
+
+Mi trovis Izraelon kiel vinberojn en la dezerto.
+
+Mi vidis viajn patrojn kiel la unuan maturan frukton sur figarbo en ĝia unua sezono;
+
+sed ili iris al Baal-Peor, kaj sin dediĉis al la hontindaĵo,
+
+kaj fariĝis abomenindaj kiel tio, kion ili amis.
+
+Rilate al Efraim, ilia gloro forflugos kiel birdo.
+
+Ne estos naskiĝo, nek gravedeco, nek koncepto.
+
+Kvankam ili kreskigos siajn infanojn,
+
+tamen Mi senigos ilin, tiel ke neniu homo restos.
+
+Efektive, ve ankaŭ al ili, kiam Mi forlasos ilin!
+
+Mi vidis Efraimon, kiel Tiro, plantitan en agrabla loko;
+
+sed Efraim elportos siajn infanojn al la murdisto.
+
+Donu al ili—Javeo, kion vi donos?
+
+Donu al ili abortantan uteron kaj sekajn mamojn.
+
+“Tuta ilia malboneco estas en Gilgal;
+
+ĉar tie Mi malamis ilin.
+
+Pro la malboneco de iliaj agoj, Mi elpelos ilin el mia domo!
+
+Mi ne plu amos ilin.
+
+Ĉiuj iliaj princoj estas ribeluloj.
+
+Efraim estas frapita.
+
+Ilia radiko sekiĝis.
+
+Ili ne donos frukton.
+
+Eĉ se ili naskas, tamen Mi mortigos la amatajn de ilia utero.”
+
+Mia Dio forĵetos ilin, ĉar ili ne aŭskultis Lin;
+
+kaj ili estos vagantoj inter la nacioj.
+
+### Ĉapitro 10
+
+Izrael estas luksa vito, kiu produktas sian frukton.
+
+Laŭ la abundo de sia frukto li multigis siajn altarojn.
+
+Kiel prosperis ilia lando, ili ornamis siajn sanktajn ŝtonojn.
+
+Ilia koro estas dividita.
+
+Nun ili estos trovitaj kulpaj.
+
+Li detruos iliajn altarojn.
+
+Li detruos iliajn sanktajn ŝtonojn.
+
+Certe nun ili diros: “Ni ne havas reĝon; ĉar ni ne timas Javeon;
+
+kaj la reĝo, kion li povas fari por ni?”
+
+Ili faras promesojn, false ĵurante dum farado de interkonsentoj.
+
+Tial juĝo elkreskas kiel venenaj herboj en la sulkoj de la kampo.
+
+La loĝantoj de Samario timos pro la bovidoj de Bet-Aveno,
+
+ĉar ĝiaj homoj funebros pri ĝi,
+
+kune kun ĝiaj pastroj, kiuj ĝojis pri ĝi,
+
+pro ĝia gloro, ĉar ĝi foriris de ĝi.
+
+Ĝi ankaŭ estos portita al Asirio kiel donaco al granda reĝo.
+
+Efraim ricevos honton,
+
+kaj Izrael hontos pri sia propra konsilo.
+
+Samario kaj ŝia reĝo flosos for
+
+kiel branĉeto sur la akvo.
+
+La altaj lokoj ankaŭ de Aveno, la peko de Izrael, estos detruitaj.
+
+La dorno kaj la kardo kreskos sur iliaj altaroj.
+
+Ili diros al la montoj: “Kovru nin!” kaj al la montetoj: “Falu sur nin!”
+
+“Izrael, vi pekis ekde la tagoj de Gibea.
+--- input691
+Tie ili restis.
+
+La batalo kontraŭ la infanoj de malpieco ne superfortas ilin en Gibea.
+
+Kiam estas mia deziro, mi punos ilin;
+
+kaj la nacioj estos kunvenigitaj kontraŭ ili,
+
+kiam ili estos ligitaj al siaj du pekoj.
+
+Efraim estas trejnita junbovino, kiu amas draŝi,
+
+do mi metos jugon sur ŝian belan kolon.
+
+Mi metos rajdanton sur Efraimon.
+
+Judah plugos.
+
+Jakobo rompos siajn terpecojn.
+
+Semu al vi mem en justeco,
+
+rikoltu laŭ boneco.
+
+Rompu vian neuzitan teron,
+
+ĉar estas tempo serĉi Jahvehon,
+
+ĝis li venos kaj pluvas justecon sur vin.
+
+Vi plugis malpiecon.
+
+Vi rikoltis malpiecon.
+
+Vi manĝis la frukton de mensogoj,
+
+ĉar vi fidis vian vojon, la multon de viaj potencaj viroj.
+
+Tial batalbruo leviĝos inter via popolo,
+
+kaj ĉiuj viaj fortikaĵoj estos detruitaj,
+
+kiel Ŝalman detruis Bet-Arbelon en la tago de batalo.
+
+La patrino estis dispecigita kun siaj infanoj.
+
+Tiel Betel faros al vi pro via granda malpieco.
+
+Ĉe tagiĝo la reĝo de Izrael estos detruita.
+
+### Ĉapitro 11
+
+"Kiam Izrael estis infano, tiam mi amis lin,
+
+kaj vokis mian filon el Egiptujo.
+
+Ili vokis ilin, do ili foriris de ili.
+
+Ili oferadis al la Baaloj,
+
+kaj bruligis incenson al gravuritaj bildoj.
+
+Tamen mi instruis Efraimon marŝi.
+
+Mi prenis ilin je iliaj brakoj,
+
+sed ili ne sciis, ke mi resanigis ilin.
+
+Mi tiris ilin per ŝnuroj de homo, per ligiloj de amo;
+
+kaj mi estis al ili kiel tiuj, kiuj levas la jugon sur iliaj koloj;
+
+kaj mi kliniĝis al li kaj nutris lin.
+
+"Ili ne revenos en la landon de Egiptujo;
+
+sed la Asiriano estos ilia reĝo,
+
+ĉar ili rifuzis penti.
+
+La glavo falos sur iliajn urbojn,
+
+kaj detruos la stangojn de iliaj pordegoj,
+
+kaj finos iliajn planojn.
+
+Mia popolo estas decidita turni sin for de mi.
+
+Kvankam ili vokas al la Plejaltulo,
+
+li certe ne altigos ilin.
+
+"Kiel mi povas fordoni vin, Efraim?
+
+Kiel mi povas transdoni vin, Izrael?
+
+Kiel mi povas fari vin kiel Adma?
+
+Kiel mi povas fari vin kiel Ceboim?
+
+Mia koro turniĝas ene de mi,
+
+mia kompato ekflamas.
+
+Mi ne plenumos la furiozecon de mia kolero.
+
+Mi ne revenos por detrui Efraimon,
+
+ĉar mi estas Dio, kaj ne homo—la Sanktulo inter vi.
+
+Mi ne venos en kolero.
+
+Ili sekvos Jahvehon,
+
+kiu blekos kiel leono;
+
+ĉar li blekos, kaj la infanoj venos tremante el la okcidento.
+
+Ili venos tremante kiel birdo el Egiptujo,
+
+kaj kiel kolombo el la lando de Asirio;
+
+kaj mi loĝigos ilin en iliaj domoj," diras Jahveho.
+
+Efraim ĉirkaŭas min per malvero,
+
+kaj la domo de Izrael per trompo.
+
+Judah ankoraŭ forvagas de Dio,
+
+kaj estas malfidela al la Sanktulo.
+
+### Ĉapitro 12
+
+Efraim nutras sin per vento,
+
+kaj postkuras la orientan venton.
+
+Li senĉese multigas mensogojn kaj dezerton.
+
+Ili faras interkonsenton kun Asirio,
+
+kaj oleo estas portata en Egiptujon.
+
+Jahveho ankaŭ havas disputon kun Judah,
+
+kaj punos Jakobon laŭ liaj vojoj;
+
+laŭ liaj faroj li repagos lin.
+
+En la utero li kaptis sian fraton je la kalkano,
+
+kaj en sia vireco li luktis kun Dio.
+
+Efektive, li luktis kun la anĝelo kaj venkis;
+
+li ploris kaj petegis lin.
+
+Li trovis lin en Betel, kaj tie li parolis kun ni—
+
+eĉ Jahveho, la Dio de Armeoj.
+
+Jahveho estas lia fama nomo!
+
+Tial turnu vin al via Dio.
+
+Konservu bonecon kaj justecon,
+
+kaj atendu konstante vian Dion.
+
+Komercisto havas malhonestajn pesilojn en sia mano.
+
+Li amas trompi.
+
+Efraim diris: "Certe mi fariĝis riĉa.
+
+Mi trovis por mi riĉaĵon.
+
+En mia tuta riĉeco ili ne trovos en mi iun malpiecon, kiu estas peko."
+
+"Sed mi estas Jahveho via Dio el la lando de Egiptujo.
+
+Mi denove igos vin loĝi en tendoj,
+
+kiel en la tagoj de la solena festo.
+
+Mi ankaŭ parolis al la profetoj,
+
+kaj mi multigis viziojn;
+
+kaj per la ministerio de la profetoj mi uzis parabolojn.
+
+Se Gilead estas malpia,
+
+certe ili estas senvaloraj.
+
+En Gilgal ili oferadas bovojn.
+
+Efektive, iliaj altaroj estas kiel amasoj en la sulkoj de la kampo.
+
+Jakobo forkuris en la landon de Aram.
+--- input692
+Israelo servis por akiri edzinon.
+
+Por edzino li paŝtis ŝafojn kaj brutojn.
+
+Per profeto, Jahve elkondukis Israelon el Egiptujo,
+
+kaj per profeto li estis konservita.
+
+Efraim amare kolerigis.
+
+Tial lia sango restos sur li,
+
+kaj lia Sinjoro repagos lian malestimon.
+
+### Ĉapitro 13
+
+Kiam Efraim parolis, estis tremado.
+
+Li altigis sin en Israelo,
+
+sed kiam li fariĝis kulpa pro Baalo, li mortis.
+
+Nun ili pekas pli kaj pli,
+
+kaj faris al si fanditajn bildojn el sia arĝento,
+
+eĉ idolojn laŭ sia propra kompreno,
+
+ĉiujn el ili la laboro de metiistoj.
+
+Ili diras pri ili: ‘Ili oferas homajn oferojn kaj kisas la bovidojn.’
+
+Tial ili estos kiel la matena nebulo,
+
+kiel la roso, kiu frue forpasas,
+
+kiel la pajlo, kiun la ventego forblovas de la draŝejo,
+
+kaj kiel la fumo el la kamentubo.
+
+“Tamen Mi estas Jahve, via Dio, el la lando Egiptujo;
+
+kaj vi ne agnosku alian dion krom Mi,
+
+kaj krom Mi ne ekzistas savanto.
+
+Mi konis vin en la dezerto,
+
+en la lando de granda sekeco.
+
+Laŭ ilia paŝtejo, tiel ili estis plenigitaj;
+
+ili estis plenigitaj, kaj ilia koro altigis sin.
+
+Tial ili forgesis Min.
+
+Tial Mi estas kiel leono al ili.
+
+Kiel leopardo, Mi embuskos laŭ la vojo.
+
+Mi renkontos ilin kiel urso senigitaj je siaj idoj,
+
+kaj disŝiros la kovraĵon de ilia koro.
+
+Tie Mi formanĝos ilin kiel leonino.
+
+La sovaĝa besto disŝiros ilin.
+
+Vi estas detruita, Israelo, ĉar vi estas kontraŭ Mi,
+
+kontraŭ via helpanto.
+
+Kie estas via reĝo nun, ke li povu savi vin en ĉiuj viaj urboj?
+
+Kaj viaj juĝistoj, pri kiuj vi diris: ‘Donu al mi reĝon kaj princojn’?
+
+Mi donis al vi reĝon en Mia kolero,
+
+kaj forprenis lin en Mia furiozo.
+
+La kulpo de Efraim estas konservita.
+
+Lia peko estas konservita.
+
+La doloroj de naskanta virino venos sur lin.
+
+Li estas malsaĝa filo,
+
+ĉar kiam estas tempo, li ne venas al la malfermo de la utero.
+
+Mi elaĉetos ilin el la potenco de Ŝeolo.
+
+Mi liberigos ilin el morto!
+
+Morto, kie estas viaj plagoj?
+
+Ŝeolo, kie estas via detruo?
+
+“Kompato estos kaŝita for de Miaj okuloj.
+
+Kvankam li estas fruktodona inter siaj fratoj, orienta vento venos,
+
+la spirado de Jahve suprenvenanta el la dezerto;
+
+kaj lia fonto sekiĝos,
+
+kaj lia fontano estos sekigita.
+
+Li prirabos la trezorejon de riĉaĵoj.
+
+Samario portos sian kulpon,
+
+ĉar ŝi ribelis kontraŭ sia Dio.
+
+Ili falos per glavo.
+
+Iliaj infanoj estos dispecigitaj,
+
+kaj iliaj gravedaj virinoj estos disŝiritaj.”
+
+### Ĉapitro 14
+
+Israelo, revenu al Jahve via Dio;
+
+ĉar vi falis pro via peko.
+
+Prenu vortojn kun vi, kaj revenu al Jahve.
+
+Diru al Li: “Pardonu ĉiujn niajn pekojn,
+
+kaj akceptu tion, kio estas bona;
+
+tiel ni oferos bovojn kiel ni promesis per niaj lipoj.
+
+Asirio ne povas savi nin.
+
+Ni ne rajdos sur ĉevaloj;
+
+nek ni plu diros al la laboro de niaj manoj: ‘Niaj dioj!’
+
+ĉar en Vi la senpatraj trovas kompaton.”
+
+“Mi resanigos ilian malfidelecon.
+
+Mi amos ilin libere;
+
+ĉar Mia kolero estas forigita de ili.
+
+Mi estos kiel roso al Israelo.
+
+Li floros kiel lilio,
+
+kaj sendos siajn radikojn kiel Libano.
+
+Liaj branĉoj disvastiĝos,
+
+kaj lia beleco estos kiel olivarbo,
+
+kaj lia bonodoro kiel Libano.
+
+Homoj loĝos en lia ombro.
+
+Ili reviviĝos kiel greno,
+
+kaj floros kiel vito.
+
+Ilia bonodoro estos kiel la vino de Libano.
+
+Efraim, kion mi plu havas kun idoloj?
+
+Mi respondas, kaj zorgos pri li.
+
+Mi estas kiel verda cipreso;
+
+de Mi via frukto estas trovata.”
+
+Kiu estas saĝa, ke li povu kompreni ĉi tiujn aferojn?
+
+Kiu estas prudenta, ke li povu scii ilin?
+
+Ĉar la vojoj de Jahve estas ĝustaj,
+
+kaj la virtuloj iras en ili,
+
+sed la ribeluloj falpuŝiĝas en ili.
+
+## Joelo
+
+La Libro de Joelo
+
+### Ĉapitro 1
+
+La vorto de Jahve, kiu venis al Joelo, filo de Petuel.
+
+Aŭskultu ĉi tion, vi maljunuloj,
+
+kaj aŭskultu, ĉiuj loĝantoj de la lando!
+
+Ĉu tio iam okazis en viaj tagoj,
+
+aŭ en la tagoj de viaj patroj?
+
+Diru al viaj infanoj pri tio,
+--- input693
+kaj viaj infanoj rakontu al siaj infanoj,  
+
+kaj iliaj infanoj al alia generacio.  
+
+Kion la svarmantaj akridoj lasis, la grandaj akridoj formanĝis.  
+
+Kion la grandaj akridoj lasis, la lokustoj formanĝis.  
+
+Kion la lokustoj lasis, la raŭpoj formanĝis.  
+
+Vekiĝu, vi ebriuloj, kaj ploru!  
+
+Ĝemu, ĉiuj vi vintrinkantoj, pro la dolĉa vino,  
+
+ĉar ĝi estas fortranĉita de viaj buŝoj.  
+
+Ĉar nacio venis sur mian landon, forta kaj sen nombro.  
+
+Ĝiaj dentoj estas kiel leonaj dentoj,  
+
+kaj ĝi havas la dentegojn de leonino.  
+
+Ĝi ruinigis mian vinberarbon,  
+
+kaj nudigis mian figarbon.  
+
+Ĝi nudigis ĝian ŝelon kaj forĵetis ĝin.  
+
+Ĝiaj branĉoj fariĝis blankaj.  
+
+Ploru kiel virgulino vestita per sakaĵo  
+
+pro la edzo de ŝia juneco!  
+
+La farunofero kaj la trinka ofero estas fortranĉitaj el la domo de Jahveo.  
+
+La pastroj, servantoj de Jahveo, funebras.  
+
+La kampo estas ruinigita.  
+
+La lando funebras, ĉar la greno estas detruita,  
+
+La nova vino sekiĝis,  
+
+kaj la oleo malfortiĝas.  
+
+Hontiĝu, vi terkultivistoj!  
+
+Ĝemu, vi vinberĝardenistoj,  
+
+pro la tritiko kaj pro la hordeo;  
+
+ĉar la rikolto de la kampo pereis.  
+
+La vinberarbo sekiĝis, kaj la figarbo velkis—  
+
+la granatarbo, ankaŭ la palmo kaj la pomarbo,  
+
+eĉ ĉiuj arboj de la kampo velkis;  
+
+ĉar ĝojo velkis for de la filoj de homoj.  
+
+Surmetu sakaĵon kaj funebru, vi pastroj!  
+
+Ĝemu, vi servantoj de la altaro.  
+
+Venu, kuŝu tutan nokton en sakaĵo, vi servantoj de mia Dio,  
+
+ĉar la farunofero kaj la trinka ofero estas retenitaj el la domo de via Dio.  
+
+Sanktigu faston.  
+
+Voku solenan kunvenon.  
+
+Kolektu la pliaĝulojn kaj ĉiujn loĝantojn de la lando al la domo de Jahveo, via Dio,  
+
+kaj kriu al Jahveo.  
+
+Ho ve por la tago!  
+
+Ĉar la tago de Jahveo estas proksima,  
+
+kaj ĝi venos kiel detruo de la Plejpotenca.  
+
+Ĉu ne la manĝaĵo estas fortranĉita antaŭ niaj okuloj,  
+
+ĝojo kaj ĝojego el la domo de nia Dio?  
+
+La semoj putras sub siaj teropecoj.  
+
+La grenejoj estas dezertigitaj.  
+
+La grenejoj estas disfaligitaj, ĉar la greno velkis.  
+
+Kiel ĝemas la bestoj!  
+
+La gregoj de brutoj estas konfuzitaj, ĉar ili ne havas paŝtejon.  
+
+Jes, la ŝafgregoj estas senesperaj.  
+
+Jahveo, mi krias al vi,  
+
+ĉar fajro formanĝis la paŝtejojn de la dezerto,  
+
+kaj flamo bruligis ĉiujn arbojn de la kampo.  
+
+Jes, la bestoj de la kampo sopiras al vi,  
+
+ĉar la akvobrokoj sekiĝis,  
+
+kaj fajro formanĝis la paŝtejojn de la dezerto.  
+
+### Ĉapitro 2
+
+Blovu trumpetojn en Ciono,  
+
+kaj sonigu alarmon sur mia sankta monto!  
+
+Tremu ĉiuj loĝantoj de la lando,  
+
+ĉar venas la tago de Jahveo,  
+
+ĉar ĝi estas proksima:  
+
+Tago de mallumo kaj obskuro,  
+
+tago de nuboj kaj densa mallumo.  
+
+Kiel mateniĝo disvastiĝanta sur montoj,  
+
+granda kaj forta popolo;  
+
+neniam estis tia antaŭe,  
+
+nek estos plu post ili,  
+
+eĉ ĝis jaroj de multaj generacioj.  
+
+Fajro formanĝas antaŭ ili,  
+
+kaj malantaŭ ili flamo brulas.  
+
+La lando estas kiel ĝardeno de Eden antaŭ ili,  
+
+kaj malantaŭ ili dezerta sovaĝejo.  
+
+Jes, kaj neniu eskapis ilin.  
+
+Ilia aspekto estas kiel aspekto de ĉevaloj,  
+
+kaj ili kuras kiel rajdantoj.  
+
+Kiel bruo de ĉaroj sur montopintoj ili saltas,  
+
+kiel bruo de flamo de fajro kiu formanĝas pajlon,  
+
+kiel forta popolo starigita en batalformacio.  
+--- input694
+ĉar la tago de Javeo estas granda kaj tre timinda,  
+
+kaj kiu povas elteni ĝin?  
+
+“Sed eĉ nun,” diras Javeo, “turnu vin al mi per via tuta koro,  
+
+kun fastado, kun plorado, kaj kun funebrado.  
+
+Disŝiru vian koron kaj ne viajn vestojn,  
+
+kaj turnu vin al Javeo, via Dio;  
+
+ĉar Li estas kompatema kaj favorkora,  
+
+malrapida al kolero kaj abunda en amo,  
+
+kaj Li pentas pri la malbono.  
+
+Kiu scias? Eble Li turnos sin kaj pentos,  
+
+kaj lasos benon post si,  
+
+eĉ farunoferon kaj verŝoferon al Javeo, via Dio.  
+
+Blovu la trumpetojn en Ciono!  
+
+Sanktigu faston.  
+
+Voku solenan kunvenon.  
+
+Kolektu la popolon.  
+
+Sanktigu la kunvenon.  
+
+Kunigu la maljunulojn.  
+
+Kolektu la infanojn kaj la suĉinfanojn.  
+
+Lasu la fianĉon eliri el sia ĉambro,  
+
+kaj la fianĉinon el sia ĉambro.  
+
+Lasu la pastrojn, la servantojn de Javeo, plori inter la portiko kaj la altaro,  
+
+kaj lasu ilin diri: “Indulgu Vian popolon, Javeo,  
+
+kaj ne donu Vian heredaĵon al malhonoro,  
+
+por ke la nacioj regu super ili.  
+
+Kial oni diru inter la popoloj,  
+
+‘Kie estas ilia Dio?’”  
+
+Tiam Javeo ekzorgis pri Sia lando,  
+
+kaj kompateme rigardis Sian popolon.  
+
+Javeo respondis al Sia popolo:  
+
+“Jen Mi sendos al vi grenon, novan vinon kaj oleon,  
+
+kaj vi satiĝos per ili;  
+
+kaj Mi ne plu faros vin malhonoro inter la nacioj.  
+
+Sed Mi forigos la nordan armeon for de vi,  
+
+kaj Mi forpelos ĝin en dezertan kaj senhoman landon,  
+
+ĝian antaŭan parton en la orientan maron,  
+
+kaj ĝian malantaŭan parton en la okcidentan maron;  
+
+kaj ĝia fetoro leviĝos,  
+
+kaj ĝia malbona odoro supreniĝos.”  
+
+Certe Li faris grandajn aferojn.  
+
+Tero, ne timu.  
+
+Ĝoju kaj estu gaja, ĉar Javeo faris grandajn aferojn.  
+
+Ne timu, vi bestoj de la kampo;  
+
+ĉar la paŝtejoj de la dezerto ekverdiĝas,  
+
+ĉar la arbo donas sian frukton.  
+
+La figarbo kaj la vinberarbo donas sian forton.  
+
+“Do ĝoju, vi infanoj de Ciono,  
+
+kaj ĝoju en Javeo, via Dio;  
+
+ĉar Li donas al vi la fruan pluvon ĝustatempe,  
+
+kaj Li sendas al vi pluvon,  
+
+la fruan pluvon kaj la malfruan pluvon, kiel antaŭe.  
+
+La draŝejoj pleniĝos de greno,  
+
+kaj la vinpremejoj superfluos per nova vino kaj oleo.  
+
+Mi redonos al vi la jarojn kiujn manĝis la svarmantaj akridoj,  
+
+la grandaj akridoj, la griloj kaj la raŭpoj,  
+
+Mia granda armeo kiun Mi sendis inter vi.  
+
+Vi havos sufiĉe por manĝi kaj satiĝi,  
+
+kaj laŭdos la nomon de Javeo, via Dio,  
+
+kiu mirinde agis kun vi;  
+
+kaj Mia popolo neniam plu estos hontigita.  
+
+Vi scios ke Mi estas inter Izrael,  
+
+kaj ke Mi estas Javeo, via Dio, kaj neniu alia ekzistas;  
+
+kaj Mia popolo neniam plu estos hontigita.  
+
+“Post tio okazos ke Mi elverŝos Mian Spiriton sur ĉiun karnon;  
+
+kaj viaj filoj kaj viaj filinoj profetos.  
+
+Viaj maljunuloj havos sonĝojn.  
+
+Viaj junuloj vidos viziojn.  
+
+Kaj ankaŭ sur la servistoj kaj sur la servantinoj en tiuj tagoj,  
+
+Mi elverŝos Mian Spiriton.  
+
+Mi montros miraklojn en la ĉielo kaj sur la tero:  
+
+sangon, fajron kaj kolonojn de fumo.  
+
+La suno fariĝos mallumo,  
+
+kaj la luno fariĝos sango,  
+
+antaŭ ol venos la granda kaj timinda tago de Javeo.  
+
+Okazos ke ĉiu kiu vokos la nomon de Javeo estos savita;  
+
+ĉar sur monto Ciono kaj en Jerusalemo estos tiuj kiuj eskapos,  
+
+kiel Javeo diris,  
+
+kaj inter la restaĵo estos tiuj kiujn Javeo vokas.  
+--- input695
+Ĉar vi prenis mian arĝenton kaj mian oron,  
+
+kaj portis miajn plej bonajn trezorojn en viajn templojn,  
+
+kaj vendis la infanojn de Judujo kaj la infanojn de Jerusalemo al la filoj de la Grekoj,  
+
+por ke vi forigu ilin malproksime de ilia limo.  
+
+Jen, Mi vekos ilin el la loko, kien vi vendis ilin,  
+
+kaj Mi redonos vian repagon sur vian propran kapon;  
+
+kaj Mi vendos viajn filojn kaj viajn filinojn en la manojn de la infanoj de Judujo,  
+
+kaj ili vendos ilin al la homoj de Ŝeba,  
+
+al malproksima nacio,  
+
+ĉar Yahweh tion parolis.”  
+
+Proklamu tion inter la nacioj:  
+
+“Pretiĝu por milito!  
+
+Veku la potenculojn.  
+
+Lasu ĉiujn militistojn alproksimiĝi.  
+
+Ili supreniru. Frapu viajn plugilojn en glavojn,  
+
+kaj viajn pritondilojn en lancojn.  
+
+La malfortulo diru: ‘Mi estas forta.’  
+
+Rapidu kaj venu, ĉiuj ĉirkaŭaj nacioj,  
+
+kaj kunvenu.”  
+
+Faru, ke viaj potenculoj malsupreniru tien, Yahweh.  
+
+“Lasu la naciojn vekiĝi,  
+
+kaj supreniru al la valo de Jehoŝafat;  
+
+ĉar tie Mi sidos por juĝi ĉiujn ĉirkaŭajn naciojn.  
+
+Enmetu la rikoltilon;  
+
+ĉar la rikolto estas matura.  
+
+Venu, piedpremu, ĉar la vinpremejo estas plena,  
+
+la kuvoj superfluas, ĉar ilia malboneco estas granda.”  
+
+Amasoj, amasoj en la valo de decido!  
+
+Ĉar la tago de Yahweh estas proksima en la valo de decido.  
+
+La suno kaj la luno mallumiĝas,  
+
+kaj la steloj retiras sian brilon.  
+
+Yahweh blekos el Ciono,  
+
+kaj tondros el Jerusalemo;  
+
+kaj la ĉielo kaj la tero skuiĝos;  
+
+sed Yahweh estos rifuĝejo por Sia popolo,  
+
+kaj fortikaĵo por la infanoj de Izrael.  
+
+“Tiam vi scios, ke Mi estas Yahweh, via Dio,  
+
+loĝanta en Ciono, Mia sankta monto.  
+
+Tiam Jerusalemo estos sankta,  
+
+kaj fremduloj ne plu trairados ĝin.  
+
+Okazos en tiu tago,  
+
+ke la montoj gutigos dolĉan vinon,  
+
+la montetoj fluos per lakto,  
+
+ĉiuj torentoj de Judujo fluos per akvoj;  
+
+kaj fonto elfluos el la domo de Yahweh,  
+
+kaj akvumos la valon de Ŝitim.  
+
+Egiptujo fariĝos dezerto  
+
+kaj Edomo fariĝos dezerta sovaĝejo,  
+
+pro la perforto farita al la infanoj de Judujo,  
+
+ĉar ili verŝis senkulpan sangon en ilia lando.  
+
+Sed Judujo estos loĝata eterne,  
+
+kaj Jerusalemo de generacio al generacio.  
+
+Mi purigos ilian sangon,  
+
+kiun Mi ne purigis,  
+
+ĉar Yahweh loĝas en Ciono.”  
+
+## Amos
+
+La Libro de Amos
+
+### Ĉapitro 1
+
+La vortoj de Amos, kiu estis inter la paŝtistoj de Tekoa, kiujn li vidis pri Izrael en la tagoj de Uzija, reĝo de Judujo, kaj en la tagoj de Jerobeam, filo de Joaŝo, reĝo de Izrael, du jarojn antaŭ la tertremo. Li diris:  
+
+“Yahweh blekos el Ciono,  
+
+kaj eldiras Sian voĉon el Jerusalemo;  
+
+kaj la paŝtejoj de la paŝtistoj funebros,  
+
+kaj la supro de Karmel velkos.”  
+
+Yahweh diras:  
+
+“Pro tri pekoj de Damasko, jes, pro kvar,  
+
+Mi ne forigos ĝian punon,  
+
+ĉar ili draŝis Gileadon per fera draŝilo;  
+
+sed Mi sendos fajron en la domon de Ĥazael,  
+
+kaj ĝi formanĝos la palacojn de Ben-Hadad.  
+
+Mi rompos la stangon de Damasko,  
+
+kaj fortranĉos la loĝanton el la valo de Aven,  
+
+kaj tiun, kiu tenas sceptron el la domo de Eden;  
+
+kaj la popolo de Sirio iros en kaptitecon al Kir,” diras Yahweh.  
+
+Yahweh diras:  
+
+“Pro tri pekoj de Gaza, jes, pro kvar,  
+
+Mi ne forigos ĝian punon,  
+
+ĉar ili forportis kaptite tutan komunumon, por transdoni ilin al Edomo;  
+
+sed Mi sendos fajron sur la muron de Gaza,  
+
+kaj ĝi formanĝos ĝiajn palacojn.  
+
+Mi fortranĉos la loĝanton el Aŝdod,  
+
+kaj tiun, kiu tenas sceptron el Aŝkelono;  
+
+kaj Mi turnos Mian manon kontraŭ Ekron;  
+
+kaj la restaĵo de la Filistoj pereos,” diras Sinjoro Yahweh.  
+
+Yahweh diras:  
+
+“Pro tri pekoj de Tiro, jes, pro kvar,  
+Mi ne forigos ĝian punon;  
+ĉar ili transdonis tutan komunumon al Edomo  
+kaj ne memoris pri frata interligo;  
+sed Mi sendos fajron sur la muron de Tiro  
+kaj ĝi formanĝos ĝiajn palacojn.”
+--- input696
+Mi ne deturnos ĝian punon,
+
+ĉar li persekutis sian fraton per glavo
+
+kaj forĵetis ĉian kompaton,
+
+kaj lia kolero furiozis senĉese,
+
+kaj li konservis sian indignon por ĉiam;
+
+sed mi sendos fajron sur Teman,
+
+kaj ĝi formanĝos la palacojn de Bocra.”
+
+Jahve diras:
+
+“Pro tri krimoj de la infanoj de Amon, jes, pro kvar,
+
+mi ne deturnos ĝian punon,
+
+ĉar ili disŝiris la gravedajn virinojn de Gilead,
+
+por ke ili pligrandigu sian limon.
+
+Sed mi ekbruligos fajron en la muro de Raba,
+
+kaj ĝi formanĝos ĝiajn palacojn,
+
+kun kriego en la tago de batalo,
+
+kun ŝtormo en la tago de ventego;
+
+kaj ilia reĝo iros en kaptitecon,
+
+li kaj liaj princoj kune,”
+
+diras Jahve.
+
+### Ĉapitro 2
+
+Jahve diras:
+
+“Pro tri krimoj de Moab, jes, pro kvar,
+
+mi ne deturnos ĝian punon,
+
+ĉar li bruligis la ostojn de la reĝo de Edom ĝis kalko;
+
+sed mi sendos fajron sur Moabon,
+
+kaj ĝi formanĝos la palacojn de Kerijot;
+
+kaj Moab mortos kun tumulto, kun kriego, kaj kun la sono de trumpeto;
+
+kaj mi fortranĉos la juĝiston el inter ili,
+
+kaj mortigos ĉiujn ĝiajn princojn kun li,”
+
+diras Jahve.
+
+Jahve diras:
+
+“Pro tri krimoj de Judujo, jes, pro kvar,
+
+mi ne deturnos ĝian punon,
+
+ĉar ili malakceptis la leĝon de Jahve,
+
+kaj ne observis Liajn statutajn ordonojn,
+
+kaj iliaj mensogoj forlogis ilin,
+
+post kiuj iliaj patroj iris;
+
+sed mi sendos fajron sur Judujon,
+
+kaj ĝi formanĝos la palacojn de Jerusalemo.”
+
+Jahve diras:
+
+“Pro tri krimoj de Izrael, jes, pro kvar,
+
+mi ne deturnos ĝian punon,
+
+ĉar ili vendis la virtulon kontraŭ arĝento,
+
+kaj la malriĉulon kontraŭ paro da sandaloj;
+
+Ili piedpremas la kapojn de la malriĉuloj en la polvon de la tero
+
+kaj rifuzas justecon al la prematoj.
+
+Viro kaj lia patro uzas la saman junulinon, por profani Mian sanktan nomon.
+
+Ili kuŝiĝas apud ĉiu altaro sur vestoj prenitaj kiel prunto.
+
+En la domo de sia Dio ili trinkas la vinon de tiuj, kiuj estis monpunataj.
+
+Tamen Mi ekstermis la Amoridon antaŭ ili,
+
+kies alteco estis kiel la alteco de cedroj,
+
+kaj li estis forta kiel kverkoj;
+
+tamen Mi ekstermis liajn fruktojn supre,
+
+kaj liajn radikojn sube.
+
+Ankaŭ Mi elkondukis vin el la lando Egiptujo
+
+kaj kondukis vin kvardek jarojn en la dezerto,
+
+por posedi la landon de la Amorido.
+
+Mi levis kelkajn el viaj filoj kiel profetojn,
+
+kaj kelkajn el viaj junuloj kiel naziritojn.
+
+Ĉu tio ne estas vera,
+
+ho infanoj de Izrael?” diras Jahve.
+
+“Sed vi donis al la naziritoj vinon por trinki,
+
+kaj ordonis al la profetoj, dirante: ‘Ne profetu!’
+
+Jen, Mi dispremos vin surloke,
+
+kiel ĉarumo dispremas, kiu estas plena je greno.
+
+Forkuro pereos por la rapidaj.
+
+La fortulo ne plifortigos sian forton.
+
+La potenca ne savos sin mem.
+
+Tiu, kiu manipulas arkon, ne staros.
+
+Tiu, kiu estas rapida piede, ne eskapos.
+
+Tiu, kiu rajdas ĉevalon, ne savos sin mem.
+
+Tiu, kiu estas kuraĝa inter la potenculoj
+
+forkuros nuda en tiu tago,”
+
+diras Jahve.
+
+### Ĉapitro 3
+
+Aŭskultu ĉi tiun vorton, kiun Jahve parolis kontraŭ vi, infanoj de Izrael, kontraŭ la tuta familio, kiun Mi elkondukis el la lando Egiptujo, dirante:
+
+“Nur vin Mi elektis el ĉiuj familioj de la tero.
+
+Tial Mi punos vin pro ĉiuj viaj pekoj.”
+
+Ĉu du iras kune,
+
+krom se ili interkonsentis?
+
+Ĉu leono blekas en densaĵo,
+
+se ĝi ne havas predon?
+
+Ĉu juna leono krias el sia kaverno,
+
+se ĝi kaptis nenion?
+
+Ĉu birdo falas en kaptilon surtere,
+
+kie neniu reto estas metita por ĝi?
+
+Ĉu kaptilo saltas supren el la tero,
+
+se nenio estas kaptita?
+
+Ĉu trumpet-alarmo sonas en urbo,
+
+sen ke homoj timiĝu?
+
+Ĉu malbono okazas en urbo,
+
+kaj Jahve ne faris ĝin?
+
+Certe Sinjoro Jahve faros nenion,
+
+krom se Li malkaŝas Sian sekreton al Siaj servantoj, la profetoj.
+
+La leono blekis.
+
+Kiu ne timos?
+
+La Sinjoro Jahve parolis.
+
+Kiu povas ne profeti?
+
+Proklamu en la palacoj ĉe Aŝdod,
+
+kaj en la palacoj en la lando Egiptujo,
+
+kaj diru: “Kunvenu sur la montoj de Samario.
+--- input697
+kaj vidu, kia maltrankvilo estas en ŝi,  
+
+kaj kia subpremo estas inter ili.”  
+
+“Efektive ili ne scias fari ĝuste,” diras Jahve,  
+
+“kiuj amasigas rabon kaj ŝtelon en siaj palacoj.”  
+
+Tial la Sinjoro Jahve diras:  
+
+“Malamikoj supervenkos la landon;  
+
+kaj ili detruos viajn fortikaĵojn,  
+
+kaj viaj fortresoj estos rabitaj.”  
+
+Jahve diras:  
+
+“Kiel paŝtisto savas el la buŝo de leono du krurojn,  
+
+aŭ pecon de orelo,  
+
+tiel estos savitaj la infanoj de Izrael, kiuj sidas en Samario sur la angulo de sofo,  
+
+kaj sur la silkaj kusenoj de lito.”  
+
+“Aŭskultu, kaj atestu kontraŭ la domo de Jakob,” diras la Sinjoro Jahve, la Dio de Armeoj.  
+
+“Ĉar en la tago, kiam Mi vizitos la pekojn de Izrael sur li,  
+
+Mi ankaŭ vizitos la altarojn de Betel;  
+
+kaj la kornoj de la altaro estos fortranĉitaj,  
+
+kaj falos sur la teron.  
+
+Mi frapos la vintran domon kun la somera domo;  
+
+kaj la domoj el eburo pereos,  
+
+kaj la grandaj domoj havos finon,”  
+
+diras Jahve.  
+
+### Ĉapitro 4  
+
+Aŭskultu ĉi tiun vorton, vi bovinoj de Baŝan, kiuj estas sur la monto de Samario, kiuj premas la malriĉulojn, kiuj dispremas la bezonantojn, kiuj diras al siaj edzoj: “Alportu al ni trinkaĵojn!”  
+
+La Sinjoro Jahve ĵuris per Sia sankteco:  
+
+“Jen venos tagoj sur vin, kiam oni forportos vin per hokoj,  
+
+kaj la lastajn el vi per fiŝhokoj.  
+
+Vi eliros tra la rompoj en la muro,  
+
+ĉiu rekte antaŭ si;  
+
+kaj vi ĵetos vin en Harmon,” diras Jahve.  
+
+“Iru al Betel, kaj peku;  
+
+iru al Gilgal, kaj peku pli multe.  
+
+Alportu viajn oferojn ĉiumatene,  
+
+viajn dekonaĵojn ĉiun trian tagon,  
+
+oferu dankoferon el fermentitaĵo,  
+
+kaj proklamu libervolajn oferojn kaj fanfaronu pri ili;  
+
+ĉar tio plaĉas al vi, vi infanoj de Izrael,” diras la Sinjoro Jahve.  
+
+“Mi ankaŭ donis al vi purajn dentojn en ĉiuj viaj urboj,  
+
+kaj mankon de pano en ĉiu urbo;  
+
+tamen vi ne revenis al Mi,” diras Jahve.  
+
+“Mi ankaŭ retenis la pluvon de vi,  
+
+kiam ankoraŭ restis tri monatoj ĝis rikolto;  
+
+kaj Mi kaŭzis ke pluvu sur unu urbo,  
+
+kaj ke ne pluvu sur alia urbo.  
+
+Unu kampo estis pluvigita,  
+
+kaj la kampo kie ne pluvis velkis.  
+
+Do du aŭ tri urboj ŝanceliĝis al unu urbo por trinki akvon,  
+
+kaj ne estis kontentigitaj;  
+
+tamen vi ne revenis al Mi,” diras Jahve.  
+
+“Mi frapis vin per velkado kaj milda roso multfoje en viaj ĝardenoj kaj vinberĝardenoj,  
+
+kaj la svarmantaj akridoj formanĝis viajn figarbojn kaj olivarbojn;  
+
+tamen vi ne revenis al Mi,” diras Jahve.  
+
+“Mi sendis plagojn inter vin kiel Mi faris en Egiptujo.  
+
+Mi mortigis viajn junulojn per glavo,  
+
+kaj forportis viajn ĉevalojn.  
+
+Mi plenigis viajn naztruojn per la fetoro de via tendaro,  
+
+tamen vi ne revenis al Mi,” diras Jahve.  
+
+“Mi renversis kelkajn el vi,  
+
+kiel kiam Dio renversis Sodom kaj Gomoran,  
+
+kaj vi estis kiel brulanta bastono eltirita el fajro;  
+
+tamen vi ne revenis al Mi,” diras Jahve.  
+
+“Tial Mi faros tion al vi, Izrael;  
+
+ĉar Mi faros tion al vi,  
+
+preparu renkonti vian Dion, Izrael.  
+
+Ĉar jen Li kiu formas la montojn, kreas la venton, deklaras al homo kio estas lia penso,  
+
+kiu faras la matenon mallumo, kaj paŝas sur la altaj lokoj de la tero:  
+
+Jahve, la Dio de Armeoj, estas Lia nomo.”  
+
+### Ĉapitro 5  
+
+Aŭskultu ĉi tiun vorton kiun Mi prenas kiel lamentadon super vi, ho domo de Izrael:  
+
+“La virgulino de Izrael falis;  
+
+Ŝi ne plu leviĝos.  
+
+Ŝi estas ĵetita teren sur sian landon;  
+
+ne estas iu por levi ŝin.”  
+
+Ĉar la Sinjoro Jahve diras:  
+
+“La urbo kiu eliris kun mil havos cent restintajn,  
+
+kaj tiu kiu eliris kun cent havos dek restintajn al la domo de Izrael.”  
+
+Ĉar Jahve diras al la domo de Izrael:  
+
+“Serĉu Min, kaj vi vivos;  
+
+sed ne serĉu Betel,  
+
+nek eniru Gilgalon,  
+
+kaj ne iru al Beer-Ŝeba;  
+
+ĉar Gilgal certe iros en kaptitecon,  
+
+kaj Betel fariĝos nenio.  
+
+Serĉu Jahve-on, kaj vi vivos,  
+
+por ke Li ne ekbrulu kiel fajro en la domo de Jozef,  
+--- input698
+kaj ĵetas justecon al la tero!
+
+Serĉu Tiun, kiu faris la Pléadon kaj Orionon,
+
+kaj turnas la ombron de morto en matenon,
+
+kaj faras la tagon malluma per nokto;
+
+kiu vokas la akvojn de la maro,
+
+kaj verŝas ilin sur la surfacon de la tero, Javeo estas Lia nomo,
+
+kiu alportas subitan detruon sur la fortulojn,
+
+tiel ke detruo venas sur la fortikaĵon.
+
+Ili malamas tiun, kiu riproĉas ĉe la pordego,
+
+kaj ili abomenas tiun, kiu parolas senkulpe.
+
+Tial, ĉar vi piedpremas la malriĉulojn kaj prenas de ili tritikan imposton,
+
+vi konstruis domojn el hakitaj ŝtonoj, sed vi ne loĝos en ili.
+
+Vi plantis agrablajn vinberĝardenojn,
+
+sed vi ne trinkos ilian vinon.
+
+Ĉar Mi scias, kiom multaj estas viaj krimoj,
+
+kaj kiom grandaj estas viaj pekoj—
+
+vi, kiuj turmentas la justulon,
+
+kiuj akceptas subaĉeton,
+
+kaj kiuj forpuŝas la bezonantojn ĉe la tribunaloj.
+
+Tial prudenta homo silentas en tia tempo,
+
+ĉar ĝi estas malbona tempo.
+
+Serĉu bonon, kaj ne malbonon,
+
+por ke vi vivu;
+
+kaj tiel Javeo, Dio de Armeoj, estos kun vi,
+
+kiel vi diras.
+
+Malamu malbonon, amu bonon,
+
+kaj starigu justecon ĉe la tribunaloj.
+
+Eble Javeo, Dio de Armeoj, estos favora al la restaĵo de Jozef.”
+
+Tial Javeo, Dio de Armeoj, la Sinjoro, diras:
+
+“Plorado estos en ĉiuj larĝaj vojoj.
+
+Ili diros en ĉiuj stratoj: ‘Ve! Ve!’
+
+Ili vokos la terkultiviston al funebro,
+
+kaj tiujn lertajn pri lamentado al plorado.
+
+En ĉiuj vinberĝardenoj estos plorado,
+
+ĉar Mi pasos tra via mezo,” diras Javeo.
+
+“Ve al vi, kiuj deziras la tagon de Javeo!
+
+Kial vi sopiras la tagon de Javeo?
+
+Ĝi estas mallumo,
+
+kaj ne lumo.
+
+Kiel se homo forkuras de leono,
+
+kaj urso renkontas lin;
+
+aŭ li eniras en domon kaj apogas sian manon sur muro,
+
+kaj serpento mordas lin.
+
+Ĉu la tago de Javeo ne estos mallumo, kaj ne lumo?
+
+Eĉ tre malluma, kaj sen brilo en ĝi?
+
+Mi malamas, Mi abomenas viajn festojn,
+
+kaj Mi ne povas elteni viajn solenan kunvenojn.
+
+Jes, kvankam vi oferas al Mi viajn bruloferojn kaj manĝoferojn,
+
+Mi ne akceptos ilin;
+
+nek Mi rigardos la pacoferojn de viaj grasaj bestoj.
+
+Forigu de Mi la bruon de viaj kantoj!
+
+Mi ne aŭskultos la muzikon de viaj harpoj.
+
+Sed lasu justecon flui kiel riveroj,
+
+kaj justecon kiel potenca torento.
+
+“Ĉu vi alportis al Mi oferojn kaj donacojn en la dezerto dum kvardek jaroj, ho domo de Izrael? Vi ankaŭ portis la tendon de via reĝo kaj la sanktejon de viaj bildoj, la stelon de via dio, kiun vi faris por vi mem. Tial Mi kaŭzos vin iri en kaptitecon preter Damasko,” diras Javeo, kies nomo estas Dio de Armeoj.
+
+### Ĉapitro 6
+
+Ve al tiuj, kiuj estas senzorgaj en Ciono,
+
+kaj al tiuj, kiuj estas sekuraj sur la monto de Samario,
+
+la eminentuloj inter la ĉefaj nacioj,
+
+al kiuj venas la domo de Izrael!
+
+Iru al Kalneo, kaj vidu.
+
+De tie iru al Hamato, granda urbo.
+
+Tiam iru malsupren al Gato de la Filistoj.
+
+Ĉu ili estas pli bonaj ol ĉi tiuj regnoj?
+
+Ĉu ilia limo estas pli granda ol via limo?
+
+Ve al vi, kiuj forpuŝas malproksimen la malbonan tagon,
+
+kaj kaŭzas ke la seĝo de perforto proksimiĝu,
+
+kiuj kuŝas sur litoj el eburo,
+
+kaj etendas sin sur siaj sofoj,
+
+kaj manĝas ŝafidojn el la grego,
+
+kaj bovidojn el la mezo de la stalo,
+
+kiuj frapas kordojn de harpo,
+
+kiuj inventas por si muzikilojn kiel David;
+
+kiuj trinkas vinon el bovloj,
+
+kaj sin ŝmiras per plej bonaj oleoj,
+
+sed ili ne malĝojas pro la suferado de Jozef.
+
+Tial ili nun iros kaptite kun la unuaj kaptitoj.
+
+La festado kaj ripozado finiĝos.
+
+“La Sinjoro Javeo ĵuris per Si mem,” diras Javeo, Dio de Armeoj:
+
+“Mi abomenas la fierecon de Jakob,
+
+kaj malestimas liajn fortikaĵojn.
+
+Tial Mi transdonos la urbon kun ĉio, kio estas en ĝi.
+
+Okazos, ke se dek homoj restos en unu domo,
+
+ili mortos.
+
+“Kiam parenco de homo portas lin, eĉ tiu, kiu bruligas lin, por elporti korpojn el la domo, kaj demandas tiun, kiu estas en la plej internaj partoj de la domo: ‘Ĉu ankoraŭ estas iu kun vi?’ Kaj li respondos: ‘Ne;’ tiam li diros: ‘Silentu! Efektive ni ne devas mencii la nomon de Javeo.’
+--- input699
+“Ĉar jen, Yahweh ordonas, kaj la granda domo estos frakasita en pecojn,  
+
+kaj la malgranda domo en fragmentojn.  
+
+Ĉu ĉevaloj kuras sur rokoj?  
+
+Ĉu oni plugas tie per bovoj?  
+
+Sed vi transformis justecon en venenon,  
+
+kaj la frukton de virto en amarecon,  
+
+vi, kiuj ĝojas pri nenio, kaj diras,  
+
+‘Ĉu ni ne akiris al ni kornojn per nia propra forto?’  
+
+Ĉar jen, Mi levos kontraŭ vin nacion, ho domo de Izrael,”  
+
+diras Yahweh, la Dio de Armeoj;  
+
+“kaj ili premos vin de la enirejo de Ĥamat ĝis la torento de la Araba.”  
+
+### Ĉapitro 7  
+
+Tiel la Sinjoro Yahweh montris al mi: jen, Li formis akridojn ĉe la komenco de la kreskado de la posta rikolto; kaj jen, ĝi estis la posta rikolto post la rikolto de la reĝo. Kiam ili finis manĝi la herbon de la lando, tiam mi diris: “Sinjoro Yahweh, pardonu, mi petegas vin! Kiel Jakob povus stari? Ĉar li estas malgranda.”  
+
+Yahweh pentis pri tio. “Ĝi ne okazos,” diras Yahweh.  
+
+Tiel la Sinjoro Yahweh montris al mi: jen, la Sinjoro Yahweh vokis juĝon per fajro; kaj ĝi sekigis la grandan profundon kaj estus formanĝinta la landon. Tiam mi diris: “Sinjoro Yahweh, haltu, mi petegas vin! Kiel Jakob povus stari? Ĉar li estas malgranda.”  
+
+Yahweh pentis pri tio. “Ankaŭ tio ne okazos,” diras la Sinjoro Yahweh.  
+
+Tiel Li montris al mi: jen, la Sinjoro staris apud muro farita per vertikala ŝnuro, kun vertikala ŝnuro en sia mano. Yahweh diris al mi: “Amos, kion vi vidas?”  
+
+Mi diris: “Vertikalan ŝnuron.”  
+
+Tiam la Sinjoro diris: “Jen, Mi starigos vertikalan ŝnuron meze de Mia popolo Izrael. Mi ne plu preterpasos ilin. La altaj lokoj de Isaak estos dezertigitaj, la sanktejoj de Izrael estos detruitaj; kaj Mi leviĝos kontraŭ la domon de Jerobeam per glavo.”  
+
+Tiam Amazja, la pastro de Betel, sendis al Jerobeam, reĝo de Izrael, dirante: “Amos konspiris kontraŭ vi meze de la domo de Izrael. La lando ne povas elporti ĉiujn liajn vortojn. Ĉar Amos diras: ‘Jerobeam mortos per glavo, kaj Izrael certe estos forkondukita kaptite el sia lando.’”  
+
+Amazja ankaŭ diris al Amos: “Vi, vidanto, iru, forkuru en la landon de Judujo, kaj tie manĝu panon kaj profetu tie; sed ne plu profetu ĉe Betel; ĉar ĝi estas la sanktejo de la reĝo kaj reĝa domo!”  
+
+Tiam Amos respondis al Amazja: “Mi ne estis profeto, nek filo de profeto, sed mi estis paŝtisto kaj kultivisto de sikomorfigoj; kaj Yahweh prenis min for de sekvado de la ŝafoj, kaj Yahweh diris al mi: ‘Iru, profetu al Mia popolo Izrael.’ Nun do aŭskultu la vorton de Yahweh: ‘Vi diras: Ne profetu kontraŭ Izrael, kaj ne prediku kontraŭ la domo de Isaak.’ Tial Yahweh diras: ‘Via edzino fariĝos prostituitino en la urbo, kaj viaj filoj kaj viaj filinoj falos per glavo, kaj via lando estos dividita per linio; kaj vi mem mortos en malpura lando, kaj Izrael certe estos forkondukita kaptite el sia lando.’”  
+
+### Ĉapitro 8  
+
+Tiel la Sinjoro Yahweh montris al mi: jen, korbo da someraj fruktoj.  
+
+Li diris: “Amos, kion vi vidas?”  
+
+Mi diris: “Korbon da someraj fruktoj.”  
+
+Tiam Yahweh diris al mi:  
+
+“La fino venis sur Mian popolon Izrael.  
+
+Mi ne plu preterpasos ilin.  
+
+La kantoj de la templo fariĝos lamentado en tiu tago,” diras la Sinjoro Yahweh.  
+
+“La mortintoj estos multaj. En ĉiu loko oni ĵetos ilin eksteren en silento.  
+
+Aŭskultu ĉi tion, vi kiuj deziras engluti la malriĉulojn,  
+
+kaj kaŭzi ke la malriĉuloj de la lando pereu,  
+
+dirante: ‘Kiam finiĝos la nova luno, por ke ni vendu grenon?  
+
+Kaj la sabato, por ke ni vendadu tritikon,  
+
+farante la efon malgranda kaj la siklon granda,  
+
+kaj trompante per falsaj pesiloj;  
+
+por ke ni aĉetu la malriĉulojn por arĝento,  
+
+kaj la bezonantojn por paro da sandaloj,  
+
+kaj vendu la restaĵojn kun la tritiko?’”  
+
+Yahweh ĵuris per la fiereco de Jakob:  
+
+“Certe Mi neniam forgesos iun el iliaj faroj.  
+
+Ĉu pro tio ne tremos la tero,  
+
+kaj ĉiuj loĝantoj en ĝi funebros?  
+
+Jes, ĝi leviĝos tute kiel Rivero;  
+
+kaj ĝi estos skuita kaj denove sinkos kiel Rivero de Egiptujo."
+--- input700
+Ĝi okazos en tiu tago,” diras la Sinjoro Yahweh,  
+
+“ke mi kaŭzos la sunon subiri tagmeze,  
+
+kaj mi mallumigos la teron en klara tago.  
+
+Mi turnos viajn festojn en funebron,  
+
+kaj ĉiujn viajn kantojn en lamentadon;  
+
+kaj mi igos vin porti sakaĵon sur ĉiuj viaj korpoj,  
+
+kaj kalvecon sur ĉiu kapo.  
+
+Mi faros ĝin kiel funebro por sola filo,  
+
+kaj ĝia fino kiel amara tago.  
+
+Jen, venas la tagoj,” diras la Sinjoro Yahweh,  
+
+“ke mi sendos malsaton en la landon,  
+
+ne malsaton de pano,  
+
+nek soifon de akvo,  
+
+sed de aŭdado de la vortoj de Yahweh.  
+
+Ili vagados de maro al maro,  
+
+kaj de la nordo eĉ ĝis la oriento;  
+
+ili kurados tien kaj reen por serĉi la vorton de Yahweh,  
+
+kaj ne trovos ĝin.  
+
+En tiu tago la belaj virgulinoj  
+
+kaj la junuloj svenos pro soifo.  
+
+Tiuj, kiuj ĵuras per la peko de Samario,  
+
+kaj diras, ‘Kiel vivas via dio, Dan,’  
+
+kaj, ‘Kiel vivas la vojo de Beer-Ŝeba,’  
+
+ili falos kaj neniam plu leviĝos.”  
+
+### Ĉapitro 9  
+
+Mi vidis la Sinjoron staranta apud la altaro, kaj li diris: “Frapu la suprojn de la kolonoj, por ke la sojloj skuiĝu. Rompu ilin en pecojn sur la kapojn de ĉiuj. Mi mortigos la lastajn el ili per glavo. Neniu el ili forkuros. Neniu el ili eskapos. Eĉ se ili fosos en Ŝeolon, tie mia mano prenos ilin; kaj eĉ se ili grimpus al la ĉielo, tie mi malsuprenigos ilin. Eĉ se ili kaŝus sin sur la supro de Karmelo, mi serĉos kaj elprenos ilin de tie; kaj eĉ se ili estus kaŝitaj for de mia vido en la fundo de la maro, tie mi ordonos al la serpento, kaj ĝi mordos ilin. Eĉ se ili iros en kaptitecon antaŭ siaj malamikoj, tie mi ordonos al la glavo, kaj ĝi mortigos ilin. Mi metos miajn okulojn sur ilin por malbono, kaj ne por bono. Ĉar la Sinjoro, Yahweh de Armeoj, estas tiu, kiu tuŝas la teron kaj ĝi fandiĝas, kaj ĉiuj loĝantoj en ĝi funebros; kaj ĝi leviĝos tute kiel la Rivero, kaj denove sinkos, kiel la Rivero de Egiptujo. Estas li, kiu konstruas siajn ĉambrojn en la ĉieloj, kaj fondis sian volbon sur la tero; li vokas la akvojn de la maro, kaj verŝas ilin sur la surfacon de la tero—Yahweh estas lia nomo. Ĉu vi ne estas kiel la infanoj de Etiopoj al mi, infanoj de Izrael?” diras Yahweh. “Ĉu mi ne elkondukis Izraelon el la lando Egiptujo, kaj la Filistojn el Kaftor, kaj la Sirianojn el Kir? Jen, la okuloj de la Sinjoro Yahweh estas sur la pekema regno, kaj mi detruos ĝin de sur la surfaco de la tero, krom ke mi ne tute detruos la domon de Jakob,” diras Yahweh. “Ĉar jen, mi ordonos, kaj mi kribrigos la domon de Izrael inter ĉiuj nacioj kiel grenon oni kribras en kribrilo, tamen eĉ ne unu grajno falos sur la teron. Ĉiuj pekuloj el mia popolo mortos per glavo, kiuj diras: ‘Malbono ne atingos nek renkontos nin.’ En tiu tago mi levos la tendon de David kiu falis kaj fermos ĝiajn breĉojn, kaj mi levos ĝiajn ruinojn, kaj mi konstruos ĝin kiel en la tagoj de antikveco, por ke ili posedu la restaĵon de Edom kaj ĉiujn naciojn kiuj estas nomataj per mia nomo,” diras Yahweh kiu faras tion.  
+
+“Jen venas la tagoj,” diras Yahweh,  
+
+“ke la plugisto atingos la rikoltiston,  
+
+kaj tiu kiu tretas vinberojn tiun kiu semas semon;  
+
+kaj dolĉa vino gutetos de la montoj,  
+
+kaj fluos de la montetoj.  
+
+Mi revenigos mian popolon Izrael el kaptiteco,  
+
+kaj ili rekonstruos la ruinigitajn urbojn kaj loĝos en ili;  
+
+kaj ili plantos vinberĝardenojn kaj trinkos vinon el ili.  
+
+Ili ankaŭ faros ĝardenojn,  
+
+kaj manĝos iliajn fruktojn.  
+
+Mi plantos ilin sur ilia tero,  
+
+kaj ili neniam plu estos elŝiritaj el sia tero kiun mi donis al ili,”  
+
+diras Yahweh via Dio.  
+
+## Obadja  
+
+La Libro de Obadja  
+
+### Ĉapitro 1  
+
+La vizio de Obadja. Jen kion diras la Sinjoro Yahweh pri Edom: Ni aŭdis novaĵojn de Yahweh, kaj ambasadoro estas sendita inter la nacioj, dirante: “Leviĝu, kaj ni leviĝu kontraŭ ŝi en batalo. Jen mi faris vin malgranda inter la nacioj. Vi estas tre malestimata. La fiero de via koro trompis vin, vi kiu loĝas en la fendoj de roko, kies loĝejo estas alta, kiu diras en sia koro: ‘Kiu malsuprenigos min al la tero?’ Eĉ se vi suprenirus alte kiel aglo, kaj eĉ se via nesto estus metita inter steloj, mi malsuprenigos vin de tie,” diras Yahweh. “Se ŝtelistoj venus al vi, se rabistoj nokte—ho kia katastrofo atendas vin—ĉu ili ne nur ŝtelus ĝis kiam ili havus sufiĉe? Se vinberrikoltistoj venus al vi, ĉu ili ne lasus iom da restaĵoj? Kiel Esav estos prirabita! Kiel liaj kaŝitaj trezoroj estas serĉataj! Ĉiuj viroj el via alianco kondukis vin survoje ĝis ĉe la limo. La viroj kiuj estis en paco kun vi trompis vin kaj superfortis vin. Amikoj kiuj manĝas vian panon metas kaptilon sub vi. Ne estas kompreno en li.”
+--- input701
+**Obadja**  
+Ĉu ne en tiu tago,” diras Jahve, “Mi pereigos la saĝulojn el Edom, kaj prudenton el la monto de Esav? Viaj potenculoj, Teman, estos konsternitaj, tiel ke ĉiuj estos ekstermitaj el la monto de Esav per buĉado. Pro la perforto farita al via frato Jakob, honto kovros vin, kaj vi estos ekstermita por ĉiam. En la tago, kiam vi staris flanke, en la tago, kiam fremduloj forportis liajn havaĵojn kaj eksterlandanoj eniris liajn pordegojn kaj lotis pri Jerusalemo, eĉ vi estis kiel unu el ili. Sed ne rigardu malsupren vian fraton en la tago de lia malfeliĉo, kaj ne ĝoju pri la infanoj de Judujo en la tago de ilia detruo. Ne parolu fiere en la tago de mizero. Ne eniru en la pordegon de mia popolo en la tago de ilia katastrofo. Ne rigardu malsupren ilian suferon en la tago de ilia katastrofo, nek kaptu iliajn riĉaĵojn en la tago de ilia katastrofo. Ne staru ĉe la vojkruciĝo por ekstermi tiujn el ili, kiuj eskapas. Ne transdonu tiujn el ili, kiuj restas, en la tago de mizero. Ĉar la tago de Jahve estas proksima por ĉiuj nacioj! Kiel vi faris, tiel estos farite al vi. Viaj agoj revenos sur vian propran kapon. Ĉar kiel vi trinkis sur mia sankta monto, tiel ĉiuj nacioj trinkos senĉese. Jes, ili trinkos, englutos, kaj estos kvazaŭ ili ne ekzistis. Sed sur Monto Cion estos tiuj, kiuj eskapos, kaj ĝi estos sankta. La domo de Jakob posedos siajn posedaĵojn. La domo de Jakob estos fajro, la domo de Jozef flameto, kaj la domo de Esav pajlero. Ili brulos inter ili kaj formanĝos ilin. Neniu restos el la domo de Esav.” Vere, Jahve parolis.
+
+Tiuj el la sudo posedos la monton de Esav, kaj tiuj el la malaltebenaĵo posedos la Filistojn. Ili posedos la kampon de Efraim kaj la kampon de Samario. Benjamin posedos Gileadon. La kaptitoj de ĉi tiu armeo de la infanoj de Izrael, kiuj estas inter la Kanaananoj, posedos eĉ ĝis Sarepta; kaj la kaptitoj de Jerusalemo, kiuj estas en Sepharad, posedos la urbojn de la Negevo. Savantoj supreniros sur Monto Cion por juĝi la montojn de Esav, kaj la regno apartenos al Jahve.
+
+---
+
+**Jonaho**  
+**La Libro de Jonaho**  
+
+**Ĉapitro 1**  
+
+Kaj venis vorto de Jahve al Jonaho, filo de Amitaj, dirante: “Leviĝu, iru al Nineve, tiu granda urbo, kaj prediku kontraŭ ĝi, ĉar ilia malboneco supreniris antaŭ mi.”
+
+Sed Jonaho leviĝis por forkuri al Tarŝiŝ for de la ĉeesto de Jahve. Li malsupreniris al Jopa kaj trovis ŝipon irantan al Tarŝiŝ; do li pagis ĝian tarifon kaj malsupreniris en ĝin por iri kun ili al Tarŝiŝ for de la ĉeesto de Jahve.
+
+Sed Jahve sendis grandan venton sur la maron, kaj estis potenca ŝtormo sur la maro tiel ke la ŝipo estis proksima al rompiĝo. Tiam la maristoj timis kaj ĉiu viro kriis al sia dio. Ili ĵetis la kargon, kiu estis en la ŝipo, en la maron por malpezigi ĝin. Sed Jonaho malsupreniris en la plej internajn partojn de la ŝipo kaj kuŝis dormante profunde. Tiam venis al li la ŝipestro kaj diris al li: “Kion vi signifas per dormado? Leviĝu, voku vian Dion! Eble via Dio rimarkos nin por ke ni ne pereu.”
+
+Ili ĉiuj diris unu al alia: “Venu! Ni lotu por ekscii kiu estas respondeca pri ĉi tiu malbono kontraŭ ni.” Ili lotis, kaj la loto falis sur Jonaho. Tiam ili demandis lin: “Diru al ni, bonvolu, pro kies kaŭzo ĉi tiu malbono estas kontraŭ ni? Kio estas via okupo? De kie vi venas? Kio estas via lando? El kiu popolo vi estas?”
+
+Li diris al ili: “Mi estas Hebreo, kaj mi timas Jahven, Dion de la ĉielo, kiu faris la maron kaj la sekteron.”
+
+Tiam la viroj ege timis kaj diris al li: “Kion vi faris?” Ĉar ili sciis ke li forkuras for de la ĉeesto de Jahve ĉar li rakontis tion al ili. Tiam ili diris al li: “Kion ni faru al vi por ke la maro trankviliĝu por ni?” Ĉar la maro fariĝis pli kaj pli ŝtorma.
+
+Li diris al ili: “Prenu min kaj ĵetu min en la maron. Tiam la maro trankviliĝos por vi; ĉar mi scias ke pro mi ĉi tiu granda ŝtormo estas kontraŭ vi.”
+--- input702
+Tamen la viroj remadis forte por revenigi la ŝipon al la tero; sed ili ne povis, ĉar la maro fariĝis pli kaj pli furioza kontraŭ ili. Tial ili kriis al Javeo, kaj diris: “Ni petegas vin, Javeo, ni petegas vin, ne lasu nin morti pro la vivo de ĉi tiu viro, kaj ne metu sur nin senkulpan sangon; ĉar vi, Javeo, faris kiel plaĉis al vi.” Ili do prenis Jonan kaj ĵetis lin en la maron; kaj la maro ĉesis sian furiozon. Tiam la viroj timis Javeon tre forte; kaj ili oferbuĉis al Javeo kaj faris promesojn.
+
+Javeo preparis grandan fiŝon por engluti Jonan, kaj Jona estis en la ventro de la fiŝo tri tagojn kaj tri noktojn.
+
+### Ĉapitro 2
+
+Tiam Jona preĝis al Javeo, sia Dio, el la ventro de la fiŝo. Li diris:
+
+“Mi vokis pro mia aflikto al Javeo.
+
+Li respondis min.
+
+El la ventro de Ŝeol mi kriis.
+
+Vi aŭdis mian voĉon.
+
+Ĉar vi ĵetis min en la profundojn,
+
+en la koron de la maroj.
+
+La inundo ĉirkaŭis min.
+
+Ĉiuj viaj ondoj kaj viaj ondetoj pasis super mi.
+
+Mi diris, ‘Mi estas forigita el via vido;
+
+tamen mi rigardos denove al via sankta templo.’
+
+La akvoj ĉirkaŭis min,
+
+eĉ ĝis mia animo.
+
+La profundo estis ĉirkaŭ mi.
+
+La algoj envolvis mian kapon.
+
+Mi malsupreniris ĝis la fundamentoj de la montoj.
+
+La tero baris min por ĉiam;
+
+tamen vi levis mian vivon el la abismo, Javeo mia Dio.
+
+“Kiam mia animo malfortiĝis en mi, mi rememoris Javeon.
+
+Mia preĝo venis al vi, en vian sanktan templon.
+
+Tiuj, kiuj rigardas vanajn idolojn, forlasas sian propran kompaton.
+
+Sed mi oferbuĉos al vi kun voĉo de dankemo.
+
+Mi plenumos tion, kion mi promesis.
+
+Savo apartenas al Javeo.”
+
+Tiam Javeo parolis al la fiŝo, kaj ĝi elĵetis Jonan sur la sekan teron.
+
+### Ĉapitro 3
+
+La vorto de Javeo venis al Jona duafoje, dirante: “Leviĝu, iru al Nineve, tiu granda urbo, kaj prediku al ĝi la mesaĝon, kiun mi donos al vi.”
+
+Do Jona leviĝis kaj iris al Nineve laŭ la vorto de Javeo. Nun Nineve estis tre granda urbo, tri tagojn da vojaĝo tra ĝi. Jona komencis eniri en la urbon unu tagon da vojaĝo, kaj li kriis, kaj diris: “Post kvardek tagoj Nineve estos renversita!”
+
+La popolo de Nineve kredis Dion; kaj ili proklamis faston kaj surmetis sakaĵojn, de la plej granda ĝis la plej malgranda. La novaĵo atingis la reĝon de Nineve, kaj li leviĝis de sia trono, demetis sian reĝan robon, kovris sin per sakaĵo, kaj sidis en cindroj. Li faris proklamon kaj publikigis tra Nineve laŭ la dekreto de la reĝo kaj liaj nobeloj, dirante: “Nek homo nek besto, nek bruto nek ŝafaro gustumu ion; ili ne manĝu nek trinku akvon; sed ili estu kovritaj per sakaĵoj, ambaŭ homo kaj besto, kaj ili forte kriadu al Dio. Jes, ĉiu turnu sin for de sia malbona vojo kaj de la perforto en siaj manoj. Kiu scias ĉu Dio ne turnos sin kaj pentos, kaj forigos Sian koleran indignon, por ke ni ne pereu?”
+
+Dio vidis iliajn agojn, ke ili turniĝis for de sia malbona vojo. Dio pentis pri la katastrofo, kiun Li diris ke Li faros al ili, kaj Li ne faris ĝin.
+
+### Ĉapitro 4
+
+Sed tio tre malkontentigis Jonan, kaj li koleris. Li preĝis al Javeo, kaj diris: “Bonvolu, Javeo, ĉu tio ne estis tio, kion mi diris kiam mi ankoraŭ estis en mia lando? Tial mi rapidis forkuri al Tarsiso, ĉar mi sciis ke vi estas kompatema Dio kaj favorkora, malrapida al kolero kaj abunda en amo plena de boneco, kaj vi pentas pri malbono. Tial nun, Javeo, prenu mi petas vin mian vivon for de mi, ĉar estas pli bone por mi morti ol vivi.”
+
+Javeo diris: “Ĉu estas ĝuste ke vi koleras?”
+
+Tiam Jona eliris el la urbo kaj sidiĝis sur la orienta flanko de la urbo. Tie li konstruis por si kabanon kaj sidiĝis sub ĝi en ombro ĝis li povus vidi kio okazos al la urbo. Javeo Dio preparis vinberplanton kaj igis ĝin kreski super Jonan por ke ĝi estu ombro super lia kapo por liberigi lin el lia malkomforto. Do Jona estis tre ĝoja pro la vinberplanto. Sed Dio preparis vermon ĉe tagiĝo de la sekva tago, kaj ĝi mordetis la vinberplanton tiel ke ĝi velkis. Kiam leviĝis la suno, Dio preparis bruligan orientan venton; kaj la suno batis sur la kapon de Jona tiel ke li svenis kaj petegis por si ke li povu morti. Li diris: “Estas pli bone por mi morti ol vivi.”
+--- input703
+Dio diris al Jona: “Ĉu estas ĝuste, ke vi koleras pri la kukurbo?”
+
+Li respondis: “Jes, mi prave koleras, eĉ ĝis morto.”
+
+Jahve diris: “Vi zorgis pri la kukurbo, pri kiu vi ne laboris, nek igis ĝin kreski; ĝi aperis en unu nokto kaj pereis en unu nokto. Ĉu Mi ne devus zorgi pri Nineve, tiu granda urbo, en kiu estas pli ol cent dudek mil homoj, kiuj ne povas distingi inter sia dekstra kaj maldekstra mano, kaj ankaŭ multaj bestoj?”
+
+## Miĥa
+
+La Libro de Miĥa
+
+### Ĉapitro 1
+
+La vorto de Jahve, kiu venis al Miĥa el Moreŝet en la tagoj de Jotam, Aĥaz, kaj Ĥizkija, reĝoj de Judujo, kiun li vidis pri Samario kaj Jerusalem.
+
+Aŭskultu, vi popoloj, ĉiuj el vi!
+
+Atentu, ho tero, kaj ĉio, kio estas sur ĝi.
+
+La Sinjoro Jahve estu atestanto kontraŭ vi,
+
+la Sinjoro el Sia sankta templo.
+
+Ĉar jen Jahve eliras el Sia loko,
+
+kaj malsupreniros kaj paŝos sur la altaj lokoj de la tero.
+
+La montoj fandiĝos sub Li,
+
+kaj la valoj disiĝos kiel vakso antaŭ fajro,
+
+kiel akvo verŝata laŭ kruta loko.
+
+“Ĉio ĉi estas pro la malobeo de Jakob,
+
+kaj pro la pekoj de la domo de Izrael.
+
+Kio estas la malobeo de Jakob?
+
+Ĉu ne Samario?
+
+Kaj kio estas la altaj lokoj de Judujo?
+
+Ĉu ne Jerusalem?
+
+Tial Mi faros Samarion kiel ruinaĵon en la kampo,
+
+kiel lokon por planti vinberĝardenojn;
+
+kaj Mi ĵetos ĝiajn ŝtonojn en la valon,
+
+kaj Mi malkovros ĝiajn fundamentojn.
+
+Ĉiuj ĝiaj idoloj estos frakasitaj,
+
+ĉiuj ĝiaj templodonacoj estos bruligitaj per fajro,
+
+kaj Mi detruos ĉiujn ĝiajn bildojn;
+
+ĉar per la salajro de prostituitino ĝi kolektis ilin,
+
+kaj al la salajro de prostituitino ili revenos.”
+
+Pro tio mi lamentos kaj ploros.
+
+Mi iros nudigita kaj sen vesto.
+
+Mi ĝemos kiel ŝakaloj
+
+kaj funebros kiel strutoj.
+
+Ĉar ĝiaj vundoj estas nekuraceblaj;
+
+ĝi atingis eĉ Judujon.
+
+Ĝi venis ĝis la pordego de mia popolo,
+
+eĉ ĝis Jerusalem.
+
+Ne rakontu tion en Gat.
+
+Ne ploru entute.
+
+En Bet-Ofra mi ruliĝis en la polvo.
+
+Pasigu, loĝanto de Ŝafir, en nudeco kaj honto.
+
+La loĝanto de Caanan ne eliros.
+
+La plorado de Bet-Ecel forprenos de vi ĝian protekton.
+
+Ĉar la loĝanto de Marot atendas bonon kun maltrankvilo,
+
+ĉar malbono venis malsupren de Jahve ĝis la pordego de Jerusalem.
+
+Jungu la ĉaron al la rapidaj ĉevaloj, loĝanto de Laĥiŝ.
+
+Ŝi estis la komenco de peko al la filino de Ciono;
+
+ĉar la krimoj de Izrael estis trovitaj en vi.
+
+Tial vi donos adiaŭdonacon al Moreŝet-Gat.
+
+La domoj de Aĥzib estos trompaĵo al la reĝoj de Izrael.
+
+Mi ankoraŭ alportos konkeranton al vi, loĝantoj de Mareŝa.
+
+La gloro de Izrael venos al Adulamo.
+
+Razigu viajn kapojn,
+
+kaj detranĉu viajn harojn pro viaj amataj infanoj.
+
+Pligrandigu vian kalvecon kiel vulturo,
+
+ĉar ili iris en kaptitecon for de vi!
+
+### Ĉapitro 2
+
+Ve al tiuj, kiuj elpensas malbonon
+
+kaj faras malbonon sur siaj litoj!
+
+Kiam mateniĝas, ili praktikas ĝin,
+
+ĉar ĝi estas en ilia povo.
+
+Ili avidiĝas je kampoj kaj kaptas ilin,
+
+kaj je domoj, poste forprenas ilin.
+
+Ili premas homon kaj lian domon,
+
+eĉ homon kaj lian heredaĵon.
+
+Tial Jahve diras:
+
+“Jen Mi planas kontraŭ ĉi tiuj homoj katastrofon,
+
+el kiu vi ne forigos viajn kolojn,
+
+nek vi iros fierece,
+
+ĉar ĝi estas malbona tempo.
+
+En tiu tago oni faros proverbon kontraŭ vi,
+
+kaj lamentos per malgaja lamentado, dirante:
+
+‘Ni estas tute ruinigitaj!
+
+La posedaĵo de mia popolo estas dividita.
+
+Efektive li forprenas ĝin de mi kaj asignas niajn kampojn al perfiduloj!’”
+
+Tial vi havos neniun, kiu dividos la teron per loto en la asembleo de Jahve.
+
+“Ne profetu!”—ili profetas—
+
+“Ne profetu pri ĉi tiuj aferoj.
+
+Honto ne atingos nin.”
+
+Ĉu oni diru, ho domo de Jakob:
+
+“Ĉu Jahve koleras?
+
+Ĉu ĉi tiuj estas Liaj agoj?
+
+Ĉu Miaj vortoj ne faras bonon al tiu, kiu iras senkulpe?”
+
+Sed lastatempe mia popolo leviĝis kiel malamiko.
+
+Vi ŝiras la mantelon kaj vestojn de tiuj, kiuj pasas senzorgaj, revenante el batalo.
+--- input704
+Vi forpelas la virinojn de mia popolo el iliaj agrablaj domoj;  
+de iliaj junaj infanoj vi forprenas mian benon por ĉiam.  
+
+Leviĝu, kaj foriru!  
+Ĉar ĉi tio ne estas via ripozejo,  
+pro malpureco, kiu detruas,  
+eĉ kun severa detruo.  
+
+Se homo iranta en spirito de malvero mensogas, dirante,  
+"Mi profetos al vi pri vino kaj forta trinkaĵo,"  
+li estus la profeto de ĉi tiu popolo.  
+
+Mi certe kunigos ĉiujn el vi, Jakob.  
+Mi certe kolektos la restaĵon de Izrael.  
+Mi kunigos ilin kiel la ŝafojn de Bozra,  
+kiel gregon en la mezo de ilia paŝtejo.  
+Ili svarmos per homoj.  
+
+Tiu, kiu rompas la vojon, iras antaŭ ili.  
+Ili rompas tra la pordego kaj eliras.  
+Ilia reĝo pasas antaŭ ili,  
+kun Jahve ĉe ilia kapo.  
+
+### Ĉapitro 3  
+
+Mi diris:  
+"Bonvolu aŭskulti, vi ĉefoj de Jakob,  
+kaj regantoj de la domo de Izrael:  
+Ĉu ne estas por vi scii justecon?  
+Vi, kiuj malamas la bonon,  
+kaj amas la malbonon;  
+kiuj ŝiras ilian haŭton,  
+kaj ilian karnon de iliaj ostoj;  
+kiuj ankaŭ manĝas la karnon de mia popolo,  
+kaj senŝeligas ilian haŭton de ili,  
+kaj rompas iliajn ostojn,  
+kaj hakas ilin en pecojn, kiel por la poto,  
+kaj kiel viandon en la kaldrono.  
+
+Tiam ili krios al Jahve,  
+sed Li ne respondos al ili.  
+Jes, Li kaŝos Sian vizaĝon de ili en tiu tempo,  
+ĉar ili faris siajn agojn malbonaj."  
+
+Jahve diras pri la profetoj, kiuj erarigas Mian popolon—por tiuj, kiuj nutras siajn dentojn, ili proklamas "Paco!" kaj por tiuj, kiuj ne provizas por iliaj buŝoj, ili preparas militon kontraŭ li:  
+
+"Tial nokto estos super vi, sen vizio,  
+kaj estos mallumo al vi, ke vi ne divenos;  
+kaj la suno subiros sur la profetoj,  
+kaj la tago estos nigra super ili.  
+
+La viziuloj estos seniluziigitaj,  
+kaj la divenistoj konfuzitaj.  
+Jes, ili ĉiuj kovros siajn lipojn,  
+ĉar ne estas respondo de Dio."  
+
+Sed koncerne min, mi estas plena de potenco per la Spirito de Jahve,  
+kaj de juĝo kaj forto,  
+por deklari al Jakob lian malobeon,  
+kaj al Izrael lian pekon.  
+
+Bonvolu aŭskulti ĉi tion, vi ĉefoj de la domo de Jakob,  
+kaj regantoj de la domo de Izrael,  
+kiuj abomenas justecon,  
+kaj tordas ĉiun rektecon;  
+kiuj konstruas Cionon per sango,  
+kaj Jerusalemon per maljusteco.  
+
+Ŝiaj gvidantoj juĝas kontraŭ subaĉetaĵoj,  
+kaj ŝiaj pastroj instruas kontraŭ pago,  
+kaj ŝiaj profetoj antaŭdiras kontraŭ mono;  
+tamen ili apogas sin sur Jahve kaj diras:  
+"Ĉu Jahve ne estas inter ni?  
+Neniu katastrofo venos sur nin."  
+
+Tial Ciono pro vi estos plugita kiel kampo,  
+kaj Jerusalemo fariĝos amasoj da rubo,  
+kaj la monto de la templo kiel la altaj lokoj de arbaro.  
+
+### Ĉapitro 4  
+
+Sed en la lastaj tagoj,  
+okazos ke la monto de la templo de Jahve estos starigita sur la supro de la montoj,  
+kaj ĝi estos altigita super la montetoj;  
+kaj popoloj fluos al ĝi.  
+
+Multaj nacioj iros kaj diros:  
+"Venu! Ni supreniru al la monto de Jahve,  
+kaj al la domo de la Dio de Jakob;  
+kaj Li instruos al ni Siajn vojojn,  
+kaj ni iros laŭ Liaj vojetoj."  
+
+Ĉar la leĝo eliros el Ciono,  
+kaj la vorto de Jahve el Jerusalemo;  
+kaj Li juĝos inter multaj popoloj,  
+kaj decidos pri fortaj nacioj malproksime.  
+
+Ili forĝos siajn glavojn en plugilojn,  
+kaj siajn lancojn en pritondilojn.  
+Nacio ne levos glavon kontraŭ nacio,  
+nek ili plu lernos militon.  
+
+Sed ĉiu homo sidos sub sia vinberujo kaj sub sia figarbo.  
+Neniu timigos ilin,  
+ĉar la buŝo de Jahve Cebaot parolis.  
+
+Efektive ĉiuj nacioj povas marŝi en la nomo de siaj dioj,  
+sed ni marŝos en la nomo de Jahve nia Dio eterne kaj eterne.  
+
+"En tiu tago," diras Jahve,  
+"Mi kunigos tion, kio estas lama,  
+kaj Mi kolektos tion, kio estas forpelita,  
+kaj tion, kion Mi afliktis;  
+kaj Mi faros tion, kio estis lama restaĵo,  
+kaj tion, kio estis forĵetita malproksime forta nacio:  
+
+kaj Jahve regos super ili sur Monto Ciono ekde tiam eĉ eterne."  
+
+Vi, turo de la grego, monteto de la filino de Ciono,  
+al vi ĝi venos. Jes, revenos la antaŭa regado...
+--- input705
+la regno de la filino de Jerusalemo.
+
+Kial vi nun krias laŭte?
+
+Ĉu ne estas reĝo en vi?
+
+Ĉu via konsilisto pereis,
+
+ke doloroj kaptis vin kiel virinon en akuŝo?
+
+Suferu kaj laboru por naski, filino de Ciono,
+
+kiel virino en akuŝo;
+
+ĉar nun vi eliros el la urbo,
+
+kaj loĝos sur la kampo,
+
+kaj venos eĉ ĝis Babel.
+
+Tie vi estos savita.
+
+Tie Jahve elaĉetos vin el la mano de viaj malamikoj.
+
+Nun multaj nacioj kunvenis kontraŭ vi, dirante,
+
+"Ŝi estu malpurigita,
+
+kaj nia okulo ĝuu super Ciono."
+
+Sed ili ne konas la pensojn de Jahve,
+
+nek komprenas Lian konsilon;
+
+ĉar Li kolektis ilin kiel garboj al la draŝejo.
+
+Leviĝu kaj draŝu, filino de Ciono,
+
+ĉar Mi faros vian korno feron,
+
+kaj Mi faros viajn hufojn bronzon.
+
+Vi disbatos multajn popolojn.
+
+Mi dediĉos ilian akiron al Jahve,
+
+kaj ilian havaĵon al la Sinjoro de la tuta tero.
+
+### Ĉapitro 5
+
+Nun vi kolektiĝos en taĉmentoj,
+
+filino de taĉmentoj.
+
+Li sieĝis nin.
+
+Ili frapos la juĝiston de Izrael per bastono sur la vango.
+
+Sed vi, Bet-Leĥem-Efrata,
+
+malgranda inter la klanoj de Jehuda,
+
+el vi venos al Mi tiu, kiu estos reganto en Izrael;
+
+lia deveno estas de antikveco, de eternaj tempoj.
+
+Tial Li forlasos ilin ĝis la tempo, kiam ŝi, kiu estas en akuŝo, naskos.
+
+Tiam la resto de Liaj fratoj revenos al la infanoj de Izrael.
+
+Li staros kaj paŝtos en la forto de Jahve,
+
+en la majesto de la nomo de Jahve, Lia Dio.
+
+Ili vivos, ĉar tiam Li estos granda ĝis la finoj de la tero.
+
+Li estos nia paco kiam Asirio invados nian landon
+
+kaj kiam li marŝos tra niaj fortikaĵoj,
+
+tiam ni levos kontraŭ lin sep paŝtistojn,
+
+kaj ok gvidantojn de homoj.
+
+Ili regos la landon de Asirio per glavo,
+
+kaj la landon de Nimrod ĉe ĝiaj pordegoj.
+
+Li liberigos nin de la Asiriano,
+
+kiam li invados nian landon,
+
+kaj kiam li marŝos ene de nia limo.
+
+La restaĵo de Jakob estos inter multaj popoloj
+
+kiel roso de Jahve,
+
+kiel pluvetoj sur la herbo,
+
+kiuj ne atendas homon
+
+nek atendas la filojn de homoj.
+
+La restaĵo de Jakob estos inter la nacioj,
+
+inter multaj popoloj,
+
+kiel leono inter la bestoj de la arbaro,
+
+kiel juna leono inter la gregoj de ŝafoj;
+
+kiu, se li trairas, piedpremas kaj disŝiras,
+
+kaj neniu povas savi.
+
+Leviĝu via mano super viaj kontraŭuloj,
+
+kaj ĉiuj viaj malamikoj estu ekstermitaj.
+
+"Okazos en tiu tago," diras Jahve,
+
+"ke Mi fortranĉos viajn ĉevalojn el inter vi
+
+kaj detruos viajn ĉarojn.
+
+Mi fortranĉos la urbojn de via lando
+
+kaj disfaligos ĉiujn viajn fortikaĵojn.
+
+Mi detruos sorĉadon el via mano.
+
+Vi ne havos plu aŭguristojn.
+
+Mi fortranĉos viajn gravuritajn bildojn kaj viajn kolonojn el inter vi;
+
+kaj vi ne plu adoros la verkojn de viaj manoj.
+
+Mi elradikigos viajn Aŝera-stangojn el inter vi;
+
+kaj Mi detruos viajn urbojn.
+
+Mi plenumos venĝon en kolero
+
+kaj furiozo kontraŭ la nacioj, kiuj ne aŭskultis."
+
+### Ĉapitro 6
+
+Aŭskultu nun tion, kion diras Jahve:
+
+"Leviĝu, pledu vian aferon antaŭ la montoj,
+
+kaj lasu la montetojn aŭdi tion, kion vi devas diri.
+
+Aŭskultu, montoj, la akuzon de Jahve,
+
+kaj vi, daŭraj fundamentoj de la tero;
+
+ĉar Jahve havas aferon kontraŭ Sia popolo,
+
+kaj Li disputos kun Izrael.
+
+Mia popolo, kion Mi faris al vi?
+
+Kiel Mi ŝarĝis vin?
+
+Respondu al Mi!
+
+Ĉar Mi elkondukis vin el la lando Egipta,
+
+kaj elaĉetis vin el la domo de sklaveco.
+
+Mi sendis antaŭ vi Moseon, Aaronon kaj Mirjamon.
+
+Mia popolo, memoru nun, kion Balak, reĝo de Moab, intencis fari,
+
+kaj kion respondis al li Bileam, filo de Beor, de Ŝitim ĝis Gilgal,
+
+por ke vi sciu la justajn agojn de Jahve."
+
+Kiel mi venu antaŭ Jahve,
+
+kaj kliniĝu antaŭ la altigita Dio?
+
+Ĉu mi venu antaŭ Li kun bruloferoj,
+
+kun bovidoj unujaraj?
+
+Ĉu Jahve kontentiĝos per miloj da ŝafoj?
+
+Per dek miloj da riveroj da oleo?
+--- input706
+Ĉu mi donu mian unuenaskiton pro mia malobeo?
+
+La frukton de mia korpo pro la peko de mia animo?
+
+Li montris al vi, ho homo, kio estas bona.
+
+Kion postulas Jahve de vi, krom agi juste,
+
+ami kompaton, kaj humile marŝi kun via Dio?
+
+La voĉo de Jahve vokas al la urbo—
+
+kaj saĝo timas vian nomon—
+
+“Aŭskultu la bastonon,
+
+kaj tiun, kiu ĝin destinis.
+
+Ĉu ankoraŭ ekzistas trezoroj de malpieco en la domo de la malvirtulo,
+
+kaj mallonga efa, kiu estas malbenita?
+
+Ĉu mi toleru malhonestajn pesilojn,
+
+kaj sakon da trompaj peziloj?
+
+Ŝiaj riĉuloj estas plenaj de perforto,
+
+ŝiaj loĝantoj parolas mensogojn,
+
+kaj ilia lango estas trompa en sia parolo.
+
+Tial mi ankaŭ frapis vin per grava vundo.
+
+Mi faris vin dezerta pro viaj pekoj.
+
+Vi manĝos, sed ne satiĝos.
+
+Via malsato restos en vi.
+
+Vi amasiĝos, sed ne savos,
+
+kaj tion, kion vi savos, mi transdonos al la glavo.
+
+Vi semos, sed ne rikoltos.
+
+Vi premos olivojn, sed ne ŝmiros vin per oleo;
+
+kaj dispremos vinberojn, sed ne trinkos la vinon.
+
+Ĉar oni observas la statutojn de Omri,
+
+kaj ĉiujn farojn de la domo de Aĥab.
+
+Vi sekvas iliajn konsilojn,
+
+por ke mi faru vin ruino,
+
+kaj viaj loĝantoj fajfo.
+
+Vi portos la riproĉon de mia popolo.”
+
+### Ĉapitro 7
+
+Ve al mi!
+
+Efektive, mi estas kiel tiu, kiu kolektas somerajn fruktojn, kiel restaĵojn de la vinberejo.
+
+Ne estas vinberaro por manĝi.
+
+Mia animo deziras manĝi la fruan figon.
+
+La pia homo pereis el la tero,
+
+kaj ne ekzistas iu justa inter homoj.
+
+Ĉiuj embuskas por sango;
+
+ĉiu homo ĉasas sian fraton per reto.
+
+Iliaj manoj estas sur tio, kio estas malbona, por fari ĝin diligente.
+
+La reganto kaj juĝisto petas subaĉeton.
+
+La potenca homo diktas la malbonan deziron de sia animo.
+
+Tiel ili konspiras kune.
+
+La plej bona el ili estas kiel dorno.
+
+La plej justa estas pli malbona ol dornbarilo.
+
+La tago de viaj gardistoj,
+
+eĉ via vizito, venis;
+
+nun estas la tempo de ilia konfuzo.
+
+Ne fidu najbaron.
+
+Ne fidu amikon.
+
+Kun la virino kuŝanta en via brakumo,
+
+estu singarda pri la vortoj de via buŝo!
+
+Ĉar la filo malhonoras sian patron,
+
+la filino leviĝas kontraŭ sian patrinon,
+
+la bofilino kontraŭ sian bopatrinon;
+
+la malamikoj de homo estas la homoj de lia propra domo.
+
+Sed mi rigardos al Jahve.
+
+Mi atendos la Dion de mia savo.
+
+Mia Dio aŭskultos min.
+
+Ne ĝoju kontraŭ mi, mia malamiko.
+
+Kiam mi falos, mi leviĝos.
+
+Kiam mi sidos en mallumo, Jahve estos lumo por mi.
+
+Mi portos la indignon de Jahve,
+
+ĉar mi pekis kontraŭ li,
+
+ĝis li pledos mian kazon kaj ekzekutos juĝon por mi.
+
+Li elkondukos min al la lumo.
+
+Mi vidos lian justecon.
+
+Tiam mia malamiko vidos ĝin,
+
+kaj honto kovros ŝin, kiu diris al mi,
+
+“Kie estas Jahve via Dio?”
+
+Miaj okuloj vidos ŝin.
+
+Nun ŝi estos piedpremita kiel koto de la stratoj.
+
+Tago por konstrui viajn murojn!
+
+En tiu tago li etendos vian limon.
+
+En tiu tago ili venos al vi el Asirio kaj el la urboj de Egiptujo,
+
+kaj el Egiptujo eĉ ĝis la Rivero,
+
+kaj de maro ĝis maro,
+
+kaj monto ĝis monto.
+
+Tamen la lando estos dezerta pro tiuj, kiuj loĝas tie,
+
+pro la frukto de iliaj agoj.
+
+Paŝtu vian popolon per via bastono,
+
+la gregon de via heredaĵo,
+
+kiuj loĝas solaj en arbaro.
+
+Lasu ilin paŝtiĝi meze de fekunda paŝtejo,
+
+en Baŝano kaj Gileado, kiel en la tagoj de antikveco.
+
+“Kiel en la tagoj de via eliro el la lando Egiptujo,
+
+mi montros al ili mirindajn aferojn.”
+
+La nacioj vidos kaj hontos pro sia tuta potenco.
+
+Ili metos sian manon sur sian buŝon.
+
+Iliaj oreloj estos surdaj.
+
+Ili lekos la polvon kiel serpento.
+
+Kiel rampaj estaĵoj de la tero, ili venos tremante el siaj kavernoj.
+
+Ili venos kun timo al Jahve nia Dio,
+
+kaj timos pro vi.
+
+Kiu estas Dio kiel vi, kiu pardonas maljustaĵon,
+
+kaj preterpasas la malobeon de la restaĵo de sia heredaĵo?
+
+Li ne retenas sian koleron eterne,
+
+ĉar li ĝojas pri bonkoreco.
+--- input707
+Li denove kompatos nin.
+
+Li piedpremos niajn malbonagojn.
+
+Vi ĵetos ĉiujn iliajn pekojn en la profundojn de la maro.
+
+Vi donos veron al Jakob,
+
+kaj kompaton al Abraham,
+
+kiel vi ĵuris al niaj patroj de la antikvaj tagoj.
+
+## Naĥum
+
+La Libro de Naĥum
+
+### Ĉapitro 1
+
+Revelacio pri Nineve. La libro de la vizio de Naĥum, la Elkoŝano. Javeo estas ĵaluza Dio kaj venĝema. Javeo venĝas kaj estas plena de kolero. Javeo prenas venĝon kontraŭ siaj malamikoj, kaj li konservas koleron kontraŭ siaj kontraŭuloj. Javeo estas malrapida al kolero kaj granda en potenco, kaj li neniel lasos la kulpulojn nepunitaj. Javeo havas sian vojon en la ventego kaj en la ŝtormo, kaj la nuboj estas la polvo de liaj piedoj. Li riproĉas la maron kaj sekigas ĝin, kaj sekigas ĉiujn riverojn. Baŝan kaj Karmel velkas. La floro de Libano velkas. La montoj tremas antaŭ li, kaj la montetoj fandiĝas. La tero tremas ĉe lia ĉeesto, jes, la mondo kaj ĉiuj, kiuj loĝas en ĝi. Kiu povas stari antaŭ lia indigno? Kiu povas elteni la furiozon de lia kolero? Lia kolero estas verŝita kiel fajro, kaj la rokoj estas disrompitaj de li. Javeo estas bona, fortikaĵo en la tago de mizero; kaj li konas tiujn, kiuj rifuĝas al li. Sed per superflua inundo li faros finon de ŝia loko, kaj persekutos siajn malamikojn en mallumon. Kion vi planas kontraŭ Javeo? Li faros finon. Mizero ne leviĝos duan fojon. Ĉar implikitaj kiel dornoj, kaj ebriaj kiel per sia trinkaĵo, ili estas tute konsumitaj kiel seka pajlero. El vi eliris tiu, kiu planas malbonon kontraŭ Javeo, kiu konsilas malbonecon.
+
+Javeo diras: “Kvankam ili estas en plena forto kaj ankaŭ multaj, tamen ili estos detranĉitaj kaj forpasos. Kvankam mi afliktis vin, mi ne plu afliktos vin. Nun mi rompos lian jugon de sur vi, kaj disŝiros viajn katenojn.”
+
+Javeo ordonis pri vi: “Neniuj posteuloj plu portos vian nomon. El la domo de viaj dioj mi fortranĉos la gravuritan bildon kaj la fanditan bildon. Mi faros vian tombon, ĉar vi estas malnobla.”
+
+Jen sur la montoj la piedoj de tiu, kiu alportas bonajn novaĵojn, kiu anoncas pacon! Gardu viajn festojn, Judujo! Plenumu viajn promesojn, ĉar la malvirtulo ne plu pasos tra vi. Li estas tute detranĉita.
+
+### Ĉapitro 2
+
+Tiu, kiu dispecigas, venis kontraŭ vin. Gardu la fortikaĵon! Observu la vojon! Fortigu vian zonon! Fortigu vian potencon forte!
+
+Ĉar Javeo restarigas la eminentecon de Jakob kiel la eminentecon de Izrael, ĉar la detruantoj detruis ilin kaj ruinigis iliajn vinbranĉojn.
+
+La ŝildo de liaj potencaj viroj estas ruĝigita. La kuraĝaj viroj estas en skarlato. La ĉaroj brilas per ŝtalo en la tago de lia preparo, kaj la pinaraj lancoj estas svingitaj. La ĉaroj furiozas sur la stratoj. Ili kuras tien kaj reen sur larĝaj vojoj. Ilia aspekto estas kiel torĉoj. Ili kuras kiel fulmoj. Li vokas siajn elektitajn trupojn. Ili faletas sur sia vojo. Ili rapidas al ĝia muro, kaj la protekta ŝildo estas metita en loko. La pordegoj de la riveroj estas malfermitaj, kaj la palaco dissolviĝas. Estas dekretite: ŝi estas malkovrita, ŝi estas forportita; kaj ŝiaj servistoj ĝemas kun la voĉo de kolomboj, batante siajn brustojn. Sed Nineve estis de antikve kiel akvobaseno, tamen ili forkuras. “Haltu! Haltu!” ili krias, sed neniu rigardas reen. Prenu la rabaĵon de arĝento. Prenu la rabaĵon de oro, ĉar ne ekzistas fino al trezoro, abundo de ĉiu valoraĵo. Ŝi estas malplena, vaka kaj dezerta. La koro degelas, la genuoj kunfrapiĝas, iliaj korpoj kaj vizaĝoj paliĝis. Kie estas la kaverno de la leonoj kaj la manĝejo de la junaj leonoj, kie la leono kaj la leonino marŝis kun la leonidoj, kaj neniu timigis ilin? La leono disŝiris sufiĉe por siaj idoj, kaj strangolis predon por siaj leoninoj, kaj plenigis siajn kavernojn per kaptitaĵo kaj siajn nestojn per predo. “Jen mi estas kontraŭ vi,” diras Javeo Cebaot, “kaj mi bruligos ŝiajn ĉarojn en fumo, kaj la glavo formanĝos viajn junajn leonojn; kaj mi fortranĉos vian predon el la tero, kaj la voĉo de viaj senditoj ne plu estos aŭdita.”
+--- input708
+### Ĉapitro 3
+
+Ve al la sangoverŝa urbo! Ĝi estas plena de mensogoj kaj rabado—neniu fino al la predo. La bruo de la vipo, la bruo de la ruliĝantaj radoj, saltantaj ĉevaloj, kaj saltantaj ĉaroj, la rajdanto atakanta, kaj la fulmanta glavo, la brilanta lanco, kaj amaso da mortigitoj, kaj granda monteto da kadavroj, kaj ne estas fino al la korpoj. Ili falpuŝiĝas sur siaj korpoj pro la multo de la prostituado de la alloga prostituitino, la mastrino de sorĉado, kiu vendas naciojn per sia prostituado, kaj familiojn per sia sorĉado. “Jen, Mi estas kontraŭ vi,” diras Jahveo Cebaot, “kaj Mi levos viajn jupojn super vian vizaĝon. Mi montros al la nacioj vian nudecon, kaj al la regnoj vian honton. Mi ĵetos abomenindan malpuraĵon sur vin kaj faros vin malnobla, kaj faros vin spektaklo. Okazos, ke ĉiuj, kiuj rigardos vin, forkuros de vi, kaj diros: ‘Nineve estas detruita! Kiu funebros pro ŝi?’ Kie mi serĉos konsolantojn por vi?”
+
+Ĉu vi estas pli bona ol No-Amon, kiu estis situanta inter la riveroj, kiu havis la akvojn ĉirkaŭ ŝi, kies remparo estis la maro, kaj ŝia muro estis el la maro? Kuŝ kaj Egiptujo estis ŝia senlima forto. Put kaj Libio estis ŝiaj helpantoj. Tamen ŝi estis forportita. Ŝi iris en kaptitecon. Ankaŭ ŝiaj junaj infanoj estis disbatitaj ĉe la kapo de ĉiuj stratoj, kaj oni lotis por ŝiaj honorindaj viroj, kaj ĉiuj ŝiaj grandaj viroj estis katenitaj. Ankaŭ vi ebriecos. Vi estos kaŝita. Ankaŭ vi serĉos fortikejon pro la malamiko. Ĉiuj viaj fortikaĵoj estos kiel figarboj kun la unua-maturaj figoj. Se oni skuos ilin, ili falos en la buŝon de la manĝanto. Jen, viaj soldatoj inter vi estas virinoj. La pordegoj de via lando estas larĝe malfermitaj al viaj malamikoj. La fajro formanĝis viajn riglilojn.
+
+Prenu akvon por la sieĝo. Fortigu viajn fortikaĵojn. Iru en la argilon, kaj batu la argilaĵon. Faru la brikfornon forta. Tie la fajro formanĝos vin. La glavo fortranĉos vin. Ĝi formanĝos vin kiel akrido. Multobliĝu kiel akridoj. Multobliĝu kiel lokustoj. Vi plimultigis viajn komercistojn pli ol la steloj de la ĉielo. La akrido nudigas kaj forkuras. Viaj gardistoj estas kiel lokustoj, kaj viaj oficistoj kiel svarmoj de lokustoj, kiuj sidiĝas sur la muroj en malvarma tago, sed kiam aperas la suno, ili forkuras, kaj ilia loko ne estas konata kie ili estas.
+
+Viaj paŝtistoj dormas, reĝo de Asirio. Viaj nobeloj kuŝas malsupren. Viaj popoloj estas disigitaj sur la montoj, kaj neniu kolektas ilin. Ne ekzistas resanigo por via vundo, ĉar via vundo estas mortiga. Ĉiuj, kiuj aŭdas la raporton pri vi, aplaŭdas super vi, ĉar kiu ne sentis vian senfinan kruelon?
+
+## Ĥabakuko
+
+La Libro de Ĥabakuko
+
+### Ĉapitro 1
+
+La revelacio kiun vidis Ĥabakuko, la profeto. Jahveo, kiom longe mi krios, kaj vi ne aŭskultos? Mi krias al vi “Perforto!” kaj ĉu vi ne savos? Kial vi montras al mi maljustecon, kaj rigardas perverson? Ĉar detruo kaj perforto estas antaŭ mi. Estas disputo, kaj konflikto leviĝas. Tial la leĝo estas paralizita, kaj justeco neniam triumfas; ĉar la malvirtuloj ĉirkaŭas la virtulojn; tial justeco eliras pervertita.
+
+“Rigardu inter la nacioj, observu, kaj miru mirinde; ĉar Mi laboras laboron en viaj tagoj kiun vi ne kredos kvankam ĝi estos rakontita al vi. Ĉar jen Mi levas la Ĥaldeojn, tiun amarajn kaj rapidajn nacion kiuj marŝas tra la larĝo de la tero, por posedi loĝlokojn kiuj ne apartenas al ili. Ili estas timataj kaj teruraj. Ilia juĝo kaj ilia digno devenas de ili mem. Ankaŭ iliaj ĉevaloj estas pli rapidaj ol leopardoj, kaj pli furiozaj ol vesperaj lupoj. Iliaj rajdantoj premas fiere antaŭen. Jes, iliaj rajdantoj venas de malproksime. Ili flugas kiel aglo kiu rapidas por formanĝi. Ĉiuj ili venas por perforto. Iliaj hordoj frontas antaŭen. Ili kolektas kaptitojn kiel sablo. Jes, ili mokas ĉe reĝoj, kaj princoj estas mokataj de ili. Ili ridas pri ĉiu fortikaĵo, ĉar ili konstruas teran remparon kaj prenas ĝin. Poste ili balaiĝas kiel vento kaj daŭrigas. Ili ja estas kulpaj, kies forto estas ilia dio.”
+--- input709
+Ĉu vi ne estas eterna, Javeo, mia Dio, mia Sanktulo? Ni ne mortos. Javeo, vi destinis ilin por juĝo. Vi, Roko, starigis lin por puni. Vi, kiu havas pli purajn okulojn ol por vidi malbonon kaj kiu ne povas rigardi perverson, kial vi toleras tiujn, kiuj agas perfide kaj silentas, kiam la malvirtulo englutas la viron pli virtan ol li mem, kaj faras homojn kiel la fiŝoj de la maro, kiel la rampuloj, kiuj ne havas reganton super ili? Li kaptas ĉiujn per hoko. Li kaptas ilin en sia reto kaj kolektas ilin en sia trenreto. Tial li ĝojas kaj estas feliĉa. Tial li oferas al sia reto kaj bruligas incenson al sia trenreto, ĉar per ili lia vivo estas luksa kaj lia manĝaĵo bona. Ĉu li do senĉese malplenigos sian reton kaj mortigos la naciojn sen kompato?
+
+### Ĉapitro 2
+
+Mi staros ĉe mia gardoposteno kaj starigos min sur la remparoj, kaj mi rigardos por vidi, kion Li diros al mi, kaj kion mi respondos pri mia plendo.
+
+Javeo respondis al mi: “Skribu la vizion kaj faru ĝin klara sur tabuloj, por ke tiu, kiu kuras, povu legi ĝin. Ĉar la vizio estas ankoraŭ por la difinita tempo, kaj ĝi rapidas al la fino kaj ne montriĝos falsa. Kvankam ĝi daŭras, atendu ĝin, ĉar ĝi certe venos. Ĝi ne prokrastos. Jen, lia animo estas ŝvelinta. Ĝi ne estas rekta en li, sed la virtulo vivos per sia fido. Jes, krome, vino estas perfida: aroganta homo, kiu ne restas hejme, kiu pligrandigas sian deziron kiel Ŝeol; li estas kiel morto kaj ne povas esti kontentigita, sed kolektas al si ĉiujn naciojn kaj amasigas al si ĉiujn popolojn.
+
+Ĉu ĉiuj ĉi tiuj ne ekprenos parabolon kontraŭ li kaj mokan proverbon kontraŭ li, dirante: ‘Ve al tiu, kiu pligrandigas tion, kio ne apartenas al li, kaj kiu riĉiĝas per eldevigo! Kiom longe?’ Ĉu viaj kreditoroj ne subite leviĝos kaj vekos tiujn, kiuj igas vin tremi, kaj vi fariĝos ilia viktimo? Ĉar vi rabprenis multajn naciojn, ĉiuj restaĵoj de la popoloj rabprenos vin pro homa sango kaj pro la perforto farita al la lando, al la urbo kaj al ĉiuj loĝantoj en ĝi.
+
+Ve al tiu, kiu akiras malbonan profiton por sia domo, por ke li starigu sian neston alte, por ke li estu liberigita el la mano de malbono! Vi elpensis honton por via domo per ekstermado de multaj popoloj kaj pekis kontraŭ via animo. Ĉar la ŝtono ekkrios el la muro, kaj la trabo el la lignokadro respondos ĝin.
+
+Ve al tiu, kiu konstruas urbon per sango kaj starigas urbon per maljusteco! Jen, ĉu tio ne estas de Javeo de Armeoj, ke la popoloj laboras por la fajro kaj la nacioj lacigas sin por vanteco? Ĉar la tero estos plena de la scio pri la gloro de Javeo, kiel la akvoj kovras la maron.
+
+“Ve al tiu, kiu donas al sia proksimulo trinkaĵon, verŝante vian flamigan vinon ĝis ili ebriecas, por ke vi rigardu iliajn nudajn korpojn! Vi estas plena de honto kaj ne de gloro. Vi ankaŭ trinkos kaj estos malkovrita! La pokalo de Javeo en Lia dekstra mano venos al vi, kaj malhonoro kovros vian gloron. Ĉar la perforto farita al Libano superfortos vin, kaj la detruo de la bestoj timigos vin pro homa sango kaj pro la perforto farita al la lando, al ĉiu urbo kaj al tiuj, kiuj loĝas en ili.
+
+“Kian valoron havas la gravurita bildo, kiun ĝia kreinto gravuris; la fandita bildo, eĉ instruisto de mensogoj, ke tiu, kiu formas ĝian formon, fidas ĝin por fari mutajn idolojn? Ve al tiu, kiu diras al ligno: ‘Vekiĝu!’ aŭ al muta ŝtono: ‘Leviĝu!’ Ĉu tio instruos? Jen ĝi estas kovrita per oro kaj arĝento, sed tute ne estas spiro en ĝi. Sed Javeo estas en Sia sankta templo. Silentu antaŭ Li ĉiu tero!”
+
+### Ĉapitro 3
+
+Preĝo de Ĥabakuk, la profeto, metita al venka muziko.
+
+Javeo, mi aŭdis pri Via famo.
+
+Mi staras en miro antaŭ Viaj faroj, Javeo.
+
+Renovigu Vian laboron meze de la jaroj.
+
+Meze de la jaroj igu ĝin konata.
+
+En kolero memoru kompaton.
+
+Dio venis el Temano,
+
+la Sanktulo el Monto Paran.
+
+Selah.
+
+Lia gloro kovris la ĉielojn.
+--- input710
+kaj lia laŭdo plenigis la teron.
+
+Lia brilo estas kiel la sunleviĝo.
+
+Radioj brilas el lia mano, kie lia potenco estas kaŝita.
+
+Pesto iris antaŭ li,
+
+kaj malsano sekvis liajn piedojn.
+
+Li staris, kaj skuis la teron.
+
+Li rigardis, kaj la nacioj tremis.
+
+La antikvaj montoj disfalis.
+
+La eternaj montetoj kolapsis.
+
+Liaj vojoj estas eternaj.
+
+Mi vidis la tendojn de Kuŝan en sufero.
+
+La loĝejoj de la lando Midjan tremis.
+
+Ĉu Jahve estis malkontenta kontraŭ la riveroj?
+
+Ĉu via kolero estis kontraŭ la riveroj,
+
+aŭ via furiozo kontraŭ la maro,
+
+ke vi rajdis sur viaj ĉevaloj,
+
+sur viaj ĉaroj de savo?
+
+Vi malkovris vian arkon.
+
+Vi vokis viajn ĵurajn sagojn.
+
+Selah.
+
+Vi fendigis la teron per riveroj.
+
+La montoj vidis vin, kaj timis.
+
+La ŝtormo de akvoj pasis preter.
+
+La profundo muĝis kaj levis siajn manojn alten.
+
+La suno kaj luno haltis en la ĉielo
+
+ĉe la lumo de viaj sagoj dum ili iris,
+
+ĉe la brilo de via brilanta lanco.
+
+Vi marŝis tra la lando en kolero.
+
+Vi draŝis la naciojn en furiozo.
+
+Vi eliris por la savo de via popolo,
+
+por la savo de via sanktoleito.
+
+Vi frakasis la kapon de la lando de malboneco.
+
+Vi nudigis ilin de kapo ĝis piedo.
+
+Selah.
+
+Vi trapikis la kapojn de liaj militistoj per iliaj propraj lancoj.
+
+Ili venis kiel ventego por disigi min,
+
+ĝojante kvazaŭ por formanĝi la mizeraĵon sekrete.
+
+Vi piedpremis la maron per viaj ĉevaloj,
+
+kirligante potencajn akvojn.
+
+Mi aŭdis, kaj mia korpo tremis.
+
+Miaj lipoj tremetis ĉe la voĉo.
+
+Putreco eniris en miajn ostojn, kaj mi tremas en mia loko
+
+ĉar mi devas atendi trankvile la tagon de mizero,
+
+por la supreniro de la popolo kiu invadas nin.
+
+Ĉar eĉ se la figarbo ne floras,
+
+nek frukto estas en la vinberarboj,
+
+la laboro de la olivarbo malsukcesas,
+
+la kampoj ne donas manĝaĵon,
+
+la gregoj estas fortranĉitaj el la ŝafejo,
+
+kaj ne estas brutoj en la stalo,
+
+tamen mi ĝojos en Jahve.
+
+Mi ĝojos en Dio de mia savo!
+
+Jahve, la Sinjoro, estas mia forto.
+
+Li faras miajn piedojn kiel cervopiedoj,
+
+kaj ebligas min iri sur altaj lokoj.
+
+Por la muzikdirektoro, sur miaj kordaj instrumentoj.
+
+## Cefanja
+
+La Libro de Cefanja
+
+### Ĉapitro 1
+
+La vorto de Jahve, kiu venis al Cefanja, filo de Kuŝi, filo de Gedalja, filo de Amarja, filo de Ĥizkija, en la tagoj de Joŝija, filo de Amon, reĝo de Judujo.
+
+Mi tute forviŝos ĉion de sur la surfaco de la tero, diras Jahve. Mi forviŝos homon kaj beston. Mi forviŝos birdojn de la ĉielo, fiŝojn de la maro, kaj amasojn da rubo kun la malvirtuloj. Mi fortranĉos homon de sur la surfaco de la tero, diras Jahve. Mi etendos mian manon kontraŭ Judujon kaj kontraŭ ĉiuj loĝantoj de Jerusalemo. Mi fortranĉos la restaĵon de Baal el ĉi tiu loko—la nomon de idolaj kaj paganaj pastroj, tiujn kiuj adoras la armeon de la ĉielo sur tegmentoj, tiujn kiuj adoras kaj ĵuras per Jahve kaj ankaŭ ĵuras per Milkom, tiujn kiuj turniĝis for de sekvado al Jahve, kaj tiujn kiuj ne serĉis Jahve nek demandis pri li.
+
+Silentu ĉe la ĉeesto de la Sinjoro Jahve, ĉar la tago de Jahve estas proksima. Ĉar Jahve preparis oferon. Li konsekretis siajn gastojn. Okazos en la tago de la ofero de Jahve ke mi punos princojn, filojn de reĝo, kaj ĉiujn kiuj portas fremdan veston. En tiu tago, mi punos ĉiujn kiuj saltas super sojlo, kiuj plenigas sian mastran domon per perforto kaj trompo.
+
+En tiu tago, diras Jahve, estos bruo de krio el la fiŝpordego, ĝemado el la dua kvartalo, kaj granda kraŝado el montetoj. Ploru, vi loĝantoj de Makteŝ, ĉar ĉiuj homoj de Kanaano estas pereigitaj! Ĉiuj kiuj estis ŝarĝitaj per arĝento estas fortranĉitaj. Okazos tiam ke mi serĉos Jerusalemon per lampoj, kaj mi punos homojn kiuj ripozas sur siaj feĉoj, kiuj diras en sia koro: “Jahve ne faros bonon, nek faros malbonon.” Ilia riĉeco fariĝos rabaĵo, kaj iliaj domoj ruiniĝo. Jes, ili konstruos domojn, sed ne loĝos en ili. Ili plantos vinberĝardenojn, sed ne trinkos ilian vinon.
+--- input711
+La granda tago de Javeo estas proksima. Ĝi estas proksima kaj rapide alvenas, la voĉo de la tago de Javeo. La potenca viro tie amare krias. Tiu tago estas tago de kolero, tago de mizero kaj angoro, tago de maltrankvilo kaj ruiniĝo, tago de mallumo kaj obskuro, tago de nuboj kaj mallumeco, tago de trumpeto kaj alarmo kontraŭ la fortikigitaj urboj kaj kontraŭ la altaj remparoj. Mi alportos tian suferon sur homojn, ke ili iros kiel blinduloj, ĉar ili pekis kontraŭ Javeo. Ilia sango estos verŝita kiel polvo, kaj ilia karno kiel sterko. Nek ilia arĝento nek ilia oro povos savi ilin en la tago de la kolero de Javeo, sed la tuta lando estos konsumita per la fajro de Lia ĵaluzo; ĉar Li faros finon, jes, teruran finon, al ĉiuj loĝantoj de la lando.
+
+### Ĉapitro 2
+
+Kolektiĝu, jes, kolektiĝu, vi nacio sen honto, antaŭ la difinita tempo kiam la tago pasas kiel pajlero, antaŭ ol la furioza kolero de Javeo venos sur vin, antaŭ ol la tago de la kolero de Javeo venos sur vin. Serĉu Javeon, ĉiuj humiluloj de la lando, kiuj observis Liajn ordonojn. Serĉu justecon. Serĉu humilecon. Eble vi estos kaŝitaj en la tago de la kolero de Javeo. Ĉar Gaza estos forlasita, kaj Aŝkelon fariĝos dezerto. Ili forpelos Aŝdonon tagmeze, kaj Ekron estos elradikigita. Ve al la loĝantoj de la marbordo, la nacio de la Keretidoj! La vorto de Javeo estas kontraŭ vi, Kanaano, la lando de la Filiŝtoj. Mi detruos vin ĝis ne restos loĝanto. La marbordo fariĝos paŝtejoj, kun kabanoj por paŝtistoj kaj ŝafejoj por gregoj. La marbordo apartenos al la restaĵo de la domo de Jehuda. Ili trovos paŝtejon. En la domoj de Aŝkelon ili kuŝiĝos vespere, ĉar Javeo, ilia Dio, vizitos ilin kaj restarigos ilin. Mi aŭdis la riproĉon de Moab kaj la insultojn de la filoj de Amon, per kiuj ili riproĉis Mian popolon kaj grandiĝis kontraŭ ĝia limo. Tial, kiel Mi vivas, diras Javeo Cebaot, la Dio de Izrael, certe Moab fariĝos kiel Sodom, kaj la filoj de Amon kiel Gomora, posedaĵo de urtikoj kaj salaj kavoj, kaj eterna dezerto. La restaĵo de Mia popolo prirabos ilin, kaj la postvivantoj de Mia nacio heredos ilin. Ĉi tion ili havos pro sia fiereco, ĉar ili riproĉis kaj grandiĝis kontraŭ la popolo de Javeo Cebaot. Javeo estos timinda al ili, ĉar Li malsatigos ĉiujn diojn de la lando. Homoj adorkliniĝos al Li, ĉiu el sia loko, eĉ ĉiuj bordoj de la nacioj.
+
+Ankaŭ vi Kuŝidoj, vi estos mortigitaj per Mia glavo.
+
+Li etendos Sian manon kontraŭ la nordon, detruos Asirion kaj faros Ninevon dezerto, tiel seka kiel dezerto. Gregoj kuŝiĝos en ĝia mezo, ĉiuj specoj de bestoj. Kaj pelikanoj kaj erinacoj loĝos en ĝiaj kapiteloj. Iliaj krioj eĥos tra la fenestroj. Dezerto estos ĉe la sojloj, ĉar Li nudigis la cedrajn trabojn. Ĉi tio estas la ĝoja urbo kiu vivis senzorgeme, kiu diris en sia koro: "Mi estas, kaj ne ekzistas iu krom mi." Kiel ŝi fariĝis dezerto, loko por bestoj kuŝiĝi en! Ĉiu kiu preterpasas ŝin fajfos kaj skuos siajn pugnojn.
+
+### Ĉapitro 3
+
+Ve al ŝi kiu estas ribelema kaj malpurigita, la premanta urbo! Ŝi ne obeis la voĉon. Ŝi ne ricevis korekton. Ŝi ne fidis Javeon. Ŝi ne alproksimiĝis al sia Dio.
+
+Ŝiaj princoj en ŝi estas muĝantaj leonoj. Ŝiaj juĝistoj estas vesperaj lupoj. Ili lasas nenion ĝis la sekva tago. Ŝiaj profetoj estas arogantaj kaj perfidaj homoj. Ŝiaj pastroj profanis la sanktejon. Ili faris perforton al la leĝo. Javeo en ŝi estas justa. Li faras nenian malbonon. Ĉiumatene Li alportas Sian justecon al lumo. Li ne malsukcesas, sed la maljustuloj ne konas honton.
+
+Mi ekstermis naciojn. Iliaj remparoj estas dezertaj. Mi faris iliajn stratojn malplenaj, tiel ke neniu preterpasas. Iliaj urboj estas detruitaj tiel ke ne restas homo, tiel ke ne restas loĝanto. Mi diris: "Nur timu Min. Ricevu korekton," por ke ŝia loĝejo ne estu ekstermita laŭ ĉio kion Mi ordonis pri ŝi. Sed ili leviĝis frue kaj koruptis ĉiujn siajn agojn.
+--- input712
+**Tial atendu min**, diras Javeo, **ĝis la tago, kiam mi leviĝos al la predo, ĉar mia decido estas kolekti la naciojn, ke mi kunigu la regnojn, por verŝi sur ilin mian indignon, mian tutan furiozan koleron; ĉar la tuta tero estos konsumita per la fajro de mia ĵaluzo.**
+
+**Ĉar tiam mi purigos la lipojn de la popoloj, por ke ili ĉiuj alvoku la nomon de Javeo, por servi lin ŝultro ĉe ŝultro. De trans la riveroj de Kuŝ, miaj adorantoj, eĉ la filino de mia disigita popolo, alportos mian oferon. En tiu tago vi ne hontos pro ĉiuj viaj agoj, per kiuj vi pekis kontraŭ mi; ĉar tiam mi forigos el inter vi viajn fierajn kaj arogantajn homojn, kaj vi ne plu estos arogantaj sur mia sankta monto. Sed mi lasos inter vi afliktitan kaj malriĉan popolon, kaj ili rifuĝos en la nomo de Javeo. La restaĵo de Izrael ne faros maljustaĵon nek parolos mensogojn, nek trompa lango troviĝos en ilia buŝo; ĉar ili paŝtiĝos kaj kuŝos, kaj neniu timigos ilin.**
+
+**Kantu, filino de Ciono! Kriu ĝoje, Izrael! Estu ĝoja kaj ĝoju per via tuta koro, filino de Jerusalemo. Javeo forigis viajn juĝojn. Li forĵetis vian malamikon. La Reĝo de Izrael, Javeo, estas inter vi. Vi ne plu timos malbonon. En tiu tago oni diros al Jerusalemo: "Ne timu, Ciono. Ne lasu viajn manojn malfortiĝi." Javeo, via Dio, estas inter vi, potenca savanto. Li ĝojos pri vi kun ĝojo. Li trankviligos vin en sia amo. Li ĝojos pri vi kun kantado. Mi forigos tiujn, kiuj malĝojas pro la fiksitaj festoj de vi. Ili estas ŝarĝo kaj honto por vi. Jen, en tiu tempo mi traktos ĉiujn, kiuj afliktas vin; kaj mi savos tiujn, kiuj lamis, kaj kolektos tiujn, kiuj estis forpelitaj. Mi donos al ili laŭdon kaj honoron, kies honto estis sur la tuta tero. En tiu tempo mi alportos vin enen, kaj en tiu tempo mi kolektos vin; ĉar mi donos al vi honoron kaj laŭdon inter ĉiuj popoloj de la tero, kiam mi restarigos viajn bonfartojn antaŭ viaj okuloj**, diras Javeo.
+
+---
+
+### **Ĥagai**
+
+**La Libro de Ĥagai**
+
+#### **Ĉapitro 1**
+
+En la dua jaro de Dario la reĝo, en la sesa monato, en la unua tago de la monato, la vorto de Javeo venis per Ĥagai la profeto al Zerubabel, filo de Ŝealtiel, guberniestro de Judujo, kaj al Joŝuo, filo de Jehozadak, la ĉefpastro, dirante: **"Tiele diras Javeo Cebaot: Tiuj homoj diras: ‘La tempo ankoraŭ ne venis, la tempo por konstrui la domon de Javeo.’"**
+
+Tiam la vorto de Javeo venis per Ĥagai la profeto, dirante: **"Ĉu estas tempo por vi mem loĝi en viaj panelitaj domoj dum ĉi tiu domo kuŝas dezerta? Nun do tiele diras Javeo Cebaot: ‘Konsideru viajn vojojn. Vi semis multe kaj rikoltis malmulte. Vi manĝas, sed ne satigas vin. Vi trinkas, sed ne estas kontentigitaj per trinkaĵo. Vi vestas vin, sed neniu varmiĝas; kaj tiu, kiu gajnas salajron, gajnas ĝin por meti ĝin en sakon kun truoj.’"**
+
+**"Tiele diras Javeo Cebaot: ‘Konsideru viajn vojojn. Supreniru al la monto, alportu lignon kaj konstruu la domon. Mi ĝojos pri ĝi kaj mi estos glorata," diras Javeo. "Vi atendis multon, kaj jen ĝi venis al malmulte; kaj kiam vi alportis ĝin hejmen, mi blovis ĝin for. Kial?" diras Javeo Cebaot. "Ĉar mia domo kuŝas dezerta dum ĉiu el vi okupas sin pri sia propra domo. Tial pro vi la ĉieloj retenas la roson kaj la tero retenas sian frukton. Mi vokis sekegon sur la landon, sur la montojn, sur la grenon, sur la novan vinon, sur la oleon, sur tion, kion produktas la grundo, sur homojn, sur brutojn kaj sur ĉiun laboron de la manoj."**
+
+Tiam Zerubabel, filo de Ŝealtiel kaj Joŝuo, filo de Jehozadak, la ĉefpastro, kun ĉiuj restaĵoj de la popolo obeis la voĉon de Javeo ilia Dio kaj la vortojn de Ĥagai la profeto kiel Javeo ilia Dio sendis lin; kaj la popolo timis Javeon.
+
+Tiam Ĥagai, mesaĝisto de Javeo, parolis mesaĝon de Javeo al la popolo dirante: **"Mi estas kun vi," diras Javeo.**
+--- input713
+### Haggaj
+
+#### Ĉapitro 1
+
+Jahve vekis la spiriton de Zerubabel, filo de Ŝealtiel, la guberniestro de Judujo, kaj la spiriton de Josuo, filo de Jehozadak, la ĉefpastro, kaj la spiriton de la tuta restaĵo de la popolo; kaj ili venis kaj laboris pri la domo de Jahve Cebaot, ilia Dio, en la dudek-kvara tago de la monato, en la sesa monato, en la dua jaro de Dario, la reĝo.
+
+#### Ĉapitro 2
+
+En la sepa monato, en la dudek-unua tago de la monato, la vorto de Jahve venis per Haggaj, la profeto, dirante: “Parolu nun al Zerubabel, filo de Ŝealtiel, guberniestro de Judujo, kaj al Josuo, filo de Jehozadak, la ĉefpastro, kaj al la restaĵo de la popolo, dirante: ‘Kiu el vi restis, kiu vidis ĉi tiun domon en ĝia antaŭa gloro? Kiel vi vidas ĝin nun? Ĉu ĝi ne estas kiel nenio en viaj okuloj? Sed nun estu forta, Zerubabel,’ diras Jahve. ‘Estu forta, Josuo, filo de Jehozadak, la ĉefpastro. Estu fortaj, ĉiuj homoj de la lando,’ diras Jahve, ‘kaj laboru, ĉar Mi estas kun vi,’ diras Jahve Cebaot. Ĉi tio estas la vorto, kiun Mi faris kun vi kiam vi eliris el Egiptujo, kaj Mia Spirito restis inter vi. ‘Ne timu.’ Ĉar jen kion diras Jahve Cebaot: ‘Ankoraŭ unufoje, post mallonga tempo, Mi skuos la ĉielon, la teron, la maron kaj la sekteron; kaj Mi skuos ĉiujn naciojn. La trezoro de ĉiuj nacioj venos, kaj Mi plenigos ĉi tiun domon per gloro,’ diras Jahve Cebaot. ‘La arĝento estas Mia, kaj la oro estas Mia,’ diras Jahve Cebaot. ‘La posta gloro de ĉi tiu domo estos pli granda ol la antaŭa,’ diras Jahve Cebaot; ‘kaj en ĉi tiu loko Mi donos pacon,’ diras Jahve Cebaot.”
+
+En la dudek-kvara tago de la naŭa monato, en la dua jaro de Dario, la vorto de Jahve venis per Haggaj, la profeto, dirante: “Jahve Cebaot diras: Demandu nun al la pastroj pri la leĝo, dirante: ‘Se iu portas sanktan viandon en la faldo de sia vesto, kaj per sia faldo tuŝas panon, supon, vinon, oleon aŭ ian manĝaĵon, ĉu ĝi fariĝos sankta?’”
+
+La pastroj respondis: “Ne.”
+
+Tiam Haggaj diris: “Se iu malpura pro mortinto tuŝas iun el tiuj aferoj, ĉu ĝi fariĝos malpura?”
+
+La pastroj respondis: “Ĝi fariĝos malpura.”
+
+Tiam Haggaj respondis: “‘Tia estas ĉi tiu popolo, kaj tia estas ĉi tiu nacio antaŭ Mi,’ diras Jahve; ‘kaj tia estas ĉiu laboro de iliaj manoj. Tio, kion ili oferas tie, estas malpura. Nun konsideru bonvolu ekde ĉi tiu tago kaj reen, antaŭ ol ŝtono estis metita sur ŝtonon en la templo de Jahve. Dum tiu tuta tempo, kiam oni venis al amaso da dudek mezuroj, estis nur dek. Kiam oni venis al vinpremejo por elverŝi kvindek mezurojn, estis nur dudek. Mi frapis vin per velkado, ŝimo kaj hajlo en ĉiuj laboroj de viaj manoj; tamen vi ne turnis vin al Mi,’ diras Jahve. ‘Konsideru bonvolu ekde ĉi tiu tago kaj reen, ekde la dudek-kvara tago de la naŭa monato, ekde la tago kiam estis metita la fundamento de la templo de Jahve; konsideru ĝin. Ĉu ankoraŭ estas semo en la grenejo? Jes, la vinberarbo, figarbo, granatarbo kaj olivarbo ankoraŭ ne produktis. Ekde hodiaŭ Mi benos vin.’”
+
+La vorto de Jahve venis duan fojon al Haggaj en la dudek-kvara tago de la monato, dirante: “Parolu al Zerubabel, guberniestro de Judujo, dirante: ‘Mi skuos la ĉielon kaj la teron. Mi renversos la tronojn de regnoj. Mi detruos la forton de regnoj de nacioj. Mi renversos ĉarojn kaj tiujn kiuj rajdas sur ili. La ĉevaloj kaj iliaj rajdantoj falos, ĉiu per glavo de sia frato. En tiu tago,’ diras Jahve Cebaot, ‘Mi prenos vin, Zerubabel Mia servanto, filo de Ŝealtiel,’ diras Jahve, ‘kaj faros vin kiel sigelringon; ĉar Mi elektis vin,’ diras Jahve Cebaot.”
+
+---
+
+### Zeĥarja
+
+#### Ĉapitro 1
+
+En la oka monato, en la dua jaro de Dario, la vorto de Jahve venis al Zeĥarja, filo de Bereĥja, filo de Ido, dirante: “Jahve estis tre malkontenta pri viaj patroj. Tial diru al ili: ‘Jahve Cebaot diras: Revenigu vin al Mi,’ diras Jahve Cebaot, ‘kaj Mi revenos al vi,’ diras Jahve Cebaot. Ne estu kiel viaj patroj, al kiuj la antaŭaj profetoj predikis dirante: ‘Jahve Cebaot diras: Revenigu vin nun for de viaj malbonaj vojoj kaj viaj malbonaj agoj;’ sed ili ne aŭskultis nek atentis Min,” diras Jahve. “Viaj patroj – kie ili estas? Kaj la profetoj – ĉu ili vivas eterne? Sed Miaj vortoj kaj Miaj ordonoj, kiujn Mi ordonis al Miaj servantoj profetoj – ĉu ili ne atingis viajn patrojn?"
+--- input714
+“Poste ili pentis kaj diris: ‘Kiel la Eternulo Cebaot decidis fari al ni, laŭ niaj vojoj kaj laŭ niaj agoj, tiel Li agis kun ni.’”
+
+En la dudek-kvara tago de la dekunua monato, kiu estas la monato Ŝebat, en la dua jaro de Dario, la vorto de la Eternulo venis al la profeto Zeĥarja, filo de Bereĥja, filo de Ido, dirante: “Mi havis vizion en la nokto, kaj jen viro rajdanta sur ruĝa ĉevalo, kaj li staris inter mirtoj en valo; kaj malantaŭ li estis ruĝaj, brunaj, kaj blankaj ĉevaloj. Tiam mi demandis: ‘Mia sinjoro, kio estas ĉi tiuj?’”
+
+La anĝelo, kiu parolis kun mi, diris al mi: “Mi montros al vi, kio estas ĉi tiuj.”
+
+La viro, kiu staris inter la mirtoj, respondis: “Ili estas tiuj, kiujn la Eternulo sendis por iri tien kaj reen tra la tero.”
+
+Ili raportis al la anĝelo de la Eternulo, kiu staris inter la mirtoj, kaj diris: “Ni iris tien kaj reen tra la tero, kaj jen, la tuta tero estas en ripozo kaj paco.”
+
+Tiam la anĝelo de la Eternulo respondis: “Ho Eternulo Cebaot, kiom longe Vi ne kompatos Jerusalemon kaj la urbojn de Judujo, kontraŭ kiuj Vi indignis dum ĉi tiuj sepdek jaroj?”
+
+La Eternulo respondis al la anĝelo, kiu parolis kun mi, per bonkoraj kaj konsolaj vortoj. Do la anĝelo, kiu parolis kun mi, diris al mi: “Proklamu, dirante: ‘La Eternulo Cebaot diras: “Mi estas ĵaluza por Jerusalemo kaj por Ciono kun granda ĵaluzo. Mi estas tre kolera kontraŭ la nacioj, kiuj estas senzorgaj; ĉar Mi estis nur iom malkontenta, sed ili pligrandigis la katastrofon.” Tial la Eternulo diras: “Mi revenis al Jerusalemo kun kompato. Mia domo estos konstruita en ĝi,” diras la Eternulo Cebaot, “kaj ŝnuro estos streĉita super Jerusalemo.”’
+
+“Proklamu plue, dirante: ‘La Eternulo Cebaot diras: “Miaj urboj denove superfluos per prospero, kaj la Eternulo denove konsolos Cionon kaj denove elektos Jerusalemon.”’”
+
+Mi levis miajn okulojn kaj vidis, kaj jen kvar kornoj. Mi demandis al la anĝelo, kiu parolis kun mi: “Kio estas ĉi tiuj?”
+
+Li respondis al mi: “Ĉi tiuj estas la kornoj, kiuj disĵetis Judujon, Izraelon kaj Jerusalemon.”
+
+La Eternulo montris al mi kvar metiistojn. Tiam mi demandis: “Kion ĉi tiuj venas fari?”
+
+Li diris: “Ĉi tiuj estas la kornoj, kiuj disĵetis Judujon tiel ke neniu povis levi sian kapon; sed ĉi tiuj venis por timigi ilin, por faligi la kornojn de la nacioj, kiuj levis sian kornon kontraŭ la landon de Judujo por disĵeti ĝin.”
+
+### Ĉapitro 2
+
+Mi levis miajn okulojn kaj vidis, kaj jen viro kun mezurŝnuro en sia mano. Tiam mi demandis: “Kien vi iras?”
+
+Li diris al mi: “Por mezuri Jerusalemon, por vidi kio estas ĝia larĝo kaj kio estas ĝia longo.”
+
+Jen la anĝelo, kiu parolis kun mi, eliris, kaj alia anĝelo eliris por renkonti lin, kaj diris al li: “Kuru, parolu al ĉi tiu junulo, dirante: ‘Jerusalemo estos loĝata kiel vilaĝoj sen muroj pro la multo da homoj kaj brutoj en ĝi. Ĉar Mi,’ diras la Eternulo, ‘estos por ŝi muro de fajro ĉirkaŭe, kaj Mi estos la gloro en ŝia mezo.’
+
+Venu! Venu! Forkuru el la lando de la nordo,’ diras la Eternulo; ‘ĉar Mi disĵetis vin kiel la kvar ventojn de la ĉielo,’ diras la Eternulo. ‘Venu, Ciono! Forkuru vi, kiu loĝas kun la filino de Babel.’ Ĉar la Eternulo Cebaot diras: ‘Por honoro Li sendis min al la nacioj kiuj prirabis vin; ĉar tiu kiu tuŝas vin tuŝas la pupilon de Lia okulo. Ĉar jen Mi skuos Mian manon super ili, kaj ili fariĝos rabaĵo al tiuj kiuj servis ilin; kaj vi scios ke la Eternulo Cebaot sendis min. Kantu kaj ĝoju, filino de Ciono! Ĉar jen Mi venas kaj Mi loĝos inter vi,’ diras la Eternulo. Multaj nacioj aliĝos al la Eternulo en tiu tago kaj fariĝos Mia popolo; kaj Mi loĝos inter vi, kaj vi scios ke la Eternulo Cebaot sendis min al vi. La Eternulo heredos Judujon kiel Sian parton en la sankta lando kaj denove elektos Jerusalemon. Silentu ĉiuj karnoj antaŭ la Eternulo; ĉar Li leviĝis el Sia sankta loĝejo!”
+
+### Ĉapitro 3
+
+Li montris al mi Josuan, la ĉefpastro starantan antaŭ la anĝelo de la Eternulo, kaj Satano starantan ĉe lia dekstra mano por esti lia kontraŭulo. La Eternulo diris al Satano: “La Eternulo riproĉu vin, Satano! Jes, la Eternulo kiu elektis Jerusalemon riproĉu vin! Ĉu ĉi tio ne estas brulanta ligno eltirita el fajro?”
+--- input715
+Nun Josuo estis vestita per malpuraj vestoj kaj staris antaŭ la anĝelo. Li respondis kaj diris al tiuj, kiuj staris antaŭ li: “Demetu la malpurajn vestojn de li.” Kaj al li li diris: “Jen, mi forigis vian maljustaĵon de vi, kaj mi vestos vin per riĉaj vestoj.”
+
+Mi diris: “Metu puran turbano sur lian kapon.”
+
+Do ili metis puran turbano sur lian kapon kaj vestis lin; kaj la anĝelo de Javeo staris apud.
+
+La anĝelo de Javeo solene certigis Josuon, dirante: “Tiele diras Javeo Cebaot: ‘Se vi iros laŭ miaj vojoj kaj se vi observos miajn ordonojn, tiam vi ankaŭ juĝos mian domon kaj ankaŭ gardos miajn kortojn, kaj mi donos al vi lokon inter tiuj, kiuj staras ĉi tie. Aŭskultu nun, Josuo, la ĉefpastro, vi kaj viaj kunuloj, kiuj sidas antaŭ vi, ĉar ili estas homoj, kiuj estas signo; ĉar jen mi venigos mian servanton, la Branĉon. Ĉar jen la ŝtono, kiun mi metis antaŭ Josuo: sur unu ŝtono estas sep okuloj; jen mi gravuros ĝian surskribon,’ diras Javeo Cebaot, ‘kaj mi forigos la maljustaĵon de tiu lando en unu tago. En tiu tago,’ diras Javeo Cebaot, ‘vi invitos ĉiun homon sian najbaron sub la vinberarbon kaj sub la figarbon.’”
+
+### Ĉapitro 4
+
+La anĝelo, kiu parolis kun mi, revenis kaj vekis min, kiel homo vekita el sia dormo. Li diris al mi: “Kion vi vidas?”
+
+Mi diris: “Mi vidis, kaj jen lampostaro tute el oro, kun sia bovlo sur ĝia supro, kaj ĝiaj sep lampoj sur ĝi; estas sep tuboj al ĉiu el la lampoj, kiuj estas sur ĝia supro; kaj du olivarboj apud ĝi, unu ĉe la dekstra flanko de la bovlo kaj la alia ĉe ĝia maldekstra flanko.”
+
+Mi respondis kaj parolis al la anĝelo, kiu parolis kun mi, dirante: “Kio estas ĉi tiuj, mia sinjoro?”
+
+Tiam la anĝelo, kiu parolis kun mi, respondis al mi: “Ĉu vi ne scias, kio estas ĉi tiuj?”
+
+Mi diris: “Ne, mia sinjoro.”
+
+Tiam li respondis kaj parolis al mi, dirante: “Ĉi tio estas la vorto de Javeo al Zerubabel, dirante: ‘Ne per forto nek per potenco, sed per mia Spirito,’ diras Javeo Cebaot. Kiu vi estas, granda monto? Antaŭ Zerubabel vi estos ebenaĵo; kaj li elportos la ĉefŝtonon kun krioj de ‘Graco, graco al ĝi!’”
+
+Plue venis al mi la vorto de Javeo, dirante: “La manoj de Zerubabel metis la fundamenton de ĉi tiu domo. Liaj manoj ankaŭ finos ĝin; kaj vi scios, ke Javeo Cebaot sendis min al vi. Vere, kiu malestimas la tagon de malgrandaj aferoj? Ĉar ĉi tiuj sep ĝojos kaj vidos la plumlinion en la mano de Zerubabel. Ĉi tiuj estas la okuloj de Javeo, kiuj kuras tien kaj reen tra la tuta tero.”
+
+Tiam mi demandis lin: “Kio estas ĉi tiuj du olivarboj ĉe la dekstra flanko de la lampostaro kaj ĉe ĝia maldekstra flanko?”
+
+Mi demandis lin duan fojon: “Kio estas ĉi tiuj du olivobranĉoj apud la du oraj tubetoj, kiuj elverŝas la oran oleon el si mem?”
+
+Li respondis al mi: “Ĉu vi ne scias, kio estas ĉi tiuj?”
+
+Mi diris: “Ne, mia sinjoro.”
+
+Tiam li diris: “Ĉi tiuj estas la du sanktoleitoj, kiuj staras apud la Sinjoro de la tuta tero.”
+
+### Ĉapitro 5
+
+Tiam denove mi levis miajn okulojn kaj vidis, kaj jen fluganta skribrulaĵo. Li diris al mi: “Kion vi vidas?”
+
+Mi respondis: “Mi vidas flugantan skribrulaĵon; ĝia longo estas dudek ulnoj kaj ĝia larĝo dek ulnoj.”
+
+Tiam li diris al mi: “Ĉi tio estas la malbeno, kiu eliras super la surfaco de la tuta lando; ĉar ĉiu, kiu ŝtelas, estos fortranĉita laŭ ĝi ĉe unu flanko; kaj ĉiu, kiu ĵuras false, estos fortranĉita laŭ ĝi ĉe la alia flanko. Mi kaŭzos ĝin eliri,” diras Javeo Cebaot, “kaj ĝi eniros en la domon de la ŝtelisto kaj en la domon de tiu, kiu ĵuras false per mia nomo; kaj ĝi restos en la mezo de lia domo kaj detruos ĝin kun ĝiaj lignoj kaj ĝiaj ŝtonoj.”
+
+Tiam la anĝelo, kiu parolis kun mi, paŝis antaŭen kaj diris al mi: “Levu nun viajn okulojn kaj vidu kio estas tio, kio aperas.”
+
+Mi diris: “Kio estas tio?”
+
+Li diris: “Ĉi tio estas la efa-korbo, kiu aperas.” Li plue diris: “Ĉi tio estas ilia aspekto en la tuta lando—kaj jen plumba kovrilo peza unu talenton estis levita—kaj estis virino sidanta en la mezo de la efa-korbo.” Li diris: “Ĉi tio estas Malvirteco;” kaj li ĵetis ŝin malsupren en la mezo de la efa-korbo; kaj li ĵetis la plumban pezon sur ĝian buŝon.
+--- input716
+Kaj mi levis miajn okulojn kaj vidis, kaj jen estis du virinoj; kaj la vento estis en iliaj flugiloj. Nun ili havis flugilojn kiel la flugiloj de cikonio, kaj ili levis la efan korbon inter la tero kaj la ĉielo. Tiam mi diris al la anĝelo, kiu parolis kun mi: “Kien ĉi tiuj portas la efan korbon?”
+
+Li diris al mi: “Por konstrui por ŝi domon en la lando Ŝinar. Kiam ĝi estos preta, ŝi estos metita tie en sian propran lokon.”
+
+### Ĉapitro 6
+
+Denove mi levis miajn okulojn kaj vidis, kaj jen kvar ĉaroj eliris el inter du montoj; kaj la montoj estis montoj el bronzo. En la unua ĉaro estis ruĝaj ĉevaloj. En la dua ĉaro estis nigraj ĉevaloj. En la tria ĉaro estis blankaj ĉevaloj. En la kvara ĉaro estis makulitaj ĉevaloj, ĉiuj potencaj. Tiam mi demandis la anĝelon, kiu parolis kun mi: “Kio estas ĉi tiuj, mia sinjoro?”
+
+La anĝelo respondis al mi: “Ĉi tiuj estas la kvar ventoj de la ĉielo, kiuj eliras de starado antaŭ la Sinjoro de la tuta tero. La unu kun la nigraj ĉevaloj iras al la norda lando; kaj la blankaj iris post ili; kaj la makulitaj iris al la suda lando.” La fortaj eliris kaj serĉis iri por promeni tien kaj reen tra la tero. Li diris: “Iru ĉirkaŭe kaj tra la tero!” Do ili promenis tien kaj reen tra la tero.
+
+Tiam li vokis al mi kaj parolis al mi, dirante: “Jen, tiuj, kiuj iras al la norda lando, kvietigis mian spiriton en la norda lando.”
+
+La vorto de Javeo venis al mi, dirante: “Prenu el tiuj de la kaptiteco, eĉ de Heldaj, Tobija, kaj Jedaja; kaj venu en tiu sama tago, kaj iru en la domon de Josija, filo de Zeĥanja, kie ili venis el Babel. Jes, prenu arĝenton kaj oron, kaj faru kronojn, kaj metu ilin sur la kapon de Josuo, filo de Jehozadak, la ĉefpastro; kaj parolu al li, dirante: ‘Javeo Cebaot diras: “Jen, la viro kies nomo estas Branĉo! Li elkreskos el sia loko; kaj li konstruos la templon de Javeo. Li konstruos la templon de Javeo. Li portos la gloron, kaj sidos kaj regos sur sia trono. Li estos pastro sur sia trono. La konsilo de paco estos inter ili ambaŭ. La kronoj estos por Ĥelem, Tobija, Jedaja, kaj Ĥen, filo de Zeĥanja, kiel memoraĵo en la templo de Javeo.
+
+Tiuj, kiuj estas malproksime, venos kaj konstruos en la templo de Javeo; kaj vi scios, ke Javeo Cebaot sendis min al vi. Ĉi tio okazos, se vi diligente obeos la voĉon de Javeo via Dio.” ’”
+
+### Ĉapitro 7
+
+En la kvara jaro de reĝo Dario, la vorto de Javeo venis al Zeĥarja en la kvara tago de la naŭa monato, la monato Kislev. La popolo de Betel sendis Ŝarezeron kaj Regem-Meleĥon kaj iliajn virojn por peti favoron de Javeo, kaj por paroli al la pastroj de la domo de Javeo Cebaot kaj al la profetoj, dirante: “Ĉu mi ploru en la kvina monato, apartigante min, kiel mi faris dum tiom da jaroj?”
+
+Tiam la vorto de Javeo Cebaot venis al mi, dirante: “Parolu al ĉiuj homoj de la lando kaj al la pastroj, dirante: ‘Kiam vi fastis kaj funebris en la kvina kaj en la sepa monato dum ĉi tiuj sepdek jaroj, ĉu vi entute fastis por mi, vere por mi? Kiam vi manĝas kaj kiam vi trinkas, ĉu vi ne manĝas por vi mem kaj trinkas por vi mem? Ĉu ĉi tiuj ne estas la vortoj, kiujn Javeo proklamis per la antaŭaj profetoj kiam Jerusalemo estis loĝata kaj prospera, kaj ĝiaj urboj ĉirkaŭ ĝi, kaj la Sudo kaj la malaltebenaĵo estis loĝataj?’”
+
+La vorto de Javeo venis al Zeĥarja, dirante: “Tiel parolis Javeo Cebaot, dirante: ‘Plenumu veran juĝon, kaj montru bonkorecon kaj kompaton ĉiu homo al sia frato. Ne premu vidvinon, orfon, fremdulon nek malriĉulon; kaj neniu el vi elpensu malbonon kontraŭ sia frato en sia koro.’ Sed ili rifuzis aŭskulti, turnis sian dorson, kaj fermis siajn orelojn por ne aŭdi. Jes, ili faris siajn korojn malmolaj kiel siliko, por ke ili ne aŭdu la leĝon kaj la vortojn kiujn Javeo Cebaot sendis per sia Spirito per la antaŭaj profetoj. Tial granda kolero venis de Javeo Cebaot. Ĝi okazis tiel: ĉar li vokis kaj ili rifuzis aŭskulti, tiel ili vokos kaj mi ne aŭskultos,” diras Javeo Cebaot; “sed mi disĵetos ilin per ventego inter ĉiuj nacioj kiujn ili ne konis. Tiel la lando fariĝis dezerta post ili, tiel ke neniu preterpasis nek revenis; ĉar ili faris la agrablan landon dezerta.”
+--- input717
+### Ĉapitro 8
+
+La vorto de la Eternulo de Armeoj venis al mi. La Eternulo de Armeoj diras: “Mi estas ĵaluza por Cion kun granda ĵaluzo, kaj mi estas ĵaluza por ŝi kun granda kolero.”
+
+La Eternulo diras: “Mi revenis al Cion, kaj Mi loĝos meze de Jerusalemo. Jerusalemo estos nomata ‘La Urbo de Vero;’ kaj la monto de la Eternulo de Armeoj, ‘La Sankta Monto.’”
+
+La Eternulo de Armeoj diras: “Maljunuloj kaj maljunulinoj denove loĝos sur la stratoj de Jerusalemo, ĉiu kun sia bastono en sia mano pro sia maljuna aĝo. La stratoj de la urbo pleniĝos de knaboj kaj knabinoj ludantaj sur ĝiaj stratoj.”
+
+La Eternulo de Armeoj diras: “Se tio estas mirinda en la okuloj de la restaĵo de ĉi tiu popolo en tiuj tagoj, ĉu ĝi ankaŭ estu mirinda en Miaj okuloj?” diras la Eternulo de Armeoj.
+
+La Eternulo de Armeoj diras: “Jen, Mi savos Mian popolon el la lando oriente kaj el la lando okcidente. Mi alportos ilin, kaj ili loĝos en Jerusalemo. Ili estos Mia popolo, kaj Mi estos ilia Dio, en vero kaj en justeco.”
+
+La Eternulo de Armeoj diras: “Fortigu viajn manojn, vi, kiuj aŭdas en ĉi tiuj tagoj ĉi tiujn vortojn el la buŝo de la profetoj, kiuj estis en la tago kiam la fundamento de la domo de la Eternulo de Armeoj estis metita, eĉ la templo, por ke ĝi estu konstruita. Ĉar antaŭ tiuj tagoj ne estis salajro por homo nek salajro por besto, nek estis paco al tiu, kiu eliris aŭ eniris, pro la malamiko. Ĉar Mi starigis ĉiujn homojn unu kontraŭ sia najbaro. Sed nun Mi ne estos al la restaĵo de ĉi tiu popolo kiel en la antaŭaj tagoj,” diras la Eternulo de Armeoj. “Ĉar la semo de paco kaj la vinberarbo donos sian frukton, kaj la tero donos sian kreskon, kaj la ĉieloj donos sian roson. Mi kaŭzos ke la restaĵo de ĉi tiu popolo heredu ĉiujn ĉi tiujn aferojn. Okazos, ke kiel vi estis malbeno inter la nacioj, domo de Jehuda kaj domo de Izrael, tiel Mi savos vin, kaj vi estos beno. Ne timu. Fortigu viajn manojn.”
+
+Ĉar la Eternulo de Armeoj diras: “Kiel Mi pensis fari malbonon al vi kiam viaj patroj incitis Min al kolero,” diras la Eternulo de Armeoj, “kaj Mi ne pentis, tiel denove Mi pensis en ĉi tiuj tagoj fari bonon al Jerusalemo kaj al la domo de Jehuda. Ne timu. Jen estas la aferoj, kiujn vi faru: parolu ĉiu homo veron kun sia najbaro. Faru juĝon de vero kaj paco ĉe viaj pordegoj, kaj neniu el vi elpensu malbonon en siaj koroj kontraŭ sia najbaro, kaj ne amu falsan ĵuron; ĉar ĉiuj ĉi tiuj estas aferoj, kiujn Mi malamas,” diras la Eternulo.
+
+La vorto de la Eternulo de Armeoj venis al mi. La Eternulo de Armeoj diras: “La fastoj de la kvara, kvina, sepa kaj deka monatoj estos por la domo de Jehuda ĝojo, gajeco kaj ĝojaj festoj. Tial amu veron kaj pacon.”
+
+La Eternulo de Armeoj diras: “Multaj popoloj kaj loĝantoj de multaj urboj ankoraŭ venos. La loĝantoj de unu iros al alia, dirante: ‘Ni iru rapide petegi la favoron de la Eternulo, kaj serĉi la Eternulon de Armeoj. Mi ankaŭ iros.’ Jes, multaj popoloj kaj fortaj nacioj venos serĉi la Eternulon de Armeoj en Jerusalemo kaj petegi la favoron de la Eternulo.” La Eternulo de Armeoj diras: “En tiuj tagoj dek homoj el ĉiuj lingvoj de la nacioj kaptos la randon de tiu, kiu estas Judo, dirante: ‘Ni iros kun vi, ĉar ni aŭdis ke Dio estas kun vi.’”
+
+### Ĉapitro 9
+
+Revelacio.
+
+La vorto de la Eternulo estas kontraŭ la lando Ĥadrach,
+
+kaj ripozos sur Damasko—
+
+ĉar la okulo de homo
+
+kaj ĉiuj triboj de Izrael estas turnitaj al la Eternulo—
+
+kaj Ĥamat ankaŭ, kiu limas ĝin,
+
+Tiro kaj Cidon, ĉar ili estas tre saĝaj.
+
+Tiro konstruis por si fortikaĵon,
+
+kaj amasigis arĝenton kiel polvon,
+
+kaj puran oron kiel koto surstrate.
+
+Jen, la Sinjoro senposedigos ŝin,
+
+kaj Li frapos ŝian potencon en la maro;
+
+kaj ŝi estos konsumita per fajro.
+
+Aŝkelon vidos tion kaj timos;
+
+Gazo ankaŭ suferos agonion;
+
+kaj Ekron same, ĉar ŝia espero estos seniluziigita;
+
+kaj reĝo pereos el Gazo,
+
+kaj Aŝkelon ne plu estos loĝata.
+
+Eksterlandanoj loĝos en Aŝdod...
+--- input718
+kaj Mi fortranĉos la fieron de la Filisxtoj.
+
+Mi forprenos lian sangon el lia buŝo,
+
+kaj liajn abomenindaĵojn el inter liaj dentoj;
+
+kaj li ankaŭ estos restaĵo por nia Dio;
+
+kaj li estos kiel ĉefo en Jehuda,
+
+kaj Ekron kiel Jebusano.
+
+Mi starigos tendaron ĉirkaŭ Mia domo kontraŭ la armeo,
+
+por ke neniu preterpasu aŭ revenu;
+
+kaj neniu premanto plu pasos tra ili:
+
+ĉar nun Mi vidis per Miaj okuloj.
+
+Ĝoju forte, filino de Cion!
+
+Kriu, filino de Jerusalem!
+
+Jen via Reĝo venas al vi!
+
+Li estas justa kaj savanta;
+
+humila, kaj rajdanta sur azeno,
+
+eĉ sur ido, la ido de azenino.
+
+Mi fortranĉos la ĉarojn el Efraim
+
+kaj la ĉevalojn el Jerusalem.
+
+La batalarko estos fortranĉita;
+
+kaj Li parolos pacon al la nacioj.
+
+Lia regado estos de maro ĝis maro,
+
+kaj de la Rivero ĝis la finoj de la tero.
+
+Kaj vi ankaŭ,
+
+pro la sango de via interligo,
+
+Mi liberigis viajn malliberulojn el la foso, en kiu ne estas akvo.
+
+Turnu vin al la fortikaĵo, vi malliberuloj de espero!
+
+Eĉ hodiaŭ Mi deklaras, ke Mi redonos al vi duoble.
+
+Ĉar vere Mi fleksas Jehudan kiel arkon por Mi.
+
+Mi ŝarĝis la arkon per Efraim.
+
+Mi vekos viajn filojn, Cion,
+
+kontraŭ viaj filoj, Grekio,
+
+kaj Mi faros vin kiel glavo de potenca viro.
+
+Jahve estos vidata super ili.
+
+Lia sago fulmos kiel fulmo.
+
+La Sinjoro Jahve blovos la trumpeton,
+
+kaj iros kun ventegoj de la sudo.
+
+Jahve Cebaot defendos ilin.
+
+Ili detruos kaj venkos per ŝtonoj de ŝlingo.
+
+Ili trinkos kaj bruos kvazaŭ per vino.
+
+Ili pleniĝos kiel bovloj,
+
+kiel la anguloj de la altaro.
+
+Jahve, ilia Dio, savos ilin en tiu tago kiel la ŝafaron de Sia popolo;
+
+ĉar ili estas kiel juveloj de krono,
+
+levitaj alte super Lia lando.
+
+Ĉar kiel granda estas Lia boneco,
+
+kaj kiel granda estas Lia beleco!
+
+Grano igos la junulojn prosperi,
+
+kaj nova vino la virgulinojn.
+
+### Ĉapitro 10
+
+Petu de Jahve pluvon en printempo,
+
+Jahve, kiu faras ŝtormajn nubojn,
+
+kaj Li donas pluvajn ŝprucojn al ĉiu por la plantoj en la kampo.
+
+Ĉar la terafim parolis vantecon,
+
+kaj la divenistoj vidis mensogon;
+
+kaj ili rakontis falsajn sonĝojn.
+
+Ili konsolas vane.
+
+Tial ili iras sian vojon kiel ŝafoj.
+
+Ili estas premataj, ĉar ne estas paŝtisto.
+
+Mia kolero ekbrulis kontraŭ la paŝtistoj,
+
+kaj Mi punos la virkaprojn,
+
+ĉar Jahve Cebaot vizitis Sian ŝafaron, la domon de Jehuda,
+
+kaj faros ilin kiel Sian majestan ĉevalon en la batalo.
+
+De li venos la angulŝtono,
+
+de li la tendoŝtifto,
+
+de li la batalarko,
+
+de li ĉiuj regantoj kune.
+
+Ili estos kiel potencaj viroj,
+
+paŝantaj sur koto en batalo.
+
+Ili batalos, ĉar Jahve estas kun ili.
+
+La rajdantoj sur ĉevaloj estos konfuzitaj.
+
+"Mi fortigos la domon de Jehuda,
+
+kaj Mi savos la domon de Jozef.
+
+Mi revenigos ilin,
+
+ĉar Mi havas kompaton al ili.
+
+Ili estos kvazaŭ Mi ne forĵetis ilin,
+
+ĉar Mi estas Jahve ilia Dio, kaj Mi aŭdos ilin.
+
+Efraim estos kiel potenca viro,
+
+kaj ilia koro ĝojos kvazaŭ per vino.
+
+Jes, iliaj infanoj vidos tion kaj ĝojos.
+
+Ilia koro ĝojos en Jahve.
+
+Mi signalos por ili kaj kolektos ilin,
+
+ĉar Mi elaĉetis ilin.
+
+Ili multiĝos kiel antaŭe.
+
+Mi semos ilin inter la popoloj.
+
+Ili memoros Min en malproksimaj landoj.
+
+Ili vivos kun siaj infanoj kaj revenos.
+
+Mi revenigos ilin ankaŭ el la lando Egiptujo,
+
+kaj kolektos ilin el Asirio.
+
+Mi venigos ilin en la landon Gilead kaj Libano;
+
+kaj tie ne estos sufiĉe da loko por ili.
+
+Li pasos tra la maro de aflikto,
+
+kaj frapos la ondojn en la maro,
+
+kaj ĉiuj profundoj de Nilo sekigos;
+
+kaj la fiero de Asirio estos faligita,
+
+kaj la sceptro de Egiptujo foriros.
+
+Mi fortigos ilin en Jahve.
+
+Ili iros supren kaj malsupren en Lia nomo," diras Jahve.
+
+### Ĉapitro 11
+
+Malfermu viajn pordojn, Libano,
+
+por ke fajro formanĝu viajn cedrojn.
+
+Ploru, cipreso, ĉar la cedro falis,
+--- input719
+ĉar la majestaj estas detruitaj.
+
+Ploru, ho kverkoj de Baŝan,
+
+ĉar la forta arbaro falis.
+
+Voĉo de la plorado de la paŝtistoj!
+
+Ĉar ilia gloro estas detruita—voĉo de la muĝado de junaj leonoj!
+
+Ĉar la fiero de Jordan estas ruinigita.
+
+Jahveo, mia Dio, diras: “Paŝtu la ŝafaron destinita por buĉado. Iliaj aĉetantoj buĉas ilin kaj restas senpunitaj. Tiuj, kiuj vendas ilin, diras: ‘Benata estu Jahveo, ĉar mi riĉiĝis;’ kaj iliaj propraj paŝtistoj ne kompatas ilin. Ĉar mi ne plu kompatos la loĝantojn de la lando,” diras Jahveo; “sed jen, mi transdonos ĉiun homon en la manon de sia proksimulo kaj en la manon de sia reĝo. Ili frapos la landon, kaj el iliaj manoj mi ne liberigos ilin.”
+
+Do mi paŝtis la ŝafaron destinita por buĉado, precipe la prematojn de la ŝafaro. Mi prenis por mi du bastonojn. Unu mi nomis “Favoro” kaj la alian mi nomis “Unueco”, kaj mi paŝtis la ŝafaron. Mi forigis la tri paŝtistojn en unu monato; ĉar mia animo estis laca pri ili, kaj ilia animo ankaŭ abomenis min. Tiam mi diris, “Mi ne plu paŝtos vin. Tio, kio mortas, lasu ĝin morti; kaj tio, kio estas fortranĉota, lasu ĝin esti fortranĉita; kaj lasu tiujn, kiuj restas, manĝi unu la alian.” Mi prenis mian bastonon Favoro kaj rompis ĝin, por ke mi povu rompi mian interligon, kiun mi faris kun ĉiuj popoloj. Ĝi estis rompita en tiu tago; kaj tiel la malriĉuloj de la ŝafaro, kiuj aŭskultis min, sciis, ke ĝi estis vorto de Jahveo. Mi diris al ili, “Se vi opinias ĝin plej bone, donu al mi mian salajron; kaj se ne, tenu ĝin.” Do ili pesis por mia salajro tridek arĝentajn monerojn. Jahveo diris al mi, “Ĵetu ĝin al la potisto—la bela prezo, per kiu ili taksis min!” Mi prenis la tridek arĝentajn monerojn kaj ĵetis ilin al la potisto en la domo de Jahveo. Poste mi rompis mian alian bastonon, Unueco, por ke mi povu rompi la fratecon inter Judujo kaj Izrael.
+
+Jahveo diris al mi, “Prenu por vi denove la ilaron de malsaĝa paŝtisto. Ĉar jen, mi starigos paŝtiston en la lando, kiu ne vizitos tiujn fortranĉitajn, nek serĉos tiujn disigitajn, nek resanigos tion rompitan, nek nutros tion sanan; sed li manĝos la viandon de la grasaj ŝafoj kaj disŝiros iliajn hufojn. Ve al la senvalora paŝtisto, kiu forlasas la ŝafaron! La glavo frapos lian brakon kaj lian dekstran okulon. Lia brako estos tute velkinta, kaj lia dekstra okulo estos tute blindigita!”
+
+### Ĉapitro 12
+
+Revelacio de la vorto de Jahveo pri Izrael: Jahveo, kiu etendas la ĉielojn kaj metas la fundamenton de la tero, kaj formas la spiriton de homo ene de li diras: “Jen, mi faros Jerusalemon pokalo de ebrieco por ĉiuj ĉirkaŭaj popoloj, kaj ĝi estos ankaŭ kontraŭ Judujo en la sieĝo kontraŭ Jerusalemo. Okazos en tiu tago, ke mi faros Jerusalemon peza ŝtono por ĉiuj popoloj. Ĉiuj, kiuj sin ŝarĝos per ĝi, estos severe vunditaj, kaj ĉiuj nacioj de la tero estos kunvenigitaj kontraŭ ĝi. En tiu tago,” diras Jahveo, “mi frapos ĉiun ĉevalon per teruro kaj ĝian rajdanton per frenezo. Mi malfermos miajn okulojn sur la domon de Judujo kaj frapos ĉiun ĉevalon de la popoloj per blindeco. La ĉefoj de Judujo diros en sia koro: ‘La loĝantoj de Jerusalemo estas mia forto en Jahveo de Armeoj ilia Dio.’
+
+En tiu tago mi faros la ĉefojn de Judujo kiel fajrujo inter lignoj kaj kiel flama torĉo inter garboj. Ili formanĝos ĉiujn ĉirkaŭajn popolojn dekstre kaj maldekstre; kaj Jerusalemo ankoraŭ loĝos en sia loko, eĉ en Jerusalemo.
+
+Jahveo ankaŭ savos unue la tendojn de Judujo, por ke la gloro de la domo de David kaj la gloro de la loĝantoj de Jerusalemo ne estu pligrandigita super Judujo. En tiu tago Jahveo defendos la loĝantojn de Jerusalemo. Tiu el ili malforta en tiu tago estos kiel David, kaj la domo de David estos kiel Dio, kiel anĝelo de Jahveo antaŭ ili. Okazos en tiu tago, ke mi serĉos detrui ĉiujn naciojn, kiuj venas kontraŭ Jerusalemon.
+
+Mi verŝos sur la domon de David kaj sur la loĝantojn de Jerusalemo spiriton de graco kaj petego. Ili rigardos al mi kiun ili trapikis; kaj ili funebros pro li kiel oni funebras pro sia sola filo, kaj ili amare ploros pro li kiel oni ploras pro sia unuenaskito. En tiu tago estos granda funebro en Jerusalemo, kiel la funebro ĉe Hadadrimmon en la valo de Megido. La lando funebros, ĉiu familio aparte; la familio de la domo de David aparte, kaj iliaj edzinoj aparte; la familio de la domo de Natan aparte, kaj iliaj edzinoj aparte; la familio de la domo de Levi aparte, kaj iliaj edzinoj aparte; la familio de Ŝimeido aparte, kaj iliaj edzinoj aparte; ĉiuj restintaj familioj, ĉiu familio aparte, kaj iliaj edzinoj aparte."
+--- input720
+### Ĉapitro 13
+
+"En tiu tago estos fonto malfermita por la domo de David kaj por la loĝantoj de Jerusalemo, por peko kaj por malpureco.
+
+Kaj okazos en tiu tago, diras la Eternulo Cebaot, ke Mi forigos la nomojn de la idoloj el la lando, kaj ili ne plu estos memorataj. Mi ankaŭ forigos la profetojn kaj la spiriton de malpureco el la lando. Kaj okazos, ke se iu ankoraŭ profetos, tiam lia patro kaj lia patrino, kiuj naskis lin, diros al li: ‘Vi devas morti, ĉar vi parolas mensogojn en la nomo de la Eternulo;’ kaj lia patro kaj lia patrino, kiuj naskis lin, trapikos lin, kiam li profetos. Kaj okazos en tiu tago, ke la profetoj ĉiu hontos pri sia vizio, kiam li profetos; ili ne portos haran mantelon por trompi, sed li diros: ‘Mi ne estas profeto, mi estas terkultivisto; ĉar mi estis farita sklavo ekde mia juneco.’ Oni diros al li: ‘Kiaj estas tiuj vundoj inter viaj brakoj?’ Tiam li respondos: ‘Tiujn mi ricevis en la domo de miaj amikoj.’
+
+"Vekiĝu, glavo, kontraŭ mia paŝtisto,
+
+kaj kontraŭ la viro, kiu estas proksima al mi," diras la Eternulo Cebaot.
+
+"Batu la paŝtiston, kaj la ŝafoj diskuros;
+
+kaj Mi turnos mian manon kontraŭ la malgranduloj.
+
+Kaj okazos en la tuta lando," diras la Eternulo,
+
+"ke du trionoj en ĝi estos ekstermitaj kaj mortos;
+
+sed la tria estos restigita.
+
+Mi enkondukos tiun trionon en la fajron,
+
+kaj Mi rafinos ilin kiel arĝento estas rafinata,
+
+kaj Mi provos ilin kiel oro estas provata.
+
+Ili vokos mian nomon, kaj Mi aŭskultos ilin.
+
+Mi diros: ‘Ĝi estas mia popolo;’
+
+kaj ili diros: ‘La Eternulo estas mia Dio.’"
+
+### Ĉapitro 14
+
+Jen venas tago de la Eternulo, kiam via rabaĵo estos dividita meze de vi. Ĉar Mi kolektos ĉiujn naciojn kontraŭ Jerusalemon por batalo; kaj la urbo estos kaptita, la domoj prirabitaj, kaj la virinoj malhonoritaj. Duono de la urbo iros en kaptitecon, kaj la resto de la popolo ne estos ekstermita el la urbo. Tiam la Eternulo eliros kaj batalos kontraŭ tiuj nacioj, kiel kiam Li batalis en tago de batalo. Liaj piedoj staros en tiu tago sur la Olivarbo-Monto, kiu estas antaŭ Jerusalemo oriente; kaj la Olivarbo-Monto fendetiĝos en du partojn de oriento ĝis okcidento, kreante tre grandan valon. Duono de la monto moviĝos norden, kaj duono suden. Vi forkursos per la valo de miaj montoj, ĉar la valo de la montoj atingos ĝis Acel. Jes, vi forkursos, kiel vi forkuris antaŭ la tertremo en la tagoj de Uzija, reĝo de Judujo. La Eternulo mia Dio venos, kaj ĉiuj sanktuloj kun vi.
+
+Kaj okazos en tiu tago, ke ne estos lumo, nek malvarmo nek frosto. Ĝi estos unika tago konata al la Eternulo—ne tago nek nokto; sed okazos, ke vespere estos lumo.
+
+Kaj okazos en tiu tago, ke vivaj akvoj fluos el Jerusalemo, duono el ili al la orienta maro, kaj duono al la okcidenta maro. Tio estos somere kaj vintre.
+
+La Eternulo estos Reĝo super la tuta tero. En tiu tago la Eternulo estos unu, kaj Lia nomo unu.
+
+La tuta lando estos farita kiel Araba ebenaĵo, de Geba ĝis Rimon sude de Jerusalemo; kaj ŝi leviĝos kaj loĝos sur sia loko, de la pordego de Benjamen ĝis la loko de la unua pordego, ĝis la angula pordego, kaj de la turo de Hananiel ĝis la vinpremejoj de la reĝo. Homoj loĝos tie, kaj ne plu estos malbeno; sed Jerusalemo loĝos sekure.
+
+Jen estos la pesto per kiu la Eternulo frapos ĉiujn popolojn kiuj batalis kontraŭ Jerusalemo: ilia karno konsumiĝos dum ili staras sur siaj piedoj, iliaj okuloj konsumiĝos en siaj kavoj, kaj ilia lango konsumiĝos en ilia buŝo. Kaj okazos en tiu tago, ke granda paniko de la Eternulo estos inter ili; kaj ili kaptos manon de sia najbaro, kaj lia mano leviĝos kontraŭ mano de sia najbaro. Judujo ankaŭ batalos ĉe Jerusalemo; kaj la riĉaĵoj de ĉiuj ĉirkaŭaj nacioj estos kolektitaj kune: oro, arĝento, kaj vestoj en granda abundo.
+--- input721
+Jen la traduko al Esperanto:
+
+---
+
+Plago kiel ĉi tio falos sur la ĉevalo, sur la mulo, sur la kamelo, sur la azeno, kaj sur ĉiuj bestoj, kiuj estos en tiuj tendaroj.
+
+Okazos, ke ĉiuj, kiuj restos el ĉiuj nacioj, kiuj venis kontraŭ Jerusalemo, supreniros jaron post jaro por adori la Reĝon, Jahveon de Armeoj, kaj por festi la feston de budoj. Okazos, ke se iu el ĉiuj familioj de la tero ne supreniros al Jerusalemo por adori la Reĝon, Jahveon de Armeoj, sur ili ne estos pluvo. Se la familio de Egiptujo ne supreniros kaj ne venos, ankaŭ sur ili ne pluvis. Ĉi tio estos la plago, per kiu Jahveo frapos la naciojn, kiuj ne supreniros por festi la feston de budoj. Ĉi tio estos la puno de Egiptujo kaj la puno de ĉiuj nacioj, kiuj ne supreniros por festi la feston de budoj.
+
+En tiu tago estos surskribite sur la sonoriloj de la ĉevaloj: "SANKTA AL JAHVEO"; kaj la potoj en la domo de Jahveo estos kiel la bovloj antaŭ la altaro. Jes, ĉiu poto en Jerusalemo kaj en Judujo estos sankta al Jahveo de Armeoj; kaj ĉiuj, kiuj oferbuĉas, venos kaj prenos el ili kaj kuiros en ili. En tiu tago ne plu estos Kanaanano en la domo de Jahveo de Armeoj.
+
+## Malakio
+
+La Libro de Malakio
+
+### Ĉapitro 1
+
+Revelacio, la vorto de Jahveo al Izrael per Malakio.
+
+"Mi amis vin," diras Jahveo.
+
+Sed vi diras: "Kiel vi amis nin?"
+
+"Ĉu Esav ne estis frato de Jakob?" diras Jahveo. "Tamen mi amis Jakobon; sed Esav mi malamis, kaj mi faris liajn montojn dezerto kaj donis lian heredaĵon al la ŝakaloj de la dezerto." Dum Edom diras: "Ni estas frakasitaj, sed ni revenos kaj rekonstruos la ruinojn," Jahveo de Armeoj diras: "Ili rekonstruos, sed mi detruos; kaj homoj nomos ilin 'La Malbona Lando,' eĉ la popolo kontraŭ kiu Jahveo montras koleron por ĉiam."
+
+Viaj okuloj vidos, kaj vi diros: "Jahveo estas granda — eĉ preter la limo de Izrael!"
+
+"Filo honoras sian patron, kaj servisto sian mastron. Se mi estas patro, kie estas mia honoro? Kaj se mi estas mastro, kie estas la respekto ŝuldata al mi?" diras Jahveo de Armeoj al vi pastroj, kiuj malestimas mian nomon. "Vi diras: 'Kiel ni malestimis vian nomon?' Vi oferas poluitan panon sur mia altaro. Vi diras: 'Kiel ni poluis vin?' En tio vi diras: 'La tablo de Jahveo estas malestiminda.' Kiam vi oferas blindulon kiel oferon, ĉu tio ne estas malbona? Kaj kiam vi oferas lamulon kaj malsanulon, ĉu tio ne estas malbona? Presentu ĝin nun al via guberniestro! Ĉu li plaĉos al vi? Aŭ ĉu li akceptos vin?" diras Jahveo de Armeoj.
+
+"Nun bonvolu peti favoron de Dio, ke li estu favora al ni. Ĉu kun ĉi tio li akceptos iun el vi?" diras Jahveo de Armeoj.
+
+"Ho, se estus unu inter vi, kiu fermus la pordojn, por ke vi ne ekbruligu fajron sur mia altaro vane! Mi ne havas plezuron en vi," diras Jahveo de Armeoj, "nek mi akceptos oferon el viaj manoj. Ĉar de la leviĝo de la suno ĝis ĝia subiro mia nomo estas granda inter la nacioj; kaj en ĉiu loko incenso estos oferita al mia nomo, kaj pura ofero; ĉar mia nomo estas granda inter la nacioj," diras Jahveo de Armeoj. "Sed vi profanas ĝin kiam vi diras: 'La tablo de Jahveo estas poluita, kaj ĝia frukto, eĉ ĝia manĝaĵo, estas malestiminda.' Vi ankaŭ diras: 'Jen, kia ĝeno ĝi estas!' Kaj vi flaras ĝin," diras Jahveo de Armeoj; "kaj vi alportis tion, kio estis prenita per perforto, la lamulon kaj malsanulon; tiel vi alportas oferon. Ĉu mi akceptu tion el viaj manoj?" diras Jahveo.
+
+"Sed malbenita estas trompisto, kiu havas en sia grego virseksulon kaj faras promeson kaj oferas al la Sinjoro difektitan aferon; ĉar mi estas granda Reĝo," diras Jahveo de Armeoj, "kaj mia nomo estas timinda inter la nacioj."
+
+### Ĉapitro 2
+
+"Nun vi pastroj, ĉi tiu ordono estas por vi. Se vi ne aŭskultos kaj se vi ne prenos ĝin al koro por doni gloron al mia nomo," diras Jahveo de Armeoj, "tiam mi sendos malbenon sur vin kaj mi malbenos viajn benojn. Efektive mi jam malbenis ilin, ĉar vi ne prenas ĝin al koro. Jen mi riproĉos viajn idojn kaj disvastigos sterkon sur viaj vizaĝoj, eĉ la sterkon de viaj festenoj; kaj oni forportos vin kun ĝi. Vi scios, ke mi sendis ĉi tiun ordonon al vi, por ke mia interligo estu kun Levi," diras Jahveo de Armeoj. "Mia interligo estis kun li pri vivo kaj paco; kaj mi donis ilin al li por ke li estu respektplena al mi; kaj li estis respektplena al mi kaj timis mian nomon. La leĝo de vero estis en lia buŝo, kaj maljusteco ne troviĝis en liaj lipoj. Li iris kun mi en paco kaj honesto kaj turnis multajn for de maljusteco. Ĉar lipoj de pastro devas konservi scion, kaj oni devas serĉi leĝon ĉe lia buŝo; ĉar li estas mesaĝisto de Jahveo de Armeoj. Sed vi deturniĝis de la vojo. Vi kaŭzis multajn fali en la leĝo. Vi koruptis la interligon kun Levi," diras Jahveo de Armeoj. "Tial mi ankaŭ faris vin malestimindaj kaj malbonaj antaŭ ĉiuj homoj laŭ tio kiel vi ne konservis miajn vojojn sed montris favorismon en la leĝo. Ĉu ni ĉiuj ne havas unu patron? Ĉu unu Dio ne kreis nin? Kial ni perfidas unu kontraŭ sia frato profanante la interligon kun niaj patroj? Judujo perfidis, kaj abomenindaĵo estas farita en Izrael kaj en Jerusalemo; ĉar Judujo profanis la sanktecon de Jahveo kiun li amas kaj edziĝis kun filino de fremda dio. Jahveo fortranĉos tiun homon kiu faras tion — lin kiu vekas kaj lin kiu respondas — el la tendoj de Jakob kaj lin kiu ofertas oferon al Jahveo de Armeoj."
+
+---
+--- input722
+“Ĉi tion vi denove faras: vi kovras la altaron de Jahveo per larmoj, plorado kaj ĝemado, ĉar Li ne plu rigardas la oferon, nek akceptas ĝin favore el viaj manoj. Tamen vi diras: ‘Kial?’ Ĉar Jahveo estis atestanto inter vi kaj la edzino de via juneco, kontraŭ kiu vi agis perfide, kvankam ŝi estas via kunulino kaj la edzino de via interligo. Ĉu Li ne faris vin unu, kvankam Li havis la restaĵon de la Spirito? Kial unu? Li serĉis diajn idojn. Tial zorgu pri via spirito, kaj neniu agu perfide kontraŭ la edzino de sia juneco. Kiu malamas kaj eksedziĝas,” diras Jahveo, la Dio de Izrael, “kovras sian veston per perforto!” diras Jahveo Cebaot. “Tial atentu vian spiriton, por ke vi ne estu malfidela.
+
+Vi lacigis Jahveon per viaj vortoj. Tamen vi diras: ‘Kiel ni lacigis Lin?’ Per tio, ke vi diras: ‘Ĉiu, kiu faras malbonon, estas bona en la okuloj de Jahveo, kaj Li ĝojas pri ili;’ aŭ ‘Kie estas la Dio de justeco?’
+
+### Ĉapitro 3
+
+“Jen Mi sendas Mian mesaĝiston, kaj li preparos la vojon antaŭ Mi! La Sinjoro, kiun vi serĉas, subite venos al Sia templo. Jen, la mesaĝisto de la interligo, kiun vi deziras, venas!” diras Jahveo Cebaot. “Sed kiu povas elteni la tagon de Lia alveno? Kaj kiu staros kiam Li aperos? Ĉar Li estas kiel rafina fajro kaj kiel sapo de purigistoj; kaj Li sidos kiel rafinisto kaj purigisto de arĝento, kaj Li purigos la filojn de Levi kaj rafinos ilin kiel oron kaj arĝenton; kaj ili oferportos al Jahveo oferon en justeco. Tiam la ofero de Jehuda kaj Jerusalemo estos agrabla al Jahveo kiel en la tagoj de antikveco kaj kiel en antaŭaj jaroj.
+
+Mi alproksimiĝos al vi por juĝo. Mi estos rapida atestanto kontraŭ sorĉistoj, kontraŭ adultuloj, kontraŭ mensogantoj sub ĵuro, kaj kontraŭ tiuj, kiuj premas la dungiton en lia salajro, la vidvinon kaj la orfon, kaj kiuj senigas fremdulon je justeco, kaj ne timas Min,” diras Jahveo Cebaot.
+
+“Ĉar Mi, Jahveo, ne ŝanĝiĝas; tial vi, filoj de Jakob, ne estas ekstermitaj. Ekde la tagoj de viaj patroj vi deturniĝis de Miaj ordonoj kaj ne observis ilin. Revenu al Mi, kaj Mi revenos al vi,” diras Jahveo Cebaot. “Sed vi diras: ‘Kiel ni revenu?’
+
+Ĉu homo povas ŝteli de Dio? Tamen vi ŝtelas de Mi! Sed vi diras: ‘Kiel ni ŝtelis de Vi?’ En dekonaĵoj kaj oferoj. Vi estas malbenitaj per malbeno; ĉar vi ŝtelas de Mi, eĉ ĉi tiu tuta nacio. Alportu la tutan dekonaĵon en la provizejon, por ke estu manĝaĵo en Mia domo, kaj provu Min nun pri tio,” diras Jahveo Cebaot, “ĉu Mi ne malfermos al vi la fenestrojn de la ĉielo kaj verŝos sur vin benon tiel grandan, ke ne estos sufiĉe da loko por ĝi. Mi riproĉos la formanĝanton pro vi, kaj li ne detruos la fruktojn de via tero; nek via vinberujo faligos sian frukton antaŭ ĝia tempo sur la kampo,” diras Jahveo Cebaot. “Ĉiuj nacioj nomos vin benitaj, ĉar vi estos agrabla lando,” diras Jahveo Cebaot.
+
+“Viaj vortoj estis severaj kontraŭ Mi,” diras Jahveo. “Tamen vi diras: ‘Kion ni parolis kontraŭ Vi?’ Vi diris: ‘Estas vane servi Dion,’ kaj ‘Kia profito estas tio, ke ni sekvis Liajn instrukciojn kaj ke ni marŝis malĝoje antaŭ Jahveo Cebaot? Nun ni nomas fierulojn feliĉaj; jes, tiuj kiuj faras malbonon prosperas; jes, ili provas Dion kaj eskapas.’
+
+Tiam tiuj, kiuj timis Jahveon, parolis unu kun alia; kaj Jahveo aŭskultis kaj aŭdis, kaj libro de memoro estis skribita antaŭ Li por tiuj, kiuj timis Jahveon kaj honoris Lian nomon. Ili estos Miaj,” diras Jahveo Cebaot, “Mia propra posedaĵo en la tago kiam Mi faros tion. Mi indulgos ilin, kiel homo indulgas sian propran filon kiu servas lin. Tiam vi revenos kaj distingos inter la virtulo kaj la malvirtulo, inter tiu kiu servas Dion kaj tiu kiu ne servas Lin.
+
+### Ĉapitro 4
+
+“Ĉar jen venas tago brulanta kiel forno, kiam ĉiuj fieruloj kaj ĉiuj kiuj faras malbonon estos kiel pajlo. La tago kiu venos bruligos ilin,” diras Jahveo Cebaot, “tiel ke ĝi ne lasos al ili nek radikon nek branĉon. Sed por vi kiuj timas Mian nomon leviĝos la suno de justeco kun resanigo en ĝiaj flugiloj. Vi eliros kaj saltos kiel bovidoj el stalo. Vi piedpremos la malvirtulojn; ĉar ili estos cindro sub la plandoj de viaj piedoj en la tago kiam Mi faros tion,” diras Jahveo Cebaot.
+--- input723
+“Memoru la leĝon de Moseo, mia servanto, kiun Mi ordonis al li en Ĥorebo por la tuta Izrael, kun ĉiuj leĝoj kaj ordonoj.
+
+Jen, Mi sendos al vi Elijan, la profeton, antaŭ ol venos la granda kaj timinda tago de Jahve. Li turnos la korojn de la patroj al la infanoj kaj la korojn de la infanoj al iliaj patroj, por ke Mi ne venu kaj frapu la teron per malbeno.”
