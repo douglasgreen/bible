@@ -6869,7 +6869,7 @@ hypocrite: sceneja aktoro; iu kiu ŝajnigas esti iu alia ol kiu ili vere estas; 
 
 Ishmael: Iŝmael estas la filo de Abraham kaj Hagar. Iŝmael laŭvorte signifas, "Dio aŭdas."
 
-Jehovah: Vidu "Jahveo."
+Jehovah: Vidu "Javeo."
 
 Jesus: "Jesuo" estas la greka formo de la hebrea nomo "Jeŝuo," kiu estas mallongigo de "Jehoŝua," kiu devenas de "Joŝia," signifante "Li savos."
 
@@ -6961,7 +6961,7 @@ terafim: Terafim estas hejmaj idoloj, kiuj eble estis asociitaj kun heredrajtoj 
 
 Jah: "Jah" estas mallongigita formo de "Javeo," kiu estas la propra nomo de Dio. Ĉi tiu formo estas foje uzata en la Malnova Testamento, plejparte en Psalmoj. Vidu "Javeo."
 
-Jahveo: "Jahveo" estas la propra nomo de Dio. En la hebrea, la kvar konsonantoj proksimume ekvivalentaj al YHWH estis konsiderataj tro sanktaj por esti prononcitaj, do la hebrea vorto por "Sinjoro" (Adonai) estis anstataŭigita kiam oni legis ĝin laŭte. Kiam vokalaj punktoj estis aldonitaj al la hebrea Malnova Testamento, la vokalaj punktoj por "Adonai" estis miksitaj kun la konsonantoj por "Jahveo," kio, se vi prononcas ĝin laŭlitere kiel skribite, estus prononcita "Jehovah" aŭ "Jehovo." Kiam la Malnova Testamento estis tradukita al la greka, la tradicio anstataŭigi "Sinjoro" por la propra nomo de Dio daŭris en la traduko de la nomo de Dio al "Sinjoro" (Kurios). Iuj anglaj Biblioj tradukas la propran nomon de Dio al "LORD" aŭ "GOD" (kutime kun malgrandaj majuskloj), bazite sur tiu sama tradicio. Ĉi tio povas fariĝi tre konfuziga, ĉar du aliaj vortoj ("Adonai" kaj "Elohim") tradukiĝas al "Sinjoro" kaj "Dio," kaj ili foje estas uzataj kune. La ASV de 1901 (kaj iuj aliaj tradukoj) redonas YHWH kiel "Jehovo." La plej probabla prononco de la propra nomo de Dio estas "Jahveo." En la hebrea, la nomo "Jahveo" estas rilata al la aktiva deklaro "MI ESTAS." Vidu Eliro 3:13-14. Ĉar la hebrea ne havas tempojn, la deklaro "MI ESTAS" ankaŭ povas esti interpretata kiel "MI ESTIS" kaj "MI ESTOS." Komparu Apokalipso 1:8.
+Javeo: "Javeo" estas la propra nomo de Dio. En la hebrea, la kvar konsonantoj proksimume ekvivalentaj al YHWH estis konsiderataj tro sanktaj por esti prononcitaj, do la hebrea vorto por "Sinjoro" (Adonai) estis anstataŭigita kiam oni legis ĝin laŭte. Kiam vokalaj punktoj estis aldonitaj al la hebrea Malnova Testamento, la vokalaj punktoj por "Adonai" estis miksitaj kun la konsonantoj por "Javeo," kio, se vi prononcas ĝin laŭlitere kiel skribite, estus prononcita "Jehovah" aŭ "Jehovo." Kiam la Malnova Testamento estis tradukita al la greka, la tradicio anstataŭigi "Sinjoro" por la propra nomo de Dio daŭris en la traduko de la nomo de Dio al "Sinjoro" (Kurios). Iuj anglaj Biblioj tradukas la propran nomon de Dio al "LORD" aŭ "GOD" (kutime kun malgrandaj majuskloj), bazite sur tiu sama tradicio. Ĉi tio povas fariĝi tre konfuziga, ĉar du aliaj vortoj ("Adonai" kaj "Elohim") tradukiĝas al "Sinjoro" kaj "Dio," kaj ili foje estas uzataj kune. La ASV de 1901 (kaj iuj aliaj tradukoj) redonas YHWH kiel "Jehovo." La plej probabla prononco de la propra nomo de Dio estas "Javeo." En la hebrea, la nomo "Javeo" estas rilata al la aktiva deklaro "MI ESTAS." Vidu Eliro 3:13-14. Ĉar la hebrea ne havas tempojn, la deklaro "MI ESTAS" ankaŭ povas esti interpretata kiel "MI ESTIS" kaj "MI ESTOS." Komparu Apokalipso 1:8.
 
 Cion: Cion estas nomo kiu origine rilatis al unu el la montoj de Jerusalemo. Ĝi fariĝis termino sinonima kun Jerusalemo mem. La termino "Ĉiela Cion" ankaŭ estas uzata por rilati al la estonta loĝloko de la popolo de Dio.
 
