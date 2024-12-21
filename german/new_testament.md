@@ -1,4 +1,3 @@
---- input000
 # Neues Testament, Weltenglische Bibel
 
 ## Matthäus
@@ -34,7 +33,7 @@ denn aus dir wird ein Herrscher hervorgehen,
 der mein Volk Israel weiden wird.’“
 
 Da rief Herodes die Weisen heimlich zu sich und erfuhr von ihnen genau die Zeit, wann der Stern erschienen war. Und er sandte sie nach Bethlehem und sprach: „Geht hin und forscht sorgfältig nach dem Kind; und wenn ihr es gefunden habt, bringt mir Nachricht, damit auch ich komme und es anbete.“
---- input001
+
 Sie, nachdem sie den König gehört hatten, gingen ihres Weges; und siehe, der Stern, den sie im Osten gesehen hatten, ging vor ihnen her, bis er kam und über dem Ort stehen blieb, wo das Kind war. Als sie den Stern sahen, freuten sie sich mit sehr großer Freude. Sie gingen in das Haus und sahen das Kind mit Maria, seiner Mutter, und sie fielen nieder und beteten es an. Sie öffneten ihre Schätze und brachten ihm Geschenke dar: Gold, Weihrauch und Myrrhe. Und da sie im Traum gewarnt wurden, nicht zu Herodes zurückzukehren, zogen sie auf einem anderen Weg in ihr Land zurück.
 
 Als sie aber fortgezogen waren, siehe, da erschien ein Engel des Herrn dem Joseph im Traum und sprach: „Steh auf, nimm das Kind und seine Mutter und flieh nach Ägypten; bleib dort, bis ich es dir sage, denn Herodes wird das Kind suchen, um es umzubringen.“
@@ -70,7 +69,7 @@ Da kam Jesus aus Galiläa an den Jordan zu Johannes, um sich von ihm taufen zu l
 Jesus aber antwortete ihm: „Lass es jetzt so sein; denn so gebührt es uns, alle Gerechtigkeit zu erfüllen.“ Da ließ er ihn.
 
 Als Jesus getauft war, stieg er sogleich aus dem Wasser herauf; und siehe, die Himmel öffneten sich ihm. Er sah den Geist Gottes wie eine Taube herabsteigen und auf ihn kommen. Und siehe, eine Stimme aus den Himmeln sprach: „Dies ist mein geliebter Sohn, an dem ich Wohlgefallen habe.“
---- input002
+
 ### Kapitel 4
 
 Dann wurde Jesus vom Geist in die Wüste geführt, um vom Teufel versucht zu werden. Und als er vierzig Tage und vierzig Nächte gefastet hatte, war er danach hungrig. Da trat der Versucher zu ihm und sprach: „Wenn du Gottes Sohn bist, so befiehl, dass diese Steine Brot werden.“
@@ -131,7 +130,7 @@ Selig seid ihr, wenn euch die Menschen schmähen und verfolgen und allerlei Übl
 Ihr seid das Salz der Erde; wenn aber das Salz fade wird, womit soll es gesalzen werden? Es taugt zu nichts mehr, als hinausgeworfen und von den Leuten zertreten zu werden.
 
 Ihr seid das Licht der Welt. Eine Stadt, die auf einem Berg liegt, kann nicht verborgen bleiben. Man zündet auch nicht eine Lampe an und stellt sie unter einen Scheffel, sondern auf den Leuchter; dann leuchtet sie allen im Haus. So soll euer Licht vor den Menschen leuchten, damit sie eure guten Werke sehen und euren Vater im Himmel preisen.“
---- input003
+
 „Denkt nicht, dass ich gekommen bin, um das Gesetz oder die Propheten aufzulösen. Ich bin nicht gekommen, um aufzulösen, sondern um zu erfüllen. Denn wahrlich, ich sage euch: Bis Himmel und Erde vergehen, wird nicht der kleinste Buchstabe oder ein einziges Strichlein vom Gesetz vergehen, bis alles geschehen ist. Wer nun eines dieser geringsten Gebote bricht und die Menschen so lehrt, der wird der Geringste im Himmelreich heißen; wer sie aber tut und lehrt, der wird groß im Himmelreich heißen. Denn ich sage euch: Wenn eure Gerechtigkeit nicht besser ist als die der Schriftgelehrten und Pharisäer, so werdet ihr keinesfalls in das Himmelreich eingehen.
 
 „Ihr habt gehört, dass zu den Alten gesagt wurde: ‚Du sollst nicht töten;‘ und: ‚Wer tötet, wird dem Gericht verfallen sein.‘ Ich aber sage euch: Jeder, der seinem Bruder ohne Grund zürnt, wird dem Gericht verfallen sein. Wer aber zu seinem Bruder sagt: ‚Raka!‘ wird dem Hohen Rat verfallen sein; wer aber sagt: ‚Du Narr!‘ wird dem Feuer der Hölle verfallen sein.
@@ -147,7 +146,7 @@ Ihr seid das Licht der Welt. Eine Stadt, die auf einem Berg liegt, kann nicht ve
 „Ihr habt gehört, dass gesagt wurde: ‚Auge um Auge und Zahn um Zahn.‘ Ich aber sage euch: Widersteht nicht dem Bösen; sondern wer dich auf deine rechte Wange schlägt, dem halte auch die andere hin. Und dem, der mit dir vor Gericht gehen und dein Hemd nehmen will, dem lass auch den Mantel. Und wer dich zwingt, eine Meile mitzugehen, mit dem geh zwei. Gib dem, der dich bittet, und wende dich nicht ab von dem, der von dir borgen will.
 
 „Ihr habt gehört, dass gesagt wurde: ‚Du sollst deinen Nächsten lieben und deinen Feind hassen.‘ Ich aber sage euch: Liebt eure Feinde; segnet die, die euch fluchen; tut wohl denen, die euch hassen; und betet für die, die euch beleidigen und verfolgen; damit ihr Kinder eures Vaters seid, der in den Himmeln ist. Denn er lässt seine Sonne aufgehen über Böse und Gute und lässt regnen über Gerechte und Ungerechte. Denn wenn ihr die liebt, die euch lieben, welchen Lohn habt ihr? Tun nicht auch die Zöllner dasselbe? Und wenn ihr nur eure Brüder grüßt, was tut ihr Besonderes? Tun nicht auch die Zöllner dasselbe? Darum sollt ihr vollkommen sein, wie euer Vater im Himmel vollkommen ist.“
---- input004
+
 ### Kapitel 6
 
 „Hütet euch davor, eure Wohltaten vor den Menschen zu tun, um von ihnen gesehen zu werden; sonst habt ihr keinen Lohn bei eurem Vater im Himmel. Wenn du also Barmherzigkeit übst, lass keine Trompete vor dir erschallen, wie es die Heuchler in den Synagogen und auf den Straßen tun, damit sie von den Menschen geehrt werden. Wahrlich, ich sage euch: Sie haben ihren Lohn bereits erhalten. Wenn du aber Barmherzigkeit übst, soll deine linke Hand nicht wissen, was deine rechte tut, damit deine Barmherzigkeit im Verborgenen bleibt; und dein Vater, der ins Verborgene sieht, wird dich belohnen.
@@ -178,7 +177,7 @@ Denn dein ist das Reich und die Kraft und die Herrlichkeit in Ewigkeit. Amen.‘
 „Wer von euch kann durch Sorgen sein Leben auch nur um eine einzige Stunde verlängern? Und warum sorgt ihr euch um Kleidung? Betrachtet die Lilien des Feldes, wie sie wachsen: Sie mühen sich nicht ab und spinnen nicht; doch ich sage euch: Selbst Salomo in all seiner Herrlichkeit war nicht gekleidet wie eine von ihnen. Wenn nun Gott das Gras des Feldes so kleidet, das heute steht und morgen in den Ofen geworfen wird – wird er das nicht viel mehr für euch tun, ihr Kleingläubigen?
 
 „Sorgt euch also nicht und sagt: ‚Was sollen wir essen?‘ oder ‚Was sollen wir trinken?‘ oder ‚Was sollen wir anziehen?‘ Denn nach all dem trachten die Heiden; euer himmlischer Vater aber weiß, dass ihr all das braucht. Trachtet zuerst nach dem Reich Gottes und nach seiner Gerechtigkeit; dann wird euch all das hinzugefügt werden. Sorgt euch also nicht um morgen; denn der morgige Tag wird für sich selbst sorgen. Jeder Tag hat genug eigene Plage.“
---- input005
+
 ### Kapitel 7
 
 „Richtet nicht, damit ihr nicht gerichtet werdet. Denn mit welchem Gericht ihr richtet, werdet ihr gerichtet werden; und mit welchem Maß ihr messt, wird euch zugemessen werden. Warum siehst du den Splitter im Auge deines Bruders, aber den Balken in deinem eigenen Auge bemerkst du nicht? Oder wie kannst du zu deinem Bruder sagen: ‚Lass mich den Splitter aus deinem Auge ziehen‘, und siehe, der Balken ist in deinem eigenen Auge? Du Heuchler! Zieh zuerst den Balken aus deinem eigenen Auge, und dann wirst du klar sehen, um den Splitter aus dem Auge deines Bruders zu ziehen.
@@ -208,7 +207,7 @@ Als er nach Kapernaum kam, trat ein Hauptmann zu ihm und bat ihn: „Herr, mein 
 Jesus sprach zu ihm: „Ich will kommen und ihn heilen.“
 
 Der Hauptmann antwortete: „Herr, ich bin nicht würdig, dass du unter mein Dach kommst; sprich nur ein Wort, so wird mein Diener gesund. Denn auch ich bin ein Mensch unter Autorität und habe Soldaten unter mir. Ich sage zu diesem: ‚Geh!‘ – und er geht; und zu einem anderen: ‚Komm!‘ – und er kommt; und zu meinem Diener: ‚Tu dies!‘ – und er tut es.“
---- input006
+
 Als Jesus es hörte, wunderte er sich und sagte zu denen, die ihm folgten: „Wahrlich, ich sage euch, einen so großen Glauben habe ich in Israel nicht gefunden. Ich sage euch aber, viele werden von Osten und Westen kommen und mit Abraham, Isaak und Jakob im Himmelreich zu Tisch sitzen. Aber die Kinder des Reiches werden hinausgeworfen in die äußerste Finsternis; dort wird Heulen und Zähneknirschen sein.“ Und Jesus sprach zu dem Hauptmann: „Geh hin! Dir geschehe, wie du geglaubt hast.“ Und sein Diener wurde in jener Stunde gesund.
 
 Als Jesus in das Haus des Petrus kam, sah er dessen Schwiegermutter fieberkrank daliegen. Er berührte ihre Hand, und das Fieber verließ sie. Da stand sie auf und diente ihm. Am Abend brachten sie viele Besessene zu ihm. Er trieb die Geister mit einem Wort aus und heilte alle Kranken, damit erfüllt würde, was durch den Propheten Jesaja gesagt wurde: „Er nahm unsere Schwachheiten auf sich und trug unsere Krankheiten.“
@@ -248,7 +247,7 @@ Da stand er auf und ging heim. Als die Volksmenge dies sah, fürchteten sie sich
 Als Jesus von dort weiterging, sah er einen Mann namens Matthäus am Zoll sitzen. Er sprach zu ihm: „Folge mir nach!“ Und er stand auf und folgte ihm nach. Und es geschah, als Jesus in seinem Haus zu Tisch saß: Siehe, viele Zöllner und Sünder kamen und setzten sich mit Jesus und seinen Jüngern zu Tisch. Als die Pharisäer das sahen, sagten sie zu seinen Jüngern: „Warum isst euer Lehrer mit den Zöllnern und Sündern?“
 
 Als Jesus das hörte, sprach er: „Die Starken bedürfen keines Arztes, sondern die Kranken. Geht aber hin und lernt, was das heißt: ‚Ich will Barmherzigkeit und nicht Opfer‘; denn ich bin nicht gekommen, Gerechte zu rufen, sondern Sünder zur Buße.“
---- input007
+
 Dann kamen die Jünger des Johannes zu ihm und fragten: „Warum fasten wir und die Pharisäer oft, aber deine Jünger fasten nicht?“
 
 Jesus antwortete ihnen: „Können die Freunde des Bräutigams trauern, solange der Bräutigam bei ihnen ist? Aber es werden Tage kommen, da der Bräutigam von ihnen genommen wird, und dann werden sie fasten. Niemand setzt ein Stück ungeschrumpften Stoff auf ein altes Kleid; denn der Flicken reißt vom Kleid ab, und das Loch wird schlimmer. Auch füllt man nicht neuen Wein in alte Schläuche; sonst zerreißen die Schläuche, der Wein wird verschüttet, und die Schläuche verderben. Nein, man füllt neuen Wein in neue Schläuche, und so bleiben beide erhalten.“
@@ -280,7 +279,7 @@ Jesus zog durch alle Städte und Dörfer, lehrte in ihren Synagogen, predigte da
 Er rief seine zwölf Jünger zu sich und gab ihnen Vollmacht über unreine Geister, sie auszutreiben und jede Krankheit und jedes Gebrechen zu heilen. Die Namen der zwölf Apostel sind diese: Der erste Simon, genannt Petrus; Andreas, sein Bruder; Jakobus, der Sohn des Zebedäus; Johannes, sein Bruder; Philippus; Bartholomäus; Thomas; Matthäus, der Zöllner; Jakobus, der Sohn des Alphäus; Lebbäus mit dem Beinamen Thaddäus; Simon der Zelot; und Judas Iskariot, der ihn auch verriet.
 
 Diese Zwölf sandte Jesus aus und gebot ihnen: „Geht nicht zu den Heiden und betretet keine Stadt der Samariter. Geht vielmehr zu den verlorenen Schafen des Hauses Israel. Geht hin und predigt: ‚Das Himmelreich ist nahe herbeigekommen!‘ Heilt Kranke, reinigt Aussätzige, treibt Dämonen aus. Umsonst habt ihr empfangen, umsonst gebt. Nehmt weder Gold noch Silber noch Kupfer in eure Gürtel mit. Nehmt keine Tasche für den Weg mit, weder zwei Mäntel noch Sandalen noch einen Stab; denn der Arbeiter ist seiner Nahrung wert. Wenn ihr in eine Stadt oder ein Dorf kommt, so erkundigt euch, wer darin würdig ist, und bleibt dort, bis ihr weiterzieht. Wenn ihr in das Haus eintretet, so grüßt es. Ist das Haus würdig, so komme euer Friede auf es; ist es aber nicht würdig, so kehre euer Friede zu euch zurück. Und wenn euch jemand nicht aufnimmt oder eure Worte nicht hört, so geht hinaus aus jenem Haus oder jener Stadt und schüttelt den Staub von euren Füßen ab. Wahrlich, ich sage euch: Es wird dem Land Sodom und Gomorra am Tag des Gerichts erträglicher ergehen als jener Stadt."
---- input008
+
 „Siehe, ich sende euch wie Schafe mitten unter die Wölfe. Seid daher klug wie die Schlangen und ohne Falsch wie die Tauben. Hütet euch aber vor den Menschen, denn sie werden euch vor Gerichte bringen und in ihren Synagogen geißeln. Ja, und ihr werdet um meinetwillen vor Statthalter und Könige geführt werden, ihnen und den Völkern zum Zeugnis. Wenn sie euch aber ausliefern, sorgt euch nicht, wie oder was ihr reden sollt, denn es wird euch in jener Stunde gegeben werden, was ihr sagen sollt. Denn nicht ihr seid es, die reden, sondern der Geist eures Vaters, der durch euch spricht.
 
 „Der Bruder wird den Bruder zum Tode ausliefern und der Vater das Kind; und Kinder werden sich gegen ihre Eltern erheben und sie töten lassen. Und ihr werdet von allen Menschen um meines Namens willen gehasst werden; wer aber bis ans Ende standhaft bleibt, der wird gerettet werden. Wenn sie euch aber in einer Stadt verfolgen, so flieht in die andere; denn wahrlich, ich sage euch: Ihr werdet mit den Städten Israels nicht zu Ende kommen, bis der Menschensohn kommt.
@@ -302,7 +301,7 @@ Als Johannes im Gefängnis von den Werken Christi hörte, sandte er zwei seiner 
 Jesus antwortete ihnen: „Geht hin und berichtet Johannes, was ihr hört und seht: Blinde sehen wieder, Lahme gehen umher, Aussätzige werden rein gemacht, Taube hören, Tote werden auferweckt und Armen wird das Evangelium verkündet. Selig ist, wer sich nicht an mir ärgert.“
 
 Als diese weggingen, begann Jesus zu der Volksmenge über Johannes zu sprechen: „Was seid ihr hinausgegangen in die Wüste zu sehen? Ein Rohr, das vom Wind hin- und herbewegt wird? Oder was seid ihr hinausgegangen zu sehen? Einen Mann in weichen Kleidern? Siehe, die weiche Kleider tragen, sind in den Häusern der Könige. Oder warum seid ihr hinausgegangen? Einen Propheten zu sehen? Ja, ich sage euch: Und mehr als einen Propheten! Denn dieser ist es, von dem geschrieben steht: ‚Siehe, ich sende meinen Boten vor deinem Angesicht her, der deinen Weg vor dir bereiten wird.‘ Wahrlich, ich sage euch: Unter denen, die von Frauen geboren sind, ist kein Größerer aufgetreten als Johannes der Täufer; doch der Kleinste im Himmelreich ist größer als er. Seit den Tagen Johannes des Täufers bis jetzt leidet das Himmelreich Gewalt, und Gewalttätige reißen es an sich. Denn alle Propheten und das Gesetz haben bis zu Johannes geweissagt. Und wenn ihr es annehmen wollt: Er ist Elia, der kommen soll. Wer Ohren hat zu hören, der höre!“
---- input009
+
 „Mit wem soll ich diese Generation vergleichen? Sie gleicht Kindern, die auf den Marktplätzen sitzen und ihren Gefährten zurufen: ‚Wir haben für euch auf der Flöte gespielt, und ihr habt nicht getanzt. Wir haben geklagt, und ihr habt nicht geweint.‘ Denn Johannes ist gekommen, der weder aß noch trank, und sie sagen: ‚Er hat einen Dämon.‘ Der Menschensohn ist gekommen, der isst und trinkt, und sie sagen: ‚Seht, ein Fresser und Weinsäufer, ein Freund der Zöllner und Sünder!‘ Doch die Weisheit wird durch ihre Kinder gerechtfertigt.“
 
 Dann begann er, die Städte zu tadeln, in denen die meisten seiner mächtigen Taten geschehen waren, weil sie nicht Buße taten: „Wehe dir, Chorazin! Wehe dir, Bethsaida! Denn wenn in Tyrus und Sidon die mächtigen Taten geschehen wären, die in euch geschehen sind, hätten sie längst in Sack und Asche Buße getan. Doch ich sage euch: Es wird Tyrus und Sidon am Tag des Gerichts erträglicher ergehen als euch. Und du, Kapernaum, die du bis zum Himmel erhoben wurdest, du wirst bis zum Hades hinabgestürzt werden. Denn wenn in Sodom die mächtigen Taten geschehen wären, die in dir geschehen sind, wäre es bis heute geblieben. Doch ich sage euch: Es wird dem Land Sodom am Tag des Gerichts erträglicher ergehen als dir.“
@@ -344,3 +343,6682 @@ bis er das Recht zum Sieg führt.
 Und auf seinen Namen werden die Nationen hoffen.“
 
 Dann brachte man einen Besessenen zu ihm, der blind und stumm war; und er heilte ihn, sodass der Blinde und Stumme sowohl redete als auch sah. Und alle Leute erstaunten und sagten: „Ist dieser nicht etwa der Sohn Davids?“ Als die Pharisäer das hörten, sagten sie: „Dieser treibt die Dämonen nur durch Beelzebul aus, den Obersten der Dämonen.“
+
+Wissen, was sie dachten, sagte Jesus zu ihnen: „Jedes Reich, das gegen sich selbst geteilt ist, wird verwüstet, und jede Stadt oder jedes Haus, das gegen sich selbst geteilt ist, wird nicht bestehen bleiben. Wenn Satan Satan austreibt, ist er gegen sich selbst geteilt. Wie wird dann sein Reich bestehen? Wenn ich durch Beelzebul Dämonen austreibe, durch wen treiben eure Kinder sie aus? Daher werden sie eure Richter sein. Wenn ich aber durch den Geist Gottes Dämonen austreibe, dann ist das Reich Gottes zu euch gekommen. Oder wie kann jemand in das Haus des starken Mannes eintreten und seine Güter rauben, es sei denn, er bindet zuerst den starken Mann? Dann wird er sein Haus plündern.
+
+„Wer nicht mit mir ist, ist gegen mich, und wer nicht mit mir sammelt, zerstreut. Daher sage ich euch: Jede Sünde und Lästerung wird den Menschen vergeben werden, aber die Lästerung gegen den Geist wird den Menschen nicht vergeben werden. Wer ein Wort gegen den Sohn des Menschen spricht, dem wird vergeben werden; aber wer gegen den Heiligen Geist spricht, dem wird nicht vergeben werden, weder in diesem Zeitalter noch in dem, das kommen wird.
+
+„Entweder macht den Baum gut und seine Frucht gut oder macht den Baum schlecht und seine Frucht schlecht; denn der Baum wird an seiner Frucht erkannt. Ihr Schlangenbrut, wie könnt ihr, die ihr böse seid, gute Dinge reden? Denn aus der Fülle des Herzens spricht der Mund. Der gute Mensch bringt aus seinem guten Schatz gute Dinge hervor, und der böse Mensch bringt aus seinem bösen Schatz böse Dinge hervor. Ich sage euch, dass von jedem unnützen Wort, das die Menschen reden, sie am Tag des Gerichts Rechenschaft ablegen werden. Denn durch eure Worte werdet ihr gerechtfertigt werden, und durch eure Worte werdet ihr verurteilt werden.“
+
+Dann antworteten einige der Schriftgelehrten und Pharisäer: „Lehrer, wir wollen ein Zeichen von dir sehen.“
+
+Aber er antwortete ihnen: „Eine böse und ehebrecherische Generation verlangt nach einem Zeichen; aber es wird ihr kein Zeichen gegeben werden außer dem Zeichen des Propheten Jona. Denn wie Jona drei Tage und drei Nächte im Bauch des großen Fisches war, so wird der Sohn des Menschen drei Tage und drei Nächte im Herzen der Erde sein. Die Männer von Ninive werden im Gericht mit dieser Generation aufstehen und sie verurteilen; denn sie taten Buße bei der Predigt Jonas; und siehe, jemand Größeres als Jona ist hier. Die Königin des Südens wird im Gericht mit dieser Generation aufstehen und sie verurteilen; denn sie kam von den Enden der Erde, um die Weisheit Salomos zu hören; und siehe, jemand Größeres als Salomo ist hier.
+
+„Wenn ein unreiner Geist aus einem Menschen ausgegangen ist, zieht er durch wasserlose Orte und sucht Ruhe und findet sie nicht. Dann sagt er: ‚Ich will in mein Haus zurückkehren, aus dem ich gekommen bin;‘ und wenn er zurückkommt, findet er es leer, gefegt und in Ordnung gebracht. Dann geht er hin und nimmt sich sieben andere Geister mit, die böser sind als er selbst, und sie treten ein und wohnen dort. Der letzte Zustand dieses Menschen wird schlimmer als der erste sein. So wird es auch dieser bösen Generation ergehen.“
+
+Während er noch zu den Massen sprach, siehe, seine Mutter und seine Brüder standen draußen und suchten ihn zu sprechen. Einer sagte zu ihm: „Siehe, deine Mutter und deine Brüder stehen draußen und suchen dich zu sprechen.“
+
+Aber er antwortete dem, der zu ihm sprach: „Wer ist meine Mutter? Wer sind meine Brüder?“ Und er streckte seine Hand über seine Jünger aus und sagte: „Siehe, meine Mutter und meine Brüder! Denn wer den Willen meines Vaters tut, der im Himmel ist, der ist mein Bruder und meine Schwester und meine Mutter.“
+
+### Kapitel 13
+
+An diesem Tag ging Jesus aus dem Haus und setzte sich ans Meer. Große Menschenmengen versammelten sich um ihn, sodass er in ein Boot einstieg und sich setzte; und die ganze Menge stand am Strand. Er sprach viele Dinge in Gleichnissen zu ihnen und sagte: „Siehe, ein Bauer ging hinaus, um zu säen. Während er säte, fielen einige Samen an den Wegesrand, und die Vögel kamen und fraßen sie auf. Andere fielen auf felsigen Boden, wo sie nicht viel Erde hatten, und sogleich sprangen sie auf, weil sie keine Tiefe der Erde hatten. Als die Sonne aufgegangen war, wurden sie verbrannt; weil sie keine Wurzel hatten, verdorrten sie. Andere fielen unter die Dornen; die Dornen wuchsen auf und erstickten sie. Andere fielen auf guten Boden und brachten Frucht: einige hundertfach, einige sechzigfach und einige dreißigfach. Wer Ohren hat zu hören, der höre.“
+
+Die Jünger kamen und sagten zu ihm: „Warum sprichst du zu ihnen in Gleichnissen?“
+
+Er antwortete ihnen: „Euch ist es gegeben, die Geheimnisse des Königreichs des Himmels zu erkennen, ihnen aber ist es nicht gegeben. Denn wer hat, dem wird gegeben, und er wird Überfluss haben; wer aber nicht hat, von dem wird auch das genommen, was er hat. Deshalb spreche ich zu ihnen in Gleichnissen, weil sie sehen und doch nicht sehen, und hören und doch nicht hören, noch verstehen. In ihnen erfüllt sich die Prophezeiung Jesajas, die sagt:
+
+„Mit dem Ohr werdet ihr hören
+
+und werdet auf keine Weise verstehen;
+
+mit den Augen werdet ihr sehen
+
+und werdet auf keine Weise wahrnehmen;
+
+denn das Herz dieses Volkes ist hart geworden,
+
+ihre Ohren sind taub geworden,
+
+und sie haben ihre Augen geschlossen;
+
+sonst könnten sie vielleicht mit ihren Augen sehen,
+
+mit ihren Ohren hören,
+
+mit ihrem Herzen verstehen
+
+und sich umkehren,
+
+und ich würde sie heilen.“
+
+„Aber selig sind eure Augen, denn sie sehen; und eure Ohren, denn sie hören. Denn wahrlich, ich sage euch, dass viele Propheten und gerechte Menschen wünschten, die Dinge zu sehen, die ihr seht, und sie nicht sahen; und die Dinge zu hören, die ihr hört, und sie nicht hörten.
+
+„Hört nun das Gleichnis vom Sämann. Wenn jemand das Wort vom Königreich hört und es nicht versteht, kommt der Böse und raubt das, was in sein Herz gesät wurde. Das ist das, was am Wegesrand gesät wurde. Was auf den felsigen Orten gesät wurde, das ist der, der das Wort hört und es sofort mit Freude annimmt; doch hat er keine Wurzel in sich selbst, sondern hält nur eine Weile durch. Wenn Bedrängnis oder Verfolgung wegen des Wortes entsteht, so stößt er sofort daran. Was unter die Dornen gesät wurde, das ist der, der das Wort hört; aber die Sorgen dieser Welt und der Betrug des Reichtums ersticken das Wort, und er wird unfruchtbar. Was auf das gute Land gesät wurde, das ist der, der das Wort hört und versteht; der bringt gewiss Frucht und produziert, einige hundertfach, einige sechzigfach und einige dreißigfach.“
+
+Er stellte ihnen ein weiteres Gleichnis vor und sagte: „Das Königreich des Himmels ist wie ein Mann, der gutes Saatgut auf seinem Feld säte; aber während die Menschen schliefen, kam sein Feind und säte Unkraut unter den Weizen und ging weg. Als dann das Korn aufging und Frucht brachte, erschienen auch die Unkräuter. Die Diener des Hausherrn kamen und sagten zu ihm: ‚Herr, hast du nicht gutes Saatgut auf deinem Feld gesät? Woher kommen diese Unkräuter?‘
+
+„Er sagte zu ihnen: ‚Ein Feind hat dies getan.‘
+
+„Die Diener fragten ihn: ‚Willst du, dass wir hingehen und sie einsammeln?‘
+
+„Aber er sagte: ‚Nein, damit ihr nicht vielleicht beim Einsammeln der Unkräuter den Weizen mit ihnen ausreißt. Lasst beide bis zur Ernte zusammen wachsen; und zur Erntezeit werde ich den Schnittern sagen: „Zuerst sammelt die Unkräuter und bindet sie in Bündel, um sie zu verbrennen; aber den Weizen sammelt in meine Scheune.“‘“
+
+Er stellte ihnen ein weiteres Gleichnis vor und sagte: „Das Königreich des Himmels ist wie ein Senfkorn, das ein Mann nahm und in sein Feld säte; das ist zwar kleiner als alle Samen. Wenn es aber gewachsen ist, ist es größer als die Kräuter und wird ein Baum, sodass die Vögel des Himmels kommen und in seinen Zweigen nisten.“
+
+Er sprach ihnen ein weiteres Gleichnis. „Das Königreich des Himmels ist wie Sauerteig, den eine Frau nahm und in drei Maß Mehl verbarg, bis es ganz durchsäuert war.“
+
+Jesus sprach all diese Dinge in Gleichnissen zu den Menschenmengen; und ohne Gleichnis sprach er nicht zu ihnen, damit erfüllt würde, was durch den Propheten gesagt wurde:
+
+„Ich werde meinen Mund in Gleichnissen öffnen;
+
+ich werde Dinge aussprechen, die seit Grundlegung der Welt verborgen sind.“
+
+Dann entließ Jesus die Menschenmengen und ging ins Haus. Seine Jünger kamen zu ihm und sagten: „Erkläre uns das Gleichnis von den Unkräutern auf dem Feld.“
+
+Er antwortete ihnen: „Der den guten Samen sät, ist der Menschensohn; das Feld ist die Welt; die guten Samen sind die Kinder des Königreichs; die Unkräuter sind die Kinder des Bösen. Der Feind, der sie gesät hat, ist der Teufel. Die Ernte ist das Ende des Zeitalters; die Schnitter sind Engel. Wie nun die Unkräuter eingesammelt und im Feuer verbrannt werden; so wird es am Ende dieses Zeitalters sein. Der Menschensohn wird seine Engel senden, und sie werden aus seinem Königreich alle Dinge sammeln, die Anstoß erregen, und alle Übeltäter und sie in den Feuerofen werfen. Dort wird Weinen und Zähneknirschen sein. Dann werden die Gerechten leuchten wie die Sonne im Königreich ihres Vaters. Wer Ohren hat zu hören, der höre.
+
+„Wiederum ist das Reich der Himmel wie ein Schatz, der im Feld verborgen ist, den ein Mann fand und verbarg. In seiner Freude geht er hin und verkauft alles, was er hat, und kauft dieses Feld.
+
+„Wiederum ist das Reich der Himmel wie ein Mann, der ein Kaufmann ist und feine Perlen sucht. Als er eine Perle von großem Wert fand, ging er hin und verkaufte alles, was er hatte, und kaufte sie.
+
+„Wiederum ist das Reich der Himmel wie ein Netz, das ins Meer geworfen wurde und Fische jeder Art sammelte. Als es gefüllt war, zogen die Fischer es an den Strand. Sie setzten sich und sammelten die Guten in Gefäße, die Schlechten aber warfen sie weg. So wird es am Ende der Welt sein. Die Engel werden kommen und die Bösen von den Gerechten scheiden und sie in den Feuerofen werfen. Dort wird Weinen und Zähneknirschen sein.“ Jesus sagte zu ihnen: „Habt ihr all diese Dinge verstanden?“
+
+Sie antworteten ihm: „Ja, Herr.“
+
+Er sagte zu ihnen: „Darum ist jeder Schriftgelehrte, der ein Jünger im Reich der Himmel geworden ist, wie ein Hausvater, der aus seinem Schatz neue und alte Dinge hervorbringt.“
+
+Als Jesus diese Gleichnisse beendet hatte, ging er von dort weg. Als er in sein eigenes Land kam, lehrte er sie in ihrer Synagoge, sodass sie erstaunt waren und sagten: „Woher hat dieser Mann diese Weisheit und diese mächtigen Werke? Ist dieser nicht der Sohn des Zimmermanns? Heißt seine Mutter nicht Maria und seine Brüder Jakob, Joses, Simon und Judas? Sind nicht alle seine Schwestern bei uns? Woher hat dieser Mann all diese Dinge?“ Sie waren an ihm beleidigt.
+
+Aber Jesus sagte zu ihnen: „Ein Prophet ist nicht ohne Ehre, außer in seinem eigenen Land und in seinem eigenen Haus.“ Er tat dort nicht viele mächtige Werke wegen ihres Unglaubens.
+
+### Kapitel 14
+
+Zu jener Zeit hörte Herodes der Tetrarch den Bericht über Jesus und sagte zu seinen Dienern: „Das ist Johannes der Täufer. Er ist von den Toten auferstanden. Deshalb wirken diese Kräfte in ihm.“ Denn Herodes hatte Johannes gefangen genommen, ihn gebunden und ins Gefängnis geworfen um Herodias willen, der Frau seines Bruders Philippus. Denn Johannes hatte zu ihm gesagt: „Es ist dir nicht erlaubt, sie zu haben.“ Als er ihn töten wollte, fürchtete er die Menge, weil sie ihn für einen Propheten hielten. Aber als Herodes Geburtstag hatte, tanzte die Tochter der Herodias vor ihnen und gefiel Herodes. Daher versprach er mit einem Eid, ihr zu geben, was immer sie verlangen würde. Sie aber, von ihrer Mutter angestiftet, sagte: „Gib mir hier auf einem Teller den Kopf von Johannes dem Täufer.“
+
+Der König war betrübt; aber um der Eide willen und um derjenigen willen, die mit ihm am Tisch saßen, befahl er, es zu geben, und er sandte und ließ Johannes im Gefängnis enthaupten. Sein Kopf wurde auf einem Teller gebracht und dem jungen Mädchen gegeben; und sie brachte ihn zu ihrer Mutter. Seine Jünger kamen, nahmen den Körper und begruben ihn. Dann gingen sie hin und berichteten Jesus. Als Jesus dies hörte, zog er sich von dort in einem Boot an einen einsamen Ort zurück. Als die Menschenmengen es hörten, folgten sie ihm zu Fuß aus den Städten.
+
+Jesus ging hinaus und sah eine große Menge. Er hatte Mitleid mit ihnen und heilte ihre Kranken. Als es Abend geworden war, kamen seine Jünger zu ihm und sagten: „Dieser Ort ist einsam und die Stunde ist schon spät. Schicke die Menschenmengen weg, damit sie in die Dörfer gehen und sich etwas zu essen kaufen.“
+
+Aber Jesus sagte zu ihnen: „Sie brauchen nicht wegzugehen. Gebt ihr ihnen etwas zu essen.“
+
+Sie sagten zu ihm: „Wir haben hier nur fünf Brote und zwei Fische.“
+
+Er sagte: „Bringt sie mir hierher.“ Er befahl den Menschenmengen, sich auf das Gras zu setzen; und er nahm die fünf Brote und die zwei Fische, blickte zum Himmel auf, segnete sie, brach die Brote und gab sie den Jüngern; und die Jünger gaben sie den Menschenmengen. Sie aßen alle und wurden satt. Sie hoben zwölf Körbe voll von dem auf, was übrig geblieben war von den Brocken. Diejenigen, die aßen, waren etwa fünftausend Männer, ganz zu schweigen von Frauen und Kindern.
+
+Sofort ließ Jesus die Jünger ins Boot steigen und vorausfahren an das andere Ufer, während er die Menschenmengen entließ. Nachdem er die Menschenmengen entlassen hatte, ging er allein auf den Berg, um zu beten. Als es Abend geworden war, war er dort allein. Aber das Boot war jetzt mitten im Meer und wurde von den Wellen gequält; denn der Wind war gegensätzlich. In der vierten Nachtwache kam Jesus zu ihnen, indem er auf dem Meer ging. Als die Jünger ihn auf dem Meer gehen sahen, erschraken sie und sagten: „Es ist ein Gespenst!“ und schrien vor Angst. Aber sofort sprach Jesus zu ihnen und sagte: „Seid guten Mutes! Ich bin es! Fürchtet euch nicht.“
+
+Peter antwortete ihm und sagte: „Herr, wenn du es bist, befiehl mir, zu dir auf die Wasser zu kommen.“
+
+Er sagte: „Komm!“
+
+Peter stieg aus dem Boot und ging auf den Wassern, um zu Jesus zu kommen. Aber als er sah, dass der Wind stark war, bekam er Angst, und als er zu sinken begann, rief er: „Herr, rette mich!“
+
+Sofort streckte Jesus seine Hand aus, ergriff ihn und sagte zu ihm: „Du Kleingläubiger, warum hast du gezweifelt?“ Als sie ins Boot stiegen, legte sich der Wind. Die im Boot waren, kamen und beteten ihn an und sagten: „Du bist wahrhaftig der Sohn Gottes!“
+
+Als sie hinübergefahren waren, kamen sie ins Land Gennesaret. Als die Leute dieses Ortes ihn erkannten, schickten sie in die ganze Umgebung und brachten ihm alle, die krank waren; und sie baten ihn, dass sie nur den Saum seines Gewandes berühren dürften. So viele, die ihn berührten, wurden gesund.
+
+### Kapitel 15
+
+Dann kamen Pharisäer und Schriftgelehrte zu Jesus von Jerusalem und sagten: „Warum brechen deine Jünger die Tradition der Ältesten? Denn sie waschen sich nicht die Hände, wenn sie Brot essen.“
+
+Er antwortete ihnen: „Warum brecht ihr auch das Gebot Gottes wegen eurer Tradition? Denn Gott hat geboten: ‚Ehre deinen Vater und deine Mutter‘ und: ‚Wer seinen Vater oder seine Mutter verflucht, der soll sterben.‘ Aber ihr sagt: ‚Wer zu seinem Vater oder seiner Mutter sagt: „Was dir von mir zum Nutzen gereicht hätte, ist ein Gottgeweihter“, der soll seinen Vater oder seine Mutter nicht ehren.‘ So habt ihr das Gebot Gottes wegen eurer Tradition ungültig gemacht. Ihr Heuchler! Gut hat Jesaja von euch geweissagt und gesagt:
+
+„Dieses Volk naht sich mit seinem Mund zu mir
+
+und ehrt mich mit seinen Lippen;
+
+aber ihr Herz ist weit entfernt von mir.
+
+Und vergeblich verehren sie mich,
+
+indem sie als Lehre Menschengebote lehren.““
+
+Er rief die Menge zusammen und sagte zu ihnen: „Hört und versteht! Was in den Mund hineingeht, verunreinigt den Menschen nicht; sondern was aus dem Mund herauskommt, das verunreinigt den Menschen.“
+
+Dann kamen die Jünger und sagten zu ihm: „Weißt du, dass die Pharisäer beleidigt waren, als sie dieses Wort hörten?“
+
+Er aber antwortete: „Jede Pflanze, die mein himmlischer Vater nicht gepflanzt hat, wird ausgerissen werden. Lasst sie; sie sind blinde Führer der Blinden. Wenn die Blinden die Blinden führen, fallen beide in eine Grube.“
+
+Peter antwortete ihm: „Erkläre uns das Gleichnis.“
+
+Jesus sagte: „Versteht ihr auch immer noch nicht? Begreift ihr nicht, dass alles, was in den Mund geht, in den Bauch geht und dann aus dem Körper herauskommt? Aber was aus dem Mund herauskommt, kommt aus dem Herzen, und das verunreinigt den Menschen. Denn aus dem Herzen kommen böse Gedanken, Morde, Ehebrüche, sexuelle Sünden, Diebstähle, falsches Zeugnis und Lästerungen. Das sind die Dinge, die den Menschen verunreinigen; aber mit ungewaschenen Händen zu essen verunreinigt den Menschen nicht.“
+
+Jesus ging von dort weg und zog sich in die Gegend von Tyrus und Sidon zurück. Siehe, eine kanaanäische Frau kam aus diesen Grenzen und rief: „Hab Erbarmen mit mir, Herr, du Sohn Davids! Meine Tochter wird schwer von einem Dämon geplagt!“
+
+Aber er antwortete ihr kein Wort.
+
+Seine Jünger kamen und baten ihn: „Schick sie weg; denn sie schreit nach uns.“
+
+Er antwortete aber: „Ich bin nur zu den verlorenen Schafen des Hauses Israel gesandt worden.“
+
+Aber sie kam und fiel vor ihm nieder und sagte: „Herr, hilf mir.“
+
+Er antwortete: „Es ist nicht gut, das Brot der Kinder zu nehmen und es den Hunden vorzuwerfen.“
+
+Sie aber sagte: „Ja, Herr; aber selbst die Hunde essen von den Krümeln, die vom Tisch ihrer Herren fallen.“
+
+Dann antwortete Jesus ihr: „Frau, groß ist dein Glaube! Es geschehe dir, wie du willst.“ Und ihre Tochter wurde von jener Stunde an geheilt.
+
+Jesus ging von dort weg und kam nahe ans Meer von Galiläa; und er ging auf den Berg und setzte sich dort. Große Menschenmengen kamen zu ihm und brachten die Lahmen, Blinden, Stummen, Verkrüppelten und viele andere mit sich und legten sie zu seinen Füßen. Er heilte sie, sodass die Menge staunte, als sie die Stummen sprechen hörten, die Verletzten geheilt wurden, die Lahmen gingen und die Blinden sahen – und sie verherrlichten den Gott Israels.
+
+Jesus rief seine Jünger zu sich und sagte: „Ich habe Mitleid mit der Menge, denn sie sind nun schon drei Tage bei mir und haben nichts zu essen. Ich will sie nicht hungrig wegschicken, sonst könnten sie auf dem Weg ohnmächtig werden.“
+
+Die Jünger sagten zu ihm: „Woher könnten wir in einer einsamen Gegend so viele Brote bekommen, um eine so große Menge zu sättigen?“
+
+Jesus sagte zu ihnen: „Wie viele Brote habt ihr?“
+
+Sie sagten: „Sieben und ein paar kleine Fische.“
+
+Er befahl der Menge, sich auf den Boden zu setzen; und er nahm die sieben Brote und die Fische. Er dankte und brach sie und gab sie den Jüngern, und die Jünger gaben sie der Menge. Sie aßen alle und wurden satt. Sie hoben sieben Körbe voll der übrig gebliebenen Stücke auf. Diejenigen, die aßen, waren viertausend Männer, ohne Frauen und Kinder. Dann schickte er die Menge weg, stieg ins Boot und kam in die Gegenden von Magdala.
+
+### Kapitel 16
+
+Die Pharisäer und Sadduzäer kamen und versuchten ihn, indem sie ihn baten, ihnen ein Zeichen vom Himmel zu zeigen. Aber er antwortete ihnen: „Wenn es Abend ist, sagt ihr: ‚Es wird schönes Wetter, denn der Himmel ist rot.‘ Am Morgen: ‚Es wird heute schlechtes Wetter, denn der Himmel ist rot und drohend.‘ Heuchler! Ihr wisst, wie man das Aussehen des Himmels beurteilt, aber die Zeichen der Zeiten könnt ihr nicht erkennen! Eine böse und ehebrecherische Generation verlangt nach einem Zeichen, und es wird ihr kein Zeichen gegeben werden, außer dem Zeichen des Propheten Jona.“
+
+Er ließ sie und ging weg. Die Jünger kamen auf die andere Seite und hatten vergessen, Brot mitzunehmen. Jesus sagte zu ihnen: „Seht euch vor und hütet euch vor dem Sauerteig der Pharisäer und Sadduzäer.“
+
+Sie dachten untereinander nach und sagten: „Wir haben kein Brot mitgebracht.“
+
+Jesus, das wahrnehmend, sagte: „Warum denkt ihr untereinander nach, ihr Kleingläubigen, weil ihr kein Brot mitgebracht habt? Versteht ihr noch nicht oder erinnert ihr euch nicht an die fünf Brote für die fünftausend und wie viele Körbe ihr aufgesammelt habt, oder an die sieben Brote für die viertausend und wie viele Körbe ihr aufgesammelt habt? Wie kommt es, dass ihr nicht versteht, dass ich nicht zu euch über Brot gesprochen habe? Aber hütet euch vor dem Sauerteig der Pharisäer und Sadduzäer.“
+
+Dann verstanden sie, dass er ihnen nicht gesagt hatte, sie sollten sich vor dem Sauerteig des Brotes hüten, sondern vor der Lehre der Pharisäer und Sadduzäer.
+
+Als Jesus in die Gegenden von Cäsarea Philippi kam, fragte er seine Jünger: „Für wen halten die Menschen mich, den Sohn des Menschen?“
+
+Sie sagten: „Einige halten dich für Johannes den Täufer, einige für Elia und andere für Jeremia oder einen der Propheten.“
+
+Er sagte zu ihnen: „Aber für wen haltet ihr mich?“
+
+Simon Petrus antwortete: „Du bist der Christus, der Sohn des lebendigen Gottes.“
+
+Jesus antwortete ihm: „Selig bist du, Simon Bar-Jona, denn Fleisch und Blut haben dir das nicht offenbart, sondern mein Vater, der in den Himmeln ist. Und ich sage dir auch, dass du Petrus bist, und auf diesen Felsen werde ich meine Gemeinde bauen, und die Pforten der Hölle werden sie nicht überwältigen. Ich werde dir die Schlüssel des Himmelreichs geben, und was du auf Erden bindest, wird im Himmel gebunden sein; und was du auf Erden löst, wird im Himmel gelöst sein.“ Dann gebot er den Jüngern, niemandem zu sagen, dass er Jesus der Christus sei.
+
+Von da an begann Jesus seinen Jüngern zu zeigen, dass er nach Jerusalem gehen müsse und viel leiden müsse von den Ältesten, den obersten Priestern und den Schriftgelehrten und getötet werde und am dritten Tag auferstehen müsse.
+
+Petrus nahm ihn beiseite und begann ihn zu tadeln und sagte: „Das möge dir fernbleiben, Herr! Das wird dir niemals widerfahren.“
+
+Aber er wandte sich um und sagte zu Petrus: „Weiche von mir, Satan! Du bist mir ein Ärgernis; denn du denkst nicht an die Dinge Gottes, sondern an die Dinge der Menschen.“
+
+Dann sagte Jesus zu seinen Jüngern: „Wenn jemand mir nachfolgen will, so verleugne er sich selbst und nehme sein Kreuz auf sich und folge mir nach. Denn wer sein Leben retten will, wird es verlieren; wer aber sein Leben um meinetwillen verliert, wird es finden. Denn was nützt es einem Menschen, wenn er die ganze Welt gewinnt und sein Leben verliert? Oder was kann ein Mensch als Lösegeld für sein Leben geben? Denn der Sohn des Menschen wird in der Herrlichkeit seines Vaters mit seinen Engeln kommen; und dann wird er jedem nach seinen Werken vergelten. Wahrlich, ich sage euch: Es stehen einige hier, die werden in keiner Weise den Tod schmecken, bis sie den Sohn des Menschen kommen sehen in seinem Reich.“
+
+### Kapitel 17
+
+Nach sechs Tagen nahm Jesus mit sich Petrus, Jakobus und Johannes, seinen Bruder, und führte sie auf einen hohen Berg, allein. Er wurde vor ihnen verwandelt. Sein Gesicht leuchtete wie die Sonne, und seine Kleider wurden so weiß wie das Licht. Siehe, Mose und Elia erschienen ihnen und sprachen mit ihm.
+
+Petrus antwortete und sagte zu Jesus: „Herr, es ist gut, dass wir hier sind. Wenn du willst, lass uns hier drei Zelte machen: eines für dich, eines für Mose und eines für Elia.“
+
+Während er noch sprach, siehe, eine helle Wolke überschattete sie. Und siehe, eine Stimme kam aus der Wolke und sprach: „Dies ist mein geliebter Sohn, an dem ich Wohlgefallen gefunden habe. Hört auf ihn.“
+
+Als die Jünger es hörten, fielen sie auf ihr Angesicht und hatten große Angst. Jesus trat zu ihnen, berührte sie und sagte: „Steht auf und fürchtet euch nicht.“ Als sie ihre Augen erhoben, sahen sie niemanden außer Jesus allein.
+
+Als sie vom Berg hinabstiegen, gebot ihnen Jesus und sprach: „Sagt niemandem, was ihr gesehen habt, bis der Menschensohn von den Toten auferstanden ist.“
+
+Seine Jünger fragten ihn und sagten: „Warum sagen dann die Schriftgelehrten, dass Elia zuerst kommen muss?“
+
+Jesus antwortete ihnen: „Elia kommt in der Tat zuerst und wird alle Dinge wiederherstellen; aber ich sage euch, dass Elia bereits gekommen ist, und sie haben ihn nicht erkannt, sondern mit ihm gemacht, was sie wollten. So wird auch der Menschensohn von ihnen leiden müssen.“ Dann verstanden die Jünger, dass er zu ihnen von Johannes dem Täufer sprach.
+
+Als sie zur Menge kamen, trat ein Mann zu ihm, kniete vor ihm nieder und sagte: „Herr, erbarme dich meines Sohnes, denn er ist epileptisch und leidet sehr; denn er fällt oft ins Feuer und oft ins Wasser. Ich habe ihn zu deinen Jüngern gebracht, und sie konnten ihn nicht heilen.“
+
+Jesus antwortete: „Ungläubige und verkehrte Generation! Wie lange werde ich bei euch sein? Wie lange werde ich euch ertragen? Bringt ihn hier zu mir.“ Jesus wies den Dämon zurecht, und er ging von ihm aus, und der Knabe wurde von dieser Stunde an geheilt.
+
+Dann kamen die Jünger privat zu Jesus und sagten: „Warum konnten wir ihn nicht austreiben?“
+
+Er sagte zu ihnen: „Wegen eures Unglaubens. Denn wahrlich, ich sage euch, wenn ihr Glauben habt wie ein Senfkorn, werdet ihr zu diesem Berg sagen: ‚Heb dich von hier nach dort‘, und er wird sich heben; und nichts wird euch unmöglich sein. Aber diese Art geht nicht aus außer durch Gebet und Fasten.“
+
+Während sie in Galiläa verweilten, sagte Jesus zu ihnen: „Der Menschensohn wird in die Hände der Menschen überliefert werden, und sie werden ihn töten; und am dritten Tag wird er auferstehen.“
+
+Sie waren überaus traurig.
+
+Als sie nach Kapernaum kamen, kamen die Zöllner der Didrachmen zu Petrus und sagten: „Zahlt euer Lehrer die Didrachme?“ Er sagte: „Ja.“
+
+Als er ins Haus kam, ging Jesus ihm zuvor und sprach: „Was denkst du, Simon? Von wem nehmen die Könige der Erde Zoll oder Tribute? Von ihren Söhnen oder von den Fremden?“
+
+Petrus sagte zu ihm: „Von den Fremden.“
+
+Jesus sagte zu ihm: „Darum sind die Söhne frei. Aber damit wir sie nicht anstoßen, geh zum Meer, wirf eine Angel aus und nimm den ersten Fisch, der hochkommt. Wenn du seinen Mund öffnest, wirst du einen Stater finden. Nimm den und gib ihn ihnen für mich und dich.“
+
+### Kapitel 18
+
+In jener Stunde kamen die Jünger zu Jesus und sagten: „Wer ist denn der Größte im Himmelreich?“
+
+Jesus rief ein kleines Kind zu sich, stellte es in die Mitte von ihnen und sagte: „Wahrlich, ich sage euch: Wenn ihr euch nicht umkehrt und werdet wie die kleinen Kinder, werdet ihr auf keinen Fall ins Himmelreich eingehen. Wer sich also selbst erniedrigt wie dieses kleine Kind, der ist der Größte im Himmelreich. Und wer ein solches kleines Kind in meinem Namen empfängt, empfängt mich; aber wer einen von diesen Kleinen, die an mich glauben, zum Straucheln bringt, dem wäre es besser, wenn ihm ein großer Mühlstein um den Hals gehängt würde und er im Meer versenkt würde.
+
+„Wehe der Welt wegen der Anlässe zum Straucheln! Es ist notwendig, dass die Anlässe kommen; aber wehe dem Menschen, durch den der Anlass kommt! Wenn deine Hand oder dein Fuß dich zum Straucheln bringt, hau ihn ab und wirf ihn von dir. Es ist besser für dich, lahm oder einäugig ins Leben einzugehen, als mit zwei Händen oder zwei Füßen in das ewige Feuer geworfen zu werden. Wenn dein Auge dich zum Straucheln bringt, reiß es aus und wirf es von dir. Es ist besser für dich, mit einem Auge ins Leben einzugehen, als mit zwei Augen in die Hölle des Feuers geworfen zu werden. Seht zu, dass ihr keinen von diesen Kleinen verachtet; denn ich sage euch: Ihre Engel sehen immer das Angesicht meines Vaters im Himmel. Denn der Menschensohn ist gekommen, um das Verlorene zu retten.
+
+„Was denkt ihr? Wenn ein Mann hundert Schafe hat und eines davon sich verirrt, lässt er dann nicht die neunundneunzig zurück, geht in die Berge und sucht das, was sich verirrt hat? Wenn er es findet, sage ich euch ganz bestimmt, freut er sich mehr über dieses als über die neunundneunzig, die sich nicht verirrt haben. So ist es auch nicht der Wille eures Vaters, der im Himmel ist, dass eines dieser kleinen Wesen verloren geht.
+
+„Wenn dein Bruder gegen dich sündigt, geh, zeige ihm seine Schuld zwischen dir und ihm allein. Hört er auf dich, so hast du deinen Bruder gewonnen. Hört er aber nicht, nimm einen oder zwei weitere mit dir, damit durch den Mund von zwei oder drei Zeugen jede Sache bestätigt werden kann. Wenn er sich weigert, auf sie zu hören, sag es der Versammlung. Wenn er auch die Versammlung nicht hören will, sei er dir wie ein Heiden und ein Zöllner. Wahrlich, ich sage euch, alles, was ihr auf Erden bindet, wird im Himmel gebunden sein, und alles, was ihr auf Erden löst, wird im Himmel gelöst sein. Wiederum sage ich euch, wenn zwei von euch auf Erden sich über irgendetwas einigen, das sie bitten, wird es ihnen von meinem Vater im Himmel getan werden. Denn wo zwei oder drei versammelt sind in meinem Namen, da bin ich mitten unter ihnen.“
+
+Dann kam Petrus und sagte zu ihm: „Herr, wie oft soll mein Bruder gegen mich sündigen und ich ihm vergeben? Bis zu siebenmal?“
+
+Jesus sagte zu ihm: „Ich sage dir nicht bis zu siebenmal, sondern bis zu siebenundsiebzigmal. Darum ist das Himmelreich einem gewissen König gleich, der mit seinen Knechten abrechnen wollte. Als er anfing abzurechnen, wurde ihm einer gebracht, der ihm zehntausend Talente schuldete. Da er aber nicht bezahlen konnte, befahl sein Herr, ihn zu verkaufen, mit seiner Frau, seinen Kindern und allem, was er hatte, und die Zahlung zu verlangen. Der Knecht fiel daher nieder und kniete vor ihm und sagte: ‚Herr, habe Geduld mit mir, und ich will dir alles zurückzahlen!‘ Der Herr dieses Knechts hatte Mitleid mit ihm, ließ ihn los und vergab ihm die Schuld.
+
+„Aber dieser Knecht ging hinaus und fand einen seiner Mitknechte, der ihm hundert Denare schuldete; und er packte ihn und würgte ihn und sagte: ‚Zahl mir, was du schuldest!‘
+
+„Da fiel sein Mitknecht nieder zu seinen Füßen und bat ihn: ‚Habe Geduld mit mir, und ich will dir alles zurückzahlen!‘ Er wollte aber nicht, sondern ging hin und warf ihn ins Gefängnis, bis er die Schuld zurückgezahlt hätte. Als nun seine Mitknechte sahen, was geschehen war, wurden sie sehr traurig und kamen und berichteten ihrem Herrn alles, was geschehen war. Da rief ihn sein Herr zu sich und sagte zu ihm: ‚Du böser Knecht! Ich habe dir all diese Schuld vergeben, weil du mich gebeten hast. Hättest du nicht auch Mitleid mit deinem Mitknecht haben sollen, so wie ich Mitleid mit dir hatte?‘ Sein Herr wurde zornig und übergab ihn den Peinigern, bis er alles zurückgezahlt hätte, was er ihm schuldete. So wird auch mein himmlischer Vater euch tun, wenn ihr nicht jeder seinem Bruder von Herzen vergibt für seine Verfehlungen.“
+
+### Kapitel 19
+
+Als Jesus diese Worte beendet hatte, ging er von Galiläa weg und kam in die Grenzen von Judäa jenseits des Jordan. Große Menschenmengen folgten ihm nach, und er heilte sie dort.
+
+Die Pharisäer kamen zu ihm und versuchten ihn und sagten: „Ist es erlaubt für einen Mann, seine Frau aus irgendeinem Grund zu entlassen?“
+
+Er antwortete: „Habt ihr nicht gelesen, dass derjenige, der sie von Anfang an gemacht hat, sie als Mann und Frau geschaffen hat und gesagt hat: ‚Darum wird ein Mann seinen Vater und seine Mutter verlassen und seiner Frau anhangen; und die beiden werden ein Fleisch sein‘? So sind sie nicht mehr zwei, sondern ein Fleisch. Was daher Gott zusammengefügt hat, soll der Mensch nicht scheiden.“
+
+Sie fragten ihn: „Warum hat Mose uns dann geboten, ihr einen Scheidebrief zu geben und sie zu entlassen?“
+
+Er sagte zu ihnen: „Mose hat euch wegen der Härte eurer Herzen erlaubt, eure Frauen zu entlassen; aber von Anfang an war es nicht so. Ich sage euch: Wer seine Frau entlässt, es sei denn wegen Unzucht, und eine andere heiratet, begeht Ehebruch; und wer eine Geschiedene heiratet, begeht Ehebruch.“
+
+Seine Jünger sagten zu ihm: „Wenn das der Fall des Mannes mit seiner Frau ist, ist es nicht ratsam zu heiraten.“
+
+Aber er sagte zu ihnen: „Nicht alle Männer können dieses Wort empfangen, sondern nur die, denen es gegeben ist. Denn es gibt Eunuchen, die von ihrer Mutterleib so geboren wurden, und es gibt Eunuchen, die von Menschen zu Eunuchen gemacht wurden; und es gibt Eunuchen, die sich selbst um des Reiches der Himmel willen zu Eunuchen gemacht haben. Wer es empfangen kann, der empfange es.“
+
+Dann wurden kleine Kinder zu ihm gebracht, damit er ihnen die Hände auflege und bete; und die Jünger wiesen sie zurecht. Aber Jesus sagte: „Lasst die kleinen Kinder zu mir kommen und hindert sie nicht; denn das Reich der Himmel gehört solchen wie diesen.“ Er legte ihnen die Hände auf und ging von dort weg.
+
+Siehe, einer kam zu ihm und sagte: „Guter Lehrer, was für eine gute Sache soll ich tun, um das ewige Leben zu haben?“
+
+Er sagte zu ihm: „Warum nennst du mich gut? Niemand ist gut außer dem einen, das ist Gott. Wenn du aber ins Leben eingehen willst, halte die Gebote.“
+
+Er sagte zu ihm: „Welche?“
+
+Jesus sagte: „‘Du sollst nicht morden.’ ‘Du sollst nicht ehebrechen.’ ‘Du sollst nicht stehlen.’ ‘Du sollst kein falsches Zeugnis ablegen.’ ‘Ehre deinen Vater und deine Mutter.’ Und: ‘Du sollst deinen Nächsten lieben wie dich selbst.’“
+
+Der junge Mann sagte zu ihm: „All diese Dinge habe ich von meiner Jugend an beachtet. Was fehlt mir noch?“
+
+Jesus sagte zu ihm: „Wenn du vollkommen sein willst, geh, verkaufe, was du hast, und gib den Armen, und du wirst einen Schatz im Himmel haben; und komm, folge mir nach.“ Als der junge Mann das hörte, ging er traurig weg, denn er hatte große Besitztümer.
+
+Jesus sagte zu seinen Jüngern: „Wahrlich, ich sage euch, ein reicher Mann wird mit Mühe ins Reich der Himmel eingehen. Wieder sage ich euch: Es ist leichter für ein Kamel, durch das Nadelöhr zu gehen, als für einen reichen Mann, ins Reich Gottes einzugehen.“
+
+Als die Jünger das hörten, waren sie überaus erstaunt und sagten: „Wer kann dann gerettet werden?“
+
+Jesus sah sie an und sagte: „Bei den Menschen ist das unmöglich, aber bei Gott sind alle Dinge möglich.“
+
+Dann antwortete Petrus: „Siehe, wir haben alles verlassen und sind dir gefolgt. Was werden wir dann haben?“
+
+Jesus sagte zu ihnen: „Wahrlich, ich sage euch: Ihr, die ihr mir gefolgt seid, werdet in der Wiedergeburt, wenn der Menschensohn auf dem Thron seiner Herrlichkeit sitzt, auch auf zwölf Thronen sitzen und die zwölf Stämme Israels richten. Jeder, der Häuser oder Brüder oder Schwestern oder Vater oder Mutter oder Frau oder Kinder oder Länder um meines Namens willen verlassen hat, wird hundertfach empfangen und das ewige Leben erben. Aber viele werden die Letzten sein, die Erste, und die Ersten werden Letzte sein.
+
+### Kapitel 20
+
+„Denn das Reich der Himmel ist wie ein Mann, der ein Haus besaß und früh am Morgen hinausging, um Arbeiter für seinen Weinberg zu mieten. Als er sich mit den Arbeitern auf einen Denar pro Tag einigte, sandte er sie in seinen Weinberg. Er ging etwa zur dritten Stunde hinaus und sah andere untätig auf dem Marktplatz stehen. Er sagte zu ihnen: ‚Geht auch ihr in den Weinberg, und was recht ist, werde ich euch geben.‘ So gingen sie hin. Wieder ging er etwa zur sechsten und neunten Stunde hinaus und tat ebenso. Etwa zur elften Stunde ging er hinaus und fand andere untätig stehen. Er sagte zu ihnen: ‚Warum steht ihr hier den ganzen Tag untätig?‘
+
+„Sie sagten zu ihm: ‚Weil uns niemand eingestellt hat.‘
+
+„Er sagte zu ihnen: ‚Geht auch ihr in den Weinberg, und ihr werdet empfangen, was recht ist.‘
+
+„Als der Abend gekommen war, sagte der Herr des Weinbergs zu seinem Verwalter: ‚Rufe die Arbeiter und zahle ihnen ihren Lohn aus, beginnend mit den Letzten bis zu den Ersten.‘ Als die um etwa die elfte Stunde Eingestellten kamen, erhielt jeder einen Denar. Als die Ersten kamen, dachten sie, sie würden mehr erhalten; aber auch sie erhielten jeweils einen Denar. Als sie ihn erhielten, murrten sie gegen den Hausherrn und sagten: ‚Diese Letzten haben nur eine Stunde gearbeitet, und du hast sie uns gleich gemacht, die wir die Last des Tages und die Hitze getragen haben!‘
+
+„Aber er antwortete einem von ihnen: ‚Freund, ich tue dir kein Unrecht. Hast du dich nicht mit mir auf einen Denar geeinigt? Nimm das Deine und geh deinen Weg. Es ist mein Wunsch, diesem Letzten ebenso viel zu geben wie dir. Ist es mir nicht erlaubt, mit dem zu tun, was ich will? Oder ist dein Auge böse, weil ich gut bin?‘ So werden die Letzten die Ersten sein und die Ersten die Letzten. Denn viele sind berufen, aber wenige sind auserwählt.“
+
+Als Jesus nach Jerusalem hinaufging, nahm er die zwölf Jünger beiseite und sagte auf dem Weg zu ihnen: „Siehe, wir gehen nach Jerusalem, und der Menschensohn wird den obersten Priestern und Schriftgelehrten überliefert werden, und sie werden ihn zum Tode verurteilen und ihn den Heiden übergeben, um ihn zu verspotten, zu geißeln und zu kreuzigen; und am dritten Tag wird er auferstehen.“
+
+Dann kam die Mutter der Söhne des Zebedäus zu ihm mit ihren Söhnen, kniete nieder und bat ihn um etwas. Er sagte zu ihr: „Was willst du?“
+
+Sie sagte zu ihm: „Befiehl, dass diese, meine zwei Söhne, einer zu deiner rechten Hand und einer zu deiner linken Hand in deinem Reich sitzen dürfen.“
+
+Aber Jesus antwortete: „Ihr wisst nicht, was ihr bittet. Könnt ihr den Kelch trinken, den ich trinken werde, und mit der Taufe getauft werden, mit der ich getauft werde?“
+
+Sie sagten zu ihm: „Wir können es.“
+
+Er sagte zu ihnen: „Ihr werdet meinen Kelch indeed trinken und mit der Taufe getauft werden, mit der ich getauft werde; aber das Sitzen zu meiner rechten Hand und zu meiner linken Hand steht mir nicht zu geben, sondern es ist für die, für die es von meinem Vater bereitet ist.“
+
+Als die zehn es hörten, waren sie über die beiden Brüder empört.
+
+Aber Jesus rief sie zusammen und sagte: „Ihr wisst, dass die Herrscher der Nationen über sie herrschen, und ihre Großen üben Gewalt über sie aus. So soll es unter euch nicht sein; sondern wer unter euch groß werden will, der sei euer Diener. Und wer unter euch der Erste sein will, der sei euer Knecht, wie der Menschensohn nicht gekommen ist, um sich dienen zu lassen, sondern um zu dienen und sein Leben als Lösegeld für viele zu geben.“
+
+Als sie aus Jericho hinausgingen, folgte ihm eine große Menge. Siehe, zwei blinde Männer saßen am Weg; als sie hörten, dass Jesus vorbeiging, riefen sie: „Herr, erbarme dich unser, du Sohn Davids!“ Die Menge wies sie zurecht und sagte ihnen, sie sollten still sein; aber sie riefen noch lauter: „Herr, erbarme dich unser, du Sohn Davids!“
+
+Jesus blieb stehen und rief sie und fragte: „Was wollt ihr, dass ich für euch tue?“
+
+Sie sagten ihm: „Herr, dass unsere Augen geöffnet werden.“
+
+Jesus, bewegt von Mitleid, berührte ihre Augen; und sofort erhielten sie ihr Augenlicht und folgten ihm.
+
+### Kapitel 21
+
+Als sie sich Jerusalem näherten und nach Bethphage an den Ölberg kamen, sandte Jesus zwei Jünger und sagte zu ihnen: „Geht in das Dorf, das euch gegenüberliegt; dort werdet ihr sofort eine Eselin finden, die angebunden ist, und ein Fohlen bei ihr. Bindet sie los und bringt sie zu mir. Wenn euch jemand etwas sagt, sollt ihr sagen: ‚Der Herr braucht sie‘; und sofort wird er sie senden.“
+
+Das alles geschah, damit erfüllt würde, was durch den Propheten gesagt wurde:
+
+„Sagt der Tochter Zion:
+
+Siehe, dein König kommt zu dir,
+
+sanftmütig und reitend auf einem Esel,
+
+auf einem Fohlen, dem Fohlen eines Esels.“
+
+Die Jünger gingen und taten genau so, wie Jesus ihnen befohlen hatte, und brachten die Eselin und das Fohlen und legten ihre Kleider darauf; und er setzte sich darauf. Eine sehr große Menge breitete ihre Kleider auf dem Weg aus. Andere schnitten Zweige von den Bäumen und breiteten sie auf dem Weg aus. Die Menge, die vor ihm herging und die ihn folgte, rief immer wieder: „Hosanna dem Sohn Davids! Gesegnet sei er, der kommt im Namen des Herrn! Hosanna in der Höhe!“
+
+Als er in Jerusalem angekommen war, wurde die ganze Stadt in Aufregung versetzt und fragte: „Wer ist dieser?“
+
+Die Menge sagte: „Das ist der Prophet Jesus aus Nazareth in Galiläa.“
+
+Jesus ging in den Tempel Gottes und trieb alle hinaus, die im Tempel verkauften und kauften; er stieß die Tische der Geldwechsler um und die Sitze der Taubenhändler. Er sagte zu ihnen: „Es steht geschrieben: ‚Mein Haus soll ein Haus des Gebets genannt werden‘; aber ihr habt es zu einer Räuberhöhle gemacht!“
+
+Die Lahmen und Blinden kamen zu ihm im Tempel, und er heilte sie. Als aber die obersten Priester und die Schriftgelehrten die wunderbaren Dinge sahen, die er tat, und die Kinder im Tempel schreien hörten: „Hosanna dem Sohn Davids!“, waren sie empört und sagten zu ihm: „Hörst du, was diese sagen?“
+
+Jesus sagte zu ihnen: „Ja. Habt ihr nie gelesen: ‚Aus dem Mund von Kindern und Säuglingen hast du Lob vollendet‘?“
+
+Er verließ sie und ging aus der Stadt nach Bethanien und blieb dort.
+
+Am Morgen, als er in die Stadt zurückkehrte, hatte er Hunger. Als er einen Feigenbaum am Weg sah, ging er zu ihm und fand nichts daran als Blätter. Er sagte zu ihm: „Es soll für immer keine Frucht von dir kommen!“
+
+Sofort verwelkte der Feigenbaum.
+
+Als die Jünger es sahen, wunderten sie sich und sagten: „Wie ist der Feigenbaum sofort verwelkt?“
+
+Jesus antwortete ihnen: „Wahrlich, ich sage euch, wenn ihr Glauben habt und nicht zweifelt, werdet ihr nicht nur tun, was mit dem Feigenbaum geschehen ist, sondern selbst wenn ihr zu diesem Berg sagt: ‚Heb dich empor und wirf dich ins Meer!‘, wird es geschehen. Alles, was ihr im Gebet bittet, glaubt, dass ihr es empfangen werdet.“
+
+Als er in den Tempel kam, traten die obersten Priester und die Ältesten des Volkes zu ihm, während er lehrte, und sagten: „Mit welcher Autorität tust du diese Dinge? Wer hat dir diese Autorität gegeben?“
+
+Jesus antwortete ihnen: „Ich will euch auch eine Frage stellen; wenn ihr mir die beantwortet, will ich euch auch sagen, mit welcher Autorität ich diese Dinge tue. Die Taufe des Johannes, woher war sie? Vom Himmel oder von den Menschen?“
+
+Sie überlegten bei sich selbst und sagten: „Wenn wir sagen: ‚Vom Himmel‘, wird er uns fragen: ‚Warum habt ihr ihm dann nicht geglaubt?‘ Aber wenn wir sagen: ‚Von den Menschen‘, fürchten wir die Menge; denn alle halten Johannes für einen Propheten.“ Sie antworteten Jesus und sagten: „Wir wissen es nicht.“
+
+Er sagte zu ihnen: „So werde ich euch auch nicht sagen, mit welcher Autorität ich diese Dinge tue. Was denkt ihr? Ein Mann hatte zwei Söhne; und er ging zu dem ersten und sagte: ‚Sohn, geh heute in meinen Weinberg arbeiten.‘ Er antwortete: ‚Ich will nicht‘; aber danach bereute er es und ging. Er kam zu dem zweiten und sagte dasselbe. Er antwortete: ‚Ich gehe, Herr‘; aber er ging nicht. Welcher von den beiden hat den Willen seines Vaters getan?“
+
+Sie sagten zu ihm: „Der erste.“
+
+Jesus sagte zu ihnen: „Wahrlich, ich sage euch, dass die Zöllner und die Huren vor euch in das Reich Gottes eingehen. Denn Johannes kam zu euch auf dem Weg der Gerechtigkeit, und ihr habt ihm nicht geglaubt; aber die Zöllner und die Huren glaubten ihm. Als ihr es gesehen habt, habt ihr euch nicht einmal danach bereut, um ihm zu glauben.
+
+„Hört ein anderes Gleichnis. Es war ein Mann, der ein Hausvater war; er pflanzte einen Weinberg, stellte einen Zaun darum, grub eine Kelter darin und baute einen Turm; dann verpachtete er ihn an Bauern und ging in ein anderes Land. Als die Zeit der Früchte nahe kam, sandte er seine Knechte zu den Bauern, um seine Früchte zu empfangen. Die Bauern nahmen seine Knechte, schlugen einen, töteten einen anderen und steinigten einen weiteren. Wieder sandte er andere Knechte mehr als die ersten; und sie behandelten sie ebenso. Danach sandte er seinen Sohn zu ihnen und sagte: ‚Sie werden meinen Sohn respektieren.‘ Als die Bauern jedoch den Sohn sahen, sagten sie untereinander: ‚Das ist der Erbe. Kommt, lasst uns ihn töten und sein Erbe an uns reißen!‘ So nahmen sie ihn und warfen ihn aus dem Weinberg hinaus und töteten ihn. Wenn nun der Herr des Weinbergs kommt, was wird er mit diesen Bauern tun?“
+
+Sie sagten zu ihm: „Er wird diese bösen Männer miserabel umbringen und den Weinberg anderen Bauern verpachten, die ihm die Früchte zur rechten Zeit geben.“
+
+Jesus sagte zu ihnen: „Habt ihr nie in den Schriften gelesen:
+
+‚Der Stein, den die Bauleute verworfen haben,
+
+wurde zum Eckstein.
+
+Das ist vom Herrn,
+
+und es ist wunderbar in unseren Augen‘?
+
+„Darum sage ich euch: Das Reich Gottes wird von euch genommen und einem Volk gegeben werden, das die Früchte davon bringt. Und wer auf diesen Stein fällt, wird zerschmettert werden; aber auf wen immer er fällt, wird er ihn wie Staub zerstreuen.“
+
+Als die obersten Priester und die Pharisäer seine Gleichnisse hörten, erkannten sie, dass er von ihnen sprach. Als sie ihn festnehmen wollten, fürchteten sie die Menge, denn sie hielten ihn für einen Propheten.
+
+### Kapitel 22
+
+Jesus antwortete und sprach wieder in Gleichnissen zu ihnen und sagte: „Das Reich der Himmel ist wie ein gewisser König, der ein Hochzeitsfest für seinen Sohn machte und seine Knechte aussandte, um die eingeladenen Gäste zum Hochzeitsfest zu rufen; aber sie wollten nicht kommen. Wieder sandte er andere Knechte aus und sagte: ‚Sagt den Eingeladenen: Siehe, ich habe mein Abendmahl bereitet; meine Ochsen und meine Masttiere sind geschlachtet, und alles ist bereit. Kommt zum Hochzeitsfest!‘ Aber sie achteten nicht darauf und gingen weg; der eine zu seinem Acker, der andere zu seinem Geschäft; und die übrigen packten seine Knechte, schmähten sie und töteten sie. Als der König das hörte, wurde er zornig und sandte seine Heere aus; er brachte diese Mörder um und verbrannte ihre Stadt.
+
+„Dann sagte er zu seinen Dienern: ‚Die Hochzeit ist bereit, aber die, die eingeladen wurden, waren nicht würdig. Geht daher zu den Kreuzungen der Straßen, und ladet so viele ein, wie ihr finden könnt, zur Hochzeitsfeier.‘ Diese Diener gingen hinaus auf die Straßen und sammelten zusammen, so viele sie fanden, sowohl schlechte als auch gute. Die Hochzeit war mit Gästen gefüllt.
+
+„Als der König jedoch kam, um die Gäste zu sehen, sah er dort einen Mann, der keine Hochzeitskleidung trug, und sagte zu ihm: ‚Freund, wie bist du hier hereingekommen, ohne Hochzeitskleidung?‘ Er war sprachlos. Dann sagte der König zu den Dienern: ‚Bindet ihn Hände und Füße, nehmt ihn weg und werft ihn in die äußere Finsternis. Dort wird das Weinen und Zähneknirschen sein.‘ Denn viele sind berufen, aber wenige auserwählt.“
+
+Dann gingen die Pharisäer und berieten sich, wie sie ihn in seinem Reden fangen könnten. Sie schickten ihre Jünger zu ihm, zusammen mit den Herodianern, und sagten: „Lehrer, wir wissen, dass du ehrlich bist und den Weg Gottes in Wahrheit lehrst, unabhängig davon, wen du lehrst; denn du bist niemandem gegenüber parteiisch. Sage uns daher, was hältst du davon? Ist es erlaubt, Steuern an den Kaiser zu zahlen oder nicht?“
+
+Aber Jesus erkannte ihre Bosheit und sagte: „Warum testet ihr mich, ihr Heuchler? Zeigt mir das Steuergeld.“
+
+Sie brachten ihm einen Denar.
+
+Er fragte sie: „Wessen Bild und Aufschrift ist das?“
+
+Sie sagten zu ihm: „Des Kaisers.“
+
+Dann sagte er zu ihnen: „Gebt daher dem Kaiser die Dinge, die des Kaisers sind, und Gott die Dinge, die Gottes sind.“
+
+Als sie das hörten, wunderten sie sich und verließen ihn und gingen weg.
+
+An diesem Tag kamen Sadduzäer (die sagen, dass es keine Auferstehung gibt) zu ihm. Sie fragten ihn und sagten: „Lehrer, Mose sagte: ‚Wenn ein Mann stirbt und keine Kinder hat, soll sein Bruder seine Frau heiraten und Nachkommen für seinen Bruder erwecken.‘ Nun waren bei uns sieben Brüder. Der erste heiratete und starb und hinterließ keine Nachkommen; er ließ seine Frau seinem Bruder. Ebenso der zweite und der dritte bis zum siebten. Nach ihnen allen starb die Frau. In der Auferstehung, wessen Frau wird sie von den sieben sein? Denn sie hatten sie alle.“
+
+Aber Jesus antwortete ihnen: „Ihr irrt euch, weil ihr die Schriften nicht kennt und auch nicht die Kraft Gottes. Denn in der Auferstehung heiraten sie nicht und werden nicht verheiratet, sondern sind wie die Engel Gottes im Himmel. Aber bezüglich der Auferstehung der Toten habt ihr nicht gelesen, was euch von Gott gesagt wurde: ‚Ich bin der Gott Abrahams und der Gott Isaaks und der Gott Jakobs‘? Gott ist nicht der Gott der Toten, sondern der Lebenden.“
+
+Als die Menschenmengen das hörten, waren sie erstaunt über seine Lehre.
+
+Aber die Pharisäer, als sie hörten, dass er die Sadduzäer zum Schweigen gebracht hatte, versammelten sich. Einer von ihnen, ein Gesetzesgelehrter, stellte ihm eine Frage, um ihn zu prüfen. „Lehrer, welches ist das größte Gebot im Gesetz?“
+
+Jesus sagte zu ihm: „‚Du sollst den Herrn, deinen Gott, lieben mit ganzem Herzen, mit ganzer Seele und mit ganzem Verstand.‘ Dies ist das erste und größte Gebot. Ein zweites ist ihm gleich: ‚Du sollst deinen Nächsten lieben wie dich selbst.‘ Das ganze Gesetz und die Propheten hängen von diesen zwei Geboten ab.“
+
+Während die Pharisäer versammelt waren, fragte Jesus sie: „Was haltet ihr vom Christus? Wessen Sohn ist er?“
+
+Sie sagten zu ihm: „Von David.“
+
+Er sagte zu ihnen: „Wie nennt ihn David dann im Geist Herr und sagt:
+
+‚Der Herr sprach zu meinem Herrn:
+
+Setze dich zu meiner Rechten,
+
+bis ich deine Feinde zum Schemel für deine Füße mache‘?
+
+„Wenn also David ihn Herr nennt, wie ist er sein Sohn?“
+
+Niemand war in der Lage, ihm ein Wort zu antworten; auch wagte es von diesem Tag an niemand mehr, ihm Fragen zu stellen.
+
+### Kapitel 23
+
+Dann sprach Jesus zu den Menschenmengen und zu seinen Jüngern und sagte: „Die Schriftgelehrten und die Pharisäer sitzen auf dem Stuhl Moses. Alles nun, was sie euch sagen zu beobachten, das beobachtet und tut; aber tut nicht nach ihren Werken; denn sie sagen es und tun es nicht. Denn sie binden schwere Lasten, die kaum zu tragen sind, und legen sie auf die Schultern der Menschen; aber sie selbst wollen keinen Finger rühren, um sie zu helfen. Sie tun all ihre Werke, um von den Menschen gesehen zu werden. Sie machen ihre Phylakterien breit und vergrößern die Quasten ihrer Gewänder und lieben den Ehrenplatz bei Festen und die besten Sitze in den Synagogen und die Grüße auf den Märkten und dass sie von den Menschen ‚Rabbi, Rabbi‘ genannt werden. Aber ihr sollt nicht ‚Rabbi‘ genannt werden; denn einer ist euer Lehrer, der Christus, und ihr seid alle Brüder. Nennt keinen Menschen auf der Erde euren Vater; denn einer ist euer Vater, der im Himmel ist. Werdet auch nicht Meister genannt; denn einer ist euer Meister, der Christus. Der Größte unter euch soll euer Diener sein. Wer sich selbst erhöht, wird erniedrigt werden; und wer sich selbst erniedrigt, wird erhöht werden.“
+
+„Wehe euch, Schriftgelehrte und Pharisäer, Heuchler! Denn ihr verschlingt die Häuser der Witwen und macht aus Vorwand lange Gebete. Deshalb werdet ihr die größere Verdammnis empfangen.
+
+„Aber wehe euch, Schriftgelehrte und Pharisäer, Heuchler! Denn ihr schließt das Himmelreich vor den Menschen; denn ihr geht selbst nicht hinein und lasst auch die nicht hinein, die hineingehen wollen. Wehe euch, Schriftgelehrte und Pharisäer, Heuchler! Denn ihr reist über Land und Meer, um einen Proselyten zu machen; und wenn er einer geworden ist, macht ihr ihn doppelt so sehr zu einem Sohn der Hölle wie euch selbst.
+
+„Wehe euch, blinde Führer, die ihr sagt: ‚Wer beim Tempel schwört, der ist nichts; aber wer beim Gold des Tempels schwört, der ist verpflichtet.‘ Ihr blinden Toren! Was ist denn größer, das Gold oder der Tempel, der das Gold heiligt? Und: ‚Wer beim Altar schwört, der ist nichts; aber wer beim Geschenk schwört, das darauf ist, der ist verpflichtet.‘ Ihr blinden Toren! Was ist denn größer, das Geschenk oder der Altar, der das Geschenk heiligt? Wer also beim Altar schwört, schwört bei ihm und bei allem, was darauf ist. Wer beim Tempel schwört, schwört bei ihm und bei dem, der darin wohnt. Wer beim Himmel schwört, schwört bei dem Thron Gottes und bei dem, der darauf sitzt.
+
+„Wehe euch, Schriftgelehrte und Pharisäer, Heuchler! Denn ihr zentet Minze, Dill und Kümmel und lasst die schwereren Dinge des Gesetzes unbeachtet: Gerechtigkeit, Barmherzigkeit und Glauben. Diese hättet ihr tun sollen und jene nicht lassen. Ihr blinden Führer, die ihr einen Mückenfiltert und ein Kamel verschluckt!
+
+„Wehe euch, Schriftgelehrte und Pharisäer, Heuchler! Denn ihr reinigt das Äußere des Bechers und des Geschirrs, aber innen sind sie voll von Raub und Ungerechtigkeit. Du blinder Pharisäer, reinige zuerst das Innere des Bechers und des Geschirrs, damit auch das Äußere rein wird.
+
+„Wehe euch, Schriftgelehrte und Pharisäer, Heuchler! Denn ihr seid wie weißgewaschene Gräber, die äußerlich schön erscheinen, aber innen voll von den Knochen toter Männer und aller Unreinheit sind. So erscheint auch ihr äußerlich den Menschen gerecht, aber innen seid ihr voll von Heuchelei und Gesetzlosigkeit.
+
+„Wehe euch, Schriftgelehrte und Pharisäer, Heuchler! Denn ihr baut die Gräber der Propheten und schmückt die Gräber der Gerechten und sagt: ‚Wenn wir in den Tagen unserer Väter gelebt hätten, wären wir nicht mit ihnen am Blut der Propheten beteiligt gewesen.‘ So bezeugt ihr gegen euch selbst, dass ihr Kinder derer seid, die die Propheten getötet haben. Füllt also das Maß eurer Väter aus. Ihr Schlangen, ihr Brut von Nattern, wie wollt ihr dem Gericht der Hölle entkommen? Siehe, ich sende euch Propheten, weise Männer und Schriftgelehrte. Einige von ihnen werdet ihr töten und kreuzigen; und einige von ihnen werdet ihr in euren Synagogen auspeitschen und von Stadt zu Stadt verfolgen, damit über euch all das gerechte Blut komme, das auf Erden vergossen wurde, vom Blut des gerechten Abel bis zum Blut Zacharias, des Sohnes Barachias, den ihr zwischen dem Heiligtum und dem Altar getötet habt. Wahrlich, ich sage euch: All diese Dinge werden über diese Generation kommen.
+
+„Jerusalem, Jerusalem, die du die Propheten tötest und steinigst, die zu dir gesandt werden! Wie oft hätte ich deine Kinder versammelt, wie eine Henne ihre Küken unter ihre Flügel versammelt, und ihr wolltet nicht! Siehe, euer Haus wird euch wüst gelassen. Denn ich sage euch: Von nun an werdet ihr mich nicht sehen, bis ihr sagt: ‚Gesegnet sei er, der kommt im Namen des Herrn!‘“
+
+### Kapitel 24
+
+Jesus ging aus dem Tempel hinaus und machte sich auf den Weg. Seine Jünger kamen zu ihm, um ihm die Gebäude des Tempels zu zeigen. Er aber antwortete ihnen: „Seht ihr all diese Dinge? Wahrlich, ich sage euch: Es wird hier nicht ein Stein auf dem anderen bleiben, der nicht niedergerissen wird.“
+
+Als er auf dem Ölberg saß, traten die Jünger privat zu ihm und sagten: „Sag uns, wann wird das geschehen? Was ist das Zeichen deiner Ankunft und des Endes des Zeitalters?“
+
+Jesus antwortete ihnen: „Seht zu, dass euch niemand verführt. Denn viele werden in meinem Namen kommen und sagen: ‚Ich bin der Christus‘; und sie werden viele verführen. Ihr werdet von Kriegen und Kriegsgeschrei hören. Seht zu, dass ihr euch nicht erschreckt; denn das muss geschehen; aber das Ende ist noch nicht da. Denn Nation wird sich gegen Nation erheben und Königreich gegen Königreich; und es wird Hungersnöte und Seuchen geben und Erdbeben an verschiedenen Orten. Aber all dies ist der Anfang der Wehen.
+
+„Dann werden sie euch der Verfolgung ausliefern und euch töten. Ihr werdet von allen Nationen um meines Namens willen gehasst werden. Dann werden viele anstoßen und einander ausliefern und einander hassen. Viele falsche Propheten werden auftreten und viele verführen. Weil die Gesetzlosigkeit überhandnehmen wird, wird die Liebe der meisten erkalten. Wer aber bis ans Ende durchhält, der wird gerettet werden. Dieses Evangelium vom Reich wird in der ganzen Welt gepredigt werden, zum Zeugnis für alle Nationen, und dann wird das Ende kommen.
+
+„Wenn ihr also das Gräuel der Verwüstung seht, von dem durch den Propheten Daniel gesprochen wurde, an heiliger Stätte stehen (wer es liest, der verstehe), dann fliehe, wer in Judäa ist, in die Berge. Wer auf dem Dach ist, der gehe nicht hinunter, um etwas aus seinem Haus zu holen. Und wer auf dem Feld ist, der kehre nicht zurück, um seine Kleider zu holen. Aber wehe den Schwangeren und den stillenden Müttern in jenen Tagen! Betet, dass eure Flucht nicht im Winter oder am Sabbat sei; denn dann wird es große Bedrängnis geben, wie sie seit dem Anfang der Welt bis jetzt nicht gewesen ist und auch nie sein wird. Und wenn diese Tage nicht verkürzt worden wären, würde kein Fleisch gerettet werden. Aber um der Auserwählten willen werden diese Tage verkürzt.
+
+„Wenn euch also jemand sagt: ‚Siehe, hier ist der Christus!‘ oder: ‚Da!‘, so glaubt es nicht. Denn es werden falsche Christe und falsche Propheten auftreten und große Zeichen und Wunder tun, um, wenn möglich, auch die Auserwählten zu verführen.
+
+„Siehe, ich habe es euch vorher gesagt.
+
+„Wenn sie euch also sagen: ‚Siehe, er ist in der Wüste‘, so geht nicht hinaus; oder: ‚Siehe, er ist in den inneren Kammern‘, so glaubt es nicht. Denn wie der Blitz vom Osten blitzt und bis zum Westen sichtbar ist, so wird auch die Ankunft des Menschensohnes sein. Denn wo der Leichnam ist, da versammeln sich die Geier.
+
+„Aber unmittelbar nach der Bedrängnis jener Tage wird die Sonne sich verfinstern, der Mond wird seinen Schein nicht geben, die Sterne werden vom Himmel fallen und die Kräfte der Himmel werden erschüttert werden; und dann wird das Zeichen des Menschensohnes am Himmel erscheinen. Und dann werden alle Stämme der Erde wehklagen, und sie werden den Menschensohn kommen sehen auf den Wolken des Himmels mit Macht und großer Herrlichkeit. Und er wird seine Engel mit lautem Posaunenschall senden, und sie werden seine Auserwählten sammeln von den vier Winden, von einem Ende des Himmels bis zum anderen.
+
+„Lernt nun von dem Feigenbaum dieses Gleichnis: Wenn sein Zweig jetzt weich geworden ist und Blätter treibt, so wisst ihr, dass der Sommer nahe ist. So auch ihr: Wenn ihr all dies seht, so wisst, dass er nahe ist, vor der Tür. Wahrlich, ich sage euch: Diese Generation wird nicht vergehen, bis all dies geschehen ist. Himmel und Erde werden vergehen, aber meine Worte werden nicht vergehen.
+
+„Aber von jenem Tag und jener Stunde weiß niemand, auch nicht die Engel im Himmel, sondern nur mein Vater. Denn wie die Tage Noahs waren, so wird auch die Ankunft des Menschensohnes sein. Denn wie sie in den Tagen vor der Flut aßen und tranken, heirateten und verheirateten bis zu dem Tag, an dem Noah in die Arche ging, und sie wussten nichts davon, bis die Flut kam und sie alle mitriss; so wird auch die Ankunft des Menschensohnes sein. Dann werden zwei Männer auf dem Feld sein: einer wird genommen und einer wird gelassen. Zwei Frauen werden am Mahlstein mahlen: eine wird genommen und eine wird gelassen. Seht also zu; denn ihr wisst nicht, in welcher Stunde euer Herr kommt. Aber dies erkennt: Wenn der Hausherr gewusst hätte, in welcher Wache der Dieb kommt, hätte er gewacht und hätte nicht zugelassen, dass sein Haus durchbrochen wird. Darum seid auch bereit; denn in einer Stunde, die ihr nicht erwartet, kommt der Menschensohn.
+
+„Wer ist also der treue und weise Diener, den sein Herr über sein Haus gesetzt hat, um ihnen zur rechten Zeit ihre Speise zu geben? Selig ist jener Diener, den sein Herr bei seiner Ankunft so tun findet. Wahrlich, ich sage euch: Er wird ihn über alles setzen, was er hat. Wenn aber jener böse Diener in seinem Herzen sagt: ‚Mein Herr verzögert seine Ankunft‘ und anfängt seine Mitknechte zu schlagen und mit den Trunkenbolden zu essen und zu trinken, dann wird der Herr jenes Dieners an einem Tag kommen, an dem er es nicht erwartet und in einer Stunde, die er nicht kennt; und er wird ihn in Stücke schlagen und ihm seinen Platz mit den Heuchlern zuweisen. Dort wird das Weinen und das Zähneknirschen sein.“
+
+### Kapitel 25
+
+„Dann wird das Himmelreich gleich zehn Jungfrauen sein, die ihre Lampen nahmen und hinausgingen, um dem Bräutigam zu begegnen. Fünf von ihnen waren töricht, und fünf waren weise. Die törichten nahmen, als sie ihre Lampen mitnahmen, kein Öl mit sich, aber die weisen nahmen Öl in ihren Gefäßen mit ihren Lampen. Während der Bräutigam sich verzögerte, schliefen sie alle ein. Aber um Mitternacht gab es einen Ruf: ‚Siehe! Der Bräutigam kommt! Geht hinaus, um ihm zu begegnen!‘ Dann standen alle diese Jungfrauen auf und bereiteten ihre Lampen. Die törichten sagten zu den weisen: ‚Gebt uns von eurem Öl, denn unsere Lampen verlöschen.‘ Aber die weisen antworteten und sagten: ‚Was ist, wenn es nicht genug für uns und euch gibt? Geht lieber zu denen, die verkaufen, und kauft für euch selbst.‘ Während sie weggingen, um zu kaufen, kam der Bräutigam, und die Bereiten gingen mit ihm zur Hochzeitsfeier, und die Tür wurde geschlossen. Danach kamen auch die anderen Jungfrauen und sagten: ‚Herr, Herr, öffne uns.‘ Aber er antwortete: ‚Wahrlich, ich sage euch, ich kenne euch nicht.‘ Seid also wachsam, denn ihr wisst weder den Tag noch die Stunde, in der der Sohn des Menschen kommt.
+
+„Denn es ist wie ein Mann, der in ein anderes Land ging, der seine eigenen Diener rief und ihnen seine Güter anvertraute. Dem einen gab er fünf Talente, dem anderen zwei, dem dritten eines, jedem nach seiner eigenen Fähigkeit. Dann ging er auf seine Reise. Sofort ging der, der die fünf Talente erhalten hatte, hin und handelte mit ihnen und gewann weitere fünf Talente. Ebenso gewann auch der, der die zwei erhalten hatte, weitere zwei. Aber der, der das eine Talent erhalten hatte, ging weg, grub in die Erde und verbarg das Geld seines Herrn.
+
+„Nach langer Zeit kam der Herr dieser Diener und rechnete mit ihnen ab. Der, der die fünf Talente erhalten hatte, kam und brachte weitere fünf Talente und sagte: ‚Herr, du hast mir fünf Talente anvertraut. Siehe, ich habe weitere fünf Talente dazu gewonnen.‘
+
+„Sein Herr sagte zu ihm: ‚Gut gemacht, guter und treuer Diener. Du warst über wenig treu, ich will dich über viel setzen. Tritt ein in die Freude deines Herrn.‘
+
+„Auch der, der die zwei Talente erhalten hatte, kam und sagte: ‚Herr, du hast mir zwei Talente anvertraut. Siehe, ich habe weitere zwei Talente dazu gewonnen.‘
+
+„Sein Herr sagte zu ihm: ‚Gut gemacht, guter und treuer Diener. Du warst über wenig treu. Ich will dich über viel setzen. Tritt ein in die Freude deines Herrn.‘
+
+„Der aber, der das eine Talent erhalten hatte, kam und sagte: ‚Herr, ich wusste, dass du ein harter Mann bist, der erntet, wo du nicht gesät hast, und sammelt, wo du nicht verstreut hast. Ich hatte Angst und ging weg und verbarg dein Talent in der Erde. Siehe, du hast das deinige.‘
+
+„Aber sein Herr antwortete ihm: ‚Du böser und fauler Diener. Du wusstest, dass ich ernte, wo ich nicht gesät habe, und sammle, wo ich nicht verstreut habe. Du hättest daher mein Geld bei den Bankiers anlegen sollen; und bei meiner Rückkehr hätte ich mein eigenes mit Zinsen erhalten. Nimm ihm daher das Talent weg und gib es dem, der die zehn Talente hat. Denn jedem, der hat, wird gegeben werden, und er wird Überfluss haben; aber von dem, der nicht hat, wird auch das genommen werden, was er hat. Werft den unprofitable Diener in die äußere Finsternis hinaus; dort wird Weinen und Zähneknirschen sein.‘
+
+„Wenn aber der Sohn des Menschen in seiner Herrlichkeit kommt und alle heiligen Engel mit ihm, dann wird er auf dem Thron seiner Herrlichkeit sitzen. Vor ihm werden alle Nationen versammelt werden, und er wird sie voneinander scheiden, wie ein Hirte die Schafe von den Ziegen scheidet. Er wird die Schafe zu seiner rechten Hand stellen, die Ziegen aber zur Linken. Dann wird der König zu denen zu seiner rechten Hand sagen: ‚Kommt her, ihr Gesegneten meines Vaters; erbt das Reich, das euch von Grundlegung der Welt bereitet ist; denn ich war hungrig und ihr habt mir zu essen gegeben. Ich war durstig und ihr habt mir zu trinken gegeben. Ich war ein Fremder und ihr habt mich aufgenommen. Ich war nackt und ihr habt mich bekleidet. Ich war krank und ihr habt mich besucht. Ich war im Gefängnis und ihr seid zu mir gekommen.‘
+
+„Dann werden die Gerechten ihm antworten und sagen: ‚Herr, wann haben wir dich hungrig gesehen und dir zu essen gegeben oder durstig und dir zu trinken gegeben? Wann haben wir dich als Fremden gesehen und aufgenommen oder nackt und dir Kleidung gegeben? Wann haben wir dich krank oder im Gefängnis gesehen und sind zu dir gekommen?‘
+
+„Der König wird ihnen antworten: ‚Wahrlich, ich sage euch, weil ihr es einem von diesen geringsten Brüdern getan habt, habt ihr es mir getan.‘ Dann wird er auch zu denen auf der linken Seite sagen: ‚Geht von mir weg, ihr Verfluchten, in das ewige Feuer, das für den Teufel und seine Engel vorbereitet ist; denn ich war hungrig, und ihr habt mir nichts zu essen gegeben; ich war durstig, und ihr habt mir nichts zu trinken gegeben; ich war ein Fremder, und ihr habt mich nicht aufgenommen; nackt, und ihr habt mich nicht bekleidet; krank und im Gefängnis, und ihr habt mich nicht besucht.‘
+
+„Dann werden auch sie antworten und sagen: ‚Herr, wann haben wir dich hungrig oder durstig oder als Fremden oder nackt oder krank oder im Gefängnis gesehen und dir nicht geholfen?‘
+
+„Dann wird er ihnen antworten und sagen: ‚Wahrlich, ich sage euch, weil ihr es einem von diesen geringsten nicht getan habt, habt ihr es mir nicht getan.‘ Diese werden in die ewige Strafe gehen, die Gerechten aber in das ewige Leben.“
+
+### Kapitel 26
+
+Als Jesus all diese Worte beendet hatte, sagte er zu seinen Jüngern: „Ihr wisst, dass nach zwei Tagen das Passah kommt, und der Menschensohn wird überliefert werden, um gekreuzigt zu werden.“
+
+Dann versammelten sich die obersten Priester, die Schriftgelehrten und die Ältesten des Volkes im Hof des Hohenpriesters, der Kaiphas genannt wurde. Sie berieten sich miteinander, um Jesus durch List zu ergreifen und ihn zu töten. Aber sie sagten: „Nicht während des Festes, damit kein Aufruhr unter dem Volk entsteht.“
+
+Als Jesus nun in Bethanien war, im Haus Simons des Aussätzigen, kam eine Frau zu ihm mit einem alabasternen Gefäß sehr kostbaren Salböls, und sie goss es auf sein Haupt, während er zu Tisch saß. Als seine Jünger dies sahen, wurden sie empört und sagten: „Warum diese Verschwendung? Denn dieses Salböl hätte teuer verkauft und den Armen gegeben werden können.“
+
+Jesus aber wusste dies und sagte zu ihnen: „Warum macht ihr der Frau Schwierigkeiten? Sie hat ein gutes Werk an mir getan. Denn die Armen habt ihr immer bei euch, aber mich habt ihr nicht immer. Denn indem sie dieses Salböl auf meinen Leib gegossen hat, hat sie es getan, um mich auf mein Begräbnis vorzubereiten. Wahrlich, ich sage euch, wo immer dieses Evangelium in der ganzen Welt gepredigt wird, wird auch von dem gesprochen werden, was diese Frau getan hat, zu ihrem Gedächtnis.“
+
+Dann ging einer von den Zwölf, der Judas Iskariot genannt wurde, zu den obersten Priestern und sagte: „Was wollt ihr mir geben, wenn ich ihn euch überliefere?“ Und sie wogen ihm dreißig Silberlinge aus. Von da an suchte er Gelegenheit, ihn zu verraten.
+
+Am ersten Tag der ungesäuerten Brote kamen die Jünger zu Jesus und sagten zu ihm: „Wo willst du, dass wir dir das Passah bereiten?“
+
+Er sagte: „Geht in die Stadt zu einem bestimmten Menschen und sagt ihm: ‚Der Lehrer lässt dir sagen: „Meine Zeit ist nahe. Ich werde das Passah in deinem Haus mit meinen Jüngern feiern.“‘“
+
+Die Jünger taten, wie Jesus ihnen geboten hatte, und bereiteten das Passah.
+
+Als es Abend geworden war, lag er mit den zwölf Jüngern zu Tisch. Während sie aßen, sagte er: „Wahrlich, ich sage euch, einer von euch wird mich verraten.“
+
+Sie wurden sehr traurig und begann jeder von ihnen zu fragen: „Bin ich es, Herr?“
+
+Er antwortete: „Der mit mir die Hand in die Schüssel taucht, der wird mich verraten. Der Menschensohn geht zwar dahin, wie über ihn geschrieben steht; aber wehe dem Menschen, durch den der Menschensohn verraten wird! Es wäre besser für diesen Menschen gewesen, wenn er nie geboren wäre.“
+
+Judas, der ihn verriet, antwortete: „Bin ich es, Rabbi?“
+
+Er sagte zu ihm: „Du hast es gesagt.“
+
+Während sie aßen, nahm Jesus das Brot, dankte und brach es. Er gab es den Jüngern und sagte: „Nehmt, esst; dies ist mein Leib.“ Und er nahm den Kelch, dankte und gab ihnen den Kelch und sagte: „Trinkt alle daraus; denn dies ist mein Blut des neuen Bundes, das für viele vergossen wird zur Vergebung der Sünden. Aber ich sage euch: Ich werde von diesem Gewächs des Weinstocks von nun an nicht mehr trinken bis zu dem Tag, an dem ich es neu mit euch im Reich meines Vaters trinken werde.“
+
+Als sie ein Lobgesang gesungen hatten, gingen sie hinaus zum Ölberg.
+
+Dann sagte Jesus zu ihnen: „Ihr werdet alle in dieser Nacht an mir Anstoß nehmen; denn es steht geschrieben: ‚Ich werde den Hirten schlagen, und die Schafe der Herde werden zerstreut werden.‘ Aber nachdem ich auferweckt worden bin, werde ich euch nach Galiläa vorausgehen.“
+
+Aber Petrus antwortete ihm: „Auch wenn alle wegen dir zu Fall kommen, ich werde niemals zu Fall kommen.“
+
+Jesus sagte zu ihm: „Wahrlich, ich sage dir, dass du in dieser Nacht, bevor der Hahn kräht, mich dreimal verleugnen wirst.“
+
+Petrus sagte zu ihm: „Auch wenn ich mit dir sterben muss, werde ich dich nicht verleugnen.“ Auch alle anderen Jünger sagten ebenso.
+
+Dann kam Jesus mit ihnen an einen Ort namens Gethsemane und sagte zu seinen Jüngern: „Setzt euch hier, während ich dorthin gehe und bete.“ Er nahm Petrus und die beiden Söhne des Zebedäus mit sich und begann, traurig und sehr bekümmert zu sein. Dann sagte Jesus zu ihnen: „Meine Seele ist sehr betrübt, bis zum Tod. Bleibt hier und wacht mit mir.“
+
+Er ging ein wenig weiter, fiel auf sein Gesicht und betete und sagte: „Mein Vater, wenn es möglich ist, lass diesen Kelch an mir vorübergehen; doch nicht wie ich will, sondern wie du willst.“
+
+Er kam zu den Jüngern zurück und fand sie schlafend und sagte zu Petrus: „Was, konntet ihr nicht eine Stunde mit mir wachen? Wacht und betet, damit ihr nicht in Versuchung fallt. Der Geist ist zwar willig, aber das Fleisch ist schwach.“
+
+Wieder ging er ein zweites Mal weg und betete und sagte: „Mein Vater, wenn dieser Kelch nicht an mir vorübergehen kann, es sei denn, ich trinke ihn, so geschehe dein Wille.“
+
+Er kam wieder und fand sie schlafend, denn ihre Augen waren schwer. Er ließ sie wieder und ging weg und betete ein drittes Mal und sprach die gleichen Worte. Dann kam er zu seinen Jüngern und sagte zu ihnen: „Schlaft ihr noch und ruht euch aus? Siehe, die Stunde ist nahe, und der Sohn des Menschen wird in die Hände der Sünder überliefert. Steht auf, lasst uns gehen. Siehe, der mich verrät, ist nahe.“
+
+Während er noch sprach, siehe, Judas, einer der Zwölf, kam und mit ihm eine große Menge mit Schwertern und Knüppeln von den obersten Priestern und den Ältesten des Volkes. Der ihn verraten hatte, hatte ihnen ein Zeichen gegeben und gesagt: „Wen ich küsse, der ist es; den ergreift.“ Und sogleich trat er zu Jesus und sagte: „Sei gegrüßt, Rabbi!“ und küsste ihn.
+
+Jesus sagte zu ihm: „Freund, warum bist du hier?“
+
+Dann kamen sie und legten die Hände an Jesus und nahmen ihn fest. Siehe, einer von denen, die bei Jesus waren, streckte seine Hand aus und zog sein Schwert und schlug dem Diener des hohen Priesters das Ohr ab.
+
+Da sagte Jesus zu ihm: „Stecke dein Schwert wieder an seinen Platz; denn alle, die das Schwert nehmen, werden durch das Schwert umkommen. Oder meinst du, ich könnte meinen Vater nicht bitten, und er würde mir jetzt mehr als zwölf Legionen Engel senden? Wie würden dann die Schriften erfüllt werden, dass es so geschehen muss?“
+
+In jener Stunde sagte Jesus zu den Massen: „Seid ihr ausgezogen wie gegen einen Räuber mit Schwertern und Knüppeln, um mich festzunehmen? Ich saß täglich im Tempel und lehrte, und ihr habt mich nicht festgenommen. Aber all dies ist geschehen, damit die Schriften der Propheten erfüllt werden.“
+
+Dann verließen ihn alle Jünger und flohen.
+
+Diejenigen, die Jesus ergriffen hatten, führten ihn zu Kaiphas dem hohen Priester, wo die Schriftgelehrten und die Ältesten versammelt waren. Petrus folgte ihm jedoch von weitem bis zum Hof des hohen Priesters und trat ein und setzte sich mit den Dienern, um das Ende zu sehen.
+
+Nun suchten die obersten Priester, die Ältesten und der ganze Rat falsches Zeugnis gegen Jesus, um ihn zum Tode zu bringen, aber sie fanden keines. Obwohl viele falsche Zeugen auftraten, fanden sie keines. Schließlich traten zwei falsche Zeugen auf und sagten: „Dieser Mann hat gesagt: ‚Ich kann den Tempel Gottes zerstören und ihn in drei Tagen wieder aufbauen.‘“
+
+Der hohe Priester stand auf und sagte zu ihm: „Hast du keine Antwort? Was ist das für ein Zeugnis, das diese gegen dich ablegen?“ Aber Jesus schwieg. Der hohe Priester antwortete ihm: „Ich beschwöre dich bei dem lebendigen Gott, dass du uns sagst, ob du der Christus bist, der Sohn Gottes.“
+
+Jesus sagte zu ihm: „Du hast es gesagt. Dennoch sage ich dir: Von nun an werdet ihr den Sohn des Menschen zur Rechten der Macht sitzen sehen und kommen auf den Wolken des Himmels.“
+
+Da zerriss der hohe Priester seine Kleider und sagte: „Er hat Gotteslästerung gesprochen! Warum brauchen wir noch weitere Zeugen? Siehe, jetzt habt ihr seine Gotteslästerung gehört. Was denkt ihr?“
+
+Sie antworteten: „Er ist des Todes würdig!“ Dann spuckten sie ihm ins Gesicht und schlugen ihn mit ihren Fäusten, und einige schlugen ihn und sagten: „Prophezeie uns, du Christus! Wer hat dich geschlagen?“
+
+Nun saß Petrus draußen im Hof, und eine Magd kam zu ihm und sagte: „Du warst auch mit Jesus, dem Galiläer!“
+
+Aber er leugnete es vor ihnen allen und sagte: „Ich weiß nicht, wovon ihr redet.“
+
+Als er auf den Vorplatz hinausgegangen war, sah ihn ein anderer und sagte zu den Anwesenden: „Dieser Mann war auch mit Jesus von Nazareth.“
+
+Er leugnete es erneut mit einem Eid: „Ich kenne den Mann nicht.“
+
+Nach einer kleinen Weile kamen die, die dabei standen, und sagten zu Petrus: „Gewiss bist du auch einer von ihnen, denn dein Akzent verrät dich.“
+
+Da begann er zu fluchen und zu schwören: „Ich kenne den Mann nicht!“
+
+Sofort krähte der Hahn. Petrus erinnerte sich an das Wort, das Jesus zu ihm gesagt hatte: „Ehe der Hahn kräht, wirst du mich dreimal verleugnen.“ Dann ging er hinaus und weinte bitterlich.
+
+### Kapitel 27
+
+Als der Morgen gekommen war, berieten sich alle obersten Priester und die Ältesten des Volkes gegen Jesus, um ihn zu töten. Sie banden ihn, führten ihn weg und übergaben ihn an Pontius Pilatus, den Statthalter.
+
+Dann bereute Judas, der ihn verraten hatte, als er sah, dass Jesus verurteilt wurde, und brachte die dreißig Silberlinge zu den obersten Priestern und Ältesten zurück und sagte: „Ich habe gesündigt, weil ich unschuldiges Blut verraten habe.“
+
+Aber sie sagten: „Was ist das für uns? Du siehst zu dir selbst.“
+
+Er warf die Silberstücke im Tempel nieder und ging weg. Dann ging er hin und erhängte sich.
+
+Die obersten Priester nahmen die Silberstücke und sagten: „Es ist nicht rechtens, sie in die Schatzkammer zu legen, da es der Preis von Blut ist.“ Sie berieten sich und kauften mit ihnen das Töpferfeld, um Fremde zu begraben. Daher wird dieses Feld bis zum heutigen Tag „Das Blutfeld“ genannt. Dann wurde erfüllt, was durch den Propheten Jeremia gesagt wurde:
+
+„Sie nahmen die dreißig Silberlinge,
+
+den Preis dessen, dem ein Preis gesetzt war,
+
+den einige der Kinder Israel bewertet hatten,
+
+und sie gaben sie für das Töpferfeld,
+
+wie der Herr mich befohlen hat.“
+
+Nun stand Jesus vor dem Statthalter; und der Statthalter fragte ihn und sagte: „Bist du der König der Juden?“
+
+Jesus sagte zu ihm: „Du sagst es.“
+
+Als er von den obersten Priestern und Ältesten angeklagt wurde, gab er keine Antwort. Dann sagte Pilatus zu ihm: „Hörst du nicht, wie viele Dinge sie gegen dich bezeugen?“
+
+Er gab ihm keine Antwort, nicht einmal ein Wort, sodass der Statthalter sehr erstaunt war.
+
+Nun war es Brauch, dass der Statthalter zur Feierzeit einem Gefangenen, den sie wollten, freigab. Sie hatten dann einen bemerkenswerten Gefangenen namens Barabbas. Als sie also versammelt waren, sagte Pilatus zu ihnen: „Wen wollt ihr, dass ich euch freigebe? Barabbas oder Jesus, der Christus genannt wird?“ Denn er wusste, dass sie ihn aus Neid übergeben hatten.
+
+Während er auf dem Richterstuhl saß, sandte seine Frau zu ihm und ließ sagen: „Habe nichts mit diesem gerechten Mann zu tun; denn ich habe heute viel wegen ihm im Traum gelitten.“
+
+Nun überredeten die obersten Priester und die Ältesten die Menge, Barabbas zu fordern und Jesus zu vernichten. Aber der Statthalter antwortete ihnen: „Welchen von den beiden wollt ihr, dass ich euch freigebe?“
+
+Sie sagten: „Barabbas!“
+
+Pilatus sagte zu ihnen: „Was soll ich dann mit Jesus tun, der Christus genannt wird?“
+
+Sie alle sagten zu ihm: „Lass ihn kreuzigen!“
+
+Der Statthalter sagte: „Warum? Was für ein Unrecht hat er getan?“
+
+Aber sie schrien überaus laut: „Lass ihn kreuzigen!“
+
+Als Pilatus sah, dass nichts gewonnen wurde, sondern dass vielmehr ein Aufruhr begann, nahm er Wasser und wusch seine Hände vor der Menge und sagte: „Ich bin unschuldig am Blut dieses gerechten Mannes. Ihr seht zu euch selbst.“
+
+Und das ganze Volk antwortete: „Sein Blut komme über uns und über unsere Kinder!“
+
+Dann gab er ihnen Barabbas frei; aber Jesus ließ er auspeitschen und übergab ihn zur Kreuzigung.
+
+Dann nahmen die Soldaten des Statthalters Jesus ins Praetorium und versammelten die ganze Kohorte gegen ihn. Sie zogen ihm die Kleider aus und legten ihm einen scharlachroten Mantel um. Sie flochten eine Dornenkrone und setzten sie auf sein Haupt und ein Rohr in seine rechte Hand; und sie knieten vor ihm nieder und verspotteten ihn und sagten: „Sei gegrüßt, König der Juden!“ Sie spuckten ihn an und nahmen das Rohr und schlugen ihn auf den Kopf. Als sie ihn verspottet hatten, zogen sie ihm den Mantel aus und zogen ihm seine eigenen Kleider an und führten ihn weg, um ihn zu kreuzigen.
+
+Als sie herauskamen, fanden sie einen Mann aus Kyrene, mit Namen Simon, und sie zwangen ihn, mit ihnen zu gehen, damit er sein Kreuz trage. Als sie an einen Ort kamen, der „Golgatha“ genannt wird, das heißt „Der Ort des Schädels“, gaben sie ihm Essig zu trinken, vermischt mit Galle. Als er es probiert hatte, wollte er nicht trinken. Als sie ihn gekreuzigt hatten, teilten sie seine Kleider unter sich auf und warfen das Los darüber, und sie saßen und schauten ihm dort zu. Über seinem Kopf richteten sie die Anklage gegen ihn auf, die geschrieben war: „DAS IST JESUS, DER KÖNIG DER JUDEN.“
+
+Dann wurden zwei Räuber mit ihm gekreuzigt, einer zu seiner rechten Hand und einer zu seiner linken.
+
+Die Vorübergehenden lästerten ihn und schüttelten ihre Köpfe und sagten: „Du, der du den Tempel zerstörst und in drei Tagen wieder aufbaust, rette dich selbst! Wenn du der Sohn Gottes bist, komm herab vom Kreuz!“
+
+Ebenso verspotteten ihn die Hohenpriester mit den Schriftgelehrten, den Pharisäern und den Ältesten und sagten: „Er hat anderen geholfen, aber sich selbst kann er nicht helfen. Wenn er der König von Israel ist, lasse ihn jetzt vom Kreuz herabkommen, und wir werden an ihn glauben. Er vertraut auf Gott. Lass Gott ihn jetzt retten, wenn er ihn will; denn er hat gesagt: ‚Ich bin der Sohn Gottes.‘“ Auch die Räuber, die mit ihm gekreuzigt wurden, machten ihm denselben Vorwurf.
+
+Von der sechsten Stunde an war Finsternis über das ganze Land bis zur neunten Stunde. Um die neunte Stunde schrie Jesus mit lauter Stimme: „Eli, Eli, lema sabachthani?“ Das heißt: „Mein Gott, mein Gott, warum hast du mich verlassen?“
+
+Einige von denen, die dort standen, als sie es hörten, sagten: „Dieser Mann ruft Elia.“
+
+Sofort lief einer von ihnen und nahm einen Schwamm, füllte ihn mit Essig, steckte ihn auf einen Rohrstock und gab ihm zu trinken. Die anderen sagten: „Lass ihn sein. Lass uns sehen, ob Elia kommt, um ihn zu retten.“
+
+Jesus schrie erneut mit lauter Stimme und gab den Geist auf.
+
+Siehe, der Vorhang des Tempels riss von oben bis unten in zwei. Die Erde erbebte und die Felsen zerrissen. Die Gräber öffneten sich und viele Leiber der Heiligen, die entschlafen waren, wurden auferweckt; und nachdem sie aus den Gräbern gekommen waren nach seiner Auferstehung, traten sie in die heilige Stadt ein und erschienen vielen.
+
+Der Hauptmann und die mit ihm waren, die Jesus beobachteten, als sie das Erdbeben und die Dinge sahen, die geschehen waren, waren erschrocken und sagten: „Wahrhaftig, dieser war der Sohn Gottes!“
+
+Viele Frauen waren dort und schauten von weitem zu, die Jesus aus Galiläa gefolgt waren und ihm dienten. Unter ihnen waren Maria Magdalena, Maria die Mutter von Jakobus und Joses und die Mutter der Söhne des Zebedäus.
+
+Als der Abend gekommen war, kam ein reicher Mann aus Arimathäa namens Joseph, der selbst auch ein Jünger Jesu war. Dieser Mann ging zu Pilatus und bat um den Leib Jesu. Dann befahl Pilatus, dass der Leib übergeben werde. Joseph nahm den Leib und wickelte ihn in ein reines Leinentuch und legte ihn in sein eigenes neues Grab, das er in den Felsen gehauen hatte. Dann wälzte er einen großen Stein vor den Eingang des Grabes und ging weg. Maria Magdalena war dort und die andere Maria, die gegenüber dem Grab saß.
+
+Am nächsten Tag, der Tag nach dem Vorbereitungstag, versammelten sich die Hohenpriester und die Pharisäer bei Pilatus und sagten: „Herr, wir erinnern uns daran, was jener Verführer gesagt hat, während er noch lebte: ‚Nach drei Tagen werde ich auferstehen.‘ Befehle daher, dass das Grab bis zum dritten Tag gesichert wird, damit vielleicht seine Jünger nicht kommen und ihn stehlen und dem Volk sagen: ‚Er ist von den Toten auferstanden;‘ und die letzte Täuschung wird schlimmer sein als die erste.“
+
+Pilatus sagte zu ihnen: „Ihr habt eine Wache. Geht hin und macht es so sicher wie ihr könnt.“ So gingen sie mit der Wache und machten das Grab sicher und versiegelten den Stein.
+
+### Kapitel 28
+
+Nach dem Sabbat, als es zu dämmern begann am ersten Tag der Woche, kamen Maria Magdalena und die andere Maria, um das Grab zu sehen. Siehe, es gab ein großes Erdbeben; denn ein Engel des Herrn kam vom Himmel herab und trat herzu und wälzte den Stein von der Tür weg und setzte sich darauf. Sein Aussehen war wie der Blitz und sein Kleid weiß wie Schnee. Aus Furcht vor ihm erbebten die Wächter und wurden wie tote Männer. Der Engel sprach zu den Frauen: „Fürchtet euch nicht; denn ich weiß, dass ihr Jesus sucht, der gekreuzigt wurde. Er ist nicht hier; denn er ist auferstanden, wie er gesagt hat. Kommt her und seht den Ort, wo der Herr lag. Geht schnell hin und sagt seinen Jüngern: ‚Er ist von den Toten auferstanden; siehe, er geht euch voraus nach Galiläa; dort werdet ihr ihn sehen.‘ Siehe, ich habe es euch gesagt.“
+
+Sie verließen schnell das Grab mit Furcht und großer Freude und liefen, um seinen Jüngern Bericht zu erstatten. Während sie gingen, um seinen Jüngern zu erzählen, siehe, Jesus begegnete ihnen und sprach: „Freut euch!“
+
+Sie kamen und fielen ihm zu Füßen und beteten ihn an.
+
+Dann sagte Jesus zu ihnen: „Fürchtet euch nicht. Geht und sagt meinen Brüdern, dass sie nach Galiläa gehen sollen; dort werden sie mich sehen.“
+
+Während sie gingen, siehe, einige der Wachen kamen in die Stadt und berichteten den obersten Priestern alles, was geschehen war. Als sie sich mit den Ältesten versammelt hatten und Rat hielten, gaben sie den Soldaten eine große Menge Silber und sagten: „Sagt, dass seine Jünger in der Nacht gekommen sind und ihn gestohlen haben, während wir schliefen. Wenn dies dem Statthalter zu Ohren kommt, werden wir ihn überzeugen und euch von Sorgen befreien.“ So nahmen sie das Geld und taten, wie ihnen gesagt wurde. Diese Aussage wurde unter den Juden verbreitet und besteht bis heute.
+
+Aber die elf Jünger gingen nach Galiläa, auf den Berg, wohin Jesus sie gesandt hatte. Als sie ihn sahen, fielen sie vor ihm nieder; aber einige zweifelten. Jesus trat zu ihnen und sprach zu ihnen: „Mir ist gegeben alle Macht im Himmel und auf Erden. Geht hin und macht alle Nationen zu Jüngern, tauft sie auf den Namen des Vaters und des Sohnes und des Heiligen Geistes und lehrt sie, alles zu beobachten, was ich euch geboten habe. Siehe, ich bin bei euch alle Tage bis ans Ende der Weltzeit.“ Amen.
+
+## Markus
+
+Die Gute Nachricht nach Markus
+
+### Kapitel 1
+
+Der Anfang der Guten Nachricht von Jesus Christus, dem Sohn Gottes.
+
+Wie geschrieben steht in den Propheten:
+
+„Siehe, ich sende meinen Boten vor deinem Angesicht,
+
+der deinen Weg vor dir bereiten wird:
+
+Die Stimme eines Rufenden in der Wüste:
+
+‘Bereitet den Weg des Herrn!
+
+Macht seine Pfade gerade!’“
+
+Johannes kam und taufte in der Wüste und predigte die Taufe der Buße zur Vergebung der Sünden. Das ganze Land Judäa und alle Einwohner Jerusalems gingen zu ihm hinaus. Sie ließen sich von ihm im Jordan taufen und bekannten ihre Sünden. Johannes war mit Kamelhaaren bekleidet und trug einen Ledergürtel um seine Hüften. Er aß Heuschrecken und wilden Honig. Er predigte und sprach: „Nach mir kommt der, der stärker ist als ich, dessen Schuhriemen ich nicht wert bin, mich zu bücken und zu lösen. Ich taufe euch mit Wasser; aber er wird euch mit dem Heiligen Geist taufen.“
+
+In jenen Tagen kam Jesus aus Nazareth in Galiläa und wurde von Johannes im Jordan getauft. Und als er sofort aus dem Wasser heraufkam, sah er die Himmel sich öffnen und den Geist wie eine Taube auf ihn herabkommen. Und eine Stimme kam aus dem Himmel: „Du bist mein geliebter Sohn, an dem ich Wohlgefallen habe.“
+
+Sogleich trieb ihn der Geist in die Wüste. Und er war vierzig Tage in der Wüste und wurde von Satan versucht. Er war bei den wilden Tieren; und die Engel dienten ihm.
+
+Nachdem Johannes gefangen genommen worden war, kam Jesus nach Galiläa und predigte die Gute Nachricht vom Reich Gottes und sprach: „Die Zeit ist erfüllt, und das Reich Gottes ist nahe! Tut Buße und glaubt an die Gute Nachricht.“
+
+Als er am See von Galiläa entlangging, sah er Simon und Andreas, den Bruder des Simon, die ein Netz ins Meer warfen; denn sie waren Fischer. Jesus sprach zu ihnen: „Kommt nach mir, und ich will euch zu Menschenfischern machen.“
+
+Sogleich ließen sie ihre Netze zurück und folgten ihm.
+
+Ein Stück weiter sah er Jakobus, den Sohn des Zebedäus, und Johannes, seinen Bruder, die auch im Boot waren und die Netze reparierten. Sogleich rief er sie; und sie ließen ihren Vater Zebedäus im Boot bei den Tagelöhnern zurück und gingen nach ihm.
+
+Sie gingen nach Kapernaum; und sogleich am Sabbattag ging er in die Synagoge und lehrte. Sie waren erstaunt über seine Lehre; denn er lehrte sie wie einer, der Vollmacht hat, und nicht wie die Schriftgelehrten. Und sogleich war in ihrer Synagoge ein Mann mit einem unreinen Geist; und er schrie: „Ha! Was haben wir mit dir zu tun, Jesus, du Nazarener? Bist du gekommen, um uns zu vernichten? Ich weiß, wer du bist: der Heilige Gottes!“
+
+Jesus wies ihn zurecht und sprach: „Sei still und fahr aus von ihm!“
+
+Der unreine Geist, der ihn convulsierte und mit lauter Stimme schrie, kam aus ihm heraus. Alle waren erstaunt, sodass sie untereinander fragten: „Was ist das? Eine neue Lehre? Denn mit Autorität befiehlt er sogar den unreinen Geistern, und sie gehorchen ihm!“ Die Nachricht über ihn verbreitete sich sofort überall in der ganzen Region Galiläa und ihrer Umgebung.
+
+Sofort, als sie aus der Synagoge herausgekommen waren, gingen sie in das Haus von Simon und Andreas, mit Jakobus und Johannes. Die Schwiegermutter Simons lag krank mit Fieber, und sofort erzählten sie ihm von ihr. Er kam und nahm sie bei der Hand und richtete sie auf. Das Fieber verließ sie sofort, und sie diente ihnen.
+
+Am Abend, als die Sonne untergegangen war, brachten sie ihm alle, die krank waren, und die von Dämonen besessen waren. Die ganze Stadt versammelte sich an der Tür. Er heilte viele, die an verschiedenen Krankheiten litten, und trieb viele Dämonen aus. Er erlaubte den Dämonen nicht zu sprechen, weil sie ihn kannten.
+
+Früh am Morgen, als es noch dunkel war, stand er auf, ging hinaus und zog sich an einen einsamen Ort zurück und betete dort. Simon und die, die bei ihm waren, suchten ihn. Sie fanden ihn und sagten zu ihm: „Alle suchen dich.“
+
+Er sagte zu ihnen: „Lasst uns woanders in die nächsten Städte gehen, damit ich auch dort predigen kann, denn dazu bin ich gekommen.“ Er ging in ihre Synagogen in ganz Galiläa, predigte und trieb Dämonen aus.
+
+Ein Aussätziger kam zu ihm, flehte ihn an, fiel vor ihm nieder und sagte zu ihm: „Wenn du willst, kannst du mich rein machen.“
+
+Er wurde von Mitleid bewegt, streckte seine Hand aus, berührte ihn und sagte zu ihm: „Ich will es. Sei rein.“ Als er dies gesagt hatte, wich die Aussatzkrankheit sofort von ihm und er wurde rein. Er warnte ihn streng und schickte ihn sofort weg und sagte zu ihm: „Sieh zu, dass du niemandem etwas sagst, sondern geh, zeige dich dem Priester und bringe für deine Reinigung das dar, was Mose geboten hat, zum Zeugnis für sie.“
+
+Aber er ging hinaus und begann viel zu verkünden und die Sache zu verbreiten, sodass Jesus nicht mehr offen in eine Stadt eintreten konnte, sondern draußen in einsamen Orten war. Die Menschen kamen von überall zu ihm.
+
+### Kapitel 2
+
+Als er nach einigen Tagen wieder nach Kapernaum eintrat, wurde gehört, dass er zu Hause war. Sofort versammelten sich viele, sodass kein Platz mehr war, nicht einmal um die Tür; und er sprach das Wort zu ihnen. Vier Leute kamen und trugen einen Gelähmten zu ihm. Als sie wegen der Menge nicht nahe zu ihm kommen konnten, entfernten sie das Dach, wo er war. Als sie es aufgebrochen hatten, ließen sie die Matte hinunter, auf der der Gelähmte lag. Jesus sah ihren Glauben und sagte zu dem Gelähmten: „Sohn, dir sind deine Sünden vergeben.“
+
+Es saßen aber einige der Schriftgelehrten dort und dachten in ihren Herzen: „Warum spricht dieser Mensch solche Blasphemien? Wer kann Sünden vergeben außer Gott allein?“
+
+Sofort erkannte Jesus in seinem Geist, dass sie so in sich selbst dachten, und sagte zu ihnen: „Warum denkt ihr diese Dinge in euren Herzen? Was ist leichter, dem Gelähmten zu sagen: ‚Dir sind deine Sünden vergeben‘; oder zu sagen: ‚Steh auf, nimm deine Matte und geh‘? Aber damit ihr wisst, dass der Menschensohn Autorität auf Erden hat, Sünden zu vergeben“ – sagte er zu dem Gelähmten – „ich sage dir: Steh auf, nimm deine Matte und geh in dein Haus.“
+
+Er stand auf und nahm sofort die Matte und ging vor ihnen allen hinaus, sodass sie alle erstaunt waren und Gott verherrlichten und sagten: „So etwas haben wir noch nie gesehen!“
+
+Er ging wieder hinaus ans Meer. Die ganze Menge kam zu ihm, und er lehrte sie. Als er vorbeiging, sah er Levi, den Sohn des Alphaeus, an der Zollstelle sitzen. Er sagte zu ihm: „Folge mir nach.“ Und er stand auf und folgte ihm.
+
+Er lag bei Tisch in seinem Haus, und viele Zöllner und Sünder saßen mit Jesus und seinen Jüngern zu Tisch; denn es waren viele, die ihm folgten. Die Schriftgelehrten und die Pharisäer sagten zu seinen Jüngern: „Warum isst und trinkt er mit den Zöllnern und Sündern?“
+
+Als Jesus das hörte, sagte er zu ihnen: „Die Gesunden brauchen keinen Arzt, sondern die Kranken. Ich bin nicht gekommen, um die Gerechten zu rufen, sondern die Sünder zur Umkehr.“
+
+Die Jünger des Johannes und die Pharisäer fasteten, und sie kamen und fragten ihn: „Warum fasten die Jünger des Johannes und die Jünger der Pharisäer, aber deine Jünger fasten nicht?“
+
+Jesus sagte zu ihnen: „Können die Hochzeitsgäste fasten, solange der Bräutigam bei ihnen ist? Solange sie den Bräutigam bei sich haben, können sie nicht fasten. Aber es werden Tage kommen, an denen der Bräutigam von ihnen genommen wird, und dann werden sie an jenem Tag fasten. Niemand näht ein Stück ungeschrumpftes Tuch auf ein altes Kleidungsstück; sonst schrumpft der Flicken und reißt das Neue von dem Alten weg, und es entsteht ein schlimmerer Riss. Niemand füllt neuen Wein in alte Schläuche; sonst wird der neue Wein die Schläuche zerreißen, und der Wein läuft aus, und die Schläuche werden zerstört; sondern sie füllen neuen Wein in frische Schläuche.“
+
+Er ging am Sabbat durch die Kornfelder; und seine Jünger begannen, während sie gingen, die Ähren zu pflücken. Die Pharisäer sagten zu ihm: „Siehe, warum tun sie das, was am Sabbat nicht erlaubt ist?“
+
+Er sagte zu ihnen: „Habt ihr nie gelesen, was David tat, als er in Not war und hungrig war – er und die, die mit ihm waren? Wie er in das Haus Gottes ging zur Zeit des Abiathar, des Hohenpriesters, und das Schaubrot aß, das man nur essen darf, wenn man Priester ist, und auch denen gab, die mit ihm waren?“
+
+Er sagte zu ihnen: „Der Sabbat wurde für den Menschen gemacht, nicht der Mensch für den Sabbat. Daher ist der Menschensohn auch Herr über den Sabbat.“
+
+### Kapitel 3
+
+Er ging wieder in die Synagoge, und dort war ein Mann, dessen Hand verdorrt war. Sie beobachteten ihn, ob er ihn am Sabbat heilen würde, damit sie ihn anklagen könnten. Er sagte zu dem Mann mit der verdorrten Hand: „Steh auf.“ Er sagte zu ihnen: „Ist es am Sabbat erlaubt, Gutes zu tun oder Böses? Ein Leben zu retten oder zu töten?“ Aber sie schwiegen. Als er sie mit Zorn ansah und über die Verhärtung ihrer Herzen betrübt war, sagte er zu dem Mann: „Strecke deine Hand aus.“ Er streckte sie aus, und seine Hand wurde wiederhergestellt, so gesund wie die andere. Die Pharisäer gingen hinaus und verschworen sich sofort mit den Herodianern gegen ihn, wie sie ihn vernichten könnten.
+
+Jesus zog sich mit seinen Jüngern ans Meer zurück; und eine große Menge folgte ihm aus Galiläa, aus Judäa, aus Jerusalem, aus Idumäa, jenseits des Jordan und von den Umgebungen von Tyrus und Sidon. Eine große Menge kam zu ihm, als sie hörten, welche großen Dinge er tat. Er sprach zu seinen Jüngern, dass ein kleines Boot in seiner Nähe bleiben sollte wegen der Menge, damit sie ihn nicht bedrängen würden. Denn er hatte viele geheilt, so dass alle, die Krankheiten hatten, sich drängten, um ihn zu berühren. Die unreinen Geister fielen vor ihm nieder und riefen: „Du bist der Sohn Gottes!“ Er wies sie streng an, dass sie ihn nicht bekannt machen sollten.
+
+Er ging auf den Berg und rief die zu sich, die er wollte; und sie kamen zu ihm. Er ernannte zwölf, damit sie bei ihm sein sollten und dass er sie aussenden könnte, um zu predigen und Vollmacht zu haben, Krankheiten zu heilen und Dämonen auszutreiben: Simon (dem er den Namen Petrus gab); Jakobus, der Sohn des Zebedäus; und Johannes, der Bruder des Jakobus (den er Boanerges nannte, was bedeutet: Söhne des Donners); Andreas; Philippus; Bartholomäus; Matthäus; Thomas; Jakobus, der Sohn des Alphaeus; Thaddäus; Simon der Zelot; und Judas Iskariot, der ihn auch verriet.
+
+Dann kam er in ein Haus. Die Menge versammelte sich wieder, so dass sie nicht einmal Brot essen konnten. Als seine Freunde davon hörten, gingen sie hinaus, um ihn festzunehmen; denn sie sagten: „Er ist wahnsinnig.“ Die Schriftgelehrten, die von Jerusalem herabgekommen waren, sagten: „Er hat Beelzebul“ und: „Durch den Fürsten der Dämonen treibt er die Dämonen aus.“
+
+Er rief sie zusammen und sprach zu ihnen in Gleichnissen: „Wie kann Satan Satan austreiben? Wenn ein Reich gegen sich selbst geteilt ist, kann dieses Reich nicht bestehen. Wenn ein Haus gegen sich selbst geteilt ist, kann dieses Haus nicht bestehen. Wenn Satan sich selbst erhoben hat und geteilt ist, kann er nicht bestehen, sondern hat ein Ende. Aber niemand kann in das Haus des starken Mannes eindringen und plündern, es sei denn, er bindet zuerst den starken Mann; dann wird er sein Haus plündern.
+
+„Ganz gewiss sage ich euch, alle Sünden der Nachkommen des Menschen werden vergeben, einschließlich ihrer Blasphemien, mit denen sie lästern können; aber wer gegen den Heiligen Geist lästert, hat niemals Vergebung, sondern ist ewiger Verdammnis unterworfen.“ — weil sie sagten: „Er hat einen unreinen Geist.“
+
+Seine Mutter und seine Brüder kamen und standen draußen und schickten zu ihm, um ihn zu rufen. Eine Menge saß um ihn herum, und sie sagten zu ihm: „Siehe, deine Mutter, deine Brüder und deine Schwestern stehen draußen und suchen dich.“
+
+Er antwortete ihnen: „Wer sind meine Mutter und meine Brüder?“ Und als er die um ihn herum Sitzenden ansah, sagte er: „Siehe, meine Mutter und meine Brüder! Denn wer den Willen Gottes tut, der ist mein Bruder, meine Schwester und meine Mutter.“
+
+### Kapitel 4
+
+Er begann wieder, am Meer zu lehren. Eine große Menge versammelte sich um ihn, sodass er in ein Boot auf dem Meer einstieg und sich setzte. Die ganze Menge war an Land am Meer. Er lehrte sie viele Dinge in Gleichnissen und sprach in seiner Lehre: „Hört! Siehe, der Bauer ging hinaus, um zu säen. Als er säte, fiel einige Saat am Wegesrand, und die Vögel kamen und fraßen sie auf. Andere fielen auf den felsigen Boden, wo es wenig Erde gab, und sogleich ging es auf, weil es keine Tiefe der Erde hatte. Als die Sonne aufgegangen war, wurde es verbrannt; und weil es keine Wurzel hatte, verdorrte es. Andere fielen unter die Dornen, und die Dornen wuchsen auf und erstickten es, und es brachte keine Frucht. Andere fielen auf den guten Boden und brachten Frucht, wuchsen auf und nahmen zu. Einige brachten dreißigfach, einige sechzigfach und einige hundertfach.“ Er sagte: „Wer Ohren hat zu hören, der höre.“
+
+Als er allein war, fragten ihn die um ihn herum mit den Zwölf nach den Gleichnissen. Er sagte zu ihnen: „Euch ist das Geheimnis des Reiches Gottes gegeben, aber denen, die draußen sind, wird alles in Gleichnissen gesagt, damit sie ‚sehen und nicht wahrnehmen und hören und nicht verstehen, damit sie sich vielleicht wieder bekehren und ihre Sünden ihnen vergeben werden.‘“
+
+Er sagte zu ihnen: „Versteht ihr dieses Gleichnis nicht? Wie wollt ihr alle Gleichnisse verstehen? Der Bauer sät das Wort. Die am Wegesrand sind die, bei denen das Wort gesät wird; und wenn sie gehört haben, kommt sogleich der Satan und nimmt das Wort weg, das in ihnen gesät wurde. Diese sind gleichfalls die, die auf den felsigen Orten gesät sind; die, als sie das Wort gehört haben, es sogleich mit Freude empfangen. Sie haben keine Wurzel in sich selbst, sondern sind kurzlebig. Wenn Bedrängnis oder Verfolgung wegen des Wortes entsteht, so stoßen sie sogleich daran. Andere sind die, die unter die Dornen gesät sind. Das sind die, die das Wort gehört haben; aber die Sorgen dieser Welt und der Betrug des Reichtums und die Begierden anderer Dinge dringen ein und ersticken das Wort, und es wird unfruchtbar. Die auf den guten Boden gesäten sind die, die das Wort hören, es annehmen und Frucht bringen; einige dreißigfach, einige sechzigfach und einige hundertfach.“
+
+Er sagte zu ihnen: „Wird eine Lampe gebracht, um unter einen Eimer oder unter ein Bett gestellt zu werden? Wird sie nicht auf einen Ständer gestellt? Denn es gibt nichts Verstecktes, außer dass es offenbar gemacht werden soll; noch wurde etwas geheim gehalten, sondern dass es ans Licht kommen soll. Wenn jemand Ohren hat zu hören, der höre.“
+
+Er sagte zu ihnen: „Achtet darauf, was ihr hört. Mit welchem Maß ihr messt, wird euch gemessen werden; und mehr wird euch gegeben werden, die ihr hört. Denn wer hat, dem wird gegeben werden; und wer nicht hat, dem wird auch das genommen werden, was er hat.“
+
+Er sagte: „Das Reich Gottes ist so, als ob ein Mensch Samen auf die Erde streuen sollte und schläft und steht auf Nacht und Tag; und der Same keimt und wächst, ob er weiß wie. Denn die Erde bringt von sich selbst Frucht: zuerst den Halm, dann den Kolben, dann den vollen Korn im Kolben. Aber wenn die Frucht reif ist, so steckt er sogleich die Sichel hinein; denn die Ernte ist gekommen.“
+
+Er sagte: „Womit sollen wir das Reich Gottes vergleichen? Oder mit welchem Gleichnis sollen wir es veranschaulichen? Es ist wie ein Senfkorn, das, wenn es in die Erde gesät wird, kleiner ist als alle Samen auf der Erde; aber wenn es gesät wird, wächst es auf und wird größer als alle Kräuter und treibt große Äste aus, sodass die Vögel des Himmels unter seinem Schatten wohnen können.“
+
+Mit vielen solchen Gleichnissen sprach er das Wort zu ihnen, so wie sie es hören konnten. Ohne ein Gleichnis sprach er nicht zu ihnen; aber seinen eigenen Jüngern erklärte er alles im Einzelnen.
+
+An jenem Tag, als der Abend gekommen war, sagte er zu ihnen: „Lasst uns ans andere Ufer fahren.“ Sie ließen die Menge zurück und nahmen ihn mit, so wie er war, im Boot. Auch andere kleine Boote waren mit ihm. Ein großer Sturm brach los, und die Wellen schlugen ins Boot, sodass das Boot bereits voll wurde. Er selbst war am Heck und schlief auf dem Kissen; und sie weckten ihn auf und fragten ihn: „Lehrer, kümmert es dich nicht, dass wir umkommen?“
+
+Er wachte auf und wies den Wind zurecht und sagte zum Meer: „Schweig! Sei still!“ Der Wind legte sich, und es trat eine große Stille ein. Er sagte zu ihnen: „Warum habt ihr solche Angst? Wie kommt es, dass ihr keinen Glauben habt?“
+
+Sie fürchteten sich sehr und sagten zueinander: „Wer ist denn dieser, dass ihm sogar der Wind und das Meer gehorchen?“
+
+### Kapitel 5
+
+Sie kamen ans andere Ufer des Meeres, in das Land der Gadaren. Als er aus dem Boot gestiegen war, begegnete ihm sofort ein Mann mit einem unreinen Geist aus den Gräbern. Er lebte in den Gräbern. Niemand konnte ihn mehr binden, nicht einmal mit Ketten, denn oft war er mit Fußfesseln und Ketten gebunden worden, und die Ketten waren von ihm zerbrochen worden, und die Fußfesseln zertrümmert. Niemand hatte die Kraft, ihn zu zähmen. Tag und Nacht schrie er in den Gräbern und auf den Bergen und schnitt sich mit Steinen. Als er Jesus von weitem sah, lief er und fiel vor ihm nieder und rief mit lauter Stimme: „Was habe ich mit dir zu tun, Jesus, du Sohn des Höchsten Gottes? Ich beschwöre dich bei Gott, quäle mich nicht.“ Denn er hatte zu ihm gesagt: „Fahre aus dem Menschen, du unreiner Geist!“
+
+Er fragte ihn: „Wie heißt du?“
+
+Er antwortete: „Mein Name ist Legion, denn wir sind viele.“ Er bat ihn sehr, dass er sie nicht aus dem Land schicken möge. Auf der Bergseite weidete eine große Herde Schweine. Alle Dämonen baten ihn und sagten: „Schicke uns in die Schweine, damit wir in sie eingehen können.“
+
+Sofort gab Jesus ihnen die Erlaubnis. Die unreinen Geister kamen heraus und gingen in die Schweine. Die Herde von etwa zweitausend stürzte den steilen Hang ins Meer und ertrank im Meer. Diejenigen, die die Schweine hüteten, flohen und berichteten es in der Stadt und in der Umgebung.
+
+Die Leute kamen, um zu sehen, was geschehen war. Sie kamen zu Jesus und sahen den Besessenen sitzen, bekleidet und vernünftig, ihn, der die Legion gehabt hatte; und sie fürchteten sich. Diejenigen, die es gesehen hatten, berichteten ihnen, was dem Besessenen widerfahren war und von den Schweinen. Sie begannen ihn zu bitten, aus ihrem Gebiet zu gehen.
+
+Als er ins Boot steigen wollte, bat ihn der Besessene, bei ihm sein zu dürfen. Er erlaubte es ihm nicht, sondern sagte zu ihm: „Geh nach Hause zu deinen Freunden und erzähle ihnen von den großen Dingen, die der Herr an dir getan hat und wie er dir Barmherzigkeit erwiesen hat.“
+
+Er ging seinen Weg und begann in der Dekapolis zu verkünden, wie viel Jesus für ihn getan hatte; und alle wunderten sich.
+
+Als Jesus wieder mit dem Boot ans andere Ufer gefahren war, versammelte sich eine große Menge um ihn; und er war am Meer. Siehe, einer der Obersten der Synagoge, mit Namen Jairus, kam; und als er ihn sah, fiel er zu seinen Füßen und bat ihn sehr und sagte: „Meine kleine Tochter ist im Sterben. Komm bitte und lege deine Hände auf sie, damit sie gesund wird und lebt.“
+
+Er ging mit ihm, und eine große Menge folgte ihm und drängte ihn von allen Seiten. Eine bestimmte Frau, die seit zwölf Jahren an Blutfluss litt und viel von vielen Ärzten gelitten hatte und alles ausgegeben hatte, was sie hatte, aber nicht besser wurde, sondern eher schlimmer wurde, hörte von Jesus und kam von hinten in der Menge und berührte sein Gewand. Denn sie sagte: „Wenn ich nur sein Gewand berühre, werde ich gesund werden.“ Sofort hörte der Blutfluss auf, und sie fühlte in ihrem Körper, dass sie von ihrer Plage geheilt war.
+
+Sofort, als Jesus in sich selbst wahrnahm, dass die Kraft von ihm ausgegangen war, drehte er sich in der Menge um und fragte: „Wer hat meine Kleider berührt?“
+
+Seine Jünger sagten zu ihm: „Du siehst die Menge, die gegen dich drängt, und du sagst: ‚Wer hat mich berührt?‘“
+
+Er sah sich um, um die zu sehen, die dies getan hatte. Aber die Frau, ängstlich und zitternd, wissend, was ihr widerfahren war, kam und fiel vor ihm nieder und erzählte ihm die ganze Wahrheit.
+
+Er sagte zu ihr: „Tochter, dein Glaube hat dich geheilt. Geh in Frieden und sei geheilt von deiner Krankheit.“
+
+Während er noch sprach, kamen Leute aus dem Haus des Synagogenvorstehers und sagten: „Deine Tochter ist tot. Warum den Lehrer noch weiter belästigen?“
+
+Aber Jesus, als er die Botschaft hörte, die gesprochen wurde, sagte sofort zu dem Synagogenvorsteher: „Fürchte dich nicht, glaube nur.“ Er ließ niemanden mit ihm gehen außer Petrus, Jakobus und Johannes, den Bruder von Jakobus. Er kam in das Haus des Synagogenvorstehers und sah einen Tumult, weinende und große Klage. Als er eingetreten war, sagte er zu ihnen: „Warum macht ihr einen Tumult und weint? Das Kind ist nicht tot, sondern schläft.“
+
+Sie verspotteten ihn. Aber er ließ sie alle hinausgehen, nahm den Vater des Kindes, ihre Mutter und die bei ihm waren, und ging hinein, wo das Kind lag. Er nahm das Kind bei der Hand und sagte zu ihr: „Talitha cumi!“ was übersetzt bedeutet: „Mädchen, ich sage dir, steh auf!“ Sofort stand das Mädchen auf und ging umher, denn sie war zwölf Jahre alt. Sie waren mit großer Verwunderung erstaunt. Er befahl ihnen streng, dass niemand dies wissen sollte, und befahl, dass man ihr etwas zu essen geben sollte.
+
+### Kapitel 6
+
+Er ging von dort weg. Er kam in sein eigenes Land, und seine Jünger folgten ihm. Als der Sabbat gekommen war, begann er in der Synagoge zu lehren, und viele, die ihn hörten, waren erstaunt und sagten: „Woher hat dieser Mann diese Dinge?“ und: „Was ist die Weisheit, die diesem Mann gegeben ist, dass solche mächtigen Werke durch seine Hände geschehen? Ist das nicht der Zimmermann, der Sohn der Maria und Bruder von Jakobus, Joses, Judas und Simon? Sind nicht seine Schwestern hier bei uns?“ So waren sie an ihm beleidigt.
+
+Jesus sagte zu ihnen: „Ein Prophet ist nicht ohne Ehre, außer in seinem eigenen Land und unter seinen eigenen Verwandten und in seinem eigenen Haus.“ Er konnte dort kein mächtiges Werk tun, außer dass er die Hände auf einige kranke Menschen legte und sie heilte. Er wunderte sich über ihren Unglauben.
+
+Er zog durch die Dörfer und lehrte. Er rief die Zwölf zu sich und begann, sie zwei und zwei auszusenden; und er gab ihnen Vollmacht über die unreinen Geister. Er befahl ihnen, nichts für ihre Reise mitzunehmen, außer einem Stock: kein Brot, keine Tasche, kein Geld in ihrem Gürtel; sondern Sandalen zu tragen und nicht zwei Tuniken anzuziehen. Er sagte zu ihnen: „Wo immer ihr in ein Haus eintretet, bleibt dort bis ihr von dort weggeht. Wenn euch jemand nicht empfängt noch hört, wenn ihr von dort weggeht, schüttelt den Staub von euren Füßen als ein Zeugnis gegen sie ab. Wahrlich, ich sage euch, es wird Sodom und Gomorra am Tag des Gerichts erträglicher ergehen als dieser Stadt!“
+
+Sie gingen hinaus und predigten, dass die Menschen Buße tun sollten. Sie trieben viele Dämonen aus und salbten viele Kranke mit Öl und heilten sie. König Herodes hörte dies, denn sein Name war bekannt geworden, und er sagte: „Johannes der Täufer ist von den Toten auferstanden, und deshalb wirken diese Kräfte in ihm.“ Andere sagten: „Er ist Elia.“ Wieder andere sagten: „Er ist ein Prophet oder wie einer der Propheten.“ Aber Herodes sagte, als er dies hörte: „Das ist Johannes, den ich enthauptet habe. Er ist von den Toten auferstanden.“ Denn Herodes hatte selbst Johannes ausgesandt und ihn gefangen genommen und ihn im Gefängnis gebunden wegen Herodias, der Frau seines Bruders Philippus; denn er hatte sie geheiratet. Denn Johannes hatte zu Herodes gesagt: „Es ist dir nicht erlaubt, die Frau deines Bruders zu haben.“ Herodias stellte sich gegen ihn und wollte ihn töten; aber sie konnte es nicht, denn Herodes fürchtete Johannes, wissend, dass er ein gerechter und heiliger Mann war, und hielt ihn sicher. Als er ihn hörte, tat er viele Dinge und hörte ihn gern.
+
+Dann kam ein günstiger Tag, an dem Herodes an seinem Geburtstag ein Abendessen für seine Edlen, die hohen Offiziere und die führenden Männer Galiläas veranstaltete. Als die Tochter der Herodias selbst hereinkam und tanzte, erfreute sie Herodes und die, die mit ihm saßen. Der König sagte zu dem jungen Mädchen: „Frag mich, was du willst, und ich werde es dir geben.“ Er schwor ihr: „Was immer du von mir verlangst, ich werde es dir geben, bis zur Hälfte meines Königreichs.“
+
+Sie ging hinaus und sagte zu ihrer Mutter: „Was soll ich fragen?“
+
+Sie sagte: „Den Kopf von Johannes dem Täufer.“
+
+Sofort kam sie mit Eile zum König und forderte: „Ich möchte, dass du mir jetzt sofort den Kopf von Johannes dem Täufer auf einem Teller gibst.“
+
+Der König war überaus traurig, aber um der Eide und seiner Tischgäste willen wollte er sie nicht abweisen. Sofort sandte der König einen Soldaten seiner Wache und befahl, den Kopf Johannes' zu bringen; und er ging hin und enthauptete ihn im Gefängnis und brachte seinen Kopf auf einem Teller und gab ihn dem jungen Mädchen; und das junge Mädchen gab ihn ihrer Mutter.
+
+Als seine Jünger dies hörten, kamen sie und nahmen seinen Leichnam und legten ihn in ein Grab.
+
+Die Apostel versammelten sich bei Jesus und berichteten ihm alles, was sie getan hatten und was sie gelehrt hatten. Er sagte zu ihnen: „Kommt mit mir an einen einsamen Ort und ruht ein wenig aus.“ Denn es kamen viele und gingen, und sie hatten nicht einmal Zeit zu essen. Sie gingen mit dem Boot an einen einsamen Ort für sich allein. Sie sahen sie gehen, und viele erkannten ihn und liefen von allen Städten zu Fuß dorthin. Sie kamen vor ihnen an und versammelten sich um ihn. Jesus trat heraus, sah eine große Menge und hatte Mitleid mit ihnen, weil sie wie Schafe ohne Hirten waren; und er begann, ihnen viele Dinge zu lehren. Als es spät am Tag wurde, kamen seine Jünger zu ihm und sagten: „Dieser Ort ist einsam, und es ist spät am Tag. Schicke sie weg, damit sie in die umliegenden Gegenden und Dörfer gehen und sich Brot kaufen, denn sie haben nichts zu essen.“
+
+Aber er antwortete ihnen: „Ihr gebt ihnen etwas zu essen.“
+
+Sie fragten ihn: „Sollen wir hingehen und für zweihundert Denare Brot kaufen und ihnen etwas zu essen geben?“
+
+Er sagte zu ihnen: „Wie viele Brote habt ihr? Geht und seht nach.“
+
+Als sie es wussten, sagten sie: „Fünf und zwei Fische.“
+
+Er befahl ihnen, dass sich alle auf dem grünen Gras in Gruppen setzen sollten. Sie setzten sich in Reihen, nach Hunderten und nach Fünfzigern. Er nahm die fünf Brote und die zwei Fische; und als er zum Himmel aufblickte, segnete er die Brote, brach sie und gab sie seinen Jüngern, damit sie sie vor ihnen hinstellten; und die zwei Fische teilte er unter alle. Sie aßen alle und wurden satt. Sie sammelten zwölf Körbe voller übrig gebliebener Stücke und auch von den Fischen. Diejenigen, die von den Broten aßen, waren fünftausend Männer.
+
+Sofort ließ er seine Jünger ins Boot steigen und voraus an das andere Ufer nach Bethsaida fahren, während er die Menge entließ. Nachdem er sich von ihnen verabschiedet hatte, ging er auf den Berg, um zu beten.
+
+Als der Abend gekommen war, war das Boot mitten im Meer, und er war allein an Land. Als er sah, dass sie beim Rudern in Not waren, denn der Wind war ihnen entgegen, kam er gegen die vierte Nachtwache zu ihnen, ging auf dem Meer; und er wollte an ihnen vorbeigehen. Aber als sie ihn auf dem Meer gehen sahen, dachten sie, es sei ein Gespenst, und schrien; denn sie sahen ihn alle und waren erschrocken. Aber er sprach sofort mit ihnen und sagte zu ihnen: „Seid getrost! Ich bin es! Fürchtet euch nicht.“ Er stieg mit ihnen ins Boot; und der Wind legte sich, und sie waren sehr erstaunt untereinander und wunderten sich; denn sie hatten nicht verstanden wegen der Brote, sondern ihre Herzen waren verhärtet.
+
+Als sie hinübergefahren waren, kamen sie an Land in Gennesaret und legten am Ufer an. Als sie aus dem Boot gestiegen waren, erkannten ihn sofort die Leute und liefen durch die ganze Gegend herum und begannen die Kranken auf ihren Matten dorthin zu bringen, wo sie hörten, dass er war. Wo immer er einging – in Dörfer oder Städte oder aufs Land – legten sie die Kranken auf die Marktplätze und baten ihn, dass sie nur den Saum seines Gewandes berühren dürften; und so viele ihn berührten, wurden gesund.
+
+### Kapitel 7
+
+Dann versammelten sich die Pharisäer und einige der Schriftgelehrten zu ihm, die aus Jerusalem gekommen waren. Als sie einige seiner Jünger sahen, die Brot mit unreinen, das heißt ungewaschenen Händen aßen, fanden sie einen Fehler. (Denn die Pharisäer und alle Juden essen nicht, es sei denn, sie waschen ihre Hände und Unterarme, und halten sich an die Tradition der Alten. Sie essen nicht, wenn sie vom Markt kommen, es sei denn, sie baden sich, und es gibt viele andere Dinge, die sie empfangen haben, um sie zu halten: Waschungen von Bechern, Krügen, bronzenen Gefäßen und Liegen.) Die Pharisäer und die Schriftgelehrten fragten ihn: „Warum wandeln deine Jünger nicht nach der Tradition der Alten, sondern essen ihr Brot mit ungewaschenen Händen?“
+
+Er antwortete ihnen: „Gut hat Jesaja über euch Heuchler geweissagt, wie geschrieben steht:
+
+‘Dieses Volk ehrt mich mit den Lippen,
+
+aber ihr Herz ist weit entfernt von mir.
+
+Sie verehren mich vergeblich,
+
+indem sie als Lehren die Gebote der Menschen lehren.’
+
+„Denn ihr setzt das Gebot Gottes außer Kraft und haltet fest an der Tradition der Menschen – der Waschung von Krügen und Bechern; und viele andere solcher Dinge tut ihr.“ Er sagte zu ihnen: „Ihr verwirft das Gebot Gottes gut, um eure Tradition zu bewahren. Denn Mose sagte: ‚Ehre deinen Vater und deine Mutter;‘ und: ‚Wer seinen Vater oder seine Mutter verflucht, der soll sterben.‘ Aber ihr sagt: ‚Wenn ein Mensch zu seinem Vater oder seiner Mutter sagt: „Was auch immer Gewinn du von mir erhalten hättest, ist Korban,“‘ das heißt, Gott geweiht, ‚dann lasst ihr ihn nicht mehr etwas für seinen Vater oder seine Mutter tun und macht das Wort Gottes durch eure Tradition, die ihr überliefert habt, ungültig. Ihr tut viele solcher Dinge.‘“
+
+Er rief die ganze Menge zu sich und sagte zu ihnen: „Hört mich alle und versteht! Nichts von außen, das in den Menschen hineingeht, kann ihn verunreinigen; sondern die Dinge, die aus dem Menschen herauskommen, sind es, die den Menschen verunreinigen. Wenn jemand Ohren hat zu hören, der höre!“
+
+Als er in ein Haus gegangen war, weg von der Menge, fragten ihn seine Jünger nach dem Gleichnis. Er sagte zu ihnen: „Versteht ihr auch nicht? Wahrlich, erkennt ihr nicht, dass alles, was von außen in den Menschen hineingeht, ihn nicht verunreinigen kann, weil es nicht in sein Herz geht, sondern in seinen Bauch und dann in die Latrine, wodurch alle Speisen rein werden?“ Er sagte: „Was aus dem Menschen herauskommt, das verunreinigt den Menschen. Denn aus dem Inneren, aus den Herzen der Menschen, kommen böse Gedanken, Ehebrüche, sexuelle Sünden, Morde, Diebstähle, Begierden, Bosheit, Betrug, lüsterne Wünsche, ein böses Auge, Blasphemie, Stolz und Torheit. All diese bösen Dinge kommen von innen und verunreinigen den Menschen.“
+
+Von dort stand er auf und ging in die Grenzen von Tyrus und Sidon. Er trat in ein Haus ein und wollte nicht, dass jemand es erfährt; aber er konnte nicht unbemerkt bleiben. Denn eine Frau, deren kleine Tochter einen unreinen Geist hatte und von ihm gehört hatte, kam und fiel zu seinen Füßen nieder. Die Frau war eine Griechin, eine Syrophönizierin von Geburt. Sie bat ihn, dass er den Dämon aus ihrer Tochter austreiben würde. Aber Jesus sagte zu ihr: „Lass zuerst die Kinder satt werden; denn es ist nicht angemessen, das Brot der Kinder zu nehmen und es den Hunden vorzuwerfen.“
+
+Aber sie antwortete ihm: „Ja, Herr. Doch selbst die Hunde unter dem Tisch essen von den Krümeln der Kinder.“
+
+Er sagte zu ihr: „Um dieses Wortes willen geh deinen Weg; der Dämon ist aus deiner Tochter ausgefahren.“ 
+
+Sie ging nach Hause und fand das Kind auf dem Bett liegen und der Dämon war ausgefahren.
+
+Wieder ging er von den Grenzen von Tyrus und Sidon weg und kam zum See von Galiläa durch die Mitte des Gebiets der Dekapolis. Sie brachten ihm einen Tauben mit einem Sprachfehler. Sie baten ihn, seine Hand auf ihn zu legen. Er nahm ihn privat von der Menge beiseite und legte ihm die Finger in die Ohren; dann spuckte er und berührte seine Zunge. Er blickte zum Himmel auf, seufzte und sagte zu ihm: „Ephphatha!“ das heißt: „Sei geöffnet!“ Sofort wurden seine Ohren geöffnet und das Hemmnis seiner Zunge wurde gelöst, und er sprach deutlich. Er gebot ihnen, niemandem etwas zu sagen; aber je mehr er ihnen gebot, desto mehr verkündeten sie es weitläufig. Sie waren über alle Maßen erstaunt und sagten: „Er hat alles gut gemacht. Er lässt sogar die Tauben hören und die Stummen sprechen!“
+
+### Kapitel 8
+
+In jenen Tagen, als eine sehr große Menge da war und sie nichts zu essen hatten, rief Jesus seine Jünger zu sich und sagte zu ihnen: „Ich habe Mitleid mit der Menge, denn sie sind jetzt schon drei Tage bei mir und haben nichts zu essen. Wenn ich sie hungrig nach Hause sende, werden sie auf dem Weg schwach werden, denn einige von ihnen sind von weit her gekommen.“
+
+Seine Jünger antworteten ihm: „Woher könnte man diese Leute hier an einem einsamen Ort mit Brot sättigen?“
+
+Er fragte sie: „Wie viele Brote habt ihr?“
+
+Sie sagten: „Sieben.“
+
+Er befahl der Menge, sich auf den Boden zu setzen, und nahm die sieben Brote. Nachdem er Dank gesagt hatte, brach er sie und gab sie seinen Jüngern, um sie auszuteilen, und sie teilten sie der Menge aus. Sie hatten auch ein paar kleine Fische. Nachdem er sie gesegnet hatte, sagte er, diese auch auszuteilen. Sie aßen und wurden satt. Sie hoben sieben Körbe voller übrig gebliebener Stücke auf. Diejenigen, die gegessen hatten, waren etwa viertausend. Dann schickte er sie weg.
+
+Sofort stieg er mit seinen Jüngern in das Boot und kam in die Gegend von Dalmanutha. Die Pharisäer kamen heraus und begannen, ihn zu befragen, indem sie von ihm ein Zeichen vom Himmel suchten und ihn prüften. Er seufzte tief in seinem Geist und sagte: „Warum sucht diese Generation ein Zeichen? Wahrlich, ich sage euch, dieser Generation wird kein Zeichen gegeben werden.“
+
+Er ließ sie und ging wieder in das Boot und fuhr auf die andere Seite. Sie hatten vergessen, Brot mitzunehmen; und sie hatten nicht mehr als ein Brot im Boot bei sich. Er warnte sie und sagte: „Seht zu: Hütet euch vor dem Sauerteig der Pharisäer und dem Sauerteig des Herodes.“
+
+Sie überlegten untereinander und sagten: „Es ist, weil wir kein Brot haben.“
+
+Jesus, das wahrnehmend, sagte zu ihnen: „Warum überlegt ihr, dass es daran liegt, dass ihr kein Brot habt? Versteht ihr noch nicht und begreift ihr nicht? Ist euer Herz noch verhärtet? Habt ihr Augen und seht nicht? Habt ihr Ohren und hört nicht? Erinnert ihr euch nicht? Als ich die fünf Brote unter den fünftausend brach, wie viele Körbe voller übrig gebliebener Stücke habt ihr aufgehoben?“
+
+Sie sagten zu ihm: „Zwölf.“
+
+„Als die sieben Brote die viertausend sättigten, wie viele Körbe voller übrig gebliebener Stücke habt ihr aufgehoben?“
+
+Sie sagten zu ihm: „Sieben.“
+
+Er fragte sie: „Versteht ihr noch nicht?“
+
+Er kam nach Bethsaida. Sie brachten einen Blinden zu ihm und baten ihn, ihn zu berühren. Er nahm den Blinden bei der Hand und führte ihn aus dem Dorf hinaus. Als er ihm Speichel auf die Augen gegeben hatte und ihm die Hände aufgelegt hatte, fragte er ihn, ob er etwas sehe.
+
+Er blickte auf und sagte: „Ich sehe Menschen, aber ich sehe sie wie wandelnde Bäume.“
+
+Dann legte er ihm erneut die Hände auf die Augen. Er schaute intensiv und wurde wiederhergestellt und sah alle klar. Er schickte ihn nach Hause und sagte: „Geh nicht ins Dorf hinein und sage niemandem im Dorf etwas.“
+
+Jesus ging mit seinen Jüngern in die Dörfer von Cäsarea Philippi. Auf dem Weg fragte er seine Jünger: „Für wen halten die Menschen mich?“
+
+Sie sagten zu ihm: „Johannes der Täufer, andere sagen Elia, wieder andere einer der Propheten.“
+
+Er sagte zu ihnen: „Aber für wen haltet ihr mich?“
+
+Petrus antwortete: „Du bist der Christus.“
+
+Er befahl ihnen, niemandem etwas über ihn zu sagen. Er begann ihnen zu lehren, dass der Menschensohn viele Dinge leiden müsse und von den Ältesten, den Obersten Priestern und den Schriftgelehrten verworfen werden müsse und getötet werde und nach drei Tagen auferstehen müsse. Er sprach offen mit ihnen. Petrus nahm ihn zur Seite und begann ihn zu tadeln. Aber er wandte sich um und sah seine Jünger und wies Petrus zurecht und sagte: „Weiche hinter mich, Satan! Denn du hast nicht das im Sinn, was Gottes ist, sondern was der Menschen ist.“
+
+Er rief die Menge mit seinen Jüngern zu sich und sagte zu ihnen: „Wenn jemand mir nachkommen will, der verleugne sich selbst und nehme sein Kreuz auf sich und folge mir nach. Denn wer sein Leben retten will, wird es verlieren; aber wer sein Leben um meinetwillen und um des Evangeliums willen verliert, wird es retten. Denn was nützt es einem Menschen, die ganze Welt zu gewinnen und sein Leben zu verlieren? Oder was kann ein Mensch als Lösegeld für sein Leben geben? Denn wer sich meiner und meiner Worte schämt in dieser ehebrecherischen und sündhaften Generation, dessen wird sich auch der Menschensohn schämen, wenn er kommt in der Herrlichkeit seines Vaters mit den heiligen Engeln.“
+
+### Kapitel 9
+
+Er sagte zu ihnen: „Wahrlich, ich sage euch, es stehen einige hier, die auf keinen Fall den Tod schmecken werden, bis sie das Reich Gottes mit Macht kommen sehen.“
+
+Nach sechs Tagen nahm Jesus mit sich Petrus, Jakobus und Johannes und führte sie auf einen hohen Berg, ganz allein. Und er wurde vor ihnen verwandelt. Sein Kleid wurde strahlend, überaus weiß, wie der Schnee, den kein Wäscher auf Erden so weiß machen kann. Elia und Mose erschienen ihnen und redeten mit Jesus.
+
+Petrus antwortete Jesus: „Rabbi, es ist gut, dass wir hier sind. Lass uns drei Zelte machen: eines für dich, eines für Mose und eines für Elia.“ Denn er wusste nicht, was er sagen sollte, denn sie waren sehr erschrocken.
+
+Eine Wolke kam und überschattete sie, und eine Stimme kam aus der Wolke: „Dies ist mein geliebter Sohn. Hört auf ihn.“
+
+Als sie plötzlich umhersahen, sahen sie niemanden mehr bei sich, außer Jesus allein.
+
+Als sie vom Berg hinabkamen, gebot er ihnen, niemandem zu erzählen, was sie gesehen hatten, bis der Sohn des Menschen von den Toten auferstanden sei. Sie hielten dieses Wort für sich und fragten sich, was die Auferstehung von den Toten bedeute.
+
+Sie fragten ihn: „Warum sagen die Schriftgelehrten, dass Elia zuerst kommen müsse?“
+
+Er sagte zu ihnen: „Elia kommt in der Tat zuerst und stellt alles wieder her. Wie steht es geschrieben über den Sohn des Menschen, dass er viele Dinge leiden und verachtet werden muss? Aber ich sage euch, dass Elia gekommen ist, und sie haben ihm auch getan, was sie wollten, wie es über ihn geschrieben steht.“
+
+Als er zu den Jüngern kam, sah er eine große Menge um sie herum und Schriftgelehrte, die sie befragten. Sofort war die ganze Menge, als sie ihn sahen, sehr erstaunt und lief zu ihm und begrüßte ihn. Er fragte die Schriftgelehrten: „Was fragt ihr sie?“
+
+Einer aus der Menge antwortete: „Lehrer, ich habe meinen Sohn zu dir gebracht, der einen stummen Geist hat; und wo immer er ihn packt, wirft er ihn nieder; und er schäumt vor dem Mund, knirscht mit den Zähnen und wird steif. Ich bat deine Jünger, ihn auszutreiben, aber sie waren nicht in der Lage.“
+
+Er antwortete ihm: „Ungläubige Generation, wie lange soll ich bei euch sein? Wie lange soll ich euch ertragen? Bringt ihn zu mir.“
+
+Sie brachten ihn zu ihm; und als er ihn sah, überkam ihn sofort der Geist und er fiel auf den Boden und wälzte sich und schäumte vor dem Mund.
+
+Er fragte seinen Vater: „Wie lange geschieht das schon bei ihm?“
+
+Er sagte: „Von Kindheit an. Oft hat er ihn sowohl ins Feuer als auch ins Wasser geworfen, um ihn zu zerstören. Aber wenn du etwas tun kannst, so habe Mitleid mit uns und hilf uns.“
+
+Jesus sagte zu ihm: „Wenn du glauben kannst, ist alles möglich dem, der glaubt.“
+
+Sofort rief der Vater des Kindes mit Tränen: „Ich glaube! Hilf meinem Unglauben!“
+
+Als Jesus sah, dass eine Menge zusammenlief, wies er den unreinen Geist zurecht und sagte zu ihm: „Du stummer und tauber Geist, ich befehle dir, fahr aus von ihm und geh nie wieder in ihn hinein!“
+
+Nachdem er laut geschrien und ihn heftig geworfen hatte, kam er aus ihm heraus. Der Junge wurde wie tot, so dass die meisten sagten: „Er ist tot.“ Aber Jesus nahm ihn bei der Hand und richtete ihn auf; und er stand auf.
+
+Als er ins Haus gekommen war, fragten ihn seine Jünger privat: „Warum konnten wir ihn nicht austreiben?“
+
+Er sagte zu ihnen: „Diese Art kann durch nichts herauskommen als nur durch Gebet und Fasten.“
+
+Sie gingen von dort weg und zogen durch Galiläa. Er wollte nicht, dass jemand es wusste, denn er lehrte seine Jünger und sagte zu ihnen: „Der Sohn des Menschen wird in die Hände der Menschen übergeben werden; und sie werden ihn töten; und wenn er getötet ist, wird er am dritten Tag auferstehen.“
+
+Aber sie verstanden das Wort nicht und fürchteten sich zu fragen.
+
+Er kam nach Kapernaum; und als er im Haus war, fragte er sie: „Worüber habt ihr unterwegs gestritten?“
+
+Aber sie schwiegen; denn sie hatten unterwegs miteinander darüber gestritten, wer der Größte sei.
+
+Er setzte sich und rief die Zwölf; und er sagte zu ihnen: „Wenn jemand der Erste sein will, soll er der Letzte von allen und Diener von allen sein.“ Er nahm ein kleines Kind und stellte es in die Mitte von ihnen. Und als er es in seine Arme nahm, sagte er zu ihnen: „Wer ein solches Kind in meinem Namen empfängt, empfängt mich; und wer mich empfängt, empfängt nicht mich, sondern den, der mich gesandt hat.“
+
+Johannes sagte zu ihm: „Lehrer, wir sahen jemanden, der nicht zu uns gehört, Dämonen in deinem Namen austreiben; und wir haben ihn daran gehindert, weil er nicht zu uns gehört.“
+
+Aber Jesus sagte: „Hindert ihn nicht, denn es gibt niemanden, der ein mächtiges Werk in meinem Namen tut und schnell böse über mich reden kann. Denn wer nicht gegen uns ist, ist für uns. Denn wer euch einen Becher Wasser zu trinken gibt in meinem Namen, weil ihr zu Christus gehört, wahrlich, ich sage euch, er wird auf keinen Fall seinen Lohn verlieren.
+
+„Wer einen dieser kleinen, die an mich glauben, zum Straucheln bringt, dem wäre es besser, wenn ein Mühlstein um seinen Hals gehängt und er ins Meer geworfen würde. Wenn deine Hand dich zum Straucheln bringt, hau sie ab. Es ist besser für dich, lahm ins Leben einzugehen, als mit beiden Händen in die Hölle zu gehen, ins unlöscharte Feuer, ‚wo ihr Wurm nicht stirbt und das Feuer nicht erlischt.‘ Wenn dein Fuß dich zum Straucheln bringt, hau ihn ab. Es ist besser für dich, lahm ins Leben einzugehen, als mit beiden Füßen in die Hölle geworfen zu werden, in das Feuer, das niemals erlöschen wird – ‚wo ihr Wurm nicht stirbt und das Feuer nicht erlischt.‘ Wenn dein Auge dich zum Straucheln bringt, reiß es aus. Es ist besser für dich, mit einem Auge ins Reich Gottes einzugehen, als mit zwei Augen in die Hölle geworfen zu werden, ‚wo ihr Wurm nicht stirbt und das Feuer nicht erlischt.‘ Denn jeder wird mit Feuer gesalzen werden, und jedes Opfer wird mit Salz gewürzt. Salz ist gut; aber wenn das Salz seinen Geschmack verliert, womit wollt ihr es würzen? Habt Salz in euch selbst und seid untereinander im Frieden.“
+
+### Kapitel 10
+
+Er stand von dort auf und kam in die Grenzen von Judäa und jenseits des Jordan. Es kamen wieder viele Menschen zu ihm. Wie er es gewohnt war, lehrte er sie erneut.
+
+Die Pharisäer kamen zu ihm und versuchten ihn und fragten ihn: „Ist es erlaubt, dass ein Mann seine Frau entlässt?“
+
+Er antwortete: „Was hat Mose euch geboten?“
+
+Sie sagten: „Mose erlaubte es, einen Scheidebrief zu schreiben und sie zu entlassen.“
+
+Aber Jesus sagte zu ihnen: „Wegen eurer Herzenshärte hat er euch dieses Gebot geschrieben. Aber von Anfang der Schöpfung hat Gott sie als Mann und Frau geschaffen. Deshalb wird ein Mann seinen Vater und seine Mutter verlassen und sich seiner Frau anschließen, und die beiden werden ein Fleisch sein, sodass sie nicht mehr zwei sind, sondern ein Fleisch. Was daher Gott verbunden hat, das soll der Mensch nicht scheiden.“
+
+In dem Haus fragten ihn seine Jünger erneut über dieselbe Sache. Er sagte zu ihnen: „Wer seine Frau entlässt und eine andere heiratet, begeht Ehebruch gegen sie. Und wenn eine Frau ihren Mann entlässt und einen anderen heiratet, begeht sie Ehebruch.“
+
+Sie brachten kleine Kinder zu ihm, damit er sie berühre; aber die Jünger wiesen die hinzubringenden ab. Als Jesus das sah, wurde er zornig und sagte zu ihnen: „Lasst die kleinen Kinder zu mir kommen! Hindert sie nicht, denn das Reich Gottes gehört solchen wie diesen. Wahrlich, ich sage euch: Wer das Reich Gottes nicht empfängt wie ein kleines Kind, wird auf keinen Fall hineinkommen.“ Und er nahm sie in seine Arme und segnete sie und legte die Hände auf sie.
+
+Als er auf dem Weg hinausging, lief einer zu ihm, kniete vor ihm nieder und fragte ihn: „Guter Lehrer, was soll ich tun, um das ewige Leben zu erben?“
+
+Jesus sagte zu ihm: „Warum nennst du mich gut? Niemand ist gut außer einem – Gott. Du kennst die Gebote: ‚Du sollst nicht morden‘, ‚Du sollst nicht ehebrechen‘, ‚Du sollst nicht stehlen‘, ‚Du sollst kein falsches Zeugnis ablegen‘, ‚Du sollst deinen Vater und deine Mutter ehren.‘“
+
+Er sagte zu ihm: „Lehrer, all dies habe ich von meiner Jugend an beachtet.“
+
+Jesus sah ihn an und liebte ihn und sagte zu ihm: „Eins fehlt dir. Geh hin, verkaufe alles, was du hast, und gib es den Armen; so wirst du einen Schatz im Himmel haben; und komm, folge mir nach und nimm das Kreuz auf dich.“
+
+Aber sein Gesicht fiel bei diesen Worten, und er ging traurig weg; denn er hatte große Besitztümer.
+
+Jesus sah sich um und sagte zu seinen Jüngern: „Wie schwer ist es für die Reichen, ins Reich Gottes einzugehen!“
+
+Die Jünger waren von seinen Worten erstaunt. Aber Jesus antwortete erneut: „Kinder, wie schwer ist es für die, die auf Reichtum vertrauen, in das Reich Gottes einzugehen! Es ist leichter für ein Kamel, durch das Auge einer Nadel zu gehen, als für einen reichen Mann, in das Reich Gottes einzugehen.“
+
+Sie waren überaus erstaunt und sagten zu ihm: „Wer kann dann gerettet werden?“
+
+Jesus sah sie an und sagte: „Bei den Menschen ist es unmöglich, aber nicht bei Gott; denn bei Gott sind alle Dinge möglich.“
+
+Petrus begann ihm zu sagen: „Siehe, wir haben alles verlassen und sind dir gefolgt.“
+
+Jesus sagte: „Wahrlich, ich sage euch, es gibt niemanden, der Haus, Brüder, Schwestern, Vater, Mutter, Frau, Kinder oder Land um meinetwillen und um der guten Nachricht willen verlassen hat, der nicht hundertmal so viel jetzt in dieser Zeit empfangen wird: Häuser, Brüder, Schwestern, Mütter, Kinder und Land, mit Verfolgungen; und in der zukünftigen Welt das ewige Leben. Aber viele, die die Ersten sind, werden die Letzten sein, und die Letzten die Ersten.“
+
+Sie waren auf dem Weg nach Jerusalem; und Jesus ging vor ihnen her, und sie waren erstaunt; und die ihn folgten, hatten Angst. Er nahm erneut die Zwölf zu sich und begann ihnen zu erzählen, was ihm widerfahren würde. „Siehe, wir gehen nach Jerusalem. Der Menschensohn wird den Obersten Priestern und den Schriftgelehrten überliefert werden. Sie werden ihn zum Tode verurteilen und ihn den Heiden übergeben. Sie werden ihn verspotten, ihn anspucken, ihn auspeitschen und ihn töten. Am dritten Tag wird er auferstehen.“
+
+Jakobus und Johannes, die Söhne des Zebedäus, traten zu ihm und sagten: „Lehrer, wir möchten, dass du uns tust, was wir dich bitten werden.“
+
+Er sagte zu ihnen: „Was wollt ihr, dass ich für euch tun soll?“
+
+Sie sagten zu ihm: „Gib uns, dass wir sitzen dürfen, einer zu deiner rechten Seite und einer zu deiner linken Seite, in deiner Herrlichkeit.“
+
+Aber Jesus sagte zu ihnen: „Ihr wisst nicht, was ihr bittet. Könnt ihr den Kelch trinken, den ich trinke, und mit der Taufe getauft werden, mit der ich getauft werde?“
+
+Sie sagten zu ihm: „Wir können.“
+
+Jesus sagte zu ihnen: „Ihr werdet tatsächlich den Kelch trinken, den ich trinke, und mit der Taufe getauft werden, mit der ich getauft werde; aber das Sitzen zu meiner rechten und zu meiner linken Seite steht nicht mir zu geben, sondern wem es bereitet ist.“
+
+Als die Zehn es hörten, begannen sie sich über Jakobus und Johannes zu ärgern.
+
+Jesus rief sie zusammen und sagte zu ihnen: „Ihr wisst, dass die als Herrscher über die Nationen anerkannten über sie herrschen und ihre Großen Gewalt über sie ausüben. Aber so soll es unter euch nicht sein; sondern wer groß werden will unter euch, der sei euer Diener. Und wer von euch der Erste sein will, der sei aller Knecht. Denn der Menschensohn ist nicht gekommen, um sich dienen zu lassen, sondern um zu dienen und sein Leben als Lösegeld für viele zu geben.“
+
+Sie kamen nach Jericho. Als er aus Jericho mit seinen Jüngern und einer großen Menge hinausging, saß der Sohn des Timaeus, Bartimäus, ein blinder Bettler, am Straßenrand. Als er hörte, dass es Jesus von Nazareth war, begann er zu rufen und zu sagen: „Jesus, du Sohn Davids, erbarme dich meiner!“ Viele wiesen ihn zurecht und sagten ihm, er solle schweigen; aber er rief noch viel mehr: „Du Sohn Davids, erbarme dich meiner!“
+
+Jesus blieb stehen und sagte: „Ruft ihn her!“
+
+Sie riefen den Blinden und sagten zu ihm: „Sei guten Mutes! Steh auf! Er ruft dich!“
+
+Er warf seinen Mantel ab, sprang auf und kam zu Jesus.
+
+Jesus fragte ihn: „Was willst du, dass ich für dich tue?“
+
+Der Blinde sagte zu ihm: „Rabboni, dass ich wieder sehen kann.“
+
+Jesus sagte zu ihm: „Geh deinen Weg; dein Glaube hat dich geheilt.“ Sofort erhielt er sein Augenlicht und folgte Jesus auf dem Weg.
+
+### Kapitel 11
+
+Als sie sich Jerusalem näherten, nach Bethphage und Bethanien am Ölberg, sandte er zwei seiner Jünger und sagte zu ihnen: „Geht in das Dorf gegenüber euch. Sobald ihr hineingeht, werdet ihr ein Fohlen finden, das angebunden ist; auf dem hat noch niemand gesessen. Bindet es los und bringt es her. Wenn euch jemand fragt: ‚Warum macht ihr das?‘ sagt: ‚Der Herr braucht es;‘ und sofort wird er es hierher zurückschicken.“
+
+Sie gingen weg und fanden ein Fohlen angebunden an der Tür draußen auf der Straße; und sie banden es los. Einige von denen, die dort standen, fragten sie: „Was macht ihr da, dass ihr das Fohlen losbindet?“ Sie sagten zu ihnen genau das, was Jesus gesagt hatte; und sie ließen sie gehen.
+
+Sie brachten den jungen Esel zu Jesus und warfen ihre Kleider darauf, und Jesus setzte sich darauf. Viele breiteten ihre Kleider auf dem Weg aus, und andere schnitten Zweige von den Bäumen und breiteten sie auf dem Weg aus. Diejenigen, die vor ihm gingen, und die, die folgten, riefen: „Hosanna! Gesegnet sei, der kommt im Namen des Herrn! Gesegnet sei das Reich unseres Vaters David, das kommt im Namen des Herrn! Hosanna in der Höhe!“
+
+Jesus trat in den Tempel in Jerusalem ein. Als er sich alles angesehen hatte, ging er, da es nun Abend war, mit den Zwölf nach Bethanien hinaus.
+
+Am nächsten Tag, als sie aus Bethanien herauskamen, hatte er Hunger. Als er einen Feigenbaum von weitem sah, der Blätter hatte, ging er hin, um zu sehen, ob er vielleicht etwas daran finden könnte. Als er zu ihm kam, fand er nichts als Blätter, denn es war nicht die Zeit für Feigen. Jesus sagte zu ihm: „Es soll niemand mehr für immer Früchte von dir essen!“ und seine Jünger hörten es.
+
+Sie kamen nach Jerusalem, und Jesus trat in den Tempel ein und begann, die Verkäufer und Käufer im Tempel hinauszuwerfen und die Tische der Geldwechsler und die Sitze der Taubenhändler umzuwerfen. Er erlaubte niemandem, einen Behälter durch den Tempel zu tragen. Er lehrte und sagte zu ihnen: „Steht nicht geschrieben: ‚Mein Haus wird ein Haus des Gebets für alle Nationen genannt werden‘? Aber ihr habt es zu einer Räuberhöhle gemacht!“
+
+Die obersten Priester und die Schriftgelehrten hörten es und suchten, wie sie ihn vernichten könnten. Denn sie fürchteten ihn, weil die ganze Menge über seine Lehre erstaunt war.
+
+Als der Abend kam, ging er aus der Stadt hinaus. Als sie am Morgen vorbeikamen, sahen sie den Feigenbaum von den Wurzeln her verwelkt. Petrus erinnerte sich und sagte zu ihm: „Rabbi, schau! Der Feigenbaum, den du verflucht hast, ist verwelkt.“
+
+Jesus antwortete ihnen: „Habt Glauben an Gott. Denn wahrlich, ich sage euch: Wer zu diesem Berg sagt: ‚Heb dich empor und wirf dich ins Meer‘ und nicht zweifelt in seinem Herzen, sondern glaubt, dass das, was er sagt, geschieht, dem wird es zuteilwerden. Darum sage ich euch: Alles, was ihr bittet und betet, glaubt, dass ihr es empfangen habt, und es wird euch zuteilwerden. Und wenn ihr steht und betet, vergebt, wenn ihr etwas gegen jemanden habt; damit auch euer Vater im Himmel euch eure Übertretungen vergeben kann. Wenn ihr aber nicht vergebt, wird euer Vater im Himmel eure Übertretungen auch nicht vergeben.“
+
+Sie kamen wieder nach Jerusalem, und während er im Tempel ging, kamen die obersten Priester, die Schriftgelehrten und die Ältesten zu ihm und begannen zu ihm zu sagen: „Mit welcher Autorität tust du diese Dinge? Oder wer hat dir diese Autorität gegeben, diese Dinge zu tun?“
+
+Jesus sagte zu ihnen: „Ich will euch eine Frage stellen. Antwortet mir, und ich werde euch sagen, mit welcher Autorität ich diese Dinge tue. Die Taufe des Johannes – war sie vom Himmel oder von den Menschen? Antwortet mir.“
+
+Sie überlegten bei sich selbst und sagten: „Wenn wir sagen: ‚Vom Himmel‘, wird er sagen: ‚Warum habt ihr ihm dann nicht geglaubt?‘ Wenn wir sagen: ‚Von den Menschen‘“ – sie fürchteten das Volk, denn alle hielten Johannes wirklich für einen Propheten. Sie antworteten Jesus: „Wir wissen es nicht.“
+
+Jesus sagte zu ihnen: „So werde ich euch auch nicht sagen, mit welcher Autorität ich diese Dinge tue.“
+
+### Kapitel 12
+
+Er begann zu ihnen in Gleichnissen zu sprechen. „Ein Mann pflanzte einen Weinberg, zog einen Zaun darum, grub eine Kelter aus, baute einen Turm, verpachtete ihn an einen Bauern und ging in ein anderes Land. Als die Zeit gekommen war, sandte er einen Diener zu dem Bauern, um von ihm seinen Anteil an den Früchten des Weinbergs zu holen. Sie nahmen ihn, schlugen ihn und schickten ihn leer weg. Wieder sandte er einen anderen Diener zu ihnen; und sie warfen Steine auf ihn, verwundeten ihn am Kopf und schickten ihn beschimpft weg. Wieder sandte er einen anderen; und sie töteten ihn und viele andere, einige schlugen sie und einige töteten sie. Daher hatte er noch einen übrig, seinen geliebten Sohn; den sandte er zuletzt zu ihnen und sagte: ‚Sie werden meinen Sohn respektieren.‘ Aber die Bauern sagten untereinander: ‚Das ist der Erbe. Kommt, lasst uns ihn töten; dann wird das Erbe unser sein.‘ Sie nahmen ihn, töteten ihn und warfen ihn aus dem Weinberg. Was wird also der Herr des Weinbergs tun? Er wird kommen und die Bauern vernichten und den Weinberg anderen geben. Habt ihr diese Schrift nicht gelesen:
+
+„Der Stein, den die Bauleute verworfen haben, 
+
+wurde zum Hauptstein der Ecke gemacht. 
+
+Das ist vom Herrn. 
+
+Es ist wunderbar in unseren Augen?“ 
+
+Sie versuchten, ihn zu ergreifen, aber sie fürchteten die Menge; denn sie erkannten, dass er das Gleichnis gegen sie sprach. Sie ließen ihn und gingen weg. Sie sandten einige der Pharisäer und der Herodianer zu ihm, dass sie ihn mit Worten fangen könnten. Als sie kamen, fragten sie ihn: „Lehrer, wir wissen, dass du ehrlich bist und niemanden respektierst; denn du bist niemandem gegenüber parteiisch, sondern lehrst wahrhaftig den Weg Gottes. Ist es erlaubt, Steuern an den Kaiser zu zahlen oder nicht? Sollen wir geben oder sollen wir nicht geben?“ 
+
+Er aber, der ihre Heuchelei kannte, sagte zu ihnen: „Warum testet ihr mich? Bringt mir einen Denar, dass ich ihn sehe.“ 
+
+Sie brachten ihn. 
+
+Er sagte zu ihnen: „Wessen Bild und Aufschrift ist das?“ 
+
+Sie sagten zu ihm: „Des Kaisers.“ 
+
+Jesus antwortete ihnen: „Gebt dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist.“ 
+
+Sie staunten sehr über ihn. 
+
+Einige Sadduzäer, die sagen, dass es keine Auferstehung gibt, kamen zu ihm. Sie fragten ihn und sagten: „Lehrer, Mose hat uns geschrieben: ‚Wenn der Bruder eines Mannes stirbt und eine Frau hinterlässt und keine Kinder hat, soll sein Bruder die Frau nehmen und Nachkommen für seinen Bruder erwecken.‘ Es waren sieben Brüder. Der erste nahm eine Frau und starb und hinterließ keine Nachkommen. Der zweite nahm sie und starb und ließ keine Kinder zurück. Der dritte ebenso; und die sieben nahmen sie und hinterließen keine Kinder. Zuletzt starb auch die Frau. In der Auferstehung, wenn sie auferstehen, wessen Frau wird sie von ihnen sein? Denn die sieben hatten sie zur Frau.“ 
+
+Jesus antwortete ihnen: „Ist das nicht, weil ihr euch irrt, da ihr die Schrift und die Kraft Gottes nicht kennt? Denn wenn sie aus den Toten auferstehen, heiraten sie nicht und werden nicht verheiratet, sondern sind wie Engel im Himmel. Aber über die Toten, dass sie auferstehen, habt ihr nicht im Buch Mose über den Dornbusch gelesen, wie Gott zu ihm sprach und sagte: ‚Ich bin der Gott Abrahams, der Gott Isaaks und der Gott Jakobs‘? Er ist nicht der Gott der Toten, sondern der Lebenden. Ihr irrt euch daher sehr.“ 
+
+Einer der Schriftgelehrten kam und hörte sie miteinander fragen und wusste, dass er ihnen gut geantwortet hatte. Er fragte ihn: „Welches Gebot ist das größte von allen?“ 
+
+Jesus antwortete: „Das größte ist: ‚Höre, Israel: Der Herr unser Gott ist der Herr allein. Du sollst den Herrn, deinen Gott, lieben mit ganzem Herzen, mit ganzer Seele, mit ganzem Verstand und mit aller Kraft.‘ Das ist das erste Gebot. Das zweite ist ihm gleich: ‚Du sollst deinen Nächsten lieben wie dich selbst.‘ Es gibt kein anderes Gebot größer als diese.“ 
+
+Der Schriftgelehrte sagte zu ihm: „Wahrhaftig, Lehrer, du hast gut gesagt, dass er einer ist und es keinen anderen gibt außer ihm; und ihn zu lieben mit ganzem Herzen, mit ganzem Verstand, mit aller Seele und mit aller Kraft und seinen Nächsten wie sich selbst zu lieben, ist wichtiger als alle ganzen Brandopfer und Opfer.“ 
+
+Als Jesus sah, dass er weise geantwortet hatte, sagte er zu ihm: „Du bist nicht weit vom Reich Gottes entfernt.“ 
+
+Niemand wagte es danach, ihm eine Frage zu stellen. Jesus antwortete, während er im Tempel lehrte: „Wie kann es sein, dass die Schriftgelehrten sagen, dass der Christus der Sohn Davids ist? Denn David selbst sagte im Heiligen Geist: 
+
+‚Der Herr sprach zu meinem Herrn: 
+
+„Setze dich zu meiner Rechten, 
+
+bis ich deine Feinde zum Schemel deiner Füße mache.“‘ 
+
+Darum nennt David ihn Herr; wie kann er dann sein Sohn sein?“ 
+
+Das Volk hörte ihn gerne. In seiner Lehre sagte er zu ihnen: „Hütet euch vor den Schriftgelehrten, die gerne in langen Gewändern gehen und in den Marktplätzen gegrüßt werden möchten und die besten Sitze in den Synagogen und die besten Plätze bei Festen haben wollen; die Witwenhäuser verschlingen und zum Schein lange Gebete halten. Diese werden eine größere Verdammnis empfangen.“ 
+
+Jesus setzte sich gegenüber dem Opferkasten und sah, wie die Menge Geld in den Opferkasten warf. Viele Reiche warfen viel ein. Eine arme Witwe kam und warf zwei kleine Kupfermünzen ein, die einen Quadrans wert sind. Er rief seine Jünger zu sich und sagte zu ihnen: „Wahrlich, ich sage euch: Diese arme Witwe hat mehr gegeben als alle anderen, die in den Opferkasten geben; denn sie haben alle aus ihrem Überfluss gegeben, aber sie hat aus ihrer Armut alles gegeben, was sie zum Leben hatte.“
+
+### Kapitel 13
+
+Als er aus dem Tempel hinausging, sagte einer seiner Jünger zu ihm: „Lehrer, sieh dir die Steine und die Gebäude an!“
+
+Jesus sagte zu ihm: „Siehst du diese großen Gebäude? Es wird hier nicht ein Stein auf dem anderen gelassen werden, der nicht umgestürzt wird.“
+
+Als er auf dem Ölberg gegenüber dem Tempel saß, fragten ihn Petrus, Jakobus, Johannes und Andreas ihn privat: „Sag uns, wann werden diese Dinge geschehen? Was ist das Zeichen, dass all diese Dinge erfüllt werden sollen?“
+
+Jesus begann zu antworten und sagte zu ihnen: „Seht zu, dass euch niemand verführt. Denn viele werden in meinem Namen kommen und sagen: ‚Ich bin der Christus!‘ und werden viele verführen.
+
+„Wenn ihr von Kriegen und Gerüchten von Kriegen hört, lasst euch nicht erschrecken. Denn das muss geschehen, aber das Ende ist noch nicht. Denn Nation wird sich gegen Nation erheben und Königreich gegen Königreich. Es wird Erdbeben an verschiedenen Orten geben. Es wird Hungersnöte und Nöte geben. Diese Dinge sind der Anfang der Wehen.
+
+„Seht euch aber vor; denn sie werden euch den Räten überliefern. In den Synagogen werdet ihr geschlagen werden. Ihr werdet vor Herrschern und Königen stehen um meinetwillen, als Zeugnis für sie. Das Evangelium muss zuerst allen Nationen gepredigt werden. Wenn sie euch wegführen und überliefern, seid nicht besorgt im Voraus oder überlegt, was ihr sagen werdet, sondern sagt, was euch in jener Stunde gegeben wird. Denn nicht ihr seid es, die reden, sondern der Heilige Geist.
+
+„Der Bruder wird den Bruder zum Tod überliefern, und der Vater sein Kind. Kinder werden sich gegen die Eltern erheben und sie zum Tode bringen. Ihr werdet von allen Menschen um meines Namens willen gehasst werden; aber wer bis ans Ende ausharrt, der wird gerettet werden.
+
+„Wenn ihr aber die Gräuel der Verwüstung seht, von Daniel dem Propheten gesprochen, an dem Ort, wo er nicht sein sollte“ (der Leser lasse es verstehen), „dann fliehe, wer in Judäa ist, in die Berge; und wer auf dem Dach ist, der gehe nicht hinunter, um etwas aus seinem Haus zu holen. Und wer auf dem Feld ist, der kehre nicht zurück, um seinen Mantel zu holen. Aber wehe den Schwangeren und den Stillenden in jenen Tagen! Betet, dass eure Flucht nicht im Winter sei. Denn in jenen Tagen wird eine Drangsal sein, wie es sie seit der Schöpfung Gottes bis jetzt nicht gegeben hat und nie wieder geben wird. Wenn der Herr die Tage nicht verkürzt hätte, würde kein Fleisch gerettet werden; aber um der Auserwählten willen, die er erwählt hat, hat er die Tage verkürzt. Wenn euch also jemand sagt: ‚Siehe, hier ist der Christus!‘ oder: ‚Siehe, dort!‘, glaubt es nicht. Denn es werden falsche Christe und falsche Propheten auftreten und Zeichen und Wunder tun, um, wenn möglich, auch die Auserwählten zu verführen. Seht also zu.
+
+„Siehe, ich habe euch alles im Voraus gesagt. Aber in jenen Tagen, nach dieser Drangsal wird die Sonne sich verfinstern, der Mond wird sein Licht nicht geben, die Sterne werden vom Himmel fallen und die Kräfte des Himmels werden erschüttert werden. Dann werden sie den Sohn des Menschen kommen sehen in den Wolken mit großer Macht und Herrlichkeit. Und dann wird er seine Engel senden und seine Auserwählten sammeln von den vier Winden, von den Enden der Erde bis zu den Enden des Himmels.
+
+„Lernt nun dieses Gleichnis vom Feigenbaum: Wenn der Zweig jetzt weich geworden ist und Blätter treibt, wisst ihr, dass der Sommer nahe ist; so auch ihr: Wenn ihr seht, dass dies alles geschieht, so wisst ihr, dass es nahe ist, vor der Tür. Wahrlich sage ich euch: Diese Generation wird nicht vergehen, bis all diese Dinge geschehen. Himmel und Erde werden vergehen; aber meine Worte werden nicht vergehen.
+
+„Von diesem Tag oder dieser Stunde weiß niemand – auch nicht die Engel im Himmel, noch der Sohn, sondern nur der Vater. Seht zu, seid wachsam und betet; denn ihr wisst nicht, wann die Zeit ist.
+
+„Es ist wie ein Mann, der in ein fremdes Land reist; er hat sein Haus verlassen und seinen Dienern Vollmacht gegeben, jedem sein Werk zuweisen und auch dem Türhüter befohlen, wachsam zu sein. Seht also zu; denn ihr wisst nicht, wann der Herr des Hauses kommt – ob am Abend oder um Mitternacht oder wenn der Hahn kräht oder am Morgen; damit er euch nicht plötzlich schlafend findet. Was ich euch sage, das sage ich allen: Seht zu!“
+
+### Kapitel 14
+
+Es waren nun zwei Tage vor dem Passahfest und dem Fest der ungesäuerten Brote, und die obersten Priester und die Schriftgelehrten suchten, wie sie ihn durch List ergreifen und töten könnten. Denn sie sagten: „Nicht während des Festes, damit es nicht zu einem Aufruhr unter dem Volk kommt.“
+
+Während er in Bethanien im Haus Simons des Aussätzigen war, kam eine Frau mit einem Alabastergefäß voll kostbarem Nardenöl – sehr teuer. Sie zerbrach das Gefäß und goss es über sein Haupt. Aber einige waren empört untereinander und sagten: „Warum ist dieses Öl verschwendet worden? Denn es hätte für mehr als dreihundert Denare verkauft und den Armen gegeben werden können.“ So murrten sie gegen sie.
+
+Aber Jesus sagte: „Lasst sie in Ruhe. Warum belästigt ihr sie? Sie hat mir ein gutes Werk getan. Denn die Armen habt ihr immer bei euch, und wann immer ihr wollt, könnt ihr ihnen Gutes tun; aber mich habt ihr nicht immer. Sie hat getan, was sie konnte. Sie hat meinen Körper im Voraus für die Beerdigung gesalbt. Wahrlich, ich sage euch, wo immer dieses Evangelium in der ganzen Welt gepredigt wird, wird auch von dem gesprochen werden, was diese Frau getan hat, zu ihrem Gedächtnis.“
+
+Judas Iskariot, einer von den Zwölf, ging zu den obersten Priestern, um ihn ihnen zu überliefern. Als sie es hörten, freuten sie sich und versprachen ihm Geld zu geben. Er suchte, wie er ihn bequem überliefern könnte.
+
+Am ersten Tag der ungesäuerten Brote, als sie das Passah opferten, fragten ihn seine Jünger: „Wo willst du, dass wir hingehen und das Passah für dich vorbereiten?“
+
+Er sandte zwei seiner Jünger und sagte zu ihnen: „Geht in die Stadt, und dort wird euch ein Mann mit einem Wasserkrug begegnen. Folgt ihm, und wo immer er hineingeht, sagt zum Hausherrn: ‚Der Lehrer lässt fragen: Wo ist der Gästeraum, wo ich das Passah mit meinen Jüngern essen kann?‘ Er wird euch einen großen oberen Raum zeigen, der eingerichtet und bereit ist. Bereitet dort für uns vor.“
+
+Seine Jünger gingen hinaus und kamen in die Stadt und fanden alles so, wie er es ihnen gesagt hatte, und sie bereiteten das Passah.
+
+Als es Abend wurde, kam er mit den Zwölf. Während sie saßen und aßen, sagte Jesus: „Wahrlich, ich sage euch, einer von euch wird mich verraten – der mit mir isst.“
+
+Sie begannen traurig zu werden und fragten ihn nacheinander: „Sicherlich nicht ich?“ Und ein anderer sagte: „Sicherlich nicht ich?“
+
+Er antwortete ihnen: „Es ist einer von den Zwölf, der mit mir in die Schüssel eintaucht. Denn der Menschensohn geht dahin, wie über ihn geschrieben steht; aber wehe dem Menschen, durch den der Menschensohn verraten wird! Es wäre besser für diesen Menschen, wenn er nie geboren wäre.“
+
+Während sie aßen, nahm Jesus das Brot; und als er es gesegnet hatte, brach er es und gab es ihnen und sagte: „Nehmt, esst. Das ist mein Leib.“
+
+Er nahm den Kelch; und als er Dank gesagt hatte, gab er ihnen den Kelch. Sie tranken alle daraus. Er sagte zu ihnen: „Das ist mein Blut des neuen Bundes, das für viele vergossen wird. Wahrlich, ich sage euch, ich werde von jetzt an nicht mehr vom Gewächs des Weinstocks trinken bis zu dem Tag, an dem ich es neu trinke im Reich Gottes.“ Als sie ein Loblied gesungen hatten, gingen sie hinaus zum Ölberg.
+
+Jesus sagte zu ihnen: „Alle werdet ihr euch heute Nacht wegen mir ärgern; denn es steht geschrieben: ‚Ich werde den Hirten schlagen, und die Schafe werden zerstreut werden.‘ Doch nachdem ich auferweckt worden bin, werde ich euch nach Galiläa vorausgehen.“
+
+Petrus aber sagte zu ihm: „Wenn auch alle sich ärgern, ich werde mich nicht ärgern.“
+
+Jesus sagte zu ihm: „Wahrlich, ich sage dir, dass du heute, in dieser Nacht, bevor der Hahn zweimal kräht, mich dreimal verleugnen wirst.“
+
+Er sprach aber umso mehr: „Wenn ich mit dir sterben müsste, werde ich dich nicht verleugnen.“ Sie sagten alle dasselbe.
+
+Sie kamen an einen Ort namens Gethsemane. Er sagte zu seinen Jüngern: „Setzt euch hierher, während ich bete.“ Er nahm mit sich Petrus, Jakobus und Johannes und begann, sehr erschüttert und betrübt zu sein. Er sagte zu ihnen: „Meine Seele ist sehr betrübt bis zum Tod. Bleibt hier und wacht.“
+
+Er ging ein wenig weiter und fiel auf die Erde und betete, dass, wenn es möglich wäre, die Stunde von ihm abginge. Er sagte: „Abba, Vater, dir ist alles möglich. Nimm diesen Kelch von mir. Doch nicht was ich will, sondern was du willst.“
+
+Er kam und fand sie schlafend und sagte zu Petrus: „Simon, schläfst du? Konntest du nicht eine Stunde wachen? Wacht und betet, damit ihr nicht in Versuchung fallt. Der Geist ist zwar willig, aber das Fleisch ist schwach.“
+
+Er ging wieder weg und betete und sprach dieselben Worte. Als er zurückkam, fand er sie wieder schlafend, denn ihre Augen waren sehr schwer; und sie wussten nicht, was sie ihm antworten sollten. Er kam ein drittes Mal und sagte zu ihnen: „Schlaft jetzt und ruht euch aus. Es ist genug. Die Stunde ist gekommen. Siehe, der Sohn des Menschen wird in die Hände der Sünder überliefert. Steht auf! Lasst uns gehen. Siehe, der, der mich verrät, ist nahe.“
+
+Sofort, während er noch sprach, kam Judas, einer der Zwölf – und mit ihm eine Menge mit Schwertern und Knüppeln, von den Obersten der Priester, den Schriftgelehrten und den Ältesten. Der, der ihn verriet, hatte ihnen ein Zeichen gegeben und gesagt: „Wen ich küssen werde, der ist es. Ergreift ihn und führt ihn sicher weg.“ Als er kam, ging er sofort zu ihm und sagte: „Rabbi! Rabbi!“ und küsste ihn. Sie legten ihre Hände auf ihn und ergriffen ihn. Aber einer von denen, die dabei standen, zog sein Schwert und schlug dem Diener des Hohenpriesters das Ohr ab.
+
+Jesus antwortete ihnen: „Seid ihr ausgezogen wie gegen einen Räuber mit Schwertern und Knüppeln, um mich zu ergreifen? Ich war täglich bei euch im Tempel und lehrte, und ihr habt mich nicht festgenommen. Aber das geschieht, damit die Schriften erfüllt werden.“
+
+Alle verließen ihn und flohen. Ein gewisser junger Mann folgte ihm nach, mit einem Leinenstoff um seinen nackten Körper geworfen. Die jungen Männer packten ihn, aber er ließ den Leinenstoff fallen und floh nackt von ihnen. Sie führten Jesus zum Hohenpriester. Alle Obersten der Priester, die Ältesten und die Schriftgelehrten versammelten sich mit ihm.
+
+Petrus folgte ihm von weitem, bis er in den Hof des Hohenpriesters kam. Er saß mit den Dienern und wärmte sich am Licht des Feuers. Nun suchten die Obersten der Priester und der ganze Rat Zeugen gegen Jesus, um ihn zu töten, und fanden keine. Denn viele gaben falsches Zeugnis gegen ihn ab, und ihr Zeugnis stimmte nicht überein. Einige standen auf und gaben falsches Zeugnis gegen ihn ab und sagten: „Wir haben ihn sagen hören: ‚Ich will diesen Tempel zerstören, der mit Händen gemacht ist, und in drei Tagen einen anderen bauen, der ohne Hände gemacht ist.‘“ Doch auch so stimmte ihr Zeugnis nicht überein.
+
+Der Hohepriester stand auf in der Mitte und fragte Jesus: „Hast du keine Antwort? Was ist es, was diese gegen dich aussagen?“ Aber er schwieg und antwortete nichts. Wieder fragte ihn der Hohepriester: „Bist du der Christus, der Sohn des Gepriesenen?“
+
+Jesus sagte: „Ich bin es. Ihr werdet den Sohn des Menschen zur Rechten der Macht sitzen sehen und mit den Wolken des Himmels kommen.“
+
+Der Hohepriester zerriss seine Kleider und sagte: „Was brauchen wir noch Zeugen? Ihr habt die Lästerung gehört! Was denkt ihr?“ Sie verurteilten ihn alle als des Todes würdig. Einige begannen, ihn anzuspucken, sein Gesicht zu verhüllen, ihn mit Fäusten zu schlagen und zu sagen: „Prophezeie!“ Die Diener schlugen ihn mit den Handflächen.
+
+Während Petrus im Hof unten war, kam eine der Mägde des Hohenpriesters und sah Petrus, wie er sich wärmte; sie sah ihn an und sagte: „Du warst auch mit dem Nazarener Jesus!“
+
+Aber er leugnete es und sagte: „Ich weiß nicht und verstehe nicht, was du sagst.“ Er ging hinaus auf den Vorplatz, und der Hahn krähte.
+
+Die Magd sah ihn und begann wieder denen, die dabei standen, zu sagen: „Dieser ist einer von ihnen.“ Aber er leugnete es erneut. Nach einer kleinen Weile sagten wieder die dabei stehenden zu Petrus: „Du bist wahrhaftig einer von ihnen; denn du bist ein Galiläer, und dein Reden verrät es.“ Aber er begann zu fluchen und zu schwören: „Ich kenne diesen Menschen nicht, von dem ihr sprecht!“
+
+Der Hahn krähte zum zweiten Mal. Petrus erinnerte sich an die Worte, die Jesus zu ihm gesagt hatte: „Ehe der Hahn zweimal kräht, wirst du mich dreimal verleugnen.“ Als er daran dachte, weinte er.
+
+### Kapitel 15
+
+Sofort am Morgen hielten die Obersten der Priester mit den Ältesten, Schriftgelehrten und dem ganzen Rat eine Beratung ab, banden Jesus, führten ihn weg und übergaben ihn an Pilatus. Pilatus fragte ihn: „Bist du der König der Juden?“
+
+Er antwortete: „So sagst du.“
+
+Die obersten Priester beschuldigten ihn vieler Dinge. Pilatus fragte ihn erneut: „Hast du keine Antwort? Sieh, wie viele Dinge sie gegen dich aussagen!“
+
+Aber Jesus gab keine weitere Antwort, sodass Pilatus sich wunderte.
+
+Nun pflegte er während des Festes einen Gefangenen freizulassen, wen immer sie von ihm verlangten. Es gab einen, der Barabbas hieß, gefangen mit seinen Mitverschwörern, Männern, die während der Auflehnung Mord begangen hatten. Die Menge schrie laut und begann ihn zu bitten, wie er es immer für sie tat. Pilatus antwortete ihnen und sagte: „Wollt ihr, dass ich euch den König der Juden freilasse?“ Denn er erkannte, dass die obersten Priester ihn aus Neid überliefert hatten. Aber die obersten Priester regten die Menge auf, dass er ihnen Barabbas statt dessen freilassen sollte. Pilatus fragte sie erneut: „Was soll ich dann mit dem tun, den ihr den König der Juden nennt?“
+
+Sie schrien wieder: „Kreuzige ihn!“
+
+Pilatus sagte zu ihnen: „Warum, was für ein Übel hat er getan?“
+
+Aber sie schrien übermäßig: „Kreuzige ihn!“
+
+Pilatus, der der Menge gefallen wollte, ließ ihnen Barabbas frei und übergab Jesus, nachdem er ihn gegeißelt hatte, um gekreuzigt zu werden.
+
+Die Soldaten führten ihn in den Hof, das ist das Prätorium; und sie versammelten die ganze Kohorte. Sie kleideten ihn in Purpur; und indem sie eine Dornenkrone flochten, setzten sie sie ihm auf. Sie begannen ihn zu begrüßen: „Sei gegrüßt, König der Juden!“ Sie schlugen ihm mit einem Rohr auf den Kopf und spuckten ihn an und fielen auf die Knie und huldigten ihm. Als sie ihn verspottet hatten, zogen sie ihm den purpurnen Mantel aus und zogen ihm seine eigenen Kleider an. Sie führten ihn hinaus, um ihn zu kreuzigen.
+
+Sie zwangen einen Vorbeigehenden, der vom Land kam, Simon von Kyrene, den Vater von Alexander und Rufus, mit ihnen zu gehen, damit er sein Kreuz trage. Sie brachten ihn an den Ort, der Golgatha genannt wird, was übersetzt „Der Schädelort“ bedeutet. Sie boten ihm Wein mit Myrrhe zu trinken an, aber er nahm es nicht.
+
+Als sie ihn kreuzigten, teilten sie seine Kleider unter sich auf und warfen das Los darüber, was jeder nehmen sollte. Es war die dritte Stunde, als sie ihn kreuzigten. Die Aufschrift seiner Anklage war über ihm geschrieben: „DER KÖNIG DER JUDEN.“ Mit ihm kreuzigten sie zwei Räuber, einen zu seiner Rechten und einen zu seiner Linken. Die Schrift wurde erfüllt, die sagt: „Er wurde unter die Übeltäter gezählt.“
+
+Die Vorübergehenden lästerten ihn und schüttelten ihre Köpfe und sagten: „Ha! Du, der du den Tempel zerstörst und in drei Tagen wieder aufbaust, rette dich selbst und steig vom Kreuz herab!“
+
+Ebenso verspotteten auch die obersten Priester untereinander mit den Schriftgelehrten und sagten: „Er hat anderen geholfen. Sich selbst kann er nicht helfen. Lass den Christus, den König von Israel, jetzt vom Kreuz herabkommen, damit wir sehen und an ihn glauben können.“ Auch die mit ihm gekreuzigten verspotteten ihn.
+
+Als die sechste Stunde gekommen war, fiel Finsternis über das ganze Land bis zur neunten Stunde. Um die neunte Stunde rief Jesus mit lauter Stimme: „Eloi, Eloi, lama sabachthani?“ was übersetzt bedeutet: „Mein Gott, mein Gott, warum hast du mich verlassen?“
+
+Einige von denen, die dabei standen, als sie es hörten, sagten: „Siehe, er ruft Elia.“
+
+Einer lief und füllte einen Schwamm mit Essig, steckte ihn auf ein Rohr und gab ihn ihm zu trinken und sagte: „Lasst ihn sein. Mal sehen, ob Elia kommt, um ihn herunterzunehmen.“
+
+Jesus schrie mit lauter Stimme und gab den Geist auf. Der Vorhang des Tempels riss von oben bis unten in zwei Teile. Als der Hauptmann, der gegenüber von ihm stand, sah, dass er so schrie und seinen letzten Atemzug tat, sagte er: „Wahrhaftig, dieser Mensch war der Sohn Gottes!“
+
+Es waren auch Frauen da, die von weitem zusahen; darunter waren sowohl Maria Magdalena als auch Maria, die Mutter des Jakobus des Kleinen und von Joses, und Salome; die ihm folgten und ihm dienten, als er in Galiläa war; und viele andere Frauen, die mit ihm nach Jerusalem gekommen waren.
+
+Als nun der Abend gekommen war, weil es der Vorbereitungstag war, das heißt der Tag vor dem Sabbat, kam Joseph von Arimathäa, ein angesehener Ratsherr, der ebenfalls auf das Reich Gottes wartete. Er trat mutig zu Pilatus ein und bat um den Leib Jesu. Pilatus war überrascht zu hören, dass er bereits tot war; und als er den Hauptmann rief, fragte er ihn, ob er schon lange tot sei. Als er vom Hauptmann erfahren hatte, gewährte er Joseph den Leib. Er kaufte ein Leinentuch und nahm ihn ab und wickelte ihn in das Leinentuch und legte ihn in ein Grab, das aus einem Felsen gehauen war. Er wälzte einen Stein gegen die Tür des Grabes. Maria Magdalena und Maria, die Mutter von Joses, sahen, wo er gelegt wurde.
+
+### Kapitel 16
+
+Als der Sabbat vorüber war, kauften Maria Magdalena und Maria, die Mutter des Jakobus, und Salome Gewürze, um zu kommen und ihn zu salben. Sehr früh am ersten Tag der Woche kamen sie zum Grab, als die Sonne aufgegangen war. Sie sagten untereinander: „Wer wird uns den Stein vom Eingang des Grabes wegrollen?“ Denn er war sehr groß. Als sie aufblickten, sahen sie, dass der Stein weggerollt war.
+
+Als sie in das Grab eintraten, sahen sie einen jungen Mann auf der rechten Seite sitzen, gekleidet in ein weißes Gewand; und sie waren erstaunt. Er sagte zu ihnen: „Seid nicht erstaunt. Ihr sucht Jesus, den Nazarener, der gekreuzigt wurde. Er ist auferstanden! Er ist nicht hier. Seht den Ort, wo sie ihn hingelegt haben! Aber geht, sagt seinen Jüngern und Petrus: ‚Er geht euch nach Galiläa voraus. Dort werdet ihr ihn sehen, wie er euch gesagt hat.‘“
+
+Sie gingen hinaus und flohen vom Grab, denn Zittern und Entsetzen hatten sie ergriffen. Sie sagten niemandem etwas; denn sie fürchteten sich.
+
+Als er am ersten Tag der Woche früh auferstanden war, erschien er zuerst Maria Magdalena, von der er sieben Dämonen ausgetrieben hatte. Sie ging und berichtete denen, die mit ihm gewesen waren, während sie trauerten und weinten. Als sie hörten, dass er lebte und von ihr gesehen worden war, glaubten sie nicht.
+
+Nach diesen Dingen wurde er in einer anderen Gestalt zwei von ihnen offenbar, während sie auf dem Weg aufs Land waren. Sie gingen weg und berichteten es den anderen. Auch ihnen glaubten sie nicht.
+
+Später wurde er den elf selbst offenbar, während sie zu Tisch saßen; und er tadelte sie wegen ihres Unglaubens und der Verhärtung ihres Herzens, weil sie nicht geglaubt hatten, die ihn gesehen hatten, nachdem er auferstanden war. Er sagte zu ihnen: „Geht in die ganze Welt und verkündet das Evangelium der ganzen Schöpfung. Wer glaubt und getauft wird, wird gerettet werden; wer aber nicht glaubt, wird verurteilt werden. Diese Zeichen werden die begleiten, die glauben: In meinem Namen werden sie Dämonen austreiben; sie werden in neuen Sprachen reden; sie werden Schlangen aufnehmen; und wenn sie etwas Tödliches trinken, wird es ihnen in keiner Weise schaden; sie werden die Hände auf die Kranken legen, und sie werden gesund werden.“
+
+So wurde der Herr, nachdem er mit ihnen gesprochen hatte, in den Himmel aufgenommen und setzte sich zur Rechten Gottes. Sie gingen hinaus und predigten überall, während der Herr mit ihnen arbeitete und das Wort durch die Zeichen bestätigte, die folgten. Amen.
+
+## Lukas
+
+Die Gute Nachricht nach Lukas
+
+### Kapitel 1
+
+Da viele sich vorgenommen haben, eine Erzählung über die Dinge in Ordnung zu bringen, die unter uns erfüllt worden sind, so wie es diejenigen getan haben, die von Anfang an Augenzeugen und Diener des Wortes waren und uns überliefert haben, schien es mir auch gut, nachdem ich den Verlauf aller Dinge genau verfolgt habe von Anfang an, dir in Ordnung zu schreiben, hochgeschätzter Theophilus; damit du die Gewissheit über die Dinge erkennst, in denen du unterrichtet worden bist.
+
+Es gab in den Tagen des Herodes, des Königs von Judäa, einen gewissen Priester namens Zacharias aus der Priesterabteilung Abijah. Er hatte eine Frau von den Töchtern Aarons, und ihr Name war Elisabeth. Sie waren beide gerecht vor Gott und wandelten untadelig in allen Geboten und Satzungen des Herrn. Aber sie hatten kein Kind, weil Elisabeth unfruchtbar war, und beide waren weit fortgeschritten im Alter.
+
+Während er nun das Priesteramt vor Gott in der Ordnung seiner Abteilung nach dem Brauch des Priesteramtes ausführte, fiel sein Los, in den Tempel des Herrn einzutreten und Räucherwerk zu opfern. Die ganze Menge des Volkes betete draußen zur Stunde des Räucheropfers.
+
+Ein Engel des Herrn erschien ihm und stand zur rechten Seite des Räucheraltars. Zacharias erschrak, als er ihn sah, und Furcht fiel auf ihn. Aber der Engel sagte zu ihm: „Fürchte dich nicht, Zacharias, denn dein Gebet ist erhört worden. Deine Frau Elisabeth wird dir einen Sohn gebären, und du sollst seinen Namen Johannes nennen. Du wirst Freude und Frohlocken haben, und viele werden sich über seine Geburt freuen. Denn er wird groß sein vor dem Herrn und wird keinen Wein noch starkes Getränk trinken. Er wird schon von seiner Mutterleib an mit dem Heiligen Geist erfüllt sein. Er wird viele der Kinder Israels zu dem Herrn ihrem Gott zurückführen. Er wird vor ihm hergehen im Geist und in der Kraft Elias’, ‚um die Herzen der Väter den Kindern zuzuwenden‘ und die Ungehorsamen zur Weisheit der Gerechten; um ein Volk vorzubereiten, das für den Herrn bereit ist.“
+
+Zacharias sagte zu dem Engel: „Wie kann ich sicher sein, dass dies geschieht? Denn ich bin ein alter Mann, und meine Frau ist weit fortgeschritten im Alter.“
+
+Der Engel antwortete ihm: „Ich bin Gabriel, der vor Gott steht. Ich wurde gesandt, um mit dir zu sprechen und dir diese gute Nachricht zu bringen. Siehe, du wirst stumm sein und nicht sprechen können bis zu dem Tag, an dem diese Dinge geschehen, weil du meinen Worten nicht geglaubt hast, die zur richtigen Zeit erfüllt werden.“
+
+Die Leute warteten auf Zacharias und wunderten sich, dass er im Tempel zögerte. Als er herauskam, konnte er nicht mit ihnen sprechen. Sie bemerkten, dass er eine Vision im Tempel gesehen hatte. Er machte weiterhin Zeichen zu ihnen und blieb stumm. Als die Tage seines Dienstes erfüllt waren, ging er nach Hause. Nach diesen Tagen empfing seine Frau Elisabeth und verbarg sich fünf Monate, indem sie sagte: „So hat der Herr mir in den Tagen gehandelt, in denen er auf mich geschaut hat, um meinen Schande unter den Menschen zu nehmen.“
+
+Im sechsten Monat wurde der Engel Gabriel von Gott in eine Stadt in Galiläa namens Nazareth gesandt, zu einer Jungfrau, die einem Mann namens Joseph, aus dem Haus David, verlobt war. Der Name der Jungfrau war Maria. Als er eintrat, sagte der Engel zu ihr: „Freue dich, du Begnadete! Der Herr ist mit dir. Gesegnet bist du unter den Frauen!“
+
+Als sie ihn sah, war sie sehr verwirrt über die Ansage und überlegte, was für eine Begrüßung das sein könnte. Der Engel sagte zu ihr: „Fürchte dich nicht, Maria, denn du hast Gnade bei Gott gefunden. Siehe, du wirst in deinem Schoß empfangen und einen Sohn gebären und wirst ihn ‚Jesus‘ nennen. Er wird groß sein und der Sohn des Höchsten genannt werden. Der Herr Gott wird ihm den Thron seines Vaters David geben, und er wird über das Haus Jakob für immer herrschen. Seines Königreichs wird kein Ende sein.“
+
+Maria sagte zu dem Engel: „Wie kann das sein, da ich eine Jungfrau bin?“
+
+Der Engel antwortete ihr: „Der Heilige Geist wird über dich kommen, und die Kraft des Höchsten wird dich überschatten. Daher wird auch das Heilige, das von dir geboren wird, Sohn Gottes genannt werden. Siehe, auch Elisabeth, deine Verwandte, hat in ihrem Alter einen Sohn empfangen; und dies ist der sechste Monat bei der, die unfruchtbar genannt wurde. Denn bei Gott ist nichts unmöglich.“
+
+Maria sagte: „Siehe, die Magd des Herrn; mir geschehe nach deinem Wort.“
+
+Dann ging der Engel von ihr weg.
+
+Maria machte sich in diesen Tagen auf und ging eilends in das Bergland, in eine Stadt Judas, und trat in das Haus Zacharias ein und begrüßte Elisabeth. Als Elisabeth Marias Gruß hörte, hüpfte das Kind in ihrem Schoß; und Elisabeth wurde mit dem Heiligen Geist erfüllt. Sie rief mit lauter Stimme und sagte: „Gesegnet bist du unter den Frauen, und gesegnet ist die Frucht deines Schoßes! Warum bin ich so begünstigt, dass die Mutter meines Herrn zu mir kommt? Denn siehe, als die Stimme deines Grußes in meine Ohren kam, hüpfte das Kind vor Freude in meinem Schoß! Gesegnet ist sie, die geglaubt hat; denn es wird eine Erfüllung der Dinge geben, die ihr vom Herrn gesagt wurden!“
+
+Maria sagte:
+
+„Meine Seele erhebt den Herrn.
+
+Mein Geist hat sich gefreut über Gott, meinen Retter,
+
+denn er hat auf die Demut seiner Magd geschaut.
+
+Denn siehe, von nun an werden mich alle Generationen selig preisen.
+
+Denn der Mächtige hat große Dinge an mir getan.
+
+Heilig ist sein Name.
+
+Seine Barmherzigkeit währt von Generation zu Generation über denen, die ihn fürchten.
+
+Er hat Stärke mit seinem Arm gezeigt.
+
+Er hat die Stolzen zerstreut in den Gedanken ihrer Herzen.
+
+Er hat Mächtige von ihren Thronen gestürzt
+
+und die Niedrigen erhöht.
+
+Die Hungrigen hat er mit guten Dingen gefüllt.
+
+Die Reichen hat er leer weggeschickt.
+
+Er hat Israel, seinem Diener, Hilfe geleistet, um seiner Barmherzigkeit zu gedenken,
+
+wie er unseren Vätern sprach,
+
+zu Abraham und seinem Samen für immer.“
+
+Maria blieb etwa drei Monate bei ihr und kehrte dann nach Hause zurück.
+
+Als die Zeit erfüllt war, dass Elisabeth gebären sollte, gebar sie einen Sohn. Ihre Nachbarn und Verwandten hörten, dass der Herr seine Barmherzigkeit an ihr groß gemacht hatte, und sie freuten sich mit ihr. Am achten Tag kamen sie, um das Kind zu beschneiden; und sie wollten ihn Zacharias nennen, nach dem Namen seines Vaters. Seine Mutter antwortete: „Nicht so; sondern er wird Johannes genannt werden.“
+
+Sie sagten zu ihr: „Es gibt niemanden unter deinen Verwandten, der diesen Namen trägt.“ Sie machten Zeichen zu seinem Vater, wie er ihn genannt haben wollte.
+
+Er bat um eine Schreibtafel und schrieb: „Sein Name ist Johannes.“
+
+Alle wunderten sich. Sofort wurde sein Mund geöffnet und seine Zunge befreit, und er sprach und lobte Gott. Furcht kam über alle, die um sie wohnten, und all diese Worte wurden im ganzen Hügelland von Judäa besprochen. Alle, die sie hörten, bewahrten sie in ihrem Herzen und sagten: „Was wird wohl aus diesem Kind werden?“ Die Hand des Herrn war mit ihm.
+
+Sein Vater Zacharias wurde mit dem Heiligen Geist erfüllt und prophezeite und sagte:
+
+„Gepriesen sei der Herr, der Gott Israels,
+
+denn er hat sein Volk besucht und erlöst;
+
+und hat uns ein Horn des Heils im Haus seines Dieners David erweckt
+
+(wie er durch den Mund seiner heiligen Propheten gesprochen hat, die von alters her waren),
+
+Heil von unseren Feinden und aus der Hand aller, die uns hassen;
+
+um Barmherzigkeit zu zeigen gegenüber unseren Vätern,
+
+um seinen heiligen Bund zu gedenken,
+
+den Eid, den er unserem Vater Abraham geschworen hat,
+
+um uns zu gewähren, dass wir, aus der Hand unserer Feinde befreit,
+
+ihm ohne Furcht dienen,
+
+in Heiligkeit und Gerechtigkeit vor ihm alle Tage unseres Lebens.
+
+Und du, Kind, wirst ein Prophet des Höchsten genannt werden;
+
+denn du wirst vor dem Angesicht des Herrn gehen, um seine Wege vorzubereiten,
+
+um seinem Volk Erkenntnis des Heils zu geben durch die Vergebung ihrer Sünden,
+
+wegen der herzlichen Barmherzigkeit unseres Gottes,
+
+durch die uns der Aufgang aus der Höhe besuchen wird,
+
+um denen zu leuchten, die in Finsternis und im Schatten des Todes sitzen;
+
+um unsere Füße auf den Weg des Friedens zu lenken.“
+
+Das Kind wuchs und wurde stark im Geist und war in der Wüste bis zu dem Tag seines öffentlichen Erscheinens in Israel.
+
+### Kapitel 2
+
+In jenen Tagen erging ein Befehl von Kaiser Augustus, dass alle Welt eingeschrieben werden sollte. Dies war die erste Einschreibung, die stattfand, als Quirinius Statthalter von Syrien war. Und alle gingen hin, um sich einschreiben zu lassen, jeder in seine eigene Stadt. Auch Joseph ging von Galiläa, aus der Stadt Nazareth, nach Judäa, zur Stadt David, die Bethlehem heißt, weil er aus dem Haus und Geschlecht Davids war, um sich mit Maria, seiner verlobten Frau, die schwanger war, einschreiben zu lassen.
+
+Während sie dort waren, kam die Zeit, dass sie gebären sollte. Sie gebar ihren erstgeborenen Sohn. Sie wickelte ihn in Windeln und legte ihn in eine Krippe, weil für sie kein Platz war in der Herberge.
+
+Es waren Hirten in derselben Gegend, die auf dem Feld blieben und nachts über ihre Herde wachten. Und siehe, ein Engel des Herrn trat zu ihnen, und die Herrlichkeit des Herrn umstrahlte sie; und sie fürchteten sich sehr. Der Engel sagte zu ihnen: „Fürchtet euch nicht! Denn siehe, ich bringe euch gute Nachrichten von großer Freude, die für das ganze Volk sein werden. Denn euch ist heute in der Stadt Davids ein Retter geboren worden; das ist Christus, der Herr. Und dies ist das Zeichen für euch: Ihr werdet ein Kind finden, das in Windeln gewickelt ist und in einer Krippe liegt.“ Und plötzlich war bei dem Engel eine Menge der himmlischen Heerscharen, die Gott lobten und sprachen:
+
+„Ehre sei Gott in der Höhe,
+
+und Frieden auf Erden, Wohlgefallen bei den Menschen.“
+
+Als die Engel von ihnen in den Himmel zurückgekehrt waren, sagten die Hirten zueinander: „Lasst uns nach Bethlehem gehen und sehen, was geschehen ist, was der Herr uns kundgetan hat.“ Sie kamen eilends und fanden sowohl Maria als auch Joseph und das Kind, das in der Krippe lag. Als sie es sahen, breiteten sie das Wort aus, das ihnen über dieses Kind gesagt worden war. Und alle, die es hörten, wunderten sich über das, was ihnen von den Hirten gesagt wurde. Maria aber bewahrte all diese Worte und erwog sie in ihrem Herzen. Die Hirten kehrten zurück und priesen und lobten Gott für alles, was sie gehört und gesehen hatten, so wie es ihnen gesagt worden war.
+
+Als acht Tage erfüllt waren zur Beschneidung des Kindes, wurde sein Name Jesus genannt, der ihm vom Engel gegeben wurde, bevor er im Mutterleib empfangen wurde.
+
+Als die Tage ihrer Reinigung nach dem Gesetz Moses erfüllt waren, brachten sie ihn nach Jerusalem, um ihn dem Herrn darzustellen (wie im Gesetz des Herrn geschrieben steht: „Jeder männliche Erstgeborene soll dem Herrn heilig genannt werden“), und um ein Opfer darzubringen nach dem, was im Gesetz des Herrn gesagt ist: „Ein Paar Turteltauben oder zwei junge Tauben.“
+
+Siehe, es war ein Mann in Jerusalem, dessen Name Simeon war. Dieser Mann war gerecht und gottesfürchtig und wartete auf die Tröstung Israels, und der Heilige Geist war auf ihm. Es war ihm durch den Heiligen Geist offenbart worden, dass er den Tod nicht sehen würde, bevor er den Christus des Herrn gesehen hätte. Er kam im Geist in den Tempel. Als die Eltern das Kind Jesus hereinbrachten, um mit ihm zu tun, was nach dem Brauch des Gesetzes üblich war, nahm er es in seine Arme, lobte Gott und sprach:
+
+„Nun lässt du, Herr, deinen Diener in Frieden gehen,
+
+nach deinem Wort;
+
+denn meine Augen haben dein Heil gesehen,
+
+das du vor dem Angesicht aller Völker bereitet hast;
+
+ein Licht zur Offenbarung für die Nationen
+
+und die Herrlichkeit deines Volkes Israel.“
+
+Josef und seine Mutter staunten über die Dinge, die über ihn gesagt wurden. Simeon segnete sie und sprach zu Maria, seiner Mutter: „Siehe, dieser ist zum Fall und zum Aufstehen vieler in Israel bestimmt und zu einem Zeichen, dem widersprochen wird. Ja, ein Schwert wird durch deine eigene Seele dringen, damit die Gedanken vieler Herzen offenbar werden.“
+
+Es war auch eine Anna, eine Prophetin, die Tochter Phanuels, aus dem Stamm Asher (sie war von großem Alter, da sie sieben Jahre mit ihrem Mann gelebt hatte nach ihrer Jungfräulichkeit und etwa vierundachtzig Jahre Witwe gewesen war), die nicht vom Tempel wich, indem sie Tag und Nacht mit Fasten und Gebeten diente. In dieser Stunde trat sie hinzu, lobte den Herrn und sprach von ihm zu allen, die auf die Erlösung in Jerusalem warteten.
+
+Als sie alles vollendet hatten, was nach dem Gesetz des Herrn zu tun war, kehrten sie nach Galiläa zurück, in ihre eigene Stadt Nazareth. Das Kind wuchs heran und wurde stark im Geist, erfüllt mit Weisheit, und die Gnade Gottes war auf ihm.
+
+Seine Eltern gingen jedes Jahr zum Passafest nach Jerusalem. Als er zwölf Jahre alt war, gingen sie nach Jerusalem gemäß dem Brauch des Festes; und als sie die Tage erfüllt hatten und auf dem Rückweg waren, blieb der Knabe Jesus in Jerusalem zurück. Josef und seine Mutter wussten es nicht, sondern dachten, er sei in der Gesellschaft; und sie gingen einen Tag lang auf der Reise; und sie suchten ihn unter ihren Verwandten und Bekannten. Als sie ihn nicht fanden, kehrten sie nach Jerusalem zurück und suchten ihn. Nach drei Tagen fanden sie ihn im Tempel, in der Mitte der Lehrer sitzend, die ihn hörten und ihn Fragen stellten. Alle, die ihn hörten, waren erstaunt über sein Verständnis und seine Antworten. Als sie ihn sahen, waren sie erstaunt; und seine Mutter sprach zu ihm: „Sohn, warum hast du uns so behandelt? Siehe, dein Vater und ich haben dich voller Angst gesucht.“
+
+Er sprach zu ihnen: „Warum habt ihr mich gesucht? Wusstet ihr nicht, dass ich in den Dingen meines Vaters sein muss?“ Sie verstanden das Wort nicht, das er zu ihnen sprach. Und er ging mit ihnen hinab und kam nach Nazareth. Er war ihnen untertan, und seine Mutter bewahrte alle diese Worte in ihrem Herzen. Und Jesus nahm zu an Weisheit und Alter und Gunst bei Gott und den Menschen.
+
+### Kapitel 3
+
+Im fünfzehnten Jahr der Herrschaft des Tiberius Caesar, als Pontius Pilatus Statthalter von Judäa war und Herodes Tetrarch von Galiläa war und sein Bruder Philippus Tetrarch der Region Ituräa und Trachonitis war und Lysanias Tetrarch von Abilene war, während das hohepriesterliche Amt von Hannas und Kaiphas war, kam das Wort Gottes zu Johannes, dem Sohn des Zacharias, in der Wüste. Er kam in die ganze Region um den Jordan und predigte die Taufe der Buße zur Vergebung der Sünden. Wie geschrieben steht im Buch der Worte des Propheten Jesaja:
+
+„Die Stimme eines Rufenden in der Wüste:
+
+‘Bereitet den Weg des Herrn.
+
+Macht seine Pfade gerade.
+
+Jedes Tal wird gefüllt werden.
+
+Jede Berg- und Hügel wird erniedrigt werden.
+
+Die krummen Wege werden gerade,
+
+und die rauen Wege glatt.
+
+Alles Fleisch wird das Heil Gottes sehen.’“
+
+Er sprach daher zu den Menschenmengen, die hinausgingen, um sich von ihm taufen zu lassen: „Ihr Schlangenbrut, wer hat euch gewarnt, vor dem kommenden Zorn zu fliehen? Bringt daher Früchte hervor, die der Buße würdig sind, und fangt nicht an zu sagen: ‚Wir haben Abraham zum Vater;‘ denn ich sage euch, dass Gott aus diesen Steinen Abraham Kinder erwecken kann! Auch jetzt liegt die Axt an der Wurzel der Bäume. Jeder Baum also, der keine guten Früchte bringt, wird umgehauen und ins Feuer geworfen.“
+
+Die Menschenmenge fragte ihn: „Was müssen wir also tun?“
+
+Er antwortete ihnen: „Wer zwei Mäntel hat, der gebe dem, der keinen hat. Und wer zu essen hat, der tue ebenso.“
+
+Auch Zöllner kamen, um sich taufen zu lassen, und sie sagten zu ihm: „Lehrer, was müssen wir tun?“
+
+Er sagte zu ihnen: „Nehmt nicht mehr, als euch bestimmt ist.“
+
+Auch Soldaten fragten ihn und sagten: „Was ist mit uns? Was müssen wir tun?“
+
+Er sagte zu ihnen: „Erpresst niemanden gewaltsam und beschuldigt niemanden zu Unrecht. Seid mit eurem Lohn zufrieden.“
+
+Während das Volk in Erwartung war und alle in ihren Herzen über Johannes nachdachten, ob er vielleicht der Christus sei, antwortete Johannes ihnen allen: „Ich taufe euch zwar mit Wasser, aber er kommt, der mächtiger ist als ich; ich bin nicht wert, ihm den Riemen seiner Sandalen zu lösen. Er wird euch mit dem Heiligen Geist und mit Feuer taufen. Seine Wurfgabel ist in seiner Hand, und er wird seine Tenne gründlich reinigen und den Weizen in seine Scheune sammeln; die Spreu aber wird er mit unvergänglichem Feuer verbrennen.“
+
+Dann predigte er mit vielen anderen Ermahnungen das Evangelium dem Volk. Aber Herodes, der Tetrarch, wurde von ihm wegen Herodias, der Frau seines Bruders, und wegen all der bösen Dinge, die Herodes getan hatte, zurechtgewiesen; er fügte auch dies allen hinzu, dass er Johannes ins Gefängnis warf.
+
+Als nun das ganze Volk getauft worden war, wurde auch Jesus getauft und betete. Der Himmel öffnete sich, und der Heilige Geist kam in leiblicher Gestalt wie eine Taube auf ihn herab; und eine Stimme kam aus dem Himmel, die sprach: „Du bist mein geliebter Sohn; an dir habe ich Wohlgefallen.“
+
+Jesus selbst war etwa dreißig Jahre alt, als er zu lehren begann; er war (wie man annahm) der Sohn Josephs, des Sohnes Helis, des Sohnes Matthat, des Sohnes Levi, des Sohnes Melchi, des Sohnes Jannai, des Sohnes Josephs, des Sohnes Mattathias, des Sohnes Amos, des Sohnes Nahum, des Sohnes Esli, des Sohnes Naggai, des Sohnes Maath, des Sohnes Mattathias, des Sohnes Semein, des Sohnes Josephs, des Sohnes Judas, des Sohnes Joanan, des Sohnes Rhesa, des Sohnes Zerubbabels, des Sohnes Shealtiels, des Sohnes Nerias, des Sohnes Melchis, des Sohnes Addi, des Sohnes Cosams, des Sohnes Elmodams, des Sohnes Ers, des Sohnes Jose, des Sohnes Eliezer, des Sohnes Jorims, des Sohnes Matthat, des Sohnes Levis, des Sohnes Simeons, des Sohnes Judas, des Sohnes Josephs, des Sohnes Jonans, des Sohnes Eliakims, des Sohnes Melea, des Sohnes Menan, des Sohnes Mattatha, des Sohnes Nathans, des Sohnes Davids, des Sohnes Isais, des Sohnes Obeds, des Sohnes Boas', des Sohnes Salmons, des Sohnes Nahshons, des Sohnes Amminadabs, des Sohnes Arams, des Sohnes Hezrons, des Sohnes Perez', des Sohnes Judas', des Sohnes Jakobs', des Sohnes Isaaks', des Sohnes Abrahams', des Sohnes Terachs', des Sohnes Nahors', des Sohnes Serugs', des Sohnes Reus', des Sohnes Pelegs', des Sohnes Ebers', des Sohnes Shelahs', des Sohnes Kainans', des Sohnes Arphaxads', des Sohnes Schems', des Sohnes Noahs', des Sohnes Lamechs', des Sohnes Methusalems', des Sohnes Henochs', des Sohnes Jareds', des Sohnes Mahalaleels', des Sohnes Kainans', des Sohnes Enos', des Sohnes Seths', des Sohnes Adams', des Sohnes Gottes.
+
+### Kapitel 4
+
+Jesus, voll vom Heiligen Geist, kehrte vom Jordan zurück und wurde vom Geist in die Wüste geführt für vierzig Tage und wurde vom Teufel versucht. Er aß in diesen Tagen nichts. Und als sie vergangen waren, hatte er Hunger.
+
+Der Teufel sagte zu ihm: „Wenn du der Sohn Gottes bist, so befiehl diesem Stein, Brot zu werden.“
+
+Jesus antwortete ihm und sprach: „Es steht geschrieben: ‚Der Mensch lebt nicht vom Brot allein, sondern von jedem Wort Gottes.‘“
+
+Der Teufel führte ihn auf einen hohen Berg und zeigte ihm in einem Augenblick alle Reiche der Welt. Der Teufel sagte zu ihm: „Ich will dir all diese Macht und ihre Herrlichkeit geben; denn sie ist mir übergeben worden und ich gebe sie wem ich will. Wenn du also vor mir anbetest, wird alles dein sein.“
+
+Jesus antwortete ihm: „Weiche von mir, Satan! Denn es steht geschrieben: ‚Du sollst den Herrn deinen Gott anbeten und ihm allein dienen.‘“
+
+Er führte ihn nach Jerusalem und stellte ihn auf die Zinne des Tempels und sprach zu ihm: „Wenn du der Sohn Gottes bist, stürze dich von hier hinab; denn es steht geschrieben:
+
+„Er wird seine Engel über dich befehlen, um dich zu bewahren;“
+
+und,
+
+„Auf ihren Händen werden sie dich tragen, 
+
+damit du deinen Fuß nicht an einen Stein stößt.““
+
+Jesus antwortete und sagte zu ihm: „Es steht geschrieben: ‚Du sollst den Herrn, deinen Gott, nicht versuchen.‘“
+
+Als der Teufel alle Versuchungen vollendet hatte, wich er von ihm bis zu einer anderen Zeit.
+
+Jesus kehrte in der Kraft des Geistes nach Galiläa zurück, und die Nachricht über ihn verbreitete sich in der ganzen Umgebung. Er lehrte in ihren Synagogen und wurde von allen verherrlicht.
+
+Er kam nach Nazareth, wo er aufgewachsen war. Er trat, wie es seine Gewohnheit war, am Sabbat in die Synagoge ein und stand auf, um zu lesen. Das Buch des Propheten Jesaja wurde ihm übergeben. Er öffnete das Buch und fand die Stelle, wo geschrieben steht:
+
+„Der Geist des Herrn ist auf mir,
+
+weil er mich gesalbt hat, um den Armen gute Nachrichten zu bringen.
+
+Er hat mich gesandt, um die zerbrochenen Herzen zu heilen,
+
+um den Gefangenen Freiheit zu verkünden,
+
+den Blinden das Augenlicht wiederherzustellen,
+
+die Zerschlagenen zu befreien,
+
+und das angenehme Jahr des Herrn zu verkünden.“
+
+Er schloss das Buch, gab es dem Diener zurück und setzte sich. Alle Augen in der Synagoge waren auf ihn gerichtet. Er begann ihnen zu sagen: „Heute ist diese Schrift in eurem Ohr erfüllt worden.“
+
+Alle gaben Zeugnis von ihm und wunderten sich über die gnädigen Worte, die aus seinem Mund kamen; und sie sagten: „Ist das nicht der Sohn Josephs?“
+
+Er sagte zu ihnen: „Zweifellos werdet ihr mir dieses Sprichwort sagen: ‚Arzt, heile dich selbst! Was wir in Kapernaum gehört haben, das tue auch hier in deiner Heimatstadt.‘“ Er sagte: „Wahrlich, ich sage euch, kein Prophet ist in seiner Heimatstadt akzeptabel. Aber wahrlich, ich sage euch, es gab viele Witwen in Israel zur Zeit Elias, als der Himmel drei Jahre und sechs Monate verschlossen war und eine große Hungersnot über das ganze Land kam. Elias wurde zu keiner von ihnen gesandt, außer nach Zarephath im Land Zidon, zu einer Frau, die Witwe war. Es gab viele Aussätzige in Israel zur Zeit des Propheten Elisa, doch keiner von ihnen wurde gereinigt, außer Naaman, dem Syrer.“
+
+Alle wurden in der Synagoge mit Zorn erfüllt, als sie diese Dinge hörten. Sie standen auf, stießen ihn aus der Stadt und führten ihn an den Rand des Hügels, auf dem ihre Stadt erbaut war, um ihn von der Klippe zu stürzen. Aber er ging mitten durch sie hindurch und ging seinen Weg.
+
+Er kam nach Kapernaum, einer Stadt in Galiläa. Er lehrte sie am Sabbat und sie waren erstaunt über seine Lehre, denn sein Wort hatte Autorität. In der Synagoge war ein Mann, der einen unreinen Geist hatte; und er schrie mit lauter Stimme: „Ah! Was haben wir mit dir zu tun, Jesus von Nazareth? Bist du gekommen, um uns zu vernichten? Ich weiß, wer du bist: der Heilige Gottes!“
+
+Jesus wies ihn zurecht und sagte: „Sei still und komm aus ihm heraus!“ Als der Dämon ihn mitten unter ihnen niedergeworfen hatte, kam er aus ihm heraus und tat ihm kein Unrecht.
+
+Faszination kam über alle und sie sprachen miteinander und sagten: „Was ist das für ein Wort? Denn mit Autorität und Macht befiehlt er den unreinen Geistern, und sie kommen heraus!“ Die Nachricht über ihn verbreitete sich in allen Orten der Umgebung.
+
+Er stand von der Synagoge auf und ging in das Haus Simons. Die Schwiegermutter Simons war mit hohem Fieber befallen, und sie baten ihn um Hilfe. Er trat über sie und wies das Fieber zurecht, und es verließ sie. Sofort stand sie auf und diente ihnen. Als die Sonne unterging, brachten alle, die kranke Menschen mit verschiedenen Krankheiten hatten, sie zu ihm; und er legte seine Hände auf jeden von ihnen und heilte sie. Auch Dämonen kamen aus vielen heraus und riefen: „Du bist der Christus, der Sohn Gottes!“ Sie zurechtweisend erlaubte er ihnen nicht zu sprechen, weil sie wussten, dass er der Christus war.
+
+Als es Tag wurde, ging er weg und zog in eine unbewohnte Gegend; und die Menschenmenge suchte ihn und kam zu ihm und hielt ihn fest, damit er nicht von ihnen weggehen würde. Aber er sagte zu ihnen: „Ich muss auch den anderen Städten die gute Nachricht vom Reich Gottes verkünden. Denn dazu bin ich gesandt worden.“ Er predigte in den Synagogen von Galiläa.
+
+### Kapitel 5
+
+Während die Menge ihn drängte und das Wort Gottes hörte, stand er am See Gennesaret. Er sah zwei Boote am See stehen, aber die Fischer waren aus ihnen hinausgegangen und wuschen ihre Netze. Er stieg in eines der Boote, das Simon gehörte, und bat ihn, ein wenig vom Land wegzufahren. Er setzte sich und lehrte die Menschenmengen aus dem Boot.
+
+Als er aufgehört hatte zu sprechen, sagte er zu Simon: „Fahre hinaus in die Tiefe und lasst eure Netze zum Fang aus.“
+
+Simon antwortete ihm: „Meister, wir haben die ganze Nacht gearbeitet und nichts gefangen; aber auf dein Wort hin will ich das Netz auswerfen.“ Als sie dies getan hatten, fingen sie eine große Menge Fische, und ihr Netz zerbrach. Sie winkten ihren Partnern im anderen Boot, dass sie kommen und ihnen helfen sollten. Sie kamen und füllten beide Boote, sodass sie zu sinken begannen. Als Simon Petrus das sah, fiel er vor Jesu Knien nieder und sagte: „Gehe von mir weg, denn ich bin ein sündiger Mensch, Herr.“ Denn er war erstaunt, und alle, die bei ihm waren, über den Fischfang, den sie gemacht hatten; ebenso waren Jakobus und Johannes, die Söhne des Zebedäus, die mit Simon Partner waren.
+
+Jesus sagte zu Simon: „Fürchte dich nicht. Von nun an wirst du Menschen fangen.“
+
+Als sie ihre Boote ans Land gebracht hatten, ließen sie alles zurück und folgten ihm.
+
+Während er in einer der Städte war, siehe, da war ein Mann voller Aussatz. Als er Jesus sah, fiel er auf sein Gesicht und bat ihn und sagte: „Herr, wenn du willst, kannst du mich rein machen.“
+
+Er streckte seine Hand aus und berührte ihn und sagte: „Ich will es. Sei rein gemacht.“
+
+Sofort verließ ihn der Aussatz. Er befahl ihm, niemandem etwas zu sagen: „Geh aber hin und zeige dich dem Priester und bringe für deine Reinigung das dar, was Mose geboten hat, zum Zeugnis für sie.“
+
+Aber die Nachricht über ihn verbreitete sich noch mehr, und große Menschenmengen kamen zusammen, um von ihm zu hören und von ihren Krankheiten geheilt zu werden. Aber er zog sich in die Wüste zurück und betete.
+
+An einem dieser Tage lehrte er; und es saßen Pharisäer und Gesetzeslehrer dabei, die aus allen Dörfern Galiläas, Judäas und Jerusalems gekommen waren. Die Kraft des Herrn war mit ihm, um sie zu heilen. Siehe, Männer brachten einen gelähmten Mann auf einer Trage und suchten ihn hinein zu bringen und ihn vor Jesus zu legen. Da sie keinen Weg fanden, um ihn wegen der Menge hinein zu bringen, gingen sie auf das Dach und ließen ihn durch die Ziegel mit seiner Trage mitten vor Jesus hinunter. Als er ihren Glauben sah, sagte er zu ihm: „Mann, dir sind deine Sünden vergeben.“
+
+Die Schriftgelehrten und die Pharisäer begannen zu überlegen und sagten: „Wer ist dieser, der Lästerungen redet? Wer kann Sünden vergeben als nur Gott allein?“
+
+Aber Jesus erkannte ihre Gedanken und antwortete ihnen: „Warum denkt ihr so in euren Herzen? Was ist leichter zu sagen: ‚Dir sind deine Sünden vergeben‘ oder zu sagen: ‚Steh auf und geh‘? Aber damit ihr wisst, dass der Sohn des Menschen Vollmacht hat, auf Erden Sünden zu vergeben,“ sagte er zu dem Gelähmten: „Ich sage dir: Steh auf, nimm deine Trage und geh nach Hause.“
+
+Sofort stand er vor ihnen auf, nahm das, worauf er lag, und ging nach Hause und verherrlichte Gott. Staunen ergriff alle, und sie verherrlichten Gott. Sie waren erfüllt von Furcht und sagten: „Wir haben heute seltsame Dinge gesehen.“
+
+Nach diesen Dingen ging er hinaus und sah einen Zöllner namens Levi an der Zollstelle sitzen und sagte zu ihm: „Folge mir nach!“
+
+Er ließ alles stehen und ging auf und folgte ihm. Levi machte ein großes Fest für ihn in seinem Haus. Es war eine große Menge von Zöllnern und anderen, die mit ihnen zu Tisch lagen. Ihre Schriftgelehrten und die Pharisäer murrten gegen seine Jünger und sagten: „Warum esst und trinkt ihr mit den Zöllnern und Sündern?“
+
+Jesus antwortete ihnen: „Die Gesunden brauchen keinen Arzt, sondern die Kranken. Ich bin nicht gekommen, um die Gerechten zu rufen, sondern die Sünder zur Umkehr.“
+
+Sie fragten ihn: „Warum fasten die Jünger des Johannes oft und beten ebenso wie die Jünger der Pharisäer, aber deine essen und trinken?“
+
+Er sagte zu ihnen: „Können die Freunde des Bräutigams fasten, solange der Bräutigam bei ihnen ist? Aber es werden Tage kommen, an denen der Bräutigam von ihnen genommen wird. Dann werden sie in jenen Tagen fasten.“
+
+Er erzählte ihnen auch ein Gleichnis: „Niemand näht ein Stück von einem neuen Kleid auf ein altes Kleid, sonst reißt er das Neue, und das Stück vom Neuen passt nicht zum Alten. Niemand füllt neuen Wein in alte Weinschläuche, sonst zerreißt der neue Wein die Schläuche, und er wird verschüttet und die Schläuche werden zerstört. Neuer Wein muss in frische Weinschläuche gefüllt werden, und beide werden bewahrt. Kein Mensch, der alten Wein getrunken hat, verlangt sofort nach neuem, denn er sagt: ‚Der alte ist besser.‘“
+
+### Kapitel 6
+
+Nun, am zweiten Sabbat nach dem ersten, ging er durch die Kornfelder. Seine Jünger pflückten die Ähren und aßen, indem sie sie in ihren Händen rieben. Einige der Pharisäer sagten zu ihnen: „Warum tut ihr das, was am Sabbat nicht erlaubt ist?“
+
+Jesus antwortete ihnen: „Habt ihr nicht gelesen, was David tat, als er hungrig war, er und die, die mit ihm waren, wie er in das Haus Gottes ging und das Schaubrot nahm und aß und auch denen gab, die bei ihm waren, was nur den Priestern erlaubt ist zu essen?“ Er sagte zu ihnen: „Der Menschensohn ist Herr des Sabbats.“
+
+Es geschah auch an einem anderen Sabbat, dass er in die Synagoge ging und lehrte. Dort war ein Mann, dessen rechte Hand verdorrt war. Die Schriftgelehrten und die Pharisäer beobachteten ihn, um zu sehen, ob er am Sabbat heilen würde, damit sie einen Anklagegrund gegen ihn finden könnten. Aber er kannte ihre Gedanken; und er sagte zu dem Mann mit der verdorrten Hand: „Steh auf und stelle dich in die Mitte.“ Er stand auf und trat hin. Dann sagte Jesus zu ihnen: „Ich will euch etwas fragen: Ist es am Sabbat erlaubt, Gutes zu tun oder Böses? Ein Leben zu retten oder zu töten?“ Er sah sich um und sagte zu dem Mann: „Reiche deine Hand aus.“ Er tat es, und seine Hand wurde wiederhergestellt wie die andere. Aber sie wurden mit Wut erfüllt und sprachen miteinander darüber, was sie Jesus antun könnten.
+
+In diesen Tagen ging er auf den Berg, um zu beten, und er verbrachte die ganze Nacht im Gebet zu Gott. Als es Tag wurde, rief er seine Jünger und wählte aus ihnen zwölf aus, die er auch Apostel nannte: Simon, den er auch Petrus nannte; Andreas, seinen Bruder; Jakobus; Johannes; Philippus; Bartholomäus; Matthäus; Thomas; Jakobus, den Sohn des Alphaeus; Simon, der Zelot genannt wurde; Judas, der Sohn des Jakobus; und Judas Iskariot, der auch zum Verräter wurde.
+
+Er kam mit ihnen herunter und stand an einem ebenen Ort, mit einer Menge seiner Jünger und einer großen Zahl von Menschen aus ganz Judäa und Jerusalem sowie von der Küste von Tyrus und Sidon, die kamen, um ihn zu hören und von ihren Krankheiten geheilt zu werden, sowie diejenigen, die von unreinen Geistern geplagt waren; und sie wurden geheilt. Die ganze Menge suchte ihn zu berühren, denn Kraft ging von ihm aus und heilte sie alle.
+
+Er hob seine Augen auf zu seinen Jüngern und sagte:
+
+„Selig seid ihr, die ihr arm seid,
+
+denn euch gehört das Reich Gottes.
+
+Selig seid ihr, die ihr jetzt hungert,
+
+denn ihr werdet satt werden.
+
+Selig seid ihr, die ihr jetzt weint,
+
+denn ihr werdet lachen.
+
+Selig seid ihr, wenn die Menschen euch hassen und euch ausschließen und verspotten und euren Namen als böse abtun um des Menschensohnes willen.
+
+Freut euch an diesem Tag und springt vor Freude, denn siehe, euer Lohn ist groß im Himmel; denn ihre Väter taten den gleichen Dingen den Propheten.
+
+„Aber wehe euch, die ihr reich seid!
+
+Denn ihr habt euren Trost empfangen.
+
+Wehe euch, die ihr jetzt satt seid,
+
+denn ihr werdet hungern.
+
+Wehe euch, die ihr jetzt lacht,
+
+denn ihr werdet trauern und weinen.
+
+Wehe, wenn die Menschen gut von euch reden,
+
+denn ihre Väter taten den gleichen Dingen den falschen Propheten.
+
+„Aber ich sage euch, die ihr hört: Liebt eure Feinde, tut Gutes denen, die euch hassen, segnet die euch verfluchen und betet für die euch beleidigen. Dem, der dir auf die Wange schlägt, biete auch die andere dar; und von dem, der dir deinen Mantel nimmt, halte auch deinen Rock nicht zurück. Gib jedem, der dich bittet, und fordere nicht von dem zurück, der dir deine Güter nimmt.
+
+„Wie ihr wollt, dass die Menschen euch tun, so tut ihnen ebenso.
+
+„Wenn ihr die liebt, die euch lieben, was für einen Verdienst habt ihr? Denn auch Sünder lieben die, die sie lieben. Wenn ihr Gutes tut zu denen, die euch Gutes tun, was für einen Verdienst habt ihr? Denn auch Sünder tun dasselbe. Wenn ihr denjenigen leiht, von denen ihr hofft, zurückzubekommen, was für einen Verdienst habt ihr? Auch Sünder leihen an Sünder, um so viel zurückzubekommen. Aber liebt eure Feinde und tut Gutes und leiht, ohne etwas zurückzuerwarten; und eure Belohnung wird groß sein, und ihr werdet Kinder des Höchsten sein; denn er ist gütig gegen die Undankbaren und Bösen.
+
+„Seid daher barmherzig,
+
+wie auch euer Vater barmherzig ist.
+
+Richtet nicht,
+
+und ihr werdet nicht gerichtet.
+
+Verurteilt nicht,
+
+und ihr werdet nicht verurteilt.
+
+Lasst los,
+
+und ihr werdet losgelassen werden.
+
+„Gebt, und es wird euch gegeben: gutes Maß, gedrückt, geschüttelt und überfließend wird man euch geben. Denn mit dem Maß, mit dem ihr messt, wird euch wieder gemessen werden.“
+
+Er sprach ein Gleichnis zu ihnen: „Kann der Blinde den Blinden führen? Werden sie nicht beide in die Grube fallen? Ein Jünger steht nicht über seinem Lehrer; aber jeder, der vollkommen ausgebildet ist, wird wie sein Lehrer sein. Warum siehst du den Splitter im Auge deines Bruders, aber nimmst den Balken in deinem eigenen Auge nicht wahr? Oder wie kannst du zu deinem Bruder sagen: ‚Bruder, lass mich den Splitter aus deinem Auge entfernen‘, während du selbst den Balken in deinem eigenen Auge nicht siehst? Du Heuchler! Entferne zuerst den Balken aus deinem eigenen Auge, und dann kannst du klar sehen, um den Splitter aus dem Auge deines Bruders zu entfernen.
+
+„Denn es gibt keinen guten Baum, der schlechte Früchte trägt, noch einen schlechten Baum, der gute Früchte trägt. Denn jeder Baum wird an seinen eigenen Früchten erkannt. Denn Menschen pflücken keine Feigen von Dornen, noch sammeln sie Trauben von einem Dornbusch. Der gute Mensch bringt aus dem guten Schatz seines Herzens das Gute hervor; und der böse Mensch bringt aus dem bösen Schatz seines Herzens das Böse hervor; denn aus der Fülle des Herzens spricht sein Mund.
+
+„Warum nennt ihr mich ‚Herr, Herr‘ und tut nicht das, was ich sage? Jeder, der zu mir kommt und meine Worte hört und sie tut, ich will euch zeigen, wem er gleicht. Er gleicht einem Mann, der ein Haus baut; er grub und ging tief und legte das Fundament auf den Felsen. Als eine Flut kam, brach der Strom gegen dieses Haus und konnte es nicht erschüttern, weil es auf dem Felsen gegründet war. Aber wer hört und nicht tut, ist wie ein Mann, der ein Haus auf der Erde ohne Fundament baute; gegen das der Strom brach und sofort fiel es; und der Ruin dieses Hauses war groß.“
+
+### Kapitel 7
+
+Nachdem er in der Hörweite des Volkes gesprochen hatte, ging er nach Kapernaum. Ein gewisser Diener eines Hauptmanns, der ihm lieb war, war krank und lag im Sterben. Als er von Jesus hörte, sandte er zu ihm jüdische Älteste und bat ihn, zu kommen und seinen Diener zu heilen. Als sie zu Jesus kamen, baten sie ihn inständig und sagten: „Er ist es wert, dass du dies für ihn tust; denn er liebt unser Volk und hat uns die Synagoge gebaut.“ Jesus ging mit ihnen. Als er sich nun nicht weit vom Haus entfernt hatte, sandte der Hauptmann Freunde zu ihm und ließ ihm sagen: „Herr, quäle dich nicht; denn ich bin nicht wert, dass du unter mein Dach kommst. Darum hielt ich mich selbst nicht für wert, zu dir zu kommen; sondern sprich nur ein Wort, und mein Diener wird geheilt werden. Denn auch ich bin ein Mann unter Autorität gesetzt, habe Soldaten unter mir. Ich sage zu diesem: ‚Geh!‘ und er geht; und zu einem anderen: ‚Komm!‘ und er kommt; und zu meinem Diener: ‚Tu dies!‘ und er tut es.“
+
+Als Jesus dies hörte, wunderte er sich über ihn und wandte sich zur Menge, die ihm folgte, und sagte: „Ich sage euch, ich habe solchen Glauben nicht gefunden, nein, nicht in Israel.“ Die Gesandten kehrten ins Haus zurück und fanden den Diener gesund.
+
+Bald darauf ging er in eine Stadt namens Nain. Viele seiner Jünger gingen mit ihm sowie eine große Menge. Als er sich der Stadtpforte näherte, siehe, da wurde ein Toter hinausgetragen, der einzige Sohn seiner Mutter; und sie war Witwe. Viele Leute aus der Stadt waren mit ihr. Als der Herr sie sah, hatte er Mitleid mit ihr und sagte zu ihr: „Weine nicht.“ Er trat näher und berührte den Sarg; die Träger blieben stehen. Er sagte: „Junger Mann, ich sage dir: Steh auf!“ Der Tote setzte sich auf und begann zu reden. Dann gab er ihn seiner Mutter zurück.
+
+Furcht ergriff alle, und sie verherrlichten Gott und sagten: „Ein großer Prophet ist unter uns erstanden!“ und: „Gott hat sein Volk besucht!“ Dieser Bericht ging über ihn in ganz Judäa und in der ganzen Umgebung hinaus.
+
+Die Jünger des Johannes berichteten ihm von all diesen Dingen. Johannes, der zwei seiner Jünger zu sich rief, sandte sie zu Jesus und sagte: „Bist du der, der kommen soll, oder sollen wir auf einen anderen warten?“ Als die Männer zu ihm gekommen waren, sagten sie: „Johannes der Täufer hat uns zu dir gesandt und gesagt: ‚Bist du der, der kommt, oder sollen wir auf einen anderen warten?‘“
+
+In jener Stunde heilte er viele von Krankheiten und Plagen und bösen Geistern; und vielen Blinden gab er das Augenlicht. Jesus antwortete ihnen: „Geht und sagt Johannes, was ihr gesehen und gehört habt: dass die Blinden ihr Augenlicht erhalten, die Lahmen gehen, die Aussätzigen rein werden, die Tauben hören, die Toten auferstehen und den Armen das Evangelium gepredigt wird. Selig ist, der sich nicht an mir stößt.“
+
+Als die Boten des Johannes weggegangen waren, begann er, den Menschenmengen von Johannes zu erzählen: „Was habt ihr in die Wüste hinausgehen sehen? Ein Schilfrohr, das vom Wind bewegt wird? Aber was habt ihr hinausgehen sehen? Einen Mann, der in weichen Kleidern gekleidet ist? Siehe, die in prächtigen Kleidern gekleidet sind und sich üppig leben, sind in den Königshöfen. Aber was habt ihr hinausgehen sehen? Einen Propheten? Ja, ich sage euch, und weit mehr als einen Propheten. Dies ist der, von dem geschrieben steht:
+
+„Siehe, ich sende meinen Boten vor deinem Angesicht,
+
+der deinen Weg vor dir bereiten wird.“
+
+„Denn ich sage euch, unter denen, die von Frauen geboren sind, gibt es keinen größeren Propheten als Johannes den Täufer; doch der, der am geringsten im Reich Gottes ist, ist größer als er.“
+
+Als all das Volk und die Zöllner dies hörten, erklärten sie Gott für gerecht, nachdem sie mit der Taufe des Johannes getauft worden waren. Aber die Pharisäer und die Schriftgelehrten wiesen den Rat Gottes zurück, weil sie selbst nicht von ihm getauft worden waren.
+
+„Womit soll ich also das Volk dieser Generation vergleichen? Was sind sie? Sie sind wie Kinder, die auf dem Marktplatz sitzen und zueinander rufen: ‚Wir haben euch auf der Flöte gespielt, und ihr habt nicht getanzt. Wir haben geklagt, und ihr habt nicht geweint.‘ Denn Johannes der Täufer kam weder Brot essend noch Wein trinkend, und ihr sagt: ‚Er hat einen Dämon.‘ Der Menschensohn ist gekommen, isst und trinkt, und ihr sagt: ‚Siehe, ein Schlemmer und ein Säufer, ein Freund der Zöllner und Sünder!‘ Die Weisheit wird von allen ihren Kindern gerechtfertigt.“
+
+Einer der Pharisäer lud ihn ein, mit ihm zu essen. Er trat in das Haus des Pharisäers ein und setzte sich zu Tisch. Siehe, eine Frau in der Stadt, die eine Sünderin war, als sie erfuhr, dass er im Haus des Pharisäers lag, brachte ein Alabastergefäß mit Salbe. Hinter ihm stehend weinend, begann sie seine Füße mit ihren Tränen zu benetzen und wischte sie mit dem Haar ihres Hauptes ab; sie küsste seine Füße und salbte sie mit der Salbe. Als nun der Pharisäer, der ihn eingeladen hatte, dies sah, sprach er bei sich selbst: „Dieser Mann, wenn er ein Prophet wäre, würde wissen, wer und was für eine Frau dies ist, die ihn anrührt; denn sie ist eine Sünderin.“
+
+Jesus antwortete ihm: „Simon, ich habe dir etwas zu sagen.“
+
+Er sagte: „Lehrer, sprich!“
+
+„Ein gewisser Gläubiger hatte zwei Schuldner. Der eine schuldete fünfhundert Denare und der andere fünfzig. Als sie nicht zahlen konnten, vergab er beiden. Welcher von ihnen wird ihn also am meisten lieben?“
+
+Simon antwortete: „Derjenige, dem er am meisten vergeben hat.“
+
+Er sagte zu ihm: „Du hast richtig geurteilt.“ Und er wandte sich zur Frau und sagte zu Simon: „Siehst du diese Frau? Ich bin in dein Haus eingetreten, und du hast mir kein Wasser für meine Füße gegeben; aber sie hat meine Füße mit ihren Tränen benetzt und mit dem Haar ihres Hauptes abgewischt. Du hast mir keinen Kuss gegeben; aber sie hat seit der Zeit, als ich hereinkam, nicht aufgehört, meine Füße zu küssen. Du hast mein Haupt nicht mit Öl gesalbt; aber sie hat meine Füße mit Salbe gesalbt. Darum sage ich dir: Ihre Sünden, die viele sind, sind vergeben; denn sie hat viel geliebt. Wer aber wenig vergeben wird, liebt wenig.“ Und er sagte zu ihr: „Deine Sünden sind vergeben.“
+
+Diejenigen aber, die mit ihm zu Tisch saßen, begannen bei sich selbst zu sagen: „Wer ist dieser, der sogar Sünden vergibt?“
+
+Er sagte zu der Frau: „Dein Glaube hat dich gerettet. Geh in Frieden.“
+
+### Kapitel 8
+
+Kurz darauf ging er durch Städte und Dörfer, predigte und brachte die gute Nachricht vom Reich Gottes. Mit ihm waren die zwölf und bestimmte Frauen, die von bösen Geistern und Krankheiten geheilt worden waren: Maria, die Magdalene genannt wurde, aus der sieben Dämonen ausgefahren waren; und Joanna, die Frau von Chuzas, dem Verwalter des Herodes; Susanna; und viele andere, die ihnen aus ihrem Besitz dienten. Als eine große Menge zusammenkam und Menschen aus jeder Stadt zu ihm kamen, sprach er durch ein Gleichnis: „Der Bauer ging hinaus, um sein Saatgut zu säen. Während er säte, fiel einiges am Wegesrand, und es wurde zertreten, und die Vögel des Himmels fraßen es auf. Anderes Saatgut fiel auf den Felsen, und sobald es wuchs, verdorrte es, weil es keine Feuchtigkeit hatte. Anderes fiel zwischen die Dornen, und die Dornen wuchsen mit ihm und erstickten es. Anderes fiel auf den guten Boden und wuchs und brachte hundertmal so viel Frucht.“ Als er dies sagte, rief er: „Wer Ohren hat zu hören, der höre!“
+
+Dann fragten ihn seine Jünger: „Was bedeutet dieses Gleichnis?“
+
+Er sagte: „Euch ist gegeben, die Geheimnisse des Reiches Gottes zu erkennen, aber den anderen wird es in Gleichnissen gegeben, damit sie ‚sehen und nicht sehen, und hören und nicht verstehen.‘
+
+„Das Gleichnis ist folgendes: Das Saatgut ist das Wort Gottes. Die am Wegesrand sind die, die hören; dann kommt der Teufel und nimmt das Wort aus ihrem Herzen weg, damit sie nicht glauben und gerettet werden. Die auf dem Felsen sind die, die, wenn sie hören, das Wort mit Freude empfangen; aber diese haben keine Wurzel. Sie glauben eine Weile, dann fallen sie in der Zeit der Versuchung ab. Was unter die Dornen fiel, das sind die, die gehört haben, und während sie ihren Weg gehen, werden sie von Sorgen, Reichtum und Vergnügungen des Lebens erstickt; und sie bringen keine Frucht zur Reife. Die auf dem guten Boden sind die, die mit einem ehrlichen und guten Herzen das Wort gehört haben, es festhalten und mit Ausdauer Frucht bringen.
+
+„Niemand zündet eine Lampe an und stellt sie in einen Behälter oder unter das Bett; sondern er stellt sie auf einen Stand, damit die hereinkommen sehen das Licht. Denn nichts ist verborgen, was nicht offenbar werden wird, noch geheim, was nicht bekannt gemacht wird und ans Licht kommt. Seid daher vorsichtig, wie ihr hört. Denn wer hat, dem wird gegeben; und wer nicht hat, von dem wird auch das genommen, was er zu haben glaubt.“
+
+Seine Mutter und Brüder kamen zu ihm, und sie konnten wegen der Menge nicht zu ihm gelangen. Einige Leute sagten ihm: „Deine Mutter und deine Brüder stehen draußen und wünschen dich zu sehen.“
+
+Aber er antwortete ihnen: „Meine Mutter und meine Brüder sind diese, die das Wort Gottes hören und tun.“
+
+An einem dieser Tage stieg er mit seinen Jüngern in ein Boot und sagte zu ihnen: „Lasst uns ans andere Ufer des Sees fahren.“ So stachen sie in See. Aber während sie segelten, fiel er in den Schlaf. Ein Sturmwind kam über den See, und sie nahmen gefährliche Mengen Wasser auf. Sie kamen zu ihm und weckten ihn und sagten: „Meister, Meister, wir sterben!“ Er wachte auf und bedrohte den Wind und das Wüten des Wassers; dann hörten sie auf, und es wurde still. Er sagte zu ihnen: „Wo ist euer Glaube?“ Sie fürchteten sich und staunten und sagten zueinander: „Wer ist dieser denn, dass er sogar den Winden und dem Wasser befiehlt, und sie ihm gehorchen?“
+
+Dann kamen sie in das Land der Gadarenes, das gegenüber von Galiläa liegt. Als Jesus ans Ufer trat, begegnete ihm ein gewisser Mann aus der Stadt, der lange Zeit Dämonen hatte. Er trug keine Kleider und lebte nicht in einem Haus, sondern in den Gräbern. Als er Jesus sah, schrie er laut und fiel vor ihm nieder und sagte mit lauter Stimme: „Was habe ich mit dir zu tun, Jesus, du Sohn des Höchsten Gottes? Ich bitte dich, quäle mich nicht!“ Denn Jesus befahl dem unreinen Geist, aus dem Mann herauszukommen. Denn der unreine Geist hatte den Mann oft ergriffen. Er wurde bewacht und mit Ketten und Fußfesseln gebunden. Die Fesseln zerbrach er und wurde vom Dämon in die Wüste getrieben.
+
+Jesus fragte ihn: „Wie heißt du?“
+
+Er antwortete: „Legion“, denn viele Dämonen waren in ihn gefahren. Sie baten ihn, dass er sie nicht in den Abgrund schicken möge.
+
+Nun war dort eine Herde von vielen Schweinen, die auf dem Berg weideten, und sie baten ihn, dass er ihnen erlauben möge, in diese einzufahren. Da erlaubte er es ihnen. Die Dämonen kamen aus dem Mann heraus und fuhren in die Schweine, und die Herde stürzte den steilen Hang ins Meer und ertrank.
+
+Als die, die sie hüteten, sahen, was geschehen war, flohen sie und berichteten es in der Stadt und auf dem Land.
+
+Die Leute gingen hinaus, um zu sehen, was geschehen war. Sie kamen zu Jesus und fanden den Mann, aus dem die Dämonen ausgefahren waren, zu seinen Füßen sitzend, bekleidet und im rechten Verstand; und sie fürchteten sich. Diejenigen, die es gesehen hatten, erzählten ihnen, wie der Besessene geheilt worden war. Alle Leute der umliegenden Gegend der Gadarenes baten ihn, von ihnen zu gehen, denn sie hatten große Angst. Dann stieg er in das Boot und kehrte zurück. Aber der Mann, aus dem die Dämonen ausgefahren waren, bat ihn, dass er mit ihm gehen dürfe; aber Jesus wies ihn zurück und sagte: „Geh nach Hause und verkünde, welche großen Dinge Gott an dir getan hat.“ Er ging seinen Weg und verkündete in der ganzen Stadt, welche großen Dinge Jesus an ihm getan hatte.
+
+Als Jesus zurückkam, empfing ihn die Menge, denn sie warteten alle auf ihn. Siehe, ein Mann namens Jairus kam. Er war ein Oberster der Synagoge. Er fiel zu Jesu Füßen und bat ihn, in sein Haus zu kommen, denn er hatte eine einzige Tochter, etwa zwölf Jahre alt, und sie lag im Sterben. Während er ging, drängten die Menschenmengen gegen ihn. Eine Frau, die seit zwölf Jahren an Blutfluss litt und ihr ganzes Vermögen für Ärzte ausgegeben hatte und von niemandem geheilt werden konnte, kam hinter ihm her und berührte den Saum seines Gewandes. Sofort hörte der Blutfluss auf.
+
+Jesus sagte: „Wer hat mich berührt?“
+
+Als alle es leugneten, sagten Petrus und die bei ihm waren: „Meister, die Menschenmengen drängen und schubsen dich, und du sagst: ‚Wer hat mich berührt?‘“
+
+Aber Jesus sagte: „Jemand hat mich berührt, denn ich habe gespürt, dass Kraft von mir ausgegangen ist.“ Als die Frau sah, dass sie nicht verborgen blieb, kam sie zitternd; und fiel vor ihm nieder und erklärte ihm vor all den Leuten den Grund, warum sie ihn berührt hatte und wie sie sofort geheilt worden war. Er sagte zu ihr: „Tochter, sei getrost. Dein Glaube hat dich geheilt. Geh in Frieden.“
+
+Während er noch sprach, kam einer von dem Haus des Obersten der Synagoge und sagte zu ihm: „Deine Tochter ist tot. Belästige den Lehrer nicht.“
+
+Aber Jesus hörte es und antwortete ihm: „Fürchte dich nicht. Glaube nur, und sie wird geheilt werden.“
+
+Als er zum Haus kam, ließ er niemanden hinein außer Petrus, Johannes, Jakobus, dem Vater des Kindes und ihrer Mutter. Alle weinten und trauerten um sie; aber er sagte: „Weint nicht. Sie ist nicht tot, sondern schläft.“
+
+Sie lachten ihn aus, weil sie wussten, dass sie tot war. Aber er wies sie alle hinaus und nahm sie bei der Hand und rief: „Kind, steh auf!“ Ihr Geist kehrte zurück, und sie stand sofort auf. Er befahl, ihr etwas zu essen zu geben. Ihre Eltern waren erstaunt; aber er befahl ihnen, niemandem zu erzählen, was geschehen war.
+
+### Kapitel 9
+
+Er rief die Zwölf zusammen und gab ihnen Macht und Autorität über alle Dämonen und zur Heilung von Krankheiten. Er sandte sie aus, um das Reich Gottes zu predigen und die Kranken zu heilen. Er sagte zu ihnen: „Nehmt nichts mit auf eure Reise – keine Stäbe, keine Geldbörse, kein Brot, kein Geld. Habt nicht zwei Gewänder. In welches Haus ihr auch eintretet, bleibt dort und zieht von dort weiter. So viele euch nicht empfangen, wenn ihr aus dieser Stadt geht, schüttelt sogar den Staub von euren Füßen als Zeugnis gegen sie ab.“
+
+Sie gingen weg und durchzogen die Dörfer und predigten die gute Nachricht und heilten überall.
+
+Nun hörte Herodes der Tetrarch von all dem, was durch ihn geschehen war; und er war sehr verwirrt, weil einige sagten, Johannes sei von den Toten auferstanden, andere sagten, Elia sei erschienen, und wieder andere sagten, einer der alten Propheten sei auferstanden. Herodes sagte: „Johannes habe ich enthauptet; aber wer ist dieser von dem ich solche Dinge höre?“ Er suchte ihn zu sehen.
+
+Die Apostel, als sie zurückgekehrt waren, berichteten ihm, was sie getan hatten.
+
+Er nahm sie und zog sich in eine einsame Gegend einer Stadt namens Bethsaida zurück. Aber die Menschenmengen, die es bemerkten, folgten ihm. Er empfing sie, sprach zu ihnen vom Reich Gottes und heilte die, die Heilung benötigten. Der Tag begann zu schwinden; und die Zwölf kamen und sagten zu ihm: „Schicke die Menge weg, damit sie in die umliegenden Dörfer und Höhlen gehen und Unterkunft und Nahrung finden, denn wir sind hier an einem einsamen Ort.“
+
+Aber er sagte zu ihnen: „Gebt ihr ihnen etwas zu essen.“
+
+Sie sagten: „Wir haben nicht mehr als fünf Brote und zwei Fische, es sei denn, wir sollten hingehen und Nahrung für all diese Leute kaufen.“ Denn es waren etwa fünftausend Männer.
+
+Er sagte zu seinen Jüngern: „Lasst sie sich in Gruppen von etwa fünfzig setzen.“ Sie taten es und ließen sie alle Platz nehmen. Er nahm die fünf Brote und die zwei Fische, blickte zum Himmel auf, segnete sie, brach sie und gab sie den Jüngern, um sie der Menge vorzulegen. Sie aßen und wurden alle satt. Sie sammelten zwölf Körbe mit den übrig gebliebenen Stücken.
+
+Als er allein betete, waren die Jünger in seiner Nähe, und er fragte sie: „Wer sagen die Menschenmengen, dass ich bin?“
+
+Sie antworteten: „‘Johannes der Täufer’, aber andere sagen: ‘Elia’, und wieder andere, dass einer der alten Propheten auferstanden ist.“
+
+Er sagte zu ihnen: „Aber wer sagt ihr, dass ich bin?“
+
+Petrus antwortete: „Der Christus Gottes.“
+
+Aber er warnte sie und befahl ihnen, dies niemandem zu sagen, indem er sagte: „Der Menschensohn muss viele Dinge leiden und von den Ältesten, den Obersten Priestern und den Schriftgelehrten verworfen werden und getötet werden und am dritten Tag auferstehen.“
+
+Er sagte zu allen: „Wenn jemand mir nachfolgen will, so verleugne er sich selbst, nehme sein Kreuz auf sich und folge mir nach. Denn wer sein Leben retten will, wird es verlieren; aber wer sein Leben um meinetwillen verliert, wird es retten. Denn was nützt es einem Menschen, wenn er die ganze Welt gewinnt und sich selbst verliert oder schadet? Denn wer sich meiner und meiner Worte schämt, dessen wird sich der Menschensohn schämen, wenn er in seiner Herrlichkeit kommt und in der Herrlichkeit des Vaters und der heiligen Engel. Aber ich sage euch die Wahrheit: Es sind einige von denen, die hier stehen, die auf keinen Fall den Tod schmecken werden, bis sie das Reich Gottes sehen.“
+
+Etwa acht Tage nach diesen Worten nahm er Petrus, Johannes und Jakobus mit sich und ging auf den Berg zum Beten. Während er betete, wurde das Aussehen seines Gesichts verändert, und seine Kleidung wurde weiß und strahlend. Siehe, zwei Männer redeten mit ihm, die waren Mose und Elia, die in Herrlichkeit erschienen und von seinem Abschied sprachen, den er in Jerusalem vollbringen sollte.
+
+Nun waren Petrus und die mit ihm waren schwer von Schlaf, aber als sie ganz wach wurden, sahen sie seine Herrlichkeit und die zwei Männer, die bei ihm standen. Als diese sich von ihm trennten, sagte Petrus zu Jesus: „Meister, es ist gut für uns hier zu sein. Lass uns drei Zelte machen: eines für dich, eines für Mose und eines für Elia“, ohne zu wissen, was er sagte.
+
+Während er dies sagte, kam eine Wolke und überschattete sie; und sie fürchteten sich, als sie in die Wolke eintraten. Eine Stimme kam aus der Wolke und sprach: „Dies ist mein geliebter Sohn. Hört auf ihn!“ Als die Stimme kam, war Jesus allein zu finden. Sie schwiegen und sagten an diesen Tagen niemandem etwas von den Dingen, die sie gesehen hatten.
+
+Am nächsten Tag, als sie vom Berg hinabkamen, traf ihn eine große Menge. Siehe, ein Mann aus der Menge rief: „Lehrer, ich bitte dich, schau auf meinen Sohn, denn er ist mein einzig geborener Sohn. Siehe, ein Geist nimmt ihn; er schreit plötzlich auf und wirft ihn heftig nieder, sodass er schäumt; und der Geist verlässt ihn kaum und fügt ihm schwere Verletzungen zu. Ich bat deine Jünger, ihn auszutreiben, aber sie konnten es nicht.“
+
+Jesus antwortete: „Ungläubige und verkehrte Generation, wie lange soll ich bei euch sein und euch ertragen? Bring deinen Sohn hierher.“
+
+Während er noch kam, warf der Dämon ihn nieder und quälte ihn heftig. Aber Jesus wies den unreinen Geist zurecht, heilte den Jungen und gab ihn seinem Vater zurück. Sie waren alle erstaunt über die Majestät Gottes.
+
+Aber während alle über all die Dinge staunten, die Jesus tat, sagte er zu seinen Jüngern: „Lasst diese Worte in eure Ohren eindringen, denn der Menschensohn wird in die Hände der Menschen überliefert werden.“ Aber sie verstanden dieses Wort nicht. Es war ihnen verborgen, sodass sie es nicht wahrnahmen, und sie fürchteten sich, ihn nach diesem Wort zu fragen.
+
+Es entstand ein Streit unter ihnen, wer von ihnen der Größte sei. Jesus, der die Überlegungen ihrer Herzen erkannte, nahm ein kleines Kind und stellte es an seine Seite und sagte zu ihnen: „Wer dieses kleine Kind in meinem Namen empfängt, empfängt mich. Und wer mich empfängt, empfängt den, der mich gesandt hat. Denn wer unter euch allen der Geringste ist, der wird groß sein.“
+
+Johannes antwortete: „Meister, wir sahen jemanden, der Dämonen in deinem Namen austreibt, und wir verboten ihm, weil er nicht mit uns folgt.“
+
+Jesus sagte zu ihm: „Verbietet ihm nicht, denn wer nicht gegen uns ist, ist für uns.“
+
+Es geschah, als die Tage nahe waren, dass er aufgenommen werden sollte, wandte er sein Gesicht entschlossen nach Jerusalem und sandte Boten vor sich her. Sie gingen und traten in ein Dorf der Samariter ein, um für ihn vorzubereiten. Sie empfingen ihn nicht, weil er mit dem Gesicht nach Jerusalem reiste. Als seine Jünger Jakobus und Johannes dies sahen, sagten sie: „Herr, willst du, dass wir Feuer vom Himmel herabbefehlen und sie vernichten, wie es Elia tat?“
+
+Aber er wandte sich um und wies sie zurecht: „Ihr wisst nicht, von welchem Geist ihr seid. Denn der Menschensohn ist nicht gekommen, um das Leben der Menschen zu zerstören, sondern um sie zu retten.“
+
+Sie gingen in ein anderes Dorf. Während sie auf dem Weg waren, sagte ein gewisser Mann zu ihm: „Ich will dir folgen, wohin du auch gehst, Herr.“
+
+Jesus sagte zu ihm: „Die Füchse haben Löcher und die Vögel des Himmels haben Nester, aber der Menschensohn hat keinen Ort, wo er sein Haupt hinlegen kann.“
+
+Er sagte zu einem anderen: „Folge mir!“
+
+Aber er sagte: „Herr, lass mich zuerst gehen und meinen Vater begraben.“
+
+Jesus sagte zu ihm: „Lass die Toten ihre eigenen Toten begraben; aber du geh und verkünde das Reich Gottes.“
+
+Ein anderer sagte auch: „Ich will dir folgen, Herr, aber lass mich zuerst Abschied von denen nehmen, die in meinem Haus sind.“
+
+Aber Jesus sagte zu ihm: „Niemand, der seine Hand an den Pflug legt und zurückblickt, ist tauglich für das Reich Gottes.“
+
+### Kapitel 10
+
+Nachdem diese Dinge geschehen waren, ernannte der Herr auch siebzig andere und sandte sie zwei und zwei vor sich her in jede Stadt und an jeden Ort, wo er hingehen wollte. Dann sagte er zu ihnen: „Die Ernte ist zwar groß, aber die Arbeiter sind wenige. Bittet daher den Herrn der Ernte, dass er Arbeiter in seine Ernte sende. Geht euren Weg. Siehe, ich sende euch wie Lämmer unter Wölfe. Nehmt keine Geldbörse mit, noch Tasche, noch Sandalen. Grüßt niemand auf dem Weg. In welches Haus ihr auch eintretet, sagt zuerst: ‚Friede sei diesem Haus.‘ Wenn dort ein Sohn des Friedens ist, wird euer Frieden auf ihm ruhen; wenn nicht, wird er zu euch zurückkehren. Bleibt in demselben Haus und esst und trinkt das, was sie euch geben; denn der Arbeiter ist seiner Lohn wert. Geht nicht von Haus zu Haus. In welche Stadt ihr auch eintretet und sie euch empfangen, esst das, was euch vorgesetzt wird. Heilt die Kranken, die dort sind, und sagt ihnen: ‚Das Reich Gottes ist euch nahe gekommen.‘ In welche Stadt ihr auch eintretet und sie euch nicht empfangen, geht auf die Straßen hinaus und sagt: ‚Sogar den Staub eurer Stadt, der an uns haftet, wischen wir gegen euch ab. Dennoch wisst dies: Das Reich Gottes ist euch nahe gekommen.‘ Ich sage euch: Es wird an jenem Tag für Sodom erträglicher sein als für diese Stadt.
+
+„Wehe dir, Chorazin! Wehe dir, Bethsaida! Denn wenn die mächtigen Werke in Tyrus und Sidon geschehen wären, die bei euch geschehen sind, hätten sie längst Buße getan und in Sack und Asche gesessen. Aber es wird Tyrus und Sidon im Gericht erträglicher ergehen als euch. Du Kapernaum, die du bis zum Himmel erhoben bist, wirst bis zur Hölle hinabgestoßen werden. Wer euch hört, hört mich; und wer euch verachtet, verachtet mich. Wer mich verachtet, verachtet den, der mich gesandt hat.“
+
+Die Siebzig kamen mit Freude zurück und sagten: „Herr, sogar die Dämonen sind uns in deinem Namen untertan!“
+
+Er sagte zu ihnen: „Ich sah den Satan wie einen Blitz vom Himmel fallen. Siehe, ich gebe euch die Vollmacht, auf Schlangen und Skorpione zu treten und über alle Macht des Feindes. Nichts wird euch in irgendeiner Weise schaden. Dennoch freut euch nicht darüber, dass die Geister euch untertan sind, sondern freut euch, dass eure Namen im Himmel geschrieben sind.“
+
+In derselben Stunde freute sich Jesus im Heiligen Geist und sagte: „Ich danke dir, o Vater, Herr des Himmels und der Erde, dass du diese Dinge den Weisen und Verständigen verborgen hast und sie den Kleinen offenbart hast. Ja, Vater, denn so war es wohlgefällig in deinen Augen.“
+
+Er wandte sich an die Jünger und sagte: „Alle Dinge sind mir von meinem Vater übergeben worden. Niemand weiß, wer der Sohn ist, außer dem Vater, und wer der Vater ist, außer dem Sohn und dem, dem der Sohn ihn offenbaren will.“
+
+Er wandte sich privat an die Jünger und sagte: „Selig sind die Augen, die die Dinge sehen, die ihr seht; denn ich sage euch, dass viele Propheten und Könige wünschten, die Dinge zu sehen, die ihr seht, und sie nicht sahen, und die Dinge zu hören, die ihr hört, und sie nicht hörten.“
+
+Siehe, ein gewisser Gesetzesgelehrter stand auf und versuchte ihn und sagte: „Lehrer, was muss ich tun, um das ewige Leben zu erben?“
+
+Er sagte zu ihm: „Was steht im Gesetz? Wie liest du es?“
+
+Er antwortete: „Du sollst den Herrn, deinen Gott, lieben mit ganzem Herzen, mit ganzer Seele, mit all deiner Kraft und mit all deinem Verstand; und deinen Nächsten wie dich selbst.“
+
+Er sagte zu ihm: „Du hast richtig geantwortet. Tu dies, und du wirst leben.“
+
+Aber er, der sich selbst rechtfertigen wollte, fragte Jesus: „Wer ist mein Nächster?“
+
+Jesus antwortete: „Ein gewisser Mann ging von Jerusalem nach Jericho hinab und fiel unter Räuber, die ihn auszogen und schlugen und ihn halbtot liegen ließen. Zufällig kam ein gewisser Priester denselben Weg hinab; als er ihn sah, ging er auf der anderen Seite vorbei. Ebenso kam auch ein Levit an den Ort; als er ihn sah, ging er auf der anderen Seite vorbei. Aber ein gewisser Samariter, der auf seiner Reise war, kam zu ihm; als er ihn sah, hatte er Mitleid mit ihm. Er ging zu ihm hin, verband seine Wunden und goss Öl und Wein darauf. Er setzte ihn auf sein eigenes Tier, brachte ihn in eine Herberge und sorgte für ihn. Am nächsten Tag nahm er zwei Denare heraus, gab sie dem Wirt und sagte: ‚Sorge für ihn. Was immer du darüber hinaus ausgibst, werde ich dir zurückzahlen, wenn ich zurückkomme.‘ Welcher von diesen dreien meinst du, war ein Nächster für den, der unter die Räuber gefallen ist?“
+
+Er sagte: „Derjenige, der Barmherzigkeit an ihm zeigte.“
+
+Dann sagte Jesus zu ihm: „Gehe hin und tue ebenso.“
+
+Als sie ihren Weg fortsetzten, trat er in ein gewisses Dorf ein; und eine gewisse Frau namens Martha nahm ihn in ihr Haus auf. Sie hatte eine Schwester namens Maria, die auch zu Jesu Füßen saß und sein Wort hörte. Aber Martha war mit vielen Diensten beschäftigt; sie trat zu ihm und sagte: „Herr, kümmert es dich nicht, dass meine Schwester mich allein dienen lässt? Sage ihr daher, dass sie mir helfen soll.“
+
+Jesus antwortete ihr: „Martha, Martha, du bist besorgt und beunruhigt über viele Dinge; aber eines ist nötig. Maria hat den guten Teil gewählt, der ihr nicht genommen werden wird.“
+
+### Kapitel 11
+
+Als er an einem bestimmten Ort das Gebet beendet hatte, sagte einer seiner Jünger zu ihm: „Herr, lehre uns zu beten, wie auch Johannes seine Jünger lehrte.“
+
+Er sagte zu ihnen: „Wenn ihr betet, sagt:
+
+„Vater unser im Himmel,
+
+geheiligt werde dein Name.
+
+Dein Reich komme.
+
+Dein Wille geschehe auf Erden wie im Himmel.
+
+Gib uns täglich unser Brot.
+
+Vergib uns unsere Sünden,
+
+denn auch wir vergeben jedem, der uns etwas schuldig ist.
+
+Führe uns nicht in Versuchung,
+
+sondern erlöse uns von dem Bösen.““
+
+Er sagte zu ihnen: „Welcher von euch wird einen Freund haben und wird zu ihm gehen mitten in der Nacht und ihm sagen: ‚Freund, leihe mir drei Brote; denn ein Freund von mir ist von einer Reise zu mir gekommen und ich habe nichts, was ich ihm vorsetzen kann‘; und der von drinnen wird antworten und sagen: ‚Belästige mich nicht. Die Tür ist jetzt geschlossen und meine Kinder sind mit mir im Bett. Ich kann nicht aufstehen und dir geben‘? Ich sage euch: Wenn er auch nicht aufsteht und ihm gibt, weil er sein Freund ist, so wird er doch wegen seiner Unverschämtheit aufstehen und ihm so viel geben, wie er braucht.“
+
+„Ich sage euch, bittet, und es wird euch gegeben. Sucht, und ihr werdet finden. Klopft an, und es wird euch geöffnet. Denn jeder, der bittet, empfängt. Wer sucht, findet. Und dem, der anklopft, wird geöffnet.
+
+„Welcher von euch Vätern, wenn sein Sohn um Brot bittet, wird ihm einen Stein geben? Oder wenn er um einen Fisch bittet, wird er ihm anstelle eines Fisches eine Schlange geben? Oder wenn er um ein Ei bittet, wird er ihm einen Skorpion geben? Wenn ihr nun, die ihr böse seid, wisst, wie man guten Gaben euren Kindern gibt, wie viel mehr wird der himmlische Vater den Heiligen Geist denen geben, die ihn bitten?“
+
+Er trieb einen Dämon aus, und dieser war stumm. Als der Dämon ausgefahren war, sprach der Stumme; und die Menschenmengen staunten. Einige von ihnen sagten jedoch: „Er treibt die Dämonen durch Beelzebul, den Fürsten der Dämonen, aus.“ Andere, die ihn auf die Probe stellen wollten, forderten von ihm ein Zeichen vom Himmel. Er aber kannte ihre Gedanken und sagte zu ihnen: „Jedes Reich, das mit sich selbst geteilt ist, wird verwüstet. Ein Haus, das mit sich selbst geteilt ist, fällt. Wenn auch Satan mit sich selbst geteilt ist, wie wird sein Reich bestehen? Denn ihr sagt, dass ich die Dämonen durch Beelzebul austreibe. Wenn ich die Dämonen durch Beelzebul austreibe, durch wen treiben eure Kinder sie aus? Daher werden sie eure Richter sein. Wenn ich aber die Dämonen durch den Finger Gottes austreibe, dann ist das Reich Gottes zu euch gekommen.
+
+„Wenn der starke Mann, vollständig bewaffnet, seine eigene Wohnung bewacht, sind seine Güter sicher. Wenn aber jemand stärker ist als er und ihn überwindet, nimmt er ihm seine ganze Rüstung weg, auf die er vertraute, und verteilt seine Beute.
+
+„Wer nicht mit mir ist, ist gegen mich. Und wer nicht mit mir sammelt, zerstreut.
+
+Der unreine Geist, wenn er aus dem Menschen ausgefahren ist, zieht durch trockene Orte und sucht Ruhe; und findet er keine, sagt er: ‚Ich will in mein Haus zurückkehren, aus dem ich ausgefahren bin.‘ Wenn er zurückkommt, findet er es gefegt und in Ordnung. Dann geht er hin und nimmt sieben andere Geister mit sich, die böser sind als er selbst; und sie treten ein und wohnen dort. Der letzte Zustand dieses Menschen wird schlimmer als der erste.“
+
+Es geschah aber, als er diese Dinge sagte, dass eine bestimmte Frau aus der Menge ihre Stimme erhob und zu ihm sagte: „Selig ist der Leib, der dich getragen hat, und die Brüste, die dich genährt haben!“
+
+Er aber sagte: „Im Gegenteil, selig sind die, die das Wort Gottes hören und bewahren.“
+
+Als sich die Menschenmengen um ihn versammelten, begann er zu sagen: „Diese Generation ist ein böses Geschlecht. Sie sucht nach einem Zeichen. Es wird ihr kein Zeichen gegeben werden außer dem Zeichen des Propheten Jona. Denn wie Jona ein Zeichen für die Niniviten wurde, so wird auch der Menschensohn für diese Generation sein. Die Königin des Südens wird im Gericht mit den Männern dieser Generation aufstehen und sie verurteilen; denn sie kam von den Enden der Erde, um die Weisheit Salomos zu hören; und siehe, einer ist hier größer als Salomo. Die Männer von Ninive werden im Gericht mit dieser Generation aufstehen und sie verurteilen; denn sie taten Buße bei der Predigt des Jona; und siehe, einer ist hier größer als Jona.
+
+„Niemand zündet eine Lampe an und stellt sie in einen Keller oder unter einen Eimer, sondern auf einen Leuchter, damit alle, die hineinkommen, das Licht sehen können. Die Lampe des Körpers ist das Auge. Wenn dein Auge gesund ist, so ist dein ganzer Körper voll Licht; wenn es aber böse ist, so ist dein Körper voll Dunkelheit. Sieh also zu, ob das Licht in dir nicht Dunkelheit ist. Wenn dein ganzer Körper voll Licht ist und keinen Teil dunkel ist, wird er ganz voll Licht sein, wie wenn die Lampe mit ihrem hellen Schein dir Licht gibt.“
+
+Als er sprach, bat ihn ein gewisser Pharisäer zu Tisch. Er ging hinein und setzte sich zu Tisch. Als der Pharisäer sah, wunderte er sich, dass er sich nicht zuerst gewaschen hatte vor dem Essen. Der Herr sagte zu ihm: „Ihr Pharisäer reinigt das Äußere des Bechers und des Tellers; euer Inneres aber ist voll Raub und Bosheit. Ihr Toren! Hat nicht derjenige, der das Äußere gemacht hat, auch das Innere gemacht? Gebt vielmehr Almosen von dem, was in euch ist; dann wird euch alles rein sein. Aber wehe euch Pharisäern! Denn ihr zehntet Minze und Raute und alle Kräuter; aber ihr überspringt die Gerechtigkeit und die Liebe Gottes. Diese Dinge hättet ihr tun sollen und jene nicht lassen sollen. Wehe euch Pharisäern! Denn ihr liebt die besten Sitze in den Synagogen und die Grüße auf den Märkten. Wehe euch Schriftgelehrte und Pharisäer, Heuchler! Denn ihr seid wie verborgene Gräber; und die Menschen, die darüber gehen, wissen es nicht.“
+
+Einer der Juristen antwortete ihm: „Lehrer, indem du das sagst, beleidigst du auch uns.“
+
+Er sagte: „Wehe euch, Juristen! Denn ihr beladet die Menschen mit Lasten, die schwer zu tragen sind, und ihr selbst wollt nicht einmal mit einem Finger helfen, diese Lasten zu tragen. Wehe euch! Denn ihr baut die Gräber der Propheten, und eure Väter haben sie getötet. So bezeugt ihr und stimmt den Werken eurer Väter zu. Denn sie haben sie getötet, und ihr baut ihre Gräber. Deshalb hat auch die Weisheit Gottes gesagt: ‚Ich werde ihnen Propheten und Apostel senden; und einige von ihnen werden sie töten und verfolgen, damit das Blut aller Propheten, das seit der Grundlegung der Welt vergossen wurde, von dieser Generation gefordert wird, vom Blut Abels bis zum Blut Zacharias, der zwischen dem Altar und dem Heiligtum umgekommen ist.‘ Ja, ich sage euch, es wird von dieser Generation gefordert werden. Wehe euch, Juristen! Denn ihr habt den Schlüssel des Wissens weggenommen. Ihr seid selbst nicht hineingegangen, und die, die hineingehen wollten, habt ihr daran gehindert.“
+
+Als er ihnen dies sagte, begannen die Schriftgelehrten und die Pharisäer, furchtbar wütend zu werden und viele Dinge aus ihm herauszuziehen, indem sie ihm auflauerten und versuchten, ihn in etwas zu fangen, das er sagen könnte, um ihn anzuklagen.
+
+### Kapitel 12
+
+Inzwischen, als sich eine Menge von vielen Tausenden versammelt hatte, sodass sie einander traten, begann er zuerst zu seinen Jüngern zu sagen: „Hütet euch vor der Hefe der Pharisäer, die Heuchelei ist. Aber es gibt nichts Verhülltes, das nicht offenbart wird, noch verborgen, das nicht bekannt wird. Deshalb wird alles, was ihr im Dunkeln gesagt habt, im Licht gehört werden. Was ihr ins Ohr in den inneren Räumen gesprochen habt, wird auf den Dächern verkündet werden.
+
+„Ich sage euch, meine Freunde, fürchtet euch nicht vor denen, die den Körper töten können und danach nichts mehr tun können. Aber ich will euch warnen, wem ihr fürchten sollt. Fürchtet den, der nach dem Töten die Macht hat, in die Hölle zu werfen. Ja, ich sage euch, fürchtet ihn.
+
+„Werden nicht fünf Spatzen für zwei Assaria-Münzen verkauft? Nicht einer von ihnen wird von Gott vergessen. Aber die Haare eures Hauptes sind alle gezählt. Fürchtet euch also nicht. Ihr seid von mehr Wert als viele Spatzen.
+
+„Ich sage euch, jeder, der mich vor den Menschen bekennt, den wird auch der Sohn des Menschen vor den Engeln Gottes bekennen; aber wer mich vor den Menschen verleugnet, wird in Gegenwart der Engel Gottes verleugnet werden. Jeder, der ein Wort gegen den Sohn des Menschen spricht, wird vergeben werden; aber diejenigen, die gegen den Heiligen Geist lästern, werden nicht vergeben werden. Wenn sie euch vor die Synagogen bringen und vor die Herrscher und die Behörden, seid nicht besorgt darüber, wie oder was ihr antworten oder was ihr sagen werdet; denn der Heilige Geist wird euch in derselben Stunde lehren, was ihr sagen müsst.“
+
+Einer aus der Menge sagte zu ihm: „Lehrer, sag meinem Bruder, dass er das Erbe mit mir teilen soll.“
+
+Aber er sagte zu ihm: „Mensch, wer hat mich zum Richter oder Schlichter über euch gemacht?“ Er sagte zu ihnen: „Hütet euch! Haltet euch fern von Habgier; denn das Leben eines Menschen besteht nicht in der Fülle der Dinge, die er besitzt.“
+
+Er sprach ein Gleichnis zu ihnen und sagte: „Das Feld eines bestimmten reichen Mannes brachte reichlich Frucht. Er dachte bei sich selbst: ‚Was werde ich tun? Denn ich habe keinen Raum, um meine Ernte zu lagern.‘ Er sagte: ‚Das werde ich tun. Ich werde meine Scheunen abbrechen und größere bauen; dort werde ich all mein Getreide und meine Güter lagern. Ich werde zu meiner Seele sagen: „Seele, du hast viele Güter für viele Jahre angesammelt. Ruh dich aus, iss, trink und sei fröhlich.“‘
+
+„Aber Gott sagte zu ihm: ‚Du Tor! In dieser Nacht wird deine Seele von dir gefordert. Was du vorbereitet hast – wessen wird es sein?‘ So ist es mit dem, der sich Schätze für sich selbst sammelt und nicht reich ist gegenüber Gott.“
+
+Er sagte zu seinen Jüngern: „Darum sage ich euch: Seid nicht besorgt um euer Leben, was ihr essen werdet; noch um euren Körper, was ihr anziehen werdet. Das Leben ist mehr als Nahrung und der Körper mehr als Kleidung. Betrachtet die Raben: Sie säen nicht und ernten nicht; sie haben kein Lagerhaus oder Scheune; und Gott ernährt sie. Wie viel wertvoller seid ihr als die Vögel! Wer von euch kann durch Sorgen seiner Größe auch nur eine Elle hinzufügen? Wenn ihr also nicht einmal das Geringste tun könnt, warum seid ihr dann um das Übrige besorgt? Betrachtet die Lilien, wie sie wachsen. Sie arbeiten nicht und spinnen nicht; doch ich sage euch: Selbst Salomo in all seiner Herrlichkeit war nicht gekleidet wie eine von diesen. Wenn nun Gott das Gras auf dem Feld so kleidet, das heute da ist und morgen in den Ofen geworfen wird, wie viel mehr wird er euch kleiden, o ihr Kleingläubigen?
+
+„Sucht nicht, was ihr essen oder trinken werdet; seid auch nicht besorgt. Denn die Nationen der Welt suchen nach all diesen Dingen, aber euer Vater weiß, dass ihr diese Dinge braucht. Sucht aber das Reich Gottes, und all diese Dinge werden euch hinzugefügt werden.
+
+„Fürchtet euch nicht, kleine Herde, denn es ist des Vaters Wohlgefallen, euch das Reich zu geben. Verkauft, was ihr habt, und gebt Almosen. Macht euch Geldbörsen, die nicht alt werden, einen Schatz im Himmel, der nicht vergeht, wo kein Dieb hinkommt und kein Motten ihn zerstört. Denn wo euer Schatz ist, da wird auch euer Herz sein.
+
+„Lasst eure Hüften gegürtet und eure Lampen brennen. Seid wie Männer, die auf ihren Herrn warten, wenn er von der Hochzeitsfeier zurückkommt, damit sie ihm sofort öffnen können, wenn er kommt und klopft. Selig sind jene Diener, die der Herr finden wird, wenn er kommt. Wahrlich, ich sage euch, er wird sich umgürten, sie zu Tisch bringen und kommen und ihnen dienen. Sie werden gesegnet sein, wenn er in der zweiten oder dritten Nachtwache kommt und sie so findet. Aber wisst dies: Wenn der Hausherr gewusst hätte, in welcher Stunde der Dieb kommt, hätte er gewacht und nicht erlaubt, dass sein Haus aufgebrochen wird. Seid also auch bereit, denn der Sohn des Menschen kommt zu einer Stunde, die ihr nicht erwartet.“
+
+Petrus sagte zu ihm: „Herr, sagst du dieses Gleichnis zu uns oder zu allen?“
+
+Der Herr sagte: „Wer ist nun der treue und weise Verwalter, den sein Herr über sein Haus setzen wird, um ihnen zur rechten Zeit ihre Portion Nahrung zu geben? Selig ist jener Diener, den sein Herr finden wird, wenn er kommt. Wahrlich, ich sage euch, er wird ihn über alles setzen, was er hat. Wenn aber jener Diener in seinem Herzen sagt: ‚Mein Herr verzögert sein Kommen‘ und anfängt, die Knechte und Mägde zu schlagen und zu essen und zu trinken und sich zu berauschen, dann wird der Herr jenes Dieners an einem Tag kommen, an dem er ihn nicht erwartet und in einer Stunde, die er nicht kennt, und wird ihn in zwei schneiden und seinen Anteil mit den Untreuen setzen. Jener Diener, der den Willen seines Herrn kannte und sich nicht vorbereitete noch tat, was er wollte, wird mit vielen Schlägen geschlagen werden; aber wer es nicht wusste und Dinge tat, die Schläge wert sind, wird mit wenigen Schlägen geschlagen werden. Wem viel gegeben ist, von dem wird viel verlangt werden; und wem viel anvertraut wurde, von dem wird mehr gefordert werden.
+
+„Ich bin gekommen, um Feuer auf die Erde zu werfen. Ich wünschte, es wäre schon entzündet. Aber ich habe eine Taufe, mit der ich getauft werden muss; und wie bedrängt bin ich, bis sie vollbracht ist! Denkt ihr, dass ich gekommen bin, um Frieden auf die Erde zu bringen? Ich sage euch: Nein, sondern vielmehr Spaltung. Denn von nun an werden fünf in einem Haus geteilt sein: drei gegen zwei und zwei gegen drei. Sie werden geteilt sein: Vater gegen Sohn und Sohn gegen Vater; Mutter gegen Tochter und Tochter gegen ihre Mutter; Schwiegermutter gegen ihre Schwiegertochter und Schwiegertochter gegen ihre Schwiegermutter.“
+
+Er sagte auch zu den Menschenmengen: „Wenn ihr einen Wolkenhorizont aus dem Westen aufsteigen seht, sagt ihr sofort: ‚Ein Regenschauer kommt‘; und so geschieht es. Wenn ein Südwind weht, sagt ihr: ‚Es wird heiße Witterung geben‘; und es geschieht. Ihr Heuchler! Ihr wisst, wie man das Aussehen der Erde und des Himmels deuten kann; aber wie kommt es, dass ihr diese Zeit nicht deutet?
+
+„Warum urteilt ihr nicht selbst darüber, was recht ist? Denn wenn ihr mit eurem Widersacher vor den Richter geht, versucht auf dem Weg eifrig, von ihm loszukommen; damit er euch vielleicht nicht zum Richter zieht und der Richter euch dem Beamten übergibt und der Beamte euch ins Gefängnis wirft. Ich sage euch: Ihr werdet von dort auf keinen Fall herauskommen, bis ihr den letzten Pfennig bezahlt habt.“
+
+### Kapitel 13
+
+Es waren aber einige anwesend, die ihm von den Galiläern erzählten, deren Blut Pilatus mit ihren Opfern vermischt hatte. Jesus antwortete ihnen: „Denkt ihr, dass diese Galiläer schlimmere Sünder waren als alle anderen Galiläer, weil sie solche Dinge erlitten haben? Ich sage euch: Nein; sondern wenn ihr euch nicht bekehrt, werdet ihr alle ebenso umkommen. Oder jene achtzehn, auf die der Turm in Siloah fiel und sie tötete – denkt ihr, dass sie schlimmere Übeltäter waren als alle Menschen, die in Jerusalem wohnen? Ich sage euch: Nein; sondern wenn ihr euch nicht bekehrt, werdet ihr alle ebenso umkommen.“
+
+Er sprach dieses Gleichnis: „Ein gewisser Mann hatte einen Feigenbaum in seinem Weinberg gepflanzt, und er kam, um Früchte daran zu suchen, und fand keine. Er sagte zu dem Weingärtner: ‚Siehe, diese drei Jahre bin ich gekommen, um Früchte an diesem Feigenbaum zu suchen, und fand keine. Fällt ihn um! Warum lässt er den Boden ungenutzt?‘ Er antwortete: ‚Herr, lass ihn dieses Jahr auch stehen, bis ich um ihn grabe und ihn düngen kann. Wenn er Früchte trägt, gut; wenn nicht, kannst du ihn danach umhauen.‘“
+
+Er lehrte an einem Sabbat in einer der Synagogen. Siehe, da war eine Frau, die seit achtzehn Jahren einen Geist der Krankheit hatte. Sie war gekrümmt und konnte sich in keiner Weise aufrichten. Als Jesus sie sah, rief er sie zu sich und sagte zu ihr: „Frau, du bist von deiner Krankheit befreit.“ Er legte ihr die Hände auf, und sofort richtete sie sich auf und verherrlichte Gott.
+
+Der Synagogenvorsteher war verärgert, weil Jesus am Sabbat geheilt hatte, und sagte zur Menge: „Es gibt sechs Tage, an denen man arbeiten sollte. Kommt an diesen Tagen und lasst euch heilen, aber nicht am Sabbat!“
+
+Darauf antwortete der Herr ihm: „Ihr Heuchler! Befreit nicht jeder von euch seinen Ochsen oder seinen Esel am Sabbat aus der Futterstätte und führt ihn zum Trinken? Sollte nicht diese Frau, die eine Tochter Abrahams ist und die Satan seit achtzehn langen Jahren gebunden hat, am Sabbat von dieser Bindung befreit werden?“
+
+Als er dies sagte, waren alle seine Widersacher enttäuscht; und die ganze Menge freute sich über all die herrlichen Dinge, die durch ihn geschehen waren.
+
+Er sagte: „Wie ist das Reich Gottes? Mit was soll ich es vergleichen? Es ist wie ein Senfkorn, das ein Mann nahm und in seinen eigenen Garten pflanzte. Es wuchs und wurde ein großer Baum, und die Vögel des Himmels wohnen in seinen Zweigen.“
+
+Wieder sagte er: „Mit was soll ich das Reich Gottes vergleichen? Es ist wie Sauerteig, den eine Frau nahm und in drei Maß Mehl verbarg, bis es ganz durchsäuert war.“
+
+Er ging auf seinem Weg durch Städte und Dörfer, lehrte und reiste nach Jerusalem. Einer sagte zu ihm: „Herr, sind es wenige, die gerettet werden?“
+
+Er sagte zu ihnen: „Strebt danach, durch die enge Tür einzugehen; denn viele, sage ich euch, werden versuchen einzugehen und werden nicht können. Wenn einmal der Hausherr aufgestanden ist und die Tür geschlossen hat und ihr draußen steht und an die Tür klopft und sagt: ‚Herr, Herr, öffne uns!‘, dann wird er antworten und euch sagen: ‚Ich kenne euch nicht oder woher ihr kommt.‘ Dann werdet ihr anfangen zu sagen: ‚Wir haben in deiner Gegenwart gegessen und getrunken, und du hast in unseren Straßen gelehrt.‘ Er wird sagen: ‚Ich sage euch, ich kenne nicht, woher ihr kommt. Weicht von mir, alle ihr Übeltäter!‘ Dort wird Weinen und Zähneknirschen sein, wenn ihr Abraham, Isaak, Jakob und alle Propheten im Reich Gottes seht und euch selbst draußen geworfen werdet. Sie werden von Osten, Westen, Norden und Süden kommen und werden im Reich Gottes Platz nehmen. Siehe, es gibt einige, die zuletzt sind, die werden zuerst sein; und es gibt einige, die zuerst sind, die werden zuletzt sein.“
+
+An demselben Tag kamen einige Pharisäer zu ihm und sagten: „Geh weg von hier und verschwinde, denn Herodes will dich töten.“
+
+Er sagte zu ihnen: „Geht und sagt dieser Füchsin: ‚Siehe, ich treibe heute und morgen Dämonen aus und vollbringe Heilungen, und am dritten Tag vollende ich meine Mission. Dennoch muss ich heute und morgen und den folgenden Tag weiterziehen; denn es kann nicht sein, dass ein Prophet außerhalb von Jerusalem umkommt.‘
+
+„Jerusalem, Jerusalem, du, die du die Propheten tötst und steinigst, die zu dir gesandt sind! Wie oft wollte ich deine Kinder versammeln, wie eine Henne ihre Küken unter ihre Flügel versammelt; aber ihr habt nicht gewollt! Siehe, euer Haus ist euch öde gelassen. Ich sage euch: Ihr werdet mich nicht sehen, bis ihr sagt: ‚Gesegnet sei der, der im Namen des Herrn kommt!‘“
+
+### Kapitel 14
+
+Als er am Sabbat in das Haus eines der Vorsteher der Pharisäer ging, um Brot zu essen, beobachteten sie ihn. Siehe, ein gewisser Mann mit Wassersucht war vor ihm. Jesus sprach zu den Schriftgelehrten und Pharisäern und fragte: „Ist es erlaubt, am Sabbat zu heilen?“
+
+Aber sie schwiegen.
+
+Er nahm ihn und heilte ihn und ließ ihn gehen. Er antwortete ihnen: „Welcher von euch, wenn sein Sohn oder ein Ochse in einen Brunnen fällt, würde ihn nicht sofort am Sabbat herausziehen?“
+
+Sie konnten ihm über diese Dinge keine Antwort geben.
+
+Er sprach ein Gleichnis zu denen, die eingeladen waren, als er bemerkte, wie sie die besten Plätze wählten, und sagte zu ihnen: „Wenn du von jemandem zu einem Hochzeitsmahl eingeladen wirst, setze dich nicht an den besten Platz, denn vielleicht ist jemand ehrenwerter als du eingeladen worden, und der, der euch beide eingeladen hat, könnte kommen und dir sagen: ‚Mach Platz für diese Person.‘ Dann würdest du, beschämt, anfangen, den niedrigsten Platz einzunehmen. Wenn du aber eingeladen wirst, gehe und setze dich an den niedrigsten Platz, damit der, der dich eingeladen hat, kommt und dir sagt: ‚Freund, rücke höher.‘ Dann wirst du in der Gegenwart aller, die mit dir am Tisch sitzen, geehrt werden. Denn jeder, der sich selbst erhebt, wird erniedrigt werden, und wer sich selbst erniedrigt, wird erhöht werden.“
+
+Er sagte auch zu dem, der ihn eingeladen hatte: „Wenn du ein Abendessen oder ein Mahl machst, rufe nicht deine Freunde, noch deine Brüder, noch deine Verwandten, noch reiche Nachbarn, damit sie dir vielleicht auch den Gefallen erwidern und dich zurückzahlen. Aber wenn du ein Fest machst, lade die Armen, die Verkrüppelten, die Lahmen oder die Blinden ein; und du wirst gesegnet sein, denn sie haben nicht die Mittel, um dir etwas zurückzugeben. Denn du wirst bei der Auferstehung der Gerechten zurückgezahlt werden.“
+
+Als einer von denen, die mit ihm am Tisch saßen, diese Dinge hörte, sagte er zu ihm: „Gesegnet ist der, der im Reich Gottes essen wird!“
+
+Aber er sagte zu ihm: „Ein gewisser Mann machte ein großes Abendessen und lud viele ein. Er sandte seinen Diener zur Abendessenszeit, um den Eingeladenen zu sagen: ‚Kommt, denn alles ist jetzt bereit.‘ Sie begannen alle einstimmig, sich zu entschuldigen.
+
+„Der erste sagte zu ihm: ‚Ich habe ein Feld gekauft und muss hinausgehen und es ansehen. Bitte entschuldige mich.‘
+
+„Ein anderer sagte: ‚Ich habe fünf Joch Ochsen gekauft und muss sie ausprobieren. Bitte entschuldige mich.‘
+
+„Ein weiterer sagte: ‚Ich habe eine Frau geheiratet und kann deshalb nicht kommen.‘
+
+„Der Diener kam zurück und berichtete seinem Herrn diese Dinge. Da wurde der Hausherr zornig und sagte zu seinem Diener: ‚Geh schnell hinaus auf die Straßen und Gassen der Stadt und bring die Armen, Verkrüppelten, Blinden und Lahmen herein.‘
+
+„Der Diener sagte: ‚Herr, es ist geschehen, wie du befohlen hast, und es ist immer noch Platz.‘
+
+„Der Herr sagte zu dem Diener: ‚Geh hinaus auf die Landstraßen und Zäune und zwinge sie hereinzukommen, damit mein Haus gefüllt wird. Denn ich sage euch: Keiner von jenen Männern, die eingeladen wurden, wird von meinem Abendessen kosten. Denn viele sind berufen, aber wenige sind auserwählt.‘“
+
+Nun gingen große Menschenmengen mit ihm. Er wandte sich um und sagte zu ihnen: „Wenn jemand zu mir kommt und seinen eigenen Vater, seine Mutter, seine Frau, seine Kinder, seine Brüder und Schwestern sowie sein eigenes Leben nicht verachtet, kann er mein Jünger nicht sein. Wer sein eigenes Kreuz nicht trägt und mir nachfolgt, kann mein Jünger nicht sein. Denn welcher von euch, der einen Turm bauen will, setzt sich nicht zuerst hin und zählt die Kosten, um zu sehen, ob er genug hat, um ihn zu vollenden? Oder vielleicht, wenn er das Fundament gelegt hat und nicht in der Lage ist zu vollenden, beginnen alle, die es sehen, ihn zu verspotten und sagen: ‚Dieser Mann hat begonnen zu bauen und konnte nicht vollenden.‘ Oder welcher König wird nicht zuerst hinsetzen und überlegen, ob er mit zehntausend gegen den kommt, der mit zwanzigtausend gegen ihn zieht? Oder während der andere noch weit entfernt ist, sendet er einen Gesandten und fragt nach Friedensbedingungen. So kann also keiner von euch mein Jünger sein, der nicht alles aufgibt, was er hat.
+
+„Salz ist gut; aber wenn das Salz fade wird und seinen Geschmack verliert, womit würzt man es? Es ist weder für den Boden noch für den Misthaufen geeignet. Es wird hinausgeworfen. Wer Ohren hat zu hören, der höre.“
+
+### Kapitel 15
+
+Nun kamen alle Zöllner und Sünder nahe zu ihm, um ihn zu hören. Die Pharisäer und die Schriftgelehrten murrten und sagten: „Dieser Mann empfängt Sünder und isst mit ihnen.“
+
+Er erzählte ihnen dieses Gleichnis: „Welcher von euch Männern, wenn er hundert Schafe hat und eines davon verliert, würde nicht die neunundneunzig in der Wüste lassen und nach dem verlorenen suchen, bis er es findet? Und wenn er es gefunden hat, trägt er es auf seinen Schultern voller Freude. Und als er nach Hause kommt, ruft er seine Freunde und Nachbarn zusammen und sagt zu ihnen: ‚Freut euch mit mir; denn ich habe mein verlorenes Schaf gefunden!‘ Ich sage euch: So wird auch im Himmel mehr Freude sein über einen Sünder, der Buße tut, als über neunundneunzig Gerechte, die keine Buße nötig haben.“
+
+„Oder welche Frau, wenn sie zehn Drachmen hat und eine Drachme verliert, wird nicht eine Lampe anzünden, das Haus fegen und sorgfältig suchen, bis sie sie findet? Wenn sie sie gefunden hat, ruft sie ihre Freundinnen und Nachbarinnen zusammen und sagt: ‚Freut euch mit mir, denn ich habe die Drachme gefunden, die ich verloren hatte!‘ Ebenso sage ich euch, es gibt Freude vor den Engeln Gottes über einen Sünder, der umkehrt.“
+
+Er sagte: „Ein gewisser Mann hatte zwei Söhne. Der jüngere von ihnen sagte zu seinem Vater: ‚Vater, gib mir meinen Anteil an deinem Vermögen.‘ Da teilte er sein Vermögen unter sie auf. Nicht viele Tage später sammelte der jüngere Sohn alles zusammen und reiste in ein fernes Land. Dort verschwendete er sein Vermögen mit ausschweifendem Leben. Als er alles ausgegeben hatte, kam eine schwere Hungersnot in jenem Land auf, und er begann zu leiden. Er ging und schloss sich einem der Bürger dieses Landes an, und dieser sandte ihn in seine Felder, um Schweine zu hüten. Er wollte seinen Bauch mit den Schoten füllen, die die Schweine aßen, aber niemand gab ihm etwas. Als er aber zu sich selbst kam, sagte er: ‚Wie viele Tagelöhner meines Vaters haben Brot im Überfluss, und ich komme hier um vor Hunger! Ich will aufstehen und zu meinem Vater gehen und ihm sagen: „Vater, ich habe gegen den Himmel und vor dir gesündigt. Ich bin nicht mehr wert, dein Sohn genannt zu werden. Mach mich zu einem deiner Tagelöhner.“‘
+
+„Er stand auf und ging zu seinem Vater. Als er aber noch weit entfernt war, sah ihn sein Vater und wurde von Mitleid ergriffen; er lief und fiel ihm um den Hals und küsste ihn. Der Sohn sagte zu ihm: ‚Vater, ich habe gegen den Himmel und vor dir gesündigt. Ich bin nicht mehr wert, dein Sohn genannt zu werden.‘
+
+„Aber der Vater sagte zu seinen Dienern: ‚Bringt das beste Gewand heraus und zieht es ihm an. Gebt ihm einen Ring an seine Hand und Sandalen an seine Füße. Bringt das gemästete Kalb, schlachtet es, und lasst uns essen und feiern; denn dieser mein Sohn war tot und ist wieder lebendig geworden. Er war verloren und ist gefunden worden.‘ Und sie begannen zu feiern.
+
+„Nun war sein älterer Sohn auf dem Feld. Als er sich dem Haus näherte, hörte er Musik und Tanz. Er rief einen der Diener zu sich und fragte, was das sei. Der sagte zu ihm: ‚Dein Bruder ist gekommen, und dein Vater hat das gemästete Kalb geschlachtet, weil er ihn gesund zurückbekommen hat.‘ Aber er wurde zornig und wollte nicht hineingehen. Da kam sein Vater heraus und bat ihn. Er aber antwortete seinem Vater: ‚Siehe, diese vielen Jahre habe ich dir gedient und nie ein Gebot von dir übertreten; doch du hast mir nie einen Ziegenbock gegeben, dass ich mit meinen Freunden feiern könnte. Aber als dieser dein Sohn kam, der dein Vermögen mit Huren verschwendet hat, hast du für ihn das gemästete Kalb geschlachtet.‘
+
+„Er sagte zu ihm: ‚Sohn, du bist immer bei mir, und alles, was mein ist, ist dein. Aber es war angemessen zu feiern und froh zu sein; denn dieser dein Bruder war tot und ist wieder lebendig geworden. Er war verloren und ist gefunden worden.‘“
+
+### Kapitel 16
+
+Er sagte auch zu seinen Jüngern: „Es war ein gewisser reicher Mann, der einen Verwalter hatte. Es wurde ihm vorgeworfen, dass dieser seine Besitztümer verschwendete. Er rief ihn und sagte zu ihm: ‚Was höre ich von dir? Gib Rechenschaft über deine Verwaltung; denn du kannst nicht länger Verwalter sein.‘
+
+„Der Verwalter dachte bei sich selbst: ‚Was soll ich tun, da mein Herr mir die Verwalterschaft entzieht? Ich habe nicht die Kraft zu graben; ich schäme mich zu betteln. Ich weiß, was ich tun werde, damit sie mich in ihre Häuser aufnehmen, wenn ich von der Verwalterschaft entfernt werde.‘ Und er rief jeden der Schuldner seines Herrn zu sich und sagte zum ersten: ‚Wie viel schuldest du meinem Herrn?‘ Er antwortete: ‚Hundert Bat Öl.‘ Er sagte zu ihm: ‚Nimm deinen Schuldschein, setz dich schnell hin und schreibe fünfzig.‘ Dann sagte er zu einem anderen: ‚Wie viel schuldest du?‘ Er antwortete: ‚Hundert Kor Weizen.‘ Er sagte zu ihm: ‚Nimm deinen Schuldschein und schreibe achtzig.‘
+
+„Sein Herr lobte den unehrlichen Verwalter, weil er klug gehandelt hatte; denn die Kinder dieser Welt sind in ihrer Generation klüger als die Kinder des Lichts. Ich sage euch: Macht euch Freunde mit dem ungerechten Mammon, damit sie euch aufnehmen in die ewigen Zelte, wenn ihr versagt. Wer im Geringsten treu ist, ist auch im Großen treu; und wer im Geringsten ungerecht ist, ist auch im Großen ungerecht. Wenn ihr also im ungerechten Mammon nicht treu gewesen seid, wer wird euch das Wahre anvertrauen? Wenn ihr nicht treu gewesen seid in dem, was einem anderen gehört, wer wird euch das geben, was euer ist? Kein Diener kann zwei Herren dienen; denn entweder wird er den einen hassen und den anderen lieben oder er wird an dem einen festhalten und den anderen verachten. Ihr könnt nicht Gott dienen und dem Mammon.“
+
+Die Pharisäer, die Geldliebhaber waren, hörten auch all diese Dinge und verspotteten ihn. Er sagte zu ihnen: „Ihr seid die, die sich vor den Menschen rechtfertigen, aber Gott kennt eure Herzen. Denn das, was unter den Menschen hochgeachtet ist, ist ein Gräuel in den Augen Gottes.
+
+„Das Gesetz und die Propheten waren bis Johannes. Von da an wird das Evangelium vom Reich Gottes verkündigt, und jeder drängt sich hinein. Aber es ist leichter, dass Himmel und Erde vergehen, als dass ein einziger Strich eines Gesetzes fällt.
+
+„Jeder, der seine Frau entlässt und eine andere heiratet, begeht Ehebruch. Und wer eine Geschiedene heiratet, begeht Ehebruch.
+
+„Es war aber ein gewisser reicher Mann, der in Purpur und feine Leinwand gekleidet war und täglich in Freuden lebte. Ein gewisser Bettler namens Lazarus wurde an seine Pforte gelegt, voller Geschwüre und wünschte, sich mit den Krümeln zu sättigen, die vom Tisch des Reichen fielen. Ja, sogar die Hunde kamen und leckten seine Geschwüre. Der Bettler starb und wurde von den Engeln in Abrahams Schoß getragen. Der reiche Mann starb auch und wurde begraben. Im Hades hob er seine Augen auf, als er in Qual war, und sah Abraham von weitem und Lazarus in seinem Schoß. Er rief und sagte: ‚Vater Abraham, habe Erbarmen mit mir und sende Lazarus, dass er die Spitze seines Fingers ins Wasser taucht und meine Zunge kühlt! Denn ich leide Qual in dieser Flamme.‘
+
+„Aber Abraham sagte: ‚Sohn, erinnere dich daran, dass du in deinem Leben deine guten Dinge empfangen hast und Lazarus ebenso die schlechten. Aber hier wird er jetzt getröstet und du leidest Qual. Außerdem gibt es zwischen uns und dir eine große Kluft, sodass die, die von hier zu euch gehen wollen, nicht können, und dass niemand von dort zu uns übertreten kann.‘
+
+„Er sagte: ‚Ich bitte dich daher, Vater, dass du ihn zu meinem Vaterhaus sendest – denn ich habe fünf Brüder – damit er ihnen Zeugnis gibt, damit sie nicht auch an diesen Ort der Qual kommen.‘
+
+„Aber Abraham sagte zu ihm: ‚Sie haben Mose und die Propheten. Lassen sie sie hören.‘
+
+„Er sagte: ‚Nein, Vater Abraham, aber wenn einer von den Toten zu ihnen geht, werden sie Buße tun.‘
+
+„Er sagte zu ihm: ‚Wenn sie nicht auf Mose und die Propheten hören, werden sie sich auch nicht überzeugen lassen, wenn einer von den Toten aufersteht.‘“
+
+### Kapitel 17
+
+Er sagte zu den Jüngern: „Es ist unmöglich, dass keine Anlässe zum Stolpern kommen; aber wehe dem, durch den sie kommen! Es wäre besser für ihn, wenn ihm ein Mühlstein um den Hals gehängt würde und er ins Meer geworfen würde, als dass er einen dieser kleinen zum Stolpern bringt. Seid vorsichtig! Wenn dein Bruder gegen dich sündigt, tadle ihn; wenn er Buße tut, vergib ihm. Wenn er dir siebenmal am Tag sündigt und siebenmal zu dir zurückkommt und sagt: ‚Ich bereue‘, sollst du ihm vergeben.“
+
+Die Apostel sagten zum Herrn: „Vergrößere unseren Glauben.“
+
+Der Herr sagte: „Wenn ihr Glauben hättet wie ein Senfkorn, würdet ihr zu diesem Maulbeerbaum sagen: ‚Werde entwurzelt und ins Meer gepflanzt‘, und er würde euch gehorchen. Wer ist unter euch, der einen Diener hat, der pflügt oder Schafe hütet? Der wird ihm sagen, wenn er vom Feld kommt: ‚Komm sofort und setz dich zu Tisch‘? Wird er ihm nicht vielmehr sagen: ‚Bereite mir das Abendessen, gürte dich und dien mir, während ich esse und trinke; danach wirst du essen und trinken‘? Dankt er dem Diener wegen dessen, dass er getan hat, was ihm befohlen wurde? Ich denke nicht. So auch ihr; wenn ihr alles getan habt, was euch befohlen wurde, sagt: ‚Wir sind unnütze Diener; wir haben getan, was wir schulden.‘“
+
+Als er auf dem Weg nach Jerusalem war, ging er durch die Grenzen von Samaria und Galiläa. Als er in ein gewisses Dorf eintrat, begegneten ihm zehn Männer, die Aussätzige waren; sie standen in der Ferne. Sie erhoben ihre Stimmen und riefen: „Jesus, Meister, habe Erbarmen mit uns!“
+
+Als er sie sah, sagte er zu ihnen: „Geht hin und zeigt euch den Priestern.“ Und als sie gingen, wurden sie rein. Einer von ihnen kehrte um, als er sah, dass er geheilt war, lobte Gott mit lauter Stimme. Er fiel auf sein Angesicht zu Jesu Füßen und dankte ihm; und er war ein Samariter.
+
+Jesus antwortete: „Sind nicht die zehn gereinigt worden? Wo sind aber die neun? Hat sich keiner gefunden, der zurückgekehrt ist, um Gott die Ehre zu geben, außer diesem Fremden?“ Dann sagte er zu ihm: „Steh auf und geh deinen Weg. Dein Glaube hat dich geheilt.“
+
+Als die Pharisäer ihn fragten, wann das Reich Gottes kommen würde, antwortete er ihnen: „Das Reich Gottes kommt nicht mit Beobachtung; auch werden sie nicht sagen: ‚Siehe hier!‘ oder: ‚Siehe dort!‘ Denn siehe, das Reich Gottes ist in euch.“
+
+Er sagte zu den Jüngern: „Es werden Tage kommen, an denen ihr euch danach sehnt, einen der Tage des Menschensohnes zu sehen, und ihr werdet ihn nicht sehen. Sie werden euch sagen: ‚Siehe hier!‘ oder ‚Siehe dort!‘ Geht nicht weg und folgt ihnen nicht nach; denn wie der Blitz, der aus einem Teil unter dem Himmel blitzt und zu einem anderen Teil unter dem Himmel scheint, so wird der Menschensohn an seinem Tag sein. Aber zuerst muss er viele Dinge leiden und von dieser Generation verworfen werden. Wie es in den Tagen Noahs war, so wird es auch in den Tagen des Menschensohnes sein. Sie aßen, sie tranken, sie heirateten und wurden verheiratet bis zu dem Tag, an dem Noah in die Arche ging, und die Flut kam und sie alle vernichtete. Ebenso war es auch in den Tagen Lots: sie aßen, sie tranken, sie kauften, sie verkauften, sie pflanzten, sie bauten; aber an dem Tag, an dem Lot aus Sodom ging, regnete es Feuer und Schwefel vom Himmel und vernichtete sie alle. So wird es auch an dem Tag sein, an dem der Menschensohn offenbart wird. An diesem Tag, wer auf dem Dach ist und seine Güter im Haus hat, der lasse ihn nicht hinuntergehen, um sie zu holen. Und wer auf dem Feld ist, der kehre nicht zurück. Erinnern euch an Lots Frau! Wer sein Leben zu retten sucht, wird es verlieren; aber wer sein Leben verliert, wird es bewahren. Ich sage euch, in dieser Nacht werden zwei Menschen in einem Bett sein. Der eine wird genommen und der andere wird gelassen. Es werden zwei zusammen Getreide mahlen. Der eine wird genommen und der andere wird gelassen.“
+
+Sie fragten ihn und sagten: „Woher, Herr?“
+
+Er sagte zu ihnen: „Wo der Leichnam ist, da werden die Geier sich versammeln.“
+
+### Kapitel 18
+
+Er sprach auch ein Gleichnis zu ihnen, dass sie immer beten und nicht nachlassen sollten und sagte: „Es war ein Richter in einer bestimmten Stadt, der Gott nicht fürchtete und keinen Menschen respektierte. Eine Witwe war in dieser Stadt, und sie kam oft zu ihm und sagte: ‚Rette mich vor meinem Widersacher!‘ Er wollte eine Zeitlang nicht; aber danach sagte er zu sich selbst: ‚Obwohl ich Gott weder fürchte noch Menschen respektiere, so werde ich diese Witwe doch verteidigen, denn sie macht mir sonst das Leben schwer durch ihr ständiges Kommen.‘“
+
+Der Herr sagte: „Hört, was der ungerechte Richter sagt. Wird Gott seinen Auserwählten nicht Recht verschaffen, die Tag und Nacht zu ihm rufen, und hat er doch Geduld mit ihnen? Ich sage euch, dass er ihnen schnell Recht verschaffen wird. Doch wenn der Menschensohn kommt, wird er da Glauben auf der Erde finden?“
+
+Er sprach auch dieses Gleichnis zu bestimmten Menschen, die von ihrer eigenen Gerechtigkeit überzeugt waren und alle anderen verachteten: „Zwei Männer gingen in den Tempel, um zu beten; der eine war ein Pharisäer und der andere ein Zöllner. Der Pharisäer stand und betete bei sich selbst so: ‚Gott, ich danke dir, dass ich nicht bin wie die übrigen Menschen: Räuber, ungerecht, Ehebrecher oder sogar wie dieser Zöllner. Ich faste zweimal in der Woche. Ich gebe den Zehnten von allem, was ich bekomme.‘ Der Zöllner aber stand weit entfernt und wollte nicht einmal seine Augen zum Himmel erheben, sondern schlug an seine Brust und sagte: ‚Gott, sei mir Sünder gnädig!‘ Ich sage euch, dieser ging gerechtfertigt nach Hause, im Gegensatz zu dem anderen; denn jeder, der sich selbst erhebt, wird erniedrigt werden; aber wer sich selbst erniedrigt, wird erhöht werden.“
+
+Sie brachten auch ihre Säuglinge zu ihm, damit er sie berührte. Als die Jünger das sahen, wiesen sie sie zurecht. Jesus rief sie zu sich und sagte: „Lasst die kleinen Kinder zu mir kommen und hindert sie nicht daran; denn das Reich Gottes gehört solchen wie diesen. Wahrlich, ich sage euch: Wer das Reich Gottes nicht empfängt wie ein kleines Kind, wird auf keinen Fall hineinkommen.“
+
+Ein gewisser Herrscher fragte ihn und sagte: „Guter Lehrer, was soll ich tun, um das ewige Leben zu erben?“
+
+Jesus fragte ihn: „Warum nennst du mich gut? Niemand ist gut, außer einem: Gott. Du kennst die Gebote: ‚Du sollst nicht ehebrechen‘, ‚Du sollst nicht morden‘, ‚Du sollst nicht stehlen‘, ‚Du sollst kein falsches Zeugnis ablegen‘, ‚Ehre deinen Vater und deine Mutter.‘“
+
+Er sagte: „All diese Dinge habe ich von meiner Jugend an beachtet.“
+
+Als Jesus dies hörte, sagte er zu ihm: „Es fehlt dir noch eine Sache. Verkaufe alles, was du hast, und verteile es an die Armen. Dann wirst du einen Schatz im Himmel haben; dann komm, folge mir nach.“
+
+Als er dies hörte, wurde er sehr traurig, denn er war sehr reich.
+
+Jesus, als er sah, dass er sehr traurig wurde, sagte: „Wie schwer ist es für die Reichen, in das Reich Gottes einzugehen! Denn es ist leichter für ein Kamel, durch ein Nadelöhr zu gehen, als für einen Reichen, in das Reich Gottes einzugehen.“
+
+Diejenigen, die es hörten, sagten: „Wer kann dann gerettet werden?“
+
+Er sagte: „Was bei den Menschen unmöglich ist, ist möglich bei Gott.“
+
+Petrus sagte: „Siehe, wir haben alles verlassen und sind dir gefolgt.“
+
+Er sagte zu ihnen: „Wahrlich, ich sage euch, es gibt niemanden, der Haus oder Frau oder Brüder oder Eltern oder Kinder um des Reiches Gottes willen verlassen hat, der nicht viel mehr empfangen wird in dieser Zeit und in der kommenden Welt das ewige Leben.“
+
+Er nahm die Zwölf beiseite und sagte zu ihnen: „Siehe, wir gehen nach Jerusalem, und alles, was durch die Propheten über den Menschensohn geschrieben ist, wird erfüllt werden. Denn er wird den Heiden überliefert werden, wird verspottet, schändlich behandelt und angespuckt werden. Sie werden ihn geißeln und töten. Am dritten Tag wird er auferstehen.“
+
+Sie verstanden keines dieser Dinge. Diese Aussage war ihnen verborgen, und sie verstanden die Dinge, die gesagt wurden, nicht.
+
+Als er sich Jericho näherte, saß ein gewisser Blinder am Weg und bettelte. Als er die Menge vorbeiziehen hörte, fragte er, was das bedeute. Man sagte ihm, dass Jesus von Nazareth vorbeigehe. Er rief: „Jesus, du Sohn Davids, erbarme dich meiner!“ Diejenigen, die vorausgingen, wiesen ihn zurecht, dass er still sein solle; aber er rief umso mehr: „Du Sohn Davids, erbarme dich meiner!“
+
+Jesus blieb stehen und befahl, ihn zu ihm zu bringen. Als er nahegekommen war, fragte er ihn: „Was willst du, dass ich dir tue?“
+
+Er sagte: „Herr, dass ich wieder sehen kann.“
+
+Jesus sagte zu ihm: „Empfange dein Augenlicht. Dein Glaube hat dich geheilt.“
+
+Sofort erhielt er sein Augenlicht und folgte ihm nach und verherrlichte Gott. Alle Leute lobten Gott, als sie es sahen.
+
+### Kapitel 19
+
+Er trat ein und ging durch Jericho. Da war ein Mann namens Zachäus. Er war ein oberster Zöllner und war reich. Er versuchte zu sehen, wer Jesus sei, und konnte es wegen der Menge nicht, weil er klein von Statur war. Er lief voraus und kletterte auf einen Maulbeerbaum, um ihn zu sehen; denn er wollte auf diesem Weg vorbeikommen. Als Jesus an den Ort kam, sah er auf und sagte zu ihm: „Zachäus, steig schnell herunter; denn heute muss ich in deinem Haus bleiben.“ Er beeilte sich und kam herunter und nahm ihn freudig auf. Als sie das sahen, murrten sie alle und sagten: „Er ist bei einem sündigen Mann eingekehrt.“
+
+Zachäus stand auf und sagte zum Herrn: „Siehe, Herr, die Hälfte meines Besitzes gebe ich den Armen. Und wenn ich von jemandem etwas unrechtmäßig genommen habe, gebe ich es vierfach zurück.“
+
+Jesus sagte zu ihm: „Heute ist diesem Haus Heil widerfahren; denn auch er ist ein Sohn Abrahams. Denn der Menschensohn ist gekommen, um zu suchen und zu retten, was verloren ist.“
+
+Als sie dies hörten, erzählte er ein Gleichnis, weil er nahe bei Jerusalem war und sie meinten, das Reich Gottes würde sofort offenbart werden. Er sagte daher: „Ein gewisser edler Mann ging in ein fernes Land, um sich ein Königreich zu empfangen und zurückzukehren. Er rief zehn seiner Knechte und gab ihnen zehn Mina-Münzen und sagte zu ihnen: ‚Handelt mit ihnen, bis ich komme.‘ Aber seine Bürger hassten ihn und sandten eine Gesandtschaft hinter ihm her und sagten: ‚Wir wollen nicht, dass dieser Mann über uns herrscht.‘
+
+„Als er zurückkam und das Königreich empfangen hatte, befahl er diesen Knechten, denen er das Geld gegeben hatte, zu ihm gerufen zu werden, damit er wisse, was sie durch den Handel gewonnen hatten. Der erste trat vor ihn und sagte: ‚Herr, deine Mina hat zehn weitere Mina eingebracht.‘
+
+„Er sagte zu ihm: ‚Gut gemacht, du guter Diener! Weil du mit wenigem treu gefunden wurdest, wirst du über zehn Städte gesetzt werden.‘
+
+„Der zweite kam und sagte: ‚Dein Mina, Herr, hat fünf Minas eingebracht.‘
+
+„Da sagte er zu ihm: ‚Und du wirst über fünf Städte gesetzt werden.‘
+
+Ein anderer kam und sagte: ‚Herr, siehe, dein Mina, das ich in einem Tuch aufbewahrt habe, denn ich fürchtete dich, weil du ein strenger Mann bist. Du nimmst, was du nicht hingelegt hast, und erntest, was du nicht gesät hast.‘
+
+„Er sagte zu ihm: ‚Aus deinem eigenen Mund werde ich dich richten, du böser Diener! Du wusstest, dass ich ein strenger Mann bin, der nimmt, was er nicht hingelegt hat, und erntet, was er nicht gesät hat. Warum hast du mein Geld nicht in die Bank gelegt, damit ich bei meiner Rückkehr Zinsen darauf hätte?‘ Er sagte zu denen, die dabei standen: ‚Nehmt ihm das Mina weg und gebt es dem, der die zehn Minas hat.‘
+
+„Sie sagten zu ihm: ‚Herr, er hat zehn Minas!‘ ‚Denn ich sage euch, dass jedem, der hat, mehr gegeben wird; aber von dem, der nicht hat, wird auch das genommen werden, was er hat. Bringt aber diese meine Feinde her, die nicht wollten, dass ich über sie herrsche, und tötet sie vor mir.‘“ Nachdem er dies gesagt hatte, ging er weiter und zog nach Jerusalem hinauf.
+
+Als er sich Bethsphage und Bethanien näherte, am Berg, der Ölberg genannt wird, sandte er zwei seiner Jünger und sagte: „Geht hin in das Dorf auf der anderen Seite; wenn ihr hineinkommt, werdet ihr ein Fohlen finden, das angebunden ist, auf dem noch kein Mensch gesessen hat. Bindet es los und bringt es her. Wenn euch jemand fragt: ‚Warum löst ihr es?‘ sagt: ‚Der Herr braucht es.‘“
+
+Die Gesandten gingen weg und fanden alles so, wie er ihnen gesagt hatte. Als sie das Fohlen losbanden, sagten die Besitzer zu ihnen: „Warum löst ihr das Fohlen?“ Sie sagten: „Der Herr braucht es.“ Dann brachten sie es zu Jesus. Sie warfen ihre Mäntel auf das Fohlen und setzten Jesus darauf. Als er ging, breiteten sie ihre Mäntel auf dem Weg aus.
+
+Als er sich nun näherte, am Abstieg des Ölbergs, begann die ganze Menge der Jünger sich zu freuen und Gott mit lauter Stimme für all die mächtigen Werke zu loben, die sie gesehen hatten und sagten: „Gesegnet ist der König, der im Namen des Herrn kommt! Frieden im Himmel und Ehre in der Höhe!“
+
+Einige der Pharisäer aus der Menge sagten zu ihm: „Lehrer, weise deine Jünger zurecht!“
+
+Er antwortete ihnen: „Ich sage euch, wenn diese schweigen, werden die Steine schreien.“
+
+Als er sich näherte, sah er die Stadt und weinte über sie und sagte: „Wenn du nur an diesem Tag wüsstest, was dir zum Frieden dient! Aber jetzt ist es vor deinen Augen verborgen. Denn es werden Tage über dich kommen, da werden deine Feinde einen Wall gegen dich aufwerfen und dich umzingeln und dich von allen Seiten bedrängen und dich und deine Kinder in dir zu Boden werfen. Sie werden in dir keinen Stein auf dem anderen lassen, weil du die Zeit deiner Heimsuchung nicht erkannt hast.“
+
+Er ging in den Tempel und begann auszutreiben die Käufer und Verkäufer darin und sagte zu ihnen: „Es steht geschrieben: ‚Mein Haus ist ein Haus des Gebets‘; aber ihr habt es zu einer ‚Räuberhöhle‘ gemacht!“
+
+Er lehrte täglich im Tempel; aber die Obersten Priester und die Schriftgelehrten und die führenden Männer des Volkes suchten ihn zu vernichten. Sie konnten aber nicht finden, was sie tun sollten; denn das ganze Volk hörte ihm an.
+
+### Kapitel 20
+
+An einem dieser Tage, als er das Volk im Tempel lehrte und das Evangelium verkündete, kamen die Priester und Schriftgelehrten zu ihm mit den Ältesten. Sie fragten ihn: „Sage uns: Mit welcher Vollmacht tust du diese Dinge? Oder wer gibt dir diese Vollmacht?“
+
+Er antwortete ihnen: „Ich will euch auch eine Frage stellen. Sagt mir: War die Taufe Johannes‘ vom Himmel oder von den Menschen?“
+
+Sie überlegten bei sich selbst und sagten: „Wenn wir sagen: ‚Vom Himmel‘, wird er sagen: ‚Warum habt ihr ihn dann nicht geglaubt?‘ Wenn wir aber sagen: ‚Von den Menschen‘, so fürchten wir das Volk; denn alle sind überzeugt, dass Johannes ein Prophet war.“ Sie antworteten also, dass sie nicht wussten, woher es war.
+
+Jesus sagte zu ihnen: „Weder werde ich euch sagen, mit welcher Vollmacht ich diese Dinge tue.“
+
+Er begann, den Leuten dieses Gleichnis zu erzählen: „Ein Mann pflanzte einen Weinberg und verpachtete ihn an einige Bauern und ging für lange Zeit in ein anderes Land. Zur rechten Zeit sandte er einen Diener zu den Bauern, um seinen Anteil an den Früchten des Weinbergs einzuholen. Aber die Bauern schlugen ihn und schickten ihn leer weg. Er sandte noch einen Diener, und auch diesen schlugen sie und behandelten ihn schändlich und schickten ihn leer weg. Er sandte noch einen dritten, und auch diesen verwundeten sie und warfen ihn hinaus. Der Herr des Weinbergs sagte: ‚Was soll ich tun? Ich will meinen geliebten Sohn senden. Vielleicht werden sie ihn respektieren, wenn sie ihn sehen.‘
+
+„Als die Bauern ihn jedoch sahen, überlegten sie untereinander und sagten: ‚Das ist der Erbe. Kommt, lasst uns ihn töten, damit das Erbe unser sein kann.‘ Dann warfen sie ihn aus dem Weinberg und töteten ihn. Was wird der Herr des Weinbergs also mit ihnen tun? Er wird kommen und diese Bauern vernichten und den Weinberg anderen geben.“
+
+Als sie das hörten, sagten sie: „Das möge niemals geschehen!“
+
+Aber er sah sie an und sagte: „Was ist dann das, was geschrieben steht:
+
+‚Der Stein, den die Bauleute verworfen haben,
+
+wurde zum Hauptstein des Eckens‘?
+
+Jeder, der auf diesen Stein fällt, wird zerschmettert werden,
+
+aber wen er trifft, den wird er zu Staub zermahlen.“
+
+Die obersten Priester und die Schriftgelehrten suchten in derselben Stunde, ihn zu ergreifen, aber sie fürchteten das Volk – denn sie wussten, dass er dieses Gleichnis gegen sie gesprochen hatte. Sie beobachteten ihn und schickten Spione aus, die sich als gerecht ausgaben, um ihn in etwas, das er sagte, zu fangen, damit sie ihn der Macht und Autorität des Statthalters übergeben könnten. Sie fragten ihn: „Lehrer, wir wissen, dass du sagst und lehrst, was recht ist, und niemandem gegenüber parteiisch bist, sondern wahrhaftig den Weg Gottes lehrst. Ist es erlaubt, dem Kaiser Steuern zu zahlen oder nicht?“
+
+Aber er erkannte ihre List und sagte zu ihnen: „Warum versucht ihr mich? Zeigt mir einen Denar. Wessen Bild und Aufschrift sind darauf?“
+
+Sie antworteten: „Des Kaisers.“
+
+Er sagte zu ihnen: „Dann gebt dem Kaiser die Dinge, die des Kaisers sind, und Gott die Dinge, die Gottes sind.“
+
+Sie konnten ihn nicht in seinen Worten vor dem Volk fangen. Sie staunten über seine Antwort und schwiegen. Einige der Sadduzäer kamen zu ihm, die leugnen, dass es eine Auferstehung gibt. Sie fragten ihn: „Lehrer, Mose hat uns geschrieben, dass wenn der Bruder eines Mannes stirbt und eine Frau hat und kinderlos ist, sein Bruder die Frau nehmen und für seinen Bruder Nachkommen erwecken soll. Es waren also sieben Brüder. Der erste nahm eine Frau und starb kinderlos. Der zweite nahm sie zur Frau und starb kinderlos. Der dritte nahm sie ebenfalls, und ebenso hinterließen die sieben keine Kinder und starben. Danach starb auch die Frau. Daher, in der Auferstehung, wessen Frau von ihnen wird sie sein? Denn die sieben hatten sie zur Frau.“
+
+Jesus sagte zu ihnen: „Die Kinder dieses Zeitalters heiraten und werden verheiratet. Aber die als würdig erachtet werden, um zu jenem Zeitalter und zur Auferstehung von den Toten zu gelangen, heiraten nicht und werden nicht verheiratet. Denn sie können nicht mehr sterben, denn sie sind wie die Engel und sind Kinder Gottes, da sie Kinder der Auferstehung sind. Aber dass die Toten auferweckt werden, hat sogar Mose am Dornbusch gezeigt, als er den Herrn ‚den Gott Abrahams, den Gott Isaaks und den Gott Jakobs‘ nannte. Er ist also nicht der Gott der Toten, sondern der Lebenden; denn alle leben für ihn.“
+
+Einige der Schriftgelehrten antworteten: „Lehrer, du sprichst gut.“ Sie wagten es nicht mehr, ihm Fragen zu stellen.
+
+Er sagte zu ihnen: „Warum sagen sie, dass der Christus der Sohn Davids ist? David selbst sagt im Buch der Psalmen:
+
+‚Der Herr sprach zu meinem Herrn:
+
+„Setze dich zu meiner Rechten,
+
+bis ich deine Feinde zum Schemel deiner Füße mache.“‘
+
+„David nennt ihn also Herrn; wie kann er dann sein Sohn sein?“
+
+In Gegenwart aller Menschen sagte er zu seinen Jüngern: „Hütet euch vor den Schriftgelehrten, die gerne in langen Gewändern gehen und Grüße auf den Märkten lieben, die besten Plätze in den Synagogen und die besten Plätze bei Festen; die die Häuser der Witwen verschlingen und zum Schein lange Gebete halten. Diese werden eine größere Verdammnis empfangen.“
+
+### Kapitel 21
+
+Er blickte auf und sah die Reichen, die ihre Geschenke in die Schatzkammer legten. Er sah eine bestimmte arme Witwe, die zwei kleine Kupfermünzen einwarf. Er sagte: „Wahrlich, ich sage euch, diese arme Witwe hat mehr eingelegt als alle anderen, denn alle diese haben aus ihrem Überfluss Geschenke für Gott gegeben, aber sie hat aus ihrer Armut alles gegeben, was sie zum Leben hatte.“
+
+Während einige über den Tempel sprachen und wie er mit schönen Steinen und Geschenken geschmückt war, sagte er: „Was diese Dinge betrifft, die ihr seht, werden Tage kommen, an denen hier nicht ein Stein auf dem anderen bleiben wird, der nicht umgestürzt wird.“
+
+Sie fragten ihn: „Lehrer, wann werden diese Dinge geschehen? Was ist das Zeichen dafür, dass diese Dinge geschehen werden?“
+
+Er sagte: „Seht zu, dass ihr euch nicht verführen lasst, denn viele werden in meinem Namen kommen und sagen: ‚Ich bin es‘ und: ‚Die Zeit ist nahe.‘ Folgt ihnen daher nicht. Wenn ihr von Kriegen und Unruhen hört, lasst euch nicht erschrecken, denn diese Dinge müssen zuerst geschehen, aber das Ende wird nicht sofort kommen.“
+
+Dann sagte er zu ihnen: „Ein Volk wird sich gegen das andere erheben und ein Königreich gegen das andere. Es wird große Erdbeben, Hungersnöte und Seuchen an verschiedenen Orten geben. Es wird Schrecken und große Zeichen vom Himmel geben. Aber bevor all diese Dinge geschehen, werden sie ihre Hände an euch legen und euch verfolgen und euch in Synagogen und Gefängnisse ausliefern und euch vor Könige und Statthalter bringen um meines Namens willen. Das wird sich als ein Zeugnis für euch erweisen. Setzt euch daher in eure Herzen, nicht im Voraus darüber nachzudenken, wie ihr antworten sollt, denn ich werde euch einen Mund und Weisheit geben, der all eure Widersacher nicht widerstehen oder widersprechen können. Ihr werdet sogar von Eltern, Brüdern, Verwandten und Freunden ausgeliefert werden. Einige von euch werden getötet werden. Ihr werdet von allen Menschen um meines Namens willen gehasst werden. Und kein Haar eures Hauptes wird verloren gehen.
+
+„Durch eure Ausdauer werdet ihr eure Seelen gewinnen.
+
+„Aber wenn ihr Jerusalem von Heeren umzingelt seht, dann wisst, dass seine Verwüstung nahe ist. Dann lasst die in Judäa sein, in die Berge fliehen. Lasst die in der Mitte von ihr weggehen. Lasst die auf dem Land nicht hinein gehen. Denn das sind Tage der Rache, damit alles erfüllt wird, was geschrieben steht. Wehe den Schwangeren und den Stillenden in jenen Tagen! Denn es wird große Not im Land und Zorn über dieses Volk geben. Sie werden durch das Schwert fallen und in alle Nationen gefangen geführt werden. Jerusalem wird von den Heiden zertreten werden, bis die Zeiten der Heiden erfüllt sind.
+
+„Es wird Zeichen an Sonne, Mond und Sternen geben; und auf der Erde Angst der Nationen in Verwirrung wegen des Brausens des Meeres und der Wellen; die Menschen werden vor Angst und Erwartung der Dinge, die über die Welt kommen, ohnmächtig werden, denn die Kräfte des Himmels werden erschüttert werden. Dann werden sie den Sohn des Menschen in einer Wolke kommen sehen mit Macht und großer Herrlichkeit. Wenn aber diese Dinge anfangen zu geschehen, schaut auf und hebt eure Köpfe empor, denn eure Erlösung ist nahe.“
+
+Er erzählte ihnen ein Gleichnis: „Seht den Feigenbaum und alle Bäume. Wenn sie schon austreiben, seht ihr es und wisst aus euch selbst, dass der Sommer schon nahe ist. So auch ihr, wenn ihr seht, dass diese Dinge geschehen, wisst, dass das Reich Gottes nahe ist. Wahrlich, ich sage euch, diese Generation wird nicht vergehen, bis alles erfüllt ist. Himmel und Erde werden vergehen, aber meine Worte werden auf keinen Fall vergehen.
+
+„Seid also vorsichtig, damit eure Herzen nicht mit Schlemmen, Trunkenheit und den Sorgen dieses Lebens belastet werden und jener Tag plötzlich über euch kommt. Denn er wird wie eine Falle über alle kommen, die auf der Oberfläche der ganzen Erde wohnen. Seid daher jederzeit wachsam und betet, dass ihr für würdig erachtet werdet, all diesen Dingen zu entkommen, die geschehen werden, und vor den Sohn des Menschen zu stehen.“
+
+Jeden Tag lehrte Jesus im Tempel, und jede Nacht ging er hinaus und verbrachte die Nacht auf dem Berg, der Ölberg genannt wird. Alle Menschen kamen früh am Morgen zu ihm in den Tempel, um ihn zu hören.
+
+### Kapitel 22
+
+Nun näherte sich das Fest der ungesäuerten Brote, das Passah genannt wird. Die obersten Priester und die Schriftgelehrten suchten, wie sie ihn töten könnten, denn sie fürchteten das Volk.
+
+Satan trat in Judas ein, der auch Iskariot genannt wurde und zu den Zwölf gezählt wurde. Er ging weg und sprach mit den obersten Priestern und Hauptleuten darüber, wie er ihn ihnen überliefern könnte. Sie waren froh und einigten sich, ihm Geld zu geben. Er willigte ein und suchte eine Gelegenheit, ihn ihnen in Abwesenheit der Menge zu überliefern.
+
+Der Tag der ungesäuerten Brote kam, an dem das Passah geopfert werden musste. Jesus sandte Petrus und Johannes und sagte: „Geht und bereitet das Passah für uns vor, damit wir essen können.“
+
+Sie fragten ihn: „Wo willst du, dass wir es vorbereiten?“
+
+Er sagte zu ihnen: „Siehe, wenn ihr in die Stadt hineingeht, wird euch ein Mann mit einem Wasserkrug entgegenkommen. Folgt ihm in das Haus, in das er hineingeht. Sagt dem Hausherrn: ‚Der Lehrer lässt dir sagen: Wo ist der Raum, in dem ich das Passah mit meinen Jüngern essen kann?‘ Er wird euch einen großen, möblierten Oberraum zeigen. Macht dort Vorbereitungen.“
+
+Sie gingen und fanden alles so, wie Jesus ihnen gesagt hatte, und bereiteten das Passah vor.
+
+Als die Stunde gekommen war, setzte er sich mit den zwölf Aposteln. Er sagte zu ihnen: „Ich habe sehnlichst gewünscht, dieses Passah mit euch zu essen, bevor ich leide; denn ich sage euch, ich werde von nun an nicht mehr davon essen, bis es im Reich Gottes erfüllt ist.“ Er nahm einen Becher, und als er Dank gesagt hatte, sagte er: „Nehmt diesen und teilt ihn unter euch; denn ich sage euch, ich werde von nun an nicht mehr vom Frucht des Weinstocks trinken, bis das Reich Gottes kommt.“
+
+Er nahm Brot, und als er Dank gesagt hatte, brach er es und gab es ihnen und sagte: „Das ist mein Leib, der für euch gegeben wird. Tut dies zu meinem Gedächtnis.“ Ebenso nahm er den Becher nach dem Abendessen und sagte: „Dieser Becher ist der neue Bund in meinem Blut, das für euch vergossen wird. Siehe, die Hand dessen, der mich verrät, ist mit mir am Tisch. Der Menschensohn geht zwar dahin, wie es bestimmt ist; aber wehe dem Menschen, durch den er verraten wird!“
+
+Sie begannen untereinander zu fragen, wer von ihnen das tun würde.
+
+Es entstand auch ein Streit unter ihnen, wer von ihnen der Größte sei. Er sagte zu ihnen: „Die Könige der Nationen herrschen über sie, und die Mächtigen werden ‚Wohltäter‘ genannt. Aber so soll es bei euch nicht sein. Vielmehr soll der Größte unter euch wie der Jüngere werden, und derjenige, der regiert, wie einer, der dient. Denn wer ist größer, der am Tisch sitzt oder der dient? Ist es nicht der, der am Tisch sitzt? Ich aber bin unter euch wie einer, der dient.
+
+„Aber ihr seid diejenigen, die mit mir in meinen Prüfungen geblieben sind. Ich übertrage euch ein Reich, wie mein Vater es mir übertragen hat, damit ihr an meinem Tisch im Reich essen und trinken könnt. Ihr werdet auf Thronen sitzen und die zwölf Stämme Israels richten.“
+
+Der Herr sagte: „Simon, Simon, siehe, Satan hat verlangt, euch alle zu sichten wie den Weizen; aber ich habe für dich gebetet, dass dein Glaube nicht aufhöre. Du aber, wenn du einmal umgekehrt bist, stärke deine Brüder.“
+
+Er sagte zu ihm: „Herr, ich bin bereit, mit dir sowohl ins Gefängnis als auch in den Tod zu gehen!“
+
+Er sagte: „Ich sage dir, Petrus, der Hahn wird heute gewiss nicht krähen, bis du dreimal verleugnest, dass du mich kennst.“
+
+Er sagte zu ihnen: „Als ich euch ohne Geldbeutel, Tasche und Sandalen aussandte, habt ihr da etwas gefehlt?“
+
+Sie sagten: „Nichts.“
+
+Dann sagte er zu ihnen: „Aber jetzt, wer einen Geldbeutel hat, der nehme ihn; ebenso auch eine Tasche. Wer keinen hat, verkaufe seinen Mantel und kaufe ein Schwert. Denn ich sage euch, dass das Schriftwort noch an mir erfüllt werden muss: ‚Er wurde unter die Übeltäter gezählt.‘ Denn das, was mich betrifft, erfüllt sich.“
+
+Sie sagten: „Herr, siehe, hier sind zwei Schwerter.“
+
+Er sagte zu ihnen: „Das ist genug.“
+
+Er ging hinaus und ging nach seiner Gewohnheit zum Ölberg. Seine Jünger folgten ihm auch. Als er an den Ort kam, sagte er zu ihnen: „Betet, dass ihr nicht in Versuchung fallt.“
+
+Er war etwa einen Steinwurf von ihnen entfernt, kniete nieder und betete und sagte: „Vater, wenn du willst, nimm diesen Kelch von mir. Doch nicht mein Wille, sondern dein Wille geschehe.“
+
+Ein Engel vom Himmel erschien ihm und stärkte ihn. In seiner Angst betete er noch inständiger. Sein Schweiß wurde wie große Tropfen Blut, die auf den Boden fielen.
+
+Als er von seinem Gebet aufstand, kam er zu den Jüngern und fand sie schlafend aus Trauer und sagte zu ihnen: „Warum schlaft ihr? Steht auf und betet, damit ihr nicht in Versuchung fallt.“
+
+Während er noch sprach, erschien eine Menge. Der, der Judas genannt wurde, einer der Zwölf, führte sie an. Er trat näher zu Jesus, um ihn zu küssen. Aber Jesus sagte zu ihm: „Judas, verrätst du den Sohn des Menschen mit einem Kuss?“
+
+Als die um ihn herum sahen, was geschehen sollte, sagten sie zu ihm: „Herr, sollen wir mit dem Schwert schlagen?“ Einer von ihnen schlug dem Diener des Hohenpriesters das rechte Ohr ab.
+
+Aber Jesus antwortete: „Lasst mich wenigstens dies tun“ – und er berührte sein Ohr und heilte ihn. Jesus sagte zu den Hohenpriestern, den Tempelwächtern und den Ältesten, die gegen ihn gekommen waren: „Seid ihr wie gegen einen Räuber ausgezogen mit Schwertern und Knüppeln? Als ich täglich bei euch im Tempel war, habt ihr eure Hände nicht gegen mich ausgestreckt. Aber dies ist eure Stunde und die Macht der Finsternis.“
+
+Sie ergriffen ihn und führten ihn weg und brachten ihn ins Haus des Hohenpriesters. Petrus folgte ihm aus der Ferne. Als sie ein Feuer in der Mitte des Hofes angezündet hatten und sich zusammen gesetzt hatten, saß Petrus unter ihnen. Eine bestimmte Dienerin sah ihn, während er im Licht saß, und sah ihn aufmerksam an und sagte: „Dieser Mann war auch mit ihm.“
+
+Er leugnete Jesus und sagte: „Frau, ich kenne ihn nicht.“
+
+Nach einer kleinen Weile sah ihn jemand anders und sagte: „Du bist auch einer von ihnen!“
+
+Aber Petrus antwortete: „Mann, ich bin es nicht!“
+
+Nach etwa einer Stunde bekräftigte ein anderer mit Zuversicht und sagte: „Wahrlich, dieser Mann war auch mit ihm, denn er ist ein Galiläer!“
+
+Aber Petrus sagte: „Mann, ich weiß nicht, wovon du sprichst!“ Sofort, während er noch sprach, krähte ein Hahn. Der Herr wandte sich um und sah Petrus an. Da erinnerte sich Petrus an das Wort des Herrn, wie er zu ihm gesagt hatte: „Ehe der Hahn kräht, wirst du mich dreimal verleugnen.“ Er ging hinaus und weinte bitterlich.
+
+Die Männer, die Jesus festhielten, verspotteten ihn und schlugen ihn. Sie verbanden ihm die Augen und schlugen ihm ins Gesicht und fragten ihn: „Prophezeie! Wer ist der, der dich geschlagen hat?“ Sie sprachen viele andere Dinge gegen ihn und beleidigten ihn.
+
+Als es Tag wurde, versammelten sich die Ältesten des Volkes, sowohl die Hohenpriester als auch die Schriftgelehrten, und führten ihn in ihren Rat und sagten: „Bist du der Christus, sage es uns.“
+
+Er aber sagte zu ihnen: „Wenn ich es euch sage, werdet ihr nicht glauben; und wenn ich frage, werdet ihr mir in keiner Weise antworten oder mich loslassen. Von nun an wird der Sohn des Menschen zur Rechten der Macht Gottes sitzen.“
+
+Sie alle sagten: „Bist du denn der Sohn Gottes?“
+
+Er sagte zu ihnen: „Ihr sagt es, denn ich bin es.“
+
+Sie sagten: „Was brauchen wir noch für ein Zeugnis? Denn wir selbst haben aus seinem eigenen Mund gehört!“
+
+### Kapitel 23
+
+Die ganze Menge erhob sich und brachte ihn vor Pilatus. Sie begannen ihn anzuklagen und sagten: „Wir haben diesen Mann gefunden, der die Nation verführt, das Zahlen von Steuern an Cäsar verbietet und sagt, dass er selbst Christus, ein König ist.“
+
+Pilatus fragte ihn: „Bist du der König der Juden?“
+
+Er antwortete ihm: „Du sagst es.“
+
+Pilatus sagte zu den Hohenpriestern und den Massen: „Ich finde keine Grundlage für eine Anklage gegen diesen Mann.“
+
+Aber sie bestanden darauf und sagten: „Er erregt das Volk, lehrt in ganz Judäa, angefangen von Galiläa bis hierher.“
+
+Als Pilatus Galiläa hörte, fragte er, ob der Mann ein Galiläer sei. Als er erfuhr, dass er in Herodes’ Zuständigkeitsbereich war, sandte er ihn zu Herodes, der auch in diesen Tagen in Jerusalem war.
+
+Als Herodes Jesus sah, war er überaus froh; denn er hatte schon lange Lust gehabt, ihn zu sehen, weil er viele Dinge über ihn gehört hatte. Er hoffte, ein Wunder von ihm zu sehen. Er befragte ihn mit vielen Worten, aber er gab keine Antwort. Die Hohenpriester und die Schriftgelehrten standen da und beschuldigten ihn heftig. Herodes erniedrigte ihn mit seinen Soldaten und verspottete ihn. Er kleidete ihn in prächtige Kleidung und sandte ihn zurück zu Pilatus. An diesem Tag wurden Herodes und Pilatus Freunde; denn zuvor waren sie Feinde gewesen.
+
+Pilatus rief die obersten Priester, die Herrscher und das Volk zusammen und sagte zu ihnen: „Ihr habt diesen Mann zu mir gebracht, als einen, der das Volk verführt, und siehe, nachdem ich ihn vor euch verhört habe, habe ich keinen Grund gefunden, eine Anklage gegen diesen Mann zu erheben wegen der Dinge, derer ihr ihn beschuldigt. Auch Herodes nicht, denn ich habe euch zu ihm gesandt, und siehe, nichts, was des Todes wert wäre, ist von ihm getan worden. Ich werde ihn daher züchtigen und ihn freilassen.“
+
+Nun musste er ihnen zu dem Fest einen Gefangenen freilassen. Aber sie schrien alle zusammen: „Weg mit diesem Mann! Lass uns Barabbas frei!“ – einen, der wegen eines bestimmten Aufstands in der Stadt und wegen Mordes ins Gefängnis geworfen worden war.
+
+Dann sprach Pilatus erneut zu ihnen und wollte Jesus freilassen, aber sie riefen: „Kreuzige! Kreuzige ihn!“
+
+Er sagte zu ihnen zum dritten Mal: „Warum? Was für ein Unrecht hat dieser Mann getan? Ich habe in ihm kein Kapitalverbrechen gefunden. Ich werde ihn daher züchtigen und ihn freilassen.“ Aber sie drängten mit lauten Stimmen und forderten, dass er gekreuzigt werde. Ihre Stimmen und die Stimmen der obersten Priester setzten sich durch. Pilatus beschloss, dass das, was sie verlangten, geschehen sollte. Er ließ den, der wegen Aufruhr und Mord ins Gefängnis geworfen worden war, freilassen, um den sie baten, aber er übergab Jesus ihrem Willen.
+
+Als sie ihn wegführten, ergriffen sie einen Simon von Kyrene, der vom Land kam, und legten ihm das Kreuz auf, damit er es hinter Jesus hertrage. Eine große Menge des Volkes folgte ihm, darunter auch Frauen, die um ihn trauerten und klagten. Aber Jesus wandte sich zu ihnen und sagte: „Töchter Jerusalems, weint nicht über mich, sondern weint über euch selbst und über eure Kinder. Denn siehe, es kommen Tage, in denen man sagen wird: ‚Selig sind die Unfruchtbaren, die Leiber, die nie geboren haben, und die Brüste, die nie gestillt haben.‘ Dann werden sie anfangen zu den Bergen zu sagen: ‚Fallt auf uns!‘ und zu den Hügeln: ‚Bedeckt uns!‘ Denn wenn sie dies mit dem grünen Baum tun, was wird mit dem trockenen geschehen?“
+
+Es waren auch andere da, zwei Verbrecher, die mit ihm zur Hinrichtung geführt wurden. Als sie an den Ort kamen, der „Der Schädel“ genannt wird, kreuzigten sie ihn dort mit den Verbrechern, einen zur Rechten und den anderen zur Linken.
+
+Jesus sagte: „Vater, vergib ihnen, denn sie wissen nicht, was sie tun.“
+
+Seine Kleider teilten sie unter sich auf und warfen das Los. Das Volk stand da und sah zu. Die Herrscher verspotteten ihn ebenfalls und sagten: „Er hat anderen geholfen. Lass ihn sich selbst helfen, wenn er der Christus Gottes ist, der Auserwählte!“
+
+Die Soldaten verspotteten ihn auch und kamen zu ihm und boten ihm Essig an und sagten: „Bist du der König der Juden? Hilf dir selbst!“
+
+Eine Inschrift war auch über ihm geschrieben in griechischen, lateinischen und hebräischen Buchstaben: „DIES IST DER KÖNIG DER JUDEN.“
+
+Einer der Verbrecher, die gekreuzigt wurden, beschimpfte ihn und sagte: „Bist du der Christus? Hilf dir selbst und uns!“
+
+Aber der andere antwortete und wies ihn zurecht: „Fürchtest du Gott nicht einmal, da du unter dem gleichen Urteil bist? Und wir empfangen das gerechte Urteil für unsere Taten; aber dieser Mann hat nichts Unrechtes getan.“ Er sagte zu Jesus: „Herr, gedenke an mich, wenn du in dein Reich kommst.“
+
+Jesus sagte zu ihm: „Wahrlich, ich sage dir: Heute wirst du mit mir im Paradies sein.“
+
+Es war nun etwa die sechste Stunde, und Finsternis kam über das ganze Land bis zur neunten Stunde. Die Sonne wurde finster, und der Vorhang des Tempels riss mitten entzwei. Jesus rief mit lauter Stimme: „Vater, in deine Hände befehle ich meinen Geist!“ Und als er dies gesagt hatte, hauchte er seinen letzten Atemzug aus.
+
+Als der Hauptmann sah, was geschehen war, verherrlichte er Gott und sagte: „Wahrhaftig, dieser Mann war gerecht.“ Alle Volksmengen, die zusammengekommen waren, um dies zu sehen, kehrten heim und schlugen sich an die Brust. Alle seine Bekannten und die Frauen, die ihm aus Galiläa gefolgt waren, standen in der Ferne und schauten auf diese Dinge.
+
+Siehe, da war ein Mann namens Joseph, ein Mitglied des Rates, ein guter und gerechter Mann (er hatte nicht dem Rat und dem Vorhaben zugestimmt), aus Arimathäa, einer Stadt der Juden, der auch auf das Reich Gottes wartete. Dieser Mann ging zu Pilatus und bat um den Leib Jesu. Er nahm ihn ab und wickelte ihn in ein Leinentuch und legte ihn in ein Grab, das in den Felsen gehauen war, wo noch nie jemand gelegen hatte. Es war der Tag der Vorbereitung und der Sabbat nahte. Die Frauen, die mit ihm aus Galiläa gekommen waren, folgten nach und sahen das Grab und wie sein Leib gelegt wurde. Sie kehrten zurück und bereiteten Gewürze und Salben. Am Sabbat ruhten sie nach dem Gebot.
+
+### Kapitel 24
+
+Aber am ersten Tag der Woche, früh am Morgen, kamen sie und einige andere zum Grab und brachten die Gewürze mit, die sie bereitet hatten. Sie fanden den Stein vom Grab weggerollt. Sie traten ein und fanden den Körper des Herrn Jesus nicht. Während sie darüber sehr perplex waren, siehe, standen zwei Männer in strahlenden Kleidern bei ihnen. Sie wurden erschreckt und neigten ihre Gesichter zur Erde.
+
+Die Männer sagten zu ihnen: „Warum sucht ihr den Lebenden bei den Toten? Er ist nicht hier, sondern er ist auferstanden. Erinnert euch daran, was er euch gesagt hat, als er noch in Galiläa war, dass der Menschensohn in die Hände sündiger Menschen überliefert und gekreuzigt werden muss und am dritten Tag auferstehen wird?“
+
+Sie erinnerten sich an seine Worte, kehrten vom Grab zurück und berichteten all diese Dinge den elf Jüngern und allen anderen. Es waren Maria Magdalena, Joanna und Maria, die Mutter des Jakobus. Die anderen Frauen mit ihnen berichteten diese Dinge den Aposteln. Diese Worte schienen ihnen Unsinn zu sein, und sie glaubten ihnen nicht. Aber Petrus stand auf und lief zum Grab. Er beugte sich vor und sah die Leinentücher allein liegen, und er ging nach Hause und wunderte sich, was geschehen war.
+
+Siehe, zwei von ihnen gingen an diesem Tag in ein Dorf namens Emmaus, das sechzig Stadien von Jerusalem entfernt war. Sie sprachen miteinander über all diese Dinge, die geschehen waren. Während sie miteinander sprachen und fragten, kam Jesus selbst näher und ging mit ihnen. Aber ihre Augen wurden daran gehindert, ihn zu erkennen. Er sagte zu ihnen: „Worüber redet ihr, während ihr geht, und seid traurig?“
+
+Einer von ihnen, namens Kleopas, antwortete ihm: „Bist du der einzige Fremde in Jerusalem, der nicht weiß, was dort in diesen Tagen geschehen ist?“
+
+Er sagte zu ihnen: „Was für Dinge?“
+
+Sie sagten zu ihm: „Die Dinge über Jesus von Nazareth, der ein mächtiger Prophet war in Wort und Werk vor Gott und allen Menschen; und wie die Obersten Priester und unsere Herrscher ihn überlieferten, um zum Tode verurteilt zu werden, und ihn kreuzigten. Aber wir hofften, dass er es sei, der Israel erlösen würde. Ja, und neben all dem ist es jetzt der dritte Tag, seit diese Dinge geschehen sind. Auch haben uns einige Frauen aus unserer Gruppe erstaunt, die früh am Grab waren; und als sie seinen Körper nicht fanden, kamen sie und sagten, dass sie auch eine Erscheinung von Engeln gesehen hätten, die sagten, dass er lebt. Einige von uns gingen zum Grab und fanden es so, wie die Frauen gesagt hatten, aber sie sahen ihn nicht.“
+
+Er sagte zu ihnen: „Ihr törichten Menschen und langsam im Herzen zu glauben an all das, was die Propheten gesprochen haben! Musste der Christus nicht diese Dinge leiden und in seine Herrlichkeit eingehen?“ Beginnend bei Mose und von allen Propheten an erklärte er ihnen in allen Schriften die Dinge über sich selbst.
+
+Sie näherten sich dem Dorf, wohin sie gingen, und er tat so, als wollte er weitergehen.
+
+Sie drängten ihn und sagten: „Bleibe bei uns, denn es ist fast Abend, und der Tag neigt sich dem Ende zu.“
+
+Er ging hinein, um bei ihnen zu bleiben. Als er sich mit ihnen zu Tisch setzte, nahm er das Brot, dankte und brach es und gab es ihnen. Ihre Augen wurden geöffnet, und sie erkannten ihn; dann verschwand er aus ihrem Blickfeld. Sie sagten zueinander: „Brennten nicht unsere Herzen in uns, während er unterwegs mit uns sprach und uns die Schriften öffnete?“ Sie standen in derselben Stunde auf, kehrten nach Jerusalem zurück und fanden die elf versammelt sowie die anderen mit ihnen, die sagten: „Der Herr ist wahrhaftig auferstanden und hat sich Simon gezeigt!“ Sie berichteten von den Dingen, die unterwegs geschehen waren, und wie er von ihnen beim Brechen des Brotes erkannt wurde.
+
+Während sie diese Dinge sagten, stand Jesus selbst mitten unter ihnen und sagte zu ihnen: „Friede sei mit euch.“
+
+Aber sie waren erschrocken und voller Furcht und dachten, sie hätten einen Geist gesehen.
+
+Er sagte zu ihnen: „Warum seid ihr beunruhigt? Warum kommen Zweifel in euren Herzen auf? Seht meine Hände und meine Füße an; es bin wirklich ich. Berührt mich und seht; denn ein Geist hat kein Fleisch und keine Knochen, wie ihr seht, dass ich sie habe.“ Als er dies gesagt hatte, zeigte er ihnen seine Hände und Füße. Während sie aus Freude immer noch nicht glaubten und sich wunderten, sagte er zu ihnen: „Habt ihr hier etwas zu essen?“
+
+Sie gaben ihm ein Stück gebratenen Fisch und etwas Honigwaben. Er nahm sie und aß vor ihnen. Er sagte zu ihnen: „Das ist es, was ich euch gesagt habe, während ich noch bei euch war, dass alles, was im Gesetz des Mose, den Propheten und den Psalmen über mich geschrieben steht, erfüllt werden muss.“
+
+Dann öffnete er ihren Verstand, damit sie die Schriften verstehen konnten. Er sagte zu ihnen: „So steht es geschrieben, und so musste der Christus leiden und am dritten Tag von den Toten auferstehen, und dass Buße und Vergebung der Sünden in seinem Namen allen Nationen gepredigt werden soll, beginnend in Jerusalem. Ihr seid Zeugen dieser Dinge. Siehe, ich sende die Verheißung meines Vaters auf euch. Aber wartet in der Stadt Jerusalem, bis ihr mit Kraft aus der Höhe bekleidet werdet.“
+
+Er führte sie bis nach Bethanien hinaus und hob seine Hände und segnete sie. Während er sie segnete, zog er sich von ihnen zurück und wurde in den Himmel aufgenommen. Sie beteten ihn an und kehrten mit großer Freude nach Jerusalem zurück und waren ständig im Tempel und lobten und segneten Gott. Amen.
+
+## Johannes
+
+Die Gute Nachricht nach Johannes
+
+### Kapitel 1
+
+Im Anfang war das Wort, und das Wort war bei Gott, und das Wort war Gott. Dasselbe war im Anfang bei Gott. Alle Dinge sind durch ihn gemacht worden. Ohne ihn ist nichts gemacht worden, was gemacht ist. In ihm war das Leben, und das Leben war das Licht der Menschen. Das Licht scheint in der Dunkelheit, und die Dunkelheit hat es nicht überwunden.
+
+Es kam ein Mensch, von Gott gesandt, dessen Name Johannes war. Dieser kam als Zeuge, um von dem Licht zu zeugen, damit alle durch ihn glauben. Er war nicht das Licht, sondern wurde gesandt, um von dem Licht zu zeugen. Das wahre Licht, das jeden Menschen erleuchtet, kam in die Welt.
+
+Er war in der Welt, und die Welt wurde durch ihn gemacht, und die Welt erkannte ihn nicht. Er kam zu seinen eigenen, und die Seinen nahmen ihn nicht auf. Aber so viele ihn aufnahmen, denen gab er das Recht, Kinder Gottes zu werden, denen, die an seinen Namen glauben: die nicht aus Blut, noch aus dem Willen des Fleisches, noch aus dem Willen eines Mannes geboren wurden, sondern von Gott.
+
+Das Wort wurde Fleisch und wohnte unter uns. Wir sahen seine Herrlichkeit, eine Herrlichkeit als des einziggeborenen Sohnes vom Vater, voller Gnade und Wahrheit. Johannes gab Zeugnis von ihm. Er rief und sprach: „Dieser ist es, von dem ich sagte: ‚Der nach mir kommt, ist mir voraus, denn er war vor mir.‘“ Aus seiner Fülle haben wir alle Gnade um Gnade empfangen. Denn das Gesetz wurde durch Mose gegeben. Die Gnade und die Wahrheit sind durch Jesus Christus offenbar geworden. Niemand hat Gott jemals gesehen. Der einziggeborene Sohn, der im Schoß des Vaters ist, hat ihn erklärt.
+
+Dies ist das Zeugnis des Johannes, als die Juden Priester und Leviten von Jerusalem sandten, um ihn zu fragen: „Wer bist du?“
+
+Er bekannte und leugnete nicht, sondern er bekannte: „Ich bin nicht der Christus.“
+
+Sie fragten ihn: „Was dann? Bist du Elia?“
+
+Er sagte: „Ich bin es nicht.“
+
+„Bist du der Prophet?“
+
+Er antwortete: „Nein.“
+
+Sie sagten daher zu ihm: „Wer bist du? Gib uns eine Antwort, die wir denjenigen zurückbringen können, die uns gesandt haben. Was sagst du über dich selbst?“
+
+Er sagte: „Ich bin die Stimme eines Rufenden in der Wüste: ‚Bereitet den Weg des Herrn!‘, wie der Prophet Jesaja gesagt hat.“
+
+Diejenigen, die gesandt worden waren, waren von den Pharisäern. Sie fragten ihn: „Warum taufst du dann, wenn du nicht der Christus bist, noch Elia, noch der Prophet?“
+
+Johannes antwortete ihnen: „Ich taufe mit Wasser; aber unter euch steht einer, den ihr nicht kennt. Er ist es, der nach mir kommt, der mir voraus ist, dessen Schuhriemen ich nicht wert bin zu lösen.“ Diese Dinge geschahen in Bethanien jenseits des Jordan, wo Johannes taufte.
+
+Am nächsten Tag sah er Jesus auf sich zukommen und sagte: „Siehe, das Lamm Gottes, das die Sünde der Welt wegnimmt! Dies ist derjenige, von dem ich sagte: ‚Nach mir kommt ein Mann, der mir voraus ist; denn er war vor mir.‘ Ich kannte ihn nicht; aber aus diesem Grund bin ich gekommen, um mit Wasser zu taufen, damit er Israel offenbart werde.“ Johannes gab Zeugnis und sprach: „Ich habe den Geist wie eine Taube vom Himmel herabsteigen gesehen, und er blieb auf ihm. Ich kannte ihn nicht; aber der mich gesandt hat zu taufen mit Wasser, der sagte zu mir: ‚Auf wen du den Geist herabsteigen und auf ihm bleiben siehst, der ist es, der mit dem Heiligen Geist tauft.‘ Ich habe gesehen und habe bezeugt, dass dies der Sohn Gottes ist.“
+
+Wieder am nächsten Tag stand Johannes mit zwei seiner Jünger und sah Jesus gehen und sagte: „Siehe, das Lamm Gottes!“ Die beiden Jünger hörten ihn reden und folgten Jesus. Jesus wandte sich um und sah sie folgen und sagte zu ihnen: „Was sucht ihr?“
+
+Sie sagten zu ihm: „Rabbi“ (was übersetzt Lehrer bedeutet), „wo bleibst du?“
+
+Er sagte zu ihnen: „Kommt und seht.“
+
+Sie kamen und sahen, wo er blieb, und sie blieben an diesem Tag bei ihm. Es war etwa die zehnte Stunde. Einer der beiden, die Johannes gehört und ihm gefolgt waren, war Andreas, der Bruder von Simon Petrus. Er fand zuerst seinen eigenen Bruder Simon und sagte zu ihm: „Wir haben den Messias gefunden!“ (was übersetzt Christus bedeutet). Er brachte ihn zu Jesus. Jesus sah ihn an und sagte: „Du bist Simon, der Sohn des Jonas. Du sollst Kephas genannt werden“ (was übersetzt Petrus bedeutet).
+
+Am nächsten Tag war er entschlossen, nach Galiläa zu gehen, und fand Philippus. Jesus sagte zu ihm: „Folge mir nach.“ Philippus war aus Bethsaida, der Stadt von Andreas und Petrus. Philippus fand Nathanael und sagte zu ihm: „Wir haben den gefunden, von dem Mose im Gesetz und auch die Propheten geschrieben haben: Jesus von Nazareth, den Sohn des Joseph.“
+
+Nathanael sagte zu ihm: „Kann denn etwas Gutes aus Nazareth kommen?“
+
+Philippus sagte zu ihm: „Komm und sieh.“
+
+Jesus sah Nathanael auf sich zukommen und sagte über ihn: „Siehe, ein wahrer Israelit, in dem kein Betrug ist!“
+
+Nathanael sagte zu ihm: „Wie kennst du mich?“
+
+Jesus antwortete ihm: „Bevor Philippus dich rief, als du unter dem Feigenbaum warst, habe ich dich gesehen.“
+
+Nathanael antwortete ihm: „Rabbi, du bist der Sohn Gottes! Du bist der König von Israel!“
+
+Jesus antwortete ihm: „Weil ich dir gesagt habe: ‚Ich sah dich unter dem Feigenbaum‘, glaubst du? Du wirst größere Dinge sehen als diese!“ Er sagte zu ihm: „Wahrlich, ich sage euch allen, von nun an werdet ihr den Himmel geöffnet sehen und die Engel Gottes auf- und niedersteigen über den Sohn des Menschen.“
+
+### Kapitel 2
+
+Am dritten Tag war eine Hochzeit in Kana in Galiläa. Die Mutter Jesu war dort. Auch Jesus wurde mit seinen Jüngern zur Hochzeit eingeladen. Als der Wein ausging, sagte die Mutter Jesu zu ihm: „Sie haben keinen Wein mehr.“
+
+Jesus sagte zu ihr: „Frau, was geht das dich und mich an? Meine Stunde ist noch nicht gekommen.“
+
+Seine Mutter sagte zu den Dienern: „Was auch immer er euch sagt, das tut.“
+
+Nun standen dort sechs steinerne Wasserkrüge, die nach der jüdischen Art der Reinigung aufgestellt waren, und jeder Krug fasste zwei oder drei Metretas. Jesus sagte zu ihnen: „Füllt die Wasserkrüge mit Wasser.“ Und sie füllten sie bis zum Rand. Er sagte zu ihnen: „Zieht jetzt etwas heraus und bringt es dem Speisemeister.“ Und sie brachten es. Als der Speisemeister das Wasser, das Wein geworden war, kostete und nicht wusste, woher es kam (aber die Diener, die das Wasser geschöpft hatten, wussten es), rief der Speisemeister den Bräutigam und sagte zu ihm: „Jeder Mensch reicht zuerst den guten Wein und wenn die Gäste reichlich getrunken haben, dann den schlechteren. Du hast den guten Wein bis jetzt aufbewahrt!“ Diesen Anfang seiner Zeichen tat Jesus in Kana in Galiläa und offenbarte seine Herrlichkeit; und seine Jünger glaubten an ihn.
+
+Nach diesem ging er nach Kapernaum, er und seine Mutter und seine Brüder und seine Jünger; und sie blieben dort einige Tage.
+
+Das Passah der Juden war nahe, und Jesus ging nach Jerusalem hinauf. Er fand im Tempel die Verkäufer von Ochsen, Schafen und Tauben sowie die Geldwechsler sitzen. Er machte eine Peitsche aus Stricken und trieb alle aus dem Tempel hinaus, sowohl die Schafe als auch die Ochsen; und er schüttete das Geld der Geldwechsler aus und stieß ihre Tische um. Zu denen, die die Tauben verkauften, sagte er: „Nehmt diese Dinge hier weg! Macht das Haus meines Vaters nicht zu einem Marktplatz!“ Seine Jünger erinnerten sich daran, dass geschrieben steht: „Der Eifer für dein Haus wird mich verzehren.“
+
+Die Juden antworteten ihm daher: „Welches Zeichen zeigst du uns, da du diese Dinge tust?“
+
+Jesus antwortete ihnen: „Reißt diesen Tempel nieder, und in drei Tagen werde ich ihn wieder aufrichten.“
+
+Die Juden sagten daher: „Sechundvierzig Jahre wurde an diesem Tempel gebaut! Wirst du ihn in drei Tagen wieder aufrichten?“ Aber er sprach von dem Tempel seines Leibes. Als er also von den Toten auferweckt wurde, erinnerten sich seine Jünger daran, dass er dies gesagt hatte, und sie glaubten der Schrift und dem Wort, das Jesus gesagt hatte.
+
+Jetzt, als er in Jerusalem beim Passahfest war, glaubten viele in seinen Namen, als sie die Zeichen sahen, die er tat. Aber Jesus vertraute sich ihnen nicht an, weil er alle kannte und weil er nicht brauchte, dass jemand über den Menschen Zeugnis ablegte; denn er wusste selbst, was im Menschen war.
+
+### Kapitel 3
+
+Es war aber ein Mann von den Pharisäern, namens Nikodemus, ein Oberster der Juden. Er kam bei Nacht zu Jesus und sagte zu ihm: „Rabbi, wir wissen, dass du ein Lehrer bist, der von Gott gekommen ist; denn niemand kann diese Zeichen tun, die du tust, es sei denn, Gott ist mit ihm.“
+
+Jesus antwortete ihm: „Wahrlich, wahrlich, ich sage dir: Wenn jemand nicht von neuem geboren wird, kann er das Reich Gottes nicht sehen.“
+
+Nikodemus sagte zu ihm: „Wie kann ein Mensch geboren werden, wenn er alt ist? Kann er etwa zum zweiten Mal in den Mutterleib seiner Mutter eingehen und geboren werden?“
+
+Jesus antwortete: „Wahrlich, wahrlich, ich sage dir: Wenn jemand nicht aus Wasser und Geist geboren wird, kann er nicht in das Reich Gottes eingehen. Was aus dem Fleisch geboren ist, ist Fleisch; und was aus dem Geist geboren ist, ist Geist. Wundere dich nicht, dass ich dir gesagt habe: ‚Ihr müsst von neuem geboren werden.‘ Der Wind weht, wo er will, und du hörst sein Geräusch; aber du weißt nicht, woher er kommt und wohin er geht. So ist jeder, der aus dem Geist geboren ist.“
+
+Nikodemus antwortete ihm: „Wie kann das geschehen?“
+
+Jesus antwortete ihm: „Bist du der Lehrer Israels und verstehst diese Dinge nicht? Wahrlich, wahrlich, ich sage dir: Wir reden von dem, was wir wissen, und bezeugen, was wir gesehen haben; und ihr nehmt unser Zeugnis nicht an. Wenn ich euch irdische Dinge sage und ihr nicht glaubt, wie werdet ihr glauben, wenn ich euch himmlische Dinge sage? Niemand ist in den Himmel aufgefahren, außer dem, der aus dem Himmel herabgekommen ist, der Sohn des Menschen, der im Himmel ist. Und wie Mose die Schlange in der Wüste erhöht hat, so muss der Sohn des Menschen erhöht werden, damit jeder, der an ihn glaubt, nicht verloren gehe, sondern ewiges Leben habe. Denn so hat Gott die Welt geliebt, dass er seinen einzigen Sohn gab, damit jeder, der an ihn glaubt, nicht verloren gehe, sondern ewiges Leben habe. Denn Gott hat seinen Sohn nicht in die Welt gesandt, um die Welt zu richten, sondern damit die Welt durch ihn gerettet werde. Wer an ihn glaubt, wird nicht gerichtet; wer aber nicht glaubt, ist schon gerichtet, weil er nicht geglaubt hat an den Namen des einzigen Sohnes Gottes. Das ist das Gericht: dass das Licht in die Welt gekommen ist und die Menschen die Finsternis mehr geliebt haben als das Licht; denn ihre Werke waren böse. Denn jeder, der Böses tut, hasst das Licht und kommt nicht zum Licht, damit seine Werke nicht offenbar werden. Wer aber die Wahrheit tut, kommt zum Licht, damit offenbar wird, dass seine Werke in Gott getan sind.“
+
+Nach diesen Dingen kam Jesus mit seinen Jüngern in das Land Judäa. Er blieb dort mit ihnen und taufte. Auch Johannes taufte in Enon nahe Salim; denn dort war viel Wasser. Und sie kamen und wurden getauft; denn Johannes war noch nicht ins Gefängnis geworfen worden. Daher entstand eine Streitigkeit von Seiten der Jünger Johannes mit einigen Juden über die Reinigung. Sie kamen zu Johannes und sagten zu ihm: „Rabbi, der mit dir jenseits des Jordan war, dem du Zeugnis gegeben hast – siehe, er tauft und alle kommen zu ihm.“
+
+Johannes antwortete: „Ein Mensch kann nichts empfangen, es sei denn, es ist ihm vom Himmel gegeben. Ihr selbst bezeugt mir, dass ich gesagt habe: ‚Ich bin nicht der Christus‘; sondern: ‚Ich bin gesandt vor ihm.‘ Der die Braut hat, ist der Bräutigam; aber der Freund des Bräutigams, der steht und ihn hört, freut sich sehr über die Stimme des Bräutigams. Daher ist meine Freude erfüllt. Er muss wachsen; ich aber muss abnehmen.
+
+„Der von oben kommt, ist über allen; der von der Erde ist irdisch und redet von der Erde. Der vom Himmel kommt, ist über allen. Was er gesehen und gehört hat, davon gibt er Zeugnis; und niemand nimmt sein Zeugnis an. Wer sein Zeugnis angenommen hat, hat sein Siegel gesetzt darauf, dass Gott wahrhaftig ist. Denn den Gott gesandt hat, spricht die Worte Gottes; denn Gott gibt den Geist ohne Maß. Der Vater liebt den Sohn und hat alles in seine Hand gegeben. Wer an den Sohn glaubt, hat ewiges Leben; wer aber dem Sohn ungehorsam ist, wird das Leben nicht sehen; sondern der Zorn Gottes bleibt auf ihm.“
+
+### Kapitel 4
+
+Als der Herr nun wusste, dass die Pharisäer gehört hatten, dass Jesus mehr Jünger machte und taufte als Johannes (obwohl Jesus selbst nicht taufte, sondern seine Jünger), verließ er Judäa und ging nach Galiläa. Er musste durch Samaria reisen. So kam er in eine Stadt Samarias, die Sychar genannt wird, nahe dem Grundstück, das Jakob seinem Sohn Joseph gab. Dort war der Jakobsbrunnen. Jesus setzte sich also, müde von der Reise, an den Brunnen. Es war etwa die sechste Stunde.
+
+Eine Frau aus Samaria kam, um Wasser zu schöpfen. Jesus sagte zu ihr: „Gib mir zu trinken.“ Denn seine Jünger waren in die Stadt gegangen, um Essen zu kaufen.
+
+Die samaritanische Frau sagte daher zu ihm: „Wie kommt es, dass du, ein Jude, von mir, einer samaritanischen Frau, um einen Trank bittest?“ (Denn Juden haben keine Gemeinschaft mit Samaritern.)
+
+Jesus antwortete ihr: „Wenn du wüsstest, welches Geschenk Gott ist und wer der ist, der zu dir sagt: ‚Gib mir zu trinken‘, hättest du ihn gebeten, und er hätte dir lebendiges Wasser gegeben.“
+
+Die Frau sagte zu ihm: „Herr, du hast nichts, womit du schöpfen könntest, und der Brunnen ist tief. Woher hast du also das lebendige Wasser? Bist du größer als unser Vater Jakob, der uns den Brunnen gab und selbst daraus trank, ebenso wie seine Kinder und sein Vieh?“
+
+Jesus antwortete ihr: „Jeder, der von diesem Wasser trinkt, wird wieder Durst haben; aber wer von dem Wasser trinkt, das ich ihm geben werde, wird niemals wieder Durst haben; sondern das Wasser, das ich ihm geben werde, wird in ihm eine Quelle von Wasser werden, die bis ins ewige Leben sprudelt.“
+
+Die Frau sagte zu ihm: „Herr, gib mir dieses Wasser, damit ich nicht durstig werde und nicht hierher kommen muss, um zu schöpfen.“
+
+Jesus sagte zu ihr: „Geh, rufe deinen Mann und komm hierher.“
+
+Die Frau antwortete: „Ich habe keinen Mann.“
+
+Jesus sagte zu ihr: „Du hast recht gesagt: ‚Ich habe keinen Mann‘; denn du hast fünf Männer gehabt, und der, den du jetzt hast, ist nicht dein Mann. Das hast du wahrhaftig gesagt.“
+
+Die Frau sagte zu ihm: „Herr, ich sehe, dass du ein Prophet bist. Unsere Väter haben auf diesem Berg angebetet, und ihr Juden sagt, dass in Jerusalem der Ort ist, wo man anbeten soll.“
+
+Jesus sagte zu ihr: „Frau, glaube mir, die Stunde kommt, da werdet ihr weder auf diesem Berg noch in Jerusalem den Vater anbeten. Ihr betet an, was ihr nicht kennt; wir beten an, was wir kennen; denn das Heil kommt von den Juden. Aber die Stunde kommt und ist jetzt, da die wahren Anbeter den Vater im Geist und in der Wahrheit anbeten werden; denn der Vater sucht solche Anbeter. Gott ist Geist, und die ihn anbeten müssen im Geist und in der Wahrheit anbeten.“
+
+Die Frau sagte zu ihm: „Ich weiß, dass der Messias kommt, der Christus genannt wird. Wenn er kommt, wird er uns alle Dinge verkünden.“
+
+Jesus sagte zu ihr: „Ich bin es, der mit dir spricht.“
+
+Gerade dann kamen seine Jünger. Sie wunderten sich, dass er mit einer Frau sprach; doch niemand sagte: „Was suchst du?“ oder: „Warum sprichst du mit ihr?“ Da ließ die Frau ihren Wasserkrug stehen, ging in die Stadt und sagte zu den Leuten: „Kommt, seht einen Mann, der mir alles gesagt hat, was ich getan habe. Kann das der Christus sein?“ Sie gingen aus der Stadt hinaus und kamen zu ihm.
+
+Inzwischen drängten ihn die Jünger und sagten: „Rabbi, iss.“
+
+Er aber sagte zu ihnen: „Ich habe Nahrung zu essen, von der ihr nichts wisst.“
+
+Die Jünger sagten daher zueinander: „Hat ihm jemand etwas zu essen gebracht?“
+
+Jesus sagte zu ihnen: „Meine Nahrung ist es, den Willen dessen zu tun, der mich gesandt hat, und sein Werk zu vollbringen. Sagt ihr nicht: ‚Es sind noch vier Monate bis zur Ernte‘? Siehe, ich sage euch: Hebt eure Augen empor und seht die Felder an; sie sind schon weiß zur Ernte. Und wer erntet, empfängt Lohn und sammelt Frucht zum ewigen Leben; damit sich sowohl der Sämann als auch der Erntearbeiter freuen können. Denn hierin ist das Sprichwort wahr: ‚Der eine sät und der andere erntet.‘ Ich habe euch gesandt zu ernten, was ihr nicht bearbeitet habt. Andere haben gearbeitet, und ihr seid in ihre Arbeit eingetreten.“
+
+Aus dieser Stadt glaubten viele Samariter an ihn wegen des Wortes der Frau, die bezeugte: „Er hat mir alles gesagt, was ich getan habe.“ Als nun die Samariter zu ihm kamen, baten sie ihn, bei ihnen zu bleiben. Und er blieb dort zwei Tage. Viele weitere glaubten wegen seines Wortes. Sie sagten zu der Frau: „Jetzt glauben wir nicht mehr wegen deiner Rede; denn wir haben selbst gehört und wissen, dass dies wahrhaftig der Christus ist, der Retter der Welt.“
+
+Nach zwei Tagen ging er von dort weg und kam nach Galiläa. Denn Jesus selbst bezeugte, dass ein Prophet in seinem eigenen Land keine Ehre hat. Als er also nach Galiläa kam, empfingen ihn die Galiläer, da sie all die Dinge gesehen hatten, die er in Jerusalem beim Fest getan hatte, denn sie waren auch zum Fest gegangen. Jesus kam daher wieder nach Kana in Galiläa, wo er das Wasser in Wein verwandelt hatte. Es war ein gewisser Edelmann, dessen Sohn in Kapernaum krank war. Als er hörte, dass Jesus aus Judäa nach Galiläa gekommen war, ging er zu ihm und bat ihn, dass er herabkomme und seinen Sohn heile, denn er war im Sterben. Jesus sagte zu ihm: „Wenn ihr nicht Zeichen und Wunder seht, werdet ihr auf keinen Fall glauben.“
+
+Der Edelmann sagte zu ihm: „Herr, komm herab, bevor mein Kind stirbt.“
+
+Jesus sagte zu ihm: „Geh hin; dein Sohn lebt.“ Der Mann glaubte dem Wort, das Jesus zu ihm sprach, und ging seines Weges. Während er hinabging, begegneten ihm seine Diener und berichteten ihm: „Dein Kind lebt!“ Da erkundigte er sich bei ihnen nach der Stunde, in der es ihm besser ging. Sie sagten zu ihm: „Gestern um die siebte Stunde ließ das Fieber von ihm.“ So wusste der Vater, dass es zu der Stunde war, in der Jesus zu ihm gesagt hatte: „Dein Sohn lebt.“ Er glaubte, ebenso wie sein ganzes Haus. Dies ist das zweite Zeichen, das Jesus tat, als er aus Judäa nach Galiläa kam.
+
+### Kapitel 5
+
+Nach diesen Dingen war ein Fest der Juden, und Jesus ging nach Jerusalem. Nun gibt es in Jerusalem bei dem Schaftor einen Teich, der auf Hebräisch „Bethesda“ heißt und fünf Säulenhallen hat. In diesen lagen eine große Menge von Kranken, Blinden, Lahmen oder Gelähmten, die auf die Bewegung des Wassers warteten; denn ein Engel ging zu bestimmten Zeiten in den Teich und bewegte das Wasser. Wer zuerst nach der Bewegung des Wassers hineintrat, wurde von welcher Krankheit auch immer geheilt. Ein gewisser Mann war dort, der seit achtundreißig Jahren krank war. Als Jesus ihn dort liegen sah und wusste, dass er schon lange krank war, fragte er ihn: „Willst du gesund werden?“
+
+Der kranke Mann antwortete ihm: „Herr, ich habe niemanden, der mich in den Teich bringt, wenn das Wasser bewegt wird; während ich komme, steigt ein anderer vor mir hinab.“
+
+Jesus sagte zu ihm: „Steh auf, nimm deine Matte und geh!“
+
+Sofort wurde der Mann gesund, nahm seine Matte und ging.
+
+Nun war dieser Tag ein Sabbat. Da sagten die Juden zu dem Geheilten: „Es ist Sabbat; es ist dir nicht erlaubt, die Matte zu tragen.“
+
+Er antwortete ihnen: „Der mich gesund gemacht hat, sagte zu mir: ‚Nimm deine Matte und geh!‘“
+
+Dann fragten sie ihn: „Wer ist der Mensch, der dir gesagt hat: ‚Nimm deine Matte und geh!‘?“
+
+Aber der Geheilte wusste nicht, wer es war; denn Jesus hatte sich zurückgezogen, da eine Menge Menschen an dem Ort war.
+
+Später fand Jesus ihn im Tempel und sagte zu ihm: „Sieh zu, du bist gesund geworden; sündige nicht mehr, damit dir nicht etwas Schlimmeres widerfährt.“
+
+Der Mann ging weg und berichtete den Juden, dass es Jesus war, der ihn gesund gemacht hatte. Deshalb verfolgten die Juden Jesus und suchten ihn zu töten, weil er diese Dinge am Sabbat tat. Aber Jesus antwortete ihnen: „Mein Vater arbeitet bis jetzt, und ich arbeite auch.“
+
+Deshalb suchten die Juden umso mehr ihn zu töten, weil er nicht nur den Sabbat brach, sondern auch Gott seinen eigenen Vater nannte und sich selbst Gott gleich machte. Jesus antwortete ihnen daher: „Wahrlich, ich sage euch: Der Sohn kann nichts von sich selbst tun, sondern nur das, was er den Vater tun sieht. Denn was immer dieser tut, das tut auch der Sohn ebenso. Denn der Vater hat den Sohn lieb und zeigt ihm alles, was er selbst tut; und er wird ihm größere Werke zeigen als diese, damit ihr euch wundert. Denn wie der Vater die Toten auferweckt und ihnen Leben gibt, so gibt auch der Sohn denen Leben, denen er will. Denn der Vater richtet niemanden, sondern hat alles Gericht dem Sohn gegeben, damit alle den Sohn ehren, wie sie den Vater ehren. Wer den Sohn nicht ehrt, ehrt den Vater nicht, der ihn gesandt hat.
+
+„Wahrlich, ich sage euch: Wer mein Wort hört und glaubt dem, der mich gesandt hat, hat ewiges Leben und kommt nicht ins Gericht, sondern ist aus dem Tod ins Leben übergegangen. Wahrlich, ich sage euch: Die Stunde kommt und ist jetzt da, in der die Toten die Stimme des Sohnes Gottes hören werden; und die hören werden leben. Denn wie der Vater das Leben in sich selbst hat, so hat er auch dem Sohn gegeben, das Leben in sich selbst zu haben. Und er hat ihm Vollmacht gegeben, Gericht zu halten; denn er ist ein Menschensohn. Wundert euch nicht darüber; denn die Stunde kommt, in der alle, die in den Gräbern sind, seine Stimme hören werden und herauskommen werden; die Gutes getan haben zur Auferstehung des Lebens; und die Böses getan haben zur Auferstehung des Gerichts. Ich kann von mir selbst nichts tun; wie ich höre, richte ich; und mein Gericht ist gerecht; denn ich suche nicht meinen Willen, sondern den Willen des Vaters, der mich gesandt hat.
+
+„Wenn ich über mich selbst Zeugnis abgebe, ist mein Zeugnis nicht gültig. Es ist ein anderer, der über mich Zeugnis ablegt. Ich weiß, dass das Zeugnis, das er über mich ablegt, wahr ist. Ihr habt zu Johannes gesandt, und er hat zur Wahrheit Zeugnis abgelegt. Aber das Zeugnis, das ich empfange, ist nicht von Menschen. Dennoch sage ich diese Dinge, damit ihr gerettet werdet. Er war die brennende und leuchtende Lampe, und ihr wart bereit, eine Zeitlang in seinem Licht zu freuen. Aber das Zeugnis, das ich habe, ist größer als das von Johannes; denn die Werke, die der Vater mir gegeben hat, um sie zu vollbringen, die Werke, die ich tue, zeugen von mir, dass der Vater mich gesandt hat. Der Vater selbst, der mich gesandt hat, hat über mich Zeugnis abgelegt. Ihr habt seine Stimme zu keiner Zeit gehört, noch seine Gestalt gesehen. Ihr habt sein Wort nicht in euch, weil ihr nicht an den glaubt, den er gesandt hat.
+
+„Ihr durchforscht die Schriften, weil ihr denkt, dass ihr in ihnen ewiges Leben habt; und diese sind es, die von mir zeugen. Doch ihr wollt nicht zu mir kommen, damit ihr Leben habt. Ich empfange keine Ehre von Menschen. Aber ich kenne euch, dass ihr die Liebe Gottes nicht in euch habt. Ich bin im Namen meines Vaters gekommen, und ihr empfangt mich nicht. Wenn ein anderer in seinem eigenen Namen kommt, werdet ihr ihn empfangen. Wie könnt ihr glauben, die ihr Ehre voneinander empfangt und die Ehre nicht sucht, die vom einzigen Gott kommt?
+
+„Denkt nicht, dass ich euch beim Vater anklagen werde. Es gibt einen, der euch anklagt, sogar Mose, auf den ihr eure Hoffnung gesetzt habt. Denn wenn ihr Mose geglaubt hättet, würdet ihr mir glauben; denn er schrieb über mich. Wenn ihr aber seinen Schriften nicht glaubt, wie werdet ihr meinen Worten glauben?“
+
+### Kapitel 6
+
+Nach diesen Dingen ging Jesus an die andere Seite des Sees von Galiläa, der auch See von Tiberias genannt wird. Eine große Menge folgte ihm, weil sie seine Zeichen sahen, die er bei den Kranken tat. Jesus ging auf den Berg und setzte sich dort mit seinen Jüngern. Das Passahfest der Juden war nahe. Jesus hob daher seine Augen auf und sah, dass eine große Menge zu ihm kam, und sagte zu Philippus: „Wo sollen wir Brot kaufen, damit diese essen?“ Dies sagte er, um ihn zu prüfen; denn er wusste selbst, was er tun würde.
+
+Philippus antwortete ihm: „Zweihundert Denare Brot sind nicht genug für sie, dass jeder von ihnen ein wenig empfängt.“
+
+Einer seiner Jünger, Andreas, der Bruder von Simon Petrus, sagte zu ihm: „Es ist ein Junge hier, der fünf Gerstenbrote und zwei Fische hat; aber was sind diese unter so vielen?“
+
+Jesus sagte: „Lasst die Leute sich setzen.“ Nun war viel Gras an diesem Ort. So setzten sich die Männer in Zahl etwa fünftausend. Jesus nahm die Brote und dankte und verteilte sie an die Jünger und die Jünger an die, die sich gesetzt hatten; ebenso auch von den Fischen so viel sie wollten. Als sie satt wurden, sagte er zu seinen Jüngern: „Sammelt die übrig gebliebenen Stücke ein, damit nichts verloren gehe.“ So sammelten sie und füllten zwölf Körbe mit den übrig gebliebenen Stückchen von den fünf Gerstenbroten, die von denen übrig geblieben waren, die gegessen hatten. Als nun die Leute das Zeichen sahen, das Jesus getan hatte, sagten sie: „Das ist wahrhaftig der Prophet, der in die Welt kommen soll.“ Jesus aber erkannte, dass sie kommen wollten, um ihn mit Gewalt zu nehmen und ihn zum König zu machen; da zog er sich wieder allein auf den Berg zurück.
+
+Als es Abend wurde, gingen seine Jünger hinunter zum Meer. Sie stiegen in das Boot und fuhren über das Meer nach Kapernaum. Es war nun dunkel geworden und Jesus war nicht zu ihnen gekommen. Das Meer war durch einen großen Wind aufgepeitscht. Als sie also etwa fünfundzwanzig oder dreißig Stadien gerudert hatten, sahen sie Jesus auf dem Meer gehen und sich dem Boot nähern; und sie fürchteten sich. Er aber sagte zu ihnen: „Ich bin es. Fürchtet euch nicht.“ Sie waren daher bereit, ihn ins Boot aufzunehmen. Sofort war das Boot am Land, wohin sie fuhren.
+
+Am nächsten Tag sah die Menge, die auf der anderen Seite des Meeres stand, dass dort kein anderes Boot war außer dem einen, in das seine Jünger gestiegen waren; und dass Jesus nicht mit seinen Jüngern in das Boot eingestiegen war, sondern seine Jünger allein weggefahren waren. Doch Boote aus Tiberias kamen nahe zu dem Ort, wo sie das Brot gegessen hatten, nachdem der Herr gedankt hatte. Als nun die Menge sah, dass Jesus nicht dort war und auch seine Jünger nicht, stiegen sie selbst in die Boote und kamen nach Kapernaum und suchten Jesus. Als sie ihn auf der anderen Seite des Meeres fanden, fragten sie ihn: „Rabbi, wann bist du hierher gekommen?“
+
+Jesus antwortete ihnen: „Wahrlich, ich sage euch, ihr sucht mich nicht, weil ihr Zeichen gesehen habt, sondern weil ihr von den Broten gegessen und euch satt gefressen habt. Arbeitet nicht für die Speise, die vergeht, sondern für die Speise, die bleibt zum ewigen Leben, die euch der Sohn des Menschen geben wird. Denn ihn hat Gott, der Vater, besiegelt.“
+
+Sie sagten daher zu ihm: „Was müssen wir tun, um die Werke Gottes zu wirken?“
+
+Jesus antwortete ihnen: „Das ist das Werk Gottes, dass ihr an den glaubt, den er gesandt hat.“
+
+Sie sagten daher zu ihm: „Was tust du dann für ein Zeichen, damit wir sehen und dir glauben? Was für ein Werk tust du? Unsere Väter aßen das Manna in der Wüste. Wie geschrieben steht: ‚Er gab ihnen Brot vom Himmel zu essen.‘“
+
+Jesus sagte daher zu ihnen: „Wahrlich, ich sage euch, es war nicht Mose, der euch das Brot vom Himmel gab, sondern mein Vater gibt euch das wahre Brot vom Himmel. Denn das Brot Gottes ist das, was vom Himmel herabkommt und der Welt Leben gibt.“
+
+Sie sagten daher zu ihm: „Herr, gib uns immer dieses Brot.“
+
+Jesus sagte zu ihnen: „Ich bin das Brot des Lebens. Wer zu mir kommt, wird nicht hungern, und wer an mich glaubt, wird niemals Durst haben. Aber ich habe euch gesagt, dass ihr mich gesehen habt und doch nicht glaubt. Alle, die der Vater mir gibt, werden zu mir kommen. Und den, der zu mir kommt, werde ich auf keinen Fall hinausstoßen. Denn ich bin vom Himmel herabgekommen, nicht um meinen Willen zu tun, sondern den Willen dessen, der mich gesandt hat. Dies ist der Wille meines Vaters, der mich gesandt hat, dass ich von allem, was er mir gegeben hat, nichts verlieren soll, sondern ihn am letzten Tag auferwecken soll. Dies ist der Wille dessen, der mich gesandt hat, dass jeder, der den Sohn sieht und an ihn glaubt, ewiges Leben haben soll; und ich werde ihn am letzten Tag auferwecken.“
+
+Die Juden murrten daher über ihn, weil er sagte: „Ich bin das Brot, das vom Himmel herabgekommen ist.“ Sie sagten: „Ist das nicht Jesus, der Sohn des Joseph, dessen Vater und Mutter wir kennen? Wie kann er dann sagen: ‚Ich bin vom Himmel herabgekommen‘?“
+
+Darauf antwortete Jesus ihnen: „Murrt nicht untereinander. Niemand kann zu mir kommen, es sei denn, der Vater, der mich gesandt hat, zieht ihn; und ich werde ihn am letzten Tag auferwecken. Es steht in den Propheten geschrieben: ‚Sie werden alle von Gott gelehrt werden.‘ Jeder, der vom Vater hört und gelernt hat, kommt zu mir. Nicht dass jemand den Vater gesehen hat, außer dem, der von Gott ist; er hat den Vater gesehen. Wahrlich, ich sage euch: Wer an mich glaubt, hat ewiges Leben. Ich bin das Brot des Lebens. Eure Väter aßen das Manna in der Wüste und sie starben. Dies ist das Brot, das vom Himmel herabkommt, damit jemand davon esse und nicht sterbe. Ich bin das lebendige Brot, das vom Himmel herabgekommen ist. Wenn jemand von diesem Brot isst, wird er ewig leben. Ja, das Brot, das ich geben werde für das Leben der Welt, ist mein Fleisch.“
+
+Die Juden stritten daher untereinander und sagten: „Wie kann dieser Mann uns sein Fleisch zu essen geben?“
+
+Jesus sagte daher zu ihnen: „Wahrlich, ich sage euch: Wenn ihr nicht das Fleisch des Sohnes des Menschen esst und sein Blut trinkt, habt ihr kein Leben in euch. Wer mein Fleisch isst und mein Blut trinkt, hat ewiges Leben; und ich werde ihn am letzten Tag auferwecken. Denn mein Fleisch ist wahrhaftige Speise und mein Blut ist wahrhaftiger Trank. Wer mein Fleisch isst und mein Blut trinkt, bleibt in mir und ich in ihm. Wie mich der lebendige Vater gesandt hat und ich lebe um des Vaters willen, so wird auch der, der mich isst, um meinetwillen leben. Dies ist das Brot, das vom Himmel herabgekommen ist; nicht wie eure Väter das Manna aßen und starben. Wer dieses Brot isst, wird ewig leben.“ Diese Dinge sprach er in der Synagoge, als er in Kapernaum lehrte.
+
+Darum sagten viele seiner Jünger, als sie dies hörten: „Das ist eine harte Rede! Wer kann sie hören?“
+
+Aber Jesus wusste in sich selbst, dass seine Jünger darüber murrten und sagte zu ihnen: „Bringt euch das zum Straucheln? Was wird dann sein, wenn ihr den Sohn des Menschen dorthin aufsteigen seht, wo er zuvor war? Der Geist ist es, der Leben gibt; das Fleisch nützt nichts. Die Worte, die ich zu euch rede, sind Geist und sind Leben. Aber es gibt einige unter euch, die glauben nicht.“ Denn Jesus wusste von Anfang an, wer sie waren, die nicht glaubten und wer ihn verraten würde. Er sagte: „Darum habe ich euch gesagt: Niemand kann zu mir kommen, es sei denn, es wird ihm von meinem Vater gegeben.“
+
+Bei diesen Worten gingen viele seiner Jünger zurück und wandelten nicht mehr mit ihm. Jesus sagte daher zu den Zwölf: „Wollt ihr auch weggehen?“
+
+Simon Petrus antwortete ihm: „Herr, zu wem sollen wir gehen? Du hast die Worte des ewigen Lebens. Wir sind zum Glauben gekommen und wissen, dass du der Christus bist, der Sohn des lebendigen Gottes.“
+
+Jesus antwortete ihnen: „Habe ich nicht euch, die Zwölf, gewählt, und einer von euch ist ein Teufel?“ Er sprach aber von Judas, dem Sohn des Simon Iskariot, denn dieser war es, der ihn verraten würde, einer von den Zwölf.
+
+### Kapitel 7
+
+Nach diesen Dingen wandelte Jesus in Galiläa, denn er wollte nicht in Judäa wandeln, weil die Juden suchten, ihn zu töten. Nun stand das Fest der Juden, das Laubhüttenfest, vor der Tür. Seine Brüder sagten daher zu ihm: „Geh von hier weg und geh nach Judäa, damit auch deine Jünger deine Werke sehen, die du tust. Denn niemand tut etwas im Verborgenen, wenn er sucht, bekannt zu werden. Wenn du diese Dinge tust, offenbare dich der Welt.“ Denn selbst seine Brüder glaubten nicht an ihn.
+
+Jesus sagte daher zu ihnen: „Meine Zeit ist noch nicht gekommen, aber eure Zeit ist immer bereit. Die Welt kann euch nicht hassen, mich aber hasst sie, weil ich von ihr zeuge, dass ihre Werke böse sind. Geht ihr hinauf zum Fest. Ich gehe noch nicht zu diesem Fest hinauf, weil meine Zeit noch nicht erfüllt ist.“
+
+Nachdem er ihnen diese Dinge gesagt hatte, blieb er in Galiläa. Als aber seine Brüder zum Fest hinaufgegangen waren, ging er auch hinauf, nicht öffentlich, sondern wie im Verborgenen. Die Juden suchten ihn daher beim Fest und sagten: „Wo ist er?“ Es gab viel Gemurmel unter den Menschenmengen über ihn. Einige sagten: „Er ist ein guter Mann.“ Andere sagten: „Nein, sondern er führt die Menge irre.“ Doch niemand sprach offen von ihm aus Angst vor den Juden. Als es nun mitten im Fest war, ging Jesus in den Tempel und lehrte. Die Juden wunderten sich daher und sagten: „Wie kennt dieser Mann die Schrift, da er nie gelernt hat?“
+
+Jesus antwortete ihnen daher: „Meine Lehre ist nicht meine, sondern die desjenigen, der mich gesandt hat. Wenn jemand den Willen Gottes tun will, wird er erkennen über die Lehre, ob sie von Gott ist oder ob ich aus mir selbst spreche. Wer aus sich selbst spricht, sucht seine eigene Ehre; aber wer die Ehre dessen sucht, der ihn gesandt hat, der ist wahrhaftig, und in ihm ist keine Ungerechtigkeit. Hat euch nicht Mose das Gesetz gegeben? Und doch hält keiner von euch das Gesetz. Warum sucht ihr mich zu töten?“
+
+Die Menge antwortete: „Du hast einen Dämon! Wer sucht dich zu töten?“
+
+Jesus antwortete ihnen: „Ich habe ein Werk getan und ihr wundert euch alle darüber. Mose hat euch die Beschneidung gegeben (nicht dass sie von Mose ist, sondern von den Vätern), und am Sabbat beschneidet ihr einen Jungen. Wenn ein Junge am Sabbat beschnitten wird, damit das Gesetz Moses nicht gebrochen wird, seid ihr zornig auf mich, weil ich einen Menschen am Sabbat ganz gesund gemacht habe? Urteilt nicht nach dem Anschein, sondern urteilt ein gerechtes Urteil.“
+
+Daraufhin sagten einige von ihnen aus Jerusalem: „Ist das nicht der, den sie suchen zu töten? Siehe, er spricht offen und sie sagen nichts zu ihm. Kann es sein, dass die Obersten wirklich wissen, dass dieser der Christus ist? Wir wissen jedoch, woher dieser Mann kommt; wenn aber der Christus kommt, wird niemand wissen, woher er kommt.“
+
+Jesus rief daher im Tempel und lehrte und sprach: „Ihr kennt mich und wisst, woher ich bin. Ich bin nicht von mir selbst gekommen, sondern derjenige, der mich gesandt hat, ist wahrhaftig; den kennt ihr nicht. Ich kenne ihn, denn ich bin von ihm und er hat mich gesandt.“
+
+Sie suchten daher ihn zu ergreifen; aber niemand legte ihm die Hand an, denn seine Stunde war noch nicht gekommen. Aber aus der Menge glaubten viele an ihn. Sie sagten: „Wenn der Christus kommt, wird er nicht mehr Zeichen tun als die, die dieser Mann getan hat?“ Die Pharisäer hörten die Menge murmeln diese Dinge über ihn und die Obersten Priester und die Pharisäer sandten Diener aus, um ihn zu ergreifen.
+
+Dann sagte Jesus: „Ich werde noch eine kleine Weile bei euch sein; dann gehe ich zu dem, der mich gesandt hat. Ihr werdet mich suchen und mich nicht finden; und wo ich bin, könnt ihr nicht kommen.“
+
+Die Juden sagten daher untereinander: „Wohin wird dieser Mann gehen, dass wir ihn nicht finden können? Wird er zu den Zerstreuten unter den Griechen gehen und die Griechen lehren? Was ist das Wort, das er gesagt hat: ‚Ihr werdet mich suchen und mich nicht finden;‘ und ‚Wo ich bin, könnt ihr nicht kommen‘?“
+
+Jetzt, am letzten und größten Tag des Festes, stand Jesus auf und rief: „Wenn jemand durstig ist, komme er zu mir und trinke! Wer an mich glaubt, wie die Schrift gesagt hat, aus dessen Innerem werden Ströme lebendigen Wassers fließen.“ Dies sagte er aber über den Geist, den die an ihn Glaubenden empfangen sollten. Denn der Heilige Geist war noch nicht gegeben, weil Jesus noch nicht verherrlicht war.
+
+Viele aus der Menge sagten daher, als sie diese Worte hörten: „Dieser ist wahrhaftig der Prophet.“ Andere sagten: „Dieser ist der Christus.“ Einige sagten jedoch: „Was, kommt der Christus aus Galiläa? Hat die Schrift nicht gesagt, dass der Christus aus dem Geschlecht Davids und aus Bethlehem, dem Dorf, wo David war, kommt?“ So entstand eine Spaltung in der Menge wegen ihm. Einige von ihnen hätten ihn festgenommen, aber niemand legte Hand an ihn. Die Beamten kamen daher zu den Oberpriestern und Pharisäern; und sie sagten zu ihnen: „Warum habt ihr ihn nicht gebracht?“
+
+Die Beamten antworteten: „Niemand hat jemals so gesprochen wie dieser Mensch!“
+
+Die Pharisäer antworteten ihnen daher: „Ihr lasst euch auch nicht verführen, oder? Hat einer der Oberen oder einer der Pharisäer an ihn geglaubt? Aber diese Menge, die das Gesetz nicht kennt, ist verflucht.“
+
+Nikodemus (der in der Nacht zu ihm gekommen war und einer von ihnen war) sagte zu ihnen: „Urteilt unser Gesetz einen Menschen, es sei denn, dass es ihn zuerst persönlich hört und weiß, was er tut?“
+
+Sie antworteten ihm: „Bist du auch aus Galiläa? Suche und sieh, dass kein Prophet aus Galiläa gekommen ist.“
+
+Jeder ging in sein eigenes Haus.
+
+### Kapitel 8
+
+Aber Jesus ging zum Ölberg.
+
+Und sehr früh am Morgen kam er wieder in den Tempel, und das ganze Volk kam zu ihm. Er setzte sich und lehrte sie. Die Schriftgelehrten und die Pharisäer brachten eine Frau, die beim Ehebruch ertappt worden war. Sie stellten sie in die Mitte und sagten zu ihm: „Meister, diese Frau wurde beim Ehebruch ertappt, in der Tat. Nun hat uns Mose im Gesetz geboten, solche Frauen zu steinigen. Was sagst du dazu?“ Sie sagten dies, um ihn zu versuchen, damit sie etwas hätten, um ihn anzuklagen.
+
+Aber Jesus bückte sich und schrieb mit dem Finger auf die Erde. Als sie jedoch weiter fragten, richtete er sich auf und sagte zu ihnen: „Wer von euch ohne Sünde ist, der werfe den ersten Stein auf sie.“ Und er bückte sich wieder und schrieb auf die Erde.
+
+Als sie es hörten, wurden sie von ihrem Gewissen überführt und gingen einer nach dem anderen hinaus, angefangen von den Ältesten bis zu den Letzten. Jesus blieb allein mit der Frau, die in der Mitte stand. Jesus erhob sich und sah sie an und sagte: „Frau, wo sind deine Ankläger? Hat dich niemand verurteilt?“
+
+Sie sagte: „Niemand, Herr.“
+
+Jesus sagte: „Auch ich verurteile dich nicht. Geh hin und sündige von nun an nicht mehr.“
+
+Darauf sprach Jesus wieder zu ihnen und sagte: „Ich bin das Licht der Welt. Wer mir nachfolgt, wird nicht in der Dunkelheit wandeln, sondern wird das Licht des Lebens haben.“
+
+Die Pharisäer sagten daher zu ihm: „Du zeugst von dir selbst. Dein Zeugnis ist nicht gültig.“
+
+Jesus antwortete ihnen: „Auch wenn ich von mir selbst zeuge, ist mein Zeugnis wahr; denn ich weiß, woher ich komme und wohin ich gehe; aber ihr wisst nicht, woher ich komme oder wohin ich gehe. Ihr urteilt nach dem Fleisch; ich urteile über niemanden. Auch wenn ich urteile, ist mein Urteil wahr; denn ich bin nicht allein, sondern ich bin mit dem Vater, der mich gesandt hat. Auch in eurem Gesetz steht geschrieben, dass das Zeugnis von zwei Menschen gültig ist. Ich bin einer, der von mir selbst zeugt, und der Vater, der mich gesandt hat, zeugt von mir.“
+
+Sie sagten daher zu ihm: „Wo ist dein Vater?“
+
+Jesus antwortete: „Ihr kennt weder mich noch meinen Vater. Wenn ihr mich kenntet, würdet ihr auch meinen Vater kennen.“ Diese Worte sprach Jesus im Schatzraum, als er im Tempel lehrte. Doch niemand nahm ihn fest, weil seine Stunde noch nicht gekommen war. Jesus sprach daher wieder zu ihnen: „Ich gehe weg, und ihr werdet mich suchen und in euren Sünden sterben. Wohin ich gehe, könnt ihr nicht kommen.“
+
+Die Juden sagten daher: „Wird er sich umbringen, weil er sagt: ‚Wohin ich gehe, könnt ihr nicht kommen‘?“
+
+Er sagte zu ihnen: „Ihr seid von unten; ich bin von oben. Ihr seid von dieser Welt; ich bin nicht von dieser Welt. Darum habe ich euch gesagt, dass ihr in euren Sünden sterben werdet; denn wenn ihr nicht glaubt, dass ich es bin, werdet ihr in euren Sünden sterben.“
+
+Sie sagten daher zu ihm: „Wer bist du?“
+
+Jesus sagte zu ihnen: „Genau das, was ich euch von Anfang an gesagt habe. Ich habe viele Dinge zu sprechen und zu urteilen über euch. Doch der, der mich gesandt hat, ist wahrhaftig; und die Dinge, die ich von ihm gehört habe, diese sage ich der Welt.“
+
+Sie verstanden nicht, dass er zu ihnen vom Vater sprach. Jesus sagte daher zu ihnen: „Wenn ihr den Sohn des Menschen erhöht habt, dann werdet ihr wissen, dass ich es bin, und ich tue nichts aus mir selbst, sondern wie mein Vater mich gelehrt hat, sage ich diese Dinge. Der mich gesandt hat, ist mit mir. Der Vater hat mich nicht allein gelassen, denn ich tue immer die Dinge, die ihm wohlgefällig sind.“
+
+Während er diese Dinge sprach, glaubten viele an ihn. Jesus sagte daher zu den Juden, die an ihn geglaubt hatten: „Wenn ihr in meinem Wort bleibt, dann seid ihr wahrhaftig meine Jünger. Ihr werdet die Wahrheit erkennen, und die Wahrheit wird euch frei machen.“
+
+Sie antworteten ihm: „Wir sind Abrahams Nachkommen und waren noch nie jemandem unterworfen. Wie sagst du: ‚Ihr werdet frei gemacht werden‘?“
+
+Jesus antwortete ihnen: „Wahrlich, ich sage euch, jeder, der Sünde tut, ist der Knecht der Sünde. Ein Knecht bleibt nicht ewig im Haus. Ein Sohn bleibt ewig. Wenn also der Sohn euch frei macht, werdet ihr wirklich frei sein. Ich weiß, dass ihr Abrahams Nachkommen seid; doch ihr sucht mich zu töten, weil mein Wort keinen Platz in euch findet. Ich sage die Dinge, die ich bei meinem Vater gesehen habe; und ihr tut auch die Dinge, die ihr bei eurem Vater gesehen habt.“
+
+Sie antworteten ihm: „Unser Vater ist Abraham.“
+
+Jesus sagte zu ihnen: „Wenn ihr Abrahams Kinder wärt, würdet ihr die Werke Abrahams tun. Jetzt aber sucht ihr mich zu töten, einen Menschen, der euch die Wahrheit gesagt hat, die ich von Gott gehört habe. Abraham hat das nicht getan. Ihr tut die Werke eures Vaters.“
+
+Sie sagten zu ihm: „Wir sind nicht aus Unzucht geboren. Wir haben einen Vater, Gott.“
+
+Daraufhin sagte Jesus zu ihnen: „Wenn Gott euer Vater wäre, würdet ihr mich lieben; denn ich bin von Gott ausgegangen und gekommen. Denn ich bin nicht von mir selbst gekommen, sondern er hat mich gesandt. Warum versteht ihr meine Sprache nicht? Weil ihr mein Wort nicht hören könnt. Ihr seid von eurem Vater, dem Teufel, und ihr wollt die Begierden eures Vaters tun. Er war ein Mörder von Anfang an und steht nicht in der Wahrheit, denn die Wahrheit ist nicht in ihm. Wenn er lügt, spricht er aus seinem eigenen; denn er ist ein Lügner und der Vater der Lüge. Aber weil ich die Wahrheit sage, glaubt ihr mir nicht. Wer von euch überführt mich der Sünde? Wenn ich die Wahrheit sage, warum glaubt ihr mir nicht? Wer von Gott ist, hört die Worte Gottes. Deshalb hört ihr nicht, weil ihr nicht von Gott seid.“
+
+Dann antworteten die Juden ihm: „Sagen wir nicht recht, dass du ein Samariter bist und einen Dämon hast?“
+
+Jesus antwortete: „Ich habe keinen Dämon, sondern ich ehre meinen Vater und ihr schändet mich. Aber ich suche nicht meine eigene Ehre. Es gibt einen, der sucht und richtet. Wahrlich, ich sage euch: Wenn jemand mein Wort hält, wird er den Tod niemals sehen.“
+
+Da sagten die Juden zu ihm: „Jetzt wissen wir, dass du einen Dämon hast. Abraham ist gestorben und die Propheten; und du sagst: ‚Wenn jemand mein Wort hält, wird er den Tod niemals schmecken.‘ Bist du größer als unser Vater Abraham, der gestorben ist? Die Propheten sind gestorben. Wer machst du dich selbst?“
+
+Jesus antwortete: „Wenn ich mich selbst verherrliche, ist meine Ehre nichts. Es ist mein Vater, der mich verherrlicht, von dem ihr sagt, dass er unser Gott ist. Ihr habt ihn nicht gekannt; ich aber kenne ihn. Wenn ich sagen würde: ‚Ich kenne ihn nicht‘, wäre ich wie ihr ein Lügner. Aber ich kenne ihn und halte sein Wort. Euer Vater Abraham freute sich darauf, meinen Tag zu sehen; er sah ihn und war froh.“
+
+Die Juden sagten daher zu ihm: „Du bist noch nicht fünfzig Jahre alt! Hast du Abraham gesehen?“
+
+Jesus sagte zu ihnen: „Wahrlich, ich sage euch: Ehe Abraham wurde, BIN ICH.“
+
+Daraufhin nahmen sie Steine auf, um sie auf ihn zu werfen; aber Jesus verbarg sich und ging aus dem Tempel hinaus und ging mitten durch sie hindurch und so ging er vorbei.
+
+### Kapitel 9
+
+Als er vorbeiging, sah er einen Mann, der von Geburt an blind war. Seine Jünger fragten ihn: „Rabbi, wer hat gesündigt, dieser Mann oder seine Eltern, dass er blind geboren wurde?“
+
+Jesus antwortete: „Dieser Mann hat nicht gesündigt, noch seine Eltern; sondern damit die Werke Gottes in ihm offenbart werden. Ich muss die Werke dessen wirken, der mich gesandt hat, solange es Tag ist; die Nacht kommt, wenn niemand arbeiten kann. Solange ich in der Welt bin, bin ich das Licht der Welt.“ Als er dies gesagt hatte, spuckte er auf den Boden, machte mit dem Speichel Lehm und salbte die Augen des Blinden mit dem Lehm und sagte zu ihm: „Geh hin und wasch dich im Teich Siloah“ (was übersetzt „Gesandt“ bedeutet). So ging er hin und wusch sich und kam sehend zurück.
+
+Deshalb sagten die Nachbarn und die, die ihn zuvor blind gesehen hatten: „Ist das nicht der, der dort saß und bettelte?“ Andere sagten: „Ja, das ist er.“ Wieder andere sagten: „Er sieht ihm ähnlich.“
+
+Er sagte: „Ich bin es.“
+
+Da fragten sie ihn: „Wie wurden deine Augen geöffnet?“
+
+Er antwortete: „Ein Mann namens Jesus machte einen Brei, salbte meine Augen und sagte zu mir: ‚Geh zum Teich Siloah und wasch dich.‘ Ich ging also hin und wusch mich, und ich erhielt das Augenlicht.“
+
+Dann fragten sie ihn: „Wo ist er?“
+
+Er sagte: „Ich weiß es nicht.“
+
+Sie brachten den Blinden zu den Pharisäern. Es war Sabbat, als Jesus den Brei machte und seine Augen öffnete. Daher fragten die Pharisäer ihn erneut, wie er sein Augenlicht erhalten habe. Er sagte zu ihnen: „Er legte Brei auf meine Augen, ich wusch mich, und ich sehe.“
+
+Einige der Pharisäer sagten daher: „Dieser Mann ist nicht von Gott, weil er den Sabbat nicht hält.“
+
+Andere sagten: „Wie kann ein Mensch, der ein Sünder ist, solche Zeichen tun?“ So gab es Spaltungen unter ihnen.
+
+Deshalb fragten sie den Blinden erneut: „Was sagst du über ihn, da er deine Augen geöffnet hat?“
+
+Er sagte: „Er ist ein Prophet.“
+
+Die Juden glaubten daher nicht über ihn, dass er blind gewesen und sein Augenlicht erhalten habe, bis sie die Eltern desjenigen riefen, der sein Augenlicht erhalten hatte, und sie fragten: „Ist dies euer Sohn, von dem ihr sagt, dass er blind geboren wurde? Wie sieht er dann jetzt?“
+
+Seine Eltern antworteten ihnen: „Wir wissen, dass dies unser Sohn ist und dass er blind geboren wurde; aber wie er jetzt sieht, wissen wir nicht; oder wer seine Augen geöffnet hat, wissen wir nicht. Er ist volljährig. Fragt ihn. Er wird für sich selbst sprechen.“ Seine Eltern sagten dies, weil sie die Juden fürchteten; denn die Juden hatten bereits beschlossen, dass wenn jemand ihn als Christus bekennen würde, er aus der Synagoge ausgeschlossen werden würde. Deshalb sagten seine Eltern: „Er ist volljährig. Fragt ihn.“
+
+So riefen sie den Mann, der blind gewesen war, ein zweites Mal und sagten zu ihm: „Gib Gott die Ehre. Wir wissen, dass dieser Mann ein Sünder ist.“
+
+Er antwortete daher: „Ich weiß nicht, ob er ein Sünder ist. Eines weiß ich: dass ich blind war und jetzt sehe.“
+
+Sie fragten ihn erneut: „Was hat er dir getan? Wie hat er deine Augen geöffnet?“
+
+Er antwortete ihnen: „Ich habe es euch schon gesagt, und ihr habt nicht zugehört. Warum wollt ihr es wieder hören? Wollt ihr auch seine Jünger werden?“
+
+Sie beleidigten ihn und sagten: „Du bist sein Jünger, aber wir sind Jünger Moses. Wir wissen, dass Gott mit Mose gesprochen hat. Aber was diesen Mann betrifft, wissen wir nicht, woher er kommt.“
+
+Der Mann antwortete ihnen: „Wie erstaunlich! Ihr wisst nicht, woher er kommt, und doch hat er meine Augen geöffnet. Wir wissen, dass Gott Sündern nicht zuhört; aber wenn jemand Gott anbetet und seinen Willen tut, dem hört er zu. Seit der Weltbeginn hat man nie gehört, dass jemand die Augen eines Blindgeborenen geöffnet hat. Wenn dieser Mann nicht von Gott wäre, könnte er nichts tun.“
+
+Sie antworteten ihm: „Du bist ganz und gar in Sünden geboren worden, und lehrst du uns?“ Dann warfen sie ihn hinaus.
+
+Jesus hörte, dass sie ihn hinausgeworfen hatten, und als er ihn fand, sagte er: „Glaubst du an den Sohn Gottes?“
+
+Er antwortete: „Wer ist er, Herr, damit ich an ihn glauben kann?“
+
+Jesus sagte zu ihm: „Du hast ihn gesehen, und es ist er, der mit dir spricht.“
+
+Er sagte: „Herr, ich glaube!“ und er betete ihn an.
+
+Jesus sagte: „Ich bin in diese Welt gekommen zum Gericht, damit die, die nicht sehen, sehen mögen; und damit die, die sehen, blind werden mögen.“
+
+Die Pharisäer, die bei ihm waren, hörten diese Dinge und sagten zu ihm: „Sind wir auch blind?“
+
+Jesus sagte zu ihnen: „Wenn ihr blind wäret, hättet ihr keine Sünde; aber jetzt sagt ihr: ‚Wir sehen.‘ Deshalb bleibt eure Sünde.
+
+### Kapitel 10
+
+„Wahrlich, ich sage euch, wer nicht durch die Tür in den Schafstall eingeht, sondern auf einem anderen Weg hinaufsteigt, der ist ein Dieb und ein Räuber. Aber wer durch die Tür eingeht, ist der Hirte der Schafe. Der Türhüter öffnet ihm die Tür, und die Schafe hören auf seine Stimme. Er ruft seine eigenen Schafe namentlich und führt sie hinaus. Wenn er seine eigenen Schafe herausführt, geht er vor ihnen her; und die Schafe folgen ihm, denn sie kennen seine Stimme. Sie werden auf keinen Fall einem Fremden folgen, sondern werden von ihm fliehen; denn sie kennen die Stimme der Fremden nicht.“ Jesus sprach dieses Gleichnis zu ihnen, aber sie verstanden nicht, was er ihnen sagte.
+
+Jesus sprach daher erneut zu ihnen: „Wahrlich, ich sage euch, ich bin die Tür der Schafe. Alle, die vor mir kamen, sind Diebe und Räuber, aber die Schafe hörten nicht auf sie. Ich bin die Tür. Wenn jemand durch mich eingeht, wird er gerettet werden und wird ein- und ausgehen und Weide finden. Der Dieb kommt nur, um zu stehlen, zu töten und zu zerstören. Ich bin gekommen, damit sie das Leben haben und es in Fülle haben.
+
+„Ich bin der gute Hirte. Der gute Hirte gibt sein Leben für die Schafe. Der Mietling, der kein Hirte ist und nicht die Schafe besitzt, sieht den Wolf kommen, lässt die Schafe und flieht. Der Wolf reißt die Schafe und zerstreut sie. Der Mietling flieht, weil er ein Mietling ist und sich nicht um die Schafe kümmert. Ich bin der gute Hirte. Ich kenne meine eigenen, und meine eigenen kennen mich; wie der Vater mich kennt, so kenne ich den Vater. Ich gebe mein Leben für die Schafe. Ich habe noch andere Schafe, die nicht aus diesem Stall sind. Auch diese muss ich bringen, und sie werden meine Stimme hören. Sie werden eine Herde mit einem Hirten werden. Darum liebt mich der Vater, weil ich mein Leben niederlege, um es wieder zu nehmen. Niemand nimmt es von mir, sondern ich lege es von mir aus nieder. Ich habe Macht, es niederzulegen, und ich habe Macht, es wieder zu nehmen. Dieses Gebot habe ich von meinem Vater empfangen.“
+
+Darum entstand erneut eine Spaltung unter den Juden wegen dieser Worte. Viele von ihnen sagten: „Er hat einen Dämon und ist wahnsinnig! Warum hört ihr auf ihn?“ Andere sagten: „Das sind nicht die Worte eines Besessenen. Kann ein Dämon die Augen der Blinden öffnen?“
+
+Es war das Fest der Weihe in Jerusalem. Es war Winter, und Jesus ging im Tempel, in der Säulenhalle Salomos. Die Juden umringten ihn daher und sagten zu ihm: „Wie lange hältst du uns in Spannung? Wenn du der Christus bist, sage es uns offen.“
+
+Jesus antwortete ihnen: „Ich habe es euch gesagt, und ihr glaubt nicht. Die Werke, die ich im Namen meines Vaters tue, diese zeugen von mir. Aber ihr glaubt nicht, weil ihr nicht zu meinen Schafen gehört, wie ich euch gesagt habe. Meine Schafe hören meine Stimme, und ich kenne sie, und sie folgen mir. Ich gebe ihnen ewiges Leben. Sie werden niemals verloren gehen, und niemand wird sie aus meiner Hand reißen. Mein Vater, der sie mir gegeben hat, ist größer als alle. Niemand kann sie aus der Hand meines Vaters reißen. Ich und der Vater sind eins.“
+
+Darum nahmen die Juden wieder Steine auf, um ihn zu steinigen. Jesus antwortete ihnen: „Ich habe euch viele gute Werke von meinem Vater gezeigt. Für welches dieser Werke steinigt ihr mich?“
+
+Die Juden antworteten ihm: „Wir steinigen dich nicht für ein gutes Werk, sondern für Blasphemie, weil du, ein Mensch, dich selbst zu Gott machst.“
+
+Jesus antwortete ihnen: „Steht nicht in eurem Gesetz geschrieben: ‚Ich sagte: Ihr seid Götter‘? Wenn er sie Götter nannte, an die das Wort Gottes erging (und die Schrift kann nicht gebrochen werden), sagt ihr dann von dem, den der Vater geheiligt und in die Welt gesandt hat: ‚Du lästerst‘, weil ich sagte: ‚Ich bin der Sohn Gottes‘? Wenn ich die Werke meines Vaters nicht tue, glaubt mir nicht. Wenn ich sie aber tue, auch wenn ihr mir nicht glaubt, glaubt den Werken, damit ihr erkennt und glaubt, dass der Vater in mir ist und ich im Vater.“
+
+Sie suchten erneut ihn zu ergreifen, aber er entging ihrer Hand. Er ging wieder jenseits des Jordan an den Ort, wo Johannes zuerst taufte, und blieb dort. Viele kamen zu ihm. Sie sagten: „Johannes hat zwar kein Zeichen getan, aber alles, was Johannes über diesen Mann gesagt hat, ist wahr.“ Viele glaubten dort an ihn.
+
+### Kapitel 11
+
+Nun war ein gewisser Mann krank, Lazarus aus Bethanien, dem Dorf von Maria und ihrer Schwester Martha. Es war diese Maria, die den Herrn mit Salböl gesalbt und seine Füße mit ihren Haaren abgewischt hatte; ihr Bruder Lazarus war krank. Die Schwestern sandten daher zu ihm und sagten: „Herr, siehe, derjenige, den du lieb hast, ist krank.“
+
+Als Jesus das hörte, sagte er: „Diese Krankheit ist nicht zum Tod, sondern zur Verherrlichung Gottes, damit der Sohn Gottes durch sie verherrlicht werde.“ Nun liebte Jesus Martha und ihre Schwester und Lazarus. Als er daher hörte, dass er krank war, blieb er zwei Tage an dem Ort, wo er war. Danach sagte er zu den Jüngern: „Lasst uns wieder nach Judäa gehen.“
+
+Die Jünger fragten ihn: „Rabbi, die Juden haben gerade versucht, dich zu steinigen. Gehst du dort wieder hin?“
+
+Jesus antwortete: „Gibt es nicht zwölf Stunden Tageslicht? Wenn ein Mensch am Tag geht, stolpert er nicht, weil er das Licht dieser Welt sieht. Wenn aber ein Mensch in der Nacht geht, stolpert er, weil das Licht nicht in ihm ist.“ Diese Dinge sprach er, und danach sagte er zu ihnen: „Unser Freund Lazarus ist eingeschlafen, aber ich gehe, um ihn aus dem Schlaf zu wecken.“
+
+Die Jünger sagten daher: „Herr, wenn er eingeschlafen ist, wird er sich erholen.“
+
+Nun hatte Jesus von seinem Tod gesprochen, aber sie dachten, dass er von der Ruhe im Schlaf sprach. Da sagte Jesus ihnen klar: „Lazarus ist tot. Ich bin froh um euretwillen, dass ich nicht dort war, damit ihr glauben mögt. Dennoch lasst uns zu ihm gehen.“
+
+Thomas, der Didymus genannt wird, sagte zu seinen Mitjüngern: „Lasst uns auch gehen, damit wir mit ihm sterben.“
+
+Als Jesus kam, fand er, dass Lazarus bereits vier Tage im Grab gewesen war. Bethanien lag nahe bei Jerusalem, etwa fünfzehn Stadien entfernt. Viele Juden hatten sich zu den Frauen um Martha und Maria gesellt, um sie wegen ihres Bruders zu trösten. Als Martha hörte, dass Jesus kam, ging sie ihm entgegen; Maria aber blieb im Haus. Daher sagte Martha zu Jesus: „Herr, wenn du hier gewesen wärst, wäre mein Bruder nicht gestorben. Aber auch jetzt weiß ich, dass alles, was du von Gott bittest, Gott dir geben wird.“
+
+Jesus sagte zu ihr: „Dein Bruder wird auferstehen.“
+
+Martha sagte zu ihm: „Ich weiß, dass er auferstehen wird in der Auferstehung am letzten Tag.“
+
+Jesus sagte zu ihr: „Ich bin die Auferstehung und das Leben. Wer an mich glaubt, wird leben, auch wenn er stirbt. Und jeder, der lebt und an mich glaubt, wird niemals sterben. Glaubst du das?“
+
+Sie sagte zu ihm: „Ja, Herr. Ich habe geglaubt, dass du der Christus bist, der Sohn Gottes, der in die Welt kommt.“
+
+Als sie dies gesagt hatte, ging sie weg und rief heimlich ihre Schwester Maria und sagte: „Der Lehrer ist hier und ruft dich.“
+
+Als Maria dies hörte, stand sie schnell auf und ging zu ihm. Jesus war noch nicht ins Dorf gekommen, sondern war an dem Ort, wo Martha ihn getroffen hatte. Die Juden, die mit ihr im Haus waren und sie trösteten, sahen Maria aufstehen und hinausgehen und folgten ihr und sagten: „Sie geht zum Grab, um dort zu weinen.“
+
+Als Maria dorthin kam, wo Jesus war und ihn sah, fiel sie ihm zu Füßen und sagte zu ihm: „Herr, wenn du hier gewesen wärst, wäre mein Bruder nicht gestorben.“
+
+Als Jesus sie weinen sah und die Juden weinen sah, die mit ihr gekommen waren, seufzte er im Geist und war betroffen und sagte: „Wo habt ihr ihn hingelegt?“
+
+Sie sagten zu ihm: „Herr, komm und sieh.“
+
+Jesus weinte.
+
+Die Juden sagten daher: „Seht, wie sehr er ihn geliebt hat!“ Einige von ihnen sagten: „Konnte dieser Mann, der die Augen des Blinden geöffnet hat, nicht auch verhindern, dass dieser Mann stirbt?“
+
+Jesus seufzte also erneut in sich selbst und kam zum Grab. Es war eine Höhle und ein Stein lag davor. Jesus sagte: „Nehmt den Stein weg.“
+
+Martha, die Schwester des Verstorbenen, sagte zu ihm: „Herr, es riecht schon nach Verwesung; denn er ist seit vier Tagen tot.“
+
+Jesus sagte zu ihr: „Habe ich dir nicht gesagt, dass du die Herrlichkeit Gottes sehen wirst, wenn du glaubst?“
+
+Sie nahmen also den Stein von dem Ort weg, wo der Tote lag. Jesus hob seine Augen empor und sagte: „Vater, ich danke dir, dass du mich erhört hast. Ich weiß, dass du mich immer erhörst; aber wegen der Menge, die umhersteht, habe ich dies gesagt, damit sie glauben, dass du mich gesandt hast.“ Als er dies gesagt hatte, rief er mit lauter Stimme: „Lazarus, komm heraus!“
+
+Der Tote kam heraus, gebunden an Händen und Füßen mit Tüchern; und sein Gesicht war mit einem Tuch umwickelt.
+
+Jesus sagte zu ihnen: „Löst ihn und lasst ihn gehen.“
+
+Viele der Juden, die zu Maria gekommen waren und sahen, was Jesus tat, glaubten an ihn. Einige von ihnen gingen jedoch zu den Pharisäern und berichteten ihnen die Dinge, die Jesus getan hatte. Die obersten Priester und die Pharisäer versammelten daher den Rat und sagten: „Was tun wir? Denn dieser Mann tut viele Zeichen. Wenn wir ihn so lassen, werden alle an ihn glauben; und die Römer werden kommen und sowohl unseren Platz als auch unsere Nation wegnehmen.“
+
+Aber einer von ihnen, Kaiphas, der in jenem Jahr Hohepriester war, sagte zu ihnen: „Ihr wisst nichts, noch bedenkt ihr, dass es für uns vorteilhaft ist, dass ein Mensch für das Volk stirbt, und dass die ganze Nation nicht zugrunde geht.“ Dies sagte er jedoch nicht von sich selbst, sondern als Hohepriester in jenem Jahr prophezeite er, dass Jesus für die Nation sterben würde, und nicht nur für die Nation, sondern auch, dass er die Kinder Gottes, die zerstreut sind, in eins versammeln könnte. Von diesem Tag an berieten sie sich, um ihn zu töten. Jesus wandelte daher nicht mehr offen unter den Juden, sondern ging von dort in das Land nahe der Wüste, in eine Stadt namens Ephraim. Dort blieb er mit seinen Jüngern.
+
+Nun stand das Passah der Juden vor der Tür. Viele gingen aus dem Land nach Jerusalem vor dem Passah, um sich zu reinigen. Dann suchten sie Jesus und sprachen miteinander, während sie im Tempel standen: „Was denkt ihr? Kommt er überhaupt nicht zum Fest?“ Die Obersten Priester und die Pharisäer hatten jedoch befohlen, dass, wenn jemand wüsste, wo er sei, er es melden sollte, damit sie ihn ergreifen könnten.
+
+### Kapitel 12
+
+Sechs Tage vor dem Passah kam Jesus nach Bethanien, wo Lazarus war, der tot gewesen war und den er von den Toten auferweckt hatte. Dort machten sie ihm ein Abendmahl. Martha diente, aber Lazarus war einer von denen, die mit ihm am Tisch saßen. Da nahm Maria einen Pfund kostbaren Narde, reinen Narde, und salbte die Füße Jesu und trocknete seine Füße mit ihrem Haar. Das Haus war erfüllt von dem Duft des Salböls.
+
+Da sagte Judas Iskariot, der Sohn Simons, einer seiner Jünger, der ihn verraten wollte: „Warum wurde dieses Salböl nicht für dreihundert Denare verkauft und den Armen gegeben?“ Dies sagte er jedoch nicht, weil ihm die Armen am Herzen lagen, sondern weil er ein Dieb war und die Geldkasse hatte und stahl, was hineingelegt wurde.
+
+Aber Jesus sagte: „Lass sie in Ruhe. Sie hat dies für den Tag meines Begräbnisses aufbewahrt. Denn die Armen habt ihr immer bei euch, aber mich habt ihr nicht immer.“
+
+Eine große Menge der Juden erfuhr daher, dass er dort war; und sie kamen nicht nur um Jesu willen, sondern auch um Lazarus zu sehen, den er von den Toten auferweckt hatte. Aber die Obersten Priester planten auch Lazarus zu töten, weil viele der Juden wegen ihm weg gingen und an Jesus glaubten.
+
+Am nächsten Tag kam eine große Menge zum Fest. Als sie hörten, dass Jesus nach Jerusalem kam, nahmen sie Palmzweige und gingen hinaus, um ihn zu empfangen und riefen: „Hosanna! Gesegnet sei er, der kommt im Namen des Herrn, der König von Israel!“
+
+Jesus fand einen jungen Esel und setzte sich darauf. Wie geschrieben steht: „Fürchte dich nicht, Tochter Zion. Siehe, dein König kommt, sitzend auf einem Eselfohlen.“ Seine Jünger verstanden diese Dinge zunächst nicht; aber als Jesus verherrlicht wurde, erinnerten sie sich daran, dass diese Dinge über ihn geschrieben waren und dass sie diese Dinge an ihm getan hatten. Die Menge also, die mit ihm war, als er Lazarus aus dem Grab rief und ihn von den Toten auferweckte, gab Zeugnis darüber. Aus diesem Grund ging auch die Menge hinaus und begegnete ihm, weil sie gehört hatten, dass er dieses Zeichen getan hatte. Die Pharisäer sagten daher untereinander: „Seht, wie ihr nichts erreicht. Siehe, die Welt ist ihm nachgegangen.“
+
+Nun waren einige Griechen unter denen, die zum Fest hinaufgegangen waren, um zu beten. Diese kamen zu Philippus, der aus Bethsaida in Galiläa war, und baten ihn und sagten: „Herr, wir möchten Jesus sehen.“ Philippus ging und sagte es Andreas; und Andreas ging mit Philippus und sie sagten es Jesus.
+
+Jesus antwortete ihnen: „Die Zeit ist gekommen, dass der Menschensohn verherrlicht wird. Wahrlich, wahrlich sage ich euch: Wenn das Weizenkorn nicht in die Erde fällt und stirbt, bleibt es allein; aber wenn es stirbt, bringt es viel Frucht. Wer sein Leben liebt, wird es verlieren; und wer sein Leben in dieser Welt hasst, wird es zum ewigen Leben bewahren. Wenn jemand mir dient, folge mir nach. Wo ich bin, da wird auch mein Diener sein. Wenn jemand mir dient, wird der Vater ihn ehren.“
+
+„Jetzt ist meine Seele betrübt. Was soll ich sagen? ‚Vater, rette mich von dieser Stunde‘? Aber ich bin zu dieser Stunde gekommen, um dieses zu tun. Vater, verherrliche deinen Namen!“
+
+Dann kam eine Stimme vom Himmel, die sprach: „Ich habe ihn verherrlicht und werde ihn wieder verherrlichen.“
+
+Darum sagten die Menge, die dabei stand und es hörte, es habe gedonnert. Andere sagten: „Ein Engel hat zu ihm gesprochen.“
+
+Jesus antwortete: „Diese Stimme ist nicht um meinetwillen gekommen, sondern um euretwillen. Jetzt ist das Gericht über diese Welt. Jetzt wird der Fürst dieser Welt hinausgeworfen werden. Und ich, wenn ich von der Erde erhöht werde, werde alle zu mir ziehen.“ Aber er sagte dies und deutete an, auf welche Art er sterben sollte.
+
+Die Menge antwortete ihm: „Wir haben aus dem Gesetz gehört, dass der Christus ewig bleibt. Wie sagst du: ‚Der Menschensohn muss erhöht werden‘? Wer ist dieser Menschensohn?“
+
+Jesus sprach daher zu ihnen: „Noch eine kleine Weile ist das Licht bei euch. Wandelt, solange ihr das Licht habt, damit die Finsternis euch nicht überkommt. Wer in der Finsternis wandelt, weiß nicht, wohin er geht. Solange ihr das Licht habt, glaubt an das Licht, damit ihr Kinder des Lichts werdet.“ Jesus sprach diese Dinge und ging weg und verbarg sich vor ihnen. Aber obwohl er so viele Zeichen vor ihnen getan hatte, glaubten sie nicht an ihn, damit das Wort des Propheten Jesaja erfüllt würde, das er sprach:
+
+„Herr, wer hat unserer Botschaft geglaubt?
+
+Und wem ist der Arm des Herrn offenbart worden?“
+
+Deshalb konnten sie nicht glauben, denn Jesaja sagte erneut:
+
+„Er hat ihre Augen verblendet und ihr Herz verhärtet,
+
+damit sie mit ihren Augen nicht sehen
+
+und mit ihrem Herzen nicht verstehen
+
+und sich nicht umkehren,
+
+und ich sie heilen würde.“
+
+Jesaja sagte dies, als er seine Herrlichkeit sah und von ihm sprach. Dennoch glaubten viele von den Obersten an ihn, aber wegen der Pharisäer bekannten sie es nicht, damit sie nicht aus der Synagoge ausgeschlossen würden; denn sie liebten den Ruhm der Menschen mehr als den Ruhm Gottes.
+
+Jesus rief und sprach: „Wer an mich glaubt, glaubt nicht an mich, sondern an den, der mich gesandt hat. Und wer mich sieht, sieht den, der mich gesandt hat. Ich bin als Licht in die Welt gekommen, damit jeder, der an mich glaubt, nicht in der Finsternis bleibt. Wenn jemand auf meine Worte hört und nicht glaubt, richte ich ihn nicht. Denn ich bin nicht gekommen, um die Welt zu richten, sondern um die Welt zu retten. Wer mich zurückweist und meine Worte nicht annimmt, hat einen, der ihn richtet. Das Wort, das ich gesprochen habe, wird ihn am letzten Tag richten. Denn ich habe nicht aus mir selbst gesprochen, sondern der Vater, der mich gesandt hat, hat mir ein Gebot gegeben, was ich sagen und was ich reden soll. Ich weiß, dass sein Gebot ewiges Leben ist. Die Dinge also, die ich spreche, so wie der Vater zu mir gesagt hat, so spreche ich.“
+
+### Kapitel 13
+
+Vor dem Fest des Passah wusste Jesus, dass seine Stunde gekommen war, dass er aus dieser Welt zum Vater gehen würde. Da er die Seinen geliebt hatte, die in der Welt waren, liebte er sie bis ans Ende. Während des Abendmahls hatte der Teufel bereits in das Herz Judas Iskariot, des Sohnes Simons, eingegeben, ihn zu verraten. Jesus wusste, dass der Vater ihm alle Dinge in die Hände gegeben hatte und dass er von Gott gekommen war und zu Gott ging; da stand er vom Abendmahl auf, legte sein Obergewand ab und nahm ein Handtuch und gürtete sich damit. Dann goss er Wasser in die Schüssel und begann, die Füße der Jünger zu waschen und sie mit dem Handtuch abzutrocknen, das um ihn gebunden war. Dann kam er zu Simon Petrus. Er sagte zu ihm: „Herr, wäschst du mir die Füße?“
+
+Jesus antwortete ihm: „Du weißt nicht, was ich jetzt tue; aber du wirst es später verstehen.“
+
+Petrus sagte zu ihm: „Du wirst mir niemals die Füße waschen!“
+
+Jesus antwortete ihm: „Wenn ich dich nicht wasche, hast du keinen Teil mit mir.“
+
+Simon Petrus sagte zu ihm: „Herr, nicht nur meine Füße, sondern auch meine Hände und meinen Kopf!“
+
+Jesus sagte zu ihm: „Wer gebadet hat, braucht nur die Füße gewaschen zu bekommen; er ist ganz rein. Ihr seid rein, aber nicht alle.“ Denn er wusste, wer ihn verraten würde; darum sagte er: „Ihr seid nicht alle rein.“ Als er nun ihre Füße gewaschen hatte und sein Obergewand wieder angezogen hatte und sich wieder setzte, sagte er zu ihnen: „Wisst ihr, was ich euch getan habe? Ihr nennt mich ‚Lehrer‘ und ‚Herr‘; und ihr sagt es richtig, denn ich bin es. Wenn ich nun, der Herr und Lehrer, eure Füße gewaschen habe, so sollt auch ihr einander die Füße waschen. Denn ich habe euch ein Beispiel gegeben, damit ihr tut, wie ich euch getan habe. Wahrlich, wahrlich sage ich euch: Ein Diener ist nicht größer als sein Herr; auch ist einer, der gesandt ist, nicht größer als der, der ihn gesandt hat. Wenn ihr dies wisst, selig seid ihr, wenn ihr es tut. Ich rede nicht von euch allen; ich weiß, wen ich gewählt habe; aber damit die Schrift erfüllt werde: ‚Der mit mir Brot isst, hat seine Ferse gegen mich erhoben.‘ Von nun an sage ich euch vorher, was geschehen wird; damit ihr glaubt, wenn es geschieht: dass ich es bin. Wahrlich, wahrlich sage ich euch: Wer den empfängt, den ich sende, empfängt mich; und wer mich empfängt, empfängt den, der mich gesandt hat.“
+
+Als Jesus dies gesagt hatte, war er im Geist betrübt und bezeugte: „Wahrlich, ich sage euch, einer von euch wird mich verraten.“
+
+Die Jünger sahen einander perplex an, über wen er sprach. Einer seiner Jünger, den Jesus liebte, lag am Tisch und lehnte sich an die Brust Jesu. Simon Petrus winkte ihm daher zu und sagte zu ihm: „Sag uns, wer es ist, von dem er spricht.“
+
+Er, der sich, wie er war, an die Brust Jesu lehnte, fragte ihn: „Herr, wer ist es?“
+
+Jesus antwortete daher: „Es ist der, dem ich dieses Stück Brot geben werde, wenn ich es eintauche.“ Als er das Stück Brot eingetaucht hatte, gab er es Judas, dem Sohn Simons Iskariot. Nachdem Judas das Stück Brot genommen hatte, ging Satan in ihn hinein.
+
+Dann sagte Jesus zu ihm: „Was du tust, tue schnell.“
+
+Nun wusste niemand am Tisch, warum er dies zu ihm sagte. Einige dachten, weil Judas die Geldkasse hatte, dass Jesus zu ihm sagte: „Kaufe, was wir für das Fest brauchen“, oder dass er etwas für die Armen geben sollte. Nachdem er das Stück Brot genommen hatte, ging er sofort hinaus. Es war Nacht.
+
+Als er hinausgegangen war, sagte Jesus: „Jetzt ist der Menschensohn verherrlicht worden, und Gott ist in ihm verherrlicht worden. Wenn Gott in ihm verherrlicht worden ist, wird Gott ihn auch in sich selbst verherrlichen, und er wird ihn sofort verherrlichen. Kleine Kinder, ich werde noch eine kleine Weile bei euch sein. Ihr werdet mich suchen, und wie ich den Juden gesagt habe: ‚Wohin ich gehe, könnt ihr nicht kommen‘, so sage ich euch jetzt. Ein neues Gebot gebe ich euch, dass ihr einander liebt. So wie ich euch geliebt habe, sollt auch ihr einander lieben. Daran werden alle erkennen, dass ihr meine Jünger seid, wenn ihr Liebe zueinander habt.“
+
+Simon Petrus sagte zu ihm: „Herr, wohin gehst du?“
+
+Jesus antwortete: „Wohin ich gehe, kannst du jetzt nicht folgen, aber du wirst später folgen.“
+
+Petrus sagte zu ihm: „Herr, warum kann ich dir jetzt nicht folgen? Ich werde mein Leben für dich lassen.“
+
+Jesus antwortete ihm: „Wirst du dein Leben für mich lassen? Wahrlich, ich sage dir, der Hahn wird nicht krähen, bis du mich dreimal verleugnet hast.
+
+### Kapitel 14
+
+„Lasst euer Herz nicht erschrecken. Glaubt an Gott. Glaubt auch an mich. Im Haus meines Vaters sind viele Wohnungen. Wäre es nicht so, hätte ich es euch gesagt. Ich gehe hin, um euch einen Platz vorzubereiten. Und wenn ich hingehe und euch einen Platz vorbereite, komme ich wieder und werde euch zu mir nehmen; damit ihr dort seid, wo ich bin. Ihr wisst, wohin ich gehe, und ihr wisst den Weg.“
+
+Thomas sagte zu ihm: „Herr, wir wissen nicht, wohin du gehst. Wie können wir den Weg wissen?“
+
+Jesus sagte zu ihm: „Ich bin der Weg, die Wahrheit und das Leben. Niemand kommt zum Vater außer durch mich. Hättet ihr mich gekannt, hättet ihr auch meinen Vater gekannt. Von nun an kennt ihr ihn und habt ihn gesehen.“
+
+Philippus sagte zu ihm: „Herr, zeige uns den Vater, und das genügt uns.“
+
+Jesus sagte zu ihm: „So lange bin ich schon bei euch, und du kennst mich nicht, Philippus? Wer mich gesehen hat, hat den Vater gesehen. Wie sagst du: ‚Zeige uns den Vater‘? Glaubst du nicht, dass ich im Vater bin und der Vater in mir ist? Die Worte, die ich euch sage, spreche ich nicht aus mir selbst; sondern der Vater, der in mir wohnt, tut seine Werke. Glaubt mir, dass ich im Vater bin und der Vater in mir ist; oder glaubt mir um der Werke willen. Wahrlich, ich sage euch, wer an mich glaubt, die Werke, die ich tue, wird er auch tun; und er wird größere Werke als diese tun, weil ich zu meinem Vater gehe. Was immer ihr in meinem Namen bitten werdet, das werde ich tun, damit der Vater im Sohn verherrlicht wird. Wenn ihr etwas in meinem Namen bitten werdet, werde ich es tun. Wenn ihr mich liebt, haltet meine Gebote. Und ich werde zum Vater beten, und er wird euch einen anderen Beistand geben, dass er bei euch sei in Ewigkeit: den Geist der Wahrheit, den die Welt nicht empfangen kann; denn sie sieht ihn nicht und kennt ihn nicht. Ihr kennt ihn; denn er bleibt bei euch und wird in euch sein. Ich werde euch nicht als Waisen zurücklassen; ich komme zu euch. Noch eine kleine Weile, und die Welt sieht mich nicht mehr; aber ihr werdet mich sehen. Weil ich lebe, werdet auch ihr leben. An jenem Tag werdet ihr wissen, dass ich in meinem Vater bin und ihr in mir und ich in euch bin. Wer meine Gebote hat und sie hält, der ist es, der mich liebt. Und wer mich liebt, wird von meinem Vater geliebt werden; und ich werde ihn lieben und mich ihm offenbaren.“
+
+Judas (nicht Iskariot) sagte zu ihm: „Herr, was ist geschehen, dass du dich uns offenbaren willst und nicht der Welt?“
+
+Jesus antwortete ihm: „Wenn jemand mich liebt, wird er mein Wort halten. Mein Vater wird ihn lieben, und wir werden zu ihm kommen und bei ihm wohnen. Wer mich nicht liebt, hält meine Worte nicht. Das Wort, das ihr hört, ist nicht mein, sondern das des Vaters, der mich gesandt hat.
+
+„Ich habe euch diese Dinge gesagt, während ich noch bei euch bin. Aber der Beistand, der Heilige Geist, den der Vater in meinem Namen senden wird, wird euch alle Dinge lehren und euch an alles erinnern, was ich euch gesagt habe. Frieden lasse ich euch; meinen Frieden gebe ich euch; nicht so, wie die Welt gibt, gebe ich euch. Euer Herz erschrecke nicht und fürchte sich nicht. Ihr habt gehört, wie ich euch gesagt habe: ‚Ich gehe weg und komme wieder zu euch.‘ Wenn ihr mich geliebt hättet, würdet ihr euch freuen, weil ich gesagt habe: ‚Ich gehe zu meinem Vater;‘ denn der Vater ist größer als ich. Jetzt habe ich es euch gesagt, bevor es geschieht, damit ihr glaubt, wenn es geschieht. Ich werde nicht mehr viel mit euch reden, denn der Fürst dieser Welt kommt, und er hat nichts an mir. Aber damit die Welt erkennt, dass ich den Vater liebe und so tue, wie der Vater mir geboten hat. Steht auf, lasst uns von hier gehen.
+
+### Kapitel 15
+
+„Ich bin der wahre Weinstock, und mein Vater ist der Weingärtner. Jede Rebe an mir, die keine Frucht bringt, nimmt er weg; und jede Rebe, die Frucht bringt, reinigt er, damit sie mehr Frucht bringt. Ihr seid bereits rein um des Wortes willen, das ich zu euch gesprochen habe. Bleibt in mir und ich in euch. Wie die Rebe von sich aus keine Frucht bringen kann, es sei denn, sie bleibt am Weinstock, so könnt auch ihr nicht, es sei denn, ihr bleibt in mir. Ich bin der Weinstock; ihr seid die Reben. Wer in mir bleibt und ich in ihm, der bringt viel Frucht; denn ohne mich könnt ihr nichts tun. Wenn jemand nicht in mir bleibt, wird er wie die Rebe weggeworfen und verdorrt; und man sammelt sie und wirft sie ins Feuer, und sie werden verbrannt. Wenn ihr in mir bleibt und meine Worte in euch bleiben, werdet ihr bitten, was ihr wollt, und es wird euch zuteilwerden.
+
+„Darinnen wird mein Vater verherrlicht, dass ihr viel Frucht bringt; und so werdet ihr meine Jünger sein. Gleichwie der Vater mich geliebt hat, so habe auch ich euch geliebt. Bleibt in meiner Liebe. Wenn ihr meine Gebote haltet, werdet ihr in meiner Liebe bleiben, gleichwie ich die Gebote meines Vaters gehalten habe und in seiner Liebe bleibe. Diese Dinge habe ich zu euch gesprochen, damit meine Freude in euch bleibt und eure Freude vollkommen werde.
+
+„Das ist mein Gebot: dass ihr einander liebt, gleichwie ich euch geliebt habe. Größere Liebe hat niemand als diese, dass jemand sein Leben für seine Freunde hingibt. Ihr seid meine Freunde, wenn ihr tut, was ich euch gebiete. Nicht mehr nenne ich euch Knechte; denn der Knecht weiß nicht, was sein Herr tut. Euch aber habe ich Freunde genannt; denn alles, was ich von meinem Vater gehört habe, habe ich euch bekanntgegeben. Ihr habt mich nicht erwählt, sondern ich habe euch erwählt und euch bestimmt, dass ihr hingeht und Frucht bringt und eure Frucht bleibt; damit alles, was ihr den Vater in meinem Namen bitten werdet, er euch gebe.
+
+„Diese Dinge gebiete ich euch, dass ihr einander liebt. Wenn die Welt euch hasst, so wisst ihr, dass sie mich vor euch gehasst hat. Wenn ihr von der Welt wäret, würde die Welt das Ihre lieben; aber weil ihr nicht von der Welt seid, sondern ich euch aus der Welt erwählt habe, darum hasst euch die Welt. Erinnert euch an das Wort, das ich zu euch gesagt habe: ‚Ein Knecht ist nicht größer als sein Herr.‘ Wenn sie mich verfolgt haben, werden sie auch euch verfolgen; wenn sie mein Wort gehalten haben, werden sie auch eures halten. Aber all dies werden sie um meines Namens willen tun, weil sie den nicht kennen, der mich gesandt hat. Hätte ich nicht gekommen und zu ihnen gesprochen, hätten sie keine Sünde; jetzt aber haben sie keine Entschuldigung für ihre Sünde. Wer mich hasst, hasst auch meinen Vater. Hätte ich unter ihnen die Werke getan, die kein anderer getan hat, hätten sie keine Sünde; jetzt aber haben sie sowohl mich als auch meinen Vater gesehen und gehasst. Aber dies geschah, damit das Wort erfüllt werde, das in ihrem Gesetz geschrieben steht: ‚Sie haben mich ohne Grund gehasst.‘
+
+„Wenn der Beistand kommt, den ich euch vom Vater senden werde, der Geist der Wahrheit, der vom Vater ausgeht, wird er von mir Zeugnis ablegen. Auch ihr werdet Zeugnis ablegen, denn ihr seid von Anfang an bei mir gewesen.
+
+### Kapitel 16
+
+„Ich habe euch diese Dinge gesagt, damit ihr nicht in Versuchung geratet. Sie werden euch aus den Synagogen ausschließen. Ja, die Zeit kommt, dass jeder, der euch tötet, denkt, er dient Gott. Sie werden dies tun, weil sie den Vater und mich nicht gekannt haben. Aber ich habe euch diese Dinge gesagt, damit ihr euch daran erinnert, wenn die Zeit kommt, dass ich euch darüber gesagt habe. Ich habe euch diese Dinge nicht von Anfang an gesagt, weil ich bei euch war. Aber jetzt gehe ich zu dem, der mich gesandt hat, und keiner von euch fragt mich: ‚Wohin gehst du?‘ Aber weil ich euch diese Dinge gesagt habe, hat Traurigkeit euer Herz erfüllt. Dennoch sage ich euch die Wahrheit: Es ist zu eurem Vorteil, dass ich weggehe; denn wenn ich nicht weggehe, wird der Beistand nicht zu euch kommen. Wenn ich aber gehe, werde ich ihn zu euch senden. Wenn er gekommen ist, wird er die Welt über Sünde, über Gerechtigkeit und über Gericht überführen; über Sünde, weil sie nicht an mich glauben; über Gerechtigkeit, weil ich zu meinem Vater gehe und ihr mich nicht mehr sehen werdet; über Gericht, weil der Fürst dieser Welt gerichtet ist.
+
+„Ich habe euch noch viele Dinge zu sagen, aber ihr könnt sie jetzt nicht ertragen. Wenn aber er, der Geist der Wahrheit, gekommen ist, wird er euch in alle Wahrheit leiten; denn er wird nicht aus sich selbst reden; sondern was er hört, wird er reden. Er wird euch Dinge verkünden, die kommen werden. Er wird mich verherrlichen; denn er wird von dem nehmen, was mein ist, und es euch verkünden. Alles, was der Vater hat, ist mein; darum habe ich gesagt, dass er von dem meinen nimmt und es euch verkündet.
+
+„Ein wenig noch, und ihr werdet mich nicht sehen. Wieder ein wenig noch, und ihr werdet mich sehen.“
+
+Einige seiner Jünger sagten daher zueinander: „Was ist das, was er uns sagt: ‚Ein wenig noch, und ihr werdet mich nicht sehen; und wieder ein wenig noch, und ihr werdet mich sehen;‘ und: ‚Weil ich zum Vater gehe‘?“ Sie sagten daher: „Was meint er mit ‚ein wenig‘? Wir wissen nicht, was er sagt.“
+
+Darauf erkannte Jesus, dass sie ihn fragen wollten, und sagte zu ihnen: „Fragt ihr untereinander darüber, dass ich gesagt habe: ‚Ein wenig noch, und ihr werdet mich nicht sehen; und wieder ein wenig noch, und ihr werdet mich sehen‘? Wahrlich, wahrlich sage ich euch: Ihr werdet weinen und klagen, aber die Welt wird sich freuen. Ihr werdet traurig sein, aber eure Traurigkeit wird in Freude verwandelt werden. Eine Frau hat Kummer, wenn sie gebiert, denn ihre Stunde ist gekommen. Aber wenn sie das Kind zur Welt gebracht hat, denkt sie nicht mehr an die Angst wegen der Freude, dass ein Mensch in die Welt geboren ist. Daher habt ihr jetzt Traurigkeit; aber ich werde euch wiedersehen, und euer Herz wird sich freuen, und niemand wird eure Freude von euch nehmen.
+
+„An diesem Tag werdet ihr mich nichts fragen. Wahrlich, wahrlich sage ich euch: Was immer ihr den Vater in meinem Namen fragt, wird er euch geben. Bis jetzt habt ihr nichts in meinem Namen gefragt. Fragt, und ihr werdet empfangen, damit eure Freude vollkommen sei.
+
+„Ich habe euch diese Dinge in Gleichnissen gesagt. Aber die Zeit kommt, da werde ich nicht mehr in Gleichnissen zu euch sprechen, sondern euch offen über den Vater erzählen. An diesem Tag werdet ihr in meinem Namen fragen; und ich sage euch nicht, dass ich für euch zum Vater bitten werde; denn der Vater selbst liebt euch, weil ihr mich geliebt habt und geglaubt habt, dass ich von Gott gekommen bin. Ich bin vom Vater gekommen und in die Welt gekommen. Wieder verlasse ich die Welt und gehe zum Vater.“
+
+Seine Jünger sagten zu ihm: „Siehe, jetzt sprichst du deutlich und verwendest keine Gleichnisse. Jetzt wissen wir, dass du alle Dinge weißt und niemanden brauchst, der dich fragt. Darum glauben wir, dass du von Gott gekommen bist.“
+
+Jesus antwortete ihnen: „Glaubt ihr jetzt? Siehe, die Zeit kommt, ja sie ist jetzt gekommen, dass ihr zerstreut werdet, jeder an seinen eigenen Ort, und ihr lasst mich allein. Doch ich bin nicht allein, denn der Vater ist bei mir. Ich habe euch diese Dinge gesagt, damit ihr Frieden habt in mir. In der Welt habt ihr Angst; aber seid getrost! Ich habe die Welt überwunden.“
+
+### Kapitel 17
+
+Jesus sprach diese Dinge, und als er seine Augen zum Himmel erhob, sagte er: „Vater, die Zeit ist gekommen. Verherrliche deinen Sohn, damit auch dein Sohn dich verherrlichen kann; so wie du ihm Macht über alles Fleisch gegeben hast, so wird er ewiges Leben allen geben, die du ihm gegeben hast. Das ist das ewige Leben, dass sie dich, den einzigen wahren Gott, und den, den du gesandt hast, Jesus Christus, erkennen. Ich habe dich auf der Erde verherrlicht. Ich habe das Werk vollbracht, das du mir gegeben hast. Jetzt, Vater, verherrliche mich mit deinem eigenen Selbst mit der Herrlichkeit, die ich bei dir hatte, bevor die Welt existierte.
+
+„Ich habe deinen Namen den Menschen offenbart, die du mir aus der Welt gegeben hast. Sie waren dein, und du hast sie mir gegeben. Sie haben dein Wort bewahrt. Jetzt wissen sie, dass alles, was du mir gegeben hast, von dir kommt; denn die Worte, die du mir gegeben hast, habe ich ihnen gegeben; und sie haben sie empfangen und wussten mit Sicherheit, dass ich von dir gekommen bin. Sie haben geglaubt, dass du mich gesandt hast. Ich bete für sie. Ich bete nicht für die Welt, sondern für die, die du mir gegeben hast, denn sie sind dein. Alles, was mein ist, ist dein, und was dein ist, ist mein, und ich bin in ihnen verherrlicht. Ich bin nicht mehr in der Welt, aber diese sind in der Welt, und ich komme zu dir. Heiliger Vater, bewahre sie durch deinen Namen, den du mir gegeben hast, damit sie eins sein mögen, so wie wir eins sind. Während ich mit ihnen in der Welt war, habe ich sie in deinem Namen bewahrt. Ich habe die bewahrt, die du mir gegeben hast. Keiner von ihnen ist verloren außer dem Sohn des Verderbens, damit die Schrift erfüllt wird. Aber jetzt komme ich zu dir und sage diese Dinge in der Welt, damit sie meine Freude in sich vollkommen haben mögen. Ich habe ihnen dein Wort gegeben. Die Welt hat sie gehasst, weil sie nicht von der Welt sind, so wie ich nicht von der Welt bin. Ich bitte nicht darum, dass du sie aus der Welt nimmst, sondern dass du sie vom Bösen bewahrst. Sie sind nicht von der Welt, so wie ich nicht von der Welt bin. Heilige sie in deiner Wahrheit. Dein Wort ist Wahrheit. Wie du mich in die Welt gesandt hast, so habe ich sie in die Welt gesandt. Für ihre Sache heilige ich mich selbst, damit auch sie in der Wahrheit geheiligt werden.
+
+„Nicht nur für diese bete ich, sondern auch für die, die durch ihr Wort an mich glauben werden, damit sie alle eins sein; so wie du, Vater, in mir bist und ich in dir bin, damit auch sie eins in uns sein; damit die Welt glaubt, dass du mich gesandt hast. Die Herrlichkeit, die du mir gegeben hast, habe ich ihnen gegeben, damit sie eins sein mögen, so wie wir eins sind: ich in ihnen und du in mir, damit sie zu einem vollkommenen Eins werden, damit die Welt erkennt, dass du mich gesandt hast und sie geliebt hast, so wie du mich geliebt hast. Vater, ich wünsche mir, dass auch die, die du mir gegeben hast, bei mir sind, wo ich bin, damit sie meine Herrlichkeit sehen können, die du mir gegeben hast; denn du hast mich vor Grundlegung der Welt geliebt. Gerechter Vater, die Welt hat dich nicht erkannt; ich aber kannte dich; und diese wussten, dass du mich gesandt hast. Ich habe ihnen deinen Namen bekannt gemacht und werde ihn bekannt machen; damit die Liebe, mit der du mich geliebt hast, in ihnen sei und ich in ihnen.“
+
+### Kapitel 18
+
+Als Jesus diese Worte gesprochen hatte, ging er mit seinen Jüngern über den Bach Kidron hinaus an einen Ort, wo ein Garten war; und er trat mit seinen Jüngern ein. Judas aber, der ihn verriet, kannte den Ort auch; denn Jesus hatte sich dort oft mit seinen Jüngern getroffen. Judas nahm also eine Schar Soldaten und Offiziere von den Hohenpriestern und Pharisäern mit sich und kam dorthin mit Laternen, Fackeln und Waffen. Jesus wusste daher alles, was ihm widerfahren sollte; er trat hinaus und sprach zu ihnen: „Wen sucht ihr?“
+
+Sie antworteten ihm: „Jesus von Nazareth.“
+
+Jesus sagte zu ihnen: „Ich bin es.“
+
+Judas aber, der ihn verriet, stand auch bei ihnen. Als er also zu ihnen sagte: „Ich bin es“, wichen sie zurück und fielen zu Boden.
+
+Da fragte er sie erneut: „Wen sucht ihr?“
+
+Sie sagten: „Jesus von Nazareth.“
+
+Jesus antwortete: „Ich habe euch gesagt, dass ich es bin. Wenn ihr also mich sucht, lasst diese gehen.“ Damit das Wort erfüllt würde, das er gesprochen hatte: „Von denen, die du mir gegeben hast, habe ich keinen verloren.“
+
+Simon Petrus zog daher das Schwert, schlug dem Diener des Hohenpriesters ins Ohr und schnitt ihm das rechte Ohr ab. Der Name des Dieners war Malchus. Jesus sagte daher zu Petrus: „Stecke das Schwert in die Scheide. Den Kelch, den mir der Vater gegeben hat, soll ich ihn nicht trinken?“
+
+Da ergriffen die Soldaten, der Hauptmann und die Offiziere der Juden Jesus, banden ihn und führten ihn zuerst zu Anna, denn er war Schwiegervater des Kaiphas, der in diesem Jahr Hoherpriester war. Nun war es Kaiphas, der den Juden riet, es sei besser, dass ein Mensch für das Volk sterbe.
+
+Simon Petrus folgte Jesus, ebenso ein anderer Jünger. Dieser Jünger war dem Hohenpriester bekannt und ging mit Jesus in den Hof des Hohenpriesters; Petrus aber stand draußen vor der Tür. Da ging der andere Jünger, der dem Hohenpriester bekannt war, hinaus, sprach mit der Türhüterin und brachte Petrus hinein. Die Magd, die die Tür bewachte, sagte zu Petrus: „Bist du nicht auch einer von den Jüngern dieses Mannes?“
+
+Er sagte: „Ich bin es nicht.“
+
+Nun standen die Diener und die Offiziere dort und hatten ein Feuer aus Kohlen gemacht, denn es war kalt. Sie wärmten sich. Petrus stand bei ihnen und wärmte sich.
+
+Der Hohepriester fragte Jesus also über seine Jünger und über seine Lehre.
+
+Jesus antwortete ihm: „Ich habe offen vor der Welt gesprochen. Ich habe immer in den Synagogen und im Tempel gelehrt, wo die Juden sich immer versammeln. Ich habe nichts im Verborgenen gesagt. Warum fragst du mich? Frage die, die mich gehört haben, was ich ihnen gesagt habe. Siehe, sie wissen, was ich gesagt habe.“
+
+Als er dies gesagt hatte, schlug einer der Offiziere, die dabei standen, Jesus mit der Hand und sagte: „Antwortest du dem Hohenpriester so?“
+
+Jesus antwortete ihm: „Wenn ich böse gesprochen habe, bezeuge das Böse; wenn aber gut, warum schlägst du mich?“
+
+Anna sandte ihn gebunden zu Kaiphas, dem Hohenpriester.
+
+Nun stand Simon Petrus und wärmte sich. Da sagten sie zu ihm: „Du bist nicht auch einer seiner Jünger, bist du?“
+
+Er leugnete es und sagte: „Ich bin es nicht.“
+
+Einer der Diener des Hohenpriesters, ein Verwandter dessen, dessen Ohr Petrus abgeschnitten hatte, sagte: „Habe ich dich nicht im Garten mit ihm gesehen?“
+
+Petrus leugnete es daher erneut, und sofort krähte der Hahn.
+
+Sie führten Jesus daher von Kaiphas ins Prätorium. Es war früh, und sie selbst gingen nicht ins Prätorium, damit sie sich nicht verunreinigen, sondern das Passah essen konnten. Pilatus ging daher zu ihnen hinaus und sagte: „Welche Anklage bringt ihr gegen diesen Mann?“
+
+Sie antworteten ihm: „Wäre dieser Mann kein Übeltäter, hätten wir ihn dir nicht übergeben.“
+
+Pilatus sagte daher zu ihnen: „Nehmt ihn selbst und richtet ihn nach eurem Gesetz.“
+
+Da sagten die Juden zu ihm: „Es ist uns nicht erlaubt, jemanden zu töten,“ damit das Wort Jesu erfüllt würde, das er sprach und damit andeutete, auf welche Art er sterben sollte.
+
+Pilatus ging daher wieder ins Prätorium, rief Jesus und sagte zu ihm: „Bist du der König der Juden?“
+
+Jesus antwortete ihm: „Sagst du das von dir selbst oder haben andere dir von mir gesagt?“
+
+Pilatus antwortete: „Ich bin kein Jude, oder? Dein eigenes Volk und die Obersten der Priester haben dich mir übergeben. Was hast du getan?“
+
+Jesus antwortete: „Mein Königreich ist nicht von dieser Welt. Wäre mein Königreich von dieser Welt, würden meine Diener kämpfen, damit ich nicht den Juden übergeben werde. Aber jetzt ist mein Königreich nicht von hier.“
+
+Pilatus sagte daher zu ihm: „Bist du also ein König?“
+
+Jesus antwortete: „Du sagst, dass ich ein König bin. Aus diesem Grund bin ich geboren und aus diesem Grund bin ich in die Welt gekommen, um für die Wahrheit Zeugnis abzulegen. Jeder, der aus der Wahrheit ist, hört meine Stimme.“
+
+Pilatus sagte zu ihm: „Was ist Wahrheit?“
+
+Als er dies gesagt hatte, ging er wieder zu den Juden hinaus und sagte zu ihnen: „Ich finde keine Grundlage für eine Anklage gegen ihn. Aber ihr habt die Gewohnheit, dass ich euch zu Passah einen freilassen soll. Wollt ihr also, dass ich euch den König der Juden freilasse?“
+
+Da schrien sie alle wieder und sagten: „Nicht diesen Mann, sondern Barabbas!“ Barabbas aber war ein Räuber.
+
+### Kapitel 19
+
+Da nahm Pilatus Jesus und ließ ihn geißeln. Die Soldaten flochten Dornen zu einer Krone und setzten sie ihm auf das Haupt und kleideten ihn in ein purpurfarbenes Gewand. Sie sagten immer wieder: „Sei gegrüßt, König der Juden!“ und schlugen ihn.
+
+Dann ging Pilatus wieder hinaus und sagte zu ihnen: „Seht, ich bringe ihn zu euch heraus, damit ihr wisst, dass ich keine Grundlage für eine Anklage gegen ihn finde.“
+
+Jesus kam also heraus, trug die Dornenkrone und das purpurfarbene Gewand. Pilatus sagte zu ihnen: „Seht, der Mensch!“
+
+Als die Obersten Priester und die Wachen ihn sahen, schrien sie: „Kreuzige! Kreuzige!“
+
+Pilatus sagte zu ihnen: „Nehmt ihn selbst und kreuzigt ihn, denn ich finde keine Grundlage für eine Anklage gegen ihn.“
+
+Die Juden antworteten ihm: „Wir haben ein Gesetz, und nach unserem Gesetz muss er sterben, weil er sich selbst zum Sohn Gottes gemacht hat.“
+
+Als Pilatus dies hörte, fürchtete er sich noch mehr. Er ging wieder in das Praetorium und sagte zu Jesus: „Woher bist du?“ Aber Jesus gab ihm keine Antwort. Darauf sagte Pilatus zu ihm: „Sprichst du nicht mit mir? Weißt du nicht, dass ich Macht habe, dich freizulassen und Macht habe, dich zu kreuzigen?“
+
+Jesus antwortete: „Du hättest keine Macht über mich, wenn sie dir nicht von oben gegeben wäre. Deshalb hat der, der mich dir übergeben hat, die größere Sünde.“
+
+Bei diesen Worten suchte Pilatus, ihn freizulassen, aber die Juden schrien: „Wenn du diesen Mann freilässt, bist du kein Freund des Kaisers! Jeder, der sich zum König macht, spricht gegen den Kaiser!“
+
+Als Pilatus diese Worte hörte, brachte er Jesus heraus und setzte sich auf den Richterstuhl an einem Ort, der „Der Pflasterplatz“ genannt wird, auf Hebräisch „Gabbatha“. Es war der Vorbereitungstag des Passahfestes, etwa zur sechsten Stunde. Er sagte zu den Juden: „Seht, euer König!“
+
+Sie schrien: „Weg mit ihm! Weg mit ihm! Kreuzige ihn!“
+
+Pilatus sagte zu ihnen: „Soll ich euren König kreuzigen?“
+
+Die Obersten Priester antworteten: „Wir haben keinen König außer dem Kaiser!“
+
+So übergab er ihn ihnen, damit er gekreuzigt werde. Sie nahmen also Jesus und führten ihn weg. Er ging hinaus und trug sein Kreuz zu dem Ort, der „Der Schädelplatz“ genannt wird, auf Hebräisch „Golgatha“, wo sie ihn kreuzigten und mit ihm zwei andere, auf jeder Seite einen, und Jesus in der Mitte. Pilatus schrieb auch eine Inschrift und setzte sie auf das Kreuz. Darauf stand: „JESUS VON NAZARETH, DER KÖNIG DER JUDE.“ Viele von den Juden lasen diese Inschrift, denn der Ort, wo Jesus gekreuzigt wurde, war nahe der Stadt; und sie war auf Hebräisch, Lateinisch und Griechisch geschrieben. Die Obersten Priester der Juden sagten daher zu Pilatus: „Schreibe nicht: ‚Der König der Juden‘, sondern: ‚Er hat gesagt: Ich bin der König der Juden.‘“
+
+Pilatus antwortete: „Was ich geschrieben habe, habe ich geschrieben.“
+
+Als die Soldaten Jesus gekreuzigt hatten, nahmen sie seine Kleider und machten vier Teile, für jeden Soldaten ein Teil; auch das Untergewand. Das Untergewand aber war nahtlos, von oben bis unten gewebt. Dann sagten sie zueinander: „Lasst uns nicht zerreißen, sondern darum losen, wessen es sein soll“, damit die Schrift erfüllt würde, die sagt:
+
+„Sie haben meine Kleider unter sich geteilt.
+
+Und um mein Gewand haben sie das Los geworfen.“
+
+Darum taten die Soldaten dies.
+
+Aber bei dem Kreuz Jesu standen seine Mutter, die Schwester seiner Mutter, Maria, die Frau des Klopas, und Maria Magdalena. Als Jesus seine Mutter sah und den Jünger, den er liebte, dort stehen sah, sagte er zu seiner Mutter: „Frau, siehe deinen Sohn!“ Dann sagte er zu dem Jünger: „Siehe deine Mutter!“ Von dieser Stunde an nahm der Jünger sie zu sich nach Hause.
+
+Nach diesem sah Jesus, dass nun alles vollbracht war, damit die Schrift erfüllt würde, und sagte: „Ich habe Durst!“ Es stand dort ein Gefäß voll Essig; sie hielten ihm einen Schwamm voll Essig auf einem Hyssopzweig an den Mund. Als Jesus nun den Essig empfangen hatte, sagte er: „Es ist vollbracht!“ Und er neigte sein Haupt und gab den Geist auf.
+
+Die Juden aber baten Pilatus, weil es der Vorbereitungstag war, dass die Leiber am Sabbat nicht am Kreuz bleiben sollten (denn jener Sabbat war ein großer Tag), dass ihre Beine gebrochen und sie abgenommen werden sollten. Da kamen die Soldaten und brachen die Beine des ersten und des anderen, der mit ihm gekreuzigt worden war; als sie aber zu Jesus kamen und sahen, dass er schon tot war, brachen sie ihm die Beine nicht. Einer der Soldaten aber durchbohrte seine Seite mit einer Lanze, und sogleich kam Blut und Wasser heraus. Und der es gesehen hat, hat Zeugnis abgelegt; und sein Zeugnis ist wahr. Und er weiß, dass er die Wahrheit sagt, damit ihr glaubt. Denn dies geschah, damit die Schrift erfüllt würde: „Es wird kein Bein von ihm zerbrochen werden.“ Und wiederum sagt eine andere Schrift: „Sie werden auf den sehen, den sie durchstochen haben.“
+
+Nach diesen Dingen bat Joseph von Arimathäa, ein Jünger Jesu, der aber aus Furcht vor den Juden heimlich war, Pilatus, dass er den Leichnam Jesu abnehmen dürfe. Pilatus gab ihm die Erlaubnis. Er kam also und nahm seinen Leichnam ab. Nikodemus, der zuerst nachts zu Jesus gekommen war, kam auch und brachte eine Mischung aus Myrrhe und Aloe, etwa hundert römische Pfund. Sie nahmen also den Leichnam Jesu und wickelten ihn in Leinentücher mit den Gewürzen, wie es der Brauch der Juden ist, zu begraben. An dem Ort, wo er gekreuzigt wurde, war ein Garten. In dem Garten war ein neues Grab, in das noch kein Mensch gelegt worden war. Da sie wegen des Vorbereitungstags der Juden (denn das Grab war nahe) Jesus dort hinlegten.
+
+### Kapitel 20
+
+Am ersten Tag der Woche ging Maria Magdalena früh, während es noch dunkel war, zum Grab und sah, dass der Stein vom Grab weggenommen worden war. Daher lief sie und kam zu Simon Petrus und zu dem anderen Jünger, den Jesus liebte, und sagte zu ihnen: „Sie haben den Herrn aus dem Grab genommen, und wir wissen nicht, wo sie ihn hingelegt haben!“
+
+Darauf gingen Petrus und der andere Jünger hinaus und gingen zum Grab. Sie liefen beide zusammen. Der andere Jünger lief schneller als Petrus und kam zuerst zum Grab. Er beugte sich vor und sah die Leinentücher dort liegen; doch ging er nicht hinein. Dann kam Simon Petrus, der ihm folgte, und ging in das Grab hinein. Er sah die Leinentücher liegen und das Tuch, das auf seinem Kopf gewesen war, nicht bei den Leinentüchern liegen, sondern zusammen gerollt an einem anderen Ort. Dann ging auch der andere Jünger, der zuerst zum Grab gekommen war, hinein und sah und glaubte. Denn sie wussten noch nicht aus der Schrift, dass er von den Toten auferstehen musste. So gingen die Jünger wieder nach Hause.
+
+Maria aber stand draußen am Grab und weinte. Während sie weinte, beugte sie sich vor und sah in das Grab hinein und sah zwei Engel in weißen Kleidern sitzen, einen am Kopf und einen an den Füßen, wo der Leib Jesu gelegen hatte. Sie fragten sie: „Frau, warum weinst du?“
+
+Sie sagte zu ihnen: „Weil sie meinen Herrn weggenommen haben, und ich weiß nicht, wo sie ihn hingelegt haben.“ Als sie dies gesagt hatte, wandte sie sich um und sah Jesus stehen; sie wusste aber nicht, dass es Jesus war.
+
+Jesus sagte zu ihr: „Frau, warum weinst du? Wen suchst du?“
+
+Sie, da sie dachte, er sei der Gärtner, sagte zu ihm: „Herr, wenn du ihn weggetragen hast, sage mir, wo du ihn hingelegt hast, und ich will ihn nehmen.“
+
+Jesus sagte zu ihr: „Maria.“
+
+Sie wandte sich um und sagte zu ihm: „Rabboni!“ was bedeutet: „Lehrer!“
+
+Jesus sagte zu ihr: „Halte mich nicht fest; denn ich bin noch nicht zum Vater aufgefahren; aber gehe zu meinen Brüdern und sage ihnen: ‚Ich fahre auf zu meinem Vater und eurem Vater, zu meinem Gott und eurem Gott.‘“
+
+Maria Magdalena kam und berichtete den Jüngern, dass sie den Herrn gesehen habe und dass er ihr diese Dinge gesagt habe. Als es nun Abend wurde an diesem Tag, dem ersten Tag der Woche, und als die Türen verschlossen waren, wo die Jünger versammelt waren aus Furcht vor den Juden, kam Jesus und trat in ihre Mitte und sagte zu ihnen: „Friede sei mit euch.“
+
+Und als er dies gesagt hatte, zeigte er ihnen seine Hände und seine Seite. Da wurden die Jünger froh, als sie den Herrn sahen. Jesus sagte daher erneut zu ihnen: „Friede sei mit euch! Wie mich der Vater gesandt hat, so sende ich euch.“ Und als er dies gesagt hatte, hauchte er sie an und sagte zu ihnen: „Empfangt den Heiligen Geist! Wenn ihr jemandes Sünden vergebt, so sind sie ihnen vergeben; wenn ihr jemandes Sünden behaltet, so sind sie behalten.“
+
+Thomas aber, einer der Zwölf, genannt Didymus, war nicht bei ihnen, als Jesus kam. Die anderen Jünger sagten daher zu ihm: „Wir haben den Herrn gesehen!“
+
+Er aber sagte zu ihnen: „Wenn ich nicht in seinen Händen die Male der Nägel sehe und meinen Finger in die Male der Nägel lege und meine Hand in seine Seite lege, werde ich nicht glauben.“
+
+Nach acht Tagen waren seine Jünger wieder drinnen und Thomas war bei ihnen. Jesus kam, die Türen waren verschlossen, und trat in ihre Mitte und sagte: „Friede sei mit euch!“ Dann sagte er zu Thomas: „Lege deinen Finger hierher und siehe meine Hände; lege deine Hand hierher und lege sie in meine Seite. Sei nicht ungläubig, sondern gläubig.“
+
+Thomas antwortete ihm: „Mein Herr und mein Gott!“
+
+Jesus sagte zu ihm: „Weil du mich gesehen hast, hast du geglaubt. Selig sind die, die nicht gesehen und doch geglaubt haben.“
+
+Darum tat Jesus viele andere Zeichen vor seinen Jüngern, die nicht in diesem Buch geschrieben sind; aber diese sind geschrieben, damit ihr glaubt, dass Jesus der Christus, der Sohn Gottes ist, und damit ihr, glaubend, das Leben in seinem Namen habt.
+
+### Kapitel 21
+
+Nach diesen Dingen offenbarte sich Jesus wieder den Jüngern am See von Tiberias. Er offenbarte sich auf diese Weise. Simon Petrus, Thomas genannt Didymus, Nathanael aus Kana in Galiläa und die Söhne des Zebedäus sowie zwei andere seiner Jünger waren zusammen. Simon Petrus sagte zu ihnen: „Ich gehe fischen.“
+
+Sie sagten zu ihm: „Wir kommen auch mit dir.“ Sie gingen sofort hinaus und stiegen in das Boot. In dieser Nacht fingen sie nichts. Als aber der Tag bereits angebrochen war, stand Jesus am Ufer; die Jünger wussten jedoch nicht, dass es Jesus war. Jesus sagte daher zu ihnen: „Kinder, habt ihr nichts zu essen?“
+
+Sie antworteten ihm: „Nein.“
+
+Er sagte zu ihnen: „Werft das Netz auf die rechte Seite des Bootes, und ihr werdet etwas finden.“
+
+Sie warfen es daher aus, und jetzt konnten sie es wegen der Menge der Fische nicht mehr einziehen. Der Jünger, den Jesus liebte, sagte zu Petrus: „Es ist der Herr!“
+
+Als Simon Petrus hörte, dass es der Herr war, gürtete er sein Obergewand um (denn er war nackt) und warf sich ins Meer. Die anderen Jünger kamen im kleinen Boot (denn sie waren nicht weit vom Land entfernt, sondern etwa zweihundert Ellen) und zogen das Netz voller Fische hinter sich her. Als sie ans Land gingen, sahen sie dort ein Kohlenfeuer mit Fischen und Brot darauf. Jesus sagte zu ihnen: „Bringt einige von den Fischen, die ihr gerade gefangen habt.“
+
+Simon Petrus ging hinauf und zog das Netz ans Land, voll von einhundertdreiundfünfzig großen Fischen. Obwohl es so viele waren, riss das Netz nicht.
+
+Jesus sagte zu ihnen: „Kommt und frühstückt!“
+
+Keiner der Jünger wagte ihn zu fragen: „Wer bist du?“, da sie wussten, dass es der Herr war.
+
+Dann kam Jesus und nahm das Brot, gab es ihnen, und ebenso die Fische. Dies ist nun das dritte Mal, dass Jesus sich seinen Jüngern offenbarte, nachdem er von den Toten auferstanden war. Als sie ihr Frühstück gegessen hatten, sagte Jesus zu Simon Petrus: „Simon, Sohn des Johannes, liebst du mich mehr als diese?“
+
+Er sagte zu ihm: „Ja, Herr; du weißt, dass ich dich lieb habe.“
+
+Er sagte zu ihm: „Weide meine Lämmer.“ Er fragte ihn ein zweites Mal: „Simon, Sohn des Johannes, liebst du mich?“
+
+Er sagte zu ihm: „Ja, Herr; du weißt, dass ich dich lieb habe.“
+
+Er sagte zu ihm: „Hüte meine Schafe.“ Er fragte ihn zum dritten Mal: „Simon, Sohn des Johannes, hast du mich lieb?“
+
+Petrus wurde traurig, weil er ihn zum dritten Mal fragte: „Hast du mich lieb?“ Er sagte zu ihm: „Herr, du weißt alles. Du weißt, dass ich dich lieb habe.“
+
+Jesus sagte zu ihm: „Weide meine Schafe. Wahrlich, wahrlich sage ich dir: Als du jung warst, hast du dich selbst gegürtet und bist gegangen, wohin du wolltest. Wenn du aber alt wirst, wirst du deine Hände ausstrecken, und ein anderer wird dich gürten und dich dorthin bringen, wo du nicht willst.“
+
+Dies sagte er aber, um anzuzeigen, durch welchen Tod er Gott verherrlichen würde. Als er dies gesagt hatte, sagte er zu ihm: „Folge mir nach.“
+
+Dann wandte sich Petrus um und sah einen Jünger folgen. Dies war der Jünger, den Jesus liebte, der auch an Jesu Brust beim Abendmahl gelehnt hatte und gefragt hatte: „Herr, wer wird dich verraten?“ Petrus sah ihn und sagte zu Jesus: „Herr, was ist mit diesem Mann?“
+
+Jesus sagte zu ihm: „Wenn ich will, dass er bleibt bis ich komme, was geht das dich an? Folge du mir nach.“ Dieses Wort ging daher unter den Brüdern umher, dass dieser Jünger nicht sterben würde. Doch Jesus hatte ihm nicht gesagt, dass er nicht sterben würde, sondern: „Wenn ich will, dass er bleibt bis ich komme, was geht das dich an?“
+
+Dies ist der Jünger, der von diesen Dingen Zeugnis ablegt und diese Dinge geschrieben hat. Wir wissen, dass sein Zeugnis wahr ist. Es gibt auch viele andere Dinge, die Jesus tat; wenn alles geschrieben würde, denke ich, dass selbst die Welt nicht die Bücher fassen könnte, die geschrieben werden würden.
+
+## Apostelgeschichte
+
+### Kapitel 1
+
+Das erste Buch, das ich geschrieben habe, Theophilus, handelt von allem, was Jesus begann zu tun und zu lehren, bis zu dem Tag, an dem er in den Himmel aufgenommen wurde, nachdem er durch den Heiligen Geist den Aposteln, die er erwählt hatte, Gebote gegeben hatte. Denen zeigte er sich auch lebendig nach seinem Leiden, durch viele Beweise, indem er ihnen über einen Zeitraum von vierzig Tagen erschien und über das Reich Gottes sprach. Als er mit ihnen versammelt war, gebot er ihnen: „Verlasst Jerusalem nicht, sondern wartet auf die Verheißung des Vaters, die ihr von mir gehört habt. Denn Johannes hat zwar mit Wasser getauft, aber ihr werdet nicht viele Tage von jetzt an mit dem Heiligen Geist getauft werden.“
+
+Als sie nun zusammengekommen waren, fragten sie ihn: „Herr, stellst du in dieser Zeit das Reich für Israel wieder her?“
+
+Er sagte zu ihnen: „Es steht euch nicht zu, Zeiten oder Fristen zu wissen, die der Vater in seiner eigenen Macht festgesetzt hat. Aber ihr werdet Kraft empfangen, wenn der Heilige Geist auf euch gekommen ist. Und ihr werdet meine Zeugen sein in Jerusalem und in ganz Judäa und Samaria und bis ans Ende der Erde.“
+
+Als er dies gesagt hatte, wurde er vor ihren Augen emporgehoben, und eine Wolke nahm ihn aus ihrer Sicht weg. Während sie mit unverwandtem Blick gen Himmel schauten, während er hinaufging, siehe, standen zwei Männer in weißen Kleidern bei ihnen, die auch sagten: „Ihr Männer von Galiläa, warum steht ihr da und schaut gen Himmel? Dieser Jesus, der von euch in den Himmel aufgenommen wurde, wird so wiederkommen, wie ihr ihn habt gen Himmel fahren sehen.“
+
+Dann kehrten sie von dem Berg zurück, der Ölberg heißt und nahe bei Jerusalem liegt, eine Sabbatsreise entfernt. Als sie hineingekommen waren, gingen sie in den oberen Raum, wo sie sich aufhielten: Petrus, Johannes, Jakobus, Andreas, Philippus, Thomas, Bartholomäus, Matthäus, Jakobus der Sohn des Alphäus, Simon der Zelot und Judas der Sohn des Jakobus. Diese alle hielten einmütig an im Gebet und Flehen, samt den Frauen und Maria der Mutter Jesu und seinen Brüdern.
+
+In diesen Tagen stand Petrus mitten unter den Jüngern auf (und die Zahl der Namen betrug etwa hundertzwanzig) und sprach: „Ihr Brüder, es war notwendig, dass diese Schrift erfüllt würde, die der Heilige Geist zuvor durch den Mund Davids über Judas sprach, der als Führer zu denen geworden ist, die Jesus gefangen genommen haben. Denn er wurde zu uns gezählt und erhielt sein Los in diesem Dienst. Dieser Mann nun erwarb ein Feld mit dem Lohn seiner Ungerechtigkeit; und als er kopfüber fiel, platzte sein Leib auf und alle seine Eingeweide strömten heraus. Es wurde allen bekannt, die in Jerusalem wohnten; so dass in ihrer Sprache jenes Feld ‘Akeldama’ genannt wurde, das heißt ‘Das Blutfeld.’ Denn es steht im Buch der Psalmen geschrieben:
+
+‘Seine Wohnung sei verwüstet.
+
+Und niemand wohne darin;’
+
+und,
+
+‘Ein anderer nehme sein Amt.’
+
+„So müssen nun von den Männern, die uns die ganze Zeit über begleitet haben, als der Herr Jesus unter uns ein- und ausging, vom Taufen Johannes bis zu dem Tag, an dem er von uns aufgenommen wurde, einer mit uns Zeuge seiner Auferstehung werden.“
+
+Sie stellten zwei auf: Joseph genannt Barsabbas, der auch Justus genannt wurde, und Matthias. Sie beteten und sprachen: „Du Herr, der du die Herzen aller Menschen kennst, zeige an diesem einen von diesen zwei, den du erwählt hast, um an diesem Dienst und Apostelamt teilzuhaben, von dem Judas abgefallen ist, um an seinen eigenen Ort zu gehen.“ Sie warfen das Los über sie; und das Los fiel auf Matthias; und er wurde zu den elf Aposteln gezählt.
+
+### Kapitel 2
+
+Als nun der Tag der Pfingsten gekommen war, waren sie alle einmütig beieinander. Plötzlich kam vom Himmel ein Geräusch wie das Rauschen eines gewaltigen Windes, und es erfüllte das ganze Haus, wo sie saßen. Zungen wie Feuer erschienen und verteilten sich auf jeden von ihnen; und sie wurden alle mit dem Heiligen Geist erfüllt und fingen an, in anderen Sprachen zu reden, wie der Geist ihnen gab auszusprechen.
+
+Es wohnten aber in Jerusalem Juden, gottesfürchtige Männer aus allen Nationen unter dem Himmel. Als nun dieser Klang geschah, kam die Menge zusammen und war verwirrt; denn jeder hörte sie in seiner eigenen Sprache reden. Sie waren alle erstaunt und verwundert und sprachen zueinander: „Siehe, sind nicht alle diese, die da reden, Galiläer? Wie hören wir sie denn jeder in unserer eigenen Sprache? Parther und Meder und Elamiter und die Bewohner von Mesopotamien, Judäa und Kappadokien, Pontus und Asien, Phrygien und Pamphylien, Ägypten und die Teile von Libyen bei Kyrene sowie Römer, Juden und Proselyten, Kreter und Araber – wir hören sie in unseren Sprachen die großen Taten Gottes reden!“ Sie waren alle erstaunt und ratlos und sprachen zueinander: „Was mag das sein?“ Andere aber verspotteten sie und sagten: „Sie sind voll süßen Weins.“
+
+Aber Petrus, der mit den elf anderen aufstand, erhob seine Stimme und sprach zu ihnen: „Ihr Männer von Judäa und alle, die ihr in Jerusalem wohnt, lasst dies euch kundtun und hört meine Worte. Denn diese sind nicht betrunken, wie ihr annehmt, da es erst die dritte Stunde des Tages ist. Sondern dies ist es, was durch den Propheten Joel gesagt wurde:
+
+„Es wird geschehen in den letzten Tagen, spricht Gott,
+
+dass ich meinen Geist auf alles Fleisch ausgießen werde.
+
+Eure Söhne und eure Töchter werden prophetisch reden.
+
+Eure jungen Männer werden Visionen sehen.
+
+Eure alten Männer werden Träume träumen.
+
+Ja, und auf meine Diener und auf meine Dienstmägde in jenen Tagen
+
+werde ich meinen Geist ausgießen, und sie werden prophetisch reden.
+
+Ich werde Wunder im Himmel oben zeigen
+
+und Zeichen auf der Erde unten:
+
+Blut und Feuer und Rauchwolken.
+
+Die Sonne wird in Finsternis verwandelt werden,
+
+und der Mond in Blut,
+
+bevor der große und herrliche Tag des Herrn kommt.
+
+Und es wird geschehen, dass jeder, der den Namen des Herrn anruft, gerettet werden wird.“
+
+„Männer von Israel, hört diese Worte! Jesus von Nazareth, ein von Gott euch bewährter Mann durch mächtige Werke und Wunder und Zeichen, die Gott durch ihn unter euch tat, wie ihr selbst wisst, diesen, der durch den festgesetzten Rat und die Vorhersehung Gottes überliefert wurde, habt ihr durch die Hände gesetzloser Männer ergriffen, gekreuzigt und getötet; den Gott auferweckt hat, nachdem er ihn von den Wehen des Todes befreit hatte, weil es unmöglich war, dass er von ihm festgehalten werden konnte. Denn David sagt von ihm:
+
+„Ich sah den Herrn stets vor mir,
+
+denn er steht zu meiner Rechten, damit ich nicht wanke.
+
+Darum freute sich mein Herz, und meine Zunge jubelte.
+
+Außerdem wird auch mein Fleisch in Hoffnung wohnen,
+
+weil du meine Seele nicht im Hades lassen wirst,
+
+noch wirst du zulassen, dass dein Heiliger die Verwesung sieht.
+
+Du hast mir die Wege des Lebens kundgetan.
+
+Du wirst mich mit Freude erfüllen in deiner Gegenwart.“
+
+„Brüder, ich kann euch frei von dem Patriarchen David erzählen, dass er sowohl starb als auch begraben wurde, und sein Grab ist bis zum heutigen Tag bei uns. Da er also ein Prophet war und wusste, dass Gott ihm mit einem Eid geschworen hatte, dass er von der Frucht seines Leibes nach dem Fleisch den Christus erwecken würde, um auf seinem Thron zu sitzen, sprach er voraussehend über die Auferstehung des Christus, dass seine Seele nicht im Hades gelassen wurde und sein Fleisch die Verwesung nicht sah. Diesen Jesus hat Gott auferweckt, dessen Zeugen wir alle sind. Da er also an die rechte Hand Gottes erhöht wurde und vom Vater die Verheißung des Heiligen Geistes empfangen hat, hat er das ausgegossen, was ihr jetzt seht und hört. Denn David ist nicht in den Himmel aufgefahren, sondern er sagt selbst:
+
+„Der Herr sprach zu meinem Herrn: ‚Setze dich zu meiner Rechten,
+
+bis ich deine Feinde zum Schemel deiner Füße mache.‘“
+
+„Lasst also das ganze Haus Israel mit Gewissheit wissen, dass Gott ihn sowohl zum Herrn als auch zum Christus gemacht hat, diesen Jesus, den ihr gekreuzigt habt.“
+
+Als sie dies hörten, wurden sie in ihrem Herzen durchbohrt und sprachen zu Petrus und den übrigen Aposteln: „Brüder, was sollen wir tun?“
+
+Petrus sprach zu ihnen: „Tut Buße und lasst euch taufen, jeder von euch im Namen Jesu Christi zur Vergebung der Sünden; so werdet ihr die Gabe des Heiligen Geistes empfangen. Denn die Verheißung gilt euch und euren Kindern und allen, die weit entfernt sind, so viele der Herrn unser Gott zu sich rufen wird.“ Mit vielen anderen Worten bezeugte er und ermahnte sie und sprach: „Rettet euch aus dieser verdorbenen Generation!“
+
+Diejenigen aber, die sein Wort mit Freude annahmen, ließen sich taufen. An diesem Tag wurden etwa dreitausend Seelen hinzugefügt. Sie blieben beständig in der Lehre der Apostel und in der Gemeinschaft, im Brechen des Brotes und im Gebet. Furcht kam über jede Seele, und viele Wunder und Zeichen geschahen durch die Apostel. Alle Gläubigen waren zusammen und hatten alles gemeinsam. Sie verkauften ihre Besitztümer und Güter und verteilten sie an alle, je nachdem jemand Bedarf hatte. Tag für Tag blieben sie beständig einmütig im Tempel und brachen das Brot zu Hause; sie nahmen ihre Speise mit Freude und Einfalt des Herzens, lobten Gott und fanden Wohlgefallen bei dem ganzen Volk. Der Herr fügte täglich zur Versammlung hinzu, die gerettet wurden.
+
+### Kapitel 3
+
+Petrus und Johannes gingen zur Stunde des Gebets, zur neunten Stunde, in den Tempel. Ein gewisser Mann, der von seiner Mutter Leib an lahm war, wurde getragen und täglich an die Tür des Tempels gelegt, die Schöne genannt wird, um Almosen von denjenigen zu erbitten, die in den Tempel gingen. Als er Petrus und Johannes sah, die in den Tempel gehen wollten, bat er um Almosen. Petrus, der ihn mit Johannes anblickte, sagte: „Sieh uns an.“ Er hörte auf sie und erwartete, etwas von ihnen zu empfangen. Aber Petrus sagte: „Silber und Gold habe ich nicht; aber was ich habe, das gebe ich dir. Im Namen Jesu Christi von Nazareth, steh auf und geh!“ Und er griff ihn bei der rechten Hand und richtete ihn auf. Sofort wurden seine Füße und Knöchel stark. Er sprang auf, stand und begann zu gehen. Er trat mit ihnen in den Tempel ein, ging umher, sprang und lobte Gott. Alle Leute sahen ihn gehen und Gott loben. Sie erkannten ihn, dass es der war, der an der Schönen Pforte des Tempels um Almosen gebettelt hatte. Sie waren erfüllt von Staunen und Erstaunen über das, was ihm widerfahren war. Als der geheilte Lahme an Petrus und Johannes festhielt, liefen alle Leute zu ihnen in die Halle, die Salomon genannt wird, und wunderten sich sehr.
+
+Als Petrus das sah, antwortete er dem Volk: „Ihr Männer von Israel, warum wundert ihr euch über diesen Mann? Warum schaut ihr uns an, als hätten wir ihn durch unsere eigene Kraft oder Frömmigkeit zum Gehen gebracht? Der Gott Abrahams, Isaaks und Jakobs, der Gott unserer Väter, hat seinen Diener Jesus verherrlicht, den ihr übergeben und in der Gegenwart des Pilatus verleugnet habt, als er entschlossen war, ihn freizulassen. Aber ihr habt den Heiligen und Gerechten verleugnet und verlangt, dass euch ein Mörder geschenkt werde, und habt den Fürsten des Lebens getötet, den Gott von den Toten auferweckt hat; dessen Zeugen sind wir. Durch den Glauben an seinen Namen hat sein Name diesen Mann stark gemacht, den ihr seht und kennt. Ja, der Glaube, der durch ihn ist, hat ihm diese vollkommene Gesundheit vor euch allen gegeben.
+
+„Nun, Brüder, ich weiß, dass ihr dies in Unwissenheit getan habt, ebenso wie eure Herrscher. Aber die Dinge, die Gott durch den Mund aller seiner Propheten angekündigt hat, dass Christus leiden sollte, hat er so erfüllt.
+
+„Kehrt also um und wendet euch wieder zu ihm, damit eure Sünden ausgelöscht werden, damit Zeiten der Erquickung von der Gegenwart des Herrn kommen mögen und er Christus Jesus senden kann, der euch zuvor bestimmt war; den der Himmel empfangen muss bis zu den Zeiten der Wiederherstellung aller Dinge, von denen Gott vor langer Zeit durch den Mund seiner heiligen Propheten gesprochen hat. Denn Mose hat tatsächlich zu den Vätern gesagt: ‚Der Herr Gott wird euch einen Propheten aus euren Brüdern erwecken wie mich. Ihm sollt ihr in allem zuhören, was er euch sagt. Und es wird sein, dass jede Seele, die nicht auf diesen Propheten hört, aus dem Volk völlig vernichtet wird.‘ Ja, und alle Propheten von Samuel an und alle, die danach gesprochen haben, haben auch von diesen Tagen erzählt. Ihr seid die Kinder der Propheten und des Bundes, den Gott mit unseren Vätern gemacht hat und zu Abraham gesagt hat: ‚Durch deinen Nachkommen werden alle Geschlechter der Erde gesegnet werden.‘ Gott hat seinen Diener Jesus erweckt und ihn zuerst zu euch gesandt, um euch zu segnen und jeden von euch von eurer Bosheit abzuwenden.“
+
+### Kapitel 4
+
+Während sie zum Volk sprachen, kamen die Priester und der Hauptmann des Tempels sowie die Sadduzäer zu ihnen und waren verärgert, weil sie das Volk lehrten und in Jesus die Auferstehung von den Toten verkündeten. Sie legten ihnen die Hände auf und setzten sie bis zum nächsten Tag in Gewahrsam; denn es war bereits Abend geworden. Aber viele von denen, die das Wort hörten, glaubten; und die Zahl der Männer wurde etwa fünftausend.
+
+Am Morgen versammelten sich ihre Herrscher, Ältesten und Schriftgelehrten in Jerusalem. Der Hohepriester Hannas war dort mit Kaiphas, Johannes, Alexander und so vielen anderen Verwandten des Hohenpriesters. Als sie Petrus und Johannes in ihre Mitte gestellt hatten, fragten sie: „In welcher Kraft oder in welchem Namen habt ihr dies getan?“
+
+Dann sagte Petrus, erfüllt mit dem Heiligen Geist, zu ihnen: „Ihr Obersten des Volkes und Ältesten Israels, wenn wir heute wegen einer guten Tat, die an einem Gelähmten getan wurde, befragt werden, durch welches Mittel dieser Mann geheilt wurde, so sei euch allen und dem ganzen Volk Israel bekannt, dass in dem Namen Jesu Christi von Nazareth, den ihr gekreuzigt habt, den Gott von den Toten auferweckt hat, dieser Mann hier vor euch gesund steht. Er ist 'der Stein, den ihr, die Bauleute, für wertlos gehalten habt, der zum Eckstein geworden ist.' Es gibt kein Heil in keinem anderen, denn es ist kein anderer Name unter dem Himmel den Menschen gegeben, durch den wir gerettet werden müssen!“
+
+Als sie nun die Freimütigkeit von Petrus und Johannes sahen und erkannten, dass sie ungelehrte und einfache Männer waren, verwunderten sie sich. Sie erkannten, dass sie mit Jesus gewesen waren. Als sie den geheilten Mann sahen, der mit ihnen stand, konnten sie nichts dagegen sagen. Aber als sie ihnen befahlen, aus dem Rat zu gehen, berieten sie sich untereinander und sagten: „Was sollen wir diesen Männern tun? Denn wahrhaftig ist ein bemerkenswertes Wunder durch sie geschehen, wie alle in Jerusalem sehen können, und wir können es nicht leugnen. Aber damit sich dies nicht weiter unter dem Volk verbreitet, lasst uns sie bedrohen, dass sie von nun an in diesem Namen mit niemandem sprechen.“ Sie riefen sie und befahlen ihnen, in keinem Fall im Namen Jesu zu sprechen oder zu lehren.
+
+Petrus und Johannes antworteten ihnen: „Ob es vor Gott recht ist, euch mehr zu gehorchen als Gott, das urteilt selbst; denn wir können nicht umhin, von dem zu reden, was wir gesehen und gehört haben.“
+
+Als sie sie weiter bedrohten, ließen sie sie gehen und fanden keinen Weg, sie zu bestrafen, wegen des Volkes; denn alle verherrlichten Gott für das, was geschehen war. Denn der Mann, an dem dieses Heilungswunder vollbracht wurde, war über vierzig Jahre alt.
+
+Nachdem sie entlassen worden waren, kamen sie zu ihrer eigenen Gruppe und berichteten alles, was die Obersten der Priester und die Ältesten zu ihnen gesagt hatten. Als sie es hörten, erhoben sie einstimmig ihre Stimme zu Gott und sagten: „O Herr, du bist Gott, der den Himmel, die Erde, das Meer und alles, was darin ist, gemacht hat; der durch den Mund deines Dieners David gesagt hat:
+
+'Warum toben die Nationen
+
+und die Völker sinnen auf Nichtiges?
+
+Die Könige der Erde treten zusammen
+
+und die Herrscher beraten sich
+
+gegen den Herrn und gegen seinen Christus.'
+
+„Denn wahrhaftig sind sowohl Herodes als auch Pontius Pilatus mit den Heiden und dem Volk Israel gegen deinen heiligen Diener Jesus versammelt worden, den du gesalbt hast, um zu tun, was deine Hand und dein Ratschluss zuvor bestimmt hatten zu geschehen. Jetzt aber, Herr, siehe auf ihre Drohungen und gib deinen Dienern die Kraft, dein Wort mit aller Freimütigkeit zu reden, während du deine Hand ausstreckst zu heilen; und dass Zeichen und Wunder durch den Namen deines heiligen Dieners Jesus geschehen.“
+
+Als sie gebetet hatten, erbebte der Ort, an dem sie versammelt waren. Sie wurden alle mit dem Heiligen Geist erfüllt und sprachen das Wort Gottes mit Freimütigkeit.
+
+Die Menge derer, die glaubten, war ein Herz und eine Seele. Keiner von ihnen behauptete, dass etwas von dem, was er besaß, sein eigen sei; sondern sie hatten alles gemeinsam. Mit großer Kraft gaben die Apostel ihr Zeugnis von der Auferstehung des Herrn Jesus. Große Gnade war auf ihnen allen. Denn es war auch unter ihnen niemand, der Mangel hatte; denn so viele Land- oder Hausbesitzer waren, verkauften sie diese und brachten den Erlös von dem Verkauften und legten ihn zu den Füßen der Apostel; und es wurde jedem verteilt, so wie jemand Bedarf hatte.
+
+Joses, der von den Aposteln auch Barnabas genannt wurde (was übersetzt bedeutet: Sohn des Trostes), ein Levite aus Zypern, hatte ein Feld verkauft und brachte das Geld und legte es zu den Füßen der Apostel.
+
+### Kapitel 5
+
+Aber ein gewisser Mann namens Ananias verkaufte mit seiner Frau Sapphira einen Besitz und behielt einen Teil des Preises zurück; seine Frau war sich dessen auch bewusst. Dann brachte er einen bestimmten Teil und legte ihn zu den Füßen der Apostel. Aber Petrus sagte: „Ananias, warum hat Satan dein Herz erfüllt, um den Heiligen Geist zu belügen und einen Teil des Preises des Landes zurückzuhalten? Während du es hattest, blieb es nicht dein eigen? Nach dem Verkauf war es nicht in deiner Macht? Wie kommt es, dass du dies in deinem Herzen gefasst hast? Du hast nicht Menschen belogen, sondern Gott.“
+
+Ananias fiel, als er diese Worte hörte, nieder und starb. Große Furcht kam über alle, die diese Dinge hörten. Die jungen Männer standen auf, wickelten ihn ein, trugen ihn hinaus und begruben ihn. Etwa drei Stunden später kam seine Frau, die nicht wusste, was geschehen war, herein. Petrus fragte sie: „Sag mir, ob ihr das Land für so viel verkauft habt.“
+
+Sie sagte: „Ja, für so viel.“
+
+Aber Petrus fragte sie: „Wie kommt es, dass ihr euch zusammengetan habt, um den Geist des Herrn zu versuchen? Siehe, die Füße derjenigen, die deinen Mann begraben haben, stehen an der Tür, und sie werden dich hinaustragen.“
+
+Sie fiel sofort zu seinen Füßen nieder und starb. Die jungen Männer kamen herein und fanden sie tot, und sie trugen sie hinaus und begruben sie neben ihrem Mann. Große Furcht kam über die ganze Versammlung und über alle, die diese Dinge hörten.
+
+Durch die Hände der Apostel wurden viele Zeichen und Wunder unter dem Volk getan. Sie waren alle einmütig in der Säulenhalle Salomos. Keiner der anderen wagte es, sich ihnen anzuschließen; jedoch ehrte das Volk sie. Es wurden noch mehr Gläubige dem Herrn hinzugefügt, Scharen von Männern und Frauen. Sie trugen sogar die Kranken auf die Straßen und legten sie auf Betten und Matratzen, damit, wenn Petrus vorbeikam, wenigstens sein Schatten einige von ihnen überschattete. Auch die Menge kam aus den Städten um Jerusalem zusammen und brachte Kranke und solche, die von unreinen Geistern gequält wurden; und sie wurden alle geheilt.
+
+Aber der hohe Priester erhob sich und alle, die mit ihm waren (das ist die Sekte der Sadduzäer), und sie wurden von Eifersucht erfüllt und legten den Aposteln die Hände an und setzten sie dann öffentlich in Gewahrsam. Aber ein Engel des Herrn öffnete in der Nacht die Türen des Gefängnisses, brachte sie hinaus und sagte: „Geht hin, steht und redet im Tempel zu dem Volk alle Worte dieses Lebens.“
+
+Als sie das hörten, gingen sie bei Tagesanbruch in den Tempel und lehrten. Aber der hohe Priester und die, die mit ihm waren, kamen und riefen den Rat zusammen mit dem ganzen Senat der Kinder Israel und sandten ins Gefängnis, um sie herbeizubringen. Aber die Beamten, die kamen, fanden sie nicht im Gefängnis. Sie kehrten zurück und berichteten: „Wir fanden das Gefängnis geschlossen und verriegelt, und die Wächter standen vor den Türen; aber als wir sie öffneten, fanden wir niemanden darin!“
+
+Als nun der hohe Priester, der Hauptmann des Tempels und die Obersten der Priester diese Worte hörten, waren sie sehr perplex über sie und was daraus werden könnte. Einer kam und sagte zu ihnen: „Siehe, die Männer, die ihr ins Gefängnis getan habt, sind im Tempel, stehen und lehren das Volk.“ Da ging der Hauptmann mit den Beamten und brachte sie ohne Gewalt, denn sie fürchteten sich, dass das Volk sie steinigen könnte.
+
+Als sie sie gebracht hatten, stellten sie sie vor den Rat. Der hohe Priester befragte sie und sagte: „Haben wir euch nicht streng geboten, nicht in diesem Namen zu lehren? Siehe, ihr habt Jerusalem mit eurer Lehre erfüllt und beabsichtigt, das Blut dieses Mannes über uns zu bringen.“
+
+Aber Petrus und die Apostel antworteten: „Wir müssen Gott mehr gehorchen als den Menschen. Der Gott unserer Väter hat Jesus auferweckt, den ihr getötet habt, indem ihr ihn an ein Holz hängtet. Gott hat ihn mit seiner rechten Hand erhöht, um ein Fürst und Retter zu sein, um Israel Buße zu geben und Vergebung der Sünden. Wir sind seine Zeugen dieser Dinge; und so auch der Heilige Geist, den Gott denen gegeben hat, die ihm gehorchen.“
+
+Als sie das hörten, wurden sie in ihrem Herzen durchbohrt und waren entschlossen, sie zu töten. Aber ein Pharisäer namens Gamaliel stand im Rat auf, ein Lehrer des Gesetzes, von allen Leuten geehrt, und befahl, die Apostel für eine kleine Weile hinauszubringen. Er sagte zu ihnen: „Ihr Männer von Israel, seid vorsichtig in Bezug auf diese Männer, was ihr tun wollt. Denn vor diesen Tagen erhob sich Theudas und gab sich als jemand aus; zu dem schlossen sich eine Anzahl von Männern an, etwa vierhundert. Er wurde getötet; und alle, so viele ihn gehorchten, wurden zerstreut und kamen zu nichts. Nach diesem Mann erhob sich Judas aus Galiläa in den Tagen der Volkszählung und zog einige Leute nach sich. Auch er ging zugrunde; und alle, so viele ihn gehorchten, wurden zerstreut. Nun sage ich euch: Zieht euch von diesen Männern zurück und lasst sie in Ruhe. Denn wenn dieser Rat oder dieses Werk von Menschen ist, wird es zunichtegemacht werden. Wenn es aber von Gott ist, werdet ihr nicht in der Lage sein, es zunichtezumachen; und ihr würdet sogar gefunden werden, gegen Gott zu kämpfen!“
+
+Sie stimmten ihm zu. Die Apostel riefend, schlugen sie sie und befahlen ihnen, nicht im Namen Jesu zu sprechen, und ließen sie gehen. Sie gingen daher von der Gegenwart des Rates weg und freuten sich, dass sie für den Namen Jesu als würdig erachtet wurden, Schmach zu leiden.
+
+Jeden Tag lehrten und predigten sie im Tempel und von Haus zu Haus unaufhörlich Jesus, den Christus.
+
+### Kapitel 6
+
+In jenen Tagen, als die Zahl der Jünger zunahm, erhob sich eine Klage von den Hellenisten gegen die Hebräer, weil ihre Witwen im täglichen Dienst vernachlässigt wurden. Die Zwölf riefen die Menge der Jünger zusammen und sagten: „Es ist nicht angemessen, dass wir das Wort Gottes verlassen und Tische bedienen. Wählt daher aus eurer Mitte, Brüder, sieben Männer von gutem Ruf, voll des Heiligen Geistes und der Weisheit, die wir über dieses Geschäft einsetzen können. Wir aber wollen uns weiterhin dem Gebet und dem Dienst des Wortes widmen.“
+
+Diese Worte gefielen der ganzen Menge. Sie wählten Stephanus, einen Mann voll Glauben und des Heiligen Geistes, Philippus, Prochorus, Nikanor, Timon, Parmenas und Nikolaus, einen Proselyten aus Antiochia, die sie vor die Apostel stellten. Nachdem sie gebetet hatten, legten sie ihnen die Hände auf.
+
+Das Wort Gottes nahm zu und die Zahl der Jünger vervielfachte sich in Jerusalem. Eine große Zahl der Priester war dem Glauben gehorsam.
+
+Stephanus, voll Glauben und Kraft, tat große Wunder und Zeichen unter dem Volk. Aber einige von denen, die zur Synagoge der „Libertiner“, der Zyrenier, der Alexandriner und der Cilicer und Asiaten gehörten, standen auf und stritten mit Stephanus. Sie konnten der Weisheit und dem Geist, durch den er sprach, nicht widerstehen. Dann verleiteten sie heimlich Männer zu sagen: „Wir haben ihn reden hören mit lästerlichen Worten gegen Mose und Gott.“ Sie erregten das Volk, die Ältesten und die Schriftgelehrten und kamen gegen ihn und ergriffen ihn und führten ihn vor den Rat und stellten falsche Zeugen auf, die sagten: „Dieser Mann hört nicht auf, lästerliche Worte gegen diesen heiligen Ort und das Gesetz zu sprechen. Denn wir haben ihn sagen hören, dass dieser Jesus von Nazareth diesen Ort zerstören wird und die Bräuche ändern wird, die Mose uns überliefert hat.“ Alle, die im Rat saßen, richteten ihre Augen auf ihn und sahen sein Angesicht wie das Angesicht eines Engels.
+
+### Kapitel 7
+
+Der Hohepriester sagte: „Sind diese Dinge so?“
+
+Er sagte: „Brüder und Väter, hört! Der Gott der Herrlichkeit erschien unserem Vater Abraham, als er in Mesopotamien war, bevor er in Haran lebte, und sprach zu ihm: ‚Gehe aus deinem Land und von deinen Verwandten weg und komme in ein Land, das ich dir zeigen werde.‘ Da kam er aus dem Land der Chaldäer und lebte in Haran. Von dort führte ihn Gott, nachdem sein Vater gestorben war, in dieses Land, in dem ihr jetzt lebt. Er gab ihm darin kein Erbe, nicht einmal so viel, dass er seinen Fuß darauf setzen konnte. Er versprach ihm, es ihm zum Besitz zu geben und seinen Nachkommen nach ihm, als er noch kein Kind hatte. So sprach Gott: dass seine Nachkommen als Fremde in einem fremden Land leben würden und dass sie vierhundert Jahre lang versklavt und misshandelt werden würden. ‚Ich werde das Volk richten, dem sie dienen werden‘, sprach Gott, ‚und danach werden sie herauskommen und mir an diesem Ort dienen.‘ Er gab ihm den Bund der Beschneidung. So wurde Abraham der Vater Isaaks, und am achten Tag beschneiderte er ihn. Isaak wurde der Vater Jakobs, und Jakob wurde der Vater der zwölf Patriarchen.
+
+„Die Patriarchen wurden aus Neid gegen Joseph bewegt und verkauften ihn nach Ägypten. Gott war mit ihm und rettete ihn aus all seinen Bedrängnissen und gab ihm Gunst und Weisheit vor dem Pharao, dem König von Ägypten. Er machte ihn zum Statthalter über Ägypten und über sein ganzes Haus. Nun kam eine Hungersnot über das ganze Land Ägypten und Kanaan und große Bedrängnis. Unsere Väter fanden kein Brot. Als aber Jakob hörte, dass es Korn in Ägypten gab, sandte er unsere Väter zum ersten Mal aus. Beim zweiten Mal wurde Joseph seinen Brüdern bekannt gemacht, und die Familie Josephs wurde dem Pharao offenbart. Joseph sandte und ließ Jakob, seinen Vater, und alle seine Verwandten rufen, fünfundsiebzig Seelen. Jakob ging nach Ägypten hinab und starb dort selbst und unsere Väter; und sie wurden nach Sichem gebracht und in dem Grab beigesetzt, das Abraham für einen Preis in Silber von den Kindern Hamors von Sichem gekauft hatte.
+
+„Aber als die Zeit des Versprechens nahe kam, das Gott Abraham geschworen hatte, wuchs das Volk und vermehrte sich in Ägypten, bis ein anderer König aufkam, der Joseph nicht kannte. Dieser machte sich unsererseits zunutze und misshandelte unsere Väter und zwang sie, ihre Babys aufzugeben, damit sie nicht am Leben blieben. Zu dieser Zeit wurde Mose geboren, und er war Gott überaus schön. Er wurde drei Monate im Haus seines Vaters genährt. Als er aufgegeben wurde, nahm ihn die Tochter des Pharao auf und zog ihn wie ihren eigenen Sohn auf. Mose wurde in aller Weisheit der Ägypter unterrichtet. Er war mächtig in seinen Worten und Taten. Aber als er vierzig Jahre alt war, kam es ihm ins Herz, seine Brüder, die Kinder Israels, zu besuchen. Als er sah, dass einer von ihnen Unrecht erlitt, verteidigte er ihn und rächte den Unterdrückten, indem er den Ägypter schlug. Er nahm an, dass seine Brüder verstanden, dass Gott durch seine Hand ihnen Befreiung gab; aber sie verstanden es nicht.
+
+„Am folgenden Tag erschien er ihnen, als sie kämpften, und forderte sie auf, wieder Frieden zu haben, indem er sagte: ‚Herren, ihr seid Brüder. Warum tut ihr einander Unrecht?‘ Aber derjenige, der seinem Nächsten Unrecht tat, stieß ihn weg und sagte: ‚Wer hat dich zum Herrscher und Richter über uns gemacht? Willst du mich töten, wie du gestern den Ägypter getötet hast?‘ Mose floh bei diesen Worten und wurde ein Fremder im Land Midian, wo er der Vater von zwei Söhnen wurde.
+
+„Als vierzig Jahre erfüllt waren, erschien ihm ein Engel des Herrn in der Wüste des Berges Sinai in einer Flamme aus Feuer in einem Dornbusch. Als Mose es sah, wunderte er sich über den Anblick. Als er näher kam, um zu sehen, kam die Stimme des Herrn zu ihm: ‚Ich bin der Gott deiner Väter: der Gott Abrahams, der Gott Isaaks und der Gott Jakobs.‘ Mose zitterte und wagte nicht zu schauen. Der Herr sagte zu ihm: ‚Zieh deine Sandalen aus, denn der Ort, an dem du stehst, ist heiliger Boden. Ich habe gewiss das Elend meines Volkes gesehen, das in Ägypten ist, und habe ihr Seufzen gehört. Ich bin herabgekommen, um sie zu befreien. Komm jetzt, ich will dich nach Ägypten senden.‘
+
+„Dieser Mose, den sie zurückwiesen und sagten: ‚Wer hat dich zum Herrscher und Richter gemacht?‘ – Gott hat ihn sowohl als Herrscher als auch als Befreier durch die Hand des Engels gesandt, der ihm im Dornbusch erschien. Dieser Mann führte sie hinaus und wirkte Wunder und Zeichen in Ägypten, im Roten Meer und in der Wüste vierzig Jahre lang. Dies ist der Mose, der zu den Kindern Israels sagte: ‚Der Herr unser Gott wird euch einen Propheten aus euren Brüdern erwecken, wie mich.‘ Dies ist derjenige, der in der Versammlung in der Wüste war mit dem Engel, der zu ihm auf dem Berg Sinai sprach, und mit unseren Vätern, die lebendige Offenbarungen empfingen, um sie uns zu geben; denen unsere Väter nicht gehorsam sein wollten, sondern ihn zurückwiesen und in ihren Herzen nach Ägypten zurückkehrten und zu Aaron sagten: ‚Mache uns Götter, die vor uns gehen; denn was diesen Mose betrifft, der uns aus dem Land Ägypten geführt hat, wissen wir nicht, was aus ihm geworden ist.‘ Sie machten in jenen Tagen ein Kalb und brachten ein Opfer dem Götzen dar und freuten sich über die Werke ihrer Hände. Aber Gott wandte sich ab und gab sie auf, um das Heer des Himmels zu dienen, wie es im Buch der Propheten geschrieben steht:
+
+‚Habt ihr mir geschlachtete Tiere und Opfer dargebracht
+
+vierzig Jahre in der Wüste, o Haus Israel?
+
+Ihr habt das Zelt Molochs aufgenommen,
+
+den Stern eures Gottes Rephan,
+
+die Figuren, die ihr gemacht habt zu verehren,
+
+so will ich euch über Babylon hinwegführen.‘
+
+„Unsere Väter hatten das Zelt des Zeugnisses in der Wüste, so wie er, der mit Mose sprach, ihm geboten hatte, es nach dem Muster zu machen, das er gesehen hatte; welches auch unsere Väter wiederum mit Josua hineinbrachten, als sie in den Besitz der Nationen eintraten, die Gott vor dem Angesicht unserer Väter vertrieb bis zu den Tagen Davids, der Gnade fand vor den Augen Gottes und bat, eine Wohnung für den Gott Jakobs zu finden. Aber Salomo baute ihm ein Haus. Der Höchste wohnt jedoch nicht in von Händen gemachten Tempeln, wie der Prophet sagt:
+
+‚Der Himmel ist mein Thron,
+
+und die Erde ein Fußschemel für meine Füße.
+
+Was für ein Haus wollt ihr mir bauen?‘ sagt der Herr.“
+
+„Oder wo ist der Ort meiner Ruhe?
+
+Hat nicht meine Hand all diese Dinge gemacht?“
+
+„Ihr halsstarrigen und unbeschnittenen Herzen und Ohren, ihr widerstrebt immer dem Heiligen Geist! Wie eure Väter, so tut ihr auch. Welchen der Propheten haben eure Väter nicht verfolgt? Sie töteten die, die das Kommen des Gerechten voraussagten, von dem ihr jetzt Verräter und Mörder geworden seid. Ihr habt das Gesetz empfangen, wie es durch Engel verordnet wurde, und habt es nicht gehalten!“
+
+Als sie diese Dinge hörten, wurden sie in ihrem Herzen durchstochen und zähneknirschend starrten sie ihn an. Er aber, voll des Heiligen Geistes, blickte fest gen Himmel und sah die Herrlichkeit Gottes und Jesus, der zur Rechten Gottes stand, und sagte: „Siehe, ich sehe die Himmel geöffnet und den Menschensohn zur Rechten Gottes stehen!“
+
+Aber sie schrien mit lauter Stimme und hielten sich die Ohren zu und stürmten einmütig auf ihn los. Sie stießen ihn aus der Stadt und steinigten ihn. Die Zeugen legten ihre Kleider zu Füßen eines jungen Mannes namens Saul. Sie steinigten Stephanus, während er rief: „Herr Jesus, empfange meinen Geist!“ Er kniete nieder und rief mit lauter Stimme: „Herr, rechne ihnen diese Sünde nicht an!“ Und als er dies gesagt hatte, fiel er in den Schlaf.
+
+### Kapitel 8
+
+Saul war mit seinem Tod einverstanden. An diesem Tag erhob sich eine große Verfolgung gegen die Versammlung, die in Jerusalem war. Sie wurden alle über die Regionen Judäa und Samaria zerstreut, außer den Aposteln. Fromme Männer begruben Stephanus und trauerten sehr um ihn. Saul aber verwüstete die Versammlung, indem er in jedes Haus eindrang und sowohl Männer als auch Frauen ins Gefängnis schleppte. Daher gingen die Zerstreuten umher und predigten das Wort. Philippus ging hinab in die Stadt Samaria und verkündete ihnen den Christus. Die Menschenmenge hörte einmütig auf die Dinge, die von Philippus gesprochen wurden, als sie die Zeichen sahen, die er tat. Denn unreine Geister kamen aus vielen von denen heraus, die sie hatten. Sie kamen heraus und schrien mit lauter Stimme. Viele, die gelähmt und lahm waren, wurden geheilt. Es war große Freude in dieser Stadt.
+
+Aber es war ein gewisser Mann namens Simon, der in der Stadt Zauberei trieb und das Volk von Samaria erstaunte, indem er sich als etwas Großes ausgab, dem alle hörten, vom Geringsten bis zum Größten, und sagten: „Dieser Mann ist die große Kraft Gottes.“ Sie hörten auf ihn, weil er sie lange Zeit mit seinen Zaubereien erstaunt hatte. Als sie aber Philippus glaubten, der das Evangelium vom Reich Gottes und den Namen Jesu Christi predigte, ließen sie sich taufen, sowohl Männer als auch Frauen. Auch Simon glaubte selbst. Nachdem er getauft worden war, blieb er bei Philippus und sah Zeichen und große Wunder geschehen; er war erstaunt.
+
+Als die Apostel, die in Jerusalem waren, hörten, dass Samaria das Wort Gottes empfangen hatte, sandten sie Petrus und Johannes zu ihnen. Diese kamen hinab und beteten für sie, dass sie den Heiligen Geist empfangen möchten; denn er war noch auf keinen von ihnen gefallen. Sie waren nur im Namen Jesu Christi getauft worden. Dann legten sie ihnen die Hände auf, und sie empfingen den Heiligen Geist. Als Simon sah, dass der Heilige Geist durch das Auflegen der Hände der Apostel gegeben wurde, bot er ihnen Geld an und sagte: „Gebt mir auch diese Macht, dass jeder, auf den ich meine Hände lege, den Heiligen Geist empfangen möge.“ Petrus aber sprach zu ihm: „Dein Silber gehe mit dir zugrunde, weil du dachtest, du könntest die Gabe Gottes mit Geld erwerben! Du hast weder Teil noch Anteil an dieser Sache; denn dein Herz ist nicht recht vor Gott. So tue Buße über diese deine Bosheit und bitte Gott, ob dir vielleicht der Gedanke deines Herzens vergeben werden kann. Denn ich sehe, dass du in der Galle der Bitterkeit und in der Fessel der Ungerechtigkeit bist.“
+
+Simon antwortete: „Bete für mich zum Herrn, dass mir nichts von dem widerfahre, was du gesagt hast.“
+
+Sie aber bezeugten und sprachen das Wort des Herrn und kehrten nach Jerusalem zurück und predigten das Evangelium in vielen Dörfern der Samariter.
+
+Und ein Engel des Herrn sprach zu Philippus: „Steh auf und geh nach Süden auf den Weg, der von Jerusalem nach Gaza hinabführt. Das ist eine Wüste.“
+
+Er stand auf und ging; und siehe, da war ein Mann aus Äthiopien, ein Eunuch von großer Autorität unter Kandaké, der Königin der Äthiopier, der über ihren ganzen Schatz gesetzt war und nach Jerusalem gekommen war, um zu beten. Er kehrte zurück und saß in seinem Wagen und las den Propheten Jesaja.
+
+Der Geist sprach zu Philippus: „Geh näher und schließe dich diesem Wagen an.“
+
+Philippus lief zu ihm, hörte ihn den Propheten Jesaja lesen und sagte: „Verstehst du, was du liest?“
+
+Er sagte: „Wie kann ich, wenn mir nicht jemand erklärt?“ Er bat Philippus, hinaufzukommen und sich zu ihm zu setzen. Der Abschnitt der Schrift, den er las, war dieser:
+
+„Er wurde wie ein Schaf zur Schlachtung geführt.
+
+Wie ein Lamm, das vor seinem Scherer still ist,
+
+so öffnete er seinen Mund nicht.
+
+In seiner Erniedrigung wurde ihm das Urteil entzogen.
+
+Wer wird seine Generation verkünden?
+
+Denn sein Leben wird von der Erde genommen.“
+
+Der Eunuch antwortete Philippus: „Von wem spricht der Prophet? Von sich selbst oder von jemand anderem?“
+
+Philippus öffnete seinen Mund und begann von dieser Schriftstelle aus, ihm von Jesus zu predigen. Während sie auf dem Weg waren, kamen sie zu Wasser; und der Eunuch sagte: „Siehe, hier ist Wasser. Was hindert mich, mich taufen zu lassen?“
+
+Er befahl dem Wagen, stillzustehen, und sie gingen beide ins Wasser hinab, sowohl Philippus als auch der Eunuch, und er taufte ihn.
+
+Als sie aus dem Wasser herauskamen, wurde Philippus vom Geist des Herrn weggerafft, und der Eunuch sah ihn nicht mehr, denn er ging fröhlich seines Weges. Philippus aber wurde in Asdod gefunden. Er zog weiter und predigte das Evangelium in allen Städten, bis er nach Cäsarea kam.
+
+### Kapitel 9
+
+Saul aber, der noch Drohungen und Mord gegen die Jünger des Herrn ausstieß, ging zum Hohenpriester und bat um Briefe an die Synagogen in Damaskus, damit er, wenn er irgendwelche fände, die dem Weg angehörten, ob Männer oder Frauen, sie gebunden nach Jerusalem bringen könnte. Während er reiste, kam er nahe nach Damaskus; und plötzlich umstrahlte ihn ein Licht vom Himmel. Er fiel auf die Erde und hörte eine Stimme, die zu ihm sprach: „Saul, Saul, warum verfolgst du mich?“
+
+Er sagte: „Wer bist du, Herr?“
+
+Der Herr sprach: „Ich bin Jesus, den du verfolgst. Steh auf und geh in die Stadt; dort wird dir gesagt werden, was du tun musst.“
+
+Die Männer, die mit ihm reisten, standen sprachlos da; sie hörten zwar die Stimme, sahen aber niemanden. Saul stand vom Boden auf; als seine Augen geöffnet wurden, sah er niemanden. Sie führten ihn bei der Hand und brachten ihn nach Damaskus. Drei Tage lang war er blind und aß und trank nichts.
+
+Es war aber ein gewisser Jünger in Damaskus mit Namen Ananias. Der Herr sprach zu ihm in einer Vision: „Ananias!“
+
+Er sagte: „Siehe, hier bin ich, Herr.“
+
+Der Herr sprach zu ihm: „Steh auf und geh in die Straße, die gerade heißt, und frage im Haus des Judas nach einem Mann namens Saul aus Tarsus; denn siehe, er betet und hat in einer Vision einen Mann namens Ananias gesehen, der hereinkommt und ihm die Hände auflegt, damit er wieder sehend werde.“
+
+Ananias antwortete: „Herr, ich habe von vielen über diesen Mann gehört, wie viel Böses er deinen Heiligen in Jerusalem getan hat. Hier hat er Vollmacht von den Obersten Priestern, alle zu binden, die deinen Namen anrufen.“
+
+Der Herr sprach zu ihm: „Geh hin; denn dieser ist mein auserwähltes Werkzeug, um meinen Namen vor den Nationen und Königen und den Kindern Israels zu tragen. Denn ich werde ihm zeigen, wie viel er für meinen Namen leiden muss.“
+
+Ananias ging hin und trat in das Haus ein. Er legte ihm die Hände auf und sagte: „Bruder Saul, der Herr, der dir auf dem Weg erschienen ist, den du gekommen bist, hat mich gesandt, damit du wieder sehend wirst und mit dem Heiligen Geist erfüllt wirst.“ Und sogleich fielen ihm etwas wie Schuppen von den Augen ab, und er erhielt seine Sicht. Er stand auf und ließ sich taufen. Er nahm Nahrung zu sich und wurde gestärkt.
+
+Saul blieb einige Tage bei den Jüngern in Damaskus. Sofort verkündete er in den Synagogen den Christus, dass er der Sohn Gottes sei. Alle, die ihn hörten, waren erstaunt und sagten: „Ist das nicht derjenige, der in Jerusalem die verwüstete hat, die diesen Namen anrufen? Und er ist hierher gekommen mit der Absicht, sie gebunden vor die Obersten Priester zu bringen!“
+
+Aber Saul nahm an Stärke zu und verwirrte die Juden, die in Damaskus lebten, indem er bewies, dass dies der Christus ist. Als viele Tage vergangen waren, verschworen sich die Juden, ihn zu töten, aber ihr Plan wurde Saul bekannt. Sie bewachten die Tore sowohl Tag als auch Nacht, um ihn zu töten, aber seine Jünger nahmen ihn nachts und ließen ihn durch die Mauer hinunter, indem sie ihn in einem Korb abließen.
+
+Als Saul nach Jerusalem gekommen war, versuchte er, sich den Jüngern anzuschließen; aber sie hatten alle Angst vor ihm und glaubten nicht, dass er ein Jünger war. Aber Barnabas nahm ihn und brachte ihn zu den Aposteln und erklärte ihnen, wie er den Herrn auf dem Weg gesehen hatte und dass er mit ihm gesprochen hatte und wie er in Damaskus kühn im Namen Jesu gepredigt hatte. Er war mit ihnen und ging in Jerusalem einher und predigte kühn im Namen des Herrn Jesus. Er sprach und stritt gegen die Hellenisten, aber sie suchten, ihn zu töten. Als die Brüder davon erfuhren, brachten sie ihn nach Cäsarea und schickten ihn nach Tarsus.
+
+So hatten die Versammlungen in ganz Judäa, Galiläa und Samaria Frieden und wurden aufgebaut. Sie vermehrten sich und wandelten in der Furcht des Herrn und im Trost des Heiligen Geistes.
+
+Als Petrus durch all diese Teile ging, kam er auch zu den Heiligen, die in Lydda lebten. Dort fand er einen gewissen Mann namens Aeneas, der acht Jahre lang bettlägerig gewesen war, weil er gelähmt war. Petrus sagte zu ihm: „Aeneas, Jesus Christus heilt dich. Steh auf und mach dein Bett!“ Sofort stand er auf. Alle, die in Lydda und in Scharon lebten, sahen ihn und wandten sich dem Herrn zu.
+
+Nun gab es in Joppa eine gewisse Jüngerin namens Tabitha, was übersetzt Dorcas bedeutet. Diese Frau war voller guter Werke und Barmherzigkeiten, die sie tat. In jenen Tagen wurde sie krank und starb. Als sie sie gewaschen hatten, legten sie sie in ein Oberzimmer. Da Lydda nahe bei Joppa war, hörten die Jünger, dass Petrus dort war, und schickten zwei Männer zu ihm und baten ihn, nicht zu zögern, zu ihnen zu kommen. Petrus stand auf und ging mit ihnen. Als er angekommen war, brachten sie ihn ins Oberzimmer. Alle Witwen standen bei ihm und weinten und zeigten die Tuniken und anderen Gewänder, die Dorcas gemacht hatte, während sie bei ihnen war. Petrus schickte sie alle hinaus, kniete nieder und betete. Er wandte sich zum Leichnam und sagte: „Tabitha, steh auf!“ Sie öffnete ihre Augen, und als sie Petrus sah, setzte sie sich auf. Er gab ihr seine Hand und erhob sie. Als er die Heiligen und Witwen rief, stellte er sie lebendig vor. Dies wurde in ganz Joppa bekannt, und viele glaubten an den Herrn. Er blieb viele Tage in Joppa bei einem Gerber namens Simon.
+
+### Kapitel 10
+
+Nun gab es einen gewissen Mann in Cäsarea, Cornelius mit Namen, einen Hauptmann des sogenannten italienischen Regiments, einen frommen Mann und einen, der Gott fürchtete mit seinem ganzen Haus, der großzügig Almosen für die Bedürftigen gab und immer zu Gott betete. Um die neunte Stunde des Tages sah er deutlich in einer Vision einen Engel Gottes zu sich kommen und sagen: „Cornelius!“
+
+Er richtete seine Augen auf ihn und erschrak und sagte: „Was ist es, Herr?“
+
+Der Engel sagte zu ihm: „Deine Gebete und deine Almosen sind als Gedächtnis vor Gott emporgegangen. Sende nun Männer nach Joppa und lass Simon holen, der auch Petrus genannt wird. Er wohnt bei einem Gerber namens Simon, dessen Haus am Meer ist.“
+
+Als der Engel, der mit ihm sprach, weggegangen war, rief Cornelius zwei seiner Hausdiener und einen frommen Soldaten von denen, die ständig bei ihm warteten. Nachdem er ihnen alles erklärt hatte, sandte er sie nach Joppa.
+
+Am nächsten Tag waren sie auf ihrem Weg und näherten sich der Stadt; da ging Petrus um die Mittagszeit auf das Dach, um zu beten. Er wurde hungrig und wollte essen; während sie aber zubereiteten, fiel er in eine Verzückung. Er sah den Himmel geöffnet und ein gewisses Gefäß zu ihm herabkommen, wie ein großes Tuch, das an vier Ecken auf die Erde herabgelassen wurde, in dem allerlei vierfüßige Tiere der Erde, wilde Tiere, Reptilien und Vögel des Himmels waren. Eine Stimme kam zu ihm: „Steh auf, Petrus, schlachte und iss!“
+
+Aber Petrus sagte: „Nicht so, Herr; denn ich habe nie etwas Gemeines oder Unreines gegessen.“
+
+Eine Stimme kam zum zweiten Mal zu ihm: „Was Gott gereinigt hat, das darfst du nicht unrein nennen.“ Dies geschah dreimal, und sofort wurde das Ding in den Himmel aufgenommen.
+
+Während Petrus in sich selbst sehr perplex war, was die Vision, die er gesehen hatte, bedeuten könnte, siehe, die Männer, die von Kornelius gesandt worden waren, hatten nach dem Haus Simon gefragt und standen vor dem Tor. Sie riefen und fragten, ob Simon, der auch Petrus genannt wurde, dort zu Gast sei. Während Petrus über die Vision nachdachte, sagte der Geist zu ihm: „Siehe, drei Männer suchen dich. Steh auf, geh hinunter und geh mit ihnen, ohne zu zweifeln; denn ich habe sie gesandt.“
+
+Petrus ging zu den Männern hinunter und sagte: „Siehe, ich bin der, den ihr sucht. Warum seid ihr gekommen?“
+
+Sie sagten: „Kornelius, ein Hauptmann, ein gerechter Mann und einer, der Gott fürchtet und von der ganzen Nation der Juden gut gesprochen wird, wurde von einem heiligen Engel angewiesen, dich zu seinem Haus einzuladen und zuzuhören, was du sagst.“ So ließ er sie herein und gab ihnen Unterkunft.
+
+Am nächsten Tag stand Petrus auf und ging mit ihnen hinaus, und einige Brüder aus Joppa begleiteten ihn. Am folgenden Tag kamen sie nach Cäsarea. Kornelius wartete auf sie und hatte seine Verwandten und nahen Freunde zusammengerufen. Als Petrus eintrat, begegnete ihm Kornelius, fiel zu seinen Füßen nieder und betete ihn an. Aber Petrus hob ihn auf und sagte: „Steh auf! Ich selbst bin auch ein Mensch.“ Während er mit ihm sprach, ging er hinein und fand viele versammelt. Er sagte zu ihnen: „Ihr wisst selbst, dass es für einen Juden ungesetzlich ist, sich mit einem Mann einer anderen Nation zu verbinden oder zu ihm zu kommen; aber Gott hat mir gezeigt, dass ich keinen Menschen unheilig oder unrein nennen soll. Deshalb bin ich auch ohne Widerspruch gekommen, als ich gerufen wurde. Ich frage daher: Warum habt ihr mich gesandt?“
+
+Kornelius sagte: „Vor vier Tagen fastete ich bis zu dieser Stunde; und um die neunte Stunde betete ich in meinem Haus, und siehe, ein Mann stand vor mir in hellen Kleidern und sagte: ‚Kornelius, dein Gebet ist gehört worden, und deine Gaben für die Bedürftigen sind vor Gott in Erinnerung geblieben. Sende daher nach Joppa und lass Simon holen, der auch Petrus genannt wird. Er wohnt im Haus eines Gerbers namens Simon am Meer. Wenn er kommt, wird er dir reden.‘ Deshalb habe ich dich sofort gesandt, und es war gut von dir zu kommen. Nun sind wir alle hier versammelt in der Gegenwart Gottes, um alles zu hören, was dir von Gott befohlen wurde.“
+
+Petrus öffnete seinen Mund und sagte: „Wahrhaftig erkenne ich, dass Gott keine Vorurteile zeigt; sondern in jeder Nation ist derjenige, der ihn fürchtet und Gerechtigkeit tut, ihm wohlgefällig. Das Wort, das er den Kindern Israels sandte, indem er das Evangelium des Friedens durch Jesus Christus predigte – er ist Herr über alle – ihr wisst selbst, was geschehen ist, das in ganz Judäa verkündet wurde, beginnend in Galiläa nach der Taufe, die Johannes predigte; wie Gott Jesus von Nazareth mit dem Heiligen Geist und mit Kraft gesalbt hat, der umherging und Gutes tat und alle heilte, die vom Teufel bedrängt wurden; denn Gott war mit ihm. Wir sind Zeugen von allem, was er sowohl im Land der Juden als auch in Jerusalem tat; den haben sie auch getötet und an ein Holz gehängt. Gott hat ihn am dritten Tag auferweckt und ihm befohlen, sich zu offenbaren, nicht allen Menschen, sondern den Zeugen, die zuvor von Gott auserwählt wurden; uns, die wir mit ihm aßen und tranken, nachdem er von den Toten auferstanden war. Er befahl uns, dem Volk zu predigen und zu bezeugen, dass dies der ist, der von Gott als Richter der Lebenden und der Toten bestimmt ist. Alle Propheten bezeugen von ihm, dass durch seinen Namen jeder, der an ihn glaubt, Vergebung der Sünden empfangen wird.“
+
+Während Petrus noch diese Worte sprach, fiel der Heilige Geist auf alle, die das Wort hörten. Die aus der Beschneidung Glaubenden waren erstaunt, so viele wie mit Petrus gekommen waren; denn auch auf die Heiden wurde die Gabe des Heiligen Geistes ausgegossen. Denn sie hörten sie in anderen Sprachen sprechen und Gott verherrlichen.
+
+Dann antwortete Petrus: „Kann jemand diesen Menschen verbieten, mit Wasser getauft zu werden? Sie haben den Heiligen Geist empfangen wie wir.“ Er befahl ihnen, sich im Namen Jesu Christi taufen zu lassen. Dann baten sie ihn, einige Tage zu bleiben.
+
+### Kapitel 11
+
+Nun hörten die Apostel und die Brüder, die in Judäa waren, dass auch die Heiden das Wort Gottes empfangen hatten. Als Petrus nach Jerusalem gekommen war, stritten die von der Beschneidung mit ihm und sagten: „Du bist zu unbeschnittenen Männern gegangen und hast mit ihnen gegessen!“
+
+Aber Petrus begann und erklärte ihnen der Reihe nach und sagte: „Ich war in der Stadt Joppa und betete, und in einer Ekstase sah ich eine Vision: Ein gewisses Gefäß kam herab, wie ein großes Tuch, das von vier Ecken vom Himmel herabgelassen wurde. Es kam bis zu mir. Als ich es aufmerksam ansah, überlegte ich und sah die vierfüßigen Tiere der Erde, wilde Tiere, kriechende Tiere und Vögel des Himmels. Ich hörte auch eine Stimme, die zu mir sagte: ‚Steh auf, Petrus, schlachte und iss!‘ Aber ich sagte: ‚Nicht so, Herr, denn nichts Unheiliges oder Unreines ist je in meinen Mund gekommen.‘ Aber eine Stimme antwortete mir zum zweiten Mal aus dem Himmel: ‚Was Gott gereinigt hat, das nenne du nicht unrein.‘ Dies geschah dreimal, und alles wurde wieder in den Himmel zurückgezogen. Siehe, sofort standen drei Männer vor dem Haus, wo ich war, die von Cäsarea zu mir gesandt worden waren. Der Geist sagte mir, ich solle mit ihnen ohne zu unterscheiden gehen. Diese sechs Brüder begleiteten mich auch, und wir gingen in das Haus des Mannes. Er erzählte uns, wie er den Engel in seinem Haus stehen sah und zu ihm sagte: ‚Sende nach Joppa und lass Simon holen, der Petrus genannt wird, der dir Worte sagen wird, durch die du gerettet wirst, du und dein ganzes Haus.‘ Als ich anfing zu sprechen, fiel der Heilige Geist auf sie, ebenso wie auf uns am Anfang. Ich erinnerte mich an das Wort des Herrn, wie er sagte: ‚Johannes hat zwar mit Wasser getauft, aber ihr werdet mit dem Heiligen Geist getauft werden.‘ Wenn Gott ihnen also das gleiche Geschenk gegeben hat wie uns, als wir an den Herrn Jesus Christus glaubten, wer war ich, dass ich Gott widerstehen könnte?“
+
+Als sie diese Dinge hörten, schwiegen sie und verherrlichten Gott und sagten: „Dann hat Gott auch den Heiden die Buße zum Leben gegeben!“
+
+Diejenigen aber, die durch die Verfolgung zerstreut wurden, die wegen Stephanus entstand, reisten bis nach Phönizien, Zypern und Antiochia und sprachen das Wort nur zu den Juden. Aber es waren einige von ihnen, Männer aus Zypern und Kyrene, die als sie nach Antiochia kamen, zu den Hellenisten sprachen und den Herrn Jesus predigten. Die Hand des Herrn war mit ihnen, und eine große Zahl glaubte und wandte sich zum Herrn. Der Bericht über sie kam zu den Ohren der Versammlung in Jerusalem. Sie sandten Barnabas nach Antiochia, der als er kam und die Gnade Gottes sah, sich freute. Er ermahnte sie alle, dass sie mit festem Herzen dem Herrn treu bleiben sollten. Denn er war ein guter Mann und voll des Heiligen Geistes und des Glaubens, und es wurden viele Menschen dem Herrn hinzugefügt.
+
+Barnabas ging nach Tarsus, um Saulus zu suchen. Als er ihn gefunden hatte, brachte er ihn nach Antiochia. Ein ganzes Jahr lang versammelten sie sich mit der Versammlung und lehrten viele Menschen. Die Jünger wurden zuerst in Antiochia Christen genannt.
+
+In diesen Tagen kamen Propheten von Jerusalem nach Antiochia. Einer von ihnen namens Agabus stand auf und zeigte durch den Geist an, dass es eine große Hungersnot über die ganze Welt geben würde, die auch in den Tagen des Claudius geschah. Da einige der Jünger Überfluss hatten, beschloss jeder von ihnen, den Brüdern in Judäa Hilfe zu senden; was sie auch taten und es durch die Hände von Barnabas und Saulus zu den Ältesten sandten.
+
+### Kapitel 12
+
+Um diese Zeit streckte König Herodes seine Hände aus, um einige aus der Versammlung zu bedrängen. Er tötete Jakobus, den Bruder des Johannes, mit dem Schwert. Als er sah, dass es den Juden gefiel, nahm er auch Petrus gefangen. Dies geschah während der Tage der ungesäuerten Brote. Nachdem er ihn gefangen genommen hatte, setzte er ihn ins Gefängnis und übergab ihn vier Gruppen von je vier Soldaten zur Bewachung, mit der Absicht, ihn nach dem Passah vor das Volk zu bringen. Petrus wurde also im Gefängnis gehalten; aber unablässiges Gebet wurde von der Versammlung zu Gott für ihn gemacht. In der gleichen Nacht, als Herodes ihn vorführen wollte, schlief Petrus zwischen zwei Soldaten, mit zwei Ketten gebunden. Wachen vor der Tür hielten das Gefängnis.
+
+Und siehe, ein Engel des Herrn stand bei ihm, und ein Licht leuchtete in der Zelle. Er schlug Peter an die Seite und weckte ihn auf und sagte: „Steh schnell auf!“ Seine Ketten fielen von seinen Händen. Der Engel sagte zu ihm: „Zieh dich an und schnüre deine Sandalen.“ Er tat es. Der Engel sagte zu ihm: „Zieh deinen Mantel an und folge mir.“ Und er ging hinaus und folgte ihm. Er wusste nicht, dass das, was der Engel tat, wirklich war, sondern dachte, er sehe eine Vision. Als sie an dem ersten und dem zweiten Wächter vorbeigegangen waren, kamen sie zu dem eisernen Tor, das in die Stadt führt, das sich von selbst öffnete. Sie gingen hinaus und gingen eine Straße hinunter, und sofort verschwand der Engel von ihm.
+
+Als Peter zu sich selbst kam, sagte er: „Jetzt weiß ich wirklich, dass der Herr seinen Engel gesandt hat und mich aus der Hand des Herodes und aus allem, was das jüdische Volk erwartete, befreit hat.“ Während er darüber nachdachte, kam er zum Haus von Maria, der Mutter von Johannes, der Mark genannt wurde, wo viele versammelt waren und beteten. Als Peter an die Tür des Tores klopfte, kam ein Dienstmädchen namens Rhoda, um zu antworten. Als sie Peters Stimme erkannte, öffnete sie das Tor aus Freude nicht, sondern lief hinein und berichtete, dass Peter vor dem Tor stehe.
+
+Sie sagten zu ihr: „Du bist verrückt!“ Aber sie bestand darauf, dass es so sei. Sie sagten: „Es ist sein Engel.“ Aber Peter klopfte weiter. Als sie öffneten, sahen sie ihn und waren erstaunt. Er aber winkte ihnen mit der Hand, still zu sein, und erklärte ihnen, wie der Herr ihn aus dem Gefängnis herausgeführt hatte. Er sagte: „Sagt diese Dinge Jakobus und den Brüdern.“ Dann ging er weg und ging an einen anderen Ort.
+
+Als es Tag wurde, gab es unter den Soldaten keine geringe Aufregung darüber, was aus Peter geworden war. Als Herodes nach ihm suchte und ihn nicht fand, ließ er die Wächter verhören und befahl dann, dass sie getötet werden sollten. Er ging von Judäa nach Cäsarea und blieb dort.
+
+Herodes war sehr zornig auf die Leute von Tyrus und Sidon. Sie kamen einstimmig zu ihm und machten Blastus, den persönlichen Helfer des Königs, zu ihrem Freund und baten um Frieden, weil ihr Land vom Land des Königs abhängig war für Nahrung. An einem festgesetzten Tag kleidete sich Herodes in königliche Gewänder, setzte sich auf den Thron und hielt eine Rede an sie. Das Volk rief: „Die Stimme eines Gottes und nicht eines Menschen!“ Sofort schlug ihn ein Engel des Herrn, weil er Gott die Ehre nicht gab. Dann wurde er von Würmern gefressen und starb.
+
+Aber das Wort Gottes wuchs und mehrte sich. Barnabas und Saulus kehrten nach Jerusalem zurück, nachdem sie ihren Dienst erfüllt hatten, und nahmen auch Johannes mit, der Mark genannt wurde.
+
+### Kapitel 13
+
+In der Versammlung, die in Antiochia war, waren einige Propheten und Lehrer: Barnabas, Simeon, der Niger genannt wurde, Lucius von Kyrene, Manaen, der Pflegebruder des Herodes des Tetrarchen, und Saulus. Während sie dem Herrn dienten und fasteten, sagte der Heilige Geist: „Sondert mir Barnabas und Saulus aus für das Werk, zu dem ich sie berufen habe.“
+
+Als sie dann gefastet und gebetet hatten und ihnen die Hände aufgelegt hatten, schickten sie sie weg. So wurden sie vom Heiligen Geist ausgesandt und gingen hinab nach Seleuzia. Von dort segelten sie nach Zypern. Als sie in Salamis waren, verkündeten sie das Wort Gottes in den jüdischen Synagogen. Sie hatten auch Johannes als ihren Diener. Als sie die Insel bis nach Paphos durchzogen hatten, fanden sie einen gewissen Zauberer, einen falschen Propheten, einen Juden namens Bar Jesus, der bei dem Prokonsul Sergius Paulus war, einem verständigen Mann. Dieser Mann ließ Barnabas und Saulus rufen und suchte zu hören das Wort Gottes. Aber Elymas der Zauberer (so heißt er übersetzt) widerstand ihnen und suchte den Prokonsul vom Glauben abzubringen. Aber Saulus, der auch Paulus genannt wird, erfüllt vom Heiligen Geist, sah ihn fest an und sagte: „Du Sohn des Teufels, voller aller List und aller Tücke, du Feind aller Gerechtigkeit, wirst du nicht aufhören, die geraden Wege des Herrn zu verkehren? Siehe, die Hand des Herrn ist über dir, und du wirst blind sein und die Sonne eine Zeitlang nicht sehen!“
+
+Sofort fiel ein Nebel und Dunkelheit über ihn. Er ging umher und suchte jemanden, der ihn an der Hand führen konnte. Als der Prokonsul sah, was geschehen war, glaubte er, erstaunt über die Lehre des Herrn.
+
+Nun segelten Paulus und seine Gefährten von Paphos und kamen nach Perga in Pamphylien. Johannes verließ sie und kehrte nach Jerusalem zurück. Sie aber zogen von Perga weiter und kamen nach Antiochia in Pisidien. Sie gingen am Sabbat in die Synagoge und setzten sich. Nach dem Lesen des Gesetzes und der Propheten sandten die Obersten der Synagoge zu ihnen und sagten: „Brüder, wenn ihr ein Wort der Ermahnung für das Volk habt, sprecht.“
+
+Paulus stand auf, und mit einer Geste seiner Hand sagte er: „Männer von Israel, und ihr, die ihr Gott fürchtet, hört zu. Der Gott dieses Volkes wählte unsere Väter und erhob das Volk, als sie als Fremde im Land Ägypten lebten, und mit einem erhobenen Arm führte er sie heraus. Etwa vierzig Jahre lang ertrug er sie in der Wüste. Als er sieben Nationen im Land Kanaan vernichtet hatte, gab er ihnen ihr Land als Erbe für etwa vierhundertfünfzig Jahre. Nach diesen Dingen gab er ihnen Richter bis Samuel, den Propheten. Danach baten sie um einen König, und Gott gab ihnen Saul, den Sohn Kis', einen Mann aus dem Stamm Benjamin, für vierzig Jahre. Als er ihn absetzte, erhob er David zu ihrem König, von dem er auch bezeugte: ‚Ich habe David, den Sohn Isais, gefunden, einen Mann nach meinem Herzen, der all meinen Willen tun wird.‘ Aus dem Geschlecht dieses Mannes hat Gott Israel das Heil gebracht gemäß seiner Verheißung, bevor sein Kommen, als Johannes zuerst die Taufe der Buße für Israel predigte. Während Johannes seinen Lauf erfüllte, sagte er: ‚Was meint ihr, dass ich bin? Ich bin es nicht. Siehe, einer kommt nach mir, dessen Sandalen ich nicht wert bin zu lösen.‘
+
+„Brüder, Kinder des Geschlechts Abrahams, und die unter euch, die Gott fürchten, das Wort dieses Heils ist euch gesandt. Denn die in Jerusalem wohnen und ihre Obersten, weil sie ihn nicht kannten, noch die Stimmen der Propheten, die jeden Sabbat gelesen werden, erfüllten sie, indem sie ihn verurteilten. Obwohl sie keinen Grund zum Tod fanden, baten sie Pilatus dennoch, ihn töten zu lassen. Als sie alle Dinge erfüllt hatten, die über ihn geschrieben waren, nahmen sie ihn vom Holz und legten ihn in ein Grab. Aber Gott erweckte ihn von den Toten, und er wurde viele Tage von denen gesehen, die mit ihm von Galiläa nach Jerusalem hinaufgekommen waren; diese sind seine Zeugen für das Volk. Wir bringen euch die gute Nachricht von der Verheißung, die den Vätern gemacht wurde, dass Gott dies uns, ihren Kindern, erfüllt hat, indem er Jesus auferweckte. Wie auch im zweiten Psalm geschrieben steht:
+
+‚Du bist mein Sohn.
+
+Heute habe ich dich gezeugt.‘
+
+„Was betrifft seine Auferstehung von den Toten, dass er nicht mehr zur Verderbnis zurückkehren wird, so hat er so gesprochen: ‚Ich werde euch die heiligen und sicheren Segnungen Davids geben.‘ Deshalb sagt er auch in einem anderen Psalm: ‚Du wirst nicht zulassen, dass dein Heiliger Verderb sieht.‘ Denn David diente in seiner eigenen Generation dem Rat Gottes, fiel asleep and was bei seinen Vätern gelegt und sah Verderb. Aber den Gott auferweckte sah keinen Verderb. So sei euch daher bekannt, Brüder, dass durch diesen Mann euch die Vergebung der Sünden verkündet wird; und durch ihn wird jeder gerechtfertigt von allen Dingen, von denen ihr durch das Gesetz Moses nicht gerechtfertigt werden konntet. Seht daher zu, dass nicht über euch kommt, was in den Propheten gesagt wird:
+
+‚Siehe, ihr Spötter!
+
+Wundert euch und vergeht,
+
+denn ich wirke ein Werk in euren Tagen,
+
+ein Werk, das ihr auf keine Weise glauben werdet, wenn es euch verkündet wird.‘“
+
+Als die Juden aus der Synagoge gingen, baten die Heiden darum, dass diese Worte ihnen am nächsten Sabbat gepredigt würden. Als nun die Synagoge aufbrach, folgten viele der Juden und der frommen Proselyten Paulus und Barnabas; die zu ihnen sprachen und sie drängten, in der Gnade Gottes fortzufahren.
+
+Am nächsten Sabbat versammelte sich fast die ganze Stadt, um das Wort Gottes zu hören. Als aber die Juden die Menschenmengen sahen, wurden sie von Eifersucht erfüllt und widersprachen den Dingen, die von Paulus gesprochen wurden, und lästerten.
+
+Paul und Barnabas sprachen mutig und sagten: „Es war notwendig, dass das Wort Gottes zuerst zu euch gesprochen wird. Da ihr es jedoch von euch gestoßen habt und euch selbst für unwürdig des ewigen Lebens haltet, siehe, wir wenden uns den Heiden zu. Denn so hat uns der Herr geboten und gesagt:
+
+„Ich habe dich zum Licht für die Heiden gesetzt,
+
+damit du das Heil bringst bis an die äußersten Teile der Erde.“
+
+Als die Heiden dies hörten, freuten sie sich und verherrlichten das Wort Gottes. So viele, wie zum ewigen Leben bestimmt waren, glaubten. Das Wort des Herrn verbreitete sich in der ganzen Region. Aber die Juden erregten die frommen und angesehenen Frauen und die führenden Männer der Stadt und stifteten eine Verfolgung gegen Paul und Barnabas an und stießen sie aus ihren Grenzen. Sie schüttelten den Staub von ihren Füßen gegen sie ab und kamen nach Ikonion. Die Jünger waren mit Freude und dem Heiligen Geist erfüllt.
+
+### Kapitel 14
+
+In Ikonion traten sie gemeinsam in die Synagoge der Juden ein und sprachen so, dass eine große Menge sowohl von Juden als auch von Griechen glaubte. Aber die ungläubigen Juden erregten und vergifteten die Seelen der Heiden gegen die Brüder. Daher blieben sie dort lange Zeit und sprachen mutig im Herrn, der das Wort seiner Gnade bezeugte und Zeichen und Wunder durch ihre Hände geschehen ließ. Aber die Menge der Stadt war gespalten. Ein Teil war auf der Seite der Juden, ein Teil auf der Seite der Apostel. Als einige von beiden, den Heiden und den Juden, mit ihren Anführern einen gewaltsamen Versuch unternahmen, sie schlecht zu behandeln und zu steinigen, wurden sie darauf aufmerksam und flohen in die Städte Lykaonien, Lystra, Derbe und die umliegende Region. Dort verkündeten sie die Gute Nachricht.
+
+In Lystra saß ein gewisser Mann, der in seinen Füßen impotent war, ein Gelähmter von Geburt an, der nie gegangen war. Er hörte Paul reden, der ihn ansah und sah, dass er Glauben hatte, geheilt zu werden, und sagte mit lauter Stimme: „Steh aufrecht auf deinen Füßen!“ Er sprang auf und ging. Als die Menge sah, was Paul getan hatte, erhob sie ihre Stimme und sagte in der Sprache Lykaoniens: „Die Götter sind zu uns in Menschengestalt herabgekommen!“ Sie nannten Barnabas „Jupiter“ und Paul „Merkur“, weil er der Hauptredner war. Der Priester des Jupiter, dessen Tempel vor ihrer Stadt war, brachte Ochsen und Kränze zu den Toren und wollte zusammen mit den Massen ein Opfer darbringen.
+
+Als die Apostel Barnabas und Paul davon hörten, zerrissen sie ihre Kleider und sprangen in die Menge, riefen: „Männer, warum tut ihr diese Dinge? Wir sind auch Menschen von derselben Art wie ihr und bringen euch gute Nachrichten, dass ihr euch von diesen nichtigen Dingen zum lebendigen Gott wenden sollt, der den Himmel, die Erde, das Meer und alles, was darin ist, gemacht hat; der in den vergangenen Generationen allen Nationen erlaubte, in ihren eigenen Wegen zu wandeln. Doch ließ er sich nicht ohne Zeugnis, indem er Gutes tat und euch Regen vom Himmel gab und fruchtbare Zeiten, indem er unsere Herzen mit Nahrung und Freude erfüllte.“
+
+Selbst als sie diese Dinge sagten, hielten sie die Massen kaum davon ab, ihnen ein Opfer darzubringen. Aber einige Juden aus Antiochia und Ikonion kamen dorthin und überredeten die Massen; sie steinigten Paul und zogen ihn aus der Stadt hinaus, in der Annahme, dass er tot sei.
+
+Als aber die Jünger um ihn standen, stand er auf und ging in die Stadt. Am nächsten Tag ging er mit Barnabas nach Derbe.
+
+Als sie die Gute Nachricht in dieser Stadt verkündeten und viele Jünger gemacht hatten, kehrten sie nach Lystra, Ikonion und Antiochia zurück, stärkten die Seelen der Jünger, ermahnten sie, im Glauben zu bleiben und dass wir durch viele Bedrängnisse in das Reich Gottes eingehen müssen. Als sie ihnen in jeder Versammlung Älteste bestellt hatten und mit Fasten gebetet hatten, übergaben sie sie dem Herrn, an den sie geglaubt hatten.
+
+Sie durchzogen Pisidien und kamen nach Pamphylien. Als sie das Wort in Perge gesprochen hatten, gingen sie hinunter nach Attalia. Von dort segelten sie nach Antiochia, wo sie der Gnade Gottes für das Werk anvertraut worden waren, das sie erfüllt hatten. Als sie angekommen waren und die Versammlung zusammengebracht hatten, berichteten sie alles, was Gott mit ihnen getan hatte und dass er den Nationen eine Tür des Glaubens geöffnet hatte. Sie blieben dort lange Zeit bei den Jüngern.
+
+### Kapitel 15
+
+Einige Männer kamen von Judäa herab und lehrten die Brüder: „Wenn ihr euch nicht nach der Sitte Moses beschneiden lasst, könnt ihr nicht gerettet werden.“ Als nun Paulus und Barnabas mit ihnen keine geringe Auseinandersetzung und Diskussion hatten, bestimmten sie Paulus, Barnabas und einige andere von ihnen, nach Jerusalem zu den Aposteln und Ältesten über diese Frage zu gehen. Sie wurden von der Versammlung auf den Weg geschickt und durchzogen sowohl Phönizien als auch Samaria, indem sie die Bekehrung der Heiden verkündeten. Sie verursachten große Freude bei allen Brüdern. Als sie nach Jerusalem kamen, wurden sie von der Versammlung und den Aposteln und Ältesten empfangen und berichteten alles, was Gott mit ihnen getan hatte.
+
+Aber einige aus der Sekte der Pharisäer, die gläubig geworden waren, erhoben sich und sagten: „Es ist notwendig, sie zu beschneiden und ihnen zu gebieten, das Gesetz Moses zu halten.“
+
+Die Apostel und die Ältesten versammelten sich, um über diese Angelegenheit zu beraten. Als es viel Diskussion gab, stand Petrus auf und sagte zu ihnen: „Brüder, ihr wisst, dass Gott vor einiger Zeit unter euch eine Wahl getroffen hat, dass durch meinen Mund die Nationen das Wort der guten Nachricht hören und glauben sollten. Gott, der das Herz kennt, hat ihnen Zeugnis gegeben und ihnen den Heiligen Geist gegeben, so wie er es auch uns gegeben hat. Er machte keinen Unterschied zwischen uns und ihnen, indem er ihre Herzen durch den Glauben reinigte. Warum versucht ihr nun Gott, indem ihr den Jüngern ein Joch auflegt, das weder unsere Väter noch wir tragen konnten? Aber wir glauben, dass wir durch die Gnade des Herrn Jesus gerettet werden, so wie auch sie.“
+
+Die ganze Menge schwieg und hörte Barnabas und Paulus zu, während sie berichteten, welche Zeichen und Wunder Gott unter den Nationen durch sie getan hatte. Nachdem sie geschwiegen hatten, antwortete Jakobus: „Brüder, hört mir zu. Simeon hat berichtet, wie Gott zuerst die Nationen besucht hat, um aus ihnen ein Volk für seinen Namen herauszunehmen. Das stimmt mit den Worten der Propheten überein. Wie geschrieben steht:
+
+„Nach diesen Dingen will ich zurückkehren.
+
+Ich will die Hütte Davids wieder aufbauen, die gefallen ist.
+
+Ich will ihre Ruinen wieder aufbauen.
+
+Ich will sie aufrichten, damit die Übrigen der Menschen den Herrn suchen:
+
+alle Heiden, die mit meinem Namen genannt werden,
+
+spricht der Herr, der all dies tut.“
+
+„Alle Werke Gottes sind ihm von Ewigkeit her bekannt. Daher ist mein Urteil, dass wir denen aus den Heiden, die sich zu Gott wenden, keine Schwierigkeiten machen, sondern dass wir ihnen schreiben, dass sie sich von den Unreinheiten der Götzen, von sexueller Unmoral, von Ersticktem und von Blut fernhalten. Denn Mose hat seit alten Zeiten in jeder Stadt diejenigen, die ihn predigen, da er an jedem Sabbat in den Synagogen gelesen wird.“
+
+Dann schien es den Aposteln und den Ältesten mit der ganzen Versammlung gut zu sein, Männer aus ihrer Mitte auszuwählen und sie mit Paulus und Barnabas nach Antiochia zu senden: Judas genannt Barsabbas und Silas, führende Männer unter den Brüdern. Sie schrieben diese Dinge mit ihrer Hand:
+
+„Die Apostel, die Ältesten und die Brüder an die Brüder aus den Heiden in Antiochia, Syrien und Zilizien: Grüße. Weil wir gehört haben, dass einige von uns ausgegangen sind und euch mit Worten beunruhigt haben, eure Seelen in Unruhe versetzt haben und gesagt haben: ‚Ihr müsst euch beschneiden lassen und das Gesetz halten‘; denen wir kein Gebot gegeben haben; es schien uns gut zu sein, einmütig zu sein und Männer auszuwählen und sie mit unserem geliebten Barnabas und Paulus zu euch zu senden, Männer, die ihr Leben für den Namen unseres Herrn Jesus Christus riskiert haben. Darum haben wir Judas und Silas gesandt, die euch auch mündlich dieselben Dinge berichten werden. Denn es schien dem Heiligen Geist und uns gut zu sein, euch keine größere Last aufzuerlegen als diese notwendigen Dinge: dass ihr euch von dem Götzenopferfleisch, vom Blut, von dem Erstickten und von sexueller Unmoral fernhaltet; wenn ihr euch davor bewahrt, wird es euch wohl ergehen. Lebt wohl.“
+
+Als sie nun abgesandt wurden, kamen sie nach Antiochia. Nachdem sie die Menge versammelt hatten, übergaben sie den Brief. Als sie ihn gelesen hatten, freuten sie sich über die Ermutigung. Judas und Silas, die selbst Propheten waren, ermutigten die Brüder mit vielen Worten und stärkten sie. Nachdem sie dort einige Zeit verbracht hatten, wurden sie in Frieden von den Brüdern zu den Aposteln entlassen. Paulus und Barnabas aber blieben in Antiochia und lehrten und predigten das Wort des Herrn mit vielen anderen auch.
+
+Nach einigen Tagen sagte Paul zu Barnabas: „Lass uns jetzt zurückkehren und unsere Brüder in jeder Stadt besuchen, in der wir das Wort des Herrn verkündet haben, um zu sehen, wie es ihnen geht.“ Barnabas plante, auch Johannes, der Mark genannt wurde, mit ihnen zu nehmen. Aber Paul hielt es nicht für eine gute Idee, jemanden mitzunehmen, der sich in Pamphylien von ihnen zurückgezogen hatte und nicht mit ihnen gearbeitet hatte. Da wuchs die Auseinandersetzung so scharf, dass sie sich voneinander trennten. Barnabas nahm Mark mit sich und segelte nach Zypern, aber Paul wählte Silas und ging hinaus, von den Brüdern in die Gnade Gottes empfohlen. Er ging durch Syrien und Kilikien und stärkte die Versammlungen.
+
+### Kapitel 16
+
+Er kam nach Derbe und Lystra; und siehe, ein gewisser Jünger war dort, namens Timotheus, der Sohn einer jüdischen Frau, die gläubig war, aber sein Vater war Grieche. Die Brüder, die in Lystra und Ikonion waren, gaben ein gutes Zeugnis über ihn ab. Paul wollte, dass er mit ihm hinausgeht, und er nahm ihn und ließ ihn wegen der Juden, die in diesen Gegenden waren, beschneiden, denn sie wussten alle, dass sein Vater Grieche war. Als sie auf ihrem Weg durch die Städte waren, überbrachten sie ihnen die Beschlüsse, die von den Aposteln und Ältesten in Jerusalem erlassen worden waren. So wurden die Versammlungen im Glauben gestärkt und täglich in der Zahl vermehrt.
+
+Als sie durch die Region von Phrygien und Galatien gegangen waren, wurde ihnen vom Heiligen Geist verboten, das Wort in Asien zu sprechen. Als sie gegenüber von Mysien kamen, versuchten sie, nach Bithynien zu gehen, aber der Geist ließ es ihnen nicht zu. Sie zogen an Mysien vorbei und kamen nach Troas. In der Nacht erschien Paul eine Vision. Es stand ein Mann aus Makedonien und bat ihn und sagte: „Komm herüber nach Makedonien und hilf uns.“ Als er die Vision gesehen hatte, suchten wir sofort nach Makedonien zu gehen und schlossen, dass der Herr uns gerufen hatte, um ihnen die Gute Nachricht zu verkünden. Deshalb setzten wir von Troas aus die Segel und machten einen direkten Kurs nach Samothrake und am folgenden Tag nach Neapolis; und von dort nach Philippi, das eine Stadt Makedoniens ist, die erste der Region, eine römische Kolonie. Wir blieben einige Tage in dieser Stadt.
+
+Am Sabbat gingen wir außerhalb der Stadt an einen Fluss, wo wir einen Gebetsort vermuteten, und wir setzten uns und sprachen mit den Frauen, die zusammengekommen waren. Eine gewisse Frau namens Lydia, eine Verkäuferin von Purpur aus der Stadt Thyatira, eine Gott anbetende Frau, hörte uns. Der Herr öffnete ihr Herz, um auf die Dinge zu hören, die von Paul gesprochen wurden. Als sie und ihr Haus getauft wurden, bat sie uns und sagte: „Wenn ihr mich für treu zum Herrn haltet, kommt in mein Haus und bleibt.“ So überzeugte sie uns.
+
+Als wir zum Gebet gingen, begegnete uns ein gewisses Mädchen mit einem Wahrsagegeist, das ihren Herren viel Gewinn durch Wahrsagerei brachte. Sie folgte Paul und uns und rief: „Diese Männer sind Diener des höchsten Gottes, die uns einen Weg zur Rettung verkünden!“ Das tat sie viele Tage lang.
+
+Aber Paul wurde sehr verärgert und wandte sich um und sagte zu dem Geist: „Ich befehle dir im Namen Jesu Christi, aus ihr herauszukommen!“ Und es kam in derselben Stunde heraus. Als aber ihre Herren sahen, dass die Hoffnung auf ihren Gewinn verschwunden war, ergriffen sie Paul und Silas und schleppten sie auf den Marktplatz vor die Behörden. Als sie sie zu den Magistraten gebracht hatten, sagten sie: „Diese Männer sind Juden und bringen unsere Stadt in Aufruhr und vertreten Bräuche, die es uns nicht erlaubt ist anzunehmen oder zu beobachten, da wir Römer sind.“
+
+Die Menge erhob sich gemeinsam gegen sie und die Magistrate rissen ihnen die Kleider vom Leib und befahlen, sie mit Ruten zu schlagen. Nachdem sie ihnen viele Streiche gegeben hatten, warfen sie sie ins Gefängnis und befahlen dem Gefängniswärter, sie sicher zu bewahren. Nachdem er einen solchen Befehl erhalten hatte, warf er sie ins innere Gefängnis und sicherte ihre Füße im Stock.
+
+Aber gegen Mitternacht beteten Paul und Silas und sangen Loblieder zu Gott, und die Gefangenen hörten ihnen zu. Plötzlich gab es ein großes Erdbeben, sodass die Grundlagen des Gefängnisses erschüttert wurden; und sofort öffneten sich alle Türen und jeder wurde losgebunden. Der Gefängniswärter wurde aus dem Schlaf gerissen und sah die Gefängnistüren offen; er zog sein Schwert und wollte sich umbringen, da er annahm, dass die Gefangenen entkommen seien. Aber Paul rief mit lauter Stimme: „Tu dir nichts an; denn wir sind alle hier!“
+
+Er rief nach Licht, sprang hinein, fiel zitternd vor Paulus und Silas nieder, brachte sie heraus und sagte: „Herren, was muss ich tun, um gerettet zu werden?“
+
+Sie sagten: „Glaube an den Herrn Jesus Christus, und du wirst gerettet werden, du und dein Haus.“ Sie sprachen das Wort des Herrn zu ihm und zu allen, die in seinem Haus waren.
+
+Er nahm sie in derselben Stunde der Nacht und wusch ihre Streiche, und wurde sofort getauft, er und sein ganzes Haus. Er brachte sie in sein Haus und stellte ihnen Essen vor, und freute sich sehr mit seinem ganzen Haus, da er an Gott geglaubt hatte.
+
+Aber als es Tag wurde, schickten die Magistrate die Diener und sagten: „Lasst diese Männer gehen.“
+
+Der Gefängniswärter berichtete diese Worte Paulus und sagte: „Die Magistrate haben geschickt, um euch gehen zu lassen; kommt also heraus und geht in Frieden.“
+
+Aber Paulus sagte zu ihnen: „Sie haben uns öffentlich ohne Prozess geschlagen, Männer, die Römer sind, und haben uns ins Gefängnis geworfen! Lassen sie uns jetzt heimlich entlassen? Nein, ganz gewiss nicht; sondern lasst sie selbst kommen und uns herausbringen!“
+
+Die Diener berichteten diese Worte den Magistraten, und sie fürchteten sich, als sie hörten, dass sie Römer waren, und sie kamen und baten sie. Als sie sie herausgebracht hatten, baten sie sie, die Stadt zu verlassen. Sie gingen aus dem Gefängnis und traten in das Haus von Lydia ein. Als sie die Brüder gesehen hatten, ermutigten sie sie und gingen dann weg.
+
+### Kapitel 17
+
+Als sie nun durch Amphipolis und Apollonia gezogen waren, kamen sie nach Thessalonich, wo eine jüdische Synagoge war. Paulus ging, wie es seine Gewohnheit war, zu ihnen hinein; und er redete drei Sabbattage lang mit ihnen aus den Schriften, erklärte und bewies, dass der Christus leiden und von den Toten auferstehen musste, und sagte: „Dieser Jesus, den ich euch verkündige, ist der Christus.“
+
+Einige von ihnen wurden überzeugt und schlossen sich Paulus und Silas an: eine große Menge frommer Griechen und nicht wenige der führenden Frauen. Aber die unüberzeugten Juden holten einige böse Männer aus dem Markt und versammelten eine Menge, um die Stadt in Aufruhr zu versetzen. Sie überfielen das Haus des Jason und suchten sie herauszubringen zu den Leuten. Als sie sie nicht fanden, zogen sie Jason und einige Brüder vor die Stadtobersten und riefen: „Diese, die die Welt auf den Kopf gestellt haben, sind auch hierher gekommen, die Jason aufgenommen hat. Diese handeln alle gegen die Erlassungen des Kaisers und sagen, dass es einen anderen König gibt, Jesus!“ Die Menge und die Stadtobersten waren beunruhigt, als sie diese Dinge hörten. Nachdem sie von Jason und den anderen Sicherheit genommen hatten, ließen sie sie gehen.
+
+Die Brüder schickten Paulus und Silas in der Nacht sofort nach Beroea weg. Als sie ankamen, gingen sie in die jüdische Synagoge.
+
+Diese waren edler als die in Thessalonich, da sie das Wort mit aller Bereitwilligkeit des Geistes empfingen und täglich die Schriften untersuchten, um zu sehen, ob diese Dinge so waren. Viele von ihnen glaubten daher; auch von den prominenten griechischen Frauen und nicht wenigen Männern. Aber als die Juden von Thessalonich erfuhren, dass das Wort Gottes auch in Beroea von Paulus verkündigt wurde, kamen sie auch dorthin und bewegten die Menschenmengen. Dann schickten die Brüder sofort Paulus bis ans Meer; Silas und Timotheus blieben aber noch dort. Diejenigen, die Paulus begleiteten, brachten ihn bis nach Athen. Sie erhielten einen Befehl an Silas und Timotheus, dass sie schnell zu ihm kommen sollten; dann gingen sie weg.
+
+Während Paulus nun auf sie in Athen wartete, wurde sein Geist in ihm erregt, als er die Stadt voller Götzen sah. So redete er in der Synagoge mit den Juden und den frommen Personen und täglich auf dem Markt mit denen, die ihn trafen. Einige der epikureischen und stoischen Philosophen unterhielten sich ebenfalls mit ihm. Einige sagten: „Was will dieser Schwätzer sagen?“
+
+Andere sagten: „Er scheint fremde Götter zu verkünden“, weil er Jesus und die Auferstehung predigte.
+
+Sie ergriffen ihn und brachten ihn zum Areopag und sagten: „Dürfen wir wissen, was diese neue Lehre ist, von der du sprichst? Denn du bringst uns gewisse seltsame Dinge zu Ohren. Wir wollen daher wissen, was diese Dinge bedeuten.“ Alle Athener aber und die dort lebenden Fremden verbrachten ihre Zeit mit nichts anderem als damit, entweder etwas Neues zu erzählen oder etwas Neues zu hören.
+
+Paul stand in der Mitte des Areopag und sagte: „Ihr Männer von Athen, ich sehe, dass ihr in allen Dingen sehr religiös seid. Denn als ich umherging und die Objekte eurer Anbetung beobachtete, fand ich auch einen Altar mit dieser Inschrift: ‚EINEM UNBEKANNTEN GOTT.‘ Was ihr daher unwissentlich anbetet, das verkündige ich euch. Der Gott, der die Welt und alles, was darin ist, gemacht hat, er, der Herr des Himmels und der Erde, wohnt nicht in von Menschenhand gemachten Tempeln. Er wird nicht von Menschenhänden bedient, als ob er irgendetwas nötig hätte, da er selbst allen Leben und Atem und alles gibt. Er hat aus einem Blut jede Nation von Menschen gemacht, um auf der ganzen Erdoberfläche zu wohnen, und hat bestimmte Zeiten und die Grenzen ihrer Wohnsitze festgelegt, damit sie den Herrn suchen, ob sie ihn vielleicht erreichen und finden könnten, obwohl er nicht weit von jedem von uns entfernt ist. ‚Denn in ihm leben, bewegen und sind wir.‘ Wie einige eurer eigenen Dichter gesagt haben: ‚Denn wir sind auch sein Geschlecht.‘ Da wir also das Geschlecht Gottes sind, sollten wir nicht denken, dass die göttliche Natur wie Gold oder Silber oder Stein ist, das durch Kunst und menschliches Design eingeprägt wurde. Die Zeiten der Unwissenheit hat Gott daher übersehen. Aber jetzt gebietet er allen Menschen überall, Buße zu tun, weil er einen Tag festgesetzt hat, an dem er die Welt in Gerechtigkeit durch den Mann richten wird, den er dazu bestimmt hat; dessen Gewissheit er allen Menschen gegeben hat, indem er ihn von den Toten auferweckt hat.“
+
+Als sie nun von der Auferstehung der Toten hörten, verspotteten einige; andere aber sagten: „Wir wollen dich darüber wieder hören.“
+
+So ging Paul von ihnen weg. Aber einige Männer schlossen sich ihm an und glaubten, darunter Dionysius der Areopagite und eine Frau namens Damaris sowie andere mit ihnen.
+
+### Kapitel 18
+
+Nach diesen Dingen ging Paul von Athen nach Korinth. Er fand einen gewissen Juden namens Aquila, einen Mann aus Pontus, der kürzlich mit seiner Frau Priscilla aus Italien gekommen war, weil Claudius befohlen hatte, dass alle Juden Rom verlassen sollten. Er kam zu ihnen und da er denselben Beruf ausübte, lebte er bei ihnen und arbeitete; denn sie waren Zeltmacher von Beruf. Er argumentierte jeden Sabbat in der Synagoge und überzeugte Juden und Griechen.
+
+Als Silas und Timotheus aus Mazedonien herabkamen, wurde Paul vom Geist gedrängt und bezeugte den Juden, dass Jesus der Christus sei. Als sie ihm widersprachen und lästerten, schüttelte er seine Kleider aus und sagte zu ihnen: „Euer Blut sei auf eurem eigenen Haupt! Ich bin rein. Von nun an werde ich zu den Heiden gehen!“
+
+Er ging von dort weg und trat in das Haus eines gewissen Mannes namens Justus, der Gott anbetete und dessen Haus neben der Synagoge war. Crispus, der Oberste der Synagoge, glaubte an den Herrn mit seinem ganzen Haus. Viele der Korinther glaubten, als sie hörten, und wurden getauft. Der Herr sprach in der Nacht durch eine Vision zu Paul: „Fürchte dich nicht, sondern sprich und schweige nicht; denn ich bin mit dir, und niemand wird dich angreifen, um dir zu schaden; denn ich habe viele Leute in dieser Stadt.“
+
+Er lebte dort ein Jahr und sechs Monate und lehrte das Wort Gottes unter ihnen. Aber als Gallio Prokonsul von Achaia war, erhoben sich die Juden einstimmig gegen Paul und brachten ihn vor den Gerichtssitz und sagten: „Dieser Mann überredet die Menschen, Gott entgegen dem Gesetz anzubeten.“
+
+Als Paul gerade seinen Mund öffnen wollte, sagte Gallio zu den Juden: „Wenn es wirklich eine Sache des Unrechts oder ein böses Verbrechen wäre, ihr Juden, wäre es vernünftig, dass ich euch ertrage; aber wenn es Fragen über Worte und Namen und euer eigenes Gesetz sind, seht selbst darauf! Denn ich will kein Richter über diese Dinge sein.“ So wies er sie vom Gerichtssitz.
+
+Dann ergriffen alle Griechen Sosthenes, den Obersten der Synagoge, und schlugen ihn vor dem Gerichtssitz. Gallio kümmerte sich um nichts davon.
+
+Paul blieb nach diesen Tagen noch viele Tage dort und verabschiedete sich von den Brüdern und segelte von dort nach Syrien, zusammen mit Priscilla und Aquila. Er ließ sich in Kenchreä die Haare schneiden, denn er hatte ein Gelübde. Er kam nach Ephesus und ließ sie dort; aber er selbst trat in die Synagoge ein und argumentierte mit den Juden. Als sie ihn baten, länger bei ihnen zu bleiben, lehnte er ab; aber als er sich von ihnen verabschiedete, sagte er: „Ich muss unbedingt dieses kommende Fest in Jerusalem feiern; aber ich werde wieder zu euch zurückkehren, wenn Gott will.“ Dann segelte er von Ephesus.
+
+Als er in Cäsarea gelandet war, ging er hinauf und begrüßte die Versammlung und ging hinunter nach Antiochia. Nachdem er dort einige Zeit verbracht hatte, brach er auf und durchreiste die Region Galatien und Phrygien, um alle Jünger zu stärken. Nun kam ein gewisser Jude namens Apollos, ein Alexandriner von Geburt, ein eloquenter Mann, nach Ephesus. Er war mächtig in den Schriften. Dieser Mann war im Weg des Herrn unterwiesen worden; und da er im Geist eifrig war, sprach und lehrte er genau die Dinge über Jesus, obwohl er nur die Taufe des Johannes kannte. Er begann, kühn in der Synagoge zu sprechen. Als Priscilla und Aquila ihn hörten, nahmen sie ihn beiseite und erklärten ihm den Weg Gottes genauer.
+
+Als er beschlossen hatte, nach Achaia zu reisen, ermutigten ihn die Brüder und schrieben an die Jünger, ihn aufzunehmen. Als er kam, half er denen, die durch Gnade geglaubt hatten, sehr; denn er widerlegte die Juden kraftvoll und zeigte öffentlich durch die Schriften, dass Jesus der Christus war.
+
+### Kapitel 19
+
+Während Apollos in Korinth war, kam Paulus, nachdem er durch das obere Land gereist war, nach Ephesus und fand einige Jünger. Er sagte zu ihnen: „Habt ihr den Heiligen Geist empfangen, als ihr glaubtet?“
+
+Sie sagten zu ihm: „Nein, wir haben nicht einmal gehört, dass es einen Heiligen Geist gibt.“
+
+Er sagte: „In was seid ihr dann getauft worden?“
+
+Sie sagten: „In die Taufe des Johannes.“
+
+Paulus sagte: „Johannes hat zwar mit der Taufe der Buße getauft und dem Volk gesagt, dass sie an den glauben sollen, der nach ihm kommt, das ist an Christus Jesus.“
+
+Als sie das hörten, ließen sie sich im Namen des Herrn Jesus taufen. Als Paulus ihnen die Hände auflegte, kam der Heilige Geist auf sie und sie sprachen in anderen Zungen und prophezeiten. Es waren insgesamt etwa zwölf Männer.
+
+Er trat in die Synagoge ein und sprach drei Monate lang kühn und redete und überzeugte über die Dinge des Reiches Gottes.
+
+Als aber einige verhärtet und ungehorsam waren und böse über den Weg vor der Menge redeten, trennte er sich von ihnen und schied die Jünger aus und redete täglich in der Schule des Tyrannus. Dies geschah zwei Jahre lang, sodass alle, die in Asien lebten, das Wort des Herrn Jesus hörten, sowohl Juden als auch Griechen.
+
+Gott wirkte durch die Hände von Paulus besondere Wunder, sodass sogar Schweißtücher oder Schürzen von seinem Körper zu den Kranken gebracht wurden und die Krankheiten von ihnen wichen und die bösen Geister ausfuhren. Einige der umherziehenden Juden, Exorzisten, versuchten über diejenigen, die die bösen Geister hatten, den Namen des Herrn Jesus anzurufen, indem sie sagten: „Wir beschwören euch bei Jesus, den Paulus predigt.“ Es waren sieben Söhne eines gewissen Skevas, eines jüdischen Oberpriesters, die dies taten.
+
+Der böse Geist antwortete: „Jesus kenne ich und Paulus kenne ich; aber wer seid ihr?“ Der Mensch, in dem der böse Geist war, sprang auf sie los, überwältigte sie und gewann die Oberhand über sie, sodass sie nackt und verwundet aus diesem Haus flohen. Dies wurde allen bekannt, sowohl Juden als auch Griechen, die in Ephesus lebten. Furcht fiel auf sie alle und der Name des Herrn Jesus wurde verherrlicht. Viele von denen, die geglaubt hatten, kamen und bekannten und erklärten ihre Taten. Viele von denen, die magische Künste praktizierten, brachten ihre Bücher zusammen und verbrannten sie vor aller Augen. Sie zählten ihren Preis und fanden ihn auf fünfzigtausend Silberstücke. So wuchs das Wort des Herrn und wurde mächtig.
+
+Nachdem diese Dinge geschehen waren, beschloss Paulus im Geist, nachdem er durch Makedonien und Achaia gereist war, nach Jerusalem zu gehen und sagte: „Nachdem ich dort gewesen bin, muss ich auch Rom sehen.“
+
+Nachdem er zwei von denen, die ihm dienten, Timotheus und Erastus, nach Makedonien gesandt hatte, blieb er selbst eine Weile in Asien. Zu dieser Zeit entstand keine geringe Unruhe wegen des Weges. Denn ein gewisser Mann namens Demetrius, ein Silberschmied, der silberne Tempel für Artemis machte, brachte den Handwerkern kein geringes Geschäft; ihn versammelten die Arbeiter ähnlicher Berufe und sagte: „Ihr Männer, ihr wisst, dass wir durch dieses Gewerbe unseren Wohlstand haben. Ihr seht und hört, dass nicht nur in Ephesus, sondern fast in ganz Asien dieser Paulus viele Menschen verführt und abgewendet hat und sagt, dass es keine Götter gibt, die mit Händen gemacht werden. Es besteht nicht nur die Gefahr, dass unser Gewerbe in Misskredit gerät, sondern auch dass der Tempel der großen Göttin Artemis als nichts angesehen wird und ihre Majestät zerstört wird, die ganz Asien und die Welt anbetet.“
+
+Als sie das hörten, wurden sie von Zorn erfüllt und riefen: „Groß ist Artemis von den Ephesern!“ Die ganze Stadt war in Verwirrung, und sie stürmten einstimmig ins Theater, nachdem sie Gaius und Aristarchus, Männer aus Makedonien, die Reisegefährten von Paulus waren, ergriffen hatten. Als Paulus in die Menge eintreten wollte, erlaubten ihm die Jünger es nicht. Auch einige der Asiarchen, die seine Freunde waren, schickten zu ihm und baten ihn, sich nicht ins Theater zu wagen. Einige riefen daher das eine und andere das andere, denn die Versammlung war in Verwirrung. Die meisten von ihnen wussten nicht, warum sie zusammengekommen waren. Sie brachten Alexander aus der Menge heraus, die Juden stellten ihn vor. Alexander winkte mit der Hand und wollte sich vor dem Volk verteidigen. Aber als sie wahrnahmen, dass er ein Jude war, riefen alle einstimmig etwa zwei Stunden lang: „Groß ist Artemis von den Ephesern!“
+
+Als der Stadtsekretär die Menge beruhigt hatte, sagte er: „Ihr Männer von Ephesus, welcher Mensch ist es, der nicht weiß, dass die Stadt der Epheser Tempelwächter der großen Göttin Artemis ist und des Bildes, das von Zeus gefallen ist? Da diese Dinge also nicht geleugnet werden können, solltet ihr ruhig sein und nichts Unüberlegtes tun. Denn ihr habt diese Männer hierhergebracht, die weder Tempelräuber noch Lästerer eurer Göttin sind. Wenn also Demetrius und die Handwerker, die bei ihm sind, ein Anliegen gegen jemanden haben, sind die Gerichte offen und es gibt Prokonsuln. Lassen sie einander Anklage erheben. Wenn ihr aber etwas über andere Angelegenheiten sucht, wird es in der regulären Versammlung entschieden. Denn wir sind in Gefahr, wegen des heutigen Aufruhrs beschuldigt zu werden, ohne dass es einen Grund dafür gibt. In dieser Hinsicht könnten wir keinen Bericht über diesen Tumult ablegen.“ Als er dies gesagt hatte, entließ er die Versammlung.
+
+### Kapitel 20
+
+Nachdem der Aufruhr aufgehört hatte, ließ Paulus die Jünger rufen, verabschiedete sich von ihnen und machte sich auf den Weg nach Makedonien. Als er durch diese Gegenden gegangen war und sie mit vielen Worten ermutigt hatte, kam er nach Griechenland. Als er dort drei Monate verbracht hatte und ein Komplott gegen ihn von den Juden gemacht wurde, während er im Begriff war, nach Syrien zu segeln, beschloss er, durch Makedonien zurückzukehren. Diese begleiteten ihn bis nach Asien: Sopater von Beroea, Aristarchus und Secundus von Thessalonich, Gaius von Derbe, Timotheus und Tychikus und Trophimus aus Asien. Aber diese waren vorausgegangen und warteten auf uns in Troas. Wir segelten nach Philippi nach den Tagen des ungesäuerten Brotes und kamen in fünf Tagen zu ihnen nach Troas, wo wir sieben Tage blieben.
+
+Am ersten Tag der Woche, als die Jünger versammelt waren, um das Brot zu brechen, sprach Paulus mit ihnen und hatte vor, am nächsten Tag abzureisen; und er setzte seine Rede bis Mitternacht fort. Es waren viele Lampen im Oberraum, wo wir versammelt waren. Ein gewisser junger Mann namens Eutychus saß am Fenster und war von tiefem Schlaf überwältigt. Während Paulus noch länger sprach, wurde er von seinem Schlaf überwältigt und fiel vom dritten Stock herunter und wurde tot aufgefunden. Paulus ging hinunter und fiel auf ihn und umarmte ihn und sagte: „Seid nicht beunruhigt, denn sein Leben ist in ihm.“
+
+Als er hinaufgegangen war, hatte er das Brot gebrochen und gegessen und lange mit ihnen gesprochen, bis es Tagesanbruch wurde; dann ging er fort. Sie brachten den Jungen lebendig herein und waren sehr getröstet.
+
+Wir aber gingen voraus zum Schiff und segelten nach Assos, da wir Paulus dort an Bord nehmen wollten; denn so hatte er es angeordnet, selbst beabsichtigend zu Fuß zu gehen. Als er uns in Assos traf, nahmen wir ihn an Bord und kamen nach Mitylene. Von dort segelten wir am folgenden Tag gegenüber von Chios. Am nächsten Tag legten wir in Samos an und blieben in Trogyllium; am Tag darauf kamen wir nach Miletus. Denn Paulus hatte beschlossen, Ephesus vorbeizusegeln, damit er nicht Zeit in Asien verbringen musste; denn er eilte, wenn es ihm möglich wäre, am Pfingsttag in Jerusalem zu sein.
+
+Von Miletus sandte er nach Ephesus und ließ die Ältesten der Versammlung zu sich rufen. Als sie zu ihm gekommen waren, sagte er zu ihnen: „Ihr wisst selbst, dass ich vom ersten Tag an, an dem ich in Asien war, die ganze Zeit bei euch war, dem Herrn mit aller Demut diente, mit vielen Tränen und mit Prüfungen, die mir durch die Pläne der Juden widerfahren sind; wie ich mich nicht gescheut habe, euch alles zu verkünden, was nützlich war, euch öffentlich und von Haus zu Haus zu lehren und sowohl Juden als auch Griechen Buße gegenüber Gott und Glauben an unseren Herrn Jesus zu bezeugen. Siehe, ich gehe gebunden vom Geist nach Jerusalem, ohne zu wissen, was mir dort widerfahren wird; außer dass der Heilige Geist in jeder Stadt bezeugt und sagt, dass Fesseln und Bedrängnisse auf mich warten. Aber diese Dinge zählen nicht; noch halte ich mein Leben für kostbar für mich selbst, damit ich mein Rennen mit Freude vollenden kann und den Dienst, den ich vom Herrn Jesus empfangen habe, um das Evangelium der Gnade Gottes vollständig zu bezeugen.
+
+„Siehe, ich weiß, dass ihr alle, unter denen ich umherging und das Reich Gottes predigte, mein Angesicht nicht mehr sehen werdet. Deshalb bezeuge ich euch heute, dass ich rein bin von dem Blut aller Menschen; denn ich habe mich nicht gescheut, euch den ganzen Rat Gottes zu verkündigen. So habt nun Acht auf euch selbst und auf die ganze Herde, in der der Heilige Geist euch zu Aufsehern eingesetzt hat, um die Gemeinde des Herrn und Gottes zu hüten, die er sich mit seinem eigenen Blut erkauft hat. Denn ich weiß, dass nach meinem Abschied grausame Wölfe unter euch eindringen werden, die die Herde nicht schonen. Aus eurer eigenen Mitte werden Männer auftreten, die verdrehte Dinge reden, um die Jünger hinter sich her zu ziehen. Darum seid wachsam und denkt daran, dass ich drei Jahre lang Tag und Nacht nicht aufgehört habe, jeden mit Tränen zu ermahnen. Nun übergebe ich euch Gott und dem Wort seiner Gnade, das euch aufbauen und euch das Erbe unter allen Heiligen geben kann. Ich habe niemandes Silber, Gold oder Kleidung begehrt. Ihr selbst wisst, dass diese Hände meinen Bedürfnissen und denen, die bei mir waren, gedient haben. In allem habe ich euch ein Beispiel gegeben, dass ihr so arbeiten sollt und den Schwachen helfen sollt und die Worte des Herrn Jesus im Gedächtnis behalten sollt, der selbst sagte: ‚Geben ist seliger als Nehmen.‘“
+
+Als er dies gesagt hatte, kniete er nieder und betete mit ihnen allen. Sie weinten alle heftig und fielen Pauls um den Hals und küssten ihn, vor allem traurig über das Wort, das er gesprochen hatte, dass sie sein Angesicht nicht mehr sehen würden. Dann begleiteten sie ihn zum Schiff.
+
+### Kapitel 21
+
+Als wir von ihnen abgefahren waren und in See gestochen hatten, kamen wir mit direktem Kurs nach Kos und am nächsten Tag nach Rhodos und von dort nach Patara. Nachdem wir ein Schiff gefunden hatten, das nach Phönizien überfuhr, gingen wir an Bord und setzten die Segel. Als wir in Sicht von Zypern kamen und es auf der linken Seite ließen, segelten wir nach Syrien und landeten in Tyrus; denn das Schiff war dort, um seine Ladung zu entladen. Nachdem wir Jünger gefunden hatten, blieben wir dort sieben Tage. Diese sagten zu Paul durch den Geist, dass er nicht nach Jerusalem hinaufgehen solle. Als diese Tage vorüber waren, brachen wir auf und setzten unsere Reise fort. Sie alle, mit Frauen und Kindern, begleiteten uns bis außerhalb der Stadt. Am Strand knieten wir nieder und beteten. Nachdem wir uns voneinander verabschiedet hatten, gingen wir an Bord des Schiffes und sie kehrten nach Hause zurück.
+
+Als wir die Reise von Tyrus beendet hatten, kamen wir nach Ptolemais. Wir begrüßten die Brüder und blieben einen Tag bei ihnen. Am nächsten Tag brachen wir auf und kamen nach Cäsarea.
+
+Wir traten in das Haus des Philippus, des Evangelisten, der einer der sieben war, und blieben bei ihm. Dieser Mann hatte vier Jungfrauen-Töchter, die prophezeiten. Während wir einige Tage dort verweilten, kam ein gewisser Prophet namens Agabus aus Judäa herab. Er kam zu uns, nahm den Gürtel des Paulus, band sich die eigenen Füße und Hände und sagte: „Der Heilige Geist sagt: ‚So werden die Juden in Jerusalem den Mann binden, dem dieser Gürtel gehört, und ihn in die Hände der Heiden überliefern.‘“
+
+Als wir dies hörten, baten sowohl wir als auch die Leute an diesem Ort ihn inständig, nicht nach Jerusalem hinaufzugehen. Da antwortete Paulus: „Was macht ihr? Weint ihr und brecht mir das Herz? Denn ich bin bereit, nicht nur gebunden zu werden, sondern auch in Jerusalem für den Namen des Herrn Jesus zu sterben.“
+
+Als er sich nicht überzeugen ließ, hörten wir auf und sagten: „Der Wille des Herrn geschehe.“
+
+Nach diesen Tagen packten wir unser Gepäck und gingen nach Jerusalem. Einige der Jünger aus Cäsarea gingen ebenfalls mit uns und brachten einen Mnason aus Zypern mit, einen frühen Jünger, bei dem wir wohnen würden.
+
+Als wir nach Jerusalem kamen, empfingen uns die Brüder freudig. Am folgenden Tag ging Paulus mit uns zu Jakobus; und alle Ältesten waren anwesend. Nachdem er sie begrüßt hatte, berichtete er ihnen nacheinander von den Dingen, die Gott unter den Heiden durch seinen Dienst gewirkt hatte. Als sie es hörten, verherrlichten sie Gott. Sie sagten zu ihm: „Siehe, Bruder, wie viele Tausende es unter den Juden gibt, die geglaubt haben; und sie sind alle eifrig für das Gesetz. Man hat sie über dich informiert, dass du alle Juden unter den Heiden lehrst, Mose zu verleugnen und ihnen sagst, sie sollen ihre Kinder nicht beschneiden und nicht nach den Bräuchen leben. Was nun? Die Gemeinde muss sich gewiss versammeln; denn sie werden hören, dass du gekommen bist. Darum tue, was wir dir sagen: Wir haben vier Männer, die ein Gelübde abgelegt haben. Nimm sie und reinige dich mit ihnen und zahle ihre Ausgaben für sie, damit sie sich das Haupt scheren können. Dann wird jeder wissen, dass es nichts Wahres an den Dingen gibt, über die man dich informiert hat; sondern dass auch du selbst das Gesetz hältst. Aber hinsichtlich der Heiden, die glauben, haben wir beschlossen, dass sie nichts dergleichen beobachten sollen; außer dass sie sich von Götzenopferfleisch, von Blut, von Ersticktem und von Unzucht fernhalten sollen.“
+
+Dann nahm Paulus die Männer und reinigte sich am nächsten Tag und ging mit ihnen in den Tempel, um die Erfüllung der Reinigungstage zu erklären, bis das Opfer für jeden von ihnen dargebracht wurde. Als die sieben Tage fast vollendet waren, erregten die Juden aus Asien, als sie ihn im Tempel sahen, die ganze Menge und legten ihm die Hände auf und riefen: „Männer von Israel, helft! Dies ist der Mann, der überall gegen das Volk und das Gesetz und diesen Ort lehrt. Außerdem hat er auch Griechen in den Tempel gebracht und diesen heiligen Ort entweiht!“ Denn sie hatten Trophimus, den Epheser, mit ihm in der Stadt gesehen und vermuteten, dass Paulus ihn in den Tempel gebracht hatte.
+
+Die ganze Stadt war in Aufruhr, und die Leute liefen zusammen. Sie ergriffen Paulus und zogen ihn aus dem Tempel. Sofort wurden die Türen geschlossen. Während sie versuchten, ihn zu töten, kam die Nachricht zum Hauptmann des Regiments, dass ganz Jerusalem in Aufruhr sei. Sofort nahm er Soldaten und Zenturionen und lief zu ihnen hinunter. Als sie den Hauptmann und die Soldaten sahen, hörten sie auf, Paulus zu schlagen. Dann trat der Hauptmann näher, verhaftete ihn, befahl, ihn mit zwei Ketten zu fesseln, und erkundigte sich, wer er sei und was er getan habe. Einige riefen das eine und einige das andere unter der Menge. Als er wegen des Lärms die Wahrheit nicht herausfinden konnte, befahl er, ihn in die Kaserne zu bringen.
+
+Als er zu den Treppen kam, wurde er von den Soldaten wegen der Gewalt der Menge getragen; denn die Menge folgte ihm nach und rief: „Weg mit ihm!“ Als Paulus in die Kaserne gebracht werden sollte, fragte er den Hauptmann: „Darf ich mit dir sprechen?“
+
+Er sagte: „Sprichst du Griechisch? Bist du nicht der Ägypter, der vor diesen Tagen einen Aufstand angezettelt und viertausend Männer der Assassinen in die Wüste geführt hat?“
+
+Aber Paulus sagte: „Ich bin ein Jude aus Tarsus in Zilizien, ein Bürger einer nicht unbedeutenden Stadt. Ich bitte dich, lass mich zum Volk sprechen.“
+
+Als er ihm die Erlaubnis gegeben hatte, winkte Paulus, während er auf den Treppen stand, mit seiner Hand zu den Leuten. Als eine große Stille eintrat, sprach er sie in der hebräischen Sprache an und sagte:
+
+### Kapitel 22
+
+„Brüder und Väter, hört die Verteidigung, die ich jetzt vor euch mache.“
+
+Als sie hörten, dass er sie in der hebräischen Sprache ansprach, wurden sie noch stiller.
+
+Er sagte: „Ich bin tatsächlich ein Jude, geboren in Tarsus in Zilizien, aber in dieser Stadt am Fuß Gamaliels erzogen, nach der strengen Tradition des Gesetzes unserer Väter unterwiesen, eifrig für Gott, wie ihr alle heute seid. Ich verfolgte diesen Weg bis zum Tod, indem ich sowohl Männer als auch Frauen band und ins Gefängnis brachte, wie auch der hohe Priester und der gesamte Rat der Ältesten bezeugen, von denen ich auch Briefe an die Brüder erhielt und nach Damaskus reiste, um auch die dortigen gefangen zu nehmen und sie nach Jerusalem zu bringen, um bestraft zu werden.
+
+„Als ich meine Reise machte und mich Damaskus näherte, leuchtete um die Mittagszeit plötzlich ein großes Licht vom Himmel um mich. Ich fiel zu Boden und hörte eine Stimme zu mir sagen: ‚Saul, Saul, warum verfolgst du mich?‘ Ich antwortete: ‚Wer bist du, Herr?‘ Er sagte zu mir: ‚Ich bin Jesus von Nazareth, den du verfolgst.‘
+
+„Diejenigen, die bei mir waren, sahen zwar das Licht und fürchteten sich, aber sie verstanden die Stimme dessen nicht, der mit mir sprach. Ich sagte: ‚Was soll ich tun, Herr?‘ Der Herr sagte zu mir: ‚Steh auf und geh nach Damaskus. Dort wird dir gesagt werden, was dir bestimmt ist zu tun.‘ Als ich wegen des Glanzes dieses Lichtes nichts sehen konnte, wurde ich von der Hand derjenigen geführt, die bei mir waren, und kam nach Damaskus.
+
+„Ein Ananias kam zu mir, ein frommer Mann nach dem Gesetz, von allen Juden, die in Damaskus lebten, gut angesehen. Er trat zu mir und sagte: ‚Bruder Saul, empfange deinen Blick!‘ In jener Stunde sah ich ihn aufblickend an. Er sagte: ‚Der Gott unserer Väter hat dich bestimmt, seinen Willen zu erkennen und den Gerechten zu sehen und eine Stimme aus seinem Mund zu hören. Denn du wirst ein Zeuge für ihn sein für alle Menschen von dem, was du gesehen und gehört hast. Warum wartest du jetzt? Steh auf, lass dich taufen und wasch deine Sünden weg, indem du den Namen des Herrn anrufst.‘
+
+„Als ich nach Jerusalem zurückgekehrt war und im Tempel betete, fiel ich in eine Trance und sah ihn zu mir sagen: ‚Eile und verlasse Jerusalem schnell, denn sie werden dein Zeugnis über mich nicht annehmen.‘ Ich sagte: ‚Herr, sie wissen selbst, dass ich die, die an dich glaubten, in jeder Synagoge gefangen nahm und schlug. Als das Blut des Stephanus, deines Zeugen, vergossen wurde, stand ich auch dabei, stimmte seinem Tod zu und bewachte die Mäntel derjenigen, die ihn töteten.‘
+
+„Er sagte zu mir: ‚Geh hin, denn ich werde dich weit weg zu den Heiden senden.‘“
+
+Sie hörten ihm zu, bis er das sagte; dann erhoben sie ihre Stimme und riefen: „Schaffe diesen Mann von der Erde, denn er ist nicht wert, zu leben!“
+
+Als sie schrien, ihre Mäntel abwarfen und Staub in die Luft warfen, befahl der Hauptmann, ihn in die Kaserne zu bringen und befahl, ihn durch Geißelung zu prüfen, damit er wisse, aus welchem Verbrechen sie so gegen ihn riefen. Als sie ihn mit Riemen gefesselt hatten, fragte Paulus den Centurio, der dabei stand: „Ist es dir erlaubt, einen Mann zu geißeln, der Römer ist und nicht schuldig befunden wurde?“
+
+Als der Centurio das hörte, ging er zum Hauptmann und sagte ihm: „Achte darauf, was du tust, denn dieser Mann ist ein Römer!“
+
+Der Hauptmann kam und fragte ihn: „Sag mir, bist du Römer?“
+
+Er sagte: „Ja.“
+
+Der Hauptmann antwortete: „Ich habe meine Bürgerschaft für einen hohen Preis gekauft.“
+
+Paulus sagte: „Aber ich bin Römer geboren.“
+
+Sofort ließen die, die ihn prüfen wollten, von ihm ab, und der Hauptmann fürchtete sich auch, als er erkannte, dass er ein Römer war, weil er ihn gefesselt hatte. Aber am nächsten Tag, da er die Wahrheit darüber wissen wollte, warum er von den Juden angeklagt wurde, ließ er ihn von den Fesseln befreien und befahl den Oberpriestern und dem ganzen Rat, zusammenzukommen, und brachte Paulus hinunter und stellte ihn vor sie.
+
+### Kapitel 23
+
+Paulus sah den Rat fest an und sagte: „Brüder, ich habe bis heute vor Gott in gutem Gewissen gelebt.“
+
+Der Hohepriester Ananias befahl denjenigen, die bei ihm standen, ihn auf den Mund zu schlagen.
+
+Da sagte Paulus zu ihm: „Gott wird dich schlagen, du weißgetünchter Wand! Sitzt du da, um mich nach dem Gesetz zu richten und befiehlst mir, gegen das Gesetz geschlagen zu werden?“
+
+Diejenigen, die bei ihm standen, sagten: „Verleumdung des Hohenpriesters?“ 
+
+Paulus sagte: „Ich wusste nicht, Brüder, dass er Hoherpriester ist. Denn es steht geschrieben: ‚Du sollst nicht böse reden von einem Obersten deines Volkes.‘“
+
+Als Paulus aber bemerkte, dass ein Teil Sadduzäer und der andere Pharisäer war, rief er im Rat: „Männer und Brüder, ich bin ein Pharisäer, ein Sohn von Pharisäern. Wegen der Hoffnung und Auferstehung der Toten werde ich gerichtet!“
+
+Als er dies gesagt hatte, entstand ein Streit zwischen den Pharisäern und Sadduzäern, und die Menge war gespalten. Denn die Sadduzäer sagen, dass es keine Auferstehung gibt, noch Engel noch Geist; die Pharisäer bekennen aber alles dies. Ein großer Lärm entstand, und einige der Schriftgelehrten der Pharisäer standen auf und stritten und sagten: „Wir finden kein Übel an diesem Mann. Wenn aber ein Geist oder Engel zu ihm gesprochen hat, lasst uns nicht gegen Gott kämpfen!“
+
+Als ein großer Streit entstand, befahl der Hauptmann aus Angst, dass Paulus von ihnen zerfetzt würde, den Soldaten hinunterzugehen und ihn mit Gewalt aus ihrer Mitte zu nehmen und in die Kaserne zu bringen.
+
+In der folgenden Nacht stand der Herr bei ihm und sagte: „Sei guten Mutes, Paulus; denn wie du über mich in Jerusalem Zeugnis abgelegt hast, so musst du auch in Rom Zeugnis ablegen.“
+
+Als es Tag wurde, banden sich einige von den Juden zusammen und legten sich einen Fluch auf und sagten, dass sie weder essen noch trinken würden, bis sie Paulus getötet hätten. Es waren mehr als vierzig Menschen, die diese Verschwörung gemacht hatten. Sie kamen zu den Oberpriestern und den Ältesten und sagten: „Wir haben uns unter einen großen Fluch gebunden, nichts zu kosten, bis wir Paulus getötet haben. So informiert ihr nun mit dem Rat den Hauptmann, dass er ihn morgen zu euch herabbringen soll, als ob ihr seinen Fall genauer richten wolltet. Wir sind bereit, ihn zu töten, bevor er sich nähert.“
+
+Aber der Sohn von Pauls Schwester hörte, dass sie auf ihn lauerten, und kam und trat in die Kaserne ein und erzählte es Paul. Paul rief einen der Hauptleute und sagte: „Bring diesen jungen Mann zu dem Kommandanten, denn er hat etwas ihm zu sagen.“
+
+So nahm er ihn und brachte ihn zu dem Kommandanten und sagte: „Paul, der Gefangene, hat mich gerufen und mich gebeten, diesen jungen Mann zu dir zu bringen. Er hat etwas dir zu sagen.“
+
+Der Kommandant nahm ihn bei der Hand und ging beiseite und fragte ihn privat: „Was hast du mir zu sagen?“
+
+Er sagte: „Die Juden haben sich darauf geeinigt, dich zu bitten, Paul morgen zum Rat herunterzubringen, als ob sie beabsichtigten, etwas genauer über ihn zu erfahren. Daher gib ihnen nicht nach, denn mehr als vierzig Männer lauern auf ihn, die sich unter einen Fluch gebunden haben, weder zu essen noch zu trinken, bis sie ihn getötet haben. Jetzt sind sie bereit und warten auf das Versprechen von dir.“
+
+Da ließ der Kommandant den jungen Mann gehen und wies ihn an: „Sag niemandem, dass du mir diese Dinge offenbart hast.“
+
+Er rief zwei der Hauptleute zu sich und sagte: „Bereitet zweihundert Soldaten vor, die bis nach Cäsarea gehen, mit siebzig Reitern und zweihundert mit Speeren bewaffnet, zur dritten Stunde der Nacht.“ Er bat sie, Pferde bereitzustellen, damit sie Paul auf eines setzen und ihn sicher zu Felix dem Statthalter bringen könnten. Er schrieb einen Brief wie folgt:
+
+„Claudius Lysias an den hochgeschätzten Statthalter Felix: Grüße.
+
+„Dieser Mann wurde von den Juden ergriffen und sollte von ihnen getötet werden, als ich mit den Soldaten kam und ihn rettete, nachdem ich erfahren hatte, dass er ein Römer ist. Da ich den Grund wissen wollte, warum sie ihn anklagten, brachte ich ihn zu ihrem Rat. Ich fand ihn wegen Fragen ihres Gesetzes angeklagt, aber nicht wegen etwas, das des Todes oder der Gefangenschaft würdig wäre. Als ich hörte, dass die Juden auf den Mann lauern, sandte ich ihn sofort zu dir und wies auch seine Ankläger an, ihre Anklagen gegen ihn vor dir vorzubringen. Lebe wohl.“
+
+So führten die Soldaten ihre Befehle aus, nahmen Paul und brachten ihn nachts nach Antipatris. Am nächsten Tag ließen sie die Reiter mit ihm gehen und kehrten zur Kaserne zurück. Als sie nach Cäsarea kamen und den Brief dem Statthalter übergaben, präsentierten sie auch Paul ihm. Als der Statthalter ihn gelesen hatte, fragte er, aus welcher Provinz er stamme. Als er verstand, dass er aus Kilikien war, sagte er: „Ich will dich vollständig hören, wenn auch deine Ankläger ankommen.“ Er befahl, dass er im Palast des Herodes festgehalten werden solle.
+
+### Kapitel 24
+
+Nach fünf Tagen kam der Hohepriester Ananias mit einigen Ältesten und einem Redner namens Tertullus herab. Sie informierten den Statthalter gegen Paul. Als er gerufen wurde, begann Tertullus ihn anzuklagen und sagte: „Da wir durch dich viel Frieden genießen und dass Wohlstand dieser Nation durch deine Voraussicht kommt, nehmen wir es in allen Dingen und an allen Orten, hochgeschätzter Felix, mit aller Dankbarkeit an. Aber damit ich dich nicht länger aufhalte, bitte ich dich, uns zuzuhören und ein paar Worte zu hören. Denn wir haben diesen Mann als eine Plage gefunden, als einen Aufwiegler von Aufständen unter allen Juden in der ganzen Welt und als einen Anführer der Sekte der Nazarener. Er hat sogar versucht, den Tempel zu entweihen, und wir haben ihn verhaftet. Durch eigene Untersuchung kannst du all diese Dinge feststellen, deren wir ihn anklagen.“
+
+Die Juden schlossen sich auch der Anklage an und bestätigten, dass diese Dinge so seien.
+
+Als der Statthalter ihm Zeichen gab zu sprechen, antwortete Paul: „Weil ich weiß, dass du seit vielen Jahren Richter über diese Nation bist, mache ich gerne meine Verteidigung, da du überprüfen kannst, dass es nicht mehr als zwölf Tage her ist, seit ich zum Gottesdienst nach Jerusalem gegangen bin. Im Tempel fanden sie mich nicht streitend mit jemandem oder eine Menge aufwühlend, weder in den Synagogen noch in der Stadt. Auch können sie dir nicht beweisen, was sie jetzt gegen mich anklagen. Aber dies gestehe ich dir: gemäß dem Weg, den sie eine Sekte nennen, diene ich dem Gott unserer Väter und glaube an alle Dinge, die nach dem Gesetz sind und die in den Propheten geschrieben stehen; in der Hoffnung auf Gott, die auch diese selbst erwarten, dass es eine Auferstehung der Toten geben wird, sowohl der Gerechten als auch der Ungerechten. In diesem übe ich auch immer aus, ein Gewissen ohne Anstoß gegenüber Gott und Menschen zu haben. Nun kam ich nach einigen Jahren, um Geschenke für die Bedürftigen meines Volkes und Opfer zu bringen; unter denen mich bestimmte Juden aus Asien im Tempel rein fanden, nicht mit einer Menge oder mit Tumult. Sie hätten hier vor dir sein sollen und Anklage erheben sollen, wenn sie etwas gegen mich hätten. Oder sollen diese Männer selbst sagen, welche Ungerechtigkeit sie in mir fanden, als ich vor dem Rat stand, es sei denn für dieses eine Ding, dass ich rief, während ich unter ihnen stand: ‚Über die Auferstehung der Toten werde ich heute vor euch gerichtet!‘“
+
+Aber Felix, der genauere Kenntnisse über den Weg hatte, verschob sie und sagte: „Wenn Lysias, der Hauptmann, herabkommt, werde ich euren Fall entscheiden.“ Er befahl dem Hauptmann, dass Paulus in Gewahrsam gehalten werden sollte und einige Privilegien haben sollte, und dass es seinen Freunden nicht verboten werden sollte, ihm zu dienen oder ihn zu besuchen.
+
+Nach einigen Tagen kam Felix mit Drusilla, seiner Frau, die Jüdin war, und ließ Paulus rufen und hörte ihn über den Glauben an Christus Jesus. Als er über Gerechtigkeit, Selbstbeherrschung und das kommende Gericht sprach, wurde Felix erschreckt und antwortete: „Geh für diesmal deinen Weg, und wenn es mir bequem ist, werde ich dich rufen.“ Inzwischen hoffte er auch, dass ihm Paulus Geld geben würde, damit er ihn freilassen könnte. Daher ließ er ihn auch öfter rufen und sprach mit ihm.
+
+Als aber zwei Jahre erfüllt waren, wurde Felix von Porcius Festus abgelöst, und um bei den Juden Gunst zu gewinnen, ließ Felix Paulus in Fesseln.
+
+### Kapitel 25
+
+Festus kam also in die Provinz und ging nach drei Tagen von Cäsarea nach Jerusalem. Da informierten ihn der Hohepriester und die führenden Männer der Juden gegen Paulus und baten ihn um eine Gefälligkeit gegen ihn, dass er ihn nach Jerusalem rufen würde, um ihn unterwegs zu töten. Festus antwortete jedoch, dass Paulus in Cäsarea in Gewahrsam gehalten werden sollte und dass er selbst bald abreisen würde. „Lasst sie daher“, sagte er, „die unter euch in Macht sind, mit mir hinabgehen, und wenn etwas Falsches an dem Mann ist, lasst sie ihn anklagen.“
+
+Als er mehr als zehn Tage bei ihnen verweilte, ging er nach Cäsarea hinab, und am nächsten Tag setzte er sich auf den Richterstuhl und befahl, Paulus hereinzubringen. Als er kam, standen die Juden, die von Jerusalem herabgekommen waren, um ihn herum und brachten viele und schwere Anklagen gegen ihn vor, die sie nicht beweisen konnten; während er in seiner Verteidigung sagte: „Ich habe weder gegen das Gesetz der Juden noch gegen den Tempel noch gegen Cäsar irgendetwas gesündigt.“
+
+Festus aber, der Gunst bei den Juden gewinnen wollte, antwortete Paulus und sagte: „Bist du bereit, nach Jerusalem hinaufzugehen und dort von mir über diese Dinge gerichtet zu werden?“
+
+Paulus aber sagte: „Ich stehe vor dem Richterstuhl Cäsars, wo ich gerichtet werden soll. Ich habe den Juden nichts Unrechtes getan, wie du auch sehr wohl weißt. Denn wenn ich Unrecht getan habe und etwas begangen habe, das des Todes wert ist, weigere ich mich nicht zu sterben; aber wenn nichts von dem wahr ist, wessen sie mich anklagen, kann mir niemand etwas übergeben. Ich appelliere an Cäsar!“
+
+Da Festus, nachdem er mit dem Rat beraten hatte, antwortete: „Du hast an Cäsar appelliert. Zu Cäsar wirst du gehen.“
+
+Als einige Tage vergangen waren, kamen König Agrippa und Bernice nach Cäsarea und begrüßten Festus. Während er dort viele Tage verweilte, legte Festus dem König den Fall Paulus vor und sagte: „Es gibt einen gewissen Mann, den Felix als Gefangenen zurückgelassen hat; über den haben mich die Hohenpriester und die Ältesten der Juden informiert, als ich in Jerusalem war, und um ein Urteil gegen ihn gebeten. Ich antwortete ihnen, dass es nicht die Gewohnheit der Römer ist, einen Mann zur Vernichtung zu übergeben, bevor der Beschuldigte seinen Anklägern von Angesicht zu Angesicht begegnet ist und Gelegenheit hatte, sich über die gegen ihn erhobenen Vorwürfe zu verteidigen. Als sie also hier zusammengekommen waren, zögerte ich nicht, sondern setzte mich am nächsten Tag auf den Richterstuhl und befahl, den Mann hereinzubringen. Als die Ankläger aufstanden, brachten sie keine Anklagen gegen ihn vor von solchen Dingen, wie ich angenommen hatte; sondern sie hatten bestimmte Fragen gegen ihn über ihre eigene Religion und über einen Jesus, der tot war, den Paulus lebendig bezeugte. Da ich verwirrt war, wie ich über diese Dinge verfahren sollte, fragte ich, ob er bereit sei, nach Jerusalem zu gehen und dort über diese Angelegenheiten gerichtet zu werden. Aber als Paulus appellierte, für die Entscheidung des Kaisers behalten zu werden, befahl ich ihm, bis ich ihn zu Cäsar senden könnte.
+
+Agrippa sagte zu Festus: „Ich möchte den Mann auch selbst hören.“
+
+„Morgen“, sagte er, „wirst du ihn hören.“
+
+So kam am nächsten Tag Agrippa und Bernice mit großem Pomp und traten in den Hörsaal ein mit den Hauptleuten und den führenden Männern der Stadt; auf Befehl von Festus wurde Paulus hereingebracht. Festus sagte: „König Agrippa und alle Männer, die hier gegenwärtig sind mit uns: Ihr seht diesen Mann, über den die ganze Menge der Juden mich sowohl in Jerusalem als auch hier umgebracht hat und schreit, dass er nicht länger leben dürfe. Aber als ich fand, dass er nichts begangen hatte, was des Todes wert wäre, und da er selbst an den Kaiser appellierte, beschloss ich, ihn zu senden; von dem ich nichts Bestimmtes an meinen Herrn zu schreiben habe. Daher habe ich ihn vor euch gebracht und besonders vor dich, König Agrippa, damit ich nach der Untersuchung etwas zu schreiben habe. Denn es erscheint mir unvernünftig, einen Gefangenen zu senden und nicht auch die Anklagen gegen ihn anzugeben.“
+
+### Kapitel 26
+
+Agrippa sagte zu Paulus: „Du darfst für dich selbst sprechen.“
+
+Da streckte Paulus seine Hand aus und machte seine Verteidigung. „Ich halte mich glücklich, König Agrippa, dass ich heute vor dir meine Verteidigung über all die Dinge ablegen darf, derer ich von den Juden beschuldigt werde, besonders weil du Experte in allen Bräuchen und Fragen bist, die unter den Juden bestehen. Daher bitte ich dich, mich geduldig anzuhören.
+
+„In der Tat wissen alle Juden von meinem Lebenswandel seit meiner Jugend, der von Anfang an unter meinem eigenen Volk und in Jerusalem war; sie haben mich von Anfang an gekannt, wenn sie bereit sind, Zeugnis abzulegen, dass ich nach der strengsten Sekte unserer Religion ein Pharisäer lebte. Nun stehe ich hier, um wegen der Hoffnung auf das Versprechen, das Gott unseren Vätern gegeben hat, gerichtet zu werden, auf das unsere zwölf Stämme, Tag und Nacht ernsthaft dienend, zu erreichen hoffen. Wegen dieser Hoffnung werde ich von den Juden angeklagt, König Agrippa! Warum erscheint es dir unglaublich, wenn Gott die Toten auferweckt?
+
+„Ich selbst dachte ganz sicher, dass ich viele Dinge gegen den Namen Jesu von Nazareth tun sollte. Auch tat ich dies in Jerusalem. Ich sperrte viele der Heiligen in Gefängnisse, nachdem ich Autorität von den Obersten Priestern erhalten hatte; und als sie getötet wurden, gab ich meine Stimme gegen sie. Sie oft in allen Synagogen zu bestrafen, versuchte ich, sie zum Blasphemieren zu bringen. Überaus wütend auf sie, verfolgte ich sie sogar bis in fremde Städte.
+
+„Als ich also mit der Autorität und dem Auftrag der Obersten Priester nach Damaskus reiste, sah ich zur Mittagszeit, o König, auf dem Weg ein Licht vom Himmel, heller als die Sonne, das um mich und die mit mir Reisenden leuchtete. Als wir alle zu Boden gefallen waren, hörte ich eine Stimme, die zu mir in hebräischer Sprache sprach: ‚Saul, Saul, warum verfolgst du mich? Es ist schwer für dich, gegen die Stacheln zu treten.‘
+
+„Ich sagte: ‚Wer bist du, Herr?‘
+
+„Er sagte: ‚Ich bin Jesus, den du verfolgst. Aber steh auf und stelle dich auf deine Füße; denn ich bin dir zu diesem Zweck erschienen: dich zu einem Diener und Zeugen sowohl für die Dinge zu ernennen, die du gesehen hast, als auch für die Dinge, die ich dir offenbaren werde; dich von dem Volk und von den Heiden zu befreien, zu denen ich dich sende, um ihre Augen zu öffnen, damit sie sich von der Dunkelheit zum Licht und von der Macht des Satans zu Gott wenden, damit sie Vergebung der Sünden und ein Erbe unter denen empfangen, die durch den Glauben an mich geheiligt sind.‘
+
+„Darum war ich, König Agrippa, der himmlischen Vision nicht ungehorsam, sondern erklärte zuerst denen in Damaskus, dann in Jerusalem und im ganzen Land Judäa und auch den Heiden, dass sie Buße tun und sich zu Gott wenden sollten und Werke tun sollten, die der Buße würdig sind. Aus diesem Grund haben mich die Juden im Tempel ergriffen und versucht, mich zu töten. Nachdem ich daher die Hilfe von Gott erhalten hatte, stehe ich bis zum heutigen Tag und bezeuge sowohl vor kleinen als auch vor großen Menschen und sage nichts anderes als das, was die Propheten und Mose gesagt haben würde geschehen: wie der Christus leiden muss und wie er durch die Auferstehung der Toten der Erste sein würde, der Licht sowohl diesem Volk als auch den Heiden verkündet.“
+
+Während er so seine Verteidigung machte, sagte Festus mit lauter Stimme: „Paulus, du bist verrückt! Dein großes Wissen macht dich wahnsinnig!“
+
+Aber er sagte: „Ich bin nicht verrückt, hochgeschätzter Festus, sondern erkläre kühn Worte der Wahrheit und Vernunft. Denn der König weiß von diesen Dingen, vor dem ich auch frei spreche. Denn ich bin überzeugt, dass keine dieser Dinge ihm verborgen ist; denn dies ist nicht heimlich geschehen. König Agrippa, glaubst du den Propheten? Ich weiß, dass du glaubst.“
+
+Agrippa sagte zu Paulus: „Mit ein wenig Überredung versuchst du mich zum Christen zu machen?“
+
+Paulus sagte: „Ich bete zu Gott, dass ob mit wenig oder mit viel nicht nur du, sondern auch alle, die mich heute hören, so werden wie ich bin, außer diesen Fesseln.“
+
+Der König stand auf mit dem Statthalter und Bernice und denen, die mit ihnen saßen. Als sie sich zurückgezogen hatten, sprachen sie miteinander und sagten: „Dieser Mann tut nichts Wertvolles für den Tod oder für Fesseln.“ Agrippa sagte zu Festus: „Dieser Mann hätte freigelassen werden können, wenn er nicht nach Cäsar appelliert hätte.“
+
+### Kapitel 27
+
+Als entschieden wurde, dass wir nach Italien segeln sollten, übergaben sie Paulus und einige andere Gefangene einem Zenturio namens Julius von der Augustanischen Kohorte. Wir gingen an Bord eines Schiffes aus Adramyttium, das gerade auf dem Weg zu Orten an der Küste von Asien war, und setzten die Segel, wobei Aristarchus, ein Makedonier aus Thessalonich, mit uns war. Am nächsten Tag machten wir in Sidon Halt. Julius behandelte Paulus freundlich und erlaubte ihm, zu seinen Freunden zu gehen und sich zu erfrischen. Von dort aus setzten wir die Segel und segelten unter dem Schutz von Zypern, da die Winde ungünstig waren. Als wir über das Meer segelten, das vor Cilicia und Pamphylia liegt, kamen wir nach Myra, einer Stadt in Lycia. Dort fand der Zenturio ein Schiff aus Alexandria, das nach Italien segelte, und brachte uns an Bord. Nachdem wir viele Tage langsam gesegelt waren und mit Mühe gegenüber von Knidus angekommen waren, erlaubte der Wind uns nicht weiter zu segeln, so dass wir unter dem Schutz von Kreta, gegenüber von Salmone, segelten. Mit Mühe entlang der Küste kamen wir an einen bestimmten Ort namens Fair Havens, nahe der Stadt Lasea.
+
+Als viel Zeit vergangen war und die Reise nun gefährlich wurde, weil das Fasten bereits vorbei war, ermahnte Paulus sie und sagte: „Herren, ich sehe, dass die Reise mit Verletzungen und großem Verlust verbunden sein wird, nicht nur für die Ladung und das Schiff, sondern auch für unser Leben.“ Aber der Zenturio hörte mehr auf den Kapitän und den Eigentümer des Schiffes als auf das, was Paulus gesagt hatte. Da der Hafen nicht geeignet war, um dort zu überwintern, rieten die meisten dazu, von dort aus zur See zu gehen, wenn sie auf irgendeine Weise nach Phoenix gelangen und dort überwintern könnten, was ein Hafen von Kreta ist und nach Südwesten und Nordwesten schaut.
+
+Als der Südwind sanft wehte und sie annahmen, ihr Ziel erreicht zu haben, hoben sie den Anker und segelten entlang von Kreta, nahe der Küste. Aber bald schlug ein stürmischer Wind von der Küste her nieder, der Euroclydon genannt wird. Als das Schiff erfasst wurde und dem Wind nicht standhalten konnte, gaben wir nach und wurden getrieben. Unter dem Schutz einer kleinen Insel namens Clauda konnten wir mit Mühe das Boot sichern. Nachdem sie es hochgehoben hatten, benutzten sie Seile, um das Schiff zu verstärken. Aus Angst, dass sie auf den Sandbänken von Syrtis auflaufen würden, ließen sie den Anker ins Meer hinunter und wurden so weiter getrieben. Während wir mit dem Sturm sehr kämpften, begannen sie am nächsten Tag, Dinge über Bord zu werfen. Am dritten Tag warfen sie mit eigenen Händen das Schiffszeug über Bord. Als weder Sonne noch Sterne viele Tage über uns schienen und kein kleiner Sturm auf uns drückte, war alle Hoffnung verloren, dass wir gerettet werden könnten.
+
+Nachdem sie lange ohne Nahrung gewesen waren, stand Paulus in ihrer Mitte auf und sagte: „Herren, ihr hättet auf mich hören sollen und nicht von Kreta aus segeln sollen und diesen Schaden und Verlust erleiden sollen. Jetzt ermahne ich euch, Mut zu fassen; denn es wird kein Verlust an Leben unter euch geben, sondern nur des Schiffes. Denn in dieser Nacht stand ein Engel bei mir, der dem Gott gehört, dessen ich bin und dem ich diene, und sprach: ‚Fürchte dich nicht, Paulus. Du musst vor Cäsar stehen. Siehe, Gott hat dir alle geschenkt, die mit dir segeln.‘ Darum, Herren, fasst Mut! Denn ich glaube Gott, dass es so sein wird, wie mir gesagt wurde. Aber wir müssen auf einer bestimmten Insel stranden.“
+
+Als die vierzehnte Nacht gekommen war und wir im Adriatischen Meer hin- und hergetrieben wurden, vermuteten die Seeleute gegen Mitternacht, dass sie sich einem Land näherten. Sie nahmen Messungen vor und fanden zwanzig Faden. Nach einer Weile nahmen sie erneut Messungen vor und fanden fünfzehn Faden. Aus Angst, dass wir auf felsigem Grund auflaufen würden, ließen sie vier Anker vom Heck hinunter und wünschten sich Tageslicht. Während die Seeleute versuchten, aus dem Schiff zu fliehen und das Boot ins Meer hinunterließen, in der Annahme, dass sie Anker vom Bug aus auslegen würden, sagte Paulus zu dem Zenturio und den Soldaten: „Wenn diese nicht im Schiff bleiben, könnt ihr nicht gerettet werden.“ Da schnitt die Soldaten die Seile des Bootes durch und ließen es los.
+
+Als der Tag anbrach, bat Paulus sie alle, etwas zu essen zu nehmen und sagte: „Heute ist der vierzehnte Tag, an dem ihr wartet und weiterhin fastet und nichts genommen habt. Daher bitte ich euch, etwas zu essen zu nehmen; denn dies ist zu eurem Wohl; denn kein Haar wird von euren Köpfen verloren gehen.“ Als er dies gesagt hatte und Brot nahm, dankte er Gott in Gegenwart aller; dann brach er es und begann zu essen. Dann fassten alle Mut und nahmen ebenfalls Nahrung zu sich. Insgesamt waren wir zweihundertsechsundsiebzig Seelen auf dem Schiff. Als sie genug gegessen hatten, erleichterten sie das Schiff, indem sie den Weizen ins Meer warfen. Als es Tag wurde, erkannten sie das Land nicht; aber sie bemerkten eine bestimmte Bucht mit einem Strand und beschlossen zu versuchen, das Schiff daraufzutreiben. Die Anker loslassend ließen sie sie im Meer zurück und banden gleichzeitig die Ruderleinen los. Das Vorsegel zum Wind hinaufziehend steuerten sie auf den Strand zu. Doch als sie an einen Ort kamen, wo zwei Meere zusammentrafen, liefen sie das Schiff auf Grund. Der Bug schlug auf und blieb unbeweglich stehen, aber das Heck begann durch die Gewalt der Wellen auseinanderzubrechen.
+
+Die Ratschläge der Soldaten waren, die Gefangenen zu töten, damit keiner von ihnen schwimmen und entkommen konnte. Aber der Hauptmann, der Paulus retten wollte, hielt sie von ihrem Vorhaben ab und befahl, dass diejenigen, die schwimmen konnten, sich zuerst über Bord werfen sollten, um zum Land zu gelangen; und die anderen sollten folgen, einige auf Planken und einige auf anderen Dingen vom Schiff. So kamen sie alle sicher ans Land.
+
+### Kapitel 28
+
+Als wir entkommen waren, erfuhren sie, dass die Insel Malta hieß. Die Einheimischen zeigten uns außergewöhnliche Freundlichkeit; denn sie entzündeten ein Feuer und empfingen uns alle wegen des aktuellen Regens und der Kälte. Als Paulus ein Bündel Holz gesammelt und es aufs Feuer gelegt hatte, kam eine Viper wegen der Hitze heraus und biss ihn in die Hand. Als die Einheimischen das Tier sahen, das von seiner Hand hing, sagten sie zueinander: „Dieser Mann ist zweifellos ein Mörder, den, obwohl er dem Meer entkommen ist, die Gerechtigkeit nicht leben lässt.“ Er schüttelte jedoch das Tier ins Feuer und wurde nicht verletzt. Sie erwarteten, dass er anschwellen oder plötzlich tot umfallen würde, aber als sie lange zusahen und nichts Schlimmes bei ihm geschah, änderten sie ihre Meinung und sagten, dass er ein Gott sei.
+
+In der Nähe dieses Ortes lagen Ländereien des obersten Mannes der Insel, namens Publius, der uns empfing und uns drei Tage lang höflich bewirtete. Der Vater von Publius lag krank mit Fieber und Dysenterie. Paulus ging zu ihm hinein, betete und legte ihm die Hände auf und heilte ihn. Als dies geschehen war, kamen auch die übrigen, die auf der Insel Krankheiten hatten, und wurden geheilt. Sie ehrten uns auch mit vielen Ehren; und als wir segelten, luden sie die Dinge, die wir benötigten, auf das Schiff.
+
+Nach drei Monaten setzten wir die Segel auf einem Schiff aus Alexandria, das auf der Insel überwintert hatte und dessen Bug „Die Zwillingsbrüder“ war. In Syrakus machten wir Halt und blieben dort drei Tage. Von dort umschifften wir und kamen nach Rhegium. Nach einem Tag erhob sich ein Südwind, und am zweiten Tag kamen wir nach Puteoli, wo wir Brüder fanden und gebeten wurden, sieben Tage bei ihnen zu bleiben. So kamen wir nach Rom. Von dort kamen die Brüder, als sie von uns hörten, uns bis zum Markt von Appius und zu den Drei Wirtshäusern entgegen. Als Paulus sie sah, dankte er Gott und fasste Mut. Als wir nach Rom eintraten, übergab der Hauptmann die Gefangenen dem Hauptmann der Wache, aber Paulus durfte allein bei dem Soldaten bleiben, der ihn bewachte.
+
+Nach drei Tagen rief Paulus die Führer der Juden zusammen. Als sie zusammengekommen waren, sagte er zu ihnen: „Ich, Brüder, obwohl ich nichts gegen das Volk oder die Bräuche unserer Väter getan habe, wurde dennoch als Gefangener von Jerusalem in die Hände der Römer ausgeliefert, die mich untersucht hatten und mich freilassen wollten, weil in mir kein Grund zum Tode war. Aber als die Juden dagegen sprachen, war ich gezwungen, Berufung bei Cäsar einzulegen, nicht weil ich etwas hätte, um mein Volk anzuklagen. Deshalb habe ich darum gebeten, euch zu sehen und mit euch zu sprechen. Denn wegen der Hoffnung Israels bin ich mit dieser Kette gebunden.“
+
+Sie sagten zu ihm: „Wir haben weder Briefe aus Judäa über dich erhalten noch ist einer der Brüder hierher gekommen und hat etwas Böses über dich berichtet oder gesprochen. Aber wir möchten von dir hören, was du denkst. Denn was diese Sekte betrifft, ist uns bekannt, dass sie überall bekämpft wird.“
+
+Als sie ihm einen Tag festlegten, kamen viele Menschen zu ihm in seine Unterkunft. Er erklärte ihnen und bezeugte das Reich Gottes und überzeugte sie hinsichtlich Jesus sowohl aus dem Gesetz des Mose als auch aus den Propheten von Morgen bis Abend. Einige glaubten den Worten, die gesprochen wurden, andere glaubten nicht. Als sie sich untereinander nicht einig waren, gingen sie weg, nachdem Paulus eine Botschaft gesprochen hatte: „Der Heilige Geist sprach recht durch den Propheten Jesaja zu unseren Vätern und sagte:
+
+‘Gehe zu diesem Volk und sage,
+
+im Hören werdet ihr hören,
+
+aber werdet in keiner Weise verstehen.
+
+Im Sehen werdet ihr sehen,
+
+
+aber auf keine Weise wahrnehmen werden.
+
+Denn das Herz dieses Volkes ist hart geworden.
+
+Ihre Ohren sind taub geworden.
+
+Ihre Augen haben sie geschlossen.
+
+Damit sie nicht mit ihren Augen sehen,
+
+mit ihren Ohren hören,
+
+mit ihrem Herzen verstehen
+
+und sich umkehren,
+
+damit ich sie heile.’
+
+„So sei euch denn bekannt, dass das Heil Gottes zu den Nationen gesandt ist, und sie werden hören.“
+
+Als er diese Worte gesagt hatte, gingen die Juden weg und hatten einen großen Streit untereinander.
+
+Paulus blieb zwei volle Jahre in seinem eigenen gemieteten Haus und empfing alle, die zu ihm kamen, predigte das Reich Gottes und lehrte die Dinge über den Herrn Jesus Christus mit aller Freimütigkeit, ohne Hindernis.
+
+## Römer
+
+Paulus' Brief an die Römer
+
+### Kapitel 1
+
+Paulus, ein Diener Jesu Christi, berufen zum Apostel, abgesondert für die Gute Nachricht Gottes, die er zuvor durch seine Propheten in den heiligen Schriften verheißen hat, über seinen Sohn, der nach dem Fleisch von dem Samen Davids geboren wurde, der mit Macht als Sohn Gottes erklärt wurde nach dem Geist der Heiligkeit, durch die Auferstehung von den Toten, Jesus Christus, unseren Herrn, durch den wir Gnade und Apostelamt empfangen haben zur Gehorsam des Glaubens unter allen Nationen um seines Namens willen; unter denen auch ihr berufen seid, zu Jesus Christus zu gehören; an alle, die in Rom sind, geliebte Gottes, berufene Heilige: Gnade sei mit euch und Frieden von Gott, unserem Vater, und dem Herrn Jesus Christus.
+
+Zuerst danke ich meinem Gott durch Jesus Christus für euch alle, dass euer Glaube in der ganzen Welt verkündet wird. Denn Gott ist mein Zeuge, dem ich in meinem Geist im Evangelium seines Sohnes diene, wie ich unaufhörlich euer gedenke in meinen Gebeten, indem ich bitte, ob ich vielleicht endlich durch den Willen Gottes zu euch kommen möge. Denn ich sehne mich danach, euch zu sehen, damit ich euch einige geistliche Gabe mitteilen kann, um euch zu stärken; das heißt, dass ich mit euch ermutigt werde in euch, jeder von uns durch den Glauben des anderen, sowohl euren als auch meinen.
+
+Nun möchte ich nicht, dass ihr, Brüder, unwissend seid, dass ich oft geplant habe, zu euch zu kommen (und bisher daran gehindert wurde), damit ich auch unter euch Frucht haben kann, ebenso wie unter den anderen Heiden. Ich bin sowohl den Griechen als auch den Fremden verpflichtet, sowohl den Weisen als auch den Unweisen. So viel wie in mir ist, bin ich begierig, auch euch, die ihr in Rom seid, das Evangelium zu predigen.
+
+Denn ich schäme mich des Evangeliums Christi nicht; denn es ist die Kraft Gottes zum Heil für jeden Glaubenden, für den Juden zuerst und auch für den Griechen. Denn darin wird die Gerechtigkeit Gottes offenbart von Glauben zu Glauben. Wie geschrieben steht: „Der Gerechte wird aus Glauben leben.“
+
+Denn der Zorn Gottes wird vom Himmel offenbart gegen alle Gottlosigkeit und Ungerechtigkeit der Menschen, die die Wahrheit in Ungerechtigkeit unterdrücken; denn das, was von Gott bekannt ist, ist ihnen offenbart; denn Gott hat es ihnen offenbart. Denn die unsichtbaren Dinge von ihm seit der Schöpfung der Welt sind klar zu erkennen, da sie durch die Dinge wahrgenommen werden, die gemacht sind, sogar seine ewige Kraft und Göttlichkeit, sodass sie ohne Entschuldigung sein können. Denn obwohl sie Gott kannten, haben sie ihn nicht als Gott verherrlicht und ihm nicht gedankt; sondern sie wurden vergeblich in ihren Überlegungen und ihr unverständliches Herz wurde verfinstert.
+
+Sich für weise haltend, wurden sie töricht und tauschten die Herrlichkeit des unvergänglichen Gottes gegen das Bild eines vergänglichen Menschen und von Vögeln und vierfüßigen Tieren und kriechenden Wesen. Darum gab sie Gott auch dahin in die Begierden ihrer Herzen zur Unreinheit, sodass ihre Körper untereinander entehrt wurden; die die Wahrheit Gottes gegen die Lüge eintauschten und das Geschöpf anstelle des Schöpfers anbeteten und ihm dienten, der ewig gelobt sei. Amen.
+
+Aus diesem Grund gab Gott sie schändlichen Leidenschaften preis. Denn ihre Frauen tauschten die natürliche Funktion gegen das ein, was gegen die Natur ist. Ebenso brannten auch die Männer in ihrer Lust zueinander; Männer taten das Unanständige mit Männern und empfingen in sich selbst den gebührenden Lohn ihrer Verirrung. Wie sie auch Gott nicht anerkennen wollten, gab Gott sie einem verwerflichen Sinn preis, um die Dinge zu tun, die nicht passen; erfüllt mit aller Ungerechtigkeit, Unzucht, Bosheit, Habgier, Böswilligkeit; voll Neid, Mord, Streit, Betrug, bösen Gewohnheiten; heimliche Verleumder, Nachredner, gottlos, überheblich, prahlerisch; Erfinder böser Dinge; ungehorsam gegen die Eltern; ohne Verstand; treulos; ohne natürliche Zuneigung; unversöhnlich; unbarmherzig; die das Gesetz Gottes kennen und wissen, dass diejenigen, die solche Dinge tun, des Todes würdig sind; nicht nur tun sie dasselbe, sondern sie billigen auch diejenigen, die es tun.
+
+### Kapitel 2
+
+Darum bist du, o Mensch, ohne Entschuldigung, wer du auch bist, der du richtest. Denn in dem, was du einen anderen richtest, verurteilst du dich selbst. Denn du, der du richtest, übst die gleichen Dinge aus. Wir wissen, dass das Urteil Gottes nach der Wahrheit gegen die ist, die solche Dinge tun. Denkst du, o Mensch, der du die richtest, die solche Dinge tun und selbst das Gleiche tust, dass du dem Urteil Gottes entkommen wirst? Oder verachtest du die Reichtümer seiner Güte, Nachsicht und Geduld, nicht wissend, dass die Güte Gottes dich zur Buße führt? Aber gemäß deiner Hartnäckigkeit und unbußfertigen Herzens sammelst du dir Zorn für den Tag des Zorns, der Offenbarung und des gerechten Urteils Gottes, der „jedem vergelten wird nach seinen Werken“: denjenigen, die durch Ausdauer im Guten nach Ehre, Ruhm und Unvergänglichkeit streben, ewiges Leben; aber denjenigen, die selbstsüchtig sind und der Wahrheit nicht gehorchen, sondern der Ungerechtigkeit gehorchen, wird Zorn, Empörung, Bedrängnis und Angst über jede Seele des Menschen kommen, die Böses tut, zuerst für den Juden und auch für den Griechen.
+
+Aber Ehre, Ruhm und Frieden kommen jedem Menschen zugute, der Gutes tut, zuerst für den Juden und auch für den Griechen. Denn bei Gott gibt es keine Parteilichkeit. Denn so viele ohne das Gesetz gesündigt haben, werden auch ohne das Gesetz umkommen. Und so viele unter dem Gesetz gesündigt haben, werden durch das Gesetz gerichtet werden. Denn nicht die Hörer des Gesetzes sind gerecht vor Gott, sondern die Täter des Gesetzes werden gerechtfertigt werden (denn wenn Heiden, die das Gesetz nicht haben, von Natur aus die Dinge des Gesetzes tun, so sind diese, obwohl sie das Gesetz nicht haben, ein Gesetz für sich selbst, indem sie das Werk des Gesetzes in ihren Herzen zeigen, ihr Gewissen mit ihnen zeugt und ihre Gedanken untereinander sie anklagen oder entschuldigen) an dem Tag, an dem Gott die Geheimnisse der Menschen richten wird, gemäß meinem Evangelium durch Jesus Christus.
+
+In der Tat trägst du den Namen eines Juden, ruhst im Gesetz, rühmst dich Gottes, kennst seinen Willen und billigst die Dinge, die ausgezeichnet sind, da du aus dem Gesetz unterrichtet bist und zuversichtlich bist, dass du selbst ein Führer der Blinden bist, ein Licht für die im Dunkeln, ein Zurechter der Toren, ein Lehrer der Unmündigen, da du im Gesetz die Form von Wissen und Wahrheit hast. Du also, der du einen anderen lehrst, lehrst du dich nicht selbst? Du, der du predigst, dass man nicht stehlen soll, stiehlst du? Du, der du sagst, dass man nicht ehebrechen soll, begehst du Ehebruch? Du, der du Götzen verabscheust, raubst du Tempel? Du, der du dich im Gesetz rühmst, dishonorierst du Gott durch Ungehorsam gegen das Gesetz? Denn „der Name Gottes wird wegen euch unter den Heiden gelästert“, wie geschrieben steht. Denn die Beschneidung nützt in der Tat etwas, wenn du ein Täter des Gesetzes bist; wenn du aber ein Übertreter des Gesetzes bist, ist deine Beschneidung zur Unbeschnittenheit geworden. Wenn also die Unbeschnittenen die Ordnungen des Gesetzes halten, wird dann ihre Unbeschnittenheit nicht als Beschneidung gerechnet werden? Werden nicht diejenigen, die physisch unbeschnitten sind und das Gesetz erfüllen, dich richten, der du mit dem Buchstaben und der Beschneidung ein Übertreter des Gesetzes bist? Denn nicht der ist ein Jude, der äußerlich ist; auch ist das nicht die Beschneidung, die äußerlich im Fleisch ist; sondern der ist ein Jude, der innerlich ist; und die Beschneidung ist die des Herzens im Geist, nicht im Buchstaben; dessen Lob ist nicht von Menschen, sondern von Gott.
+
+### Kapitel 3
+
+Was hat also der Jude für einen Vorteil? Oder was nützt die Beschneidung? Viel in jeder Hinsicht! Denn zuerst wurden ihnen die Offenbarungen Gottes anvertraut. Was wenn einige ohne Glauben waren? Wird ihr Mangel an Glauben die Treue Gottes ungültig machen? Möge es niemals geschehen! Ja, lass Gott wahrhaftig gefunden werden; aber jeder Mensch ein Lügner. Wie geschrieben steht:
+
+„Damit du in deinen Worten gerechtfertigt wirst,
+
+und magst gewinnen, wenn du ins Gericht kommst.“
+
+Wenn aber unsere Ungerechtigkeit die Gerechtigkeit Gottes lobt, was wollen wir sagen? Ist Gott ungerecht, der Zorn ausgießt? Ich rede wie Menschen reden. Möge es niemals geschehen! Denn wie wird Gott dann die Welt richten? Denn wenn die Wahrheit Gottes durch meine Lüge zu seiner Ehre überfließend war, warum werde ich dann auch weiterhin als Sünder gerichtet? Warum nicht (wie wir verleumderisch berichtet werden und wie einige bekräftigen, dass wir sagen), „Lasst uns Böses tun, damit Gutes kommen kann?“ Diejenigen, die so reden, sind zu Recht verurteilt.
+
+Was nun? Sind wir besser als sie? Nein, in keiner Weise. Denn wir haben sowohl Juden als auch Griechen zuvor gewarnt, dass sie alle unter Sünde stehen. Wie geschrieben steht:
+
+„Es gibt niemanden, der gerecht ist;
+
+nicht einmal einen.
+
+Es gibt niemanden, der versteht.
+
+Es gibt niemanden, der nach Gott fragt.
+
+Sie sind alle abgewichen.
+
+Sie sind zusammen unbrauchbar geworden.
+
+Es gibt niemanden, der Gutes tut,
+
+nicht einmal einen.“
+
+„Ihre Kehle ist ein offenes Grab.
+
+Mit ihren Zungen haben sie Betrug gebraucht.“
+
+„Der Gift von Nattern ist unter ihren Lippen.“
+
+„Ihr Mund ist voll Fluch und Bitterkeit.“
+
+„Ihre Füße sind schnell, Blut zu vergießen.
+
+Zerstörung und Elend sind auf ihren Wegen.
+
+Den Weg des Friedens haben sie nicht gekannt.“
+
+„Es gibt keine Furcht Gottes vor ihren Augen.“
+
+Nun wissen wir, dass alles, was das Gesetz sagt, zu denen spricht, die unter dem Gesetz sind, damit jeder Mund gestopft werde und die ganze Welt unter das Gericht Gottes gebracht werde. Denn durch die Werke des Gesetzes wird kein Fleisch in seinen Augen gerechtfertigt; denn durch das Gesetz kommt die Erkenntnis der Sünde.
+
+Aber jetzt ist unabhängig vom Gesetz die Gerechtigkeit Gottes offenbart worden, bezeugt durch das Gesetz und die Propheten; sogar die Gerechtigkeit Gottes durch den Glauben an Jesus Christus für alle und auf alle, die glauben. Denn es gibt keinen Unterschied; denn alle haben gesündigt und erreichen nicht die Herrlichkeit Gottes; und werden umsonst gerechtfertigt durch seine Gnade, durch die Erlösung, die in Christus Jesus ist, den Gott als Sühnopfer gesandt hat, durch den Glauben an sein Blut, zur Demonstration seiner Gerechtigkeit durch das Übergehen früherer Sünden in der Geduld Gottes; um seine Gerechtigkeit zu diesem gegenwärtigen Zeitpunkt zu demonstrieren, damit er selbst gerecht sei und der Gerechte, der den Glaubenden an Jesus rechtfertigt.
+
+Wo ist nun das Rühmen? Es ist ausgeschlossen. Durch welches Gesetz? Durch Werke? Nein, sondern durch ein Gesetz des Glaubens. Wir behaupten daher, dass der Mensch durch den Glauben gerechtfertigt wird, unabhängig von den Werken des Gesetzes. Oder ist Gott nur der Gott der Juden? Ist er nicht auch der Gott der Heiden? Ja, auch der Heiden, da es tatsächlich nur einen Gott gibt, der die Beschneideten durch den Glauben und die Unbeschnittenen durch den Glauben rechtfertigen wird.
+
+Heben wir dann das Gesetz durch den Glauben auf? Möge es niemals sein! Nein, wir bestätigen das Gesetz.
+
+### Kapitel 4
+
+Was wollen wir dann sagen, dass Abraham, unser Vorfahre, nach dem Fleisch gefunden hat? Denn wenn Abraham durch Werke gerechtfertigt wurde, hat er etwas zu rühmen, aber nicht vor Gott. Denn was sagt die Schrift? „Abraham glaubte Gott, und es wurde ihm zur Gerechtigkeit angerechnet.“ Nun wird dem, der arbeitet, der Lohn nicht als Gnade angerechnet, sondern als etwas Geschuldetes. Aber dem, der nicht arbeitet, sondern an den glaubt, der die Ungerechten rechtfertigt, wird sein Glaube zur Gerechtigkeit angerechnet. Ebenso spricht David auch Segen über den Menschen aus, dem Gott Gerechtigkeit ohne Werke anrechnet:
+
+„Selig sind die, deren Ungerechtigkeiten vergeben sind,
+
+deren Sünden bedeckt sind.
+
+Selig ist der Mann, dem der Herr die Sünde nicht anrechnen wird.“
+
+Wird dieser Segen dann nur über die Beschneideten ausgesprochen oder auch über die Unbeschnittenen? Denn wir sagen, dass der Glaube Abraham zur Gerechtigkeit angerechnet wurde. Wie wurde es dann angerechnet? Als er beschnitten war oder als er unbeschnitten war? Nicht als er beschnitten war, sondern als er unbeschnitten war. Er erhielt das Zeichen der Beschneidung, ein Siegel der Gerechtigkeit des Glaubens, den er hatte, während er unbeschnitten war, damit er der Vater aller werde, die glauben mögen, obwohl sie unbeschnitten sind, damit auch ihnen die Gerechtigkeit angerechnet werde. Er ist der Vater der Beschneidung für diejenigen, die nicht nur aus der Beschneidung sind, sondern auch in den Fußstapfen des Glaubens unseres Vaters Abraham wandeln, den er in Unbeschnittenheit hatte.
+
+Denn das Versprechen an Abraham und seine Nachkommen, dass er Erbe der Welt sein würde, war nicht durch das Gesetz, sondern durch die Gerechtigkeit des Glaubens. Denn wenn diejenigen, die aus dem Gesetz sind, Erben sind, ist der Glaube ungültig und das Versprechen hat keine Wirkung. Denn das Gesetz bringt Zorn hervor; denn wo kein Gesetz ist, da gibt es auch keinen Ungehorsam.
+
+Aus diesem Grund ist es aus Glauben, damit es nach Gnade sei, damit das Versprechen für alle Nachkommen sicher sei; nicht nur für die, die aus dem Gesetz sind, sondern auch für die, die aus dem Glauben Abrahams sind, der unser aller Vater ist. Wie geschrieben steht: „Ich habe dich zum Vater vieler Nationen gemacht.“ Dies geschah in Gegenwart dessen, an den er glaubte: Gott, der Leben den Toten gibt und die Dinge ruft, die nicht sind, als wären sie. Gegen Hoffnung glaubte Abraham in Hoffnung, um Vater vieler Nationen zu werden, gemäß dem, was gesagt worden war: „So wird dein Nachkomme sein.“ Ohne im Glauben schwach zu werden, betrachtete er seinen eigenen Körper nicht mehr, da er bereits abgelebt war (er war etwa hundert Jahre alt), und die Unfruchtbarkeit des Leibes Sarahs. Doch blickend auf das Versprechen Gottes wankte er nicht durch Unglauben, sondern wurde stark im Glauben und gab Gott Ehre und war voll überzeugt, dass das, was er versprochen hatte, er auch tun konnte. Deshalb wurde es ihm auch „zur Gerechtigkeit angerechnet.“ Nun wurde nicht geschrieben, dass es ihm allein angerechnet wurde, sondern auch uns; denen wird es angerechnet werden, die an den glauben, der Jesus unseren Herrn von den Toten auferweckt hat; der wegen unserer Übertretungen hingegeben wurde und wegen unserer Rechtfertigung auferweckt wurde.
+
+### Kapitel 5
+
+Da wir nun durch den Glauben gerechtfertigt sind, haben wir Frieden mit Gott durch unseren Herrn Jesus Christus; durch den wir auch Zugang zu dieser Gnade haben, in der wir stehen, und wir freuen uns in der Hoffnung auf die Herrlichkeit Gottes. Nicht nur das, sondern wir freuen uns auch in unseren Leiden, da wir wissen, dass Leiden Ausdauer hervorbringt; und Ausdauer, bewährten Charakter; und bewährter Charakter, Hoffnung; und Hoffnung enttäuscht uns nicht, weil die Liebe Gottes in unsere Herzen ausgegossen wurde durch den Heiligen Geist, der uns gegeben wurde.
+
+Denn während wir noch schwach waren, starb Christus zur rechten Zeit für die Ungerechten. Denn für einen Gerechten wird kaum jemand sterben. Vielleicht würde jemand für einen guten Menschen sogar zu sterben wagen. Aber Gott beweist seine Liebe zu uns darin, dass Christus für uns starb, während wir noch Sünder waren.
+
+Vielmehr, da wir nun durch sein Blut gerechtfertigt sind, werden wir durch ihn vor dem Zorn Gottes gerettet. Denn wenn wir, während wir Feinde waren, durch den Tod seines Sohnes mit Gott versöhnt wurden, umso mehr werden wir, da wir versöhnt sind, durch sein Leben gerettet werden.
+
+Nicht nur das, sondern wir freuen uns auch in Gott durch unseren Herrn Jesus Christus, durch den wir nun die Versöhnung empfangen haben. Daher, wie die Sünde durch einen Menschen in die Welt kam und der Tod durch die Sünde, so kam der Tod über alle Menschen, weil alle gesündigt haben. Denn bis zum Gesetz war die Sünde in der Welt; aber die Sünde wird nicht angerechnet, wenn kein Gesetz da ist. Dennoch herrschte der Tod von Adam bis Mose, auch über die, deren Sünden nicht wie Adams Ungehorsam waren, der ein Vorbild dessen ist, der kommen sollte.
+
+Aber das Geschenk ist nicht wie die Übertretung. Denn wenn durch die Übertretung des einen die vielen starben, so hat die Gnade Gottes und das Geschenk durch die Gnade des einen Menschen, Jesus Christus, umso mehr zu den vielen überflossen. Das Geschenk ist nicht wie durch den, der gesündigt hat; denn das Urteil kam durch einen zur Verdammnis, aber das freie Geschenk folgte vielen Übertretungen zur Rechtfertigung. Denn wenn durch die Übertretung des einen der Tod herrschte; umso mehr werden die, die den Überfluss der Gnade und das Geschenk der Gerechtigkeit empfangen, im Leben durch den einen, Jesus Christus, herrschen.
+
+So wurden also durch eine Übertretung alle Menschen verurteilt; ebenso wurden durch eine Tat der Gerechtigkeit alle Menschen zum Leben gerechtfertigt. Denn wie durch den Ungehorsam des einen viele Sünder wurden, so werden auch durch den Gehorsam des einen viele gerecht gemacht. Das Gesetz trat ein, damit die Übertretung überhandnehme; aber wo die Sünde überhandnahm, da nahm die Gnade noch viel mehr überhand, sodass wie die Sünde im Tod herrschte, so auch die Gnade durch Gerechtigkeit zum ewigen Leben durch Jesus Christus unseren Herrn herrschen kann.
+
+### Kapitel 6
+
+Was wollen wir nun sagen? Sollen wir in der Sünde bleiben, damit die Gnade überhandnehme? Das sei ferne! Wir, die wir der Sünde gestorben sind, wie könnten wir noch darin leben? Oder wisst ihr nicht, dass wir alle, die wir in Christus Jesus getauft wurden, in seinen Tod getauft wurden? Wir sind also mit ihm durch die Taufe in den Tod begraben worden, damit wir gleichwie Christus von den Toten auferweckt wurde durch die Herrlichkeit des Vaters, auch in Neuheit des Lebens wandeln.
+
+Denn wenn wir mit ihm vereint worden sind in der Gleichheit seines Todes, so werden wir auch in der Gleichheit seiner Auferstehung sein; da wir wissen, dass unser alter Mensch mit ihm gekreuzigt wurde, damit der Leib der Sünde abgetan werde und wir nicht mehr der Sünde dienen. Denn wer gestorben ist, ist von der Sünde frei geworden. Wenn wir aber mit Christus gestorben sind, glauben wir, dass wir auch mit ihm leben werden und wissen, dass Christus, von den Toten auferweckt, nicht mehr stirbt. Der Tod hat keine Herrschaft mehr über ihn! Denn den Tod, den er starb, starb er einmal für die Sünde; aber das Leben, das er lebt, lebt er für Gott. So haltet auch ihr euch für tot gegenüber der Sünde, aber lebendig für Gott in Christus Jesus unserem Herrn.
+
+Darum lasst die Sünde nicht in eurem sterblichen Leib herrschen, sodass ihr seinen Begierden gehorcht. Auch stellt eure Glieder nicht der Sünde zur Verfügung als Werkzeuge der Ungerechtigkeit; sondern stellt euch selbst Gott zur Verfügung als aus den Toten Lebende und eure Glieder als Werkzeuge der Gerechtigkeit für Gott. Denn die Sünde wird nicht über euch herrschen; denn ihr seid nicht unter dem Gesetz, sondern unter der Gnade.
+
+Was nun? Sollen wir sündigen, weil wir nicht unter dem Gesetz, sondern unter der Gnade sind? Das sei ferne! Wisst ihr nicht, dass ihr, wenn ihr euch als Diener präsentiert und jemandem gehorcht, die Diener dessen seid, dem ihr gehorcht, sei es der Sünde zum Tod oder der Gehorsamkeit zur Gerechtigkeit? Aber Gott sei Dank, dass ihr, obwohl ihr Sklaven der Sünde wart, von Herzen gehorsam geworden seid der Form der Lehre, der ihr übergeben wurdet. Befreit von der Sünde seid ihr Sklaven der Gerechtigkeit geworden.
+
+Ich spreche in menschlichen Begriffen wegen der Schwäche eures Fleisches; denn wie ihr eure Glieder als Diener der Unreinheit und der Gesetzlosigkeit präsentiert habt, so präsentiert jetzt eure Glieder als Diener der Gerechtigkeit zur Heiligung. Denn als ihr Sklaven der Sünde wart, wart ihr frei von der Gerechtigkeit. Welchen Frucht hattet ihr damals in den Dingen, über die ihr jetzt beschämt seid? Denn das Ende dieser Dinge ist der Tod. Aber jetzt, befreit von der Sünde und zu Dienern Gottes geworden, habt ihr eure Frucht zur Heiligung und das Ergebnis des ewigen Lebens. Denn der Lohn der Sünde ist der Tod, aber die Gabe Gottes ist das ewige Leben in Christus Jesus, unserem Herrn.
+
+### Kapitel 7
+
+Oder wisst ihr nicht, Brüder (denn ich rede zu Menschen, die das Gesetz kennen), dass das Gesetz über den Menschen herrscht, solange er lebt? Denn die Frau, die einen Mann hat, ist durch das Gesetz an den Mann gebunden, solange er lebt; wenn aber der Mann stirbt, ist sie vom Gesetz des Mannes entbunden. Wenn sie also, während der Mann lebt, einem anderen Mann angehört, wird sie als Ehebrecherin bezeichnet. Wenn aber der Mann stirbt, ist sie frei vom Gesetz, sodass sie keine Ehebrecherin ist, obwohl sie einem anderen Mann angehört. Daher seid auch ihr Brüder durch den Leib Christi dem Gesetz gestorben, damit ihr einem anderen angehört, dem, der von den Toten auferweckt wurde, damit wir Frucht für Gott bringen. Denn als wir im Fleisch waren, wirkten die sündhaften Leidenschaften, die durch das Gesetz waren, in unseren Gliedern, um Frucht zum Tod zu bringen. Aber jetzt sind wir vom Gesetz entbunden worden, nachdem wir dem entglitten sind, woran wir gebunden waren; sodass wir im Neuen des Geistes dienen und nicht im Alten des Buchstabens.
+
+Was sollen wir dann sagen? Ist das Gesetz Sünde? Das sei ferne! Ich hätte jedoch die Sünde nicht gekannt, wenn nicht das Gesetz gewesen wäre. Denn ich hätte nicht gewusst, was Begehren ist, wenn das Gesetz nicht gesagt hätte: „Du sollst nicht begehren.“ Aber die Sünde fand Gelegenheit durch das Gebot und brachte in mir alle Arten des Begehrens hervor. Denn außerhalb des Gesetzes ist die Sünde tot. Ich war einmal ohne das Gesetz lebendig, aber als das Gebot kam, lebte die Sünde auf und ich starb. Das Gebot, das zum Leben war, fand ich als zum Tod; denn die Sünde fand Gelegenheit durch das Gebot und täuschte mich und tötete mich durch dasselbe. Daher ist das Gesetz wirklich heilig und das Gebot heilig, gerecht und gut.
+
+Wurde also das Gute für mich zum Tod? Das sei ferne! Sondern die Sünde, damit sie als Sünde offenbar werde, brachte den Tod in mir hervor durch das Gute; damit die Sünde durch das Gebot überaus sündhaft werde. Denn wir wissen, dass das Gesetz geistlich ist; ich aber bin fleischlich, unter die Sünde verkauft. Denn ich verstehe nicht, was ich tue. Denn ich tue nicht das Gute, das ich will; sondern was ich hasse, das tue ich. Wenn ich aber das tue, was ich nicht will, gebe ich dem Gesetz recht, dass es gut ist. So bin ich es nun nicht mehr, der es tut, sondern die Sünde, die in mir wohnt. Denn ich weiß, dass in mir, das ist in meinem Fleisch, nichts Gutes wohnt. Denn das Wollen ist bei mir vorhanden; aber das Gute zu tun finde ich nicht. Denn das Gute, das ich will, tue ich nicht; sondern das Böse, das ich nicht will, das tue ich. Wenn ich aber das tue, was ich nicht will, so bin ich es nicht mehr, der es tut, sondern die Sünde, die in mir wohnt. So finde ich also das Gesetz: Während ich das Gute tun will, ist das Böse bei mir vorhanden. Denn ich habe Freude am Gesetz Gottes nach dem inneren Menschen; aber ich sehe ein anderes Gesetz in meinen Gliedern, das gegen das Gesetz meines Verstandes kämpft und mich in Gefangenschaft bringt unter das Gesetz der Sünde, das in meinen Gliedern ist. Was für ein elender Mensch bin ich! Wer wird mich erlösen von diesem Leib des Todes? Ich danke Gott durch Jesus Christus, unseren Herrn! So diene ich nun mit dem Verstand dem Gesetz Gottes; aber mit dem Fleisch dem Gesetz der Sünde.
+
+### Kapitel 8
+
+Es gibt also jetzt keine Verdammnis für die, die in Christus Jesus sind, die nicht nach dem Fleisch wandeln, sondern nach dem Geist. Denn das Gesetz des Geistes des Lebens in Christus Jesus hat mich frei gemacht von dem Gesetz der Sünde und des Todes. Denn was das Gesetz nicht tun konnte, weil es durch das Fleisch schwach war, das tat Gott, indem er seinen eigenen Sohn in der Gestalt des sündigen Fleisches und für die Sünde sandte; und er verurteilte die Sünde im Fleisch, damit die Forderung des Gesetzes in uns erfüllt werde, die nicht nach dem Fleisch wandeln, sondern nach dem Geist. Denn die, die nach dem Fleisch leben, stellen ihre Gedanken auf die Dinge des Fleisches; die aber, die nach dem Geist leben, auf die Dinge des Geistes. Denn das Trachten des Fleisches ist Tod, das Trachten des Geistes aber ist Leben und Frieden; weil das Trachten des Fleisches gegen Gott feindlich ist; denn es unterwirft sich dem Gesetz Gottes nicht, kann es auch nicht. Die im Fleisch sind, können Gott nicht gefallen.
+
+Ihr aber seid nicht im Fleisch, sondern im Geist, wenn wirklich der Geist Gottes in euch wohnt. Wenn aber jemand den Geist Christi nicht hat, der gehört ihm nicht. Wenn Christus in euch ist, so ist der Körper zwar tot wegen der Sünde, der Geist aber ist lebendig wegen der Gerechtigkeit. Wenn aber der Geist dessen, der Jesus von den Toten auferweckt hat, in euch wohnt, so wird der, der Christus Jesus von den Toten auferweckt hat, auch eure sterblichen Körper lebendig machen durch seinen Geist, der in euch wohnt.
+
+So sind wir denn, Brüder, Schuldner, nicht dem Fleisch, um nach dem Fleisch zu leben. Denn wenn ihr nach dem Fleisch lebt, müsst ihr sterben; wenn ihr aber durch den Geist die Taten des Körpers tötet, werdet ihr leben. Denn so viele durch den Geist Gottes geleitet werden, die sind Kinder Gottes. Denn ihr habt den Geist der Knechtschaft nicht empfangen, um wieder zu fürchten; sondern ihr habt den Geist der Sohnschaft empfangen, durch den wir rufen: „Abba! Vater!“
+
+Der Geist selbst bezeugt zusammen mit unserem Geist, dass wir Kinder Gottes sind; und wenn Kinder, dann Erben – Erben Gottes und Miterben mit Christus, wenn wir tatsächlich mit ihm leiden, damit wir auch mit ihm verherrlicht werden.
+
+Denn ich halte dafür, dass die Leiden der gegenwärtigen Zeit nicht wert sind, mit der Herrlichkeit verglichen zu werden, die an uns offenbart werden soll. Denn die Schöpfung wartet sehnsüchtig auf die Offenbarung der Kinder Gottes. Denn die Schöpfung wurde der Vergänglichkeit unterworfen, nicht aus eigenem Willen, sondern wegen dessen, der sie unterworfen hat, in der Hoffnung, dass auch die Schöpfung selbst von der Knechtschaft der Vergänglichkeit befreit werden wird zur Freiheit der Herrlichkeit der Kinder Gottes. Denn wir wissen, dass die ganze Schöpfung bis jetzt seufzt und in Wehen liegt. Und nicht nur sie, sondern auch wir selbst, die wir die Erstlinge des Geistes haben, seufzen in uns selbst und warten auf die Sohnschaft, die Erlösung unseres Leibes. Denn wir sind in Hoffnung gerettet worden; aber Hoffnung, die man sieht, ist keine Hoffnung. Denn wer hofft auf das, was er sieht? Wenn wir aber auf das hoffen, was wir nicht sehen, so warten wir darauf mit Geduld.
+
+Ebenso hilft auch der Geist unserer Schwachheit; denn wir wissen nicht, wie wir beten sollen, wie es sich gebührt. Aber der Geist selbst tritt für uns ein mit unaussprechlichem Seufzen. Der aber die Herzen erforscht, weiß, was der Sinn des Geistes ist; denn er tritt für die Heiligen ein gemäß Gott.
+
+Wir wissen aber, dass denen, die Gott lieben, alle Dinge zum Besten dienen; denen, die nach seinem Vorsatz berufen sind. Denn die er zuvor erkannt hat, die hat er auch zuvor bestimmt, dem Bild seines Sohnes gleichförmig zu sein, damit er der Erstgeborene sei unter vielen Brüdern. Die er aber zuvor bestimmt hat, die hat er auch berufen; und die er berufen hat, die hat er auch gerechtfertigt; und die er gerechtfertigt hat, die hat er auch verherrlicht.
+
+Was wollen wir nun zu diesen Dingen sagen? Ist Gott für uns, wer kann gegen uns sein? Der seinen eigenen Sohn nicht verschont hat, sondern ihn für uns alle hingegeben hat; wie sollte er uns mit ihm nicht auch alles schenken? Wer könnte eine Anklage gegen Gottes Auserwählte erheben? Gott ist es, der rechtfertigt. Wer ist es, der verurteilt? Christus ist es, der gestorben ist; ja vielmehr, der auferstanden ist von den Toten; der zur Rechten Gottes ist und auch für uns eintritt.
+
+Wer wird uns von der Liebe Christi trennen? Bedrängnis oder Angst oder Verfolgung oder Hunger oder Nacktheit oder Gefahr oder Schwert? Wie geschrieben steht:
+
+„Um deinetwillen werden wir den ganzen Tag getötet.
+
+Wir wurden wie Schafe zur Schlachtung gerechnet.“
+
+Nein, in all diesen Dingen sind wir mehr als Überwinder durch den, der uns geliebt hat. Denn ich bin überzeugt, dass weder Tod noch Leben, noch Engel, noch Gewalten, noch Dinge gegenwärtig, noch Dinge zukünftig, noch Mächte, noch Höhe, noch Tiefe, noch irgendeine andere Kreatur uns von der Liebe Gottes trennen kann, die in Christus Jesus, unserem Herrn, ist.
+
+### Kapitel 9
+
+Ich sage die Wahrheit in Christus. Ich lüge nicht, mein Gewissen bezeugt mit mir im Heiligen Geist, dass ich großen Kummer und unaufhörlichen Schmerz in meinem Herzen habe. Denn ich wünschte, ich selbst wäre verflucht von Christus für meine Brüder, meine Verwandten nach dem Fleisch, die Israeliten sind; deren ist die Adoption, die Herrlichkeit, die Bündnisse, die Gesetzgebung, der Dienst und die Verheißungen; deren sind die Väter, und aus denen ist Christus nach dem Fleisch, der über allem ist, Gott, ewig gelobt. Amen.
+
+Aber es ist nicht so, als ob das Wort Gottes ohne Wirkung wäre. Denn nicht alle, die aus Israel sind, sind Israel. Auch sind sie nicht alle Kinder, weil sie Abrahams Nachkommen sind. Sondern: „Dein Nachkomme wird als von Isaak gerechnet werden.“ Das heißt, nicht die Kinder des Fleisches sind Kinder Gottes, sondern die Kinder der Verheißung werden als Erben gerechnet. Denn das ist ein Wort der Verheißung: „Zur bestimmten Zeit werde ich kommen, und Sarah wird einen Sohn haben.“ Nicht nur so, sondern auch Rebekka empfing von einem, von unserem Vater Isaak. Denn da sie noch nicht geboren waren und nichts Gutes oder Schlechtes getan hatten, damit der Zweck Gottes gemäß der Wahl bestehen bleibe, nicht aus Werken, sondern von dem, der ruft, wurde zu ihr gesagt: „Der Ältere wird dem Jüngeren dienen.“ Wie geschrieben steht: „Jakob habe ich geliebt, aber Esau habe ich gehasst.“
+
+Was wollen wir nun sagen? Ist bei Gott Ungerechtigkeit? Möge es niemals sein! Denn er sagte zu Mose: „Ich will mich erbarmen über wen ich mich erbarme, und ich will Mitleid haben mit wem ich Mitleid habe.“ So liegt es also nicht an dem Woller oder an dem Läufer, sondern an Gott, der sich erbarmt. Denn die Schrift sagt zu Pharao: „Um dieses Ziel habe ich dich erweckt, damit ich in dir meine Macht zeigen und mein Name in der ganzen Erde verkündet werde.“ So hat er Erbarmen mit wem er will und verhärtet wen er will.
+
+Du wirst mir also sagen: „Warum findet er dann noch Schuld? Denn wer widersteht seinem Willen?“ Aber wahrhaftig, o Mensch, wer bist du, dass du Gott widersprichst? Wird das Gebilde zu dem, der es gebildet hat, sagen: „Warum hast du mich so gemacht?“ Oder hat der Töpfer nicht das Recht über den Ton, aus demselben Klumpen ein Gefäß zur Ehre und ein anderes zur Unehre zu machen? Was wenn Gott, um seinen Zorn zu zeigen und seine Macht bekannt zu machen, mit viel Geduld Gefäße des Zorns ertragen hat, die zur Zerstörung vorbereitet sind, und damit er die Reichtümer seiner Herrlichkeit an Gefäßen der Barmherzigkeit bekannt machen kann, die er zuvor zur Herrlichkeit bereitet hat – uns, die er auch berufen hat, nicht nur aus den Juden, sondern auch aus den Heiden? Wie er auch in Hosea sagt:
+
+„Ich werde sie ‚mein Volk‘ nennen, die nicht mein Volk waren;
+
+und sie ‚Geliebte‘, die nicht Geliebte war.“
+
+„Es wird geschehen an dem Ort, wo zu ihnen gesagt wurde: ‚Ihr seid nicht mein Volk‘,
+
+dort werden sie ‚Kinder des lebendigen Gottes‘ genannt werden.“
+
+Jesaja ruft über Israel:
+
+„Wenn die Zahl der Kinder Israels so zahlreich ist wie der Sand am Meer,
+
+so ist es der Überrest, der gerettet werden wird;
+
+denn er wird das Werk vollenden und es in Gerechtigkeit abkürzen,
+
+denn der Herr wird ein kurzes Werk auf Erden machen.“
+
+Wie Jesaja zuvor gesagt hat:
+
+„Wenn der Herr der Heerscharen uns keinen Samen gelassen hätte,
+
+so wären wir wie Sodom geworden
+
+und wären wie Gomorra gemacht worden.“
+
+Was wollen wir nun sagen? Dass die Heiden, die nicht nach Gerechtigkeit strebten, zur Gerechtigkeit gelangten, zur Gerechtigkeit, die aus dem Glauben ist; aber Israel strebte nach einem Gesetz der Gerechtigkeit und kam nicht zum Gesetz der Gerechtigkeit. Warum? Weil sie es nicht im Glauben suchten, sondern wie es scheint durch Werke des Gesetzes. Sie stießen an den Stolperstein, wie geschrieben steht:
+
+„Siehe, ich lege in Zion einen Stein des Anstoßes und einen Felsen der Beleidigung; und niemand, der an ihn glaubt, wird enttäuscht werden.“
+
+### Kapitel 10
+
+Brüder, mein Herzenswunsch und mein Gebet zu Gott ist für Israel, dass sie gerettet werden. Denn ich bezeuge von ihnen, dass sie Eifer für Gott haben, aber nicht nach Erkenntnis. Denn da sie die Gerechtigkeit Gottes nicht kannten und suchten, ihre eigene Gerechtigkeit zu etablieren, haben sie sich der Gerechtigkeit Gottes nicht unterworfen. Denn Christus ist das Ende des Gesetzes zur Gerechtigkeit für jeden, der glaubt.
+
+Denn Mose schreibt über die Gerechtigkeit des Gesetzes: „Der Mensch, der diese Dinge tut, wird durch sie leben.“ Aber die Gerechtigkeit, die aus dem Glauben kommt, sagt dies: „Sag nicht in deinem Herzen: ‚Wer wird in den Himmel hinaufsteigen?‘ (das heißt, um Christus herabzubringen); oder: ‚Wer wird in den Abgrund hinabsteigen?‘ (das heißt, um Christus aus den Toten heraufzubringen.)“ Aber was sagt sie? „Das Wort ist dir nahe, in deinem Mund und in deinem Herzen;“ das ist das Wort des Glaubens, das wir predigen: dass wenn du mit deinem Mund bekennst, dass Jesus der Herr ist und in deinem Herzen glaubst, dass Gott ihn von den Toten auferweckt hat, wirst du gerettet werden. Denn mit dem Herzen glaubt man zur Gerechtigkeit; und mit dem Mund wird das Bekenntnis zur Rettung gemacht. Denn die Schrift sagt: „Wer an ihn glaubt, wird nicht enttäuscht werden.“
+
+Denn es gibt keinen Unterschied zwischen Jude und Grieche; denn derselbe Herr ist Herr über alle und reich für alle, die ihn anrufen. Denn: „Wer den Namen des Herrn anruft, wird gerettet werden.“ Wie werden sie ihn aber anrufen, an den sie nicht geglaubt haben? Wie werden sie an ihn glauben, von dem sie nicht gehört haben? Wie werden sie hören ohne einen Prediger? Und wie werden sie predigen, wenn sie nicht gesandt werden? Wie geschrieben steht:
+
+„Wie schön sind die Füße derjenigen, die die gute Nachricht des Friedens verkündigen,
+
+die frohe Botschaft guter Dinge bringen!“
+
+Aber sie hörten nicht alle auf die frohe Botschaft. Denn Jesaja sagt: „Herr, wer hat unserem Bericht geglaubt?“ So kommt der Glaube aus dem Hören, und das Hören durch das Wort Gottes. Aber ich sage: Haben sie nicht gehört? Ja, gewiss,
+
+„Ihr Schall ist in die ganze Erde ausgegangen,
+
+ihre Worte bis ans Ende der Welt.“
+
+Aber ich frage: Hat Israel es nicht gewusst? Zuerst sagt Mose:
+
+„Ich werde euch mit dem reizen, was keine Nation ist.
+
+Ich werde euch zornig machen mit einer Nation ohne Verstand.“
+
+Jesaja ist sehr kühn und sagt:
+
+„Ich wurde von denen gefunden, die mich nicht suchten.
+
+Ich wurde denen offenbart, die nicht nach mir fragten.“
+
+Aber über Israel sagt er: „Den ganzen Tag habe ich meine Hände zu einem ungehorsamen und widerspenstigen Volk ausgestreckt.“
+
+### Kapitel 11
+
+Ich frage also: Hat Gott sein Volk verworfen? Möge es niemals sein! Denn ich bin auch ein Israelit, ein Nachkomme Abrahams, aus dem Stamm Benjamin. Gott hat sein Volk nicht verworfen, das er zuvor erkannt hat. Oder wisst ihr nicht, was die Schrift über Elia sagt? Wie er mit Gott gegen Israel fleht: „Herr, sie haben deine Propheten getötet. Sie haben deine Altäre niedergerissen. Ich bin allein übrig geblieben, und sie suchen mein Leben.“ Aber wie antwortet Gott ihm? „Ich habe mir sieben Tausend Männer übrig gelassen, die sich nicht vor Baal gebeugt haben.“ So gibt es auch in dieser gegenwärtigen Zeit einen Überrest gemäß der Wahl der Gnade. Und wenn es durch Gnade ist, dann ist es nicht mehr aus Werken; andernfalls wäre Gnade nicht mehr Gnade. Wenn es aber aus Werken ist, dann ist es nicht mehr Gnade; andernfalls wäre Werk nicht mehr Werk.
+
+Was nun? Das, was Israel sucht, hat es nicht erlangt; aber die Auserwählten haben es erlangt, und die übrigen sind verhärtet worden. Wie geschrieben steht: „Gott gab ihnen einen Geist der Betäubung, Augen, dass sie nicht sehen sollten, und Ohren, dass sie nicht hören sollten bis auf den heutigen Tag.“
+
+David sagt:
+
+„Lass ihren Tisch zur Falle werden, zur Schlinge,
+
+zum Anstoß und zur Vergeltung für sie.
+
+Lass ihre Augen erblindet sein, dass sie nicht sehen.
+
+Und immer halte ihre Rücken gebeugt.“
+
+Ich frage also: Sind sie gestolpert, damit sie fallen? Möge es niemals sein! Aber durch ihren Fall ist das Heil zu den Heiden gekommen, um sie eifersüchtig zu machen. Wenn nun ihr Fall der Reichtum der Welt ist und ihr Verlust der Reichtum der Heiden, wie viel mehr ihre Fülle!
+
+Denn ich spreche zu euch, die ihr Heiden seid. Da ich also ein Apostel der Heiden bin, verherrliche ich meinen Dienst, wenn ich auf irgendeine Weise diejenigen, die mein Fleisch sind, zur Eifersucht reizen und einige von ihnen retten kann. Denn wenn die Ablehnung von ihnen die Versöhnung der Welt ist, was wäre dann ihre Annahme anderes als Leben aus den Toten?
+
+Wenn die Erstlingsfrucht heilig ist, so ist auch der Teig heilig. Wenn die Wurzel heilig ist, so sind auch die Zweige heilig. Wenn aber einige der Zweige abgebrochen wurden und du, als ein wilder Ölbaum, unter ihnen eingepfropft wurdest und Teilhaber der Wurzel und der Fülle des Ölbaums geworden bist, so rühme dich nicht über die Zweige. Wenn du dich aber rühmst, bedenke, dass nicht du die Wurzel trägst, sondern die Wurzel trägt dich. Du wirst dann sagen: „Die Zweige wurden abgebrochen, damit ich eingepfropft werde.“ Richtig; durch ihren Unglauben wurden sie abgebrochen, und du stehst durch den Glauben. Sei nicht hochmütig, sondern fürchte dich; denn wenn Gott die natürlichen Zweige nicht verschont hat, wird er dich auch nicht verschonen. Sieh nun die Güte und Strenge Gottes: Strenge gegenüber denen, die gefallen sind; aber Güte gegenüber dir, wenn du in seiner Güte bleibst; andernfalls wirst auch du abgebrochen werden. Auch sie werden, wenn sie nicht in ihrem Unglauben bleiben, wieder eingepfropft werden; denn Gott kann sie wieder eingepfropft werden lassen. Denn wenn du aus dem, was von Natur ein wilder Ölbaum ist, herausgeschnitten wurdest und gegen die Natur in einen guten Ölbaum eingepflanzt wurdest, wie viel mehr werden diese, die die natürlichen Zweige sind, in ihren eigenen Ölbaum eingepflanzt werden?
+
+Denn ich möchte nicht, Brüder, dass ihr in diesem Geheimnis unwissend seid, damit ihr nicht weise seid in euren eigenen Augen: Ein teilweiser Härte ist Israel widerfahren, bis die Fülle der Heiden eingegangen ist; und so wird ganz Israel gerettet werden. Wie geschrieben steht:
+
+„Es wird der Erlöser aus Zion kommen,
+
+und er wird die Gottlosigkeit von Jakob abwenden.
+
+Das ist mein Bund mit ihnen,
+
+wenn ich ihre Sünden wegnehmen werde.“
+
+Was das Evangelium betrifft, sind sie euretwegen Feinde. Aber was die Wahl betrifft, sind sie geliebte um der Väter willen. Denn die Gaben und die Berufung Gottes sind unwiderruflich. Denn wie ihr früher Gott ungehorsam wart, aber jetzt durch ihren Ungehorsam Barmherzigkeit erlangt habt, so sind auch diese jetzt ungehorsam geworden, damit sie durch die euch erwiesene Barmherzigkeit auch Barmherzigkeit erlangen mögen. Denn Gott hat alle in den Ungehorsam eingeschlossen, damit er sich über alle erbarmt.
+
+Oh die Tiefe des Reichtums sowohl der Weisheit als auch der Erkenntnis Gottes! Wie unergründlich sind seine Urteile und wie unerforschlich seine Wege!
+
+„Denn wer hat den Sinn des Herrn erkannt?
+
+Oder wer ist sein Ratgeber gewesen?“
+
+„Oder wer hat ihm zuerst gegeben,
+
+und es wird ihm wieder vergolten werden?“
+
+Denn von ihm und durch ihn und zu ihm sind alle Dinge. Ihm sei die Ehre in Ewigkeit! Amen.
+
+### Kapitel 12
+
+Darum ermahne ich euch, Brüder, durch die Barmherzigkeiten Gottes, eure Leiber als lebendigen Opfer darzustellen, heilig und Gott wohlgefällig, was euren geistlichen Dienst ist. Passt euch nicht dieser Welt an, sondern lasst euch verwandeln durch die Erneuerung eures Sinnes, damit ihr prüfen könnt, was der gute und wohlgefällige und vollkommene Wille Gottes ist.
+
+Denn ich sage durch die Gnade, die mir gegeben wurde, jedem unter euch: Denkt nicht höher von euch selbst, als ihr denken sollt; sondern denkt bescheiden, wie Gott jedem einen Maßstab des Glaubens zugeteilt hat. Denn gleichwie wir viele Glieder an einem Körper haben und alle Glieder nicht dieselbe Funktion haben, so sind wir, die vielen, ein Leib in Christus und einzeln Glieder voneinander. Wir haben verschiedene Gaben gemäß der Gnade, die uns gegeben wurde: Wenn Prophezeiung ist, so lasst uns nach dem Maß unseres Glaubens prophezeien; oder Dienst, so lasst uns uns dem Dienst widmen; oder der lehrt, seiner Lehre; oder der ermahnt, seiner Ermahnung; wer gibt, der gebe mit Freigebigkeit; wer leitet, mit Eifer; wer Barmherzigkeit übt, mit Freude.
+
+Die Liebe sei ohne Heuchelei. Hasst das Böse. Haltet fest am Guten. In der Bruderliebe seid zärtlich zueinander; in Ehre einer dem anderen vorziehen; nicht nachlässig in der Eifrigkeit; im Geist brennend; dem Herrn dienend; froh in der Hoffnung; geduldig in der Bedrängnis; beharrlich im Gebet; den Bedürfnissen der Heiligen nachgebend; gastfreundlich.
+
+Segnet die, die euch verfolgen; segnet, und verflucht nicht. Freut euch mit den Fröhlichen. Weint mit den Weinenden. Seid einmütig untereinander. Setzt eure Gedanken nicht auf hohe Dinge, sondern haltet euch zu den Demütigen. Seid nicht weise in euren eigenen Augen. Vergeltet niemandem Böses mit Bösem. Achtet auf das, was in den Augen aller Menschen ehrenhaft ist. Wenn es möglich ist, so viel an euch liegt, lebt mit allen Menschen in Frieden. Sucht nicht selbst Rache, Geliebte, sondern gebt Raum dem Zorn Gottes. Denn es steht geschrieben: „Die Rache gehört mir; ich werde vergelten, spricht der Herr.“ Daher
+
+„Wenn dein Feind hungrig ist, speise ihn.
+Wenn er durstig ist, gib ihm zu trinken;
+denn indem du das tust, wirst du feurige Kohlen auf sein Haupt häufen.“
+
+Lass dich nicht vom Bösen überwinden, sondern überwinde das Böse mit Gutem.
+
+### Kapitel 13
+
+Jede Seele sei den höheren Gewalten untertan; denn es gibt keine Gewalt außer von Gott, und die bestehenden sind von Gott angeordnet. Wer sich daher der Gewalt widersetzt, widersteht der Anordnung Gottes; und die, die widerstehen, werden sich selbst das Urteil empfangen. Denn Herrscher sind nicht ein Schrecken für das gute Werk, sondern für das böse. Willst du dich vor der Gewalt nicht fürchten? Tu das Gute, und du wirst Lob von der Gewalt haben; denn sie ist ein Diener Gottes zu deinem Guten. Wenn du aber das Böse tust, fürchte dich; denn sie trägt das Schwert nicht umsonst; denn sie ist ein Diener Gottes, ein Rächer zum Zorn für den, der Böses tut. Daher musst du dich unterordnen, nicht nur wegen des Zorns, sondern auch aus Gewissensgründen. Aus diesem Grund zahlst du auch Steuern; denn sie sind Diener Gottes, die dies ständig tun. Gebe daher jedem, was du schuldig bist: Wenn du Steuern schuldest, zahle Steuern; wenn Zoll, dann Zoll; wenn Ehre, dann Ehre; wenn Respekt, dann Respekt.
+
+Schulde niemandem etwas, außer dass ihr einander liebt; denn wer seinen Nächsten liebt, hat das Gesetz erfüllt. Denn die Gebote: „Du sollst nicht ehebrechen“, „Du sollst nicht morden“, „Du sollst nicht stehlen“, „Du sollst nicht begehren“ und welche anderen Gebote es auch gibt, sind alle in diesem Wort zusammengefasst: „Du sollst deinen Nächsten lieben wie dich selbst.“ Die Liebe fügt dem Nächsten keinen Schaden zu. Die Liebe ist also die Erfüllung des Gesetzes.
+
+Tut dies, wissend die Zeit, dass es bereits Zeit ist, aus dem Schlaf aufzuwachen; denn das Heil ist jetzt näher zu uns als damals, als wir zum Glauben kamen. Die Nacht ist weit fortgeschritten, und der Tag ist nahe. Lasst uns daher die Werke der Dunkelheit ablegen und die Rüstung des Lichts anlegen. Lasst uns ordentlich wandeln, wie am Tag; nicht in Schwelgerei und Trunkenheit, nicht in sexueller Unmoral und lüsternen Taten und nicht in Streit und Eifersucht. Zieht aber den Herrn Jesus Christus an und sorgt nicht für den Leib, um seine Begierden zu stillen.
+
+### Kapitel 14
+
+Nehmt den Schwachen im Glauben an, aber nicht zur Streiterei über Meinungen. Der eine hat Glauben, alles zu essen; der Schwache isst nur Gemüse. Lass den, der isst, den nicht essenden nicht verachten. Lass den, der nicht isst, den essenden nicht richten; denn Gott hat ihn angenommen. Wer bist du, dass du den Diener eines anderen richtest? Er steht oder fällt vor seinem eigenen Herrn. Ja, er wird aufgerichtet werden; denn Gott hat die Macht, ihn aufzustellen.
+
+Der eine hält einen Tag für wichtiger als den anderen; der andere hält jeden Tag gleich. Jeder sei in seinem eigenen Sinn voll überzeugt. Wer den Tag beobachtet, beobachtet ihn für den Herrn; und wer den Tag nicht beobachtet, beobachtet ihn nicht für den Herrn. Wer isst, isst für den Herrn; denn er dankt Gott. Und wer nicht isst, isst nicht für den Herrn und dankt Gott. Denn keiner von uns lebt sich selbst und keiner stirbt sich selbst. Denn wenn wir leben, leben wir für den Herrn; oder wenn wir sterben, sterben wir für den Herrn. Wenn wir also leben oder sterben, sind wir des Herrn. Denn dazu ist Christus gestorben und auferstanden und wieder lebendig geworden, damit er Herr sowohl der Toten als auch der Lebenden sei.
+
+Aber du, warum richtest du deinen Bruder? Oder du wieder, warum verachtest du deinen Bruder? Denn wir werden alle vor dem Richterstuhl Christi stehen. Denn es steht geschrieben:
+
+„‘So wahr ich lebe’, spricht der Herr, ‘vor mir wird jedes Knie sich beugen.’
+
+„Jede Zunge wird Gott bekennen.“ 
+
+So wird jeder von uns Rechenschaft über sich selbst vor Gott ablegen. 
+
+Darum lasst uns einander nicht mehr richten, sondern richtet vielmehr dies, dass niemand seinem Bruder einen Anstoß oder einen Anlass zum Fallen gibt. Ich weiß und bin im Herrn Jesus überzeugt, dass nichts von sich aus unrein ist; es sei denn, für den, der etwas für unrein hält, ist es unrein. Wenn aber dein Bruder wegen des Essens betrübt ist, wandelst du nicht mehr in der Liebe. Zerstöre nicht durch dein Essen den, für den Christus gestorben ist. Lass nicht zu, dass dein Gutes verleumdet wird; denn das Reich Gottes besteht nicht in Essen und Trinken, sondern in Gerechtigkeit, Frieden und Freude im Heiligen Geist. Denn wer in diesen Dingen Christus dient, ist Gott wohlgefällig und bei den Menschen anerkannt. So lasst uns nach dem streben, was zum Frieden dient und was zum Aufbau des anderen beiträgt. Überwerfe Gottes Werk nicht um des Essens willen. Alle Dinge sind zwar rein, doch es ist böse für den Menschen, der durch Essen einen Anstoß gibt. Es ist gut, kein Fleisch zu essen, keinen Wein zu trinken und nichts zu tun, wodurch dein Bruder strauchelt, beleidigt oder schwach wird.
+
+Hast du Glauben? Habe ihn für dich selbst vor Gott. Glückselig ist der, der sich in dem, was er billigt, nicht verurteilt. Wer aber zweifelt, wird verurteilt, wenn er isst, weil es nicht aus Glauben ist; und alles, was nicht aus Glauben ist, ist Sünde.
+
+Nun dem, der euch nach meinem Evangelium und der Predigt von Jesus Christus gemäß der Offenbarung des Geheimnisses, das durch lange Zeiten verborgen war, aber jetzt offenbart ist und durch die Schriften der Propheten gemäß dem Befehl des ewigen Gottes zur Gehorsam des Glaubens allen Nationen bekannt gemacht wird; dem einzigen weisen Gott, durch Jesus Christus, sei die Ehre in Ewigkeit! Amen.
+
+### Kapitel 15
+
+Wir, die Starken, sind verpflichtet, die Schwächen der Schwachen zu tragen und uns nicht selbst zu gefallen. Jeder von uns soll seinem Nächsten gefallen zum Guten, um ihn aufzubauen. Denn auch Christus hat sich nicht selbst gefallen. Aber wie geschrieben steht: „Die Schmähungen derer, die dich schmähen, sind auf mich gefallen.“ Denn alles, was zuvor geschrieben wurde, wurde zu unserem Lernen geschrieben, damit wir durch Geduld und den Trost der Schriften Hoffnung haben. Der Gott der Geduld und des Trostes gebe euch, dass ihr untereinander einmütig seid nach Christus Jesus, damit ihr einstimmig mit einem Mund den Gott und Vater unseres Herrn Jesus Christus verherrlicht.
+
+Darum nehmt einander an, wie auch Christus euch angenommen hat, zur Ehre Gottes. Ich sage aber, dass Christus ein Diener der Beschneidung geworden ist für die Wahrheit Gottes, um die Verheißungen zu bestätigen, die den Vätern gegeben wurden, und damit die Heiden Gott für seine Barmherzigkeit verherrlichen. Wie geschrieben steht:
+
+„Darum will ich dich unter den Heiden loben
+
+und deinem Namen singen.“
+
+Und wieder sagt er:
+
+„Freut euch, ihr Heiden, mit seinem Volk.“
+
+Und wieder:
+
+„Lobt den Herrn, alle Heiden!
+
+Alle Völker sollen ihn loben.“
+
+Und wieder sagt Jesaja:
+
+„Es wird der Wurzel Isais sein,
+
+der aufsteht, um über die Heiden zu herrschen;
+
+auf ihn werden die Heiden hoffen.“
+
+Möge nun der Gott der Hoffnung euch mit aller Freude und Frieden im Glauben erfüllen, damit ihr im Glauben überströmt in der Kraft des Heiligen Geistes.
+
+Ich selbst bin auch überzeugt von euch, meine Brüder, dass ihr selbst voll Güte seid, erfüllt mit aller Erkenntnis und auch fähig seid, einander zu ermahnen. Aber ich schreibe euch umso freimütiger zum Teil als Erinnerung an euch wegen der Gnade, die mir von Gott gegeben wurde, dass ich ein Diener Christi Jesu für die Heiden sein sollte und als Priester des Evangeliums Gottes diene, damit das Opfer der Heiden wohlgefällig gemacht werde, geheiligt im Heiligen Geist. Ich habe also mein Ruhm in Christus Jesus in den Dingen Gottes. Denn ich werde es nicht wagen, von irgendetwas zu reden außer von dem, was Christus durch mich für den Gehorsam der Heiden gewirkt hat, durch Wort und Werk, in der Kraft von Zeichen und Wundern, in der Kraft des Geistes Gottes; sodass ich von Jerusalem und ringsum bis Illyrien das Evangelium Christi voll verkündigt habe; ja, ich habe mir vorgenommen, das Evangelium zu verkündigen, nicht wo Christus schon genannt wurde, damit ich nicht auf einem anderen Fundament baue. Aber wie geschrieben steht:
+
+„Sie werden sehen, wem keine Nachricht von ihm kam.
+
+Die, die nicht gehört haben, werden verstehen.“
+
+Darum wurde ich auch viele Male daran gehindert, zu euch zu kommen, aber jetzt, da ich keinen Platz mehr in diesen Regionen habe und seit vielen Jahren den Wunsch habe, zu euch zu kommen, werde ich euch besuchen, wann immer ich nach Spanien reise. Denn ich hoffe, euch auf meiner Reise zu sehen und auf meinem Weg dorthin von euch unterstützt zu werden, wenn ich zuerst eine Weile eure Gesellschaft genießen kann. Aber jetzt sage ich, ich gehe nach Jerusalem, um den Heiligen zu dienen. Denn es war das Wohlgefallen von Makedonien und Achaia, einen bestimmten Beitrag für die Armen unter den Heiligen in Jerusalem zu leisten. Ja, es war ihr Wohlgefallen, und sie sind ihre Schuldner. Denn wenn die Heiden an ihren geistlichen Dingen Anteil haben, sind sie auch verpflichtet, ihnen in materiellen Dingen zu dienen. Wenn ich also dies vollbracht habe und ihnen diese Frucht überbracht habe, werde ich auf dem Weg über euch nach Spanien reisen. Ich weiß, dass ich, wenn ich zu euch komme, in der Fülle des Segens der Botschaft Christi kommen werde.
+
+Jetzt bitte ich euch, Brüder, bei unserem Herrn Jesus Christus und bei der Liebe des Geistes, dass ihr mit mir in euren Gebeten zu Gott für mich kämpft, damit ich von den Ungehorsamen in Judäa befreit werde und mein Dienst, den ich für Jerusalem habe, den Heiligen angenehm ist, damit ich durch den Willen Gottes mit Freude zu euch kommen und zusammen mit euch Ruhe finden kann. Der Gott des Friedens sei mit euch allen. Amen.
+
+### Kapitel 16
+
+Ich empfehle euch Phoebe, unsere Schwester, die Dienerin der Versammlung in Cenchreae, dass ihr sie im Herrn auf eine Weise empfängt, die den Heiligen würdig ist, und dass ihr ihr in allem beisteht, was sie von euch benötigen könnte; denn sie selbst hat vielen geholfen und mir selbst.
+
+Grüßt Prisca und Aquila, meine Mitarbeiter in Christus Jesus, die ihr eigenes Leben für mein Leben riskiert haben; ihnen danke ich nicht nur, sondern auch alle Versammlungen der Heiden. Grüßt die Versammlung, die in ihrem Haus ist. Grüßt Epaenetus, meinen Geliebten, der die Erstlinge von Achaia für Christus ist. Grüßt Maria, die viel für uns gearbeitet hat. Grüßt Andronicus und Junia, meine Verwandten und Mitgefangenen, die unter den Aposteln bemerkenswert sind und die auch vor mir in Christus waren. Grüßt Amplias, meinen Geliebten im Herrn. Grüßt Urbanus, unseren Mitarbeiter in Christus, und Stachys, meinen Geliebten. Grüßt Apelles, den Bewährten in Christus. Grüßt die aus dem Haus Aristobulus. Grüßt Herodion, meinen Verwandten. Grüßt die aus dem Haus Narcissus, die im Herrn sind. Grüßt Tryphaena und Tryphosa, die im Herrn arbeiten. Grüßt Persis, die Geliebte, die viel im Herrn gearbeitet hat. Grüßt Rufus, den Auserwählten im Herrn, und seine Mutter und meine. Grüßt Asynkritus, Phlegon, Hermes, Patrobas, Hermas und die Brüder, die bei ihnen sind. Grüßt Philologus und Julia, Nereus und seine Schwester sowie Olympas und alle Heiligen, die bei ihnen sind. Grüßt einander mit einem heiligen Kuss. Die Versammlungen Christi grüßen euch.
+
+Jetzt bitte ich euch, Brüder, achtet auf diejenigen, die Spaltungen und Anstöße verursachen entgegen der Lehre, die ihr gelernt habt, und wendet euch von ihnen ab. Denn solche dienen nicht unserem Herrn Jesus Christus, sondern ihrem eigenen Bauch; und durch ihre glatten und schmeichelnden Worte verführen sie die Herzen der Unschuldigen. Denn eure Gehorsamkeit ist allen bekannt geworden. Deshalb freue ich mich über euch. Aber ich wünsche mir, dass ihr weise seid in dem Guten und unschuldig in dem Bösen. Und der Gott des Friedens wird bald den Satan unter euren Füßen zertrampeln.
+
+Die Gnade unseres Herrn Jesus Christus sei mit euch.
+
+Timotheus, mein Mitarbeiter, grüßt euch ebenso wie Lucius, Jason und Sosipater, meine Verwandten. Ich, Tertius, der den Brief schreibe, grüße euch im Herrn. Gaius, mein Gastgeber und Gastgeber der ganzen Versammlung, grüßt euch. Erastus, der Stadtkämmerer, grüßt euch ebenso wie Quartus, den Bruder. Die Gnade unseres Herrn Jesus Christus sei mit euch allen! Amen.
+
+## 1 Korinther
+
+Pauls erster Brief an die Korinther
+
+### Kapitel 1
+
+Paul, berufen zum Apostel Jesu Christi durch den Willen Gottes, und unser Bruder Sosthenes, an die Versammlung Gottes, die in Korinth ist – die Heiligen, die in Christus Jesus geheiligt sind, mit allen, die an jedem Ort den Namen unseres Herrn Jesus Christus anrufen, sowohl ihren als auch unseren: Gnade sei mit euch und Frieden von Gott, unserem Vater, und dem Herrn Jesus Christus.
+
+Ich danke meinem Gott allezeit für euch wegen der Gnade Gottes, die euch in Christus Jesus gegeben wurde, dass ihr in allem in ihm bereichert wurdet, in aller Rede und aller Erkenntnis – wie das Zeugnis Christi in euch bestätigt wurde – sodass ihr in keiner Gabe Mangel habt, während ihr die Offenbarung unseres Herrn Jesus Christus erwartet, der euch auch bis zum Ende bestätigen wird, untadelig am Tag unseres Herrn Jesus Christus. Gott ist treu, durch den ihr berufen worden seid zur Gemeinschaft seines Sohnes, Jesus Christus, unseres Herrn.
+
+Nun bitte ich euch, Brüder, durch den Namen unseres Herrn Jesus Christus, dass ihr alle dasselbe sagt und dass es unter euch keine Spaltungen gibt, sondern dass ihr vollkommen zusammengefügt seid in demselben Sinn und in demselben Urteil. Denn es ist mir von euch berichtet worden, meine Brüder, durch die von Chloë, dass Streitigkeiten unter euch sind. Ich meine aber dies, dass jeder von euch sagt: „Ich gehöre zu Paulus“, „Ich gehöre zu Apollos“, „Ich gehöre zu Kephas“, und: „Ich gehöre zu Christus.“ Ist Christus gespalten? Wurde Paulus für euch gekreuzigt? Oder wurdet ihr in den Namen Paulus getauft? Ich danke Gott, dass ich keinen von euch getauft habe außer Crispus und Gaius, damit niemand sagen kann, ich hätte euch in meinen eigenen Namen getauft. (Ich taufte auch das Haus des Stephanas; darüber hinaus weiß ich nicht, ob ich noch einen anderen getauft habe.) Denn Christus hat mich nicht gesandt zu taufen, sondern das Evangelium zu predigen – nicht in Weisheit der Worte, damit das Kreuz Christi nicht leer gemacht werde. Denn das Wort vom Kreuz ist Torheit für die, die verloren gehen; aber für uns, die gerettet werden, ist es die Kraft Gottes. Denn es steht geschrieben:
+
+„Ich will die Weisheit der Weisen zunichte machen.
+
+Ich will den Verstand der Verständigen zu Nichte machen.“
+
+Wo ist der Weise? Wo ist der Schriftgelehrte? Wo ist der Streiter dieses Zeitalters? Hat Gott nicht die Weisheit dieser Welt zur Torheit gemacht? Denn da die Welt durch ihre Weisheit Gott nicht erkannte, gefiel es Gott, durch die Torheit der Predigt die zu retten, die glauben. Denn Juden fordern Zeichen, Griechen suchen Weisheit; wir aber predigen Christus als gekreuzigt, den Juden ein Ärgernis und den Griechen eine Torheit; aber für die Berufenen, sowohl Juden als auch Griechen, ist Christus die Kraft Gottes und die Weisheit Gottes; denn die Torheit Gottes ist weiser als die Menschen und die Schwachheit Gottes ist stärker als die Menschen.
+
+Denn seht eure Berufung, Brüder, dass nicht viele weise sind nach dem Fleisch, nicht viele mächtig und nicht viele edel; sondern Gott hat die törichten Dinge der Welt erwählt, um die Weisen zu beschämen. Gott hat die schwachen Dinge der Welt erwählt, um die starken Dinge zu beschämen. Gott hat die niedrigen Dinge der Welt und die verachteten Dinge und die Dinge, die nicht sind, erwählt, um die Dinge, die sind, zu nichts zu machen, damit sich kein Fleisch vor Gott rühme. Durch ihn seid ihr in Christus Jesus, der uns zur Weisheit von Gott gemacht wurde und zur Gerechtigkeit und Heiligung und Erlösung, damit, wie geschrieben steht: „Wer sich rühmt, der rühme sich im Herrn.“
+
+### Kapitel 2
+
+Als ich zu euch kam, Brüder, kam ich nicht mit überlegener Rede oder Weisheit und verkündigte euch das Zeugnis Gottes. Denn ich hatte beschlossen, unter euch nichts zu wissen außer Jesus Christus und ihn als gekreuzigt. Ich war bei euch in Schwachheit und Furcht und in viel Zittern. Und meine Rede und meine Predigt geschahen nicht in überzeugenden Worten menschlicher Weisheit, sondern in Demonstration des Geistes und der Kraft, damit euer Glaube nicht auf Menschenweisheit stehe, sondern auf der Kraft Gottes.
+
+Wir reden jedoch Weisheit unter den Vollkommenen; doch eine Weisheit nicht dieser Welt noch der Herrscher dieser Welt, die zu Nichte werden. Sondern wir reden Gottes Weisheit in einem Geheimnis, die verborgene Weisheit, die Gott vor den Zeitaltern zu unserer Herrlichkeit vorherbestimmt hat; welche keiner der Herrscher dieser Welt gekannt hat; denn hätten sie sie erkannt, so hätten sie den Herrn der Herrlichkeit nicht gekreuzigt. Aber wie geschrieben steht:
+
+„Was das Auge nicht gesehen und das Ohr nicht gehört hat, was nicht ins Herz des Menschen eingegangen ist, das hat Gott denen bereitet, die ihn lieben.“ 
+
+Uns aber hat Gott es durch den Geist offenbart. Denn der Geist erforscht alle Dinge, ja, die tiefen Dinge Gottes. Denn wer unter den Menschen kennt die Dinge eines Menschen, außer dem Geist des Menschen, der in ihm ist? So kennt auch niemand die Dinge Gottes, außer dem Geist Gottes. Wir haben aber nicht den Geist der Welt empfangen, sondern den Geist, der von Gott ist, damit wir die Dinge erkennen, die uns von Gott frei gegeben sind. Diese Dinge reden wir auch, nicht in Worten, die menschliche Weisheit lehrt, sondern in Worten, die der Heilige Geist lehrt, indem wir geistliche Dinge mit geistlichen Dingen vergleichen. Der natürliche Mensch empfängt die Dinge des Geistes Gottes nicht, denn sie sind ihm Torheit; und er kann sie nicht erkennen, weil sie geistlich beurteilt werden. Der geistliche Mensch aber beurteilt alle Dinge, er selbst aber wird von niemandem beurteilt. „Denn wer hat den Sinn des Herrn erkannt, dass er ihn unterweisen sollte?“ Wir aber haben den Sinn Christi.
+
+### Kapitel 3
+
+Brüder, ich konnte nicht zu euch reden wie zu geistlichen, sondern wie zu fleischlichen, wie zu Kindern in Christus. Ich gab euch Milch zu trinken, nicht feste Speise; denn ihr wart noch nicht bereit. Ja, ihr seid auch jetzt noch nicht bereit; denn ihr seid noch fleischlich. Denn wo Neid und Streit und Spaltungen unter euch sind, seid ihr nicht fleischlich und wandelt nicht nach Menschenweise? Denn wenn einer sagt: „Ich gehöre zu Paulus“, und ein anderer: „Ich gehöre zu Apollos“, seid ihr nicht fleischlich?
+
+Wer ist denn Apollos, und wer ist Paulus, sondern Diener durch die ihr geglaubt habt, und zwar jeder so, wie der Herr ihm gegeben hat? Ich pflanzte, Apollos begoss; aber Gott gab das Wachstum. So ist also weder der, der pflanzt, etwas, noch der, der begießt, sondern Gott, der das Wachstum gibt. Der aber pflanzt und der begießt sind eins; jeder aber wird seinen eigenen Lohn empfangen gemäß seiner eigenen Arbeit. Denn wir sind Gottes Mitarbeiter; ihr seid Gottes Ackerfeld, Gottes Bau.
+
+Nach der Gnade Gottes, die mir gegeben wurde, habe ich als weiser Baumeister den Grund gelegt, und ein anderer baut darauf. Aber jeder sehe zu, wie er darauf baut. Denn niemand kann einen anderen Grund legen als den, der gelegt ist, welcher ist Jesus Christus. Wenn aber jemand auf diesen Grund mit Gold, Silber, kostbaren Steinen, Holz, Heu oder Stroh baut, so wird das Werk eines jeden offenbar werden; denn der Tag wird es zeigen, weil er im Feuer offenbart wird; und das Feuer selbst wird prüfen, welches Werk eines jeden ist. Wenn das Werk eines jeden bleibt, das er darauf gebaut hat, so wird er Lohn empfangen. Wenn das Werk eines jeden verbrennt, so wird er Schaden leiden; er selbst aber wird gerettet werden, doch so wie durch Feuer.
+
+Wisst ihr nicht, dass ihr Gottes Tempel seid und der Geist Gottes in euch wohnt? Wenn jemand den Tempel Gottes zerstört, den wird Gott zerstören; denn der Tempel Gottes ist heilig, und dieser seid ihr.
+
+Lasst sich niemand selbst täuschen. Wenn jemand unter euch meint, weise zu sein in dieser Welt, so werde er töricht, damit er weise werde. Denn die Weisheit dieser Welt ist Torheit bei Gott; denn es steht geschrieben: „Er hat die Weisen in ihrer Weisheit gefangen.“ Und wieder: „Der Herr kennt die Gedanken der Weisen, dass sie nichtig sind.“ Darum lasst sich niemand rühmen bei Menschen; denn alles gehört euch: ob Paulus oder Apollos oder Kephas oder die Welt oder das Leben oder der Tod oder das Gegenwärtige oder das Zukünftige; alles gehört euch; und ihr gehört Christus; und Christus gehört Gott.
+
+### Kapitel 4
+
+So halte man uns für Christi Diener und Verwalter der Geheimnisse Gottes. Außerdem wird von Verwaltern verlangt, dass sie treu gefunden werden. Mir aber ist es ein ganz geringes Ding, dass ich von euch oder von einem menschlichen Gericht gerichtet werde; ja, ich richte mich selbst nicht. Denn ich weiß nichts gegen mich; doch bin ich dadurch nicht gerechtfertigt; der mich aber richtet, ist der Herr. Darum richtet nichts vor der Zeit, bis der Herr kommt; der auch das Verborgene ans Licht bringen und die Ratschlüsse der Herzen offenbaren wird. Dann wird jeder sein Lob von Gott empfangen.
+
+Diese Dinge habe ich nun bildlich auf mich und Apollos übertragen um euretwillen, damit ihr an uns lernt, nicht über das hinaus zu denken, was geschrieben steht, damit sich keiner von euch gegen den anderen aufblähe. Denn wer macht dich anders? Und was hast du, das du nicht empfangen hast? Wenn du es aber empfangen hast, warum rühmst du dich als hättest du es nicht empfangen?
+
+Du bist bereits erfüllt. Du bist bereits reich geworden. Du bist gekommen, um ohne uns zu herrschen. Ja, und ich wünschte, du würdest herrschen, damit auch wir mit dir herrschen könnten! Denn ich denke, dass Gott uns, die Apostel, zuletzt wie Männer zur Todesstrafe ausgestellt hat. Denn wir sind ein Spektakel für die Welt, sowohl für Engel als auch für Menschen. Wir sind um Christi willen Narren, aber ihr seid weise in Christus. Wir sind schwach, aber ihr seid stark. Ihr habt Ehre, aber wir haben Schande. Bis zu dieser Stunde hungern wir, dürsten, sind nackt, werden geschlagen und haben keinen festen Wohnsitz. Wir arbeiten und mühen uns mit unseren eigenen Händen. Wenn uns Menschen verfluchen, segnen wir. Wenn wir verfolgt werden, ertragen wir es. Wenn wir verleumdet werden, bitten wir. Wir sind gemacht wie der Dreck der Welt, der Schmutz, der von allen abgewischt wird, bis jetzt.
+
+Ich schreibe diese Dinge nicht, um euch zu beschämen, sondern um euch als meine geliebten Kinder zu ermahnen. Denn obwohl ihr zehntausend Lehrer in Christus habt, habt ihr nicht viele Väter. Denn in Christus Jesus bin ich euer Vater durch die gute Nachricht geworden. Ich bitte euch daher, Nachahmer von mir zu sein. Deshalb habe ich euch Timotheus gesandt, der mein geliebtes und treues Kind im Herrn ist und euch an meine Wege erinnern wird, die in Christus sind, so wie ich überall in jeder Versammlung lehre. Nun sind einige aufgeblasen, als ob ich nicht zu euch käme. Aber ich werde bald zu euch kommen, wenn der Herr will. Und ich werde nicht die Worte der Aufgeblähten erkennen, sondern die Kraft. Denn das Reich Gottes besteht nicht in Worten, sondern in Kraft. Was wollt ihr? Soll ich zu euch mit einem Stock kommen oder in Liebe und einem Geist der Sanftmut?
+
+### Kapitel 5
+
+Es wird tatsächlich berichtet, dass es sexuelle Unmoral unter euch gibt, und solche sexuelle Unmoral, wie sie nicht einmal unter den Heiden genannt wird, dass einer die Frau seines Vaters hat. Ihr seid arrogant und habt nicht eher getrauert, dass der, der diese Tat getan hat, aus eurer Mitte entfernt werden könnte. Denn ich habe ganz gewiss, als abwesend im Körper aber gegenwärtig im Geist, bereits gerichtet, als ob ich gegenwärtig wäre, den gerichtet, der diese Sache getan hat. Im Namen unseres Herrn Jesus Christus, wenn ihr versammelt seid mit meinem Geist und mit der Kraft unseres Herrn Jesus Christus, sollt ihr einen solchen dem Satan übergeben zur Zerschlagung des Fleisches, damit der Geist am Tag des Herrn Jesus gerettet werden kann.
+
+Euer Prahlen ist nicht gut. Wisst ihr nicht, dass ein wenig Sauerteig den ganzen Teig durchsäuert? Schafft den alten Sauerteig weg, damit ihr ein neuer Teig sein könnt, so wie ihr ungesäuert seid. Denn wahrhaftig ist Christus, unser Passah, an unserer Stelle geopfert worden. Lasst uns daher das Fest feiern, nicht mit altem Sauerteig, noch mit dem Sauerteig von Bosheit und Ungerechtigkeit, sondern mit dem ungesäuerten Brot der Aufrichtigkeit und Wahrheit.
+
+Ich schrieb euch in meinem Brief, keinen Umgang mit sexuellen Sündern zu haben; jedoch nicht mit den sexuellen Sündern dieser Welt oder mit den Habgierigen und Erpressern oder mit Götzendienern; denn dann müsstet ihr die Welt verlassen. Aber so ist es: Ich schrieb euch nicht zu verkehren mit jemandem, der Bruder genannt wird und ein sexueller Sünder ist oder habgierig oder ein Götzendiener oder ein Verleumder oder ein Trunkenbold oder ein Erpresser. Mit einem solchen sollt ihr nicht einmal essen. Denn was habe ich damit zu tun, auch die zu richten, die draußen sind? Richtet ihr nicht die, die drinnen sind? Aber die draußen richtet Gott. „Schafft den bösen Menschen aus eurer Mitte weg.“
+
+### Kapitel 6
+
+Wagt es jemand von euch, wenn er eine Sache gegen seinen Nächsten hat, vor den Ungerechten zu klagen und nicht vor den Heiligen? Wisst ihr nicht, dass die Heiligen die Welt richten werden? Und wenn die Welt durch euch gerichtet wird, seid ihr dann unwürdig, die kleinsten Dinge zu richten? Wisst ihr nicht, dass wir Engel richten werden? Wie viel mehr Dinge, die zu diesem Leben gehören? Wenn ihr also Dinge richten müsst, die zu diesem Leben gehören, setzt ihr dann diejenigen an die Spitze, die in der Versammlung nichts gelten? Ich sage dies, um euch zu beschämen. Gibt es unter euch nicht einmal einen weisen Mann, der zwischen seinen Brüdern entscheiden könnte? Aber Bruder klagt gegen Bruder und das vor Ungläubigen! Daher ist es schon ganz und gar ein Mangel an euch, dass ihr Klagen untereinander habt. Warum lasst ihr euch nicht lieber Unrecht tun? Warum lasst ihr euch nicht lieber betrügen? Nein, sondern ihr tut selbst Unrecht und betrügt und das gegen eure Brüder.
+
+Oder wisst ihr nicht, dass die Ungerechten das Reich Gottes nicht erben werden? Lasst euch nicht täuschen. Weder die Unzüchtigen, noch die Götzendiener, noch die Ehebrecher, noch die männlichen Prostituierten, noch die Homosexuellen, noch die Diebe, noch die Habgierigen, noch die Trinker, noch die Verleumder, noch die Erpresser werden das Reich Gottes erben. Einige von euch waren solche, aber ihr seid gewaschen worden. Ihr seid geheiligt worden. Ihr seid im Namen des Herrn Jesus und im Geist unseres Gottes gerechtfertigt worden.
+
+„Alle Dinge sind mir erlaubt“, aber nicht alle Dinge sind nützlich. „Alle Dinge sind mir erlaubt“, aber ich lasse mich von nichts beherrschen. „Essen für den Bauch und der Bauch für das Essen“, aber Gott wird sowohl ihn als auch sie zunichte machen. Der Körper ist jedoch nicht für Unzucht, sondern für den Herrn, und der Herr für den Körper. Gott hat den Herrn auferweckt und wird auch uns durch seine Kraft auferwecken. Wisst ihr nicht, dass eure Körper Glieder Christi sind? Soll ich dann die Glieder Christi nehmen und sie Glied einer Prostituierten machen? Möge es niemals geschehen! Oder wisst ihr nicht, dass der, der sich mit einer Prostituierten verbindet, ein Leib ist? Denn „die zwei“, sagt er, „werden ein Fleisch sein.“ Wer aber sich mit dem Herrn verbindet, ist ein Geist. Flieht die Unzucht! „Jede Sünde, die ein Mensch begeht, ist außerhalb des Körpers“, aber wer Unzucht treibt, sündigt gegen seinen eigenen Körper. Oder wisst ihr nicht, dass euer Körper ein Tempel des Heiligen Geistes ist, der in euch ist, den ihr von Gott habt? Ihr gehört nicht euch selbst, denn ihr seid teuer erkauft worden. Darum verherrlicht Gott in eurem Körper und in eurem Geist, die Gottes sind.
+
+### Kapitel 7
+
+Nun zu den Dingen, über die ihr mir geschrieben habt: Es ist gut für einen Mann, eine Frau nicht zu berühren. Aber wegen der Unzucht soll jeder Mann seine eigene Frau haben und jede Frau ihren eigenen Mann. Der Mann gebe seiner Frau das ihm geschuldete Wohlwollen, und ebenso auch die Frau ihrem Mann. Die Frau hat keine Autorität über ihren eigenen Körper, sondern der Mann hat sie. Ebenso hat auch der Mann keine Autorität über seinen eigenen Körper, sondern die Frau hat sie. Entzieht einander nicht, es sei denn mit Zustimmung für eine Zeit, damit ihr euch dem Fasten und dem Gebet widmen könnt und wieder zusammenkommt, damit euch der Satan nicht wegen eurer Unbeherrschtheit versucht.
+
+Aber dies sage ich als Erlaubnis, nicht als Gebot. Ich wünsche mir jedoch, dass alle Menschen wie ich wären. Jeder hat jedoch sein eigenes Geschenk von Gott, der eine so, der andere so. Aber ich sage den Unverheirateten und den Witwen: Es ist gut für sie, wenn sie bleiben wie ich bin. Wenn sie aber sich nicht beherrschen können, sollen sie heiraten; denn es ist besser zu heiraten als vor Begierde zu brennen. Den Verheirateten gebiete ich – nicht ich, sondern der Herr – dass die Frau ihren Mann nicht verlasse (wenn sie aber geht, soll sie unverheiratet bleiben oder sich mit ihrem Mann versöhnen), und dass der Mann seine Frau nicht verlasse.
+
+Den übrigen sage ich – nicht der Herr – wenn ein Bruder eine ungläubige Frau hat und sie bereit ist, mit ihm zu leben, soll er sie nicht verlassen. Und wenn eine Frau einen ungläubigen Mann hat und er bereit ist, mit ihr zu leben, soll sie ihren Mann nicht verlassen. Denn der ungläubige Mann ist durch die Frau geheiligt und die ungläubige Frau ist durch den Mann geheiligt. Andernfalls wären eure Kinder unrein; jetzt aber sind sie heilig. Wenn jedoch der Ungläubige geht, so sei es; der Bruder oder die Schwester ist in solchen Fällen nicht gebunden; denn Gott hat uns zum Frieden berufen. Denn wie weißt du, Frau, ob du deinen Mann retten wirst? Oder wie weißt du, Mann, ob du deine Frau retten wirst?
+
+Nur wie der Herr jedem gegeben hat, wie Gott jeden berufen hat, so soll er wandeln. So gebiete ich in allen Versammlungen.
+
+Wurde jemand berufen, beschnitten zu sein? Lass ihn sich nicht unbeschnitten machen. Wurde jemand in Unbeschnittenheit berufen? Lass ihn sich nicht beschneiden. Beschneidung ist nichts und Unbeschnittenheit ist nichts; entscheidend ist die Einhaltung der Gebote Gottes. Jeder bleibe in dem Stand, in dem er berufen wurde. Wurdest du als Sklave berufen? Lass dich davon nicht stören; wenn du jedoch die Möglichkeit hast, frei zu werden, nutze sie. Denn wer im Herrn als Sklave berufen wurde, ist des Herrn freier Mann. Ebenso ist der Freie, der berufen wurde, Christi Sklave. Ihr seid teuer erkauft worden; werdet keine Sklaven von Menschen. Brüder, jeder bleibe in dem Stand, in dem er berufen wurde, mit Gott.
+
+Jetzt betreffend der Jungfrauen: Ich habe kein Gebot vom Herrn, sondern ich gebe mein Urteil als einer, der Barmherzigkeit vom Herrn erhalten hat, um vertrauenswürdig zu sein. Daher denke ich, dass es wegen der Not, die über uns gekommen ist, gut ist, wenn ein Mann bleibt, wie er ist. Bist du an eine Frau gebunden? Suche nicht, befreit zu werden. Bist du von einer Frau frei? Suche keine Frau. Wenn du aber heiratest, hast du nicht gesündigt. Wenn eine Jungfrau heiratet, hat sie nicht gesündigt. Doch solche werden Bedrängnis im Fleisch haben, und ich möchte euch schonen. Aber ich sage dies, Brüder: Die Zeit ist kurz. Von nun an mögen sowohl die, die Frauen haben, so sein, als hätten sie keine; und die, die weinen, als würden sie nicht weinen; und die, die sich freuen, als würden sie sich nicht freuen; und die, die kaufen, als hätten sie nichts; und die, die die Welt benutzen, als würden sie sie nicht voll ausnutzen. Denn die Art dieser Welt vergeht.
+
+Aber ich wünsche mir, dass ihr ohne Sorgen seid. Der Unverheiratete kümmert sich um die Dinge des Herrn, wie er den Herrn gefallen kann; der Verheiratete kümmert sich um die Dinge der Welt, wie er seiner Frau gefallen kann. Es gibt auch einen Unterschied zwischen einer Frau und einer Jungfrau. Die unverheiratete Frau kümmert sich um die Dinge des Herrn, dass sie heilig sei sowohl im Leib als auch im Geist. Die Verheiratete hingegen kümmert sich um die Dinge der Welt – wie sie ihrem Mann gefallen kann. Dies sage ich zu eurem eigenen Nutzen, nicht um euch zu fangen, sondern um das, was angemessen ist, und damit ihr dem Herrn ohne Ablenkung dienen könnt.
+
+Wenn aber jemand denkt, dass er sich unangemessen gegenüber seiner Jungfrau verhält, wenn sie das Alter überschritten hat und wenn es nötig ist, lasse ihn tun, was er will. Er sündigt nicht. Lass sie heiraten. Wer aber in seinem Herzen feststeht und keine Dringlichkeit hat, sondern Macht über seinen eigenen Willen hat und in seinem Herzen beschlossen hat, seine eigene Jungfrau zu bewahren, der tut gut daran. So tut sowohl derjenige gut, der seine eigene Jungfrau verheiratet, als auch derjenige, der sie nicht verheiratet, tut besser.
+
+Eine Frau ist durch das Gesetz so lange gebunden, wie ihr Mann lebt; wenn aber der Mann gestorben ist, ist sie frei, einen Mann zu heiraten, den sie will, nur im Herrn. Aber sie ist glücklicher, wenn sie bleibt, wie sie ist, nach meinem Urteil, und ich denke, dass ich auch den Geist Gottes habe.
+
+### Kapitel 8
+
+Jetzt betreffend der Dinge, die den Götzen geopfert sind: Wir wissen, dass wir alle Wissen haben. Wissen macht stolz, aber Liebe erbaut auf. Wenn aber jemand denkt, dass er etwas weiß, weiß er noch nicht so, wie er wissen sollte. Wenn aber jemand Gott liebt, wird er von ihm erkannt.
+
+Daher wissen wir bezüglich des Essens von Dingen, die den Götzen geopfert sind: Kein Götze ist etwas in der Welt und es gibt keinen anderen Gott außer dem Einen. Denn obwohl es Dinge gibt, die „Götter“ genannt werden, ob im Himmel oder auf Erden – wie es viele „Götter“ und viele „Herren“ gibt – so gibt es für uns doch nur einen Gott, den Vater, von dem alle Dinge sind und wir für ihn; und einen Herrn, Jesus Christus, durch den alle Dinge sind und wir durch ihn leben.
+
+Dieses Wissen ist jedoch nicht in allen Menschen. Einige aber essen mit dem Bewusstsein eines Götzen bis jetzt als ob es ein den Götzen geopfertes Ding wäre; und ihr Gewissen ist schwach und wird befleckt. Aber Essen wird uns vor Gott nicht empfehlen. Denn weder sind wir schlechter dran, wenn wir nicht essen, noch sind wir besser dran, wenn wir essen. Aber seht zu, dass diese eure Freiheit nicht zum Anstoß für die Schwachen wird. Denn wenn jemand dich sieht, der du Wissen hast, in einem Tempel des Götzen sitzen, wird sein Gewissen, wenn er schwach ist, ermutigt werden, Dinge zu essen, die den Götzen geopfert sind? Und durch dein Wissen geht der Schwache zugrunde, der Bruder, um dessen willen Christus gestorben ist. So sündigst du gegen die Brüder und verwundest ihr schwaches Gewissen; du sündigst gegen Christus. Daher: Wenn Essen meinen Bruder zum Straucheln bringt, werde ich niemals mehr Fleisch essen, damit ich meinen Bruder nicht zum Straucheln bringe.
+
+### Kapitel 9
+
+Bin ich nicht frei? Bin ich nicht ein Apostel? Habe ich Jesus Christus, unseren Herrn, nicht gesehen? Seid ihr nicht mein Werk im Herrn? Wenn ich für andere kein Apostel bin, so bin ich es doch wenigstens für euch; denn ihr seid das Siegel meines Apostelamtes im Herrn.
+
+Meine Verteidigung gegenüber denen, die mich prüfen, ist diese: Haben wir kein Recht zu essen und zu trinken? Haben wir kein Recht, eine Frau mitzunehmen, die gläubig ist, so wie die anderen Apostel und die Brüder des Herrn und Petrus? Oder haben nur Barnabas und ich kein Recht, nicht zu arbeiten? Welcher Soldat dient jemals auf eigene Kosten? Wer pflanzt einen Weinberg und isst nicht von seiner Frucht? Oder wer weidet eine Herde und trinkt nicht von der Milch der Herde?
+
+Spreche ich diese Dinge nach den Wegen der Menschen? Oder sagt das Gesetz nicht auch dasselbe? Denn im Gesetz des Mose steht geschrieben: „Du sollst dem Ochsen, der das Korn tritt, nicht das Maul verbinden.“ Kümmert sich Gott um die Ochsen, oder sagt er das gewiss um unseretwillen? Ja, es wurde um unseretwillen geschrieben, denn wer pflügt, sollte in der Hoffnung pflügen, und wer drischt, sollte in der Hoffnung von seiner Hoffnung Anteil haben. Wenn wir euch geistliche Dinge gesät haben, ist es dann ein großes Ding, wenn wir eure fleischlichen Dinge ernten? Wenn andere von diesem Recht über euch Gebrauch machen, tun wir es dann nicht noch mehr?
+
+Dennoch haben wir dieses Recht nicht in Anspruch genommen, sondern tragen alles, damit wir dem Evangelium von Christus keinen Hindernis bereiten. Wisst ihr nicht, dass die, die um heilige Dinge dienen, von den Dingen des Tempels essen, und die, die am Altar dienen, ihren Anteil mit dem Altar haben? So hat auch der Herr angeordnet, dass die, die das Evangelium verkünden, von dem Evangelium leben sollen.
+
+Aber ich habe von diesen Dingen nichts gebraucht gemacht, und ich schreibe diese Dinge nicht, damit es in meinem Fall so gemacht wird; denn ich wäre lieber tot, als dass jemand mein Rühmen zunichte macht. Denn wenn ich das Evangelium verkünde, habe ich nichts zu rühmen, denn mir ist Notwendigkeit auferlegt; aber wehe mir, wenn ich das Evangelium nicht verkünde. Denn wenn ich dies aus eigenem Willen tue, habe ich einen Lohn. Wenn ich aber nicht aus eigenem Willen tue, habe ich eine Treuhand anvertraut bekommen. Was ist also mein Lohn? Dass ich, wenn ich das Evangelium verkünde, das Evangelium von Christus unentgeltlich präsentiere, um meine Autorität im Evangelium nicht zu missbrauchen.
+
+Denn obwohl ich von allen frei war, habe ich mich allen unterworfen, um die mehr zu gewinnen. Den Juden wurde ich wie ein Jude, um Juden zu gewinnen; denjenigen, die unter dem Gesetz sind, wie unter dem Gesetz, um die zu gewinnen, die unter dem Gesetz sind; denjenigen, die ohne Gesetz sind, wie ohne Gesetz (nicht ohne Gesetz gegenüber Gott, sondern unter Gesetz gegenüber Christus), um die zu gewinnen, die ohne Gesetz sind. Den Schwachen wurde ich schwach, um die Schwachen zu gewinnen. Ich bin allen Dingen für alle Menschen geworden, damit ich auf alle möglichen Weisen einige retten kann. Dies tue ich um des Evangeliums willen, damit ich ein gemeinsamer Teilhaber daran sein kann. Wisst ihr nicht, dass alle Läufer im Wettlauf laufen, aber nur einer den Preis empfängt? Lauft so, dass ihr gewinnt. Jeder Mensch, der in den Spielen kämpft, übt Selbstbeherrschung in allen Dingen. Sie tun es, um eine vergängliche Krone zu empfangen, wir aber eine unvergängliche. Ich laufe daher so, nicht ziellos. Ich kämpfe so, nicht als schlüge ich die Luft; sondern ich züchtige meinen Körper und bringe ihn in Unterordnung, damit ich nicht etwa nachher anderen gepredigt habe und selbst verwerflich werde.
+
+### Kapitel 10
+
+Nun möchte ich nicht, dass ihr unwissend seid, Brüder, dass unsere Väter alle unter der Wolke waren und alle durch das Meer gingen; und alle wurden in Mose in der Wolke und im Meer getauft; und alle aßen dieselbe geistliche Speise; und alle tranken denselben geistlichen Trank. Denn sie tranken aus einem geistlichen Felsen, der sie begleitete; und der Fels war Christus. Doch mit den meisten von ihnen war Gott nicht wohlgefällig; denn sie wurden im Wüstenland niedergeworfen.
+
+Diese Dinge geschahen uns als Beispiele, damit wir nicht nach bösen Dingen verlangen wie sie auch verlangten. Seid keine Götzendiener, wie einige von ihnen waren. Wie geschrieben steht: „Das Volk setzte sich nieder zu essen und zu trinken und stand auf zu spielen.“ Lasst uns keine sexuelle Unmoral begehen, wie einige von ihnen es taten; und an einem Tag fielen dreiundzwanzigtausend. Lasst uns Christus nicht versuchen, wie einige von ihnen es taten und durch die Schlangen umkamen. Murrt nicht, wie einige von ihnen auch murrten und durch den Zerstörer umkamen. Alle diese Dinge geschahen ihnen als Beispiel und wurden zu unserer Ermahnung geschrieben, auf die das Ende der Zeiten gekommen ist. Darum lasse denjenigen, der meint zu stehen, darauf achten, dass er nicht falle.
+
+Keine Versuchung hat euch ergriffen, außer was menschlich ist. Gott ist treu, der euch nicht über euer Vermögen versuchen lässt, sondern mit der Versuchung auch den Ausweg schaffen wird, damit ihr sie ertragen könnt.
+
+Darum, meine Geliebten, flieht vor dem Götzendienst. Ich rede zu Weisen. Urteilt selbst, was ich sage. Der Becher des Segens, den wir segnen, ist er nicht die Gemeinschaft des Blutes Christi? Das Brot, das wir brechen, ist es nicht die Gemeinschaft des Leibes Christi? Denn weil es ein Brot gibt, sind wir, die vielen, ein Leib; denn wir alle nehmen an dem einen Brot teil. Betrachtet Israel nach dem Fleisch. Nehmen nicht die, die die Opfer essen, am Altar teil?
+
+Was sage ich dann? Dass ein dem Götzen geopfertes Ding etwas ist oder dass ein Götze etwas ist? Aber ich sage, dass die Dinge, die die Heiden opfern, sie den Dämonen opfern und nicht Gott, und ich will nicht, dass ihr Gemeinschaft mit den Dämonen habt. Ihr könnt nicht sowohl den Becher des Herrn trinken als auch den Becher der Dämonen. Ihr könnt nicht sowohl an dem Tisch des Herrn teilnehmen als auch an dem Tisch der Dämonen. Oder reizen wir den Herrn zur Eifersucht? Sind wir stärker als er?
+
+„Alle Dinge sind mir erlaubt“, aber nicht alle Dinge sind nützlich. „Alle Dinge sind mir erlaubt“, aber nicht alle Dinge bauen auf. Niemand suche das Seine, sondern jeder das Wohl des anderen. Was im Schlachthaus verkauft wird, esst, ohne Fragen zu stellen aus Gewissensgründen; denn „die Erde gehört dem Herrn und ihre Fülle.“ Wenn aber einer der Ungläubigen euch zu einem Mahl einlädt und ihr geneigt seid zu gehen, esst, was euch vorgesetzt wird, ohne Fragen zu stellen aus Gewissensgründen. Wenn aber jemand zu euch sagt: „Das ist den Götzen geopfert worden“, esst es nicht um desjenigen willen, der es gesagt hat, und um der Gewissen willen. Denn „die Erde gehört dem Herrn mit all ihrer Fülle.“ Gewissen sage ich, nicht dein eigenes, sondern das Gewissen des anderen. Denn warum wird meine Freiheit von einem anderen Gewissen beurteilt? Wenn ich mit Dankbarkeit teilhabe, warum werde ich für etwas verurteilt, wofür ich Dank sage?
+
+Ob ihr nun esst oder trinkt oder was immer ihr tut, tut alles zur Ehre Gottes. Gebt niemandem Anstoß, weder den Juden noch den Griechen noch der Versammlung Gottes; so wie ich auch allen Menschen in allen Dingen wohlgefalle und nicht mein eigenes Wohl suche, sondern das Wohl der vielen, damit sie gerettet werden.
+
+### Kapitel 11
+
+Seid Nachahmer von mir, wie ich auch von Christus bin.
+
+Nun lobe ich euch, Brüder, dass ihr euch an alles erinnert und die Traditionen festhaltet, so wie ich sie euch überliefert habe. Aber ich möchte, dass ihr wisst, dass das Haupt eines jeden Mannes Christus ist und das Haupt der Frau der Mann ist und das Haupt Christi Gott ist. Jeder Mann, der betet oder prophezeit und sein Haupt bedeckt hat, schändet sein Haupt. Aber jede Frau, die betet oder prophezeit und ihr Haupt unbedeckt hat, schändet ihr Haupt; denn es ist dasselbe, als wäre sie geschoren. Denn wenn eine Frau nicht bedeckt ist, lasse sie sich auch das Haar abschneiden; wenn es aber für eine Frau schändlich ist, sich das Haar abschneiden oder sich rasieren zu lassen, lasse sie bedeckt sein. Denn der Mann soll sein Haupt nicht bedecken, da er das Bild und die Herrlichkeit Gottes ist; die Frau aber ist die Herrlichkeit des Mannes. Denn der Mann stammt nicht von der Frau, sondern die Frau vom Mann; denn der Mann wurde nicht für die Frau geschaffen, sondern die Frau für den Mann. Aus diesem Grund soll die Frau Macht über ihr Haupt haben um der Engel willen.
+
+Dennoch ist die Frau nicht unabhängig vom Mann noch der Mann unabhängig von der Frau im Herrn. Denn wie die Frau vom Mann stammt, so kommt auch der Mann durch die Frau; aber alles kommt von Gott. Urteilt selbst: Ist es angemessen, dass eine Frau unbedeckt zu Gott betet? Lehrt euch nicht sogar die Natur selbst, dass es eine Schande für einen Mann ist, langes Haar zu haben? Wenn aber eine Frau langes Haar hat, ist es eine Ehre für sie; denn ihr Haar ist ihr zum Bedecken gegeben. Wenn aber jemand streitsüchtig zu sein scheint, haben wir eine solche Gewohnheit nicht, noch die Versammlungen Gottes.
+
+Aber bei der Übergabe dieses Gebots lobe ich euch nicht; denn ihr kommt zusammen nicht zum Besseren, sondern zum Schlechteren. Denn zuerst höre ich, dass Spaltungen unter euch sind, wenn ihr in der Versammlung zusammenkommt; und ich glaube es zum Teil. Denn es müssen auch Spaltungen unter euch sein, damit die Bewährten unter euch offenbar werden. Wenn ihr also zusammenkommt, esst ihr nicht das Abendmahl des Herrn. Denn beim Essen nimmt jeder zuerst sein eigenes Abendmahl; und einer hat Hunger und ein anderer ist betrunken. Was! Habt ihr denn keine Häuser zum Essen und Trinken? Oder verachtet ihr die Versammlung Gottes und beschämt die, die nichts haben? Was soll ich euch sagen? Soll ich euch loben? In diesem lobe ich euch nicht.
+
+Denn ich habe vom Herrn empfangen, was ich auch euch überliefert habe, dass der Herr Jesus in der Nacht, in der er verraten wurde, Brot nahm. Und nachdem er gedankt hatte, brach er es und sprach: „Nehmt, esst. Das ist mein Leib, der für euch gebrochen wird. Tut dies zu meinem Gedächtnis.“ Ebenso nahm er auch den Kelch nach dem Abendmahl und sprach: „Dieser Kelch ist der neue Bund in meinem Blut. Tut dies, so oft ihr trinkt, zu meinem Gedächtnis.“ Denn so oft ihr dieses Brot esst und diesen Kelch trinkt, verkündigt ihr den Tod des Herrn, bis er kommt.
+
+Darum wird jeder, der dieses Brot isst oder den Kelch des Herrn in unwürdiger Weise trinkt, schuldig sein am Leib und Blut des Herrn. Ein Mensch prüfe sich selbst, und so esse er von dem Brot und trinke aus dem Kelch. Denn wer unwürdig isst und trinkt, isst und trinkt sich selbst das Gericht, wenn er den Leib des Herrn nicht unterscheidet. Aus diesem Grund sind viele unter euch schwach und krank, und nicht wenige schlafen. Denn wenn wir uns selbst untersuchten, würden wir nicht gerichtet werden. Wenn wir aber gerichtet werden, werden wir vom Herrn gezüchtigt, damit wir nicht mit der Welt verurteilt werden. Darum, meine Brüder, wenn ihr zusammenkommt zu essen, wartet aufeinander. Wenn aber jemand hungrig ist, so esse er zu Hause, damit euer Zusammensein nicht zum Gericht wird. Das Übrige will ich in Ordnung bringen, sooft ich komme.
+
+### Kapitel 12
+
+Jetzt aber über geistliche Dinge, Brüder, will ich nicht, dass ihr unwissend seid. Ihr wisst, dass ihr, als ihr Heiden wart, zu den stummen Götzen verführt wurdet, wie ihr auch geleitet wurdet. Darum lasse ich euch wissen, dass niemand, der durch den Geist Gottes spricht, sagt: „Jesus sei verflucht.“ Und niemand kann sagen: „Jesus ist der Herr“, außer durch den Heiligen Geist.
+
+Es gibt verschiedene Arten von Gaben, aber den gleichen Geist. Es gibt verschiedene Arten von Diensten, aber den gleichen Herrn. Es gibt verschiedene Arten von Wirkungen, aber den gleichen Gott, der alles in allen wirkt. Jedem aber wird die Offenbarung des Geistes zum Nutzen aller gegeben. Denn dem einen wird durch den Geist das Wort der Weisheit gegeben, einem anderen das Wort der Erkenntnis nach demselben Geist, einem anderen Glauben durch denselben Geist, einem anderen Gaben der Heilungen durch denselben Geist, einem anderen Wunderwirkungen, einem anderen Weissagung, einem anderen Geisterunterscheidung, einem anderen verschiedene Arten von Sprachen, und einem anderen die Auslegung der Sprachen. Aber der eine und dieselbe Geist wirkt all diese Dinge und teilt jedem besonders aus, wie er will.
+
+Denn wie der Leib eins ist und viele Glieder hat und alle Glieder des Leibes, obwohl viele, ein Leib sind; so ist auch Christus. Denn in einem Geist sind wir alle in einen Leib getauft worden, ob Juden oder Griechen, ob Sklaven oder Freie; und wir sind alle in einen Geist getränkt worden.
+
+Denn der Leib ist nicht ein Glied, sondern viele. Wenn der Fuß sagen würde: „Weil ich nicht die Hand bin, gehöre ich nicht zum Leib“, wäre er deshalb nicht zum Leib. Und wenn das Ohr sagen würde: „Weil ich nicht das Auge bin, gehöre ich nicht zum Leib“, wäre es deshalb nicht zum Leib. Wenn der ganze Leib ein Auge wäre, wo wäre das Hören? Wenn der ganze Leib Hören wäre, wo wäre der Geruch? Jetzt aber hat Gott die Glieder gesetzt, jedes einzelne von ihnen im Leib, wie er wollte. Wenn sie alle ein Glied wären, wo wäre dann der Leib? Jetzt aber sind viele Glieder, aber ein Leib. Das Auge kann zur Hand nicht sagen: „Ich brauche dich nicht“, oder wieder der Kopf zu den Füßen: „Ich brauche euch nicht.“ Vielmehr sind die Glieder des Leibes, die schwächer erscheinen, notwendig. Und die Teile des Leibes, die wir für weniger ehrenhaft halten, diesen schenken wir mehr Ehren; und unsere unansehnlichen Teile haben mehr anständige Schamhaftigkeit; während unsere ansehnlichen Teile keiner solchen Notwendigkeit bedürfen. Aber Gott hat den Leib zusammengefügt und dem unansehnlichen Teil mehr Ehre gegeben, damit im Leib keine Spaltung sei, sondern die Glieder füreinander dieselbe Sorge tragen. Wenn ein Glied leidet, leiden alle Glieder mit ihm; wenn ein Glied geehrt wird, freuen sich alle Glieder mit ihm.
+
+Jetzt seid ihr der Leib Christi und jeder Einzelne ein Glied davon. Gott hat einige in der Versammlung eingesetzt: zuerst Apostel, zweitens Propheten, drittens Lehrer; dann Wundertäter; dann Gaben der Heilungen; Hilfen; Regierungen; und verschiedene Arten von Sprachen. Sind alle Apostel? Sind alle Propheten? Sind alle Lehrer? Sind alle Wundertäter? Haben alle Gaben der Heilungen? Reden alle mit verschiedenen Sprachen? Deuten alle? Strebt aber eifrig nach den besten Gaben. Darüber hinaus zeige ich euch einen ausgezeichneten Weg.
+
+### Kapitel 13
+
+Wenn ich mit den Sprachen der Menschen und der Engel spreche, aber keine Liebe habe, bin ich geworden wie klingendes Erz oder eine schallende Zimbel. Wenn ich die Gabe der Prophetie habe und alle Geheimnisse und alle Erkenntnis kenne, und wenn ich allen Glauben habe, so dass ich Berge versetzen kann, aber keine Liebe habe, bin ich nichts. Wenn ich all meine Güter den Armen gebe und meinen Körper zur Verbrennung gebe, aber keine Liebe habe, nützt es mir nichts.
+
+Die Liebe ist geduldig und freundlich. Die Liebe neidet nicht. Die Liebe prahlt nicht, ist nicht stolz, verhält sich nicht unangemessen, sucht nicht das Ihre, lässt sich nicht erregen, rechnet das Böse nicht zu; sie freut sich nicht über das Unrecht, sondern freut sich mit der Wahrheit; sie erträgt alles, glaubt alles, hofft alles und hält allem stand.
+
+Die Liebe versagt nie. Wo es Prophezeiungen gibt, werden sie weggetan. Wo es verschiedene Sprachen gibt, werden sie aufhören. Wo es Erkenntnis gibt, wird sie weggetan. Denn wir erkennen stückweise und wir prophezeien stückweise; wenn aber das Vollkommene kommt, wird das Stückhafte weggetan. Als ich ein Kind war, sprach ich wie ein Kind, fühlte wie ein Kind, dachte wie ein Kind. Jetzt, da ich ein Mann geworden bin, habe ich das Kindliche abgelegt. Denn jetzt sehen wir durch einen Spiegel, undeutlich, dann aber von Angesicht zu Angesicht. Jetzt erkenne ich stückweise, dann aber werde ich voll erkennen, so wie ich auch voll erkannt wurde. Aber jetzt bleiben Glaube, Hoffnung und Liebe—diese drei. Die größte unter ihnen ist die Liebe.
+
+### Kapitel 14
+
+Strebt nach der Liebe und eifert nach den geistlichen Gaben, besonders dass ihr prophetet. Denn wer in einer anderen Sprache spricht, spricht nicht zu den Menschen, sondern zu Gott; denn niemand versteht es, sondern im Geist spricht er Geheimnisse. Wer aber prophetet, spricht zu den Menschen zur Erbauung, Ermahnung und Tröstung. Wer in einer anderen Sprache spricht, erbaut sich selbst; wer aber prophetet, erbaut die Versammlung. Nun wünsche ich, dass ihr alle in anderen Sprachen sprecht, aber noch mehr, dass ihr prophetet. Denn größer ist der, der prophetet, als der, der in anderen Sprachen spricht, es sei denn, dass er es auslegt, damit die Versammlung erbaut werde.
+
+Wenn ich nun zu euch komme und in anderen Sprachen spreche, was würde ich euch nützen, es sei denn, ich spräche zu euch durch Offenbarung oder durch Erkenntnis oder durch Prophetie oder durch Lehre? Auch leblose Dinge, die einen Klang von sich geben, sei es Flöte oder Harfe; wenn sie keinen Unterschied in den Tönen geben, wie würde man wissen, was gepipet oder geharft wird? Denn wenn die Trompete einen unsicheren Klang gibt, wer würde sich zum Krieg rüsten? So auch ihr; wenn ihr nicht mit der Zunge Worte äußert, die leicht zu verstehen sind, wie würde man wissen, was gesagt wird? Denn ihr würdet in den Wind sprechen. Es gibt vielleicht so viele Arten von Sprachen in der Welt, und keine von ihnen ist ohne Bedeutung. Wenn ich also die Bedeutung der Sprache nicht kenne, wäre ich demjenigen, der spricht, ein Fremder; und derjenige, der spricht, wäre mir ein Fremder. So auch ihr; da ihr eifrig nach den geistlichen Gaben strebt, sucht danach, dass ihr zur Erbauung der Versammlung überreich seid.
+
+Darum lasse denjenigen, der in einer anderen Sprache spricht, beten, dass er auslegen möge. Denn wenn ich in einer anderen Sprache bete, betet mein Geist; aber mein Verstand ist unfruchtbar.
+
+Was soll ich tun? Ich will mit dem Geist beten und auch mit dem Verstand beten. Ich will mit dem Geist singen und auch mit dem Verstand singen. Andernfalls; wenn du mit dem Geist segnest, wie wird der Ungelehrte sagen „Amen“ bei deinem Dankgebet? Denn er weiß nicht, was du sagst. Du gibst zwar gewiss gut Dank; aber der andere wird nicht erbaut. Ich danke meinem Gott; ich spreche mehr in anderen Sprachen als ihr alle. Doch in der Versammlung möchte ich lieber fünf Worte mit meinem Verstand sprechen, damit ich auch andere unterweisen kann, als zehntausend Worte in einer anderen Sprache.
+
+Brüder, seid nicht Kinder im Denken; doch in der Bosheit seid Kinder; im Denken seid reif. Im Gesetz steht geschrieben: „Durch Männer mit fremden Sprachen und durch die Lippen von Fremden werde ich zu diesem Volk reden. Und sie werden mir auf diese Weise nicht zuhören“, spricht der Herr. Darum sind andere Sprachen ein Zeichen, nicht für die Glaubenden, sondern für die Ungläubigen; die Prophetie aber ist ein Zeichen, nicht für die Ungläubigen, sondern für die Glaubenden. Wenn also die ganze Versammlung zusammenkommt und alle in anderen Sprachen sprechen und ungelehrte oder ungläubige Menschen hereinkommen; werden sie nicht sagen: „Ihr seid verrückt?“ Wenn aber alle prophetieren und jemand Ungläubiger oder Ungelehrter hereinkommt; wird er von allen überführt und von allen beurteilt. Und so werden die Geheimnisse seines Herzens offenbar. So wird er auf sein Angesicht fallen und Gott anbeten und erklären: „Gott ist wirklich unter euch.“
+
+Was ist es dann, Brüder? Wenn ihr zusammenkommt, hat jeder von euch einen Psalm, eine Lehre, eine Offenbarung, eine andere Sprache oder eine Auslegung. Lass alles zum Aufbau des Anderen geschehen. Wenn jemand in einer anderen Sprache spricht, lass es zwei oder höchstens drei sein, und zwar nacheinander; und lass einen auslegen. Wenn aber kein Ausleger da ist, lass ihn in der Versammlung schweigen und zu sich selbst und zu Gott sprechen. Lass zwei oder drei der Propheten sprechen, und lass die anderen unterscheiden. Wenn aber einer, der neben ihm sitzt, eine Offenbarung erhält, lass den ersten schweigen. Denn ihr könnt alle nacheinander prophezeien, damit alle lernen und alle ermutigt werden. Die Geister der Propheten sind den Propheten unterworfen, denn Gott ist kein Gott der Unordnung, sondern des Friedens, wie in allen Versammlungen der Heiligen. Lass die Frauen in den Versammlungen schweigen, denn es ist ihnen nicht erlaubt zu reden, es sei denn in Unterordnung, wie das Gesetz auch sagt, wenn sie etwas lernen wollen. „Lass sie ihre eigenen Männer zu Hause fragen, denn es ist schändlich für eine Frau, in der Versammlung zu reden.“ Was!? Ist das Wort Gottes von euch ausgegangen? Oder ist es nur zu euch gekommen?
+
+Wenn jemand sich für einen Propheten oder geistlich hält, lass ihn die Dinge anerkennen, die ich euch schreibe, dass sie das Gebot des Herrn sind. Wenn aber jemand unwissend ist, lass ihn unwissend sein.
+
+Darum, Brüder, strebt ernsthaft danach zu prophezeien und verbietet nicht das Sprechen in anderen Sprachen. Lass alles anständig und in Ordnung geschehen.
+
+### Kapitel 15
+
+Nun verkünde ich euch, Brüder, die gute Nachricht, die ich euch gepredigt habe, die ihr auch empfangen habt, in der ihr auch steht, durch die ihr auch gerettet seid, wenn ihr festhaltet an dem Wort, das ich euch gepredigt habe – es sei denn, ihr habt vergeblich geglaubt.
+
+Denn ich habe euch zuerst das überliefert, was ich auch empfangen habe: dass Christus für unsere Sünden gestorben ist gemäß den Schriften, dass er begraben wurde, dass er am dritten Tag gemäß den Schriften auferstanden ist und dass er Cephas erschienen ist, dann den Zwölf. Dann erschien er mehr als fünfhundert Brüdern auf einmal, von denen die meisten bis jetzt bleiben, einige sind aber auch entschlafen. Dann erschien er Jakobus, dann allen Aposteln; und zuletzt erschien er mir auch, als dem Ungeborenen. Denn ich bin der geringste der Apostel, der nicht wert ist, Apostel genannt zu werden, weil ich die Versammlung Gottes verfolgt habe. Aber durch die Gnade Gottes bin ich, was ich bin. Seine Gnade, die mir gegeben wurde, war nicht vergeblich; sondern ich habe mehr gearbeitet als alle von ihnen; doch nicht ich, sondern die Gnade Gottes, die mit mir war. Ob nun ich oder sie – so predigen wir und so habt ihr geglaubt.
+
+Wenn nun Christus gepredigt wird, dass er von den Toten auferstanden ist, wie sagen einige unter euch, dass es keine Auferstehung der Toten gibt? Wenn es aber keine Auferstehung der Toten gibt, dann ist auch Christus nicht auferstanden. Wenn Christus nicht auferstanden ist, dann ist unsere Predigt vergeblich und euer Glaube ist auch vergeblich. Ja, wir sind auch falsche Zeugen Gottes gefunden worden, weil wir über Gott Zeugnis abgelegt haben, dass er Christus auferweckt hat, den er nicht auferweckt hat, wenn es wahr ist, dass die Toten nicht auferstehen. Denn wenn die Toten nicht auferstehen, dann ist auch Christus nicht auferstanden. Wenn Christus nicht auferstanden ist, ist euer Glaube vergeblich; ihr seid noch in euren Sünden. Dann sind auch die entschlafenen Christen verloren. Wenn wir nur in diesem Leben auf Christus gehofft haben, sind wir von allen Menschen am elendesten.
+
+Aber jetzt ist Christus von den Toten auferstanden. Er wurde der Erstling der Entschlafenen. Denn da der Tod durch den Menschen kam, kam auch die Auferstehung der Toten durch den Menschen. Denn wie in Adam alle sterben, so werden auch in Christus alle lebendig gemacht werden. Aber jeder in seiner eigenen Ordnung: Christus die Erstlinge; danach die, die Christus gehören bei seiner Ankunft. Dann kommt das Ende, wenn er das Reich an Gott den Vater übergibt, wenn er alle Herrschaft und alle Autorität und Macht abgeschafft hat. Denn er muss herrschen, bis er alle seine Feinde unter seine Füße gelegt hat. Der letzte Feind, der abgeschafft wird, ist der Tod. Denn „er hat alles unter seine Füße gelegt.“ Wenn aber gesagt wird: „Alles ist unterworfen“, so ist offenbar der ausgenommen, der alles unterworfen hat. Wenn nun alles ihm unterworfen ist, dann wird auch der Sohn sich selbst dem unterwerfen, der ihm alles unterworfen hat, damit Gott alles in allem sei.
+
+Oder was werden die tun, die für die Toten getauft werden? Wenn die Toten überhaupt nicht auferweckt werden, warum werden sie dann für die Toten getauft? Warum stehen wir auch jede Stunde in Gefahr? Ich bezeuge, durch das Rühmen in euch, das ich in Christus Jesus unserem Herrn habe, ich sterbe täglich. Wenn ich mit Tieren in Ephesus um menschliche Zwecke gekämpft habe, was nützt mir das? Wenn die Toten nicht auferweckt werden, dann „lasst uns essen und trinken, denn morgen sterben wir.“ Lasst euch nicht täuschen! „Schlechte Gesellschaft verdirbt gute Sitten.“ Wacht gerecht auf und sündigt nicht, denn einige haben keine Erkenntnis von Gott. Ich sage dies zu eurem Schande.
+
+Aber jemand wird sagen: „Wie werden die Toten auferweckt?“ und: „Mit welchem Körper kommen sie?“ Du Tor, das, was du selbst säst, wird nicht lebendig, es sei denn, es stirbt. Das, was du säst, säst du nicht den Körper, der sein wird, sondern ein bloßes Korn, vielleicht Weizen oder eine andere Art. Aber Gott gibt ihm einen Körper, wie es ihm gefällt, und jedem Samen einen eigenen Körper. Alle Fleisch ist nicht dasselbe Fleisch; es gibt das Fleisch der Menschen, das Fleisch der Tiere, das Fleisch der Fische und das Fleisch der Vögel. Es gibt auch himmlische Körper und irdische Körper; aber die Herrlichkeit des Himmlischen unterscheidet sich von der des Irdischen. Es gibt eine Herrlichkeit der Sonne, eine andere Herrlichkeit des Mondes und eine andere Herrlichkeit der Sterne; denn ein Stern unterscheidet sich in Herrlichkeit von einem anderen Stern.
+
+So ist auch die Auferstehung der Toten. Der Körper wird vergänglich gesät; er wird unvergänglich auferweckt. Er wird in Unehre gesät; er wird in Herrlichkeit auferweckt. Er wird in Schwachheit gesät; er wird in Kraft auferweckt. Er wird ein natürlicher Körper gesät; er wird ein geistlicher Körper auferweckt. Es gibt einen natürlichen Körper und es gibt auch einen geistlichen Körper.
+
+So steht auch geschrieben: „Der erste Mensch Adam wurde eine lebendige Seele.“ Der letzte Adam wurde ein lebendig machender Geist. Doch das Geistliche ist nicht zuerst, sondern das Natürliche, dann das Geistliche. Der erste Mensch ist von der Erde, aus Staub gemacht. Der zweite Mensch ist der Herr vom Himmel. Wie der aus Staub gemacht ist, so sind auch die, die aus Staub gemacht sind; und wie der Himmlische ist, so sind auch die Himmlischen. Wie wir das Bild der aus Staub Gemachten getragen haben, lasst uns auch das Bild des Himmlischen tragen. Nun sage ich dies, Brüder, dass Fleisch und Blut das Reich Gottes nicht erben können; auch erbt das Vergängliche nicht das Unvergängliche.
+
+Siehe, ich sage euch ein Geheimnis. Wir werden nicht alle schlafen, aber wir werden alle verwandelt werden, in einem Augenblick, im Augenblick des letzten Posaunes. Denn die Posaune wird erschallen und die Toten werden unvergänglich auferweckt werden, und wir werden verwandelt werden. Denn dieser vergängliche Körper muss unvergänglich werden, und dieser sterbliche muss Unsterblichkeit anziehen. Wenn aber dieser vergängliche Körper unvergänglich geworden ist und dieser sterbliche Unsterblichkeit angezogen hat, dann wird geschehen, was geschrieben steht: „Der Tod ist verschlungen in den Sieg.“
+
+„Tod, wo ist dein Stachel?
+
+Hades, wo ist dein Sieg?“
+
+Der Stachel des Todes ist die Sünde, und die Kraft der Sünde ist das Gesetz. Aber Gott sei Dank, der uns den Sieg gibt durch unseren Herrn Jesus Christus. Darum, meine geliebten Brüder, seid fest, unbeweglich, immer reichlich im Werk des Herrn tätig, denn ihr wisst, dass eure Mühe im Herrn nicht vergeblich ist.
+
+### Kapitel 16
+
+Nun betreffend die Sammlung für die Heiligen: wie ich den Versammlungen von Galatien befohlen habe, so macht auch ihr es. Am ersten Tag jeder Woche lasse jeder von euch so viel beiseitelegen, wie er es vermag, damit keine Sammlungen gemacht werden, wenn ich komme. Wenn ich ankomme, werde ich diejenigen senden, die ihr genehmigt habt, mit Briefen zu eurer großzügigen Gabe nach Jerusalem zu bringen. Wenn es mir angemessen ist, auch zu gehen, werden sie mit mir gehen.
+
+Ich werde zu euch kommen, wenn ich durch Mazedonien gegangen bin; denn ich gehe durch Mazedonien. Aber bei euch könnte es sein, dass ich bei euch bleibe oder sogar den Winter bei euch verbringe, damit ihr mich auf meiner Reise dorthin sendet, wohin ich gehe. Denn ich wünsche nicht, euch jetzt nur im Vorübergehen zu sehen, sondern ich hoffe eine Weile bei euch zu bleiben, wenn der Herr es erlaubt. Aber ich werde bis Pfingsten in Ephesus bleiben; denn mir ist eine große und wirksame Tür geöffnet worden und es gibt viele Widersacher.
+
+Jetzt, wenn Timotheus kommt, sieh zu, dass er ohne Furcht bei dir ist, denn er verrichtet das Werk des Herrn, wie ich auch. Darum lasse niemand ihn verachten. Schicke ihn aber in Frieden auf seine Reise, damit er zu mir kommen kann; denn ich erwarte ihn mit den Brüdern.
+
+Was Apollos, den Bruder, betrifft, so habe ich ihn dringend gebeten, mit den Brüdern zu euch zu kommen, aber es war ihm jetzt überhaupt nicht danach; er wird aber kommen, wenn er Gelegenheit hat.
+
+Wacht! Steht fest im Glauben! Seid mutig! Seid stark! Lasst alles, was ihr tut, in Liebe geschehen.
+
+Jetzt bitte ich euch, Brüder – ihr kennt das Haus des Stephanas, dass es die Erstlinge von Achaja ist und dass sie sich dazu bestimmt haben, den Heiligen zu dienen – dass auch ihr solchen untertan seid und allen, die in der Arbeit helfen und sich mühen. Ich freue mich über das Kommen des Stephanas, Fortunatus und Achaikus; denn was euch mangelte, haben sie ergänzt. Denn sie haben meinen Geist und euren erquickt. Darum erkennt solche an.
+
+Die Versammlungen in Asien grüßen euch. Aquila und Priscilla grüßen euch herzlich im Herrn, zusammen mit der Versammlung, die in ihrem Haus ist. Alle Brüder grüßen euch. Grüßt einander mit einem heiligen Kuss.
+
+Dieser Gruß ist von mir, Paulus, mit meiner eigenen Hand. Wenn jemand den Herrn Jesus Christus nicht liebt, sei er verflucht. Komm, Herr! Die Gnade des Herrn Jesus Christus sei mit euch. Meine Liebe gilt allen von euch in Christus Jesus. Amen.
+
+## 2 Korinther
+
+Paulus' Zweite Brief an die Korinther
+
+### Kapitel 1
+
+Paulus, ein Apostel von Christus Jesus durch den Willen Gottes, und Timotheus, unser Bruder, an die Versammlung Gottes, die in Korinth ist, mit allen Heiligen, die in ganz Achaja sind: Gnade sei mit euch und Frieden von Gott, unserem Vater, und dem Herrn Jesus Christus.
+
+Gepriesen sei der Gott und Vater unseres Herrn Jesus Christus, der Vater der Barmherzigkeit und Gott aller Trost, der uns in aller unserer Bedrängnis tröstet, damit wir die trösten können, die in irgendeiner Bedrängnis sind, durch den Trost, mit dem wir selbst von Gott getröstet werden. Denn wie die Leiden Christi über uns reichlich sind, so ist auch unser Trost durch Christus reichlich. Wenn wir aber bedrängt werden, geschieht es zu eurem Trost und Heil. Wenn wir getröstet werden, geschieht es zu eurem Trost, der in euch das geduldige Ausharren derselben Leiden hervorbringt, die auch wir leiden. Unsere Hoffnung für euch ist fest, da wir wissen, dass ihr an den Leiden teilhabt, so seid ihr auch am Trost teilhaftig.
+
+Denn wir wünschen nicht, dass ihr uninformiert seid, Brüder, über unsere Bedrängnis, die uns in Asien widerfahren ist: dass wir übermäßig beschwert wurden, über unsere Kraft hinaus, so dass wir sogar das Leben verzweifelten. Ja, wir selbst hatten das Urteil des Todes in uns, damit wir nicht auf uns selbst vertrauen, sondern auf Gott, der die Toten auferweckt; der uns aus so großer Todesgefahr errettet hat und errettet und auf den wir unsere Hoffnung gesetzt haben, dass er uns auch weiterhin erretten wird; ihr helft auch zusammen für uns durch euer Flehen; damit für die Gabe, die uns durch viele zuteil wurde, von vielen Personen Dank gegeben werden kann.
+
+Denn unser Ruhm ist dies: das Zeugnis unseres Gewissens, dass wir in Heiligkeit und Aufrichtigkeit Gottes, nicht in fleischlicher Weisheit sondern in der Gnade Gottes uns in der Welt verhalten haben und euch gegenüber umso mehr. Denn wir schreiben euch nichts anderes als das, was ihr lest oder sogar anerkennt; und ich hoffe, dass ihr bis zum Ende anerkennen werdet – wie ihr uns auch teilweise anerkannt habt – dass wir euer Ruhm sind, ebenso wie ihr auch unser Ruhm seid am Tag unseres Herrn Jesus.
+
+In diesem Vertrauen war ich entschlossen, zuerst zu euch zu kommen, damit ihr einen zweiten Nutzen hättet und durch euch nach Makedonien zu reisen und wieder von Makedonien zu euch zu kommen und von euch auf meine Reise nach Judäa gesendet zu werden. Als ich dies also plante, zeigte ich da Unbeständigkeit? Oder plane ich die Dinge nach dem Fleisch, damit bei mir das „Ja, ja“ und das „Nein, nein“ sein sollte? Aber so wahr Gott treu ist: unser Wort zu euch war nicht „Ja und nein“. Denn der Sohn Gottes, Jesus Christus, der unter euch von uns gepredigt wurde – von mir, Silvanus und Timotheus – war nicht „Ja und nein“, sondern in ihm ist das „Ja“. Denn so viele Verheißungen Gottes es gibt: in ihm ist das „Ja“. Darum ist auch durch ihn das „Amen“, zur Ehre Gottes durch uns.
+
+Jetzt aber, der uns mit euch in Christus festigt und uns gesalbt hat, ist Gott, der uns auch versiegelt hat und uns das Unterpfand des Geistes in unseren Herzen gegeben hat.
+
+Aber ich rufe Gott als Zeugen für meine Seele an, dass ich, um euch zu schonen, nicht nach Korinth gekommen bin. Wir haben nicht die Kontrolle über euren Glauben, sondern sind Mitarbeiter mit euch zu eurem Freude. Denn ihr steht fest im Glauben.
+
+### Kapitel 2
+
+Aber ich habe mir selbst vorgenommen, dass ich nicht wieder zu euch in Trauer kommen wollte. Denn wenn ich euch traurig mache, wer wird mich dann freuen, wenn nicht der, der durch mich traurig gemacht wird? Und ich schrieb euch genau dies, damit ich, wenn ich komme, nicht von denen Trauer habe, über die ich mich freuen sollte; in dem Vertrauen auf euch alle, dass meine Freude von euch allen geteilt wird. Denn aus großer Bedrängnis und Herzensangst habe ich euch mit vielen Tränen geschrieben, nicht damit ihr traurig gemacht werdet, sondern damit ihr die Liebe erkennt, die ich so reichlich für euch habe.
+
+Wenn aber jemand Trauer verursacht hat, so hat er nicht mir Trauer verursacht, sondern zum Teil (damit ich nicht zu schwer drücke) euch allen. Diese Strafe, die von den vielen verhängt wurde, ist für einen solchen genug; damit ihr vielmehr ihm vergebt und ihn tröstet, damit nicht etwa ein solcher durch seine übermäßige Trauer verschlungen werde. Deshalb bitte ich euch, eure Liebe zu ihm zu bestätigen. Denn dazu habe ich auch geschrieben, um den Beweis von euch zu erfahren, ob ihr in allen Dingen gehorsam seid. Nun vergebe ich auch dem, dem ihr irgendetwas vergebt. Denn wenn ich tatsächlich irgendetwas vergeben habe, so habe ich diesem um euretwillen in Gegenwart Christi vergeben, damit Satan uns nicht übervorteilen kann; denn wir sind seiner Pläne nicht unwissend.
+
+Als ich nun nach Troas kam für die Gute Nachricht von Christus und mir eine Tür im Herrn geöffnet wurde, hatte ich keine Ruhe für meinen Geist, weil ich meinen Bruder Titus nicht fand; aber nachdem ich von ihnen Abschied genommen hatte, ging ich nach Makedonien.
+
+Dank sei Gott, der uns immer in Triumph in Christus führt und durch uns den süßen Duft seiner Erkenntnis an jedem Ort offenbart. Denn wir sind ein süßer Duft Christi für Gott bei den Geretteten und bei den Verlorenen: für die einen ein Gestank vom Tod zum Tod, für die anderen ein süßer Duft vom Leben zum Leben. Wer ist für diese Dinge ausreichend? Denn wir sind nicht wie viele, die das Wort Gottes verkaufen. Sondern wie aus Aufrichtigkeit, sondern wie aus Gott, in Gottes Sicht sprechen wir in Christus.
+
+### Kapitel 3
+
+Beginnen wir wieder uns selbst zu empfehlen? Oder brauchen wir, wie einige, Empfehlungsbriefe an euch oder von euch? Ihr seid unser Brief, geschrieben in unseren Herzen, bekannt und von allen Menschen gelesen, offenbart, dass ihr ein Brief Christi seid, durch uns gedient, nicht mit Tinte geschrieben, sondern mit dem Geist des lebendigen Gottes; nicht auf Steintafeln, sondern auf Tafeln aus fleischlichen Herzen.
+
+Solche Zuversicht haben wir durch Christus zu Gott, nicht dass wir von uns selbst ausreichend wären, etwas als von uns selbst zu zählen; sondern unsere Genügsamkeit ist von Gott, der uns auch als Diener eines neuen Bundes ausreichend gemacht hat, nicht des Buchstabens, sondern des Geistes. Denn der Buchstabe tötet, aber der Geist gibt Leben.
+
+Wenn aber der Dienst des Todes, in Steinen eingraviert und mit Herrlichkeit kam, sodass die Kinder Israels das Angesicht Moses wegen der Herrlichkeit seines Angesichts nicht fest anschauen konnten, die vorüberging, wird dann der Dienst des Geistes nicht viel mehr Herrlichkeit haben? Denn wenn der Dienst der Verdammnis Herrlichkeit hat, so übersteigt der Dienst der Gerechtigkeit viel mehr in Herrlichkeit. Denn gewiss ist das, was verherrlicht wurde, in diesem Punkt nicht verherrlicht worden wegen der Herrlichkeit, die überragt. Denn wenn das Vorübergehende mit Herrlichkeit war, so ist das Bleibende umso mehr in Herrlichkeit.
+
+Da wir also solche Hoffnung haben, gebrauchen wir große Freimütigkeit im Reden und nicht wie Mose, der einen Schleier auf sein Gesicht legte, damit die Kinder Israels nicht fest auf das Ende dessen schauen konnten, was vorüberging. Aber ihre Sinne wurden verhärtet; denn bis zu diesem Tag bleibt derselbe Schleier beim Lesen des alten Bundes bestehen; denn in Christus geht er vorüber. Aber bis zum heutigen Tag liegt ein Schleier auf ihrem Herzen, wenn Mose gelesen wird. Immer wenn aber jemand sich dem Herrn zuwendet, wird der Schleier weggenommen. Der Herr aber ist der Geist; und wo der Geist des Herrn ist, da ist Freiheit. Wir alle aber schauen mit unbedecktem Angesicht die Herrlichkeit des Herrn wie in einem Spiegel und werden in dasselbe Bild verwandelt von Herrlichkeit zu Herrlichkeit, gleichwie vom Herrn, dem Geist.
+
+### Kapitel 4
+
+Darum, da wir dieses Amt haben, wie wir Barmherzigkeit empfangen haben, ermatten wir nicht. Sondern wir haben die verborgenen Dinge der Schande verleugnet, nicht in List wandelnd noch das Wort Gottes betrügerisch behandelnd, sondern durch die Offenbarung der Wahrheit uns selbst jedem Gewissen der Menschen vor Gott empfohlen. Selbst wenn unsere gute Nachricht verhüllt ist, ist sie verhüllt bei denen, die verloren gehen, bei denen der Gott dieser Welt die Sinne der Ungläubigen verblendet hat, damit das Licht der guten Nachricht von der Herrlichkeit Christi, der das Bild Gottes ist, nicht aufleuchte. Denn wir predigen uns selbst nicht, sondern Christus Jesus als Herrn und uns selbst als eure Diener um Jesu willen, da Gott gesagt hat: „Das Licht wird aus der Dunkelheit scheinen“, der in unseren Herzen geleuchtet hat, um das Licht der Erkenntnis der Herrlichkeit Gottes im Angesicht von Jesus Christus zu geben.
+
+Aber wir haben diesen Schatz in irdenen Gefäßen, damit die überragende Größe der Kraft von Gott und nicht von uns sei. Wir sind von allen Seiten bedrängt, doch nicht erdrückt; verwirrt, doch nicht verzweifelt; verfolgt, doch nicht verlassen; niedergeschlagen, doch nicht zerstört; immer das Sterben des Herrn Jesus im Leib tragend, damit das Leben Jesu auch in unserem Leib offenbart werde. Denn wir, die wir leben, werden immer um Jesu willen dem Tod überliefert, damit das Leben Jesu auch in unserem sterblichen Fleisch offenbart werde. So wirkt denn der Tod in uns, das Leben aber in euch.
+
+Aber da wir denselben Geist des Glaubens haben, gemäß dem, was geschrieben steht: „Ich glaubte, und darum sprach ich.“ Glauben auch wir, und darum sprechen wir auch, wissend, dass der, der den Herrn Jesus auferweckt hat, uns auch mit Jesus auferwecken und uns mit euch präsentieren wird. Denn alle Dinge sind um euretwillen, damit die Gnade, die durch die Vielen multipliziert wird, den Dank zur Herrlichkeit Gottes überströmen lasse.
+
+Darum ermatten wir nicht; denn obwohl unser äußerer Mensch verfällt, wird unser innerer Mensch Tag für Tag erneuert. Denn unser leichtes Bedrängnis, das nur für den Augenblick ist, schafft für uns mehr und mehr überaus ein ewiges Gewicht der Herrlichkeit, während wir nicht auf die Dinge sehen, die man sieht, sondern auf die Dinge, die man nicht sieht. Denn die Dinge, die man sieht, sind vergänglich; aber die Dinge, die man nicht sieht, sind ewig.
+
+### Kapitel 5
+
+Denn wir wissen, dass wenn das irdische Haus unserer Hütte aufgelöst wird, wir ein Gebäude von Gott haben, ein Haus nicht mit Händen gemacht, ewig im Himmel. Denn gewiss seufzen wir in diesem Zustand und sehnen uns danach, mit unserer Wohnung zu bekleidet zu werden, die aus dem Himmel kommt; wenn wir nämlich bekleidet sind, werden wir nicht nackt gefunden. Denn wahrhaftig seufzen wir, die wir in dieser Hütte sind, belastet; nicht weil wir uns unkleiden wollen, sondern weil wir uns bekleiden wollen, damit das Sterbliche von Leben verschlungen werde. Der uns für eben dies gemacht hat, ist Gott, der uns auch das Unterpfand des Geistes gegeben hat.
+
+Darum sind wir immer zuversichtlich und wissen, dass solange wir im Leib zu Hause sind, wir vom Herrn abwesend sind; denn wir wandeln im Glauben, nicht im Schauen. Wir sind mutig, sage ich, und sind eher bereit, vom Leib abwesend zu sein und bei dem Herrn zu sein. Darum setzen wir auch alles daran, ob wir zu Hause oder abwesend sind, ihm wohlgefällig zu sein. Denn wir müssen alle vor dem Richterstuhl Christi offenbar werden, damit jeder empfangen kann, was er im Leib getan hat, sei es gut oder böse.
+
+Da wir also den Herrn fürchten, überzeugen wir die Menschen; aber wir sind Gott offenbar und ich hoffe, dass wir auch in euren Gewissen offenbar sind. Denn wir empfehlen uns nicht wieder euch selbst, sondern sprechen so, dass ihr einen Anlass zum Rühmen für uns habt, damit ihr etwas habt, um denen zu antworten, die sich nach dem Äußeren rühmen und nicht nach dem Herzen. Denn wenn wir außer uns sind, so ist es für Gott. Oder wenn wir besonnen sind, so ist es für euch. Denn die Liebe Christi drängt uns; weil wir so urteilen: dass einer für alle gestorben ist; daher sind alle gestorben. Er starb für alle, damit die Lebenden nicht mehr für sich selbst leben, sondern für denjenigen, der um ihrer willen starb und auferstand.
+
+Darum kennen wir von nun an niemanden nach dem Fleisch. Auch wenn wir Christus nach dem Fleisch gekannt haben, so kennen wir ihn jetzt nicht mehr so. Darum ist jemand in Christus eine neue Schöpfung. Das Alte ist vergangen; siehe, alles ist neu geworden. Aber alles ist von Gott, der uns durch Jesus Christus mit sich versöhnt hat und uns das Amt der Versöhnung gegeben hat; nämlich dass Gott in Christus war und die Welt mit sich versöhnte und ihnen ihre Übertretungen nicht anrechnete und uns das Wort der Versöhnung anvertraute.
+
+Wir sind daher Botschafter für Christus, als ob Gott durch uns flehen würde: Wir bitten euch im Namen Christi, lasst euch mit Gott versöhnen. Denn den, der keine Sünde kannte, hat er für uns zur Sünde gemacht, damit wir in ihm die Gerechtigkeit Gottes werden.
+
+### Kapitel 6
+
+Zusammenarbeitend bitten wir auch, dass ihr die Gnade Gottes nicht vergeblich empfangt. Denn er sagt:
+
+„Zu einer günstigen Zeit habe ich dir gehört.
+
+An einem Tag des Heils habe ich dir geholfen.“
+
+Siehe, jetzt ist die günstige Zeit. Siehe, jetzt ist der Tag des Heils. Wir geben in nichts einen Anstoß, damit unser Dienst nicht getadelt wird, sondern in allem empfehlen wir uns als Diener Gottes: in großer Ausdauer, in Bedrängnissen, in Nöten, in Ängsten, in Prügeln, in Gefängnissen, in Unruhen, in Mühen, in Wachen, in Fasten, in Reinheit, in Erkenntnis, in Langmut, in Freundlichkeit, im Heiligen Geist, in aufrichtiger Liebe, im Wort der Wahrheit, in der Kraft Gottes, durch die Rüstung der Gerechtigkeit zur rechten und zur linken Seite, durch Ehre und Schande, durch böse Berichte und gute Berichte, als Betrüger und doch wahrhaftig, als Unbekannte und doch wohlbekannt, als Sterbende und siehe – wir leben, als Gezüchtigte und nicht getötet, als Traurige und doch immer fröhlich, als Arme und doch viele reich machend, als die nichts haben und doch alles besitzen.
+
+Unser Mund ist euch geöffnet, ihr Korinther. Unser Herz ist weit geworden. Ihr seid nicht durch uns eingeengt, sondern ihr seid durch eure eigenen Zuneigungen eingeengt. Jetzt im Gegenzug – ich spreche zu meinen Kindern – öffnet auch ihr eure Herzen.
+
+Seid nicht ungleich mit Ungläubigen verbunden; denn was für eine Gemeinschaft hat die Gerechtigkeit mit der Ungerechtigkeit? Oder was für eine Gemeinschaft hat das Licht mit der Finsternis? Was für eine Übereinstimmung hat Christus mit Belial? Oder was für einen Anteil hat ein Gläubiger mit einem Ungläubigen? Was für eine Übereinstimmung hat der Tempel Gottes mit den Idolen? Denn ihr seid der Tempel des lebendigen Gottes. Wie Gott gesagt hat: „Ich werde in ihnen wohnen und unter ihnen wandeln. Ich werde ihr Gott sein und sie werden mein Volk sein.“ Darum
+
+„‘Geht aus ihrer Mitte heraus
+
+und sondert euch ab,’ spricht der Herr.
+
+‘Berührt nichts Unreines.
+
+Ich werde euch empfangen.
+
+Ich werde euch ein Vater sein.
+
+Ihr werdet mir Söhne und Töchter sein,’ 
+
+spricht der Herr der Heerscharen.“
+
+### Kapitel 7
+
+Da wir also diese Verheißungen haben, Geliebte, lasst uns uns von aller Unreinheit des Fleisches und des Geistes reinigen und die Heiligkeit im Furcht Gottes vollenden.
+
+Öffnet eure Herzen für uns. Wir haben niemanden Unrecht getan. Wir haben niemanden verdorben. Wir haben niemanden ausgenutzt. Ich sage dies nicht, um euch zu verurteilen; denn ich habe zuvor gesagt, dass ihr in unseren Herzen seid, um zusammen zu sterben und zusammen zu leben. Groß ist meine Freimütigkeit euch gegenüber. Groß ist mein Ruhm auf eure behalf. Ich bin erfüllt von Trost. Ich überfließe vor Freude in all unserer Bedrängnis.
+
+Denn selbst als wir nach Mazedonien kamen, hatte unser Fleisch keine Ruhe; sondern wir wurden von allen Seiten bedrängt. Kämpfe waren außen; Furcht war innen. Dennoch tröstete uns der Gott der Niedrigen durch das Kommen des Titus; und nicht nur durch sein Kommen, sondern auch durch den Trost, mit dem er durch euch getröstet wurde, als er uns von eurem Verlangen, eurem Trauern und eurem Eifer für mich erzählte, sodass ich mich noch mehr freute.
+
+Denn obwohl ich euch mit meinem Brief betrübt habe, bereue ich es nicht; obwohl ich es bereut habe. Denn ich sehe, dass mein Brief euch betrübt hat, wenn auch nur für eine Weile. Jetzt freue ich mich jedoch nicht darüber, dass ihr betrübt wurdet, sondern dass ihr zur Buße betrübt wurdet. Denn ihr wurdet auf eine gottgefällige Weise betrübt, sodass ihr durch uns in nichts Schaden leidet. Denn gottgefällige Traurigkeit bewirkt Buße zur Rettung, die keine Reue bringt. Die Traurigkeit der Welt jedoch bewirkt den Tod. Denn siehe, dieses gleiche Ding – dass ihr auf eine gottgefällige Weise betrübt wurdet – was für eine ernste Sorge hat es in euch bewirkt! Ja, was für eine Verteidigung, Empörung, Furcht, Verlangen, Eifer und Rechtfertigung! In allem habt ihr euch als rein in dieser Angelegenheit erwiesen. So habe ich euch zwar geschrieben; aber ich schrieb nicht wegen dessen Ursache, der Unrecht tat; noch wegen dessen Ursache, der das Unrecht erlitt; sondern damit eure ernste Sorge um uns in euch vor Gott offenbar würde. Deshalb sind wir getröstet worden. In unserem Trost haben wir uns umso mehr gefreut über die Freude des Titus; denn sein Geist ist durch euch alle erquickt worden. Denn wenn ich ihm in irgendetwas auf eurer behalf geprahlt habe, wurde ich nicht enttäuscht. Aber wie wir euch alles in Wahrheit gesagt haben, so wurde auch unser Ruhm, den ich vor Titus gemacht habe, als Wahrheit befunden. Seine Zuneigung ist reichlicher zu euch gerichtet; während er sich an all eure Gehorsamkeit erinnert, wie ihr ihn mit Furcht und Zittern empfangen habt. Ich freue mich darüber, dass ich in allem zuversichtlich bin bezüglich euch.
+
+### Kapitel 8
+
+Darüber hinaus, Brüder, machen wir euch die Gnade Gottes bekannt, die in den Versammlungen von Mazedonien gegeben wurde, wie in einer schweren Prüfung der Bedrängnis die Fülle ihrer Freude und ihre tiefe Armut zur Fülle ihrer Großzügigkeit beitrugen. Denn nach ihrer Kraft, das bezeuge ich, ja, über ihre Kraft hinaus, gaben sie freiwillig und baten uns mit viel Drängen, diese Gnade und die Gemeinschaft im Dienst an den Heiligen anzunehmen. Das geschah nicht wie wir erwartet hatten, sondern zuerst gaben sie sich selbst dem Herrn und uns durch den Willen Gottes. So drängten wir Titus, dass er, wie er zuvor einen Anfang gemacht hatte, auch in euch diese Gnade vollenden möge. Aber wie ihr in allem überfließt – im Glauben, in der Rede, im Wissen, in aller Ernsthaftigkeit und in eurer Liebe zu uns – seht zu, dass ihr auch in dieser Gnade überfließt.
+
+Ich spreche nicht als Gebot, sondern um durch die Ernsthaftigkeit anderer die Aufrichtigkeit auch eurer Liebe zu prüfen. Denn ihr kennt die Gnade unseres Herrn Jesus Christus, dass er, obwohl er reich war, um euretwillen arm wurde, damit ihr durch seine Armut reich werden könntet. Ich gebe euch in dieser Hinsicht einen Rat: Es ist für euch, die ihr vor einem Jahr den Anfang gemacht habt, nicht nur gut zu handeln, sondern auch bereit zu sein. Aber jetzt vollendet auch das Handeln, damit, wie die Bereitschaft da war, auch die Vollendung aus eurer Fähigkeit kommen kann. Denn wenn die Bereitschaft da ist, ist es annehmbar nach dem, was ihr habt, nicht nach dem, was ihr nicht habt. Denn es geht nicht darum, dass andere Erleichterung haben und ihr in Not seid, sondern um Gleichheit. Eure Fülle zu dieser Zeit deckt ihren Mangel, damit auch ihre Fülle euren Mangel decken kann, damit es Gleichheit gibt. Wie geschrieben steht: „Wer viel gesammelt hat, hatte nichts übrig, und wer wenig gesammelt hat, hatte keinen Mangel.“
+
+Aber Gott sei Dank, der Titus denselben ernsthaften Eifer für euch ins Herz gelegt hat. Denn er hat tatsächlich unsere Ermahnung angenommen und ist von sich aus sehr ernsthaft zu euch gegangen. Wir haben zusammen mit ihm den Bruder gesandt, dessen Lob in der guten Nachricht in allen Versammlungen bekannt ist. Nicht nur das, sondern er wurde auch von den Versammlungen beauftragt, mit uns in dieser Gnade zu reisen, die wir zum Ruhm des Herrn selbst dienen und um unsere Bereitschaft zu zeigen. Wir vermeiden es, dass jemand uns wegen dieser Fülle beschuldigt, die durch uns verwaltet wird. Wir achten auf ehrenhafte Dinge, nicht nur in den Augen des Herrn, sondern auch in den Augen der Menschen. Wir haben mit ihnen unseren Bruder gesandt, den wir viele Male in vielen Dingen als ernsthaft erwiesen haben, aber jetzt noch viel ernsthafter wegen des großen Vertrauens, das er in euch hat. Was Titus betrifft, er ist mein Partner und Mitarbeiter für euch. Was unsere Brüder betrifft, sie sind die Apostel der Versammlungen, die Herrlichkeit Christi. Daher zeigt den Beweis eurer Liebe vor den Versammlungen und unser Rühmen eurerseits.
+
+### Kapitel 9
+
+Es ist mir tatsächlich unnötig, euch über den Dienst an den Heiligen zu schreiben, denn ich kenne eure Bereitschaft, mit der ich mich eurer wegen vor den Mazedoniern rühme, dass Achaia im vergangenen Jahr vorbereitet wurde. Euer Eifer hat viele von ihnen angeregt. Aber ich habe die Brüder gesandt, damit unser Rühmen eurerseits in dieser Hinsicht nicht vergeblich sei, dass ihr bereit seid, wie ich gesagt habe; damit nicht etwa jemand von Mazedonien mit mir kommt und euch unvorbereitet findet und wir (um nichts von euch zu sagen) in diesem vertrauensvollen Rühmen enttäuscht werden. Ich hielt es daher für notwendig, die Brüder zu bitten, dass sie vor euch hingehen und im Voraus das großzügige Geschenk arrangieren, das ihr zuvor versprochen habt, damit dasselbe bereit ist als eine Frage der Großzügigkeit und nicht aus Geiz.
+
+Denkt daran: Wer spärlich sät, wird auch spärlich ernten. Wer reichlich sät, wird auch reichlich ernten. Jeder gebe nach dem, was er sich im Herzen vorgenommen hat, nicht widerwillig oder aus Zwang; denn Gott liebt einen fröhlichen Geber. Und Gott kann alle Gnade über euch reichlich machen, damit ihr immer alles habt und zu jedem guten Werk überfließen könnt. Wie geschrieben steht:
+
+„Er hat weit verstreut. Er hat den Armen gegeben. 
+
+Seine Gerechtigkeit bleibt für immer.“
+
+Jetzt möge der, der Samen dem Säer und Brot zur Nahrung gibt, euren Samen zum Säen bereitstellen und vermehren und die Früchte eurer Gerechtigkeit vermehren, während ihr in allem bereichert werdet für alle Großzügigkeit, die Dankbarkeit zu Gott durch uns hervorbringt. Denn dieser Dienst des Gebens, den ihr verrichtet, macht nicht nur den Mangel unter den Heiligen wett, sondern überfließt auch durch viel Dank an Gott, da sie durch den Beweis, der durch diesen Dienst gegeben wird, Gott verherrlichen für die Gehorsamkeit eurer Bekennung zum Evangelium Christi und für die Großzügigkeit eures Beitrags zu ihnen und zu allen, während sie selbst auch mit Fürbitte für euch nach euch verlangen wegen der überaus großen Gnade Gottes in euch. Nun sei Gott Dank für sein unaussprechliches Geschenk!
+
+### Kapitel 10
+
+Nun bitte ich, Paulus, euch selbst durch die Demut und Sanftmut Christi, ich, der ich in eurer Gegenwart niedrig unter euch bin, aber in Abwesenheit kühn gegen euch bin. Ja, ich bitte euch, dass ich nicht, wenn ich gegenwärtig bin, Mut mit dem Vertrauen zeigen möge, mit dem ich beabsichtige, gegen einige kühn zu sein, die uns für fleischlich halten. Denn obwohl wir im Fleisch wandeln, kämpfen wir nicht nach dem Fleisch; denn die Waffen unseres Kampfes sind nicht fleischlich, sondern mächtig vor Gott zum Niederreißen von Festungen, zum Niederreißen von Gedanken und allem hohen Ding, das sich gegen die Erkenntnis Gottes erhebt und jeden Gedanken gefangen nimmt zur Gehorsamkeit Christi und bereit ist, jede Ungehorsamkeit zu rächen, wenn eure Gehorsamkeit vollendet ist.
+
+Seht ihr die Dinge nur so, wie sie vor eurem Gesicht erscheinen? Wenn jemand sich selbst vertraut, dass er Christi ist, so lasse ihn dies wieder mit sich selbst bedenken, dass ebenso wie er Christi ist, so sind wir auch Christi. Denn selbst wenn ich etwas übermäßig prahle bezüglich unserer Autorität, die der Herr gegeben hat, um euch aufzubauen und nicht um euch niederzudrücken, werde ich mich nicht schämen, damit ich nicht so erscheine, als ob ich euch durch meine Briefe erschrecken möchte. Denn „seine Briefe“, sagen sie, „sind gewichtig und stark, aber seine leibliche Gegenwart ist schwach und seine Rede wird verachtet.“ Lass einen solchen Menschen dies bedenken: Was wir in Wort durch Briefe sind, wenn wir abwesend sind, das sind wir auch in Tat, wenn wir gegenwärtig sind.
+
+Denn wir sind nicht kühn genug, uns mit einigen von denen zu zählen oder zu vergleichen, die sich selbst loben. Aber sie selbst messen sich mit sich selbst und vergleichen sich mit sich selbst und sind ohne Verständnis. Aber wir werden nicht über das Maß hinaus prahlen, sondern innerhalb der Grenzen, die Gott uns gesetzt hat, die sogar bis zu euch reichen. Denn wir dehnen uns nicht zu sehr aus, als ob wir euch nicht erreicht hätten. Denn wir sind bis zu euch gekommen mit dem Evangelium Christi und prahlen nicht über das Maß hinaus in den Arbeiten anderer Männer, sondern haben die Hoffnung, dass euer Glaube wächst und wir durch euch in unserem Einflussbereich reichlich vergrößert werden, um das Evangelium sogar bis zu den Teilen jenseits von euch zu predigen, nicht um uns in dem zu rühmen, was jemand anderes bereits getan hat. Aber „wer sich rühmt, der rühme sich im Herrn.“ Denn nicht der sich selbst lobt ist bewährt, sondern der vom Herrn gelobt wird.
+
+### Kapitel 11
+
+Ich wünsche mir, dass ihr mir ein wenig Torheit ertragt; aber in der Tat ertragt ihr mich. Denn ich bin eifersüchtig auf euch mit einer göttlichen Eifersucht. Denn ich habe euch einem Mann verlobt, damit ich euch als eine reine Jungfrau Christus präsentiere. Aber ich fürchte, dass irgendwie eure Gedanken von der Einfachheit abgelenkt werden könnten, die in Christus ist, so wie die Schlange Eva durch ihre List verführte. Denn wenn jemand kommt und einen anderen Jesus predigt, den wir nicht gepredigt haben, oder wenn ihr einen anderen Geist empfangt, den ihr nicht empfangen habt, oder eine andere „gute Nachricht“, die ihr nicht angenommen habt, dann ertragt ihr das gut genug. Denn ich halte dafür, dass ich in keiner Weise hinter den allerbesten Aposteln zurückstehe. Aber obwohl ich ungeschickt im Reden bin, bin ich doch nicht ungeschickt im Wissen. Nein, auf jede Weise haben wir uns euch in allen Dingen offenbart.
+
+Oder habe ich gesündigt, indem ich mich erniedrigt habe, damit ihr erhöht werdet, weil ich euch die gute Nachricht Gottes kostenlos gepredigt habe? Ich habe anderen Versammlungen Geld entzogen, um euch zu dienen. Als ich bei euch war und in Not war, war ich niemandem zur Last, denn die Brüder, die aus Mazedonien kamen, haben das Maß meines Bedarfs gedeckt. In allem habe ich mich davor bewahrt, euch zur Last zu fallen, und ich werde es weiterhin tun. So wahr die Wahrheit Christi in mir ist, wird mich niemand davon abhalten, in den Regionen von Achaia damit zu prahlen. Warum? Weil ich euch nicht liebe? Gott weiß es.
+
+Aber was ich tue, das werde ich weiterhin tun, um denjenigen, die eine Gelegenheit suchen, die Gelegenheit zu nehmen, damit sie in dem, worauf sie sich rühmen, genauso erkannt werden wie wir. Denn solche Männer sind falsche Apostel, betrügerische Arbeiter, die sich als Apostel Christi ausgeben. Und kein Wunder, denn sogar Satan gibt sich als Engel des Lichts aus. Es ist daher nichts Großes, wenn auch seine Diener sich als Diener der Gerechtigkeit ausgeben, deren Ende nach ihren Werken sein wird.
+
+Ich sage es noch einmal: Lass niemanden mich für töricht halten. Aber wenn doch, dann nehmt mich als töricht auf, damit ich auch ein wenig prahlen kann. Was ich spreche, spreche ich nicht gemäß dem Herrn, sondern in Torheit, in diesem Vertrauen des Prahlens. Da viele nach dem Fleisch prahlen, will ich auch prahlen. Denn ihr ertragt die Törichten gerne, obwohl ihr weise seid. Ihr ertragt einen Mann, wenn er euch in die Knechtschaft führt, wenn er euch verzehrt, wenn er euch gefangen nimmt, wenn er sich selbst erhebt oder wenn er euch ins Gesicht schlägt. Zu meinem Schande spreche ich, als ob wir schwach gewesen wären. Doch auf welche Weise auch immer jemand kühn ist (ich spreche in Torheit), ich bin auch kühn. Sind sie Hebräer? So bin ich es auch. Sind sie Israeliten? So bin ich es auch. Sind sie Nachkommen Abrahams? So bin ich es auch. Sind sie Diener Christi? (Ich spreche wie einer, der außer sich ist.) Ich bin es noch mehr: in Mühen überreichlich, in Gefängnissen überreichlich, in Schlägen über das Maß hinaus und oft im Tod. Fünfmal erhielt ich von den Juden vierzig Streiche weniger einen. Dreimal wurde ich mit Ruten geschlagen. Einmal wurde ich gesteinigt. Dreimal erlitt ich Schiffbruch. Ich war einen Tag und eine Nacht im tiefen Wasser. Ich war oft auf Reisen, in Gefahren von Flüssen, in Gefahren von Räubern, in Gefahren von meinen Landsleuten, in Gefahren von den Heiden, in Gefahren in der Stadt, in Gefahren in der Wüste, in Gefahren auf dem Meer, in Gefahren unter falschen Brüdern; in Mühe und Arbeit, oft im Wachen, in Hunger und Durst, oft im Fasten und in Kälte und Nacktheit.
+
+Neben diesen Dingen, die außerhalb sind, drängt mich täglich das: Sorge um alle Versammlungen. Wer ist schwach, und ich bin nicht schwach? Wer wird zum Straucheln gebracht, und ich brenne nicht vor Zorn?
+
+Wenn ich mich rühmen muss, will ich mich der Dinge rühmen, die meine Schwäche betreffen. Der Gott und Vater unseres Herrn Jesus Christus, der für immer gesegnet ist, weiß, dass ich nicht lüge. In Damaskus bewachte der Statthalter unter König Aretas die Stadt der Damascener und wollte mich festnehmen. Ich wurde durch ein Fenster an der Mauer in einem Korb hinuntergelassen und entkam seinen Händen.
+
+### Kapitel 12
+
+Es ist zweifellos nicht profitabel für mich zu prahlen, aber ich werde zu Visionen und Offenbarungen des Herrn kommen. Ich kenne einen Mann in Christus, der vor vierzehn Jahren bis in den dritten Himmel entrückt wurde – ob im Leib oder außerhalb des Leibes weiß ich nicht; Gott weiß es. Ich kenne einen solchen Mann (ob im Leib oder außerhalb des Leibes weiß ich nicht; Gott weiß es), wie er ins Paradies entrückt wurde und unaussprechliche Worte hörte, die ein Mensch nicht aussprechen darf. Für einen solchen will ich mich rühmen, aber für mich selbst will ich mich nicht rühmen, außer in meinen Schwächen. Denn wenn ich mich rühmen wollte, wäre ich nicht töricht; denn ich würde die Wahrheit sprechen. Aber ich halte mich zurück, damit niemand mehr von mir denkt als das, was er in mir sieht oder von mir hört. Wegen der übergroßen Größe der Offenbarungen wurde mir ein Dorn im Fleisch gegeben: ein Bote Satans, um mich zu quälen, damit ich nicht übermäßig erhöht werde. Über diese Sache habe ich den Herrn dreimal gebeten, dass sie von mir weiche. Er hat zu mir gesagt: „Meine Gnade genügt dir; denn meine Kraft wird in Schwäche vollendet.“ Daher will ich viel lieber in meinen Schwächen rühmen, damit die Kraft Christi auf mir ruhen möge.
+
+Deshalb habe ich Freude an Schwächen, an Verletzungen, an Notwendigkeiten, an Verfolgungen und an Bedrängnissen um Christi willen. Denn wenn ich schwach bin, dann bin ich stark. Ich bin töricht geworden im Rühmen. Ihr habt mich gezwungen, denn ich hätte von euch gelobt werden sollen; denn ich bin in keiner Weise den allerbesten Aposteln unterlegen, obwohl ich nichts bin. Wahrlich, die Zeichen eines Apostels wurden unter euch in aller Ausdauer gewirkt, in Zeichen und Wundern und mächtigen Werken. Denn was gibt es, in dem ihr den anderen Versammlungen unterlegen seid, es sei denn, dass ich selbst euch keine Last war? Vergebt mir diesen Unrecht!
+
+Siehe, dies ist das dritte Mal, dass ich bereit bin, zu euch zu kommen, und ich werde euch keine Last sein; denn ich suche nicht eure Besitztümer, sondern euch. Denn die Kinder sollen nicht für die Eltern sparen, sondern die Eltern für die Kinder. Ich werde mich mit Freuden für eure Seelen ausgeben und mich ausgeben. Wenn ich euch reichlich liebe, werde ich dann weniger geliebt? Doch auch ich habe euch keine Last auferlegt. Aber ihr könnt sagen, dass ich listig war und euch mit Täuschung gefangen genommen habe. Habe ich durch jemanden von denen, die ich zu euch gesandt habe, einen Vorteil aus euch gezogen? Ich habe Titus ermahnt und den Bruder mit ihm gesandt. Hat Titus einen Vorteil aus euch gezogen? Sind wir nicht im gleichen Geist gewandelt? Sind wir nicht in den gleichen Schritten gewandelt?
+
+Denkt ihr wieder, dass wir uns vor euch entschuldigen? Vor Gottes Angesicht reden wir in Christus. Aber alles, Geliebte, geschieht zu eurem Aufbau. Denn ich fürchte, dass ich vielleicht, wenn ich komme, euch nicht so finde, wie ich möchte, und dass ich von euch gefunden werde, wie ihr es nicht wünscht; dass vielleicht Streit, Eifersucht, Zornausbrüche, Fraktionen, Verleumdungen, Flüstereien, stolze Gedanken oder Unruhen da wären; dass mein Gott mich wieder demütigen würde vor euch und ich um viele trauern würde, die zuvor gesündigt haben und sich nicht von der Unreinheit, der sexuellen Unmoral und der Begierde, die sie begangen haben, umgekehrt haben.
+
+### Kapitel 13
+
+Dies ist das dritte Mal, dass ich zu euch komme. „Durch den Mund zweier oder dreier Zeugen soll jedes Wort bestätigt werden.“ Ich habe zuvor gewarnt und warne erneut; so wie ich beim zweiten Mal anwesend war, schreibe ich jetzt an die, die zuvor gesündigt haben und an alle übrigen, dass ich, wenn ich wieder komme, nicht schonen werde; denn ihr sucht einen Beweis dafür, dass Christus in mir spricht, der nicht schwach ist, sondern mächtig unter euch. Denn er wurde durch Schwäche gekreuzigt; doch lebt er durch die Kraft Gottes. Denn auch wir sind schwach in ihm; aber wir werden mit ihm leben durch die Kraft Gottes gegenüber euch.
+
+Prüft euch selbst, ob ihr im Glauben seid. Prüft euch selbst. Oder wisst ihr nicht von euch selbst, dass Jesus Christus in euch ist? – es sei denn, dass ihr disqualifiziert seid. Aber ich hoffe, dass ihr wissen werdet, dass wir nicht disqualifiziert sind.
+
+Jetzt bete ich zu Gott, dass ihr kein Böses tut; nicht damit wir als genehmigt erscheinen, sondern damit ihr das tut, was ehrenhaft ist, obwohl wir gescheitert erscheinen mögen. Denn wir können nichts gegen die Wahrheit tun, sondern für die Wahrheit. Denn wir freuen uns, wenn wir schwach sind und ihr stark seid. Auch dafür beten wir: dass ihr vollkommen werdet. Aus diesem Grund schreibe ich diese Dinge während meiner Abwesenheit, damit ich nicht scharf handeln muss, wenn ich anwesend bin, gemäß der Autorität, die der Herr mir gegeben hat zum Aufbau und nicht zum Abbruch.
+
+Schließlich, Brüder, freut euch! Werdet vollkommen. Lasst euch trösten. Seid eines Sinnes. Lebt in Frieden; und der Gott der Liebe und des Friedens wird mit euch sein. Grüßt einander mit einem heiligen Kuss.
+
+Alle Heiligen grüßen euch.
+
+Die Gnade des Herrn Jesus Christus, die Liebe Gottes und die Gemeinschaft des Heiligen Geistes sei mit euch allen. Amen.
+
+## Galater
+
+Pauls Brief an die Galater
+
+### Kapitel 1
+
+Paulus, ein Apostel – nicht von Menschen, noch durch einen Menschen, sondern durch Jesus Christus und Gott den Vater, der ihn von den Toten auferweckt hat – und alle Brüder, die bei mir sind, an die Versammlungen in Galatien: Gnade sei mit euch und Frieden von Gott dem Vater und unserem Herrn Jesus Christus, der sich selbst für unsere Sünden gegeben hat, damit er uns aus diesem gegenwärtigen bösen Zeitalter errettet, gemäß dem Willen unseres Gottes und Vaters – dem sei die Ehre von Ewigkeit zu Ewigkeit. Amen.
+
+Ich wundere mich, dass ihr so schnell den verlässt, der euch in der Gnade Christi zu einer anderen „guten Nachricht“ berufen hat; aber es gibt keine andere „gute Nachricht“. Nur gibt es einige, die euch stören und die gute Nachricht Christi pervertieren wollen. Aber selbst wenn wir oder ein Engel vom Himmel euch irgendeine „gute Nachricht“ predigen sollten, die nicht der entspricht, die wir euch gepredigt haben, sei er verflucht. Wie wir zuvor gesagt haben, so sage ich jetzt wieder: Wenn jemand euch irgendeine „gute Nachricht“ predigt, die nicht der entspricht, die ihr empfangen habt, sei er verflucht.
+
+Suche ich jetzt den Wohlgefallen der Menschen oder den Gottes? Oder strebe ich danach, den Menschen zu gefallen? Denn wenn ich noch den Menschen gefiel, wäre ich nicht ein Diener Christi.
+
+Aber ich mache euch bekannt, Brüder, hinsichtlich der guten Nachricht, die durch mich gepredigt wurde, dass sie nicht nach Menschen ist. Denn ich habe sie nicht von Menschen empfangen, noch wurde ich darin unterrichtet, sondern sie kam zu mir durch Offenbarung Jesu Christi. Denn ihr habt von meinem früheren Lebenswandel im Judentum gehört, wie ich über die Maßen die Versammlung Gottes verfolgte und sie verwüstete. Ich ging im Judentum über viele meiner Altersgenossen unter meinem Volk hinaus und war überaus eifrig für die Traditionen meiner Väter. Als es aber dem Wohlgefallen Gottes gefiel, der mich von meiner Mutterleib getrennt und mich durch seine Gnade berufen hat, seinen Sohn in mir zu offenbaren, damit ich ihn unter den Heiden predige, da beriet ich mich nicht sofort mit Fleisch und Blut, noch ging ich hinauf nach Jerusalem zu denen, die vor mir Apostel waren, sondern ich zog in die Wüste Arabien und kehrte dann nach Damaskus zurück.
+
+Dann nach drei Jahren ging ich hinauf nach Jerusalem, um Petrus zu besuchen, und blieb fünfzehn Tage bei ihm. Aber von den anderen Aposteln sah ich niemanden außer Jakobus, dem Bruder des Herrn. Was aber die Dinge betrifft, die ich euch schreibe: Siehe, vor Gott lüge ich nicht. Dann kam ich in die Regionen von Syrien und Zilizien. Ich war den Versammlungen von Judäa, die in Christus sind, noch unbekannt; sie hörten nur: „Der uns einst verfolgt hat, predigt jetzt den Glauben, den er einst zu zerstören suchte.“ So verherrlichten sie Gott in mir.
+
+### Kapitel 2
+
+Dann nach einer Periode von vierzehn Jahren ging ich wieder hinauf nach Jerusalem mit Barnabas und nahm auch Titus mit mir. Ich ging durch Offenbarung hinauf und legte ihnen die gute Nachricht vor, die ich unter den Heiden predige, aber privat vor denen, die angesehen waren, aus Furcht, dass ich vielleicht vergeblich laufe oder gelaufen bin. Aber nicht einmal Titus, der mit mir war und Grieche war, wurde gezwungen, sich beschneiden zu lassen. Das geschah wegen der falschen Brüder, die heimlich hereingeschmuggelt wurden, um unsere Freiheit auszuspionieren, die wir in Christus Jesus haben, damit sie uns in Knechtschaft bringen könnten; denen gaben wir keinen Platz in der Weise der Unterwerfung, nicht für eine Stunde, damit die Wahrheit der guten Nachricht bei euch bleiben könnte. Aber von denen, die für wichtig gehalten wurden – was sie waren, macht für mich keinen Unterschied; Gott zeigt keine parteiische Vorliebe für Menschen – sie gaben mir nichts weiter; im Gegenteil, als sie sahen, dass mir die gute Nachricht für die Unbeschnittenen anvertraut worden war, ebenso wie Petrus die gute Nachricht für die Beschnittenen – denn der durch Petrus im Apostelamt für die Beschnittenen wirkte, wirkte auch durch mich für die Heiden – und als sie die Gnade erkannten, die mir gegeben worden war, gaben Jakobus und Kephas und Johannes, die für Säulen gehalten wurden, Barnabas und mir die rechte Hand der Gemeinschaft, dass wir zu den Heiden gehen sollten und sie zur Beschneidung. Sie baten uns nur darum, die Armen zu gedenken – was ich auch eifrig zu tun suchte.
+
+Als aber Petrus nach Antiochia kam, widerstand ich ihm ins Angesicht; denn er stand verurteilt da. Denn bevor einige Leute von Jakobus kamen, aß er mit den Heiden. Als sie aber kamen, zog er sich zurück und trennte sich von ihnen aus Furcht vor denen, die von der Beschneidung waren. Und die übrigen Juden schlossen sich ihm in seiner Heuchelei an, sodass sogar Barnabas mit ihrer Heuchelei mitgerissen wurde. Als ich aber sah, dass sie nicht aufrecht gemäß der Wahrheit der guten Nachricht wandelten, sprach ich zu Petrus vor allen: „Wenn du als Jude lebst wie die Heiden und nicht wie die Juden, warum zwingst du die Heiden zu leben wie die Juden?“
+
+„Wir, die wir von Natur aus Juden und keine heidnischen Sünder sind, wissen doch, dass der Mensch nicht durch die Werke des Gesetzes gerechtfertigt wird, sondern durch den Glauben an Jesus Christus. Auch wir haben an Christus Jesus geglaubt, damit wir durch den Glauben an Christus gerechtfertigt werden und nicht durch die Werke des Gesetzes, denn durch die Werke des Gesetzes wird kein Fleisch gerechtfertigt. Wenn wir aber, während wir uns um die Rechtfertigung in Christus bemühen, selbst als Sünder gefunden werden, ist Christus dann ein Diener der Sünde? Auf keinen Fall! Denn wenn ich wieder aufbaue, was ich zerstört habe, mache ich mich selbst zum Gesetzesübertreter. Denn ich bin durch das Gesetz dem Gesetz gestorben, damit ich für Gott lebe. Ich bin mit Christus gekreuzigt worden, und nicht mehr lebe ich, sondern Christus lebt in mir. Das Leben, das ich jetzt im Fleisch lebe, lebe ich im Glauben an den Sohn Gottes, der mich geliebt und sich selbst für mich hingegeben hat. Ich verwerfe die Gnade Gottes nicht. Denn wenn die Gerechtigkeit durch das Gesetz kommt, dann ist Christus umsonst gestorben!“
+
+### Kapitel 3
+
+Ihr törichten Galater, wer hat euch verzaubert, dass ihr der Wahrheit nicht gehorcht, vor deren Augen Jesus Christus unter euch als gekreuzigt dargestellt wurde? Dies will ich von euch lernen: Habt ihr den Geist durch die Werke des Gesetzes empfangen oder durch das Hören des Glaubens? Seid ihr so töricht? Nachdem ihr im Geist begonnen habt, wollt ihr jetzt im Fleisch vollendet werden? Habt ihr so viele Dinge umsonst erlitten, wenn es wirklich umsonst war? Derjenige nun, der euch den Geist gibt und Wunder unter euch wirkt, tut er das durch die Werke des Gesetzes oder durch das Hören des Glaubens? Ebenso hat Abraham „Gott geglaubt, und es wurde ihm zur Gerechtigkeit angerechnet.“ Erkennt also, dass die aus dem Glauben sind, die Kinder Abrahams sind. Die Schrift, die voraussah, dass Gott die Heiden durch den Glauben gerechtfertigen würde, verkündete Abraham im Voraus das Evangelium und sprach: „In dir werden alle Nationen gesegnet werden.“ So sind also die aus dem Glauben gesegnet mit dem gläubigen Abraham.
+
+Denn so viele aus den Werken des Gesetzes sind, sind unter einem Fluch. Denn es steht geschrieben: „Verflucht ist jeder, der nicht in allen Dingen bleibt, die im Buch des Gesetzes geschrieben sind, um sie zu tun.“ Dass nun niemand durch das Gesetz vor Gott gerechtfertigt wird, ist offenbar; denn „der Gerechte wird aus Glauben leben.“ Das Gesetz ist nicht aus Glauben; sondern „der Mensch, der sie tut, wird durch sie leben.“
+
+Christus hat uns von dem Fluch des Gesetzes erlöst, indem er ein Fluch für uns wurde. Denn es steht geschrieben: „Verflucht ist jeder, der an einem Holz hängt“, damit der Segen Abrahams zu den Heiden durch Christus Jesus komme, damit wir die Verheißung des Geistes durch den Glauben empfangen.
+
+Brüder, ich rede nach menschlichem Maßstab: Wenn es auch nur ein Menschenbund ist, so kann niemand ihn aufheben oder etwas hinzufügen, nachdem er bestätigt worden ist. Nun wurden die Verheißungen zu Abraham und seinem Nachkommen gesprochen. Er sagt nicht: „Und zu seinen Nachkommen“, als ob es viele wären, sondern als ob es einer wäre: „Und zu deinem Nachkommen“, das ist Christus. Nun sage ich dies: Ein zuvor von Gott in Christus bestätigter Bund hebt das Gesetz nicht auf, das vierhundertdreißig Jahre später kam, um die Verheißung unwirksam zu machen. Denn wenn das Erbe aus dem Gesetz kommt, so ist es nicht mehr aus der Verheißung; aber Gott hat es Abraham durch die Verheißung geschenkt.
+
+Warum gibt es dann das Gesetz? Es wurde hinzugefügt wegen der Übertretungen, bis der Nachkomme kommen sollte, dem die Verheißung gemacht wurde. Es wurde durch Engel in der Hand eines Mittlers angeordnet. Ein Mittler ist aber nicht zwischen einem; Gott aber ist einer.
+
+Ist das Gesetz nun gegen die Verheißungen Gottes? Auf keinen Fall! Denn wenn ein Gesetz gegeben worden wäre, das lebendig machen könnte, so wäre die Gerechtigkeit gewiss aus dem Gesetz gewesen. Aber die Schrift hat alles unter die Sünde eingeschlossen, damit die Verheißung durch den Glauben an Jesus Christus denen gegeben werde, die glauben.
+
+Vor dem Glauben aber waren wir unter dem Gesetz in Haft gehalten und für den Glauben eingeschlossen, der später offenbart werden sollte. So ist das Gesetz unser Zuchtmeister geworden, um uns zu Christus zu führen, damit wir durch den Glauben gerechtfertigt werden. Jetzt aber, da der Glaube gekommen ist, sind wir nicht mehr unter einem Zuchtmeister. Denn ihr seid alle Kinder Gottes durch den Glauben in Christus Jesus. Denn so viele von euch in Christus getauft worden sind, haben Christus angezogen. Es gibt weder Juden noch Griechen, weder Sklaven noch Freie, weder Männer noch Frauen; denn ihr seid alle eins in Christus Jesus. Wenn ihr aber Christi seid, dann seid ihr Abrahams Nachkommen und Erben gemäß der Verheißung.
+
+### Kapitel 4
+
+Aber ich sage, solange der Erbe ein Kind ist, ist er nicht anders als ein Knecht, obwohl er Herr über alles ist, sondern steht unter Aufsehern und Verwaltern bis zu dem Tag, den der Vater bestimmt hat. So waren auch wir, als wir Kinder waren, unter den elementaren Prinzipien der Welt in Knechtschaft. Aber als die Fülle der Zeit kam, sandte Gott seinen Sohn, geboren von einer Frau, geboren unter dem Gesetz, damit er die befreie, die unter dem Gesetz waren, damit wir die Kindschaft empfangen könnten. Und weil ihr Kinder seid, sandte Gott den Geist seines Sohnes in eure Herzen, der ruft: „Abba, Vater!“ So seid ihr nun nicht mehr Knechte, sondern Söhne; und wenn ein Sohn, dann auch ein Erbe Gottes durch Christus.
+
+Doch zu jener Zeit, als ihr Gott nicht kanntet, wart ihr in Knechtschaft gegenüber denen, die von Natur aus keine Götter sind. Aber jetzt, da ihr Gott erkannt habt, oder besser gesagt, von Gott erkannt worden seid, warum kehrt ihr wieder zurück zu den schwachen und elenden elementaren Prinzipien, zu denen ihr wieder in Knechtschaft sein wollt? Ihr beobachtet Tage, Monate, Jahreszeiten und Jahre. Ich fürchte um euch, dass ich meine Mühe umsonst für euch aufgewendet habe.
+
+Ich bitte euch, Brüder, werdet wie ich bin, denn ich bin auch wie ihr geworden. Ihr habt mir kein Unrecht getan, aber ihr wisst, dass ich wegen der Schwäche im Fleisch euch das Evangelium zum ersten Mal gepredigt habe. Was euch in meinem Fleisch eine Versuchung war, habt ihr nicht verachtet noch abgelehnt; sondern ihr habt mich empfangen wie einen Engel Gottes, sogar wie Christus Jesus.
+
+Was war der Segen, den ihr genossen habt? Denn ich bezeuge euch, dass ihr, wenn es möglich gewesen wäre, eure Augen ausgegraben und mir gegeben hättet. Habe ich also euer Feind geworden, weil ich euch die Wahrheit sage? Sie suchen euch eifrig auf keine gute Weise. Nein, sie wollen euch entfremden, damit ihr sie sucht. Aber es ist immer gut, eifrig für eine gute Sache zu sein und nicht nur, wenn ich bei euch bin.
+
+Meine kleinen Kinder, von denen ich wieder in Wehen liege, bis Christus in euch gebildet ist – aber ich wünschte, jetzt bei euch zu sein und meinen Ton zu ändern; denn ich bin über euch verwirrt.
+
+Sagt mir, die ihr unter dem Gesetz sein wollt, hört ihr das Gesetz nicht? Denn es steht geschrieben, dass Abraham zwei Söhne hatte, einen von der Dienerin und einen von der Freien. Der Sohn von der Dienerin wurde jedoch nach dem Fleisch geboren, aber der Sohn von der Freien wurde durch das Versprechen geboren. Diese Dinge enthalten ein Gleichnis; denn das sind zwei Bündnisse. Der eine ist vom Berg Sinai und bringt Kinder zur Knechtschaft; das ist Hagar. Denn diese Hagar ist der Berg Sinai in Arabien und entspricht dem gegenwärtigen Jerusalem; denn sie ist mit ihren Kindern in Knechtschaft. Aber das Jerusalem oben ist frei; das ist die Mutter von uns allen. Denn es steht geschrieben:
+
+„Freue dich, du Unfruchtbare, die du nicht gebierst.
+
+Brich aus und schreie, du, die du nicht gebärst.
+
+Denn die Verlassene hat mehr Kinder als die, die einen Mann hat.“
+
+Jetzt sind wir, Brüder, wie Isaak Kinder des Versprechens. Aber wie damals der nach dem Fleisch Geborene den nach dem Geist Geborenen verfolgte, so ist es auch jetzt. Was sagt aber die Schrift? „Stoße die Dienerin und ihren Sohn hinaus; denn der Sohn der Dienerin wird nicht mit dem Sohn der Freien erben.“ So sind wir also, Brüder, keine Kinder einer Dienerin, sondern der Freien.
+
+### Kapitel 5
+
+Steht also fest in der Freiheit, mit der uns Christus frei gemacht hat, und lasst euch nicht wieder mit einem Joch der Knechtschaft belasten.
+
+Siehe, ich, Paulus, sage euch: Wenn ihr die Beschneidung empfangt, wird euch Christus nichts nützen. Ja, ich bezeuge erneut jedem Mann, der die Beschneidung empfängt, dass er ein Schuldner ist, das ganze Gesetz zu tun. Ihr seid von Christus entfremdet, ihr, die ihr durch das Gesetz gerechtfertigt werden wollt; ihr seid aus der Gnade gefallen. Denn wir warten durch den Geist im Glauben auf die Hoffnung der Gerechtigkeit. Denn in Christus Jesus hat weder Beschneidung noch Unbeschnittenheit irgendeinen Wert; sondern der Glaube wirkt durch Liebe.
+
+Ihr seid gut gelaufen! Wer hat euch aufgehalten, dass ihr der Wahrheit nicht gehorcht? Diese Überzeugung kommt nicht von dem, der euch ruft. Ein wenig Sauerteig durchsäuert den ganzen Teig. Ich habe Vertrauen zu euch im Herrn, dass ihr nicht anders denken werdet. Aber wer euch verwirrt, wird sein Urteil tragen müssen, wer auch immer er sei.
+
+Aber ich, Brüder, wenn ich noch die Beschneidung predige, warum werde ich dann noch verfolgt? Dann ist der Stolperstein des Kreuzes beseitigt. Ich wünsche, dass sich diejenigen, die euch stören, sich selbst abschneiden würden.
+
+Denn ihr, Brüder, seid zur Freiheit berufen. Nur nutzt eure Freiheit nicht als Gelegenheit für das Fleisch, sondern seid durch die Liebe einander Diener. Denn das ganze Gesetz wird in einem Wort erfüllt, in diesem: „Du sollst deinen Nächsten lieben wie dich selbst.“ Wenn ihr euch aber gegenseitig beißt und verzehrt, so seht zu, dass ihr euch nicht gegenseitig verbraucht.
+
+Aber ich sage: Wandelt im Geist, und ihr werdet die Begierde des Fleisches nicht erfüllen. Denn das Fleisch begehrt gegen den Geist, und der Geist gegen das Fleisch; und diese stehen einander entgegen, sodass ihr nicht das tun könnt, was ihr wollt. Wenn ihr aber vom Geist geleitet werdet, seid ihr nicht unter dem Gesetz. Nun sind die Werke des Fleisches offenbar, nämlich: Ehebruch, Unzucht, Unreinheit, Ausschweifung, Götzendienst, Zauberei, Hass, Streit, Eifersüchteleien, Zornausbrüche, Rivalitäten, Spaltungen, Häresien, Neid, Morde, Trunkenheit, Ausschweifungen und dergleichen; von diesen sage ich euch im Voraus, wie ich euch auch zuvor gesagt habe, dass die, die solche Dinge tun, das Reich Gottes nicht erben werden.
+
+Die Frucht des Geistes aber ist Liebe, Freude, Frieden, Geduld, Freundlichkeit, Güte, Treue, Sanftmut und Selbstbeherrschung. Gegen solche Dinge gibt es kein Gesetz. Die zu Christus gehören, haben das Fleisch mit seinen Leidenschaften und Begierden gekreuzigt.
+
+Wenn wir im Geist leben, lasst uns auch im Geist wandeln. Lasst uns nicht eitel werden, einander herausfordern und einander beneiden.
+
+### Kapitel 6
+
+Brüder, wenn ein Mensch in irgendeiner Schuld ertappt wird, so sollt ihr, die ihr geistlich seid, einen solchen in einem Geist der Sanftmut wiederherstellen und auf euch selbst achten, damit auch ihr nicht versucht werdet. Tragt einer des anderen Lasten, und so erfüllt das Gesetz Christi. Denn wenn jemand sich für etwas hält, während er nichts ist, betrügt er sich selbst. Jeder aber prüfe sein eigenes Werk, und dann wird er Grund zum Ruhm in sich selbst haben und nicht in einem anderen. Denn jeder wird seine eigene Last tragen.
+
+Der aber, der im Wort unterrichtet wird, teile alle guten Dinge mit dem, der lehrt.
+
+Lasst euch nicht täuschen. Gott lässt sich nicht spotten; denn was der Mensch sät, das wird er auch ernten. Denn wer auf sein eigenes Fleisch sät, wird von dem Fleisch Verderben ernten; wer aber auf den Geist sät, wird vom Geist ewiges Leben ernten. Lasst uns nicht müde werden, Gutes zu tun; denn zu seiner Zeit werden wir ernten, wenn wir nicht nachlassen. So lasst uns nun, wenn wir Gelegenheit haben, Gutes tun an allen Menschen, besonders an denen der Familie des Glaubens.
+
+Seht mit welchen großen Buchstaben ich euch mit meiner eigenen Hand schreibe. So viele als wünschen im Fleisch gut dazustehen zwingen euch zur Beschneidung; nur damit sie nicht um des Kreuzes Christi willen verfolgt werden. Denn auch sie selbst halten die Beschneidung nicht; sondern sie wünschen nur, dass ihr beschnitten werdet, damit sie sich in eurem Fleisch rühmen können. Aber fern sei es mir zu rühmen außer im Kreuz unseres Herrn Jesus Christus, durch das die Welt mir gekreuzigt ist und ich der Welt. Denn in Christus Jesus ist weder Beschneidung etwas noch Unbeschnittensein, sondern eine neue Schöpfung. Und so viele nach dieser Regel wandeln, Frieden und Barmherzigkeit sei mit ihnen und mit dem Israel Gottes.
+
+Von nun an lasse niemand mir Mühe machen; denn ich trage die Male des Herrn Jesus an meinem Körper.
+
+Die Gnade unseres Herrn Jesus Christus sei mit eurem Geist, Brüder. Amen.
+
+## Epheser
+
+Pauls Brief an die Epheser
+
+### Kapitel 1
+
+Paulus, ein Apostel Christi Jesu durch den Willen Gottes, an die Heiligen in Ephesus und die Gläubigen in Christus Jesus: Gnade sei mit euch und Frieden von Gott unserem Vater und dem Herrn Jesus Christus.
+
+Gepriesen sei der Gott und Vater unseres Herrn Jesus Christus, der uns mit jedem geistlichen Segen in den himmlischen Regionen in Christus gesegnet hat; denn er hat uns in ihm erwählt vor Grundlegung der Welt, dass wir heilig und untadelig vor ihm sein sollten in Liebe; er hat uns dazu vorherbestimmt zur Sohnschaft durch Jesus Christus für sich selbst nach dem Wohlgefallen seines Willens zum Lob seiner herrlichen Gnade, mit der er uns begnadigt hat in dem Geliebten. In ihm haben wir die Erlösung durch sein Blut, die Vergebung unserer Übertretungen nach dem Reichtum seiner Gnade, die er überreichlich über uns hat walten lassen in aller Weisheit und Einsicht; indem er uns das Geheimnis seines Willens kundgetan hat nach seinem Wohlgefallen, das er sich vorgenommen hat in ihm zur Verwaltung der Fülle der Zeiten, um alles in Christus zusammenzufassen, was im Himmel und was auf Erden ist – in ihm. Auch wir sind ihm zum Erbe bestimmt worden; wir sind vorherbestimmt nach dem Vorsatz dessen, der alles wirkt nach dem Rat seines Willens; damit wir zum Lob seiner Herrlichkeit seien – wir, die wir zuvor auf Christus gehofft haben. In ihm habt auch ihr – nachdem ihr das Wort der Wahrheit gehört habt, das Evangelium eurer Rettung – in dem ihr auch geglaubt habt – das Siegel des verheißenen Heiligen Geistes empfangen; welcher der Unterpfand unseres Erbes ist bis zur Erlösung des Eigentums Gottes zum Lob seiner Herrlichkeit.
+
+### Kapitel 1
+
+Deshalb danke ich auch für euch, nachdem ich von dem Glauben an den Herrn Jesus gehört habe, der unter euch ist, und von der Liebe, die ihr zu allen Heiligen habt. Ich höre nicht auf, für euch Dank zu sagen und euch in meinen Gebeten zu erwähnen, damit der Gott unseres Herrn Jesus Christus, der Vater der Herrlichkeit, euch den Geist der Weisheit und Offenbarung im Erkenntnis seiner selbst gebe, die Augen eurer Herzen erleuchtet werden, damit ihr wisst, was die Hoffnung seiner Berufung ist und was der Reichtum der Herrlichkeit seines Erbes in den Heiligen ist und was die überragende Größe seiner Kraft ist gegenüber uns, die wir glauben, nach der Wirkung der Stärke seiner Macht, die er in Christus wirkte, als er ihn von den Toten auferweckte und ihn zu seiner Rechten in den himmlischen Orten setzte, weit über alle Herrschaft, Autorität, Macht, Herrschaft und jeden Namen, der genannt wird, nicht nur in diesem Zeitalter, sondern auch in dem kommenden. Er setzte alles unter seine Füße und gab ihm das Haupt über alles für die Versammlung, die sein Leib ist, die Fülle dessen, der alles in allem erfüllt.
+
+### Kapitel 2
+
+Ihr seid lebendig gemacht worden, als ihr tot wart in Übertretungen und Sünden, in denen ihr einst nach dem Lauf dieser Welt wandeltet, nach dem Fürsten der Macht der Luft, dem Geist, der jetzt in den Kindern des Ungehorsams wirkt. Auch wir lebten einst unter ihnen in den Begierden unseres Fleisches und taten die Wünsche des Fleisches und des Sinnes und waren von Natur Kinder des Zorns, wie auch die anderen. Aber Gott, der reich ist an Barmherzigkeit, hat uns wegen seiner großen Liebe, mit der er uns geliebt hat, auch als wir tot waren durch unsere Übertretungen, mit Christus lebendig gemacht – durch Gnade seid ihr gerettet – und hat uns mit ihm auferweckt und uns mit ihm sitzen lassen in den himmlischen Orten in Christus Jesus, damit er in den kommenden Zeitaltern die überragenden Reichtümer seiner Gnade in Güte gegen uns in Christus Jesus zeigen könnte; denn durch Gnade seid ihr durch den Glauben gerettet worden, und das nicht aus euch; es ist das Geschenk Gottes, nicht aus Werken, damit sich niemand rühme. Denn wir sind sein Werk, geschaffen in Christus Jesus zu guten Werken, die Gott zuvor bereitet hat, damit wir darin wandeln.
+
+Darum denkt daran, dass ihr einst die Heiden im Fleisch wart, die da „Unbeschnittene“ genannt werden von dem, was „Beschnittene“ heißt (im Fleisch, mit Händen gemacht), dass ihr damals ohne Christus wart, ausgeschlossen von der Bürgerschaft Israels und fremd den Bündnissen der Verheißung, ohne Hoffnung und ohne Gott in der Welt. Jetzt aber seid ihr in Christus Jesus, die ihr einst fern wart, nahe geworden durch das Blut Christi. Denn er ist unser Friede, der aus beiden eins gemacht hat und die mittlere Wand der Trennung abgebrochen hat, indem er in seinem Fleisch die Feindschaft aufgehoben hat, das Gesetz der Gebote in Satzungen, um aus beiden einen neuen Menschen zu schaffen und Frieden zu machen und beide in einem Leib mit Gott durch das Kreuz zu versöhnen und die Feindschaft durch sich selbst zu töten. Er kam und verkündete Frieden euch, die ihr fern wart, und Frieden denen, die nahe waren. Denn durch ihn haben wir beide unseren Zugang in einem Geist zum Vater. So seid ihr nun nicht mehr Fremde und Gäste, sondern Mitbürger mit den Heiligen und Hausgenossen Gottes und werdet erbaut auf dem Fundament der Apostel und Propheten, Christus Jesus selbst als den Eckstein; in dem das ganze Gebäude zusammengefügt wächst zu einem heiligen Tempel im Herrn; in dem auch ihr zusammen erbaut werdet zu einer Wohnung Gottes im Geist.
+
+### Kapitel 3
+
+Deshalb bin ich, Paulus, der Gefangene Christi Jesu für euch Heiden, wenn ihr wirklich gehört habt von der Verwaltung dieser Gnade Gottes, die mir für euch gegeben wurde; wie mir durch Offenbarung das Geheimnis bekannt gemacht wurde, wie ich zuvor in wenigen Worten schrieb; durch das ihr beim Lesen mein Verständnis des Geheimnisses Christi erkennen könntet, das in anderen Generationen den Kindern der Menschen nicht bekannt gemacht wurde, wie es jetzt seinen heiligen Aposteln und Propheten im Geist offenbart worden ist; dass die Heiden Mit-Erben und Mitglieder des Leibes und Mit-Teilhaber seiner Verheißung in Christus Jesus durch das Evangelium sind, dessen Diener ich geworden bin gemäß der Gabe dieser Gnade Gottes, die mir gegeben wurde nach der Wirkung seiner Kraft. Mir, dem geringsten von allen Heiligen, wurde diese Gnade gegeben, den Heiden die unausforschlichen Reichtümer Christi zu verkündigen und allen Menschen zu zeigen, was die Verwaltung des Geheimnisses ist, das seit ewigen Zeiten in Gott verborgen war, der alles durch Jesus Christus geschaffen hat; damit nun durch die Versammlung die vielseitige Weisheit Gottes den Herrschaften und Mächten in den himmlischen Orten bekannt gemacht werde gemäß dem ewigen Plan, den er in Christus Jesus unserem Herrn ausgeführt hat. In ihm haben wir Freimütigkeit und Zugang mit Zuversicht durch den Glauben an ihn. Deshalb bitte ich euch, dass ihr nicht mutlos werdet wegen meiner Bedrängnisse für euch; denn sie sind eure Herrlichkeit.
+
+Für diese Sache beuge ich meine Knie vor dem Vater unseres Herrn Jesus Christus, von dem jede Familie im Himmel und auf Erden benannt ist, dass er euch gewähren möge, gemäß den Reichtümern seiner Herrlichkeit, dass ihr mit Kraft durch seinen Geist im inneren Menschen gestärkt werdet, damit Christus durch den Glauben in euren Herzen wohne, damit ihr, in Liebe verwurzelt und gegründet, gestärkt werdet, um mit allen Heiligen zu begreifen, was die Breite und Länge und Höhe und Tiefe ist, und die Liebe Christi zu erkennen, die die Erkenntnis übersteigt, damit ihr mit aller Fülle Gottes erfüllt werdet.
+
+Nun aber dem, der über alles hinaus zu tun vermag, über das, was wir bitten oder denken, gemäß der Kraft, die in uns wirkt, ihm sei die Ehre in der Versammlung und in Christus Jesus für alle Generationen, von Ewigkeit zu Ewigkeit. Amen.
+
+### Kapitel 4
+
+Ich ermahne euch daher, der Gefangene im Herrn, würdig des Rufes zu wandeln, mit dem ihr berufen worden seid, mit aller Demut und Sanftmut, mit Geduld, einander in Liebe tragend, eifrig darauf bedacht, die Einheit des Geistes im Band des Friedens zu bewahren. Es gibt einen Leib und einen Geist, wie ihr auch berufen worden seid in einer Hoffnung eures Rufes; einen Herrn, einen Glauben, eine Taufe; einen Gott und Vater von allen, der über allen und durch alle und in uns allen ist. Jedem Einzelnen von uns wurde die Gnade gegeben gemäß dem Maß der Gabe Christi. Darum sagt er:
+
+„Als er hinaufstieg,
+
+führte er die Gefangenschaft mit sich
+
+und gab den Menschen Gaben.“
+
+Was bedeutet nun dieses „Er ist hinaufgestiegen“, wenn er nicht auch zuerst in die unteren Teile der Erde hinabgestiegen ist? Der hinabstieg, ist derselbe, der auch weit über alle Himmel hinaufstieg, damit er alles erfülle.
+
+Er gab einige zu Aposteln; einige zu Propheten; einige zu Evangelisten; einige zu Hirten und Lehrern; zur Vollkommenheit der Heiligen, zum Werk des Dienstes, zum Aufbau des Leibes Christi, bis wir alle zur Einheit des Glaubens und der Erkenntnis des Sohnes Gottes gelangen, zu einem vollendeten Mann, zum Maß der Größe der Fülle Christi, damit wir nicht mehr Kinder sind, die hin und her geworfen werden und mit jedem Wind der Lehre umhergetrieben werden durch die List der Menschen, in Hinterlistigkeit nach den Machenschaften des Irrtums; sondern indem wir die Wahrheit in Liebe reden, wachsen wir in allen Dingen zu ihm hin, der das Haupt ist, Christus, von dem der ganze Leib, gut zusammengefügt und verbunden durch das, was jeder Gelenk liefert, gemäß dem Wirken in Maß jedes einzelnen Teils, den Leib wachsen lässt zum Aufbau seiner selbst in Liebe.
+
+Das sage ich daher und bezeuge im Herrn, dass ihr nicht mehr wandelt wie die übrigen Heiden auch wandeln, in der Nichtigkeit ihres Sinnes, deren Verstand verfinstert ist, entfremdet vom Leben Gottes wegen der Unwissenheit, die in ihnen ist, wegen der Verhärtung ihrer Herzen. Sie haben sich abgestumpft und sich der Unzucht hingegeben, um alle Unreinheit mit Gier zu treiben. Aber so habt ihr Christus nicht gelernt, wenn ihr ihn wirklich gehört habt und in ihm gelehrt worden seid, wie die Wahrheit in Jesus ist: dass ihr hinsichtlich eures früheren Lebens den alten Menschen ablegt, der nach den Lüsten der Täuschung verderblich wird; und dass ihr im Geist eures Sinnes erneuert werdet und den neuen Menschen anzieht, der nach Gott geschaffen ist in wahrer Gerechtigkeit und Heiligkeit.
+
+Darum legt die Lüge ab und redet die Wahrheit jeder mit seinem Nächsten; denn wir sind Glieder voneinander. „Seid zornig und sündigt nicht.“ Lasst die Sonne nicht über eurem Zorn untergehen und gebt dem Teufel keinen Raum. Der gestohlen hat, stehle nicht mehr; sondern arbeite vielmehr und schaffe mit seinen Händen etwas Gutes, damit er etwas habe, um dem zu geben, der Bedarf hat. Lass kein unreines Wort aus eurem Mund kommen, sondern nur was gut ist zur Erbauung der anderen nach Bedarf, damit es Gnade gebe denen, die hören. Betrübt nicht den Heiligen Geist Gottes, mit dem ihr für den Tag der Erlösung versiegelt seid. Lass alle Bitterkeit und Zorn und Grimm und Geschrei und Lästerung von euch entfernt werden mit aller Bosheit. Seid aber freundlich zueinander, herzlich miteinander umgehend und vergebt einander, wie auch Gott euch in Christus vergeben hat.
+
+### Kapitel 5
+
+Seid daher Nachahmer Gottes, als geliebte Kinder. Wandelt in der Liebe, wie auch Christus uns geliebt hat und sich selbst für uns hingegeben hat, als Opfer und als ein wohlriechender Duft für Gott.
+
+Aber sexuelle Unmoral und alle Unreinheit oder Habgier, lasst es unter euch nicht einmal erwähnt werden, wie es den Heiligen geziemt; auch keine Schändlichkeiten, keine törichten Reden, keine Scherze, die nicht angebracht sind, sondern vielmehr Dankbarkeit.
+
+Wisst mit Sicherheit, dass kein sexuell unmoralischer Mensch, kein unreiner Mensch und kein habgieriger Mann (der ein Götzendiener ist) ein Erbe im Reich Christi und Gottes hat.
+
+Lasst euch von niemandem mit leeren Worten verführen, denn um dieser Dinge willen kommt der Zorn Gottes über die Kinder des Ungehorsams. Seid daher nicht Teilhaber mit ihnen. Denn ihr wart einst Finsternis, jetzt aber seid ihr Licht im Herrn. Wandelt als Kinder des Lichts, denn die Frucht des Geistes ist in aller Güte und Gerechtigkeit und Wahrheit und prüft, was dem Herrn wohlgefällig ist. Habt keine Gemeinschaft mit den fruchtlosen Werken der Finsternis, sondern tadelt sie vielmehr. Denn es ist eine Schande, selbst von den Dingen zu reden, die von ihnen im Verborgenen getan werden. Aber alle Dinge werden offenbar gemacht, wenn sie getadelt werden, denn alles, was offenbar macht, ist Licht. Darum sagt er: „Wach auf, du Schlafender, und stehe auf von den Toten, und Christus wird über dir scheinen.“
+
+Seht daher sorgfältig darauf, wie ihr wandelt, nicht als Unweise, sondern als Weise, die Zeit auskaufend, denn die Tage sind böse. Seid daher nicht töricht, sondern versteht, was der Wille des Herrn ist. Lasst euch nicht mit Wein betrunken, in dem Ausschweifung ist, sondern lasst euch mit dem Geist erfüllen; redet miteinander in Psalmen, Lobgesängen und geistlichen Liedern; singt und macht Melodie in eurem Herzen zum Herrn; dankt Gott dem Vater immer für alles im Namen unseres Herrn Jesus Christus; unterordnet euch einander in der Furcht Christi.
+
+Frauen, seid euren eigenen Männern untertan, wie dem Herrn. Denn der Mann ist das Haupt der Frau, wie auch Christus das Haupt der Versammlung ist, er selbst ist der Retter des Körpers. Aber wie die Versammlung Christus untertan ist, so seien auch die Frauen ihren eigenen Männern in allem untertan.
+
+Männer, liebt eure Frauen, wie auch Christus die Versammlung geliebt hat und sich selbst für sie hingegeben hat, um sie zu heiligen, nachdem er sie gereinigt hat durch das Wasserbad mit dem Wort, damit er die Versammlung sich selbst herrlich darstellt, nicht mit Flecken oder Runzeln oder etwas dergleichen, sondern dass sie heilig und ohne Makel sei. So sollen auch die Männer ihre eigenen Frauen lieben wie ihre eigenen Leiber. Wer seine eigene Frau liebt, liebt sich selbst. Denn niemand hat jemals sein eigenes Fleisch gehasst, sondern er nährt und pflegt es, wie auch der Herr die Versammlung tut; denn wir sind Glieder seines Körpers, seines Fleisches und seiner Knochen. „Darum wird ein Mann seinen Vater und seine Mutter verlassen und seiner Frau anhangen; und die beiden werden ein Fleisch sein.“ Dieses Geheimnis ist groß; ich rede aber von Christus und der Versammlung. Dennoch soll jeder von euch auch seine eigene Frau lieben wie sich selbst; und die Frau sehe zu, dass sie ihren Mann respektiert.
+
+### Kapitel 6
+
+Kinder, gehorcht euren Eltern im Herrn; denn das ist recht. „Ehre deinen Vater und deine Mutter“, welches das erste Gebot mit einer Verheißung ist: „damit es dir wohl gehe und du lange lebest auf der Erde.“
+
+Ihr Väter, reizt eure Kinder nicht zum Zorn, sondern zieht sie auf in der Zucht und Ermahnung des Herrn.
+
+Diener, seid gehorsam euren irdischen Herren mit Furcht und Zittern, in Einfalt eures Herzens, als dem Christus; nicht nur im Augendienst, als Menschengefällige, sondern als Knechte Christi, die den Willen Gottes von Herzen tun; mit gutem Willen Dienst tun als dem Herrn und nicht den Menschen; wissend, dass jeder gute Dienst den jeder tut, vom Herrn wieder empfangen wird, ob er nun Sklave oder frei ist.
+
+Ihr Herren, tut denselben Dingen gegen sie und lasst das Drohen; wissend, dass sowohl ihr Meister als auch euer Meister im Himmel ist und bei ihm keine Ansehen der Person ist.
+
+Schließlich seid stark in dem Herrn und in der Stärke seiner Macht. Zieht die ganze Rüstung Gottes an, damit ihr gegen die List des Teufels bestehen könnt. Denn unser Kampf ist nicht gegen Fleisch und Blut, sondern gegen die Herrschaften, gegen die Mächte, gegen die Weltbeherrscher der Finsternis dieser Zeit und gegen die geistlichen Kräfte der Bosheit in den himmlischen Regionen. Darum zieht die ganze Rüstung Gottes an, damit ihr an dem bösen Tag widerstehen und nachdem ihr alles getan habt, stehen bleiben könnt. Steht daher, eure Lenden mit der Wahrheit umgürtet, und angezogen mit dem Brustpanzer der Gerechtigkeit, und eure Füße mit der Bereitschaft des Evangeliums des Friedens beschuht; vor allem aber nehmt den Schild des Glaubens, mit dem ihr alle feurigen Pfeile des Bösen auslöschen könnt. Und nehmt den Helm des Heils und das Schwert des Geistes, welches das Wort Gottes ist; mit allem Gebet und Flehen betet zu jeder Zeit im Geist und seid wachsam zu diesem Zweck mit aller Ausdauer und Flehen für alle Heiligen. Betet für mich, dass mir das Wort gegeben werde, wenn ich meinen Mund öffne, um mit Freimut das Geheimnis des Evangeliums bekannt zu machen, für das ich ein Botschafter in Ketten bin; dass ich darin freimütig rede, wie ich reden soll.
+
+Damit ihr aber auch wisst, wie es mir geht, wird euch Tychikus, der geliebte Bruder und treue Diener im Herrn, alles berichten. Ich habe ihn zu euch gesandt, damit ihr unseren Zustand erfahrt und er eure Herzen trösten kann.
+
+Frieden sei mit den Brüdern und Liebe mit Glauben von Gott dem Vater und dem Herrn Jesus Christus. Die Gnade sei mit allen, die unseren Herrn Jesus Christus mit unvergänglicher Liebe lieben. Amen.
+
+## Philipper
+
+Paulus' Brief an die Philipper
+
+### Kapitel 1
+
+Paulus und Timotheus, Diener Jesu Christi, an alle Heiligen in Christus Jesus, die in Philippi sind, mit den Aufsehern und Dienern: Gnade sei mit euch und Frieden von Gott unserem Vater und dem Herrn Jesus Christus.
+
+Ich danke meinem Gott jedes Mal, wenn ich an euch denke, immer in jedem meiner Gebete für euch alle mit Freude, wegen eurer Gemeinschaft am Evangelium vom ersten Tag an bis jetzt; überzeugt von diesem einen, dass der, der ein gutes Werk in euch angefangen hat, es auch vollenden wird bis zum Tag Jesu Christi. Es ist sogar recht für mich, so über euch alle zu denken, weil ich euch im Herzen habe, da ihr alle sowohl an meinen Fesseln als auch an der Verteidigung und Bestätigung des Evangeliums Teilhaber seid. Denn Gott ist mein Zeuge, wie ich mich nach euch allen sehne in den herzlichen Zuneigungen Christi Jesu.
+
+Das bete ich, dass eure Liebe noch mehr und mehr überfließe in Erkenntnis und aller Einsicht, damit ihr prüfen könnt, was das Beste ist, damit ihr rein und ohne Anstoß seid bis zum Tag Christi, erfüllt mit den Früchten der Gerechtigkeit, die durch Jesus Christus sind, zur Ehre und zum Lob Gottes.
+
+Nun will ich, Brüder, dass ihr wisst, dass das, was mir widerfahren ist, vielmehr zum Fortschritt des Evangeliums gedient hat, sodass es offenbar geworden ist im ganzen Palast und bei allen übrigen, dass meine Fesseln in Christus sind; und dass die meisten der Brüder im Herrn, durch meine Fesseln zuversichtlich geworden, viel freimütiger das Wort Gottes ohne Furcht reden. Einige predigen zwar Christus aus Neid und Streit, andere aber aus guter Absicht. Diese verkündigen Christus aus Liebe, weil sie wissen, dass ich zur Verteidigung des Evangeliums eingesetzt bin; jene aber verkündigen Christus aus Streitsucht und nicht rein, indem sie meinen Fesseln Bedrängnis hinzufügen wollen.
+
+Was tut's? Nur dass auf jede Weise, ob in Vorwand oder in Wahrheit, Christus verkündigt wird. Darüber freue ich mich und werde mich auch freuen. Denn ich weiß, dass dies zu meiner Rettung führen wird durch eure Gebete und die Unterstützung des Geistes Jesu Christi, gemäß meiner sehnlichen Erwartung und Hoffnung, dass ich in keiner Weise enttäuscht werde, sondern mit aller Freimütigkeit, wie immer, jetzt auch Christus verherrlicht wird in meinem Leib, ob durch Leben oder durch Tod. Denn für mich ist das Leben Christus und das Sterben Gewinn. Wenn ich aber im Fleisch weiterlebe, so bringt das Frucht aus meinem Werk; doch ich weiß nicht, was ich wählen soll. Denn ich bin von beidem bedrängt und habe das Verlangen abzubrechen und bei Christus zu sein; denn das ist weit besser. Doch im Fleisch zu bleiben ist nötiger um euretwillen. Da ich dies im Vertrauen weiß, bin ich überzeugt, dass ich bleiben werde und bei euch allen sein werde zu eurem Fortschritt und Freude im Glauben, damit euer Ruhm in Christus Jesus durch meine Wiederkunft zu euch überfließe.
+
+Nur lasst eure Lebensweise würdig sein des Evangeliums von Christus, damit ich, ob ich komme und euch sehe oder abwesend bin, von eurem Zustand höre, dass ihr feststeht in einem Geist, mit einer Seele kämpfend für den Glauben des Evangeliums; und euch in nichts von den Widersachern erschrecken lasst, was für sie ein Beweis des Verderbens ist, für euch aber ein Beweis des Heils, und das von Gott. Denn euch ist es gegeben worden, um Christi willen, nicht nur an ihn zu glauben, sondern auch um seinetwillen zu leiden, da ihr denselben Kampf habt, den ihr an mir gesehen habt und jetzt hört, dass er in mir ist.
+
+### Kapitel 2
+
+Wenn es also irgendeine Ermahnung in Christus gibt, wenn es irgendeinen Trost der Liebe gibt, wenn es irgendeine Gemeinschaft des Geistes gibt, wenn es irgendwelche herzlichen Erbarmungen und Barmherzigkeit gibt, macht meine Freude vollkommen, indem ihr einmütig seid, die gleiche Liebe habt, einmütig und eines Sinnes seid; tut nichts aus Rivalität oder aus Eitelkeit, sondern in Demut, jeder zähle die anderen höher als sich selbst; jeder von euch schaue nicht nur auf das Seine, sondern jeder auch auf das der anderen.
+
+Habt dies im Sinn, was auch in Christus Jesus war, der, obwohl er in der Gestalt Gottes war, es nicht für einen Raub hielt, Gott gleich zu sein, sondern sich selbst entäußerte und die Gestalt eines Knechtes annahm und den Menschen ähnlich wurde. Und in seiner äußeren Erscheinung als Mensch gefunden, erniedrigte er sich und wurde gehorsam bis zum Tod, ja, zum Tod am Kreuz. Darum hat ihn auch Gott über alle Maßen erhöht und ihm den Namen gegeben, der über alle Namen ist, damit in dem Namen Jesu sich jedes Knie beugen soll, derer im Himmel und derer auf Erden und derer unter der Erde, und jede Zunge bekennen soll, dass Jesus Christus der Herr ist, zur Ehre Gottes des Vaters.
+
+So seid denn meine Geliebten, wie ihr immer gehorcht habt, nicht nur in meiner Gegenwart, sondern jetzt noch viel mehr in meiner Abwesenheit, arbeitet an eurer eigenen Rettung mit Furcht und Zittern. Denn Gott ist es, der in euch wirkt sowohl das Wollen als auch das Vollbringen zu seinem Wohlgefallen.
+
+Tut alles ohne Murren und Zweifel, damit ihr untadelig und rein werdet, Kinder Gottes ohne Makel inmitten einer verdorbenen und verkehrten Generation, unter denen ihr als Lichter in der Welt erscheint und das Wort des Lebens haltet, damit ich an dem Tag Christi etwas zu rühmen habe, dass ich nicht vergeblich gelaufen bin noch vergeblich gearbeitet habe. Ja, und wenn ich über das Opfer und den Dienst eures Glaubens ausgegossen werde, freue ich mich und freue mich mit euch allen. Ebenso sollt auch ihr euch freuen und euch mit mir freuen.
+
+Ich hoffe aber im Herrn Jesus, Timotheus bald zu euch zu senden, damit ich auch ermutigt werde, wenn ich erfahre, wie es euch geht. Denn ich habe niemanden gleichgesinnt, der wirklich für eure Belange sorgen wird. Denn sie suchen alle das Ihre, nicht das von Jesus Christus. Aber ihr wisst, dass er sich bewährt hat. Wie ein Kind einem Vater dient, so hat er mir gedient im Fortschritt des Evangeliums. Darum hoffe ich, ihn sofort zu senden, sobald ich sehe, wie es mit mir gehen wird. Aber ich vertraue im Herrn, dass ich selbst auch bald kommen werde.
+
+Ich hielt es aber für notwendig, euch Epaphroditus zu senden, meinen Bruder und Mitarbeiter und Mitstreiter und euren Apostel und Diener meines Bedarfs, da er sich nach euch allen sehnte und sehr besorgt war, weil ihr gehört hattet, dass er krank war. Denn tatsächlich war er fast bis zum Tod krank; aber Gott hatte Mitleid mit ihm und nicht nur mit ihm, sondern auch mit mir, damit ich nicht Trauer auf Trauer hätte. Ich habe ihn daher umso gewissenhafter gesendet, damit ihr ihn wieder seht und euch freut und ich umso weniger traurig bin. Nehmt ihn daher im Herrn mit aller Freude auf und haltet solche Menschen in Ehren; denn um des Werkes Christi willen kam er nahe an den Tod und setzte sein Leben aufs Spiel, um das zu ergänzen, was an eurem Dienst mir fehlte.
+
+### Kapitel 3
+
+Schließlich, meine Brüder, freut euch im Herrn! Euch die gleichen Dinge zu schreiben ist mir zwar nicht lästig; für euch aber ist es sicher.
+
+Hütet euch vor den Hunden; hütet euch vor den bösen Arbeitern; hütet euch vor der falschen Beschneidung. Denn wir sind die Beschneidung, die Gott im Geist anbetet und sich in Christus Jesus freut und kein Vertrauen auf das Fleisch hat; obwohl ich selbst auch Vertrauen auf das Fleisch haben könnte. Wenn jemand meint, dass er Vertrauen auf das Fleisch hat, so habe ich mehr: am achten Tag beschnitten, vom Volk Israel, vom Stamm Benjamin, ein Hebräer von Hebräern; nach dem Gesetz ein Pharisäer; nach Eifer die Gemeinde verfolgend; nach der Gerechtigkeit im Gesetz untadelig gefunden.
+
+Jedoch betrachte ich die Dinge, die mir Gewinn waren, als Verlust um Christi willen. Ja, gewiss, und ich halte alles für Verlust um der hervorragenden Erkenntnis Christi Jesu, meines Herrn, willen, um dessen willen ich den Verlust aller Dinge erlitten habe und sie für nichts halte, außer für Unrat, damit ich Christus gewinne und in ihm gefunden werde, nicht mit einer eigenen Gerechtigkeit, die aus dem Gesetz kommt, sondern mit der, die durch den Glauben an Christus kommt, die Gerechtigkeit, die von Gott kommt durch den Glauben, damit ich ihn erkenne und die Kraft seiner Auferstehung und die Gemeinschaft seiner Leiden erfahre, indem ich seinem Tod gleichgestaltet werde, wenn ich irgendwie zur Auferstehung von den Toten gelangen kann. Nicht dass ich es schon erlangt habe oder schon vollkommen bin; aber ich strebe danach, das zu ergreifen, für das auch ich von Christus Jesus ergriffen worden bin.
+
+Brüder, ich betrachte mich nicht als bereits ergriffen, aber eines tue ich: Ich vergesse das, was hinter mir liegt, und strecke mich nach dem aus, was vor mir liegt, und strebe auf das Ziel zu, um den Preis der hohen Berufung Gottes in Christus Jesus zu gewinnen. Lasst uns daher, so viele wir vollkommen sind, so denken. Wenn ihr in irgendetwas anders denkt, wird euch Gott auch das offenbaren. Dennoch lasst uns in dem Maß, in dem wir bereits erreicht haben, nach derselben Regel leben. Lasst uns einander im gleichen Sinn sein.
+
+Brüder, seid Nachahmer von mir und achtet auf die, die so wandeln, wie ihr uns zum Vorbild habt. Denn viele wandeln, von denen ich euch oft gesagt habe und jetzt sogar weinend sage, dass sie Feinde des Kreuzes Christi sind, deren Ende Zerstörung ist, deren Gott der Bauch ist und deren Ruhm in ihrer Schande liegt, die auf irdische Dinge achten. Denn unser Bürgerrecht ist im Himmel, von woher wir auch einen Retter erwarten, den Herrn Jesus Christus, der den Leib unserer Erniedrigung verwandeln wird, um ihm gleichgestaltet zu werden an den Leib seiner Herrlichkeit, gemäß der Kraft, mit der er auch alles sich unterwerfen kann.
+
+### Kapitel 4
+
+Darum, meine Brüder, geliebte und begehrte, meine Freude und Krone, steht fest im Herrn auf diese Weise, meine Geliebten.
+
+Ich ermahne Euodia und ich ermahne Syntyche, dass sie im Herrn einmütig denken. Ja, ich bitte auch dich, wahrer Partner, hilf diesen Frauen, denn sie haben mit mir im Evangelium gearbeitet mit Klemens und den übrigen meinen Mitarbeitern, deren Namen im Buch des Lebens stehen.
+
+Freut euch im Herrn allezeit! Wiederum sage ich: „Freut euch!“ Lasst eure Sanftmut allen Menschen bekannt werden. Der Herr ist nahe. Seid um nichts besorgt, sondern lasst in allem durch Gebet und Flehen mit Danksagung eure Anliegen vor Gott kundwerden. Und der Frieden Gottes, der allen Verstand übersteigt, wird eure Herzen und eure Gedanken in Christus Jesus bewahren.
+
+Schließlich, Brüder, was immer wahr ist, was immer ehrbar ist, was immer gerecht ist, was immer rein ist, was immer liebenswert ist, was immer wohlklingend ist: wenn es irgendeine Tugend gibt und wenn es etwas Lobenswertes gibt, denkt über diese Dinge nach. Tut die Dinge, die ihr gelernt habt und empfangen habt und gehört und in mir gesehen habt; und der Gott des Friedens wird mit euch sein.
+
+Aber ich freue mich sehr im Herrn, dass ihr nun endlich eure Gedanken an mich wiederbelebt habt; in dem ihr tatsächlich daran gedacht habt, aber ihr hattet keine Gelegenheit. Nicht dass ich spreche wegen Mangels; denn ich habe gelernt, in welchem Zustand ich bin, zufrieden zu sein. Ich weiß sowohl erniedrigt zu sein als auch Überfluss zu haben. In allem und jedem habe ich das Geheimnis gelernt: sowohl satt zu sein als auch Hunger zu haben; sowohl Überfluss zu haben als auch Mangel zu leiden. Ich kann alles tun durch den Christus, der mich stärkt. Doch ihr habt gut getan, dass ihr an meinem Leiden teilgenommen habt. Ihr selbst wisst auch, ihr Philipper, dass am Anfang des Evangeliums, als ich aus Mazedonien ging, keine Gemeinde mit mir teilte in der Sache des Gebens und Empfangens außer euch allein. Denn sogar in Thessalonich habt ihr einmal und wieder zu meinem Bedarf gesandt. Nicht dass ich nach dem Geschenk suche; sondern ich suche die Frucht, die sich auf euer Konto mehrt. Aber ich habe alles und habe Überfluss. Ich bin erfüllt worden, nachdem ich von Epaphroditus die Dinge empfangen habe, die von euch kamen: ein wohlriechender Duft, ein akzeptables und wohlgefälliges Opfer vor Gott. Mein Gott wird all eure Bedürfnisse nach seinem Reichtum in Herrlichkeit in Christus Jesus erfüllen. Nun sei unserem Gott und Vater die Ehre von Ewigkeit zu Ewigkeit! Amen.
+
+Grüßt alle Heiligen in Christus Jesus. Die Brüder, die bei mir sind, grüßen euch. Alle Heiligen grüßen euch, besonders die aus dem Haus des Kaisers.
+
+Die Gnade des Herrn Jesus Christus sei mit euch allen. Amen.
+
+## Kolosser
+
+Paulus' Brief an die Kolosser
+
+### Kapitel 1
+
+Paulus, ein Apostel Christi Jesu durch den Willen Gottes, und Timotheus, unser Bruder, an die Heiligen und treuen Brüder in Christus in Kolossä: Gnade sei mit euch und Frieden von Gott, unserem Vater, und dem Herrn Jesus Christus.
+
+Wir danken Gott, dem Vater unseres Herrn Jesus Christus, und beten immer für euch, da wir von eurem Glauben an Christus Jesus und von der Liebe gehört haben, die ihr zu allen Heiligen habt, wegen der Hoffnung, die für euch im Himmel aufbewahrt ist, von der ihr zuvor gehört habt im Wort der Wahrheit des Evangeliums, das zu euch gekommen ist, so wie es in der ganzen Welt ist und Frucht bringt und wächst, so wie es auch in euch tut, seit dem Tag, an dem ihr gehört und die Gnade Gottes in Wahrheit erkannt habt, so wie ihr von Epaphras, unserem geliebten Mitknecht, gelernt habt, der ein treuer Diener Christi für euch ist und uns auch eure Liebe im Geist erklärt hat.
+
+Deshalb hören auch wir, seit dem Tag, an dem wir das gehört haben, nicht auf, für euch zu beten und um Bitten zu machen, dass ihr erfüllt werdet mit der Erkenntnis seines Willens in aller geistlichen Weisheit und Einsicht, damit ihr des Herrn würdig wandelt, um ihn in allen Dingen wohlzugefallen, Frucht tragend in jedem guten Werk und wachsend in der Erkenntnis Gottes, gestärkt mit aller Kraft nach der Macht seiner Herrlichkeit, zu aller Ausdauer und Geduld mit Freude, dem Vater Dank sagend, der uns tauglich gemacht hat zum Teilhabe am Erbe der Heiligen im Licht, der uns aus der Macht der Finsternis befreit hat und uns in das Reich des Sohnes seiner Liebe versetzt hat, in dem wir unsere Erlösung haben, die Vergebung unserer Sünden.
+
+Er ist das Bild des unsichtbaren Gottes, der Erstgeborene aller Schöpfung. Denn durch ihn sind alle Dinge geschaffen worden im Himmel und auf Erden, Sichtbare und Unsichtbare, ob Throne oder Herrschaften oder Fürstentümer oder Mächte. Alle Dinge sind durch ihn und für ihn geschaffen worden. Er ist vor allen Dingen, und in ihm bestehen alle Dinge. Er ist das Haupt des Körpers, der Gemeinde; er ist der Anfang, der Erstgeborene von den Toten, damit er in allen Dingen die Vorherrschaft habe. Denn es hat das ganze Wesen wohlgefallen, in ihm zu wohnen und durch ihn alle Dinge mit sich zu versöhnen, ob die Dinge auf Erden oder die Dinge im Himmel sind, indem er Frieden gemacht hat durch das Blut seines Kreuzes.
+
+Ihr wart einst entfremdet und Feinde in eurem Sinn durch eure bösen Werke; jetzt aber hat er euch versöhnt in dem Leib seines Fleisches durch den Tod, um euch heilig und ohne Fehler und tadellos vor sich zu stellen, wenn ihr im Glauben bleibt, gegründet und fest und nicht abgewichen von der Hoffnung des Evangeliums, das ihr gehört habt und das in aller Schöpfung unter dem Himmel verkündet wird; dessen Diener bin ich, Paulus.
+
+Jetzt freue ich mich in meinen Leiden um euretwillen und ergänze an meinem Teil das, was an den Bedrängnissen Christi in meinem Fleisch fehlt für seinen Leib, der die Gemeinde ist; für die ich als Diener gemäß der Haushaltung Gottes eingesetzt wurde, die mir für euch gegeben wurde, um das Wort Gottes zu erfüllen, das Geheimnis, das seit Ewigkeiten und Geschlechtern verborgen war. Jetzt aber ist es seinen Heiligen offenbart worden; denen hat Gott wohlgefallen lassen zu erkennen, welche der Reichtümer der Herrlichkeit dieses Geheimnisses unter den Heiden sind; das ist Christus in euch, die Hoffnung der Herrlichkeit. Ihn verkündigen wir, indem wir jeden Menschen ermahnen und jeden Menschen in aller Weisheit lehren, damit wir jeden Menschen vollkommen in Christus Jesus darstellen; für den ich auch arbeite und kämpfe nach seiner Wirksamkeit, die in mir mächtig wirkt.
+
+### Kapitel 2
+
+Denn ich wünsche mir zu wissen, wie sehr ich um euch und um die in Laodicea kämpfe und um so viele, die mein Angesicht im Fleisch nicht gesehen haben; damit ihre Herzen getröstet werden und sie in Liebe zusammengefügt sind und alle Reichtümer der vollen Gewissheit des Verstehens erlangen, damit sie das Geheimnis Gottes erkennen, sowohl des Vaters als auch Christi, in dem alle Schätze der Weisheit und Erkenntnis verborgen sind. Dies sage ich, damit euch niemand mit überzeugenden Worten täuscht. Denn obwohl ich im Fleisch abwesend bin, bin ich doch im Geist bei euch und freue mich über eure Ordnung und die Festigkeit eures Glaubens in Christus.
+
+Da ihr also Christus Jesus, den Herrn, empfangen habt, wandelt in ihm, verwurzelt und aufgebaut in ihm und gefestigt im Glauben, so wie ihr gelehrt worden seid, und überfließend darin mit Dankbarkeit.
+
+Seid darauf bedacht, dass euch niemand durch seine Philosophie und eitlen Betrug beraubt, nach der Tradition der Menschen, nach den elementaren Geistern der Welt und nicht nach Christus. Denn in ihm wohnt die ganze Fülle der Gottheit leibhaftig, und in ihm seid ihr vollendet, der das Haupt aller Herrschaft und Gewalt ist. In ihm seid ihr auch beschnitten worden mit einer Beschneidung, die nicht mit Händen gemacht ist, indem ihr den Leib der Sünden des Fleisches abgelegt habt, in der Beschneidung Christi, indem ihr mit ihm begraben worden seid in der Taufe, in der ihr auch mit ihm auferweckt worden seid durch den Glauben an die Wirksamkeit Gottes, der ihn von den Toten auferweckt hat. Ihr wart tot durch eure Übertretungen und die Unbeschnittenheit eures Fleisches. Er hat euch zusammen mit ihm lebendig gemacht und uns alle unsere Übertretungen vergeben, indem er die Handschrift der Verordnungen, die gegen uns war, ausgelöscht hat. Er hat sie aus dem Weg geräumt und ans Kreuz genagelt. Nachdem er die Herrschaften und Gewalten entblößt hat, hat er sie öffentlich zur Schau gestellt und über sie in ihm triumphiert.
+
+Lasst euch daher von niemandem im Essen oder Trinken richten oder hinsichtlich eines Festtags oder eines Neumonds oder eines Sabbats, die ein Schatten der zukünftigen Dinge sind; aber der Körper ist Christi. Lasst euch von niemandem euren Lohn rauben durch Selbsterniedrigung und Anbetung der Engel, die sich mit Dingen beschäftigen, die er nicht gesehen hat, eitel aufgeblasen durch seinen fleischlichen Verstand und nicht festhaltend am Haupt, von dem der ganze Körper, versorgt und zusammengefügt durch die Gelenke und Bänder, mit dem Wachstum Gottes wächst.
+
+Wenn ihr mit Christus gestorben seid von den elementaren Geistern der Welt, warum lasst ihr euch dann, als lebtet ihr in der Welt, Vorschriften auferlegen: „Fass nicht an, koste nicht, berühre nicht“ (alles das vergeht mit dem Gebrauch), gemäß den Geboten und Lehren der Menschen? Diese Dinge erscheinen zwar wie Weisheit in selbstauferlegter Anbetung, Demut und Strenge gegenüber dem Körper, sind aber gegen die Befriedigung des Fleisches von keinem Wert.
+
+### Kapitel 3
+
+Wenn ihr also mit Christus auferweckt worden seid, so sucht die Dinge, die oben sind, wo Christus ist, zur Rechten Gottes sitzend. Richtet eure Gedanken auf die Dinge, die oben sind, nicht auf die Dinge, die auf der Erde sind. Denn ihr seid gestorben, und euer Leben ist verborgen mit Christus in Gott. Wenn Christus, unser Leben, offenbar wird, dann werdet auch ihr mit ihm in Herrlichkeit offenbar werden.
+
+Tötet daher eure Glieder, die auf der Erde sind: sexuelle Unmoral, Unreinheit, verderbte Leidenschaft, böse Begierde und Habgier, die Götzendienst ist. Um dieser Dinge willen kommt der Zorn Gottes über die Kinder des Ungehorsams. Auch ihr habt einst so gelebt, als ihr in ihnen wart; aber jetzt müsst ihr alles ablegen: Zorn, Grimm, Bosheit, Verleumdung und schändliche Reden aus eurem Mund. Lügen euch nicht gegenseitig an, da ihr den alten Menschen mit seinen Taten abgelegt und den neuen Menschen angezogen habt, der in Erkenntnis erneuert wird nach dem Bild seines Schöpfers, wo es keinen Griechen und Juden gibt, keine Beschneidung und Unbeschnittenheit, keinen Barbaren, Skythen, Sklaven oder Freien; sondern Christus ist alles und in allen.
+
+Zieht daher an als die Auserwählten Gottes, heilig und geliebt: ein Herz voller Mitgefühl, Güte, Demut, Sanftmut und Geduld; einander ertragend und einander vergebend, wenn jemand eine Klage gegen einen anderen hat; so wie auch Christus euch vergeben hat, so tut auch ihr.
+
+Vor allem aber zieht an die Liebe, die das Band der Vollkommenheit ist. Und lasst den Frieden Gottes in euren Herzen regieren, zu dem ihr auch berufen worden seid in einem Leib; und seid dankbar. Lasst das Wort Christi reichlich in euch wohnen; lehrt und ermahnt einander in aller Weisheit mit Psalmen, Hymnen und geistlichen Liedern und singt mit Dankbarkeit in euren Herzen dem Herrn.
+
+Was immer ihr tut, im Wort oder im Werk, tut alles im Namen des Herrn Jesus und dankt Gott dem Vater durch ihn.
+
+Frauen, seid euren Männern untergeordnet, wie es sich im Herrn gehört.
+
+Ehemänner, liebt eure Frauen und seid nicht bitter gegen sie.
+
+Kinder, gehorcht euren Eltern in allen Dingen, denn das gefällt dem Herrn.
+
+Väter, reizt eure Kinder nicht, damit sie nicht mutlos werden.
+
+Diener, gehorcht in allen Dingen euren Herren nach dem Fleisch, nicht nur wenn sie zuschauen, als Menschengefällige, sondern in Einfalt des Herzens, Gott fürchtend. Und was immer ihr tut, arbeitet von Herzen, als für den Herrn und nicht für Menschen, wissend, dass ihr von dem Herrn die Belohnung des Erbes empfangen werdet; denn ihr dient dem Herrn Christus. Wer aber Unrecht tut, wird für das Unrecht, das er getan hat, wieder empfangen, und es gibt kein Ansehen der Person.
+
+### Kapitel 4
+
+Herren, gebt euren Dienern das, was gerecht und gleich ist, wissend, dass auch ihr einen Herrn im Himmel habt.
+
+Haltet an im Gebet, wacht darin mit Danksagung und betet auch für uns, dass Gott uns eine Tür für das Wort öffne, um das Geheimnis Christi zu verkündigen, für das ich auch in Fesseln bin, damit ich es so offenbare, wie ich es reden soll.
+
+Wandelt weise gegenüber denen, die draußen sind, und kauft die Zeit aus. Euer Wort sei allezeit mit Gnade gewürzt, damit ihr wisst, wie ihr jedem antworten sollt.
+
+Alle meine Angelegenheiten werden euch durch Tychikus, den geliebten Bruder, treuen Diener und Mitknecht im Herrn, bekannt gemacht. Ich sende ihn zu euch zu diesem Zweck, damit er eure Umstände erfährt und eure Herzen tröstet, zusammen mit Onesimus, dem treuen und geliebten Bruder, der einer von euch ist. Sie werden euch alles bekannt machen, was hier vor sich geht.
+
+Aristarchus, mein Mitgefangener, grüßt euch, und Markus, der Vetter von Barnabas (über den ihr Anweisungen erhalten habt: „Wenn er zu euch kommt, empfängt ihn“), und Jesus, der Justus genannt wird. Dies sind meine einzigen Mitarbeiter für das Reich Gottes, die aus der Beschneidung sind, Männer, die mir Trost gebracht haben.
+
+Epaphras, der einer von euch ist, ein Diener Christi, grüßt euch und kämpft immer für euch in seinen Gebeten, damit ihr vollkommen und vollständig seid in allem Willen Gottes. Denn ich bezeuge von ihm, dass er großen Eifer für euch hat und für die in Laodicea und für die in Hierapolis. Lukas, der geliebte Arzt, und Demas grüßen euch. Grüßt die Brüder in Laodicea mit Nymphas und der Versammlung, die in seinem Haus ist. Wenn dieser Brief unter euch gelesen wurde, lasst ihn auch in der Versammlung der Laodiceaner lesen und lest auch den Brief aus Laodicea. Sage Archippus: „Achte auf den Dienst, den du im Herrn empfangen hast, dass du ihn erfüllst.“
+
+Ich, Paulus, schreibe diesen Gruß mit meiner eigenen Hand. Erinnert euch an meine Fesseln. Die Gnade sei mit euch. Amen.
+
+## 1 Thessalonicher
+
+Paulus' erster Brief an die Thessalonicher
+
+### Kapitel 1
+
+Paulus, Silvanus und Timotheus an die Versammlung der Thessalonicher in Gott dem Vater und dem Herrn Jesus Christus: Gnade sei mit euch und Frieden von Gott unserem Vater und dem Herrn Jesus Christus.
+
+Wir danken Gott immer für euch alle und erwähnen euch in unseren Gebeten und gedenken ohne Unterlass eurer Arbeit des Glaubens und der Mühe der Liebe und der Ausdauer der Hoffnung in unserem Herrn Jesus Christus vor unserem Gott und Vater. Wir wissen, Brüder, die ihr von Gott geliebt seid, dass ihr auserwählt seid und dass unsere gute Nachricht zu euch nicht nur im Wort kam, sondern auch in Kraft und im Heiligen Geist und mit viel Überzeugung. Ihr wisst, wie wir uns unter euch um euretwillen verhalten haben. Ihr wurdet Nachahmer von uns und vom Herrn, indem ihr das Wort in viel Bedrängnis mit Freude des Heiligen Geistes empfangen habt, sodass ihr ein Vorbild geworden seid für alle Gläubigen in Makedonien und in Achaia. Denn von euch ist das Wort des Herrn ausgegangen, nicht nur in Makedonien und Achaia, sondern auch an jedem Ort ist euer Glaube an Gott bekannt geworden, sodass wir nichts sagen müssen. Denn sie selbst berichten von uns, wie wir bei euch aufgenommen wurden und wie ihr euch von den Götzen zu Gott gewandt habt, um einen lebendigen und wahren Gott zu dienen und auf seinen Sohn aus dem Himmel zu warten, den er von den Toten auferweckt hat: Jesus, der uns von dem kommenden Zorn rettet.
+
+### Kapitel 2
+
+Denn ihr selbst wisst, Brüder, dass unser Besuch bei euch nicht vergeblich war, sondern nachdem wir zuvor gelitten und schändlich behandelt worden waren, wie ihr wisst, in Philippi, wurden wir mutig in unserem Gott, um euch die Gute Nachricht Gottes in viel Konflikt zu verkünden. Denn unsere Ermahnung ist nicht aus Irrtum, noch aus Unreinheit, noch in Täuschung. Sondern wie wir von Gott geprüft worden sind, um mit der Guten Nachricht betraut zu werden, so reden wir – nicht um Menschen zu gefallen, sondern Gott, der unsere Herzen prüft. Denn wir haben zu keiner Zeit Worte der Schmeichelei gebraucht, wie ihr wisst, noch einen Mantel der Habgier (Gott ist Zeuge), noch suchten wir Ehre von Menschen (weder von euch noch von anderen), als wir als Apostel Christi Anspruch auf Autorität erheben konnten. Sondern wir waren sanft unter euch, wie eine stillende Mutter ihre eigenen Kinder liebt.
+
+So sehnten wir uns auch liebevoll nach euch und waren erfreut, euch nicht nur die Gute Nachricht Gottes zu bringen, sondern auch unsere eigenen Seelen, weil ihr uns sehr lieb geworden seid. Denn ihr erinnert euch, Brüder, an unsere Mühe und Arbeit; denn Tag und Nacht arbeiteten wir, damit wir keinen von euch belasten müssten, und verkündeten euch die Gute Nachricht Gottes. Ihr seid Zeugen mit Gott, wie heilig, gerecht und untadelig wir uns euch gegenüber verhalten haben, die ihr glaubt. Wie ihr wisst, ermahnten, trösteten und flehten wir jeden von euch an, wie ein Vater seine eigenen Kinder tut, damit ihr würdig wandelt vor Gott, der euch in sein eigenes Reich und seine Herrlichkeit beruft.
+
+Deshalb danken wir auch Gott ohne Unterlass dafür, dass ihr, als ihr das Wort der Botschaft Gottes von uns empfangen habt, es nicht als das Wort von Menschen angenommen habt, sondern wie es in Wahrheit ist, das Wort Gottes, das auch in euch wirkt, die ihr glaubt. Denn ihr, Brüder, wurdet Nachahmer der Versammlungen Gottes, die in Judäa in Christus Jesus sind; denn ihr habt auch dieselben Dinge von euren eigenen Landsleuten erlitten, wie sie von den Juden erlitten haben, die sowohl den Herrn Jesus als auch ihre eigenen Propheten getötet und uns vertrieben haben und Gott nicht gefallen und gegen alle Menschen sind, indem sie uns verbieten, zu den Heiden zu sprechen, damit sie gerettet werden können, um ihre Sünden immer vollzumachen. Aber der Zorn ist bis zum Äußersten über sie gekommen.
+
+Aber wir, Brüder, wurden für eine kurze Zeit in der Gegenwart von euch beraubt, nicht im Herzen, haben noch mehr versucht, euer Angesicht mit großem Verlangen zu sehen, weil wir zu euch kommen wollten – tatsächlich ich, Paulus, immer wieder – aber Satan hat uns gehindert. Denn was ist unsere Hoffnung oder Freude oder Krone des Ruhmes? Ist es nicht sogar ihr, vor unserem Herrn Jesus bei seinem Kommen? Denn ihr seid unser Ruhm und unsere Freude.
+
+### Kapitel 3
+
+Als wir es also nicht länger ertragen konnten, hielten wir es für gut, allein in Athen zurückgelassen zu werden und schickten Timotheus, unseren Bruder und Gottes Diener in der Guten Nachricht Christi, um euch zu stärken und zu trösten bezüglich eures Glaubens, damit niemand durch diese Bedrängnisse bewegt werde. Denn ihr wisst, dass wir zu diesem Zweck bestimmt sind. Denn gewiss haben wir euch im Voraus gesagt, als wir bei euch waren, dass wir Bedrängnis erleiden müssen, wie es geschehen ist und wie ihr wisst. Aus diesem Grund habe ich auch gesandt, als ich es nicht länger ertragen konnte, um euren Glauben zu erfahren, aus Angst, dass der Versucher euch versucht hätte und unsere Arbeit vergeblich gewesen wäre.
+
+Aber Timotheus ist gerade jetzt von euch zu uns gekommen und hat uns gute Nachrichten über euren Glauben und eure Liebe gebracht und dass ihr immer gute Erinnerungen an uns habt und euch danach sehnt, uns zu sehen, so wie auch wir uns danach sehnen, euch zu sehen. Aus diesem Grund wurden wir Brüder in all unserer Not und Bedrängnis durch euren Glauben getröstet. Denn jetzt leben wir, wenn ihr im Herrn standhaft bleibt. Denn welche Dankbarkeit können wir Gott wieder für euch erweisen für all die Freude, mit der wir uns vor unserem Gott Tag und Nacht über euch freuen und sehr dafür beten, dass wir euer Angesicht sehen und das vollenden können, was in eurem Glauben fehlt?
+
+Nun möge unser Gott und Vater selbst und unser Herr Jesus Christus unseren Weg zu euch leiten. Möge der Herr euch dazu bringen, in der Liebe zueinander und zu allen Menschen zuzunehmen und zu überfließen, so wie wir auch zu euch tun, damit er eure Herzen untadelig in Heiligkeit vor unserem Gott und Vater bei dem Kommen unseres Herrn Jesus mit allen seinen Heiligen festigen möge.
+
+### Kapitel 4
+
+Schließlich bitten und ermahnen wir euch, Brüder, im Herrn Jesus, dass ihr, wie ihr von uns empfangen habt, wie ihr wandeln und Gott wohlgefallen sollt, immer mehr darin überfließt. Denn ihr wisst, welche Anweisungen wir euch durch den Herrn Jesus gegeben haben. Denn das ist der Wille Gottes: eure Heiligung, dass ihr euch der sexuellen Unmoral enthaltet, dass jeder von euch weiß, wie er seinen eigenen Körper in Heiligkeit und Ehre beherrschen kann, nicht in der Leidenschaft der Lust, wie die Heiden, die Gott nicht kennen, dass niemand einen Bruder oder eine Schwester in dieser Angelegenheit übervorteilen und schädigen sollte; denn der Herr ist ein Rächer in all diesen Dingen, wie wir euch auch vorher gewarnt und bezeugt haben. Denn Gott hat uns nicht zur Unreinheit berufen, sondern zur Heiligung. Daher, wer dies verwirft, verwirft nicht den Menschen, sondern Gott, der euch auch seinen Heiligen Geist gegeben hat.
+
+Was die brüderliche Liebe betrifft, so braucht man euch nicht zu schreiben. Denn ihr seid selbst von Gott gelehrt worden, einander zu lieben; denn das tut ihr tatsächlich gegenüber allen Brüdern, die in ganz Mazedonien sind. Aber wir ermahnen euch, Brüder, dass ihr immer mehr überfließt; und dass ihr euch vornehmt, ein ruhiges Leben zu führen und eure eigenen Geschäfte zu tun und mit euren eigenen Händen zu arbeiten, wie wir euch angewiesen haben, damit ihr euch richtig gegenüber denen verhaltet, die draußen sind, und nichts nötig habt.
+
+Wir wollen aber nicht, dass ihr, Brüder, im Unklaren seid über die, die entschlafen sind, damit ihr nicht traurig seid wie die anderen, die keine Hoffnung haben. Denn wenn wir glauben, dass Jesus gestorben und auferstanden ist, so wird Gott auch die, die in Jesus entschlafen sind, mit ihm bringen. Denn dies sagen wir euch im Wort des Herrn: Wir, die wir leben und bis zur Ankunft des Herrn übrig bleiben, werden die entschlafenen nicht überholen. Denn der Herr selbst wird vom Himmel herabkommen mit einem Ruf, mit der Stimme des Erzengels und mit der Posaune Gottes. Und die Toten in Christus werden zuerst auferstehen; danach werden wir, die wir leben und übrig bleiben, zusammen mit ihnen in den Wolken entrückt werden, um den Herrn in der Luft zu begegnen. So werden wir allezeit beim Herrn sein. Tröstet euch daher untereinander mit diesen Worten.
+
+### Kapitel 5
+
+Was die Zeiten und die Augenblicke betrifft, Brüder, so braucht man euch nicht zu schreiben. Denn ihr wisst selbst gut, dass der Tag des Herrn kommt wie ein Dieb in der Nacht. Wenn sie sagen: „Frieden und Sicherheit“, dann wird plötzliches Verderben über sie kommen, wie die Wehen über eine schwangere Frau. Und sie werden auf keine Weise entkommen. Ihr aber, Brüder, seid nicht in der Dunkelheit, dass euch der Tag wie ein Dieb überraschen sollte. Ihr seid alle Kinder des Lichts und Kinder des Tages. Wir gehören nicht zur Nacht noch zur Dunkelheit; lasst uns also nicht schlafen wie die anderen, sondern lasst uns wachen und nüchtern sein. Denn die Schlafenden schlafen in der Nacht; und die Betrunkenen sind betrunken in der Nacht. Da wir aber zum Tag gehören, lasst uns nüchtern sein und den Brustpanzer des Glaubens und der Liebe anlegen und als Helm die Hoffnung auf das Heil. Denn Gott hat uns nicht zum Zorn bestimmt, sondern zur Erlangung des Heils durch unseren Herrn Jesus Christus, der für uns gestorben ist, damit wir, ob wir wachen oder schlafen, zusammen mit ihm leben. Ermahnt einander und erbaut euch gegenseitig, wie ihr auch tut.
+
+Wir bitten euch aber, Brüder, erkennt die, die unter euch arbeiten und über euch im Herrn stehen und euch ermahnen; achtet sie hoch in Liebe um ihres Werkes willen.
+
+Seid untereinander friedlich. Wir ermahnen euch, Brüder: Zurechtweisen die Unordentlichen; ermutigt die Kleinmütigen; unterstützt die Schwachen; seid geduldig gegen alle. Seht zu, dass niemand jemandem Böses für Böses vergelte; sondern strebt immer danach, das Gute zu tun sowohl untereinander als auch für alle.
+
+Freut euch immer. Betet ohne Unterlass. Dankt in allem; denn das ist der Wille Gottes in Christus Jesus für euch. Löscht den Geist nicht aus. Verachtet Weissagungen nicht. Prüft alle Dinge und haltet fest an dem Guten. Enthaltet euch jeder Form des Bösen.
+
+Möge der Gott des Friedens selbst euch vollkommen heiligen. Möge euer ganzes Wesen – Geist, Seele und Leib – untadelig bewahrt werden bei der Ankunft unseres Herrn Jesus Christus.
+
+Der, der euch ruft, ist treu, der es auch tun wird.
+
+Brüder, betet für uns.
+
+Grüßt alle Brüder mit einem heiligen Kuss. Ich befehle euch feierlich durch den Herrn, dass dieser Brief allen heiligen Brüdern vorgelesen wird.
+
+Die Gnade unseres Herrn Jesus Christus sei mit euch. Amen.
+
+## 2 Thessalonicher
+
+Paulus' Zweiter Brief an die Thessalonicher
+
+### Kapitel 1
+
+Paulus, Silvanus und Timotheus, an die Versammlung der Thessalonicher in Gott, unserem Vater, und dem Herrn Jesus Christus: Gnade sei mit euch und Frieden von Gott, unserem Vater, und dem Herrn Jesus Christus.
+
+Wir sind verpflichtet, Gott immer für euch zu danken, Brüder, so wie es angemessen ist, denn euer Glaube wächst übermäßig, und die Liebe eines jeden von euch zueinander nimmt zu, sodass wir uns selbst über euch in den Versammlungen Gottes rühmen wegen eurer Ausdauer und des Glaubens in all euren Verfolgungen und den Bedrängnissen, die ihr ertragt. Dies ist ein offensichtliches Zeichen des gerechten Urteils Gottes, damit ihr als würdig des Reiches Gottes erachtet werdet, für das ihr auch leidet. Denn es ist ein gerechtes Ding bei Gott, denjenigen, die euch bedrängen, Bedrängnis zurückzugeben und euch, die ihr mit uns bedrängt werdet, Ruhe zu geben, wenn der Herr Jesus vom Himmel offenbart wird mit seinen mächtigen Engeln in flammendem Feuer, um diejenigen zu bestrafen, die Gott nicht kennen und die dem Evangelium unseres Herrn Jesus nicht gehorchen; sie werden die Strafe empfangen: ewige Zerstörung von der Gegenwart des Herrn und von der Herrlichkeit seiner Macht, wenn er an jenem Tag kommt, um in seinen Heiligen verherrlicht zu werden und bewundert zu werden unter allen, die geglaubt haben, weil unser Zeugnis an euch geglaubt wurde.
+
+Zu diesem Zweck beten wir auch immer für euch, dass unser Gott euch würdig erachte eurer Berufung und jeden Wunsch nach Güte und Werk des Glaubens mit Kraft erfülle, damit der Name unseres Herrn Jesus in euch verherrlicht werde und ihr in ihm, gemäß der Gnade unseres Gottes und des Herrn Jesus Christus.
+
+### Kapitel 2
+
+Nun, Brüder, betreffend das Kommen unseres Herrn Jesus Christus und unser Zusammenkommen zu ihm, bitten wir euch, dass ihr euch nicht schnell erschüttern lasst in eurem Sinn oder beunruhigt werdet, weder durch Geist noch durch Wort noch durch Brief als von uns, dass der Tag Christi bereits gekommen sei. Lass dich von niemandem auf irgendeine Weise täuschen. Denn es wird nicht geschehen, es sei denn, dass zuerst der Abfall kommt und der Mensch der Sünde offenbart wird, der Sohn des Verderbens. Er widersetzt sich und erhebt sich über alles, was Gott genannt wird oder verehrt wird, sodass er sich als Gott im Tempel Gottes setzt und sich selbst als Gott ausgibt. Erinnert ihr euch nicht daran, dass ich euch dies sagte, als ich noch bei euch war? Jetzt wisst ihr, was ihn zurückhält, damit er zu seiner eigenen Zeit offenbart werden kann. Denn das Geheimnis der Gesetzlosigkeit wirkt bereits. Nur gibt es einen, der jetzt zurückhält, bis er aus dem Weg geräumt wird. Dann wird der Gesetzlose offenbart werden, den der Herr mit dem Hauch seines Mundes töten und durch die Erscheinung seines Kommens vernichten wird; selbst den, dessen Kommen nach der Wirksamkeit Satans ist mit aller Macht und Zeichen und Lügenwundern und mit aller Täuschung der Ungerechtigkeit für die, die verloren gehen, weil sie die Liebe zur Wahrheit nicht angenommen haben, damit sie gerettet werden. Deshalb sendet Gott ihnen eine mächtige Täuschung, dass sie eine Lüge glauben sollen, damit alle gerichtet werden, die die Wahrheit nicht geglaubt haben, sondern Freude an der Ungerechtigkeit hatten.
+
+Aber wir sind verpflichtet, Gott immer für euch zu danken, Brüder, die ihr vom Herrn geliebt seid, denn Gott hat euch von Anfang an zur Rettung durch Heiligung des Geistes und Glauben an die Wahrheit erwählt, zu der er euch durch unser Evangelium berufen hat, um die Herrlichkeit unseres Herrn Jesus Christus zu erlangen. So steht fest, Brüder, und haltet an den Traditionen fest, die ihr von uns gelehrt worden seid, sei es durch Wort oder durch Brief.
+
+Nun möge unser Herr Jesus Christus selbst und Gott unser Vater, der uns geliebt hat und uns ewigen Trost und gute Hoffnung durch Gnade gegeben hat, eure Herzen trösten und euch in jedem guten Werk und Wort festigen.
+
+### Kapitel 3
+
+Schließlich, Brüder, betet für uns, dass das Wort des Herrn schnell verbreitet werde und verherrlicht werde, so wie auch bei euch, und dass wir von unvernünftigen und bösen Menschen befreit werden; denn nicht alle haben Glauben. Aber der Herr ist treu; er wird euch festigen und euch vor dem Bösen bewahren. Wir haben Vertrauen zum Herrn bezüglich euch, dass ihr sowohl tut als auch tun werdet, was wir gebieten. Möge der Herr eure Herzen in die Liebe Gottes und in die Ausdauer Christi leiten.
+
+Jetzt befehlen wir euch, Brüder, im Namen unseres Herrn Jesus Christus, dass ihr euch von jedem Bruder zurückzieht, der in Rebellion wandelt und nicht nach der Tradition, die sie von uns empfangen haben. Denn ihr wisst, wie ihr uns nachahmen sollt. Denn wir haben uns unter euch nicht rebellisch verhalten, noch haben wir Brot aus der Hand eines anderen gegessen, ohne dafür zu bezahlen, sondern in Arbeit und Mühe haben wir Tag und Nacht gearbeitet, damit wir euch nicht zur Last fallen. Das war nicht, weil wir nicht das Recht hätten, sondern um uns euch zum Beispiel zu machen, dass ihr uns nachahmen sollt. Denn selbst als wir bei euch waren, haben wir euch dies befohlen: „Wenn jemand nicht bereit ist zu arbeiten, soll er auch nicht essen.“ Denn wir hören von einigen, die unter euch in Rebellion wandeln, die überhaupt nicht arbeiten, sondern sich mit anderen Dingen beschäftigen. Nun befehlen und ermahnen wir die, die so sind, im Herrn Jesus Christus, dass sie mit Ruhe arbeiten und ihr eigenes Brot essen.
+
+Aber ihr, Brüder, seid nicht müde im Tun des Guten. Wenn jemand unser Wort in diesem Brief nicht befolgt, merkt euch diesen Mann und habt keine Gemeinschaft mit ihm, damit er sich schämen mag. Zählt ihn nicht als Feind, sondern ermahnt ihn als Bruder.
+
+Der Herr des Friedens selbst gebe euch Frieden zu jeder Zeit auf jede Weise. Der Herr sei mit euch allen.
+
+Ich, Paulus, schreibe diesen Gruß mit meiner eigenen Hand, was das Zeichen in jedem Brief ist. So schreibe ich. Die Gnade unseres Herrn Jesus Christus sei mit euch allen. Amen.
+
+## 1 Timotheus
+
+Paulus' Erster Brief an Timotheus
+
+### Kapitel 1
+
+Paulus, ein Apostel Jesu Christi gemäß dem Befehl Gottes unseres Retters und des Herrn Jesus Christus unserer Hoffnung, an Timotheus, mein wahrer Sohn im Glauben: Gnade, Barmherzigkeit und Frieden von Gott unserem Vater und Christus Jesus unserem Herrn.
+
+Wie ich dich ermahnt habe, als ich nach Makedonien ging, bleibe in Ephesus, damit du bestimmten Männern gebieten kannst, keine andere Lehre zu lehren und sich nicht mit Mythen und endlosen Geschlechtsregistern zu beschäftigen, die Streitigkeiten verursachen statt Gottes Verwaltung, die im Glauben ist. Das Ziel dieses Gebots ist Liebe aus reinem Herzen, gutem Gewissen und ungeteiltem Glauben; von diesen Dingen haben einige, die das Ziel verfehlt haben, sich von leerem Gerede abgewandt und wünschen Lehrer des Gesetzes zu sein, obwohl sie weder verstehen, was sie sagen noch über was sie so energisch behaupten.
+
+Wir wissen aber, dass das Gesetz gut ist, wenn jemand es rechtmäßig gebraucht; denn wir wissen dies: Das Gesetz ist nicht für den Gerechten gemacht, sondern für die Gesetzlosen und Ungehorsamen, für die Gottlosen und Sünder, für die Unheiligen und Profanen, für Vatermörder und Muttermörder, für Mörder, für Unzüchtige, für Homosexuelle, für Menschenhändler, für Lügner, für Meineidige und für alles andere, was der gesunden Lehre widerspricht, gemäß dem Evangelium von der Herrlichkeit des seligen Gottes, das mir anvertraut wurde.
+
+Ich danke dem, der mich gestärkt hat, Christus Jesus unserem Herrn, weil er mich treu erachtet hat und mich zum Dienst eingesetzt hat; obwohl ich zuvor ein Lästerer und Verfolger und Übermutiger war. Doch ich habe Barmherzigkeit erlangt, weil ich es unwissentlich im Unglauben tat. Die Gnade unseres Herrn überfloss überreich mit Glauben und Liebe, die in Christus Jesus ist. Das Wort ist treu und würdig aller Annahme: Christus Jesus ist in die Welt gekommen, um Sünder zu retten; von denen bin ich der größte. Doch aus diesem Grund habe ich Barmherzigkeit erlangt, damit in mir zuerst Jesus Christus all seine Geduld als Beispiel für die zeigen könnte, die an ihn zum ewigen Leben glauben werden. Nun dem König der Ewigkeiten, dem Unsterblichen, dem Unsichtbaren, dem allein weisen Gott sei Ehre und Ruhm von Ewigkeit zu Ewigkeit. Amen.
+
+Ich übergebe dir diese Anweisung, mein Kind Timotheus, gemäß den Prophezeiungen, die dir zuvor gegeben wurden, damit du durch sie den guten Kampf kämpfen kannst und den Glauben und ein gutes Gewissen bewahrst; welches einige verworfen haben und Schiffbruch erlitten haben in Bezug auf den Glauben; von denen sind Hymenäus und Alexander; die habe ich dem Satan übergeben, damit sie lernen mögen, nicht zu lästern.
+
+### Kapitel 2
+
+Ich ermahne daher vor allem, dass Bitten, Gebete, Fürbitten und Danksagungen für alle Menschen gemacht werden; für Könige und alle in hohen Stellungen; damit wir ein ruhiges und stilles Leben führen können in aller Gottseligkeit und Ehrfurcht. Denn das ist gut und angenehm vor Gott unserem Retter; der will, dass alle Menschen gerettet werden und zur Erkenntnis der Wahrheit kommen. Denn es gibt einen Gott und einen Mittler zwischen Gott und den Menschen: den Menschen Christus Jesus; der sich selbst als Lösegeld für alle gab; das Zeugnis zur rechten Zeit; wozu ich als Prediger und Apostel eingesetzt wurde – ich sage die Wahrheit in Christus; ich lüge nicht – ein Lehrer der Heiden im Glauben und in der Wahrheit.
+
+Ich wünsche mir daher, dass die Männer an jedem Ort beten, heilige Hände erheben, ohne Zorn und Zweifel. In ähnlicher Weise sollen auch die Frauen sich in anständiger Kleidung schmücken, mit Bescheidenheit und Anstand, nicht mit geflochtenem Haar, Gold, Perlen oder teurer Kleidung, sondern mit guten Werken, was für Frauen, die Gottseligkeit bekennen, angemessen ist. Eine Frau lasse in Ruhe und voller Unterwerfung lernen. Aber ich erlaube einer Frau nicht, zu lehren, noch Autorität über einen Mann auszuüben, sondern sie soll in Ruhe sein. Denn Adam wurde zuerst gebildet, dann Eva. Adam wurde nicht verführt, sondern die Frau, die verführt wurde, fiel in die Ungehorsamkeit; aber sie wird durch das Kinderzeugen gerettet werden, wenn sie im Glauben, in der Liebe und in der Heiligkeit mit Nüchternheit fortfahren.
+
+### Kapitel 3
+
+Dies ist ein treues Wort: Wer ein Aufseher sein will, der begehrt ein gutes Werk. Der Aufseher muss daher untadelig sein, der Mann einer Frau, maßvoll, besonnen, anständig, gastfreundlich, fähig zu lehren; nicht trinkfreudig, nicht gewalttätig, nicht geldgierig, sondern sanftmütig, nicht streitsüchtig, nicht habgierig; einer, der sein eigenes Haus gut leitet und Kinder in aller Ehrfurcht hat; (denn wie könnte jemand, der sein eigenes Haus nicht zu leiten weiß, für die Versammlung Gottes sorgen?) nicht ein neuer Konvertit, damit er nicht aufgeblasen wird und in dieselbe Verdammnis fällt wie der Teufel. Außerdem muss er ein gutes Zeugnis von den Außenstehenden haben, um nicht in Verachtung und die Falle des Teufels zu fallen.
+
+Diener müssen ebenfalls ehrerbietig sein, nicht doppeltzüngig, nicht süchtig nach viel Wein, nicht geldgierig, das Geheimnis des Glaubens in reinem Gewissen haltend. Lassen Sie sie auch zuerst geprüft werden; dann sollen sie dienen, wenn sie untadelig sind. Ihre Frauen sollen ebenfalls ehrerbietig sein, keine Verleumderinnen, maßvoll und in allen Dingen treu. Lassen Sie Diener Männer einer Frau sein und ihre Kinder und ihre eigenen Häuser gut leiten. Denn diejenigen, die gut gedient haben, erwerben sich selbst einen guten Stand und große Zuversicht im Glauben, der in Christus Jesus ist.
+
+Diese Dinge schreibe ich dir in der Hoffnung, bald zu dir zu kommen; aber wenn ich lange warte, damit du weißt, wie sich die Männer im Haus Gottes verhalten sollen, das die Versammlung des lebendigen Gottes ist, die Säule und das Fundament der Wahrheit. Ohne Streit ist das Geheimnis der Gottseligkeit groß:
+
+Gott wurde im Fleisch offenbart,
+
+im Geist gerechtfertigt,
+
+von Engeln gesehen,
+
+unter den Nationen gepredigt,
+
+im ganzen Erdkreis geglaubt,
+
+und in Herrlichkeit aufgenommen.
+
+### Kapitel 4
+
+Aber der Geist sagt ausdrücklich, dass in späteren Zeiten einige vom Glauben abfallen werden und verführerischen Geistern und Lehren von Dämonen Aufmerksamkeit schenken werden, durch die Heuchelei von Menschen, die Lügen reden und in ihrem eigenen Gewissen wie mit einem heißen Eisen gebrandmarkt sind, die die Ehe verbieten und gebieten, sich von Speisen zu enthalten, die Gott geschaffen hat, um von denen empfangen zu werden, die glauben und die Wahrheit kennen. Denn jede Kreatur Gottes ist gut und nichts ist abzulehnen, wenn es mit Dank empfangen wird. Denn es wird durch das Wort Gottes und das Gebet geheiligt.
+
+Wenn du den Brüdern diese Dinge lehrst, wirst du ein guter Diener Christi Jesu sein, genährt mit den Worten des Glaubens und der guten Lehre, der du gefolgt bist. Aber weise profane und alte Weiberfabeln zurück. Übe dich in der Gottseligkeit. Denn körperliche Übung hat einen gewissen Wert; aber Gottseligkeit hat Wert in allen Dingen und hat das Versprechen des Lebens, das jetzt ist und des zukünftigen Lebens. Dieses Wort ist treu und würdig aller Annahme. Denn zu diesem Zweck arbeiten wir und leiden Schmach, weil wir unsere Hoffnung auf den lebendigen Gott gesetzt haben, der der Retter aller Menschen ist, besonders der Gläubigen. Gebiete und lehre diese Dinge.
+
+Lass niemand deine Jugend verachten; sondern sei ein Vorbild für die Gläubigen in Wort, in deinem Lebenswandel, in Liebe, im Geist, im Glauben und in Reinheit. Bis ich komme, achte auf das Lesen, auf die Ermahnung und auf das Lehren. Vernachlässige das Geschenk nicht, das in dir ist und dir durch Prophezeiung mit dem Auflegen der Hände der Ältesten gegeben wurde. Sei fleißig in diesen Dingen. Gib dich ganz ihnen hin, damit dein Fortschritt allen offenbar wird. Achte auf dich selbst und auf deine Lehre. Fahre in diesen Dingen fort; denn wenn du dies tust, wirst du sowohl dich selbst als auch die hören retten.
+
+### Kapitel 5
+
+Zurechtweisung sollst du einem älteren Mann nicht geben, sondern ihn ermahnen wie einen Vater; die jüngeren Männer wie Brüder; die älteren Frauen wie Mütter; die jüngeren wie Schwestern, in aller Reinheit.
+
+Ehre die Witwen, die wirklich Witwen sind. Wenn aber eine Witwe Kinder oder Enkel hat, sollen diese zuerst lernen, ihren eigenen Angehörigen Frömmigkeit zu zeigen und ihren Eltern zu vergelten, denn das ist vor Gott angenehm. Diejenige aber, die wirklich eine Witwe und verlassen ist, hat ihre Hoffnung auf Gott gesetzt und verharrt in Bitten und Gebeten Tag und Nacht. Die aber, die sich dem Vergnügen hingibt, ist lebendig tot. Auch gebiete diese Dinge, damit sie ohne Tadel sein mögen. Wenn aber jemand für seine eigenen Angehörigen und besonders für sein eigenes Haus nicht sorgt, hat er den Glauben verleugnet und ist schlimmer als ein Ungläubiger.
+
+Lass niemanden als Witwe unter sechzig Jahren aufnehmen, der nur mit einem Mann verheiratet war, und der durch gute Werke bewährt ist, wenn sie Kinder großgezogen hat, wenn sie Fremde beherbergt hat, wenn sie die Füße der Heiligen gewaschen hat, wenn sie den Bedrängten geholfen hat und wenn sie jeder guten Tat fleißig nachgegangen ist.
+
+Aber weigere jüngere Witwen, denn wenn sie gegen Christus unzüchtig werden, wünschen sie zu heiraten und ziehen sich damit eine Verdammnis zu, weil sie ihr erstes Gelübde verworfen haben. Außerdem lernen sie auch untätig zu sein und gehen von Haus zu Haus. Nicht nur untätig, sondern auch Klatschweiber und Neider, die Dinge sagen, die sie nicht sagen sollten. Ich wünsche daher, dass die jüngeren Witwen heiraten, Kinder gebären, das Haus führen und dem Widersacher keinen Anlass zur Schmähung geben. Denn schon sind einige nach Satan abgeirrt. Wenn ein Mann oder eine Frau, die glaubt, Witwen hat, soll er ihnen helfen und die Versammlung nicht belasten, damit sie denen helfen kann, die wirklich Witwen sind.
+
+Die Ältesten, die gut regieren, sollen für würdig erachtet werden, doppelte Ehre zu empfangen, besonders die, die sich in Wort und Lehre abmühen. Denn die Schrift sagt: „Du sollst dem Ochsen nicht das Maul verbinden, wenn er das Korn tritt.“ Und: „Der Arbeiter ist seiner Lohn wert.“
+
+Nimm keine Anschuldigung gegen einen Ältesten an, außer auf das Wort von zwei oder drei Zeugen. Diejenigen, die sündigen, überführe vor allen, damit auch die anderen Furcht haben. Ich gebiete dir vor Gott und dem Herrn Jesus Christus und den auserwählten Engeln, dass du diese Dinge ohne Vorurteil beobachtest und nichts aus Parteilichkeit tust. Lege hastig niemandem die Hände auf. Sei kein Teilhaber an den Sünden anderer. Halte dich rein.
+
+Sei nicht mehr nur Wassertrinker, sondern gebrauche ein wenig Wein um deines Magens willen und deiner häufigen Krankheiten.
+
+Die Sünden einiger Menschen sind offensichtlich und gehen ihnen zum Gericht voraus; andere aber folgen später. Ebenso gibt es auch gute Werke, die offensichtlich sind; und die anderen können nicht verborgen bleiben.
+
+### Kapitel 6
+
+So viele als Sklaven unter dem Joch sind, sollen ihre eigenen Herren für würdig aller Ehre halten, damit der Name Gottes und die Lehre nicht geschmäht werden. Diejenigen, die gläubige Herren haben, sollen sie nicht verachten, weil sie Brüder sind; sondern vielmehr sollen sie ihnen dienen, weil die von dem Nutzen partizipieren gläubig und geliebt sind. Lehre und ermahne diese Dinge.
+
+Wenn jemand eine andere Lehre lehrt und sich nicht an gesunde Worte hält, an die Worte unseres Herrn Jesus Christus und an die Lehre, die der Frömmigkeit entspricht, ist er hochmütig und weiß nichts; sondern er ist besessen von Streitfragen, Auseinandersetzungen und Wortgefechten, aus denen Neid, Streiterei, Schmähungen, böse Verdächtigungen und ständige Reibereien von Menschen mit verdorbenem Geist und ohne Wahrheit hervorgehen, die meinen, dass Frömmigkeit ein Mittel zum Gewinn sei. Zieh dich von solchen zurück.
+
+Frömmigkeit aber mit Genügsamkeit ist großer Gewinn. Denn wir haben nichts in die Welt gebracht; darum können wir auch nichts hinausbringen. Wenn wir aber Nahrung und Kleidung haben, wollen wir uns damit begnügen. Die aber reich werden wollen, fallen in Versuchung und Fallstrick und in viele törichte und schädliche Begierden, die Menschen ins Verderben und in den Untergang stürzen. Denn die Liebe zum Geld ist eine Wurzel aller Arten von Übel. Einige sind durch ihre Gier vom Glauben abgeirrt und haben sich selbst mit vielen Schmerzen durchstochen.
+
+Aber du, Mann Gottes, fliehe diese Dinge und strebe nach Gerechtigkeit, Gottseligkeit, Glauben, Liebe, Ausdauer und Sanftmut. Kämpfe den guten Kampf des Glaubens. Halte fest am ewigen Leben, zu dem du berufen wurdest und die gute Bezeugung vor vielen Zeugen abgelegt hast. Ich befehle dir vor Gott, der allen Dingen Leben gibt, und vor Christus Jesus, der vor Pontius Pilatus die gute Bezeugung abgelegt hat, dass du das Gebot untadelig und makellos bewahrst bis zum Erscheinen unseres Herrn Jesus Christus, das er zu seiner Zeit zeigen wird, der der gesegnete und alleinige Herrscher, der König der Könige und Herr der Herren ist. Er allein hat Unsterblichkeit und wohnt in unzugänglichem Licht, den niemand gesehen hat noch sehen kann; ihm sei Ehre und ewige Macht. Amen.
+
+Weise die Reichen in dieser gegenwärtigen Zeit an, nicht stolz zu sein und ihre Hoffnung nicht auf die Unsicherheit des Reichtums zu setzen, sondern auf den lebendigen Gott, der uns alles reichlich zum Genießen gibt; dass sie Gutes tun, reich an guten Werken sind, bereit zu teilen und willig zu geben; indem sie sich selbst eine gute Grundlage für die Zukunft schaffen, damit sie das ewige Leben ergreifen können.
+
+Timotheus, bewahre das, was dir anvertraut ist, indem du dich von leerem Geschwätz und Widersprüchen dessen abwendest, was fälschlicherweise Wissen genannt wird, wovon einige sich bekennen und dadurch vom Glauben abgeirrt sind.
+
+Die Gnade sei mit dir. Amen.
+
+## 2 Timotheus
+
+Pauls Zweite Brief an Timotheus
+
+### Kapitel 1
+
+Paulus, ein Apostel Jesu Christi durch den Willen Gottes, gemäß der Verheißung des Lebens, das in Christus Jesus ist, an Timotheus, mein geliebtes Kind: Gnade, Barmherzigkeit und Frieden von Gott dem Vater und Christus Jesus unserem Herrn.
+
+Ich danke Gott, dem ich diene, wie es meine Vorfahren taten, mit reinem Gewissen. Wie unaufhörlich ist mein Gedächtnis an dich in meinen Bitten, Nacht und Tag sehnsüchtig dich zu sehen und deine Tränen zu erinnern, damit ich mit Freude erfüllt werde; nachdem ich an den unerschütterlichen Glauben erinnert wurde, der in dir ist, der zuerst in deiner Großmutter Lois und deiner Mutter Eunike lebte und ich bin überzeugt, dass er auch in dir lebt.
+
+Deshalb erinnere ich dich daran, dass du die Gabe Gottes anfeuern sollst, die in dir ist durch das Auflegen meiner Hände. Denn Gott hat uns keinen Geist der Furcht gegeben, sondern der Kraft, der Liebe und der Besonnenheit. Daher schäme dich nicht des Zeugnisses unseres Herrn noch meiner als seines Gefangenen; sondern ertrage die Schwierigkeiten um der guten Nachricht willen gemäß der Kraft Gottes, der uns gerettet hat und uns mit einer heiligen Berufung berufen hat, nicht gemäß unseren Werken, sondern gemäß seinem eigenen Plan und seiner Gnade, die uns in Christus Jesus vor ewigen Zeiten gegeben wurde, aber jetzt durch das Erscheinen unseres Retters Christus Jesus offenbart wurde, der den Tod abgeschafft hat und das Leben und die Unsterblichkeit durch die gute Nachricht ans Licht gebracht hat. Für dies wurde ich als Prediger, Apostel und Lehrer der Heiden eingesetzt. Deshalb leide ich auch diese Dinge.
+
+Doch ich schäme mich nicht; denn ich weiß, wem ich geglaubt habe, und bin überzeugt, dass er in der Lage ist, das zu bewahren, was ich ihm anvertraut habe bis zu jenem Tag.
+
+Halte das Muster gesunder Worte fest, das du von mir gehört hast, im Glauben und in der Liebe, die in Christus Jesus ist. Das gute Ding, das dir anvertraut wurde, bewahre durch den Heiligen Geist, der in uns wohnt.
+
+Das weißt du: dass alle in Asien von mir abgewichen sind, unter denen sind Phygelus und Hermogenes. Möge der Herr dem Haus Onesiphorus Barmherzigkeit gewähren; denn er hat mich oft erfrischt und sich nicht für meine Kette geschämt; sondern als er in Rom war, suchte er mich fleißig und fand mich (der Herr gewähre ihm, dass er am Tag des Herrn Barmherzigkeit findet); und wie viele Dinge er in Ephesus gedient hat, weißt du sehr gut.
+
+### Kapitel 2
+
+Du daher, mein Kind, sei gestärkt in der Gnade, die in Christus Jesus ist. Die Dinge, die du von mir unter vielen Zeugen gehört hast, übergib dieselben Dinge treuen Männern, die auch fähig sein werden, andere zu lehren. Du musst daher Schwierigkeiten ertragen wie ein guter Soldat Christi Jesu. Kein Soldat im Dienst verwickelt sich in die Angelegenheiten des Lebens, damit er den gefällt, der ihn als Soldaten eingetragen hat. Auch wenn jemand im Wettkampf steht, wird er nicht gekrönt werden, es sei denn, dass er nach den Regeln gekämpft hat. Der Bauer jedoch, der arbeitet, muss der erste sein, der einen Anteil an den Früchten erhält. Überlege dir, was ich sage; und möge der Herr dir Verständnis in allen Dingen geben.
+
+Erinnere dich an Jesus Christus, der von den Toten auferstanden ist, vom Geschlecht Davids, gemäß meinem Evangelium, in dem ich bis zur Kette als Verbrecher leidet. Aber das Wort Gottes ist nicht gefesselt. Daher ertrage ich alles um der Auserwählten willen, damit auch sie die Rettung erlangen, die in Christus Jesus mit ewiger Herrlichkeit ist. Dieses Wort ist zuverlässig:
+
+„Denn wenn wir mit ihm gestorben sind,
+
+werden wir auch mit ihm leben.
+
+Wenn wir standhaft bleiben,
+
+werden wir auch mit ihm herrschen.
+
+Wenn wir ihn verleugnen,
+
+wird er uns auch verleugnen.
+
+Wenn wir untreu sind,
+
+bleibt er treu;
+
+denn er kann sich selbst nicht verleugnen.“
+
+Erinnere sie an diese Dinge und ermahne sie vor dem Herrn, dass sie nicht um Worte streiten, die nichts nützen, zur Untergrabung derer, die hören.
+
+Setze alles daran, dich Gott als bewährt darzustellen, als Arbeiter, der sich nicht zu schämen braucht, der das Wort der Wahrheit recht teilt. Aber meide leeres Geschwätz, denn es wird weiter in die Gottlosigkeit führen, und diese Worte werden wie Geschwüre verzehren, von denen Hymenäus und Philetus sind: Männer, die in Bezug auf die Wahrheit fehlgeleitet sind und sagen, dass die Auferstehung bereits vergangen ist und den Glauben einiger umstürzen. Doch das feste Fundament Gottes steht und hat dieses Siegel: „Der Herr kennt die Seinen“ und „Jeder, der den Namen des Herrn nennt, lasse sich von der Ungerechtigkeit abwenden.“
+
+In einem großen Haus gibt es nicht nur Gefäße aus Gold und Silber, sondern auch aus Holz und Ton. Einige sind zu Ehren und andere zu Schande. Wenn sich also jemand von diesen reinigt, wird er ein Gefäß zur Ehre sein, geheiligt und nützlich für den Gebrauch des Herrn, bereit zu jedem guten Werk.
+
+Fliehe vor den jugendlichen Begierden; jage aber nach Gerechtigkeit, Glauben, Liebe und Frieden mit denen, die den Herrn aus reinem Herzen anrufen. Weigere dich jedoch, törichte und unwissende Fragen zu stellen, da sie Streit erzeugen. Der Diener des Herrn soll nicht streiten, sondern sanft zu allen sein, fähig zu lehren, geduldig und in Sanftmut die widersprechenden korrigieren. Vielleicht gibt Gott ihnen Buße zur Erkenntnis der Wahrheit, und sie können sich aus der Schlinge des Teufels befreien lassen, nachdem sie von ihm gefangen genommen wurden, um seinen Willen zu tun.
+
+### Kapitel 3
+
+Aber wisse dies: dass in den letzten Tagen schlimme Zeiten kommen werden. Denn die Menschen werden Selbstliebhaber sein, geldliebend, prahlerisch, arrogant, lästernd, ungehorsam gegen die Eltern, undankbar, unheilig, ohne natürliche Zuneigung, unverzeihlich, verleumderisch, ohne Selbstbeherrschung, wild, keine Liebhaber des Guten, Verräter, halsstarrig, eingebildet, Liebhaber der Lust mehr als Liebhaber Gottes, die eine Form der Gottseligkeit haben, aber deren Kraft verleugnen. Wende dich auch von diesen ab. Denn einige von ihnen sind Menschen, die in Häuser schleichen und leichtgläubige Frauen gefangen nehmen, die mit Sünden beladen sind und von verschiedenen Begierden fortgerissen werden, immer lernend und niemals zur Erkenntnis der Wahrheit fähig. So wie Jannes und Jambres Mose widerstanden haben, so widerstehen auch diese der Wahrheit; Männer mit verdorbenem Verstand, die in Bezug auf den Glauben verworfen sind. Aber sie werden nicht weiterkommen; denn ihre Torheit wird allen Menschen offenbar werden, wie auch ihre wurde.
+
+Aber du hast meiner Lehre, meinem Verhalten, meinem Ziel, meinem Glauben, meiner Geduld, meiner Liebe und Standhaftigkeit gefolgt; den Verfolgungen und Leiden—denen, die mir in Antiochia, Ikonion und Lystra widerfahren sind. Ich habe diese Verfolgungen ertragen. Der Herr hat mich aus ihnen allen befreit. Ja, und alle, die gottesfürchtig leben wollen in Christus Jesus, werden Verfolgung leiden. Aber böse Menschen und Betrüger werden immer schlimmer werden und andere verführen und sich selbst verführen. Du aber bleibe in dem, was du gelernt hast und wovon du überzeugt bist, da du weißt, von wem du es gelernt hast. Von Kindheit an kennst du die heiligen Schriften, die dich weise machen können zur Rettung durch den Glauben an Christus Jesus. Jede Schrift ist von Gott eingegeben und nützlich zur Lehre, zur Überführung, zur Zurechtweisung und zur Erziehung in der Gerechtigkeit, damit der Mensch Gottes vollkommen sei und für jedes gute Werk völlig ausgerüstet.
+
+### Kapitel 4
+
+Ich befehle dir daher vor Gott und dem Herrn Jesus Christus, der die Lebenden und die Toten bei seiner Erscheinung und seinem Reich richten wird: Predige das Wort; sei bereit zu jeder Zeit; überführe, tadle und ermahne mit aller Geduld und Lehre. Denn es wird eine Zeit kommen, da sie die gesunde Lehre nicht ertragen werden; sondern nach ihren eigenen Begierden werden sie sich Lehrer aufladen, weil ihnen die Ohren jucken; und sie werden ihre Ohren von der Wahrheit abwenden und sich den Fabeln zuwenden. Du aber sei nüchtern in allem; leide Entbehrungen; tue das Werk eines Evangelisten und erfülle deinen Dienst.
+
+Denn ich werde bereits geopfert, und die Zeit meines Abschieds ist gekommen. Ich habe den guten Kampf gekämpft. Ich habe den Lauf vollendet. Ich habe den Glauben bewahrt. Von nun an ist mir die Krone der Gerechtigkeit aufbewahrt, die mir der Herr, der gerechte Richter, an jenem Tag geben wird; und nicht nur mir, sondern auch allen, die sein Erscheinen lieb gehabt haben.
+
+Sei fleißig, bald zu mir zu kommen, denn Demas hat mich verlassen, weil er diese gegenwärtige Welt geliebt hat, und ist nach Thessalonich gegangen; Crescens nach Galatien; und Titus nach Dalmatien. Nur Lukas ist bei mir. Nimm Markus mit dir mit, denn er ist mir nützlich für den Dienst. Aber ich habe Tychikus nach Ephesus gesandt. Bring den Mantel mit, den ich in Troas bei Carpus gelassen habe, wenn du kommst – und die Bücher, besonders die Pergamente. Alexander, der Kupferschmied, hat mir viel Böses getan. Der Herr wird ihm nach seinen Werken vergelten. Hüte dich vor ihm, denn er hat unseren Worten sehr entgegengewirkt.
+
+Bei meiner ersten Verteidigung kam niemand, um mir zu helfen, sondern alle verließen mich. Möge es ihnen nicht angerechnet werden. Aber der Herr stand mir zur Seite und stärkte mich, damit durch mich die Botschaft vollständig verkündet werden konnte und alle Heiden hören. So wurde ich aus dem Rachen des Löwen gerettet. Und der Herr wird mich von jedem bösen Werk retten und mich für sein himmlisches Reich bewahren. Ihm sei die Ehre von Ewigkeit zu Ewigkeit. Amen.
+
+Grüße Prisca und Aquila und das Haus des Onesiphorus. Erastus ist in Korinth geblieben, aber ich ließ Trophimus krank in Milet zurück. Sei fleißig, bevor der Winter kommt. Eubulus grüßt dich, ebenso Pudens, Linus, Claudia und alle Brüder.
+
+Der Herr Jesus Christus sei mit deinem Geist. Die Gnade sei mit dir. Amen.
+
+## Titus
+
+Pauls Brief an Titus
+
+### Kapitel 1
+
+Paulus, ein Diener Gottes und ein Apostel Jesu Christi, gemäß dem Glauben der Auserwählten Gottes und der Erkenntnis der Wahrheit, die der Gottseligkeit gemäß ist, in der Hoffnung auf das ewige Leben, das Gott, der nicht lügen kann, vor der Zeit versprochen hat; aber zu seiner eigenen Zeit hat er sein Wort offenbart in der Botschaft, mit der ich betraut wurde gemäß dem Gebot Gottes unseres Retters, an Titus, mein wahres Kind gemäß einem gemeinsamen Glauben: Gnade, Barmherzigkeit und Frieden von Gott dem Vater und dem Herrn Jesus Christus unserem Retter.
+
+Ich ließ dich aus diesem Grund in Kreta, dass du die Dinge in Ordnung bringen würdest, die fehlen, und Älteste in jeder Stadt einsetzen würdest, wie ich dir angewiesen habe – wenn jemand untadelig ist, der Mann einer Frau, mit Kindern, die glauben und nicht des unordentlichen oder widerspenstigen Verhaltens beschuldigt werden. Denn der Aufseher muss untadelig sein, als Gottes Verwalter, nicht selbstgefällig, nicht schnell zornig, nicht dem Wein ergeben, nicht gewalttätig, nicht gierig nach unehrlichem Gewinn; sondern gastfreundlich, ein Liebhaber des Guten, besonnen, gerecht, heilig, beherrscht, an dem treuen Wort festhaltend, das der Lehre entspricht, damit er in der gesunden Lehre ermahnen und die widersprechen überführen kann.
+
+Denn es gibt auch viele widerspenstige Männer, eitlere Redner und Betrüger, besonders die von der Beschneidung, deren Münder gestoppt werden müssen: Männer, die ganze Häuser umstürzen und Dinge lehren, die sie nicht lehren sollten, um unehrlichen Gewinn willen. Einer von ihnen, ein Prophet von ihnen selbst, sagte: „Kreter sind immer Lügner, böse Tiere und faule Schlemmer.“ Dieses Zeugnis ist wahr. Aus diesem Grund sollst du sie scharf zurechtweisen, damit sie gesund im Glauben sind und nicht auf jüdische Fabeln und Gebote von Menschen achten, die sich von der Wahrheit abwenden. Für die Reinen ist alles rein; aber für die Unreinen und Ungläubigen ist nichts rein; sondern sowohl ihr Verstand als auch ihr Gewissen sind unrein. Sie bekennen, dass sie Gott kennen; aber durch ihre Werke verleugnen sie ihn und sind abscheulich und ungehorsam und für jedes gute Werk untauglich.
+
+### Kapitel 2
+
+Aber sage die Dinge, die gesunder Lehre entsprechen: dass ältere Männer besonnen sein sollten, vernünftig, nüchtern, gesund im Glauben, in Liebe und in Ausdauer; und dass ältere Frauen ebenso ehrbar im Verhalten sein sollten, nicht verleumderisch oder dem vielen Wein verfallen, Lehrerinnen des Guten; damit sie die jungen Frauen anleiten können, ihre Männer zu lieben, ihre Kinder zu lieben, nüchtern zu sein, keusch zu sein, Hausfrauen zu sein, freundlich zu sein und sich ihren eigenen Männern unterzuordnen, damit das Wort Gottes nicht geschmäht wird.
+
+Ebenso ermahne die jüngeren Männer, besonnen zu sein. In allem zeige dich als Beispiel guter Werke. In deiner Lehre zeige Integrität, Ernsthaftigkeit, Unbestechlichkeit und gesunde Rede, die nicht verurteilt werden kann, damit der, der dir widerspricht, beschämt wird, weil er nichts Böses über uns sagen kann.
+
+Ermahne die Diener, ihren eigenen Herren untertan zu sein und in allem wohlgefällig zu sein, nicht zu widersprechen, nicht zu stehlen, sondern alle gute Treue zu zeigen, damit sie die Lehre Gottes, unseres Retters, in allem schmücken. Denn die Gnade Gottes ist erschienen und bringt Heil für alle Menschen und erzieht uns mit dem Ziel, dass wir, die wir Gottlosigkeit und weltlichen Begierden verleugnen, besonnen, gerecht und gottesfürchtig in diesem gegenwärtigen Zeitalter leben; in Erwartung der seligen Hoffnung und des Erscheinens der Herrlichkeit unseres großen Gottes und Retters, Jesus Christus, der sich selbst für uns hingegeben hat, um uns von aller Ungerechtigkeit zu erlösen und sich ein Volk zu reinigen, das eifrig gute Werke tut.
+
+Sprich diese Dinge und ermahne und tadle mit aller Autorität. Lass dich von niemandem verachten.
+
+### Kapitel 3
+
+Erinnere sie daran, sich den Herrschern und Autoritäten unterzuordnen, gehorsam zu sein, bereit für jedes gute Werk, von niemandem böse zu reden, nicht streitsüchtig zu sein, sanftmütig zu sein und allen Menschen in aller Demut zu begegnen. Denn auch wir waren einst töricht, ungehorsam, irregeführt, dienten verschiedenen Begierden und Vergnügungen, lebten in Bosheit und Neid, waren hassenswert und hassten einander. Als aber die Güte und Menschenliebe Gottes, unseres Retters, erschien, nicht durch Werke der Gerechtigkeit, die wir selbst getan haben, sondern nach seiner Barmherzigkeit, rettete er uns durch das Bad der Wiedergeburt und die Erneuerung durch den Heiligen Geist, den er reichlich über uns ausgegossen hat durch Jesus Christus, unseren Retter; damit wir durch seine Gnade gerechtfertigt werden und Erben gemäß der Hoffnung auf das ewige Leben werden. Dieses Wort ist treu, und hinsichtlich dieser Dinge wünsche ich, dass du mit Zuversicht darauf bestehst, damit die, die an Gott geglaubt haben, darauf achten mögen, gute Werke zu tun. Diese Dinge sind gut und nützlich für die Menschen; aber weiche törichten Fragen, Geschlechtsregister, Streitigkeiten und Auseinandersetzungen über das Gesetz aus; denn sie sind unprofitabel und nichtig. Meide einen streitsüchtigen Menschen nach einer ersten und zweiten Ermahnung, wissend, dass ein solcher verdorben und sündig ist und sich selbst verurteilt.
+
+Wenn ich Artemas oder Tychikus zu dir sende, sei fleißig, zu mir nach Nikopolis zu kommen; denn ich habe beschlossen, dort den Winter zu verbringen. Sende Zenas den Anwalt und Apollos schnell auf ihre Reise, damit ihnen nichts mangelt. Lass auch unser Volk lernen, gute Werke zu tun, um notwendige Bedürfnisse zu decken, damit sie nicht unfruchtbar sind.
+
+Alle, die bei mir sind, grüßen dich. Grüß diejenigen, die uns im Glauben lieben.
+
+Die Gnade sei mit euch allen. Amen.
+
+## Philemon
+
+Pauls Brief an Philemon
+
+### Kapitel 1
+
+Paulus, ein Gefangener Christi Jesu, und Timotheus, unser Bruder, an Philemon, unseren geliebten Mitarbeiter, an die geliebte Apphia, an Archippus, unseren Mitstreiter, und an die Versammlung in deinem Haus: Gnade sei mit euch und Frieden von Gott unserem Vater und dem Herrn Jesus Christus.
+
+Ich danke meinem Gott immerdar und gedenke deiner in meinen Gebeten; denn ich höre von deiner Liebe und dem Glauben, den du zum Herrn Jesus und zu allen Heiligen hast; damit die Gemeinschaft deines Glaubens wirksam werde in der Erkenntnis aller guten Dinge, die in uns sind in Christus Jesus. Denn wir haben viel Freude und Trost in deiner Liebe; denn die Herzen der Heiligen sind durch dich erquickt worden, Bruder.
+
+Darum habe ich zwar alle Freimütigkeit in Christus, dir das zu gebieten, was angemessen ist; doch um der Liebe willen bitte ich dich viel mehr als Paulus, der Alte, aber auch ein Gefangener Jesu Christi. Ich bitte dich um meinen Sohn Onesimus, den ich in meinen Fesseln gezeugt habe; der einst für dich unbrauchbar war, jetzt aber dir und mir brauchbar ist. Ich sende ihn zurück. Darum empfange ihn, das heißt mein eigenes Herz; den ich gerne bei mir behalten wollte, damit er mir an deiner Stelle in meinen Fesseln für das Evangelium diene. Aber ich wollte nichts ohne dein Einverständnis tun; damit deine Güte nicht aus Notwendigkeit sei, sondern aus freiem Willen. Denn vielleicht ist er deshalb eine Weile von dir getrennt worden, damit du ihn für immer hättest; nicht mehr als einen Sklaven, sondern mehr als einen Sklaven: einen geliebten Bruder – besonders mir; wie viel mehr aber dir sowohl im Fleisch als auch im Herrn.
+
+Wenn du mich also als Partner zählst, empfange ihn, wie du mich empfangen würdest. Aber wenn er dir Unrecht getan hat oder dir etwas schuldet, rechne das auf mein Konto. Ich, Paulus, schreibe dies mit eigener Hand: Ich werde es zurückzahlen (um dir nicht zu erwähnen, dass du mir sogar dein eigenes Leben schuldest). Ja, Bruder, lass mich Freude von dir im Herrn haben. Erquicke mein Herz im Herrn.
+
+In dem Vertrauen auf deinen Gehorsam schreibe ich dir, in dem Wissen, dass du sogar über das hinaus tun wirst, was ich sage.
+
+Bereite auch ein Gästezimmer für mich vor, denn ich hoffe, dass ich durch deine Gebete zu dir zurückgebracht werde.
+
+Epaphras, mein Mitgefangener in Christus Jesus, grüßt dich, ebenso Mark, Aristarchus, Demas und Lukas, meine Mitarbeiter.
+
+Die Gnade unseres Herrn Jesus Christus sei mit deinem Geist. Amen.
+
+## Hebräer
+
+Der Brief an die Hebräer
+
+### Kapitel 1
+
+Gott, der in der Vergangenheit den Vätern durch die Propheten zu vielen Zeiten und auf verschiedene Weise gesprochen hat, hat am Ende dieser Tage zu uns durch seinen Sohn gesprochen, den er zum Erben aller Dinge eingesetzt hat, durch den er auch die Welten gemacht hat. Sein Sohn ist der Glanz seiner Herrlichkeit und das genaue Abbild seines Wesens und trägt alle Dinge durch das Wort seiner Macht, der, nachdem er uns durch sich selbst von unseren Sünden gereinigt hat, sich zur Rechten der Majestät in der Höhe gesetzt hat und so viel besser geworden ist als die Engel, wie der Name, den er ererbt hat, besser ist als ihrer. Denn zu welchem der Engel hat er jemals gesagt:
+
+„Du bist mein Sohn.
+
+Heute habe ich dich gezeugt?“ 
+
+und wiederum:
+
+„Ich werde ihm ein Vater sein,
+
+und er wird mir ein Sohn sein?“
+
+Wenn er den Erstgeborenen wieder in die Welt einführt, sagt er: „Alle Engel Gottes sollen ihn anbeten.“ Von den Engeln sagt er:
+
+„Er macht seine Engel zu Winden
+
+und seine Diener zu einer Feuerflamme.“
+
+Aber von dem Sohn sagt er:
+
+„Dein Thron, o Gott, ist für immer und ewig.
+
+Das Zepter der Gerechtigkeit ist das Zepter deines Königreichs.
+
+Du hast die Gerechtigkeit geliebt und die Ungerechtigkeit gehasst;
+
+darum hat Gott, dein Gott, dich mit dem Öl der Freude gesalbt über deine Gefährten.“
+
+Und:
+
+„Du, Herr, hast zu Beginn den Grund der Erde gelegt.
+
+Die Himmel sind das Werk deiner Hände.
+
+Sie werden vergehen, aber du bleibst.
+
+Sie alle werden alt werden wie ein Kleid.
+
+Du wirst sie zusammenrollen wie einen Mantel,
+
+und sie werden verändert werden;
+
+aber du bist derselbe.
+
+Deine Jahre werden nicht enden.“
+
+Aber welchem der Engel hat er jemals gesagt:
+
+„Setze dich zu meiner Rechten,
+
+bis ich deine Feinde zum Schemel deiner Füße mache?“
+
+Sind sie nicht alle dienstbare Geister, die ausgesandt werden, um für die zu dienen, die das Heil erben werden?
+
+### Kapitel 2
+
+Darum sollten wir umso mehr auf die Dinge achten, die gehört wurden, damit wir vielleicht nicht abgleiten. Denn wenn das durch Engel gesprochene Wort feststand und jede Übertretung und Ungehorsam eine gerechte Strafe empfing, wie werden wir entkommen, wenn wir so große Rettung vernachlässigen – die zuerst durch den Herrn verkündet und uns von denen bestätigt wurde, die sie gehört haben, Gott auch mit ihnen bezeugend durch Zeichen und Wunder, durch verschiedene Werke der Kraft und durch Gaben des Heiligen Geistes nach seinem eigenen Willen?
+
+Denn er hat die zukünftige Welt, von der wir sprechen, nicht den Engeln unterworfen. Aber jemand hat irgendwo bezeugt und gesagt:
+
+„Was ist der Mensch, dass du seiner gedenkst?
+
+Oder der Sohn des Menschen, dass du dich um ihn kümmerst?
+
+Du hast ihn ein wenig niedriger gemacht als die Engel.
+
+Du hast ihn mit Herrlichkeit und Ehre gekrönt.
+
+Du hast alle Dinge unter seine Füße gelegt.“
+
+Denn indem er ihm alle Dinge unterworfen hat, ließ er nichts ununterworfen. Aber jetzt sehen wir noch nicht alle Dinge unter ihm unterworfen. Aber wir sehen den, der ein wenig niedriger gemacht wurde als die Engel, Jesus, wegen des Leidens des Todes mit Herrlichkeit und Ehre gekrönt, damit er durch die Gnade Gottes für jeden den Tod schmecken sollte.
+
+Denn es gebührte ihm, für den alle Dinge sind und durch den alle Dinge sind, viele Kinder zur Herrlichkeit zu bringen und den Urheber ihres Heils durch Leiden vollkommen zu machen. Denn sowohl derjenige, der heiligt, als auch die geheiligten sind alle aus einem; deshalb schämt er sich nicht, sie Brüder zu nennen und sagt:
+
+„Ich werde deinen Namen meinen Brüdern verkünden.
+
+In der Versammlung werde ich deinen Lobpreis singen.“
+
+Wiederum: „Ich werde mein Vertrauen auf ihn setzen.“ Wiederum: „Siehe, hier bin ich mit den Kindern, die Gott mir gegeben hat.“ Da die Kinder Fleisch und Blut teilhaben, hat er auch selbst in gleicher Weise daran teilgenommen, damit er durch den Tod den, der die Macht des Todes hatte, das ist den Teufel, zunichte machen und alle befreien könnte, die durch die Furcht vor dem Tod ihr ganzes Leben lang in Knechtschaft waren. Denn gewiss gibt er den Engeln nicht Hilfe, sondern er gibt Hilfe dem Samen Abrahams. Daher war er in allem verpflichtet, seinen Brüdern gleich zu werden, damit er ein barmherziger und treuer Hoherpriester in den Dingen, die Gott betreffen, werden könnte, um für die Sünden des Volkes Sühne zu leisten. Denn da er selbst gelitten hat, als er versucht wurde, kann er denen helfen, die versucht werden.
+
+### Kapitel 3
+
+Darum, heilige Brüder, Teilhaber einer himmlischen Berufung, betrachtet den Apostel und Hohenpriester unserer Beichte: Jesus, der treu war dem, der ihn eingesetzt hat, wie auch Mose in seinem ganzen Haus. Denn er ist als der, der das Haus gebaut hat, mehr Ehre wert als Mose. Denn jedes Haus wird von jemandem gebaut; aber der, der alles gebaut hat, ist Gott. Mose war zwar treu in seinem ganzen Haus als Diener, zum Zeugnis der Dinge, die später gesagt werden sollten; aber Christus ist treu als Sohn über sein Haus. Wir sind sein Haus, wenn wir unser Vertrauen und das Rühmen unserer Hoffnung bis zum Ende festhalten. Darum, wie der Heilige Geist sagt:
+
+„Heute, wenn ihr seine Stimme hören werdet,
+
+verhärtet eure Herzen nicht wie in der Rebellion,
+
+am Tag der Prüfung in der Wüste,
+
+wo eure Väter mich versucht und geprüft haben
+
+und meine Taten vierzig Jahre lang gesehen haben.
+
+Darum war ich über diese Generation unzufrieden
+
+und sagte: ‚Sie irren immer in ihrem Herzen,
+
+aber sie kannten meine Wege nicht.‘
+
+Wie ich in meinem Zorn schwor:
+
+‚Sie werden nicht in meine Ruhe eingehen.‘“
+
+Seht zu, Brüder, dass vielleicht nicht in einem von euch ein böses Herz des Unglaubens sein könnte, das vom lebendigen Gott abfällt; sondern ermahnt einander Tag für Tag, solange es heißt „Heute“, damit nicht einer von euch durch den Betrug der Sünde verhärtet wird. Denn wir sind Teilhaber Christi geworden, wenn wir den Anfang unseres Vertrauens bis zum Ende festhalten, während gesagt wird:
+
+„Heute, wenn ihr seine Stimme hören werdet,
+
+verhärtet eure Herzen nicht wie in der Rebellion.“
+
+Denn wer hat gehört und sich empört? Waren es nicht alle, die aus Ägypten herausgekommen sind, unter der Führung von Mose? Mit wem war er vierzig Jahre lang unzufrieden? War es nicht mit denen, die gesündigt haben und deren Leiber in der Wüste gefallen sind? Wem schwor er, dass sie nicht in seine Ruhe eingehen würden, sondern denen, die ungehorsam waren? Wir sehen also, dass sie wegen Unglaubens nicht einzugehen vermochten.
+
+### Kapitel 4
+
+Lasst uns daher fürchten, dass vielleicht jemand von euch zu scheinen scheint, dass er einer Verheißung des Eingehens in seine Ruhe zu kurz gekommen ist. Denn tatsächlich ist uns die gute Botschaft verkündet worden, ebenso wie ihnen; aber das Wort, das sie hörten, nützte ihnen nichts, weil es nicht mit Glauben bei denen vermischt war, die hörten. Denn wir, die wir geglaubt haben, gehen in diese Ruhe ein, wie er gesagt hat: „Wie ich in meinem Zorn schwor: Sie werden nicht in meine Ruhe eingehen;“ obwohl die Werke seit Grundlegung der Welt vollendet waren. Denn er hat irgendwo über den siebten Tag gesagt: „Gott ruhte am siebten Tag von all seinen Werken;“ und an dieser Stelle wieder: „Sie werden nicht in meine Ruhe eingehen.“
+
+Da bleibt also noch etwas übrig, dass einige darin eingehen sollten; und diejenigen, denen zuvor die gute Botschaft verkündet wurde, sind wegen Ungehorsams nicht eingegangen. Er definiert also wieder einen bestimmten Tag: „Heute“, indem er durch David so lange danach sagt (wie bereits gesagt wurde):
+
+„Heute, wenn ihr seine Stimme hören werdet,
+
+verhärtet eure Herzen nicht.“
+
+Denn wenn Josua ihnen Ruhe gegeben hätte, hätte er danach nicht von einem anderen Tag gesprochen. Daher bleibt für das Volk Gottes eine Sabbatruhe. Denn wer in seine Ruhe eingegangen ist, hat auch selbst von seinen Werken geruht, wie Gott von seinen. Lasst uns daher Eifer zeigen, um in diese Ruhe einzugehen, damit nicht jemand nach dem gleichen Beispiel des Ungehorsams fällt. Denn das Wort Gottes ist lebendig und wirksam und schärfer als jedes zweischneidige Schwert und dringt bis zur Teilung von Seele und Geist durch und von Gelenken und Mark und ist fähig zu unterscheiden die Gedanken und Absichten des Herzens. Es gibt kein Geschöpf, das vor seinem Blick verborgen ist; sondern alle Dinge sind nackt und aufgedeckt vor den Augen dessen, dem wir Rechenschaft geben müssen.
+
+### Kapitel 4
+
+Da wir nun einen großen Hohepriester haben, der durch die Himmel gegangen ist, Jesus, den Sohn Gottes, lasst uns fest an unserem Bekenntnis festhalten. Denn wir haben keinen Hohepriester, der nicht mit unseren Schwächen mitfühlen könnte, sondern einen, der in allem versucht worden ist wie wir, doch ohne Sünde. Lasst uns daher mit Zuversicht zum Thron der Gnade treten, damit wir Barmherzigkeit empfangen und Gnade finden zur Hilfe zur rechten Zeit.
+
+### Kapitel 5
+
+Denn jeder Hohepriester, der aus den Menschen genommen ist, wird für die Menschen in den Dingen, die Gott betreffen, eingesetzt, damit er sowohl Gaben als auch Opfer für die Sünden darbringen kann. Der Hohepriester kann sanft mit den Unwissenden und Irrenden umgehen, weil er selbst auch von Schwäche umgeben ist. Deshalb muss er sowohl für die Menschen als auch für sich selbst Opfer für die Sünden darbringen. Niemand nimmt sich diese Ehre selbst, sondern er wird von Gott berufen, wie auch Aaron. So hat auch Christus sich nicht selbst verherrlicht, um Hohepriester zu werden, sondern es war er, der zu ihm sagte:
+
+„Du bist mein Sohn.
+
+Heute habe ich dich gezeugt.“
+
+Wie er auch an anderer Stelle sagt:
+
+„Du bist ein Priester für immer,
+
+nach der Ordnung Melchisedeks.“
+
+Er hat in den Tagen seines Fleisches Gebete und Flehen mit lautem Schreien und Tränen dargebracht zu dem, der ihn von dem Tod retten konnte, und wurde gehört wegen seiner Gottesfurcht; obwohl er ein Sohn war, lernte er doch Gehorsam durch das, was er litt. Nachdem er vollendet war, wurde er allen, die ihm gehorchen, der Urheber ewigen Heils, von Gott zum Hohepriester nach der Ordnung Melchisedeks benannt.
+
+Über ihn haben wir viele Worte zu sagen und schwer zu deuten, da ihr taub geworden seid fürs Hören. Denn obwohl ihr inzwischen Lehrer sein solltet, braucht ihr wieder jemanden, der euch die ersten Grundsätze der Offenbarungen Gottes lehrt. Ihr seid in den Zustand gekommen, Milch und nicht feste Speise zu brauchen. Denn jeder, der von Milch lebt, ist unerfahren im Wort der Gerechtigkeit; denn er ist ein Kind. Feste Speise aber ist für die Vollkommenen, die durch den Gebrauch ihre Sinne geübt haben, um Gut und Böse zu unterscheiden.
+
+### Kapitel 6
+
+Darum lasst uns die Lehre von den ersten Prinzipien Christi hinter uns lassen und zur Vollkommenheit drängen – ohne erneut das Fundament der Buße von toten Werken zu legen, des Glaubens an Gott, der Lehre von Taufen, des Auflegens der Hände, der Auferstehung der Toten und des ewigen Gerichts. Dies wollen wir tun, wenn Gott es erlaubt. Denn bezüglich derjenigen, die einmal erleuchtet waren und vom himmlischen Geschenk gekostet haben und Anteil am Heiligen Geist hatten und das gute Wort Gottes und die Kräfte des zukünftigen Zeitalters gekostet haben und dann abgefallen sind, ist es unmöglich, sie erneut zur Buße zu erneuern; da sie den Sohn Gottes für sich selbst wieder kreuzigen und ihn öffentlich schänden. Denn das Land, das den Regen getrunken hat, der oft auf es fällt und eine Ernte bringt, die für diejenigen geeignet ist, um deren willen es auch bearbeitet wird, empfängt Segen von Gott; wenn es aber Dornen und Disteln trägt, ist es verworfen und nahe daran verflucht zu werden; dessen Ende ist das Feuer.
+
+Aber geliebte Brüder, wir sind überzeugt von besseren Dingen für euch und Dingen, die zur Rettung gehören, auch wenn wir so sprechen. Denn Gott ist nicht ungerecht, um euer Werk und die Liebe zu vergessen, die ihr seinem Namen gegenüber gezeigt habt, indem ihr den Heiligen gedient habt und noch dient. Wir wünschen, dass jeder von euch denselben Eifer zeigt bis zur Fülle der Hoffnung bis zum Ende, damit ihr nicht träge werdet, sondern Nachahmer jener, die durch Glauben und Geduld die Verheißungen ererbt haben.
+
+Denn als Gott Abraham eine Verheißung gab, da er bei niemandem größerem schwören konnte, schwor er bei sich selbst und sprach: „Wahrlich segnen will ich dich und zahlreich machen will ich dich.“ So hat er geduldig gewartet und die Verheißung empfangen. Denn Menschen schwören tatsächlich bei einem Größeren; und in jedem Streit ist der Eid das endgültige Mittel zur Bestätigung. So hat Gott, da er entschlossen war, den Erben der Verheißung die Unveränderlichkeit seines Rates überreichlich zu zeigen, mit einem Eid interveniert; damit wir durch zwei unveränderliche Dinge, in denen es unmöglich ist, dass Gott lügt, starken Trost haben können – wir, die wir Zuflucht gesucht haben, um die Hoffnung zu ergreifen, die uns vorgesetzt ist. Diese Hoffnung haben wir als Anker der Seele, eine Hoffnung sowohl sicher als auch fest und die in das Innere des Vorhangs eintritt, wo Jesus als Vorläufer für uns eingegangen ist und zum Hohepriester für immer nach der Ordnung Melchisedeks geworden ist.
+
+### Kapitel 7
+
+Denn dieser Melchisedek, König von Salem, Priester des Gottes des Höchsten, der Abraham begegnete, als er von der Schlacht der Könige zurückkehrte und ihn segnete, dem auch Abraham den Zehnten von allem gab (der zuerst, nach Auslegung, „König der Gerechtigkeit“ ist und dann auch „König von Salem“, was „König des Friedens“ bedeutet, ohne Vater, ohne Mutter, ohne Geschlechtsregister, der weder Anfang der Tage noch Ende des Lebens hat, sondern gleich dem Sohn Gottes gemacht wurde), bleibt ein Priester für immer.
+
+Betrachte nun, wie groß dieser Mensch war, dem selbst Abraham, der Stammvater, den Zehnten von der besten Beute gab. Sie, die Söhne Levis, die das Priesteramt empfangen, haben ein Gebot, Zehnten von dem Volk gemäß dem Gesetz zu nehmen, das heißt von ihren Brüdern, obwohl diese aus dem Leib Abrahams hervorgegangen sind; aber er, dessen Geschlechtsregister nicht von ihnen gezählt wird, hat Zehnten von Abraham angenommen und hat den gesegnet, der die Verheißungen hat. Doch ohne jeden Streit wird der Geringere vom Größeren gesegnet. Hier empfangen Menschen, die sterben, Zehnten; dort aber empfängt einer Zehnten, von dem bezeugt wird, dass er lebt. Wir können sagen, dass Levi durch Abraham sogar Zehnten gezahlt hat, denn er war noch im Leib seines Vaters, als Melchisedek ihm begegnete.
+
+Wenn nun die Vollkommenheit durch das levitische Priestertum war (denn unter ihm hat das Volk das Gesetz empfangen), was war dann noch nötig, dass ein anderer Priester nach der Ordnung Melchisedeks aufsteht und nicht nach der Ordnung Aarons genannt wird? Denn wenn das Priestertum geändert wird, so ist auch notwendig eine Änderung des Gesetzes. Denn er, von dem dies gesagt wird, gehört einem anderen Stamm an, aus dem niemand am Altar gedient hat. Denn es ist evident, dass unser Herr aus Juda hervorgegangen ist, über den Stamm hat Mose nichts gesagt bezüglich des Priestertums. Dies ist noch viel offensichtlicher, wenn nach der Ähnlichkeit Melchisedeks ein anderer Priester aufsteht, der nicht nach dem Gesetz eines fleischlichen Gebots gemacht wurde, sondern nach der Kraft eines unvergänglichen Lebens; denn es wird bezeugt:
+
+„Du bist Priester für immer,
+
+nach der Ordnung Melchisedeks.“
+
+Denn es gibt eine Aufhebung eines vorhergehenden Gebots wegen seiner Schwäche und Nutzlosigkeit (denn das Gesetz machte nichts vollkommen), und eine Einführung einer besseren Hoffnung, durch die wir uns Gott nähern. Insofern er nicht ohne einen Eid zum Priester gemacht wurde (denn sie sind tatsächlich ohne Eid zu Priestern gemacht worden), sondern er mit einem Eid von dem, der von ihm sagt:
+
+„Der Herr schwor und wird seine Meinung nicht ändern,
+
+‘Du bist Priester für immer,
+
+nach der Ordnung Melchisedeks.’“
+
+So ist Jesus zum Bürgen eines besseren Bundes geworden.
+
+Viele sind in der Tat zu Priestern gemacht worden, weil sie durch den Tod daran gehindert werden, fortzufahren. Aber er, weil er für immer lebt, hat sein Priestertum unveränderlich. Daher kann er auch die vollkommen retten, die sich durch ihn Gott nähern, da er für immer lebt, um für sie zu bitten.
+
+Denn ein solcher Hohepriester war uns passend: heilig, schuldlos, unbefleckt, von Sündern abgesondert und höher als die Himmel gemacht; der nicht wie jene Hohepriester täglich Opfer darbringen muss, zuerst für seine eigenen Sünden und dann für die Sünden des Volkes. Denn dies tat er einmal für allemal, als er sich selbst opferte. Denn das Gesetz setzt Männer als Hohepriester ein, die Schwäche haben; aber das Wort des Eides, das nach dem Gesetz kam, setzt einen Sohn ein für immer, der vollendet wurde.
+
+### Kapitel 8
+
+Nun ist in den Dingen, die wir sagen, der Hauptpunkt dieser: Wir haben einen solchen Hohepriester, der sich zur Rechten des Thrones der Majestät in den Himmeln gesetzt hat, ein Diener des Heiligtums und des wahren Zeltes, das der Herr aufgeschlagen hat, nicht der Mensch. Denn jeder Hohepriester ist eingesetzt, sowohl Gaben als auch Opfer darzubringen. Daher ist es notwendig, dass auch dieser Hohepriester etwas zu bieten hat. Denn wenn er auf Erden wäre, wäre er überhaupt kein Priester mehr, da es Priester gibt, die die Gaben gemäß dem Gesetz darbringen und die ein Abbild und Schatten der himmlischen Dinge dienen, so wie Mose von Gott gewarnt wurde, als er das Zelt machen wollte; denn er sagte: „Siehe zu, dass du alles nach dem Muster machst, das dir auf dem Berg gezeigt wurde.“ Aber nun hat er einen ausgezeichneteren Dienst erlangt, insoweit er auch der Mittler eines besseren Bundes ist, der auf besseren Verheißungen gegeben wurde als Gesetz.
+
+Denn wenn der erste Bund fehlerlos gewesen wäre, hätte man keinen Platz für einen zweiten gesucht. Denn da er ihnen Vorwürfe machte, sagte er:
+
+„Siehe, es kommen Tage“, spricht der Herr,
+
+„da will ich einen neuen Bund schließen mit dem Haus Israel und mit dem Haus Juda;
+
+nicht nach dem Bund, den ich mit ihren Vätern geschlossen habe
+
+an dem Tag, als ich sie bei der Hand nahm, um sie aus dem Land Ägypten zu führen;
+
+denn sie blieben nicht in meinem Bund,
+
+und ich achtete nicht auf sie“, spricht der Herr.
+
+„Denn das ist der Bund, den ich mit dem Haus Israel schließen will
+
+nach jenen Tagen“, spricht der Herr:
+
+„Ich will meine Gesetze in ihren Sinn geben;
+
+ich will sie auch auf ihr Herz schreiben.
+
+Ich will ihr Gott sein,
+
+und sie werden mein Volk sein.
+
+Und jeder wird seinen Nächsten nicht lehren
+
+und jeder seinen Bruder, indem er sagt: ‚Erkenne den Herrn,‘
+
+denn alle werden mich erkennen,
+
+vom Kleinsten bis zum Größten unter ihnen.
+
+Denn ich will gnädig sein gegen ihre Ungerechtigkeit.
+
+Und ihrer Sünden und Gesetzlosigkeiten will ich nicht mehr gedenken.“
+
+Indem er sagt: „Einen neuen Bund“, hat er den ersten für obsolet erklärt. Was aber obsolet wird und altert, steht kurz davor, zu verschwinden.
+
+### Kapitel 9
+
+Denn auch der erste Bund hatte Vorschriften für den Gottesdienst und ein irdisches Heiligtum. Denn ein Zelt wurde vorbereitet. Im ersten Teil waren der Leuchter, der Tisch und die Schaubrote, die das Heilige genannt werden. Hinter dem zweiten Vorhang war das Zelt, das das Allerheiligste genannt wird, mit einem goldenen Räucheraltar und der Bundeslade, die von allen Seiten mit Gold überzogen war, in der sich ein goldener Topf mit dem Manna, Aarons blühender Stab und die Tafeln des Bundes befanden; und darüber waren die Cherubim der Herrlichkeit, die die Gnadenstätte überschatteten, über diese Dinge können wir jetzt nicht im Detail sprechen.
+
+Da diese Dinge also so vorbereitet waren, gehen die Priester ständig in das erste Zelt ein und verrichten die Dienste; aber in das zweite geht allein der Hohepriester einmal im Jahr, nicht ohne Blut, das er für sich selbst und für die Fehler des Volkes opfert. Der Heilige Geist zeigt damit an, dass der Weg in das Heilige noch nicht offenbart war, solange das erste Zelt noch stand. Dies ist ein Symbol für die gegenwärtige Zeit, in der Gaben und Opfer dargebracht werden, die hinsichtlich des Gewissens unfähig sind, den Anbeter vollkommen zu machen; sie sind nur (mit Speisen und Getränken und verschiedenen Waschungen) fleischliche Vorschriften, die bis zur Zeit der Reform auferlegt wurden.
+
+Aber Christus ist als Hoherpriester der kommenden guten Dinge gekommen, durch das größere und vollkommenere Zelt, das nicht mit Händen gemacht ist, das heißt, nicht von dieser Schöpfung, noch durch das Blut von Böcken und Kälbern, sondern durch sein eigenes Blut ist er einmal für alle Zeit in das Heilige eingegangen und hat ewige Erlösung erlangt. Denn wenn das Blut von Böcken und Stieren und die Asche einer jungen Kuh die Unreinen besprengt und zur Reinheit des Fleisches heiligt, wie viel mehr wird das Blut Christi, der sich durch den ewigen Geist ohne Fehler Gott dargebracht hat, euer Gewissen von toten Werken reinigen, um dem lebendigen Gott zu dienen? Deshalb ist er der Mittler eines neuen Bundes, da ein Tod eingetreten ist zur Erlösung der Übertretungen, die unter dem ersten Bund waren, damit die Berufenen das Versprechen des ewigen Erbes empfangen. Denn wo ein Testament ist, da muss notwendig der Tod dessen eintreten, der es gemacht hat. Denn ein Testament hat Kraft dort, wo es einen Tod gegeben hat; denn es ist niemals in Kraft, solange derjenige lebt, der es gemacht hat. Daher wurde auch der erste Bund nicht ohne Blut eingeweiht. Denn als jedes Gebot von Mose dem ganzen Volk gemäß dem Gesetz verkündet worden war, nahm er das Blut von Kälbern und Böcken mit Wasser und scharlachrotem Wolle und Ysop und besprengte sowohl das Buch selbst als auch das ganze Volk und sprach: „Das ist das Blut des Bundes, den Gott euch geboten hat.“
+
+Er besprengte das Zelt und alle Gefäße des Dienstes auf dieselbe Weise mit dem Blut. Nach dem Gesetz wird fast alles mit Blut gereinigt; und ohne Blutvergießen gibt es keine Vergebung.
+
+Es war daher notwendig, dass die Kopien der Dinge im Himmel mit diesen gereinigt werden sollten, die himmlischen Dinge selbst jedoch mit besseren Opfern als diesen. Denn Christus ist nicht in heilige Orte eingetreten, die mit Händen gemacht sind, die Darstellungen des Wahren sind, sondern in den Himmel selbst, um jetzt in der Gegenwart Gottes für uns zu erscheinen; noch sollte er sich oft opfern, wie der Hohepriester Jahr für Jahr mit Blut, das nicht sein eigenes ist, in den heiligen Ort eintritt, oder sonst hätte er seit der Grundlegung der Welt oft leiden müssen. Aber jetzt ist er einmal am Ende der Zeiten offenbar geworden, um die Sünde durch das Opfer seiner selbst zu beseitigen. Insofern es den Menschen bestimmt ist, einmal zu sterben, und danach das Gericht, so wird auch Christus, nachdem er einmal angeboten wurde, um die Sünden vieler zu tragen, ein zweites Mal erscheinen, nicht um mit der Sünde umzugehen, sondern um die zu retten, die sehnsüchtig auf ihn warten.
+
+### Kapitel 10
+
+Denn das Gesetz hat einen Schatten des Zukünftigen, nicht das wahre Bild der Dinge, kann niemals mit denselben Opfern Jahr für Jahr, die sie ständig anbieten, die sich nähern, vollkommen machen. Oder hätten sie sonst nicht aufgehört, angeboten zu werden, weil die Anbeter, einmal gereinigt, kein Bewusstsein mehr für Sünden gehabt hätten? Aber in diesen Opfern gibt es eine jährliche Erinnerung an die Sünden. Denn es ist unmöglich, dass das Blut von Stieren und Ziegen Sünden wegnehmen kann. Daher sagt er, als er in die Welt kommt:
+
+„Du hast kein Opfer und keine Gabe gewollt,
+
+aber du hast mir einen Leib bereitet.
+
+Du hattest kein Gefallen an Brandopfern und Sündenopfern.
+
+Dann sagte ich: ‚Siehe, ich bin gekommen (in dem Buch ist von mir geschrieben)
+
+um deinen Willen zu tun, o Gott.‘“
+
+Zuvor sagt er: „Opfer und Gaben und Brandopfer und Sündenopfer hast du nicht gewollt, noch Freude an ihnen gehabt“ (die gemäß dem Gesetz angeboten werden), dann hat er gesagt: „Siehe, ich bin gekommen, um deinen Willen zu tun.“ Er nimmt das Erste weg, um das Zweite zu etablieren, durch welches Willen wir durch das Opfer des Körpers von Jesus Christus einmal für alle geheiligt worden sind.
+
+Jeder Priester steht tatsächlich Tag für Tag da und dient und bietet oft dieselben Opfer an, die niemals Sünden wegnehmen können; aber er, nachdem er ein Opfer für die Sünden für immer angeboten hat, setzte sich zur Rechten Gottes und wartet von da an, bis seine Feinde zum Schemel seiner Füße gemacht werden. Denn durch ein Opfer hat er die für immer vollkommen gemacht, die geheiligt werden. Der Heilige Geist bezeugt uns auch; denn nachdem er gesagt hat:
+
+„Das ist der Bund, den ich mit ihnen schließen werde
+
+nach jenen Tagen“, sagt der Herr,
+
+„ich werde meine Gesetze in ihr Herz legen,
+
+ich werde sie auch in ihren Verstand schreiben;“
+
+dann sagt er:
+
+„Ich werde ihrer Sünden und ihrer Ungerechtigkeiten nicht mehr gedenken.“
+
+Wo aber Vergebung dieser ist, da gibt es kein weiteres Opfer für die Sünde.
+
+Da wir also, Brüder, Freimut haben, in den heiligen Ort einzutreten durch das Blut Jesu, durch den Weg, den er für uns eingeweiht hat, einen neuen und lebendigen Weg, durch den Vorhang, das heißt sein Fleisch, und einen großen Priester über das Haus Gottes haben, lasst uns mit aufrichtigem Herzen in voller Glaubensgewissheit nahen, unsere Herzen besprengt von einem bösen Gewissen und unseren Körper mit reinem Wasser gewaschen; lasst uns das Bekenntnis unserer Hoffnung ohne Wanken festhalten; denn er, der verheißen hat, ist treu.
+
+Lasst uns bedenken, wie wir einander zur Liebe und zu guten Werken anregen können, nicht unsere eigene Versammlung zu verlassen, wie es einige gewohnt sind, sondern einander zu ermahnen und umso mehr, je mehr ihr den Tag naht seht.
+
+Denn wenn wir willentlich sündigen, nachdem wir die Erkenntnis der Wahrheit empfangen haben, bleibt kein weiteres Opfer für die Sünden mehr übrig, sondern eine gewisse furchtbare Erwartung des Gerichts und eine Heftigkeit des Feuers, das die Widersacher verzehren wird. Ein Mensch, der das Gesetz Moses missachtet, stirbt ohne Mitleid auf das Wort von zwei oder drei Zeugen. Wie viel schlimmerer Strafe denkst du wird er für würdig gehalten werden, der den Sohn Gottes mit Füßen getreten hat und das Blut des Bundes, mit dem er geheiligt wurde, für eine unheilige Sache gehalten hat und den Geist der Gnade beleidigt hat? Denn wir kennen den, der gesagt hat: „Die Rache gehört mir. Ich werde vergelten“, sagt der Herr. Wiederum: „Der Herr wird sein Volk richten.“ Es ist eine furchtbare Sache, in die Hände des lebendigen Gottes zu fallen.
+
+Aber denkt an die früheren Tage, in denen ihr, nachdem ihr erleuchtet wurdet, einen großen Kampf mit Leiden erduldet habt: teils, indem ihr sowohl Schmach als auch Bedrängnis ausgesetzt wart, und teils, indem ihr Anteil genommen habt an denen, die so behandelt wurden. Denn ihr hattet sowohl Mitleid mit mir in meinen Fesseln als auch die Plünderung eurer Besitztümer freudig angenommen, in dem Wissen, dass ihr für euch selbst einen besseren und bleibenden Besitz im Himmel habt. Werft daher eure Zuversicht nicht weg, die eine große Belohnung hat. Denn ihr braucht Geduld, damit ihr, nachdem ihr den Willen Gottes getan habt, die Verheißung empfangen könnt.
+
+„In sehr kurzer Zeit wird der kommen, der kommen wird, und wird nicht warten. Aber der Gerechte wird durch den Glauben leben. Wenn er zurückweicht, hat meine Seele kein Wohlgefallen an ihm.“
+
+Aber wir gehören nicht zu denen, die zurückweichen zur Zerstörung, sondern zu denen, die Glauben haben zur Rettung der Seele.
+
+### Kapitel 11
+
+Der Glaube ist eine feste Zuversicht auf das, was man hofft, ein Überführen von Dingen, die man nicht sieht. Denn durch diesen haben die Alten Zeugnis erhalten. Durch den Glauben verstehen wir, dass die Welt durch das Wort Gottes bereitet wurde, sodass das Sichtbare nicht aus dem Sichtbaren gemacht wurde.
+
+Durch den Glauben brachte Abel Gott ein besseres Opfer dar als Kain, durch das ihm Zeugnis gegeben wurde, dass er gerecht war; Gott bezeugte seine Gaben; und durch ihn spricht er, obwohl er tot ist.
+
+Durch den Glauben wurde Henoch entrückt, sodass er den Tod nicht sehen sollte; und er wurde nicht gefunden, weil Gott ihn entrückt hatte. Denn ihm wurde Zeugnis gegeben, dass er vor seiner Entrückung Gott wohlgefällig war. Ohne Glauben ist es unmöglich, ihm wohlgefällig zu sein; denn wer zu Gott kommt, muss glauben, dass er ist und dass er die belohnt, die ihn suchen.
+
+Durch den Glauben baute Noah, als er über Dinge gewarnt wurde, die noch nicht gesehen waren, von göttlichem Furcht bewegt ein Schiff zur Rettung seines Hauses; durch das verurteilte er die Welt und wurde Erbe der Gerechtigkeit, die aus dem Glauben kommt.
+
+Durch den Glauben gehorchte Abraham, als er berufen wurde, hinauszugehen an den Ort, den er zum Erbe empfangen sollte. Er ging hinaus, ohne zu wissen, wohin er ging. Durch den Glauben lebte er als Fremder im Land der Verheißung, wie in einem ihm fremden Land, wohnend in Zelten mit Isaak und Jakob, den Miterben des gleichen Versprechens. Denn er wartete auf die Stadt mit Fundamenten, deren Baumeister und Schöpfer Gott ist.
+
+Durch den Glauben empfing sogar Sarah selbst Kraft zu empfangen und gebar ein Kind, als sie über das Alter hinaus war, da sie den für treu hielt, der verheißen hatte. Daher sind so viele wie die Sterne am Himmel in der Menge und so zahlreich wie der Sand am Meerstrand von einem Mann gezeugt worden und dieser war so gut wie tot.
+
+Diese alle starben im Glauben, ohne die Verheißungen empfangen zu haben; sie sahen sie von weitem und umarmten sie und bekannten, dass sie Fremde und Pilger auf der Erde waren. Denn die solchen Dinge sagen, machen deutlich, dass sie ein eigenes Vaterland suchen. Hätten sie tatsächlich an das Land gedacht, aus dem sie ausgegangen sind, hätten sie genug Zeit gehabt zurückzukehren. Aber jetzt sehnen sie sich nach einem besseren Land, nämlich einem himmlischen. Daher schämt sich Gott nicht für sie, ihr Gott genannt zu werden; denn er hat eine Stadt für sie bereitet.
+
+Durch den Glauben opferte Abraham, als er geprüft wurde, Isaak. Ja, er, der die Verheißungen freudig empfangen hatte, opferte seinen einzigen Sohn dar; zu dem gesagt worden war: „Dein Nachkomme wird aus Isaak gerechnet werden“, und schloss daraus, dass Gott auch aus den Toten erwecken kann. Bildlich gesprochen erhielt er ihn auch von den Toten zurück.
+
+Durch den Glauben segnete Isaak Jakob und Esau auch hinsichtlich der zukünftigen Dinge.
+
+Durch den Glauben segnete Jakob, als er starb, jeden der Söhne Josephs und betete an und lehnte sich auf die Spitze seines Stabes.
+
+Durch den Glauben erwähnte Joseph, als sein Ende nahe war, den Auszug der Kinder Israel und gab Anweisungen bezüglich seiner Gebeine.
+
+Durch den Glauben wurde Mose geboren und von seinen Eltern drei Monate lang verborgen gehalten; denn sie sahen, dass er ein schöner Knabe war; und sie fürchteten sich nicht vor dem Gebot des Königs.
+
+Durch den Glauben weigerte sich Mose, als er groß geworden war, den Sohn der Tochter des Pharao genannt zu werden, und wählte es vor, mit dem Volk Gottes Misshandlungen zu teilen, als die Vergnügungen der Sünde für eine Zeit zu genießen, da er die Schmach Christi für größere Reichtümer hielt als die Schätze Ägyptens; denn er sah auf die Belohnung. Durch den Glauben verließ er Ägypten, ohne die Zorn des Königs zu fürchten; denn er hielt aus, als sähe er den Unsichtbaren. Durch den Glauben hielt er das Passah und die Besprengung des Blutes, damit der Zerstörer der Erstgeborenen sie nicht berühren sollte.
+
+Durch den Glauben gingen sie durch das Rote Meer, wie durch trockenes Land. Als die Ägypter es versuchten, wurden sie verschlungen.
+
+Durch den Glauben fielen die Mauern von Jericho, nachdem sie sieben Tage umschritten worden waren.
+
+Durch den Glauben kam Rahab, die Hure, nicht um mit denen, die ungehorsam waren, da sie die Spione in Frieden aufgenommen hatte.
+
+Was soll ich noch mehr sagen? Denn die Zeit würde mir fehlen, wenn ich von Gideon, Barak, Simson, Jephta, David, Samuel und den Propheten erzählte—die durch den Glauben Königreiche unterwarfen, Gerechtigkeit wirkten, Verheißungen erhielten, die Mäuler von Löwen stoppten, die Kraft des Feuers löschten, dem Schwert entkamen, aus Schwäche stark gemacht wurden, mächtig im Krieg wurden und fremde Heere zum Fliehen brachten. Frauen erhielten ihre Toten durch die Auferstehung. Andere wurden gefoltert und nahmen ihre Befreiung nicht an, damit sie eine bessere Auferstehung erlangen könnten. Andere wurden durch Spott und Geißelung geprüft, ja, zudem durch Fesseln und Gefängnis. Sie wurden gesteinigt. Sie wurden zersägt. Sie wurden versucht. Sie wurden mit dem Schwert getötet. Sie gingen in Schaf- und Ziegenfellen umher; waren bedürftig, bedrängt, misshandelt—von denen die Welt nicht wert war—umherirrend in Wüsten, Bergen, Höhlen und Löchern der Erde.
+
+Diese alle, die für ihren Glauben gelobt wurden, erhielten die Verheißung nicht; Gott hatte etwas Besseres für uns vorgesehen, damit sie nicht ohne uns vollendet werden sollten.
+
+### Kapitel 12
+
+Darum lasst uns auch, da wir von so großer Wolke von Zeugen umgeben sind, jede Last ablegen und die Sünde, die uns so leicht umstrickt, und lasst uns mit Ausdauer das Rennen laufen, das vor uns liegt, indem wir auf Jesus schauen, den Anfänger und Vollender des Glaubens, der um der Freude willen, die vor ihm lag, das Kreuz erduldete und die Schmach nicht achtete und sich zur Rechten des Thrones Gottes setzte.
+
+Denn bedenkt den, der solchen Widerspruch der Sünder gegen sich erduldet hat, damit ihr nicht müde werdet und in euren Seelen ermattet. Ihr habt noch nicht bis aufs Blut widerstanden im Kampf gegen die Sünde. Ihr habt die Ermahnung vergessen, die euch als Söhne anspricht:
+
+„Mein Sohn, achte die Züchtigung des Herrn nicht gering,
+
+noch ermatte, wenn du von ihm zurechtgewiesen wirst;
+
+denn wen der Herr liebt, den züchtigt er,
+
+und er schlägt jeden Sohn, den er annimmt.“
+
+Es ist zur Züchtigung, dass ihr aushaltet. Gott handelt mit euch wie mit Söhnen; denn welcher Sohn wird nicht vom Vater gezüchtigt? Wenn ihr aber ohne Züchtigung seid, an der alle teilhaben, dann seid ihr unechte Kinder und keine Söhne. Darüber hinaus hatten wir unsere leiblichen Väter zur Züchtigung und ehrten sie. Sollen wir uns da nicht viel mehr dem Vater der Geister unterordnen und leben? Denn sie züchtigten uns zwar für einige Tage nach ihrem Gutdünken; er aber zu unserem Nutzen, damit wir Teilhaber seiner Heiligkeit werden. Alle Züchtigung scheint zwar für den Augenblick nicht Freude zu bringen, sondern Traurigkeit; danach aber bringt sie den friedlichen Frucht der Gerechtigkeit für die Geübten durch sie. Darum hebt die hängenden Hände und die schwachen Knie auf und macht gerade Wege für eure Füße, damit das Lahme nicht ausgerenkt werde, sondern vielmehr geheilt werde.
+
+Strebt nach Frieden mit allen Menschen und nach der Heiligung, ohne die niemand den Herrn sehen wird; achtet darauf, dass nicht jemand von der Gnade Gottes zurückbleibt; dass nicht irgendeine Wurzel der Bitterkeit aufspringt und euch stört und viele dadurch befleckt werden; dass nicht jemand unzüchtig oder profan sei wie Esau, der sein Erstgeburtsrecht für eine Mahlzeit verkaufte. Denn ihr wisst, dass er auch später, als er das Erbe erben wollte, verworfen wurde; denn er fand keinen Raum zur Umkehr, obwohl er es mit Tränen suchte.
+
+Denn ihr seid nicht zu einem Berg gekommen, der berührt werden könnte und der mit Feuer brannte, und zu Dunkelheit, Finsternis, Sturm, dem Klang einer Trompete und der Stimme von Worten; die, die es hörten, baten, dass nicht ein weiteres Wort zu ihnen gesprochen werde, denn sie konnten das, was befohlen wurde, nicht ertragen: „Wenn auch nur ein Tier den Berg berührt, soll es gesteinigt werden.“ So furchtbar war das Erscheinungsbild, dass Mose sagte: „Ich bin erschrocken und zittere.“
+
+Aber ihr seid zum Berg Zion und zur Stadt des lebendigen Gottes, dem himmlischen Jerusalem, und zu unzähligen Scharen von Engeln gekommen, zur festlichen Versammlung und zur Gemeinde der Erstgeborenen, die im Himmel eingeschrieben sind, zu Gott, dem Richter aller, zu den Geistern der vollendeten Gerechten, zu Jesus, dem Vermittler eines neuen Bundes, und zum Blut der Besprengung, das besser spricht als das von Abel.
+
+Seht zu, dass ihr dem nicht widersteht, der spricht. Denn wenn sie nicht entkamen, als sie dem widerstanden, der auf der Erde warnte, wie viel mehr werden wir nicht entkommen, wenn wir uns von dem abwenden, der aus dem Himmel warnt, dessen Stimme damals die Erde erschütterte, aber jetzt hat er verheißen und gesagt: „Noch einmal werde ich nicht nur die Erde erschüttern, sondern auch die Himmel.“ Dieser Ausdruck „Noch einmal“ bedeutet die Entfernung der Dinge, die erschüttert werden, als ob es Dinge wären, die gemacht wurden, damit die Dinge, die nicht erschüttert werden können, bleiben. Daher empfangen wir ein Reich, das nicht erschüttert werden kann; lasst uns Gnade haben, durch die wir Gott wohlgefällig dienen, mit Ehrfurcht und Furcht; denn unser Gott ist ein verzehrendes Feuer.
+
+### Kapitel 13
+
+Lasst die brüderliche Liebe fortdauern. Vergesst nicht, Gastfreundschaft gegenüber Fremden zu zeigen; denn dadurch haben einige Engel ohne es zu wissen beherbergt. Denkt an die Gefangenen, als wäret ihr mit ihnen gefesselt, und an die Misshandelten, da ihr auch im Leib seid. Die Ehe sei bei allen in Ehren gehalten und das Bett unbefleckt; denn Gott wird die Unzüchtigen und Ehebrecher richten.
+
+Seid frei von der Liebe zum Geld, zufrieden mit dem, was ihr habt; denn er hat gesagt: „Ich werde dich auf keinen Fall verlassen und dich auf keinen Fall forschen.“ So können wir mit guter Zuversicht sagen:
+
+„Der Herr ist mein Helfer. Ich werde mich nicht fürchten.
+
+Was kann der Mensch mir antun?“
+
+Erinnert euch an eure Führer, Männer, die euch das Wort Gottes gesprochen haben; und betrachtet das Ergebnis ihres Verhaltens; ahmt ihren Glauben nach. Jesus Christus ist derselbe gestern, heute und in Ewigkeit. Lasst euch nicht von verschiedenen und fremden Lehren mitreißen; denn es ist gut, dass das Herz durch Gnade gefestigt wird, nicht durch Speisen, durch die diejenigen, die so beschäftigt waren, keinen Nutzen hatten.
+
+Wir haben einen Altar, von dem die Diener des heiligen Zeltes kein Recht haben zu essen. Denn die Körper jener Tiere, deren Blut vom Hohepriester als Sündeopfer in den heiligen Ort gebracht wird, werden außerhalb des Lagers verbrannt. Daher hat auch Jesus gelitten, damit er das Volk durch sein eigenes Blut heiligen könnte; er litt außerhalb des Tores. Lasst uns also zu ihm hinausgehen außerhalb des Lagers und seine Schmach tragen. Denn wir haben hier keine bleibende Stadt, sondern wir suchen die zukünftige. Durch ihn lasst uns also ständig ein Lobopfer für Gott darbringen, das heißt die Frucht der Lippen, die seinen Namen bekennen. Vergesst aber nicht, Gutes zu tun und zu teilen; denn mit solchen Opfern ist Gott wohlgefällig.
+
+Geht euren Führern nach und unterwerft euch ihnen; denn sie wachen für eure Seelen, als solche, die Rechenschaft ablegen werden; damit sie dies mit Freude tun und nicht mit Seufzen; denn das wäre für euch unprofitabel.
+
+Betet für uns; denn wir sind überzeugt, dass wir ein gutes Gewissen haben und wünschen, in allen Dingen ehrenhaft zu leben. Ich fordere euch nachdrücklich auf, dies zu tun, damit ich euch bald wiedergegeben werde.
+
+Nun möge der Gott des Friedens, der den großen Hirten der Schafe durch das Blut eines ewigen Bundes von den Toten auferweckt hat – unseren Herrn Jesus – euch in jedem guten Werk vollkommen machen, um seinen Willen zu tun und in euch das Wohlgefällige in seinem Angesicht zu wirken durch Jesus Christus; ihm sei die Ehre in Ewigkeit. Amen.
+
+Aber ich ermahne euch, Brüder, ertragt das Wort der Ermahnung; denn ich habe euch in wenigen Worten geschrieben. Wisst, dass unser Bruder Timotheus freigelassen worden ist; mit ihm werde ich euch sehen, wenn er bald kommt.
+
+Grüßt alle eure Führer und alle Heiligen. Die Italiener grüßen euch.
+
+Die Gnade sei mit euch allen. Amen.
+
+## Jakobus
+
+Der Brief des Jakobus
+
+### Kapitel 1
+
+Jakobus, ein Diener Gottes und des Herrn Jesus Christus, an die zwölf Stämme, die in der Zerstreuung sind: Grüße.
+
+Haltet es für Freude, meine Brüder, wenn ihr in verschiedene Versuchungen fallt, da ihr wisst, dass die Prüfung eures Glaubens Ausdauer hervorbringt. Lasst die Ausdauer ihr vollkommenes Werk tun, damit ihr vollkommen und vollständig seid und an nichts Mangel habt.
+
+Wenn aber jemand von euch Weisheit mangelt, so bitte er Gott, der allen gerne und ohne Vorwurf gibt, und sie wird ihm gegeben werden. Er bitte aber im Glauben, ohne zu zweifeln; denn wer zweifelt, ist wie eine Welle des Meeres, die vom Wind getrieben und hin und her geworfen wird. Denn der Mensch sollte nicht denken, dass er etwas vom Herrn empfangen wird. Er ist ein unbeständiger Mensch in all seinen Wegen.
+
+Der Bruder in bescheidenen Verhältnissen soll sich seiner hohen Stellung rühmen; und der Reiche in seiner Erniedrigung, denn wie die Blume im Gras wird er vergehen. Denn die Sonne geht auf mit der sengenden Hitze und verdorrt das Gras; und die Blume darin fällt ab, und die Schönheit ihres Aussehens vergeht. So wird auch der Reiche in seinen Unternehmungen vergehen.
+
+Selig ist der Mensch, der die Versuchung erträgt; denn wenn er bewährt ist, wird er die Krone des Lebens empfangen, die der Herr denen verheißen hat, die ihn lieben.
+
+Niemand sage, wenn er versucht wird: „Ich werde von Gott versucht“, denn Gott kann nicht vom Bösen versucht werden, und er selbst versucht niemanden. Sondern jeder wird versucht, wenn er von seiner eigenen Lust weggezogen und gelockt wird. Dann, wenn die Lust empfangen hat, bringt sie die Sünde hervor; und die Sünde, wenn sie vollendet ist, bringt den Tod hervor. Lasst euch nicht irreführen, meine geliebten Brüder. Jede gute Gabe und jedes vollkommene Geschenk kommt von oben, herab von dem Vater der Lichter, bei dem es keine Veränderung noch einen Schatten der Wendung gibt. Nach seinem Willen hat er uns durch das Wort der Wahrheit gezeugt, damit wir eine Art Erstlinge seiner Geschöpfe sein sollten.
+
+So seid nun, meine geliebten Brüder, jeder schnell zum Hören, langsam zum Reden und langsam zum Zorn; denn der Zorn des Menschen bringt nicht die Gerechtigkeit Gottes hervor. Darum legt alle Unreinheit und Überfluss an Bosheit ab und nehmt mit Sanftmut das eingepflanzte Wort auf, das eure Seelen retten kann.
+
+Seid aber Täter des Wortes und nicht nur Hörer, die sich selbst betrügen. Denn wenn jemand ein Hörer des Wortes ist und kein Täter, der ist wie ein Mann, der sein natürliches Gesicht im Spiegel betrachtet; denn er sieht sich selbst und geht weg und vergisst sogleich, welche Art von Mensch er war. Wer aber in das vollkommene Gesetz der Freiheit schaut und darin bleibt, nicht ein Hörer, der vergisst, sondern ein Täter des Werkes, dieser wird in dem, was er tut, gesegnet sein.
+
+Wenn jemand unter euch meint, religiös zu sein und seine Zunge nicht zügelt, sondern sein Herz betrügt, dessen Religion ist wertlos. Reine und unbefleckte Religion vor unserem Gott und Vater ist dies: Waisen und Witwen in ihrer Bedrängnis zu besuchen und sich selbst unbefleckt von der Welt zu halten.
+
+### Kapitel 2
+
+Meine Brüder, haltet den Glauben an unseren glorreichen Herrn Jesus Christus nicht mit Ansehen der Person. Denn wenn ein Mann mit einem goldenen Ring in prächtiger Kleidung in eure Synagoge kommt und ein armer Mann in schmutziger Kleidung auch hereinkommt und ihr dem, der die prächtigen Kleider trägt, besondere Aufmerksamkeit schenkt und sagt: „Setz dich hier an einen guten Platz;“ und zu dem armen Mann sagt: „Steh dort“ oder „Setz dich zu meinen Füßen“, habt ihr da nicht untereinander Ansehen der Person gezeigt und seid Richter mit bösen Gedanken geworden? Höret, meine geliebten Brüder! Hat nicht Gott die Armen in dieser Welt erwählt, reich im Glauben zu sein und Erben des Reiches zu sein, das er denen verheißen hat, die ihn lieben? Ihr aber habt den armen Mann erniedrigt. Drücken euch nicht die Reichen und ziehen sie euch vor die Gerichte? Lästern sie nicht den ehrenvollen Namen, mit dem ihr genannt werdet?
+
+Wenn ihr aber das königliche Gesetz gemäß der Schrift erfüllt: „Du sollst deinen Nächsten lieben wie dich selbst“, so tut ihr wohl. Wenn ihr aber Ansehen der Person zeigt, so begeht ihr Sünde und werdet vom Gesetz als Übertreter überführt. Denn wer das ganze Gesetz hält und doch in einem Punkt strauchelt, der ist in allem schuldig geworden. Denn der gesagt hat: „Du sollst nicht ehebrechen“, hat auch gesagt: „Du sollst nicht morden.“ Wenn du nun nicht ehebrichst, aber mordest, bist du ein Übertreter des Gesetzes. So redet und so tut als solche, die durch das Gesetz der Freiheit gerichtet werden sollen. Denn das Urteil ist ohne Barmherzigkeit über denjenigen, der keine Barmherzigkeit geübt hat. Die Barmherzigkeit triumphiert über das Urteil.
+
+Was nützt es, meine Brüder, wenn jemand sagt, er habe Glauben, aber keine Werke hat? Kann der Glaube ihn retten? Und wenn ein Bruder oder eine Schwester nackt ist und Mangel an täglicher Nahrung hat, und einer von euch sagt zu ihnen: „Geht in Frieden. Werdet warm und satt;“ doch ihr gebt ihnen nicht das, was der Körper braucht, was nützt das? So ist auch der Glaube, wenn er keine Werke hat, in sich selbst tot. Ja, ein Mensch wird sagen: „Du hast Glauben, und ich habe Werke.“ Zeige mir deinen Glauben ohne Werke, und ich werde dir meinen Glauben durch meine Werke zeigen.
+
+Du glaubst, dass Gott einer ist. Du tust gut. Die Dämonen glauben auch – und zittern. Aber willst du wissen, eitler Mensch, dass der Glaube ohne Werke tot ist? Wurde Abraham, unser Vater, nicht durch Werke gerechtfertigt, als er Isaak, seinen Sohn, auf dem Altar opferte? Du siehst, dass der Glaube mit seinen Werken zusammenarbeitete, und durch Werke wurde der Glaube vollendet. So wurde die Schrift erfüllt, die sagt: „Abraham glaubte Gott, und es wurde ihm zur Gerechtigkeit angerechnet,“ und er wurde der Freund Gottes genannt. Du siehst also, dass ein Mensch durch Werke gerechtfertigt wird und nicht nur durch Glauben. Ebenso wurde auch Rahab, die Hure, durch Werke gerechtfertigt, als sie die Boten aufnahm und sie auf einem anderen Weg hinaus schickte? Denn wie der Körper ohne den Geist tot ist, so ist auch der Glaube ohne Werke tot.
+
+### Kapitel 3
+
+Lasst nicht viele von euch Lehrer sein, meine Brüder, da wir wissen, dass wir ein schwereres Urteil empfangen werden. Denn wir stolpern alle in vielen Dingen. Wenn jemand im Wort nicht stolpert, der ist ein vollkommener Mensch, fähig, auch den ganzen Körper zu zügeln. Tatsächlich legen wir Zügel in die Münder der Pferde, damit sie uns gehorchen, und wir lenken ihren ganzen Körper. Seht, die Schiffe auch, obwohl sie so groß sind und von heftigen Winden getrieben werden, werden doch von einem sehr kleinen Ruder gelenkt, wohin auch immer der Steuermann will. So ist die Zunge auch ein kleines Glied und rühmt sich großer Dinge. Siehe, wie ein kleines Feuer einen großen Wald entfachen kann! Und die Zunge ist ein Feuer. Die Welt der Ungerechtigkeit unter unseren Gliedern ist die Zunge, die den ganzen Körper verunreinigt und den Verlauf der Natur in Brand setzt und von der Hölle in Brand gesetzt wird. Denn jede Art von Tieren, Vögeln, kriechenden Tieren und Meeresgeschöpfen wird gezähmt und ist von den Menschen gezähmt worden; aber niemand kann die Zunge zähmen. Sie ist ein unruhiges Übel, voller tödlichen Gifts. Mit ihr segnen wir unseren Gott und Vater, und mit ihr verfluchen wir Menschen, die nach dem Bild Gottes gemacht sind. Aus demselben Mund kommen Segen und Fluch. Meine Brüder, das sollte nicht so sein. Sprudelt eine Quelle aus demselben Öffnung frisches und bitteres Wasser? Kann ein Feigenbaum, meine Brüder, Oliven tragen oder ein Weinstock Feigen? So bringt keine Quelle sowohl salziges Wasser als auch frisches Wasser hervor.
+
+Wer ist weise und verständig unter euch? Der lasse sich durch sein gutes Verhalten zeigen, dass seine Taten in Sanftmut der Weisheit getan sind. Wenn ihr aber bittere Eifersucht und selbstsüchtige Ambitionen in eurem Herzen habt, so rühmt euch nicht und lügt nicht gegen die Wahrheit. Diese Weisheit ist nicht die von oben herabkommende, sondern irdisch, sinnlich und dämonisch. Denn wo Eifersucht und selbstsüchtige Ambitionen sind, da ist Unordnung und jede böse Tat. Die Weisheit aber, die von oben kommt, ist zuerst rein, dann friedlich, sanftmütig, vernünftig, voll Barmherzigkeit und guter Früchte, ohne Ansehen der Person und ohne Heuchelei. Die Frucht der Gerechtigkeit wird in Frieden gesät von denen, die Frieden machen.
+
+### Kapitel 4
+
+Woher kommen Kriege und Kämpfe unter euch? Kommen sie nicht von euren Begierden, die in euren Gliedern streiten? Ihr begehrt und habt nicht. Ihr mordet und begehrt und könnt nicht erlangen. Ihr kämpft und führt Krieg. Ihr habt nicht, weil ihr nicht bittet. Ihr bittet und empfangt nicht, weil ihr mit falschen Motiven bittet, damit ihr es für eure Begierden ausgeben könnt. Ihr Ehebrecherinnen und Ehebrecher! Wisst ihr nicht, dass Freundschaft mit der Welt Feindschaft gegen Gott ist? Wer also ein Freund der Welt sein will, macht sich zum Feind Gottes. Oder denkt ihr, dass die Schrift umsonst sagt: „Der Geist, der in uns wohnt, begehrt eifersüchtig“? Aber er gibt mehr Gnade. Darum sagt er: „Gott widersteht den Hochmütigen, aber den Demütigen gibt er Gnade.“ Unterwerft euch also Gott. Widersteht dem Teufel, und er wird von euch fliehen. Naht euch Gott, und er wird sich euch nahen. Reinigt eure Hände, ihr Sünder! Heiligt eure Herzen, ihr Unentschlossenen! Trauert, weint und klagt! Euer Lachen wandle sich in Trauer und eure Freude in Traurigkeit. Demütigt euch vor dem Herrn, und er wird euch erhöhen.
+
+Spricht nicht gegeneinander, Brüder. Wer gegen einen Bruder spricht und seinen Bruder richtet, spricht gegen das Gesetz und richtet das Gesetz. Wenn du aber das Gesetz richtest, bist du kein Täter des Gesetzes, sondern ein Richter. Nur einer ist der Gesetzgeber, der zu retten und zu zerstören vermag. Wer bist du, dass du einen anderen richtest?
+
+Kommt nun, ihr, die ihr sagt: „Heute oder morgen wollen wir in diese Stadt gehen und dort ein Jahr verbringen, handeln und Gewinn machen.“ Doch ihr wisst nicht, was euer Leben morgen sein wird. Denn was ist euer Leben? Ihr seid ein Dampf, der eine kleine Zeit erscheint und dann verschwindet. Stattdessen solltet ihr sagen: „So der Herr will, werden wir leben und dies oder das tun.“ Jetzt aber rühmt ihr euch in eurem Prahlen. All solches Prahlen ist böse. Wer also weiß, Gutes zu tun, und es nicht tut, für den ist es Sünde.
+
+### Kapitel 5
+
+Kommt nun, ihr Reichen, weint und heult über die Elenden, die über euch kommen. Eure Reichtümer sind verfault und eure Kleider sind mottenzerfressen. Euer Gold und Silber sind korrodiert, und ihre Korrosion wird ein Zeugnis gegen euch sein und euer Fleisch wie Feuer fressen. Ihr habt euren Schatz in den letzten Tagen aufgehäuft. Siehe, die Löhne der Arbeiter, die eure Felder gemäht haben, die ihr durch Betrug zurückgehalten habt, schreien; und die Schreie derer, die geerntet haben, sind in die Ohren des Herrn der Heerscharen gedrungen. Ihr habt im Überfluss auf der Erde gelebt und euch vergnügt. Ihr habt eure Herzen genährt wie an einem Schlachttag. Ihr habt den Gerechten verurteilt und ermordet. Er widersteht euch nicht.
+
+Seid geduldig daher, Brüder, bis zur Ankunft des Herrn. Siehe, der Bauer wartet auf die kostbare Frucht der Erde und ist geduldig darüber, bis sie den frühen und späten Regen empfängt. Seid auch ihr geduldig. Stärkt eure Herzen, denn die Ankunft des Herrn steht nahe bevor.
+
+Murrt nicht, Brüder, gegeneinander, damit ihr nicht gerichtet werdet. Siehe, der Richter steht vor der Tür. Nehmt, Brüder, als Beispiel für das Leiden und die Ausdauer die Propheten, die im Namen des Herrn gesprochen haben. Siehe, wir nennen sie selig, die durchgehalten haben. Ihr habt von der Ausdauer Hiobs gehört und das Ende des Herrn gesehen, dass der Herr voller Mitgefühl und Barmherzigkeit ist.
+
+Vor allem aber, meine Brüder, schwört nicht – weder bei Himmel noch bei Erde noch bei irgendeinem anderen Eid; sondern euer „Ja“ sei „Ja“ und euer „Nein“ „Nein“, damit ihr nicht in Heuchelei fallt.
+
+Ist jemand unter euch leidend? Lass ihn beten. Ist jemand fröhlich? Lass ihn Loblieder singen. Ist jemand unter euch krank? Lass ihn die Ältesten der Gemeinde rufen und lass sie über ihn beten und ihn mit Öl im Namen des Herrn salben; und das Gebet des Glaubens wird den Kranken heilen, und der Herr wird ihn aufrichten. Wenn er Sünden begangen hat, wird ihm vergeben werden. Bekennet einander eure Sünden und betet füreinander, damit ihr geheilt werdet. Das inständige Gebet eines gerechten Menschen vermag viel. Elia war ein Mensch mit einer Natur wie wir, und er betete ernstlich, dass es nicht regnen möge; und es regnete drei Jahre und sechs Monate nicht auf der Erde. Er betete wieder, und der Himmel gab Regen, und die Erde brachte ihre Frucht hervor.
+
+Brüder, wenn jemand unter euch von der Wahrheit abirrt und jemand ihn zurückführt, so wisse, dass derjenige, der einen Sünder von seinem Irrweg abbringt, eine Seele vom Tod retten wird und eine Menge von Sünden zudeckt.
+
+## 1 Petrus
+
+Petrus' Erster Brief
+
+### Kapitel 1
+
+Petrus, ein Apostel Jesu Christi, an die Auserwählten, die als Fremde in der Zerstreuung in Pontus, Galatien, Kappadokien, Asien und Bithynien leben, gemäß der Vorherwissen Gottes des Vaters in Heiligung des Geistes, damit ihr Jesus Christus gehorcht und mit seinem Blut besprengt werdet: Gnade sei mit euch und Frieden werde mehrt.
+
+Gepriesen sei der Gott und Vater unseres Herrn Jesus Christus, der uns nach seiner großen Barmherzigkeit dazu gebracht hat, wiedergeboren zu werden zu einer lebendigen Hoffnung durch die Auferstehung Jesu Christi von den Toten zu einem unvergänglichen und unbefleckten Erbe, das nicht verwelkt, reserviert im Himmel für euch, die ihr durch die Kraft Gottes durch den Glauben bewahrt werdet zu einer Rettung, die bereit ist, in der letzten Zeit offenbart zu werden. In diesem freut ihr euch sehr, obwohl ihr jetzt für eine kleine Weile, wenn es nötig ist, in verschiedenen Prüfungen betrübt worden seid, damit die Bewährung eures Glaubens, die kostbarer ist als Gold, das vergeht, auch wenn es durch Feuer geprüft wird, sich als Lob, Ehre und Herrlichkeit bei der Offenbarung Jesu Christi erweist – den ihr nicht gesehen habt und doch liebt; an den ihr jetzt glaubt, obwohl ihr ihn nicht seht; doch freut ihr euch mit unaussprechlicher Freude und voller Herrlichkeit und empfangt das Ziel eures Glaubens: die Rettung eurer Seelen.
+
+In Bezug auf diese Erlösung suchten und forschten die Propheten sorgfältig. Sie prophezeiten von der Gnade, die zu euch kommen würde, und suchten nach dem, wer oder was für eine Zeit der Geist Christi, der in ihnen war, anzeigte, als er die Leiden Christi und die Herrlichkeiten, die ihnen folgen würden, vorhersagte. Ihnen wurde offenbart, dass sie nicht sich selbst dienten, sondern euch in diesen Dingen, die euch jetzt durch diejenigen verkündet wurden, die euch das Gute Nachrichten durch den Heiligen Geist, der aus dem Himmel gesandt wurde, verkündeten; wonach die Engel verlangen, zu schauen.
+
+Bereitet daher eure Gedanken auf das Handeln vor. Seid nüchtern und setzt eure Hoffnung voll und ganz auf die Gnade, die euch bei der Offenbarung Jesu Christi gebracht wird – als Kinder des Gehorsams, die sich nicht nach euren früheren Begierden in eurer Unwissenheit richten, sondern so wie der, der euch berufen hat, heilig ist, seid auch ihr in eurem ganzen Verhalten heilig, denn es steht geschrieben: „Ihr sollt heilig sein, denn ich bin heilig.“
+
+Wenn ihr ihn als Vater anruft, der ohne Ansehen der Person nach jedem Werk des Menschen richtet, verbringt die Zeit eures Lebens hier als Fremde in ehrfurchtsvollem Furcht, wissend, dass ihr nicht mit vergänglichen Dingen wie Silber oder Gold von dem nutzlosen Lebenswandel erlöst wurdet, der von euren Vätern überliefert wurde, sondern mit kostbarem Blut, als von einem Lamm ohne Makel oder Flecken, dem Blut Christi, der zwar vor Grundlegung der Welt vorherbestimmt war, aber in dieser letzten Zeit um euretwillen offenbart wurde, die ihr durch ihn an Gott glaubt, der ihn von den Toten auferweckt und ihm Ehre gegeben hat, damit euer Glaube und eure Hoffnung in Gott sein mögen.
+
+Da ihr eure Seelen in eurem Gehorsam zur Wahrheit durch den Geist in aufrichtiger brüderlicher Zuneigung gereinigt habt, liebt einander von Herzen innig, nachdem ihr neu geboren seid, nicht aus vergänglichem Samen, sondern aus unvergänglichem, durch das Wort Gottes, das lebt und bleibt für immer. Denn,
+
+„Alle Fleisch ist wie Gras,
+
+und alle Herrlichkeit des Menschen wie die Blume im Gras.
+
+Das Gras verwelkt und seine Blume fällt;
+
+aber das Wort des Herrn bleibt ewig.“
+
+Dies ist das Wort der guten Nachricht, das euch verkündet wurde.
+
+### Kapitel 2
+
+Legt daher alle Bosheit, alle List, Heucheleien, Neid und alle bösen Reden ab; wie neugeborene Babys sehnt euch nach der reinen geistlichen Milch, damit ihr dadurch wachsen könnt, wenn ihr tatsächlich geschmeckt habt, dass der Herr gütig ist. Kommt zu ihm, einem lebendigen Stein, von den Menschen zwar verworfen, aber von Gott auserwählt und kostbar. Auch ihr als lebendige Steine werdet zu einem geistlichen Haus erbaut, um ein heiliges Priestertum zu sein, um geistliche Opfer darzubringen, die Gott durch Jesus Christus angenehm sind. Denn es steht in der Schrift:
+
+„Siehe, ich lege in Zion einen Hauptstein, auserwählt und kostbar.
+
+Wer an ihn glaubt, wird nicht enttäuscht werden.“
+
+Für euch, die ihr glaubt, ist daher die Ehre da; aber für die Ungehorsamen:
+
+„Der Stein, den die Bauleute verworfen haben,
+
+ist zum Hauptstein geworden,“
+
+und,
+
+„ein Stolperstein und ein Anstoß.“
+
+Denn sie stoßen sich am Wort und sind ungehorsam; dazu sind sie auch bestimmt. Aber ihr seid ein auserwähltes Geschlecht, ein königliches Priestertum, eine heilige Nation, ein Volk zum Eigentum Gottes, damit ihr die Tugenden dessen verkündet, der euch aus der Dunkelheit in sein wunderbares Licht berufen hat. Früher wart ihr kein Volk, jetzt aber seid ihr Gottes Volk; ihr hattet keine Barmherzigkeit erhalten, jetzt aber habt ihr Barmherzigkeit erhalten.
+
+Geliebte, ich ermahne euch als Fremde und Pilger, euch von fleischlichen Begierden fernzuhalten, die gegen die Seele kämpfen; führt ein gutes Leben unter den Nationen, damit sie in dem, was sie gegen euch als Übeltäter sprechen, eure guten Werke sehen und Gott am Tag der Visitation verherrlichen.
+
+Unterwerft euch daher jeder menschlichen Ordnung um des Herrn willen: ob dem König als Obersten oder den Statthaltern als von ihm gesandt zur Vergeltung für Übeltäter und zur Lobpreisung für die Guten. Denn das ist der Wille Gottes, dass ihr durch gutes Tun die Unwissenheit törichter Menschen zum Schweigen bringt. Lebt als freie Menschen und nutzt eure Freiheit nicht als Deckmantel der Bosheit, sondern als Knechte Gottes.
+
+Ehrt alle Menschen. Liebt die Brüderlichkeit. Fürchtet Gott. Ehrt den König.
+
+Diener, seid euren Herren in aller Ehrfurcht untertan, nicht nur den guten und sanften, sondern auch den bösen. Denn es ist lobenswert, wenn jemand Schmerz erträgt, ungerecht leidet, wegen des Gewissens gegenüber Gott. Denn was für Ruhm ist es, wenn ihr sündigt und geduldig Schläge ertragt? Wenn ihr aber Gutes tut und geduldig leidet, ist das lobenswert vor Gott. Denn dazu seid ihr berufen worden, weil auch Christus für uns gelitten hat und euch ein Beispiel hinterlassen hat, damit ihr seinen Fußstapfen nachfolgt, der nicht gesündigt hat, „noch wurde Betrug in seinem Mund gefunden.“ Als er geschmäht wurde, schmähte er nicht zurück. Als er litt, drohte er nicht, sondern übergab sich dem, der gerecht richtet. Er selbst trug unsere Sünden in seinem Körper auf dem Holz, damit wir, den Sünden gestorben, der Gerechtigkeit leben könnten. Durch seine Wunden seid ihr geheilt worden. Denn ihr wart wie Schafe umhergeirrt; aber jetzt seid ihr zum Hirten und Aufseher eurer Seelen zurückgekehrt.
+
+### Kapitel 3
+
+Ebenso, ihr Frauen, seid euren eigenen Männern untertan, damit, auch wenn einige dem Wort nicht gehorchen, sie durch das Verhalten ihrer Frauen ohne ein Wort gewonnen werden, wenn sie euer reines Verhalten in Furcht sehen. Euer Schmuck soll nicht aus dem äußeren Zieren bestehen, aus dem Flechten der Haare und dem Tragen von Goldschmuck oder dem Anziehen feiner Kleidung, sondern aus dem verborgenen Menschen des Herzens, im unvergänglichen Schmuck eines sanften und stillen Geistes, der in Gottes Augen sehr kostbar ist. Denn so haben sich früher die heiligen Frauen, die auf Gott hofften, auch geschmückt, indem sie ihren eigenen Männern untertan waren. So gehorchte Sarah Abraham und nannte ihn Herrn; deren Kinder seid ihr jetzt, wenn ihr Gutes tut und euch von keiner Furcht erschrecken lasst.
+
+Ihr Männer, lebt ebenso mit euren Frauen nach dem Wissen und gebt der Frau Ehre als dem schwächeren Gefäß, da ihr auch Miterben der Gnade des Lebens seid, damit eure Gebete nicht behindert werden.
+
+Schließlich seid alle gleichgesinnt, mitfühlend, brüderlich liebend, barmherzig, höflich; gebt nicht Böses für Böses oder Beschimpfung für Beschimpfung zurück; sondern segnet vielmehr, da ihr dazu berufen seid, dass ihr einen Segen erben mögt. Denn,
+
+„Wer das Leben lieben will
+
+und gute Tage sehen möchte,
+
+der halte seine Zunge vom Bösen
+
+und seine Lippen vom Reden von Betrug.
+
+Der wende sich vom Bösen und tue Gutes.
+
+Der suche Frieden und jage ihm nach.
+
+Denn die Augen des Herrn sind auf die Gerechten
+
+und seine Ohren sind offen für ihr Gebet;
+
+aber das Angesicht des Herrn ist gegen die, die Böses tun.“
+
+Nun, wer wird euch schaden, wenn ihr Nachahmer des Guten werdet? Aber selbst wenn ihr wegen der Gerechtigkeit leiden solltet, seid ihr gesegnet. „Fürchtet nicht, was sie fürchten, noch lasst euch erschrecken.“ Heiligt aber den Herrn Gott in euren Herzen. Seid immer bereit, jedem Rede und Antwort zu stehen, der von euch Rechenschaft über die Hoffnung fordert, die in euch ist, mit Sanftmut und Furcht und einem guten Gewissen. So mögen die enttäuscht werden, die euch als Übeltäter verleumden und euren guten Lebenswandel in Christus verfluchen. Denn es ist besser, wenn es Gottes Wille ist, dass ihr leidet für das Gute als für das Böse. Denn auch Christus hat einmal für die Sünden gelitten, der Gerechte für die Ungerechten, um euch zu Gott zu bringen; getötet im Fleisch, aber lebendig im Geist; in dem er auch hinging und den Geistern im Gefängnis predigte, die zuvor ungehorsam waren, als Gott geduldig wartete in den Tagen Noahs während das Schiff gebaut wurde. In ihm wurden wenige, das sind acht Seelen, durch Wasser gerettet. Dies ist ein Symbol der Taufe, die euch jetzt rettet – nicht das Ablegen des Schmutzes des Fleisches, sondern die Antwort eines guten Gewissens gegenüber Gott – durch die Auferstehung Jesu Christi, der zur Rechten Gottes ist und in den Himmel gegangen ist; Engel und Mächte und Gewalten sind ihm untertan gemacht worden.
+
+### Kapitel 4
+
+Darum seid ihr auch berufen worden; denn Christus hat für uns im Fleisch gelitten; rüstet euch auch mit demselben Sinn; denn wer im Fleisch gelitten hat, hat mit der Sünde aufgehört, damit ihr nicht mehr den Rest eurer Zeit im Fleisch für die Begierden der Menschen lebt, sondern für den Willen Gottes. Denn wir haben genug Zeit in der Vergangenheit damit verbracht, den Wünschen der Heiden nachzugehen und in Unzucht, Begierden, Trunkenheitsszenen, Ausschweifungen und abscheulichen Götzenverehrungen zu leben. Sie halten es für seltsam, dass ihr nicht mit ihnen in dasselbe Maß an Ausschweifung lauft und verleumden euch. Sie werden Rechenschaft ablegen müssen vor dem, der bereit ist, die Lebenden und die Toten zu richten. Denn zu diesem Zweck wurde auch die gute Nachricht den Toten gepredigt, damit sie zwar nach Menschen im Fleisch gerichtet werden mögen, aber nach Gott im Geist leben.
+
+Aber das Ende aller Dinge ist nahe. Seid daher besonnen, selbstbeherrscht und nüchtern im Gebet. Und vor allem seid ernsthaft in eurer Liebe zueinander, denn die Liebe deckt eine Menge Sünden zu. Seid gastfreundlich zueinander, ohne zu murren. Wie jeder ein Geschenk empfangen hat, setzt es ein, um einander zu dienen, als gute Verwalter der Gnade Gottes in ihren verschiedenen Formen. Wenn jemand redet, so spreche er, als wären es die Worte Gottes. Wenn jemand dient, so tue es mit der Kraft, die Gott gibt, damit in allem Gott verherrlicht werde durch Jesus Christus, dem die Herrlichkeit und die Macht von Ewigkeit zu Ewigkeit gehören. Amen.
+
+Geliebte, lasst euch nicht verwundern über die feurige Prüfung, die über euch kommt, um euch zu versuchen, als ob euch etwas Fremdes widerfahren wäre. Freut euch aber, dass ihr Anteil an den Leiden Christi habt, damit ihr auch bei der Offenbarung seiner Herrlichkeit mit übergroßer Freude jubeln könnt. Wenn ihr um des Namens Christi willen beschimpft werdet, seid ihr gesegnet, denn der Geist der Herrlichkeit und Gottes ruht auf euch. Auf ihrer Seite wird er geschmäht, aber auf eurer Seite wird er verherrlicht. Doch lasst niemand von euch als Mörder oder Dieb oder Übeltäter oder als Einmischer in fremde Angelegenheiten leiden. Wenn aber jemand von euch leidet, weil er Christ ist, so schäme er sich nicht; sondern lass ihn Gott in dieser Angelegenheit verherrlichen. Denn die Zeit ist gekommen, dass das Gericht anfängt beim Haus Gottes. Wenn es zuerst mit uns anfängt, was wird dann mit denen geschehen, die dem Evangelium Gottes nicht gehorchen? „Wenn es für den Gerechten schwer ist, gerettet zu werden, was wird dann mit dem Gottlosen und dem Sünder geschehen?“ Darum lasst auch die leiden, die nach dem Willen Gottes Gutes tun, ihre Seelen ihm anvertrauen, als einem treuen Schöpfer.
+
+### Kapitel 5
+
+Darum ermahne ich die Ältesten unter euch, als Mitältester und Zeuge der Leiden Christi und der Herrlichkeit, die offenbart werden soll: Weidet die Herde Gottes, die bei euch ist, und habt die Aufsicht darüber, nicht aus Zwang, sondern freiwillig; nicht aus schändlichem Gewinn, sondern bereitwillig; nicht als solche, die über die euch anvertrauten herden herrschen, sondern indem ihr euch Vorbilder für die Herde seid. Wenn der Oberhirte offenbar wird, werdet ihr die unvergängliche Krone der Herrlichkeit empfangen.
+
+Ebenso, ihr Jüngeren, ordnet euch den Ältesten unter. Ja, alle von euch kleidet euch mit Demut und ordnet euch einander unter; denn „Gott widersteht den Hochmütigen, aber den Demütigen gibt er Gnade.“ Demütigt euch also unter die mächtige Hand Gottes, damit er euch zur rechten Zeit erhöht; werft alle eure Sorgen auf ihn, denn er sorgt für euch.
+
+Seid nüchtern und beherrscht. Seid wachsam. Euer Widersacher, der Teufel, geht umher wie ein brüllender Löwe und sucht, wen er verschlingen kann. Widersteht ihm fest im Glauben und wisst, dass eure Brüder in der Welt dieselben Leiden erdulden. Der Gott aller Gnade aber, der euch berufen hat zu seiner ewigen Herrlichkeit in Christus Jesus, wird euch nach ein wenig Leiden vollkommen machen, festigen, stärken und gründen. Ihm sei die Herrlichkeit und die Macht von Ewigkeit zu Ewigkeit. Amen.
+
+Durch Silvanus, unseren treuen Bruder, wie ich ihn betrachte, habe ich euch kurz geschrieben und ermahnt und bezeugt, dass dies die wahre Gnade Gottes ist, in der ihr steht. Sie, die in Babylon ist und mit euch auserwählt wurde, grüßt euch. Ebenso grüßt euch Markus, mein Sohn. Grüßt einander mit einem Kuss der Liebe.
+
+Frieden sei mit allen von euch, die in Christus Jesus sind. Amen.
+
+## 2 Petrus
+
+Petrus' Zweiter Brief
+
+### Kapitel 1
+
+Simon Petrus, ein Diener und Apostel Jesu Christi, an die, die einen gleichwertigen kostbaren Glauben mit uns empfangen haben in der Gerechtigkeit unseres Gottes und Retters Jesus Christus: Gnade sei mit euch und Frieden vermehrt in der Erkenntnis Gottes und Jesu unseres Herrn; da seine göttliche Kraft uns alles gegeben hat, was zum Leben und zur Gottseligkeit gehört, durch die Erkenntnis dessen, der uns berufen hat durch seine eigene Herrlichkeit und Tugend; durch welche er uns seine kostbaren und überaus großen Verheißungen gegeben hat; damit ihr durch diese Teilhaber der göttlichen Natur werdet und dem Verderben entfliehen könnt, das durch Begierde in der Welt ist. Ja, und aus diesem Grund fügt euererseits allen Fleiß hinzu; in eurem Glauben bringt moralische Exzellenz hervor; und in moralischer Exzellenz Erkenntnis; und in Erkenntnis Selbstbeherrschung; und in Selbstbeherrschung Ausdauer; und in Ausdauer Gottseligkeit; und in Gottseligkeit brüderliche Zuneigung; und in brüderlicher Zuneigung Liebe. Denn wenn diese Dinge euer sind und überfließen, machen sie euch nicht untätig oder unfruchtbar in der Erkenntnis unseres Herrn Jesus Christus. Denn wer diese Dinge nicht hat, ist blind und sieht nur das Nahe; er hat vergessen die Reinigung von seinen alten Sünden. Darum seid umso fleißiger, eure Berufung und Wahl festzumachen; denn wenn ihr diese Dinge tut, werdet ihr niemals straucheln. Denn so werdet ihr reichlich versorgt werden mit dem Eintritt in das ewige Reich unseres Herrn und Retters Jesus Christus.
+
+Deshalb werde ich nicht nachlässig sein, euch an diese Dinge zu erinnern, obwohl ihr sie kennt und in der gegenwärtigen Wahrheit fest seid. Ich halte es für richtig, solange ich in diesem Zelt bin, euch durch Erinnerung aufzuwecken, da ich weiß, dass das Ablegen meines Zeltes schnell bevorsteht, wie unser Herr Jesus Christus mir deutlich gemacht hat. Ja, ich werde alle Anstrengungen unternehmen, damit ihr diese Dinge auch nach meinem Abschied immer im Gedächtnis behaltet.
+
+Denn wir haben keine kunstvoll erdachten Fabeln gefolgt, als wir euch die Kraft und das Kommen unseres Herrn Jesus Christus bekannt gemacht haben, sondern wir waren Augenzeugen seiner Majestät. Denn er erhielt von Gott dem Vater Ehre und Herrlichkeit, als die Stimme zu ihm aus der majestätischen Herrlichkeit kam: „Dies ist mein geliebter Sohn, an dem ich Wohlgefallen gefunden habe.“ Wir hörten diese Stimme aus dem Himmel, als wir mit ihm auf dem heiligen Berg waren.
+
+Wir haben das umso sicherere Wort der Prophezeiung; und ihr tut gut daran, darauf zu achten wie auf ein Licht, das an einem dunklen Ort scheint, bis der Tag anbricht und der Morgenstern in euren Herzen aufgeht, und wisst dies zuerst, dass keine Prophezeiung der Schrift von eigener Auslegung ist. Denn keine Prophezeiung kam jemals durch den Willen des Menschen, sondern heilige Menschen Gottes redeten, bewegt vom Heiligen Geist.
+
+### Kapitel 2
+
+Aber auch falsche Propheten sind unter dem Volk aufgestanden, wie auch falsche Lehrer unter euch sein werden, die heimlich verderbliche Häresien einführen und sogar den Herrn verleugnen, der sie erkauft hat, und sich selbst schnelles Verderben bringen. Viele werden ihren zügellosen Wegen folgen, und dadurch wird der Weg der Wahrheit verlästert. In Habgier werden sie euch mit betrügerischen Worten ausbeuten: deren Urteil von alters her nicht säumt und deren Verderben nicht schläft.
+
+Denn wenn Gott die Engel nicht verschonte, als sie sündigten, sondern sie in die Finsternis hinabstieß und sie in Abgründe der Finsternis zur Aufbewahrung für das Gericht übergab; und die alte Welt nicht verschonte, sondern Noah mit sieben anderen bewahrte, einem Prediger der Gerechtigkeit, als er die Flut über die Welt der Gottlosen brachte; und die Städte Sodom und Gomorra in Asche verwandelte und sie zur Zerstörung verurteilte, nachdem er sie zum Beispiel für die verkehrten Menschen gemacht hatte; und den gerechten Lot rettete, der sehr bedrängt war von dem zügellosen Leben der Gottlosen (denn dieser gerechte Mann, der unter ihnen wohnte, wurde Tag für Tag in seiner gerechten Seele gequält durch das Sehen und Hören ihrer gesetzlosen Taten); dann weiß der Herr, wie er die Frommen aus der Versuchung zu befreien und die Ungerechten unter Strafe zu halten für den Tag des Gerichts, besonders die, die nach dem Fleisch in den Begierden der Unreinheit wandeln und Autorität verachten. Kühn und eigenwillig scheuen sie sich nicht, das Böse über Würdenträger zu reden; während Engel, obwohl sie größer in Macht und Stärke sind, kein verleumderisches Urteil gegen sie vor dem Herrn bringen. Diese aber sind unvernünftige Geschöpfe, geborene natürliche Tiere, die gefangen genommen und zerstört werden sollen; sie reden böse über Dinge, von denen sie nichts wissen; sie werden in ihrem Verderben sicher verderbt werden und den Lohn der Ungerechtigkeit empfangen; Menschen, die es als Freude empfinden, am Tag zu schwelgen; Flecken und Mängel, schwelgend in ihrer Täuschung während sie mit euch tafeln; Augen voller Ehebruch und die nicht aufhören können zu sündigen; verführend unruhige Seelen; ein Herz trainiert in Habgier; verfluchte Kinder! Den rechten Weg verlassen sind sie irre gegangen und haben dem Weg Bileams, des Sohnes Beor, gefolgt, der den Lohn des Unrechts liebte; aber er wurde wegen seiner eigenen Ungehorsamheit zurechtgewiesen. Ein stummer Esel sprach mit einer Menschenstimme und hielt den Wahnsinn des Propheten auf.
+
+Diese sind Brunnen ohne Wasser, von einem Sturm getriebenen Wolken, für die die Schwärze der Finsternis ewig reserviert ist. Denn sie reden große schwülstige Worte der Leere und verführen in den Begierden des Fleisches durch Ausschweifungen diejenigen, die tatsächlich von denen entkommen wollen, die in Irrtum leben; ihnen Freiheit versprechend, während sie selbst Knechte der Korruption sind; denn ein Mensch wird von dem überwältigt, der ihn besiegt.
+
+Denn wenn sie nach dem Entkommen von der Unreinheit der Welt durch die Erkenntnis des Herrn und Retters Jesus Christus wieder darin verstrickt werden und überwältigt werden, ist der letzte Zustand für sie schlimmer geworden als der erste. Denn es wäre besser für sie gewesen, den Weg der Gerechtigkeit nicht gekannt zu haben, als nachdem sie ihn gekannt haben, sich von dem heiligen Gebot abzuwenden, das ihnen übergeben wurde. Aber es ist ihnen widerfahren gemäß dem wahren Sprichwort: „Der Hund kehrt zu seinem eigenen Erbrochenen zurück“ und „das gewaschene Schwein wälzt sich im Schmutz.“
+
+### Kapitel 3
+
+Dies ist nun, Geliebte, der zweite Brief, den ich euch geschrieben habe; und in beiden erwecke ich euren aufrichtigen Sinn, indem ich euch daran erinnere, dass ihr die Worte, die zuvor von den heiligen Propheten gesprochen wurden, und das Gebot von uns, den Aposteln des Herrn und Retters, im Gedächtnis behalten sollt, da ihr zuerst wisst, dass in den letzten Tagen Spötter kommen werden, die ihren eigenen Begierden nachlaufen und sagen: „Wo ist die Verheißung seiner Ankunft? Denn seit dem Tag, an dem die Väter eingeschlafen sind, bleibt alles so, wie es seit dem Anfang der Schöpfung war.“ Denn sie vergessen willentlich, dass es von alters her Himmel gab und eine Erde, die durch das Wort Gottes aus Wasser und mitten im Wasser gebildet wurde; durch welches die damalige Welt, als sie mit Wasser überflutet wurde, zugrunde ging. Aber die gegenwärtigen Himmel und die Erde sind durch dasselbe Wort für das Feuer aufbewahrt, und sie sind für den Tag des Gerichts und der Zerstörung der gottlosen Menschen reserviert.
+
+Vergesst aber nicht dies eine, Geliebte, dass ein Tag beim Herrn wie tausend Jahre ist und tausend Jahre wie ein Tag. Der Herr ist nicht langsam bezüglich seiner Verheißung, wie einige Langsamkeit zählen; sondern er ist geduldig mit uns und will nicht, dass jemand verloren geht, sondern dass alle zur Buße kommen. Aber der Tag des Herrn wird kommen wie ein Dieb in der Nacht, an dem die Himmel mit großem Geräusch vergehen werden und die Elemente mit glühender Hitze aufgelöst werden; und die Erde und die Werke, die darin sind, werden verbrannt werden. Da nun all diese Dinge so zerstört werden sollen, welche Art von Menschen solltet ihr sein in heiligem Leben und Gottseligkeit, während ihr auf die Ankunft des Tages Gottes wartet und euch danach sehnt, der die brennenden Himmel auflösen wird und die Elemente mit glühender Hitze schmelzen werden? Aber gemäß seiner Verheißung erwarten wir neue Himmel und eine neue Erde, in denen Gerechtigkeit wohnt.
+
+Darum, Geliebte, da ihr diese Dinge erwartet, seid fleißig, dass ihr unbefleckt und tadellos vor ihm gefunden werdet in Frieden. Haltet die Geduld unseres Herrn für Heil; wie auch unser geliebter Bruder Paulus euch geschrieben hat, gemäß der ihm gegebenen Weisheit, wie auch in all seinen Briefen, in denen er über diese Dinge spricht. In diesen gibt es einige Dinge, die schwer zu verstehen sind, die die Unwissenden und Ungefestigten verdrehen, wie sie auch die anderen Schriften tun, zu ihrem eigenen Verderben. Ihr daher, Geliebte, da ihr diese Dinge im Voraus wisst, hütet euch, dass ihr nicht mit dem Irrtum der Gottlosen mitgerissen werdet und von eurer eigenen Festigkeit fallt. Wachst aber in der Gnade und Erkenntnis unseres Herrn und Retters Jesus Christus. Ihm sei die Ehre sowohl jetzt als auch in alle Ewigkeit. Amen.
+
+## 1 Johannes
+
+Johannes' Erster Brief
+
+### Kapitel 1
+
+Was von Anfang an war, was wir gehört haben, was wir mit unseren Augen gesehen haben, was wir betrachtet haben und unsere Hände berührt haben, betreffend das Wort des Lebens (und das Leben wurde offenbart, und wir haben gesehen und bezeugen und verkünden euch das Leben, das ewige Leben, das beim Vater war und uns offenbart wurde); was wir gesehen und gehört haben, verkünden wir euch, damit auch ihr Gemeinschaft mit uns habt. Ja, und unsere Gemeinschaft ist mit dem Vater und mit seinem Sohn Jesus Christus. Und wir schreiben euch diese Dinge, damit unsere Freude erfüllt werde.
+
+Dies ist die Botschaft, die wir von ihm gehört haben und euch verkündigen: Gott ist Licht, und in ihm ist keine Dunkelheit. Wenn wir sagen, dass wir Gemeinschaft mit ihm haben und in der Dunkelheit wandeln, lügen wir und tun nicht die Wahrheit. Wenn wir aber im Licht wandeln, wie er im Licht ist, haben wir Gemeinschaft miteinander, und das Blut Jesu Christi, seines Sohnes, reinigt uns von aller Sünde. Wenn wir sagen, dass wir keine Sünde haben, betrügen wir uns selbst, und die Wahrheit ist nicht in uns. Wenn wir unsere Sünden bekennen, ist er treu und gerecht, dass er uns die Sünden vergibt und uns von aller Ungerechtigkeit reinigt. Wenn wir sagen, dass wir nicht gesündigt haben, machen wir ihn zum Lügner, und sein Wort ist nicht in uns.
+
+### Kapitel 2
+
+Meine kleinen Kinder, ich schreibe euch diese Dinge, damit ihr nicht sündigt. Wenn jemand sündigt, haben wir einen Fürsprecher beim Vater, Jesus Christus den Gerechten. Und er ist das Sühneopfer für unsere Sünden und nicht für unsere allein, sondern auch für die ganze Welt. Daran erkennen wir, dass wir ihn kennen: wenn wir seine Gebote halten. Wer sagt: „Ich kenne ihn“, und seine Gebote nicht hält, ist ein Lügner, und die Wahrheit ist nicht in ihm. Aber die Liebe Gottes ist wahrhaftig in dem vollendet worden, der sein Wort hält. Daran erkennen wir, dass wir in ihm sind: Wer sagt, dass er in ihm bleibt, soll selbst auch so wandeln wie er gewandelt ist.
+
+Brüder, ich schreibe euch kein neues Gebot, sondern ein altes Gebot, das ihr von Anfang an hattet. Das alte Gebot ist das Wort, das ihr von Anfang an gehört habt. Wiederum schreibe ich euch ein neues Gebot, das in ihm und in euch wahr ist, denn die Finsternis vergeht und das wahre Licht scheint bereits. Wer sagt, dass er im Licht ist und seinen Bruder hasst, der ist bis jetzt in der Finsternis. Wer seinen Bruder liebt, bleibt im Licht, und es gibt keinen Anstoß in ihm. Aber wer seinen Bruder hasst, ist in der Finsternis und wandelt in der Finsternis und weiß nicht, wohin er geht, weil die Finsternis seine Augen verblendet hat.
+
+Ich schreibe euch, kleine Kinder, weil euch eure Sünden um seines Namens willen vergeben sind.
+
+Ich schreibe euch, Väter, weil ihr den kennt, der von Anfang an ist.
+
+Ich schreibe euch, junge Männer, weil ihr den Bösen überwunden habt.
+
+Ich schreibe euch, kleine Kinder, weil ihr den Vater kennt.
+
+Ich habe euch geschrieben, Väter, weil ihr den kennt, der von Anfang an ist.
+
+Ich habe euch geschrieben, junge Männer, weil ihr stark seid und das Wort Gottes in euch bleibt und ihr den Bösen überwunden habt.
+
+Liebt die Welt nicht und die Dinge, die in der Welt sind. Wenn jemand die Welt liebt, ist die Liebe des Vaters nicht in ihm. Denn alles, was in der Welt ist – die Lust des Fleisches, die Lust der Augen und der Stolz des Lebens – ist nicht vom Vater, sondern von der Welt. Die Welt vergeht mit ihrer Lust; aber wer den Willen Gottes tut, bleibt für immer.
+
+Kleine Kinder, dies sind die letzten Zeiten; und wie ihr gehört habt, dass der Antichrist kommt, sind jetzt schon viele Antichristen erschienen. Daran wissen wir, dass es die letzte Stunde ist. Sie sind von uns ausgegangen, aber sie gehörten nicht zu uns; denn wenn sie zu uns gehört hätten, wären sie bei uns geblieben. Aber sie sind weggegangen, damit offenbar wird, dass keiner von ihnen zu uns gehört. Ihr habt eine Salbung vom Heiligen und ihr alle habt Wissen. Ich habe euch nicht geschrieben, weil ihr die Wahrheit nicht kennt, sondern weil ihr sie kennt und weil keine Lüge aus der Wahrheit kommt. Wer ist der Lügner, wenn nicht der, der leugnet, dass Jesus der Christus ist? Das ist der Antichrist, der den Vater und den Sohn leugnet. Wer den Sohn leugnet, hat auch den Vater nicht. Wer den Sohn bekennt, hat auch den Vater.
+
+Darum lasst das in euch bleiben, was ihr von Anfang an gehört habt. Wenn das, was ihr von Anfang an gehört habt, in euch bleibt, werdet auch ihr im Sohn und im Vater bleiben. Das ist die Verheißung, die er uns gegeben hat: das ewige Leben.
+
+Diese Dinge habe ich euch über diejenigen geschrieben, die euch verführen wollen. Was euch betrifft, die Salbung, die ihr von ihm empfangen habt, bleibt in euch und ihr braucht niemanden, der euch lehrt. Aber wie seine Salbung euch über alles lehrt und wahr ist und keine Lüge ist und wie sie euch gelehrt hat, werdet ihr in ihm bleiben.
+
+Nun, kleine Kinder, bleibt in ihm, damit wir Zuversicht haben und nicht beschämt werden vor ihm bei seinem Kommen. Wenn ihr wisst, dass er gerecht ist, wisst ihr auch, dass jeder, der Gerechtigkeit übt, aus ihm geboren ist.
+
+### Kapitel 3
+
+Seht, welch große Liebe der Vater uns gegeben hat, dass wir Kinder Gottes genannt werden sollen! Deshalb kennt uns die Welt nicht, weil sie ihn nicht kannte. Geliebte, jetzt sind wir Kinder Gottes. Es ist noch nicht offenbar geworden, was wir sein werden; aber wir wissen, dass wir ihm gleich sein werden, denn wir werden ihn sehen, wie er ist. Jeder, der diese Hoffnung auf ihn setzt, reinigt sich selbst, so wie er rein ist.
+
+Jeder, der sündigt, begeht auch Gesetzlosigkeit. Sünde ist Gesetzlosigkeit. Ihr wisst, dass er offenbart wurde, um unsere Sünden wegzunehmen; und keine Sünde ist in ihm. Wer in ihm bleibt, sündigt nicht. Wer sündigt, hat ihn nicht gesehen und kennt ihn nicht.
+
+Kleine Kinder, lasst euch von niemandem verführen. Wer Gerechtigkeit tut, ist gerecht, so wie er gerecht ist. Wer sündigt, ist vom Teufel; denn der Teufel sündigt von Anfang an. Zu diesem Zweck wurde der Sohn Gottes offenbart: damit er die Werke des Teufels zerstöre. Wer aus Gott geboren ist, sündigt nicht; denn sein Same bleibt in ihm und er kann nicht sündigen, weil er aus Gott geboren ist. Daran werden die Kinder Gottes offenbar und die Kinder des Teufels: Wer keine Gerechtigkeit tut, ist nicht von Gott; ebenso derjenige nicht, der seinen Bruder nicht liebt. Denn dies ist die Botschaft, die ihr von Anfang an gehört habt: dass wir einander lieben sollen – nicht wie Kain, der vom Bösen war und seinen Bruder tötete. Warum tötete er ihn? Weil seine Werke böse waren und die seines Bruders gerecht.
+
+Seid nicht überrascht, meine Brüder, wenn die Welt euch hasst. Wir wissen, dass wir aus dem Tod ins Leben übergegangen sind, weil wir die Brüder lieben. Wer seinen Bruder nicht liebt, bleibt im Tod. Wer seinen Bruder hasst, ist ein Mörder, und ihr wisst, dass kein Mörder das ewige Leben in sich hat.
+
+Daran erkennen wir die Liebe, dass er sein Leben für uns hingegeben hat. Und wir sollten unser Leben für die Brüder hingeben. Wer aber die Güter der Welt hat und seinen Bruder in Not sieht und sein Herz der Barmherzigkeit gegen ihn verschließt, wie bleibt die Liebe Gottes in ihm?
+
+Meine kleinen Kinder, lasst uns nicht nur mit Worten oder mit der Zunge lieben, sondern in Tat und Wahrheit. Und daran erkennen wir, dass wir aus der Wahrheit sind und unsere Herzen vor ihm überzeugen können; denn wenn unser Herz uns verurteilt, ist Gott größer als unser Herz und kennt alle Dinge. Geliebte, wenn unser Herz uns nicht verurteilt, haben wir Freimütigkeit gegenüber Gott; und was wir auch immer bitten, empfangen wir von ihm, weil wir seine Gebote halten und die Dinge tun, die ihm wohlgefällig sind. Dies ist sein Gebot, dass wir an den Namen seines Sohnes Jesus Christus glauben und einander lieben, wie er uns geboten hat. Wer seine Gebote hält, bleibt in ihm und er in ihm. Daran erkennen wir, dass er in uns bleibt, durch den Geist, den er uns gegeben hat.
+
+### Kapitel 4
+
+Geliebte, glaubt nicht jedem Geist, sondern prüft die Geister, ob sie von Gott sind; denn viele falsche Propheten sind in die Welt ausgegangen. Daran erkennt ihr den Geist Gottes: Jeder Geist, der bekennt, dass Jesus Christus im Fleisch gekommen ist, ist von Gott; und jeder Geist, der nicht bekennt, dass Jesus Christus im Fleisch gekommen ist, ist nicht von Gott; und dies ist der Geist des Antichristen, von dem ihr gehört habt, dass er kommt. Jetzt ist er schon in der Welt. Ihr seid von Gott, kleine Kinder, und habt sie überwunden; denn größer ist der, der in euch ist, als der, der in der Welt ist. Sie sind von der Welt; darum reden sie von der Welt, und die Welt hört sie. Wir sind von Gott. Wer Gott kennt, hört uns; wer nicht von Gott ist, hört uns nicht. Daran erkennen wir den Geist der Wahrheit und den Geist des Irrtums.
+
+Geliebte, lasst uns einander lieben; denn die Liebe ist von Gott; und jeder, der liebt, ist aus Gott geboren und kennt Gott. Wer nicht liebt, kennt Gott nicht; denn Gott ist Liebe. Daran wurde die Liebe Gottes in uns offenbar, dass Gott seinen einzigen Sohn in die Welt gesandt hat, damit wir durch ihn leben mögen. Darin besteht die Liebe: nicht dass wir Gott geliebt haben, sondern dass er uns geliebt hat und seinen Sohn als Sühnopfer für unsere Sünden gesandt hat. Geliebte, wenn Gott uns so geliebt hat, sollten auch wir einander lieben. Niemand hat Gott jemals gesehen. Wenn wir einander lieben, bleibt Gott in uns und seine Liebe ist in uns vollendet worden.
+
+Daran erkennen wir, dass wir in ihm bleiben und er in uns bleibt; denn er hat uns von seinem Geist gegeben. Wir haben gesehen und bezeugen, dass der Vater den Sohn als Retter der Welt gesandt hat. Wer bekennt, dass Jesus der Sohn Gottes ist, in dem bleibt Gott und er in Gott. Wir wissen und haben den Glauben an die Liebe, die Gott zu uns hat. Gott ist Liebe; und wer in der Liebe bleibt, bleibt in Gott und Gott bleibt in ihm. Daran ist die Liebe unter uns vollkommen geworden, damit wir Freimütigkeit am Tag des Gerichts haben; denn wie er ist, so sind auch wir in dieser Welt. Furcht ist nicht in der Liebe; sondern die vollkommene Liebe treibt die Furcht aus; denn die Furcht hat Strafe. Wer Furcht hat, ist nicht vollkommen gemacht in der Liebe. Wir lieben ihn, weil er uns zuerst geliebt hat. Wenn jemand sagt: „Ich liebe Gott“, und hasst seinen Bruder, der ist ein Lügner; denn wer seinen Bruder nicht liebt, den er gesehen hat, wie kann er Gott lieben, den er nicht gesehen hat? Dieses Gebot haben wir von ihm: Wer Gott liebt, soll auch seinen Bruder lieben.
+
+### Kapitel 5
+
+Wer glaubt, dass Jesus der Christus ist, ist aus Gott geboren. Wer den Vater liebt, liebt auch das Kind, das aus ihm geboren ist. Daran erkennen wir, dass wir die Kinder Gottes lieben: wenn wir Gott lieben und seine Gebote halten. Denn das ist die Liebe zu Gott: dass wir seine Gebote halten. Seine Gebote sind nicht schwer. Denn alles, was aus Gott geboren ist, überwindet die Welt. Dies ist der Sieg, der die Welt überwunden hat: euer Glaube. Wer ist es, der die Welt überwindet? Nur derjenige, der glaubt, dass Jesus der Sohn Gottes ist.
+
+Dies ist der, der durch Wasser und Blut gekommen ist, Jesus Christus; nicht nur mit dem Wasser, sondern mit dem Wasser und dem Blut. Es ist der Geist, der Zeugnis ablegt, denn der Geist ist die Wahrheit. Denn es gibt drei, die Zeugnis ablegen: der Geist, das Wasser und das Blut; und die drei sind eins. Wenn wir das Zeugnis von Menschen annehmen, ist das Zeugnis Gottes größer; denn dies ist das Zeugnis Gottes, das er über seinen Sohn abgelegt hat. Wer an den Sohn Gottes glaubt, hat das Zeugnis in sich selbst. Wer Gott nicht glaubt, hat ihn zum Lügner gemacht, weil er nicht an das Zeugnis geglaubt hat, das Gott über seinen Sohn gegeben hat. Das Zeugnis ist dies: dass Gott uns das ewige Leben gegeben hat, und dieses Leben ist in seinem Sohn. Wer den Sohn hat, hat das Leben. Wer den Sohn Gottes nicht hat, hat das Leben nicht.
+
+Diese Dinge habe ich euch geschrieben, die an den Namen des Sohnes Gottes glauben, damit ihr wisst, dass ihr ewiges Leben habt und dass ihr weiterhin an den Namen des Sohnes Gottes glaubt.
+
+Das ist die Zuversicht, die wir ihm gegenüber haben, dass, wenn wir irgendetwas nach seinem Willen bitten, er uns hört. Und wenn wir wissen, dass er uns hört, was auch immer wir bitten, wissen wir, dass wir die Bitten haben, die wir von ihm erbeten haben.
+
+Wenn jemand sieht, dass sein Bruder eine Sünde begeht, die nicht zum Tod führt, soll er bitten, und Gott wird ihm Leben geben für die, die nicht zum Tod sündigen. Es gibt eine Sünde, die zum Tod führt. Ich sage nicht, dass er für diese bitten soll. Alle Ungerechtigkeit ist Sünde, und es gibt Sünde, die nicht zum Tod führt.
+
+Wir wissen, dass jeder, der aus Gott geboren ist, nicht sündigt; aber wer aus Gott geboren ist, bewahrt sich selbst, und der Böse berührt ihn nicht. Wir wissen, dass wir von Gott sind und die ganze Welt im Bösen liegt. Wir wissen, dass der Sohn Gottes gekommen ist und uns Verständnis gegeben hat, damit wir den erkennen, der wahrhaftig ist; und wir sind in dem wahrhaftigen, in seinem Sohn Jesus Christus. Dies ist der wahre Gott und das ewige Leben.
+
+Kinder, hütet euch vor den Götzen.
+
+## 2. Johannes
+
+Der zweite Brief des Johannes
+
+### Kapitel 1
+
+Der Älteste an die auserwählte Dame und ihre Kinder, die ich in der Wahrheit liebe; und nicht ich allein, sondern auch alle, die die Wahrheit kennen, um der Wahrheit willen, die in uns bleibt und mit uns sein wird in Ewigkeit: Gnade, Barmherzigkeit und Frieden werden mit uns sein von Gott dem Vater und von dem Herrn Jesus Christus, dem Sohn des Vaters, in Wahrheit und Liebe.
+
+Ich freue mich sehr, dass ich einige deiner Kinder in der Wahrheit wandeln gesehen habe, so wie es uns der Vater geboten hat. Nun bitte ich dich, liebe Dame, nicht als ob ich dir ein neues Gebot schreibe, sondern das, was wir von Anfang an hatten: dass wir einander lieben. Das ist die Liebe: dass wir nach seinen Geboten wandeln. Dies ist das Gebot, wie ihr von Anfang an gehört habt: dass ihr darin wandeln sollt.
+
+Denn viele Verführer sind in die Welt ausgegangen; diejenigen, die nicht bekennen, dass Jesus Christus im Fleisch gekommen ist. Dies ist der Verführer und der Antichrist. Seht euch vor, dass wir nicht die Dinge verlieren, die wir erlangt haben, sondern dass wir einen vollen Lohn empfangen. Wer übertritt und nicht in der Lehre Christi bleibt, hat Gott nicht. Wer in der Lehre bleibt, hat sowohl den Vater als auch den Sohn. Wenn jemand zu euch kommt und diese Lehre nicht bringt, nehmt ihn nicht in euer Haus auf und begrüßt ihn nicht; denn wer ihn begrüßt, nimmt an seinen bösen Werken teil.
+
+Ich habe viele Dinge zu euch zu schreiben; ich will es aber nicht mit Papier und Tinte tun; sondern ich hoffe zu euch zu kommen und von Angesicht zu Angesicht zu reden, damit unsere Freude vollkommen sei. Die Kinder deiner auserwählten Schwester lassen dich grüßen. Amen.
+
+## 3. Johannes
+
+Der dritte Brief des Johannes
+
+### Kapitel 1
+
+Der Älteste an Gaius den Geliebten, den ich in der Wahrheit liebe.
+
+Geliebter, ich wünsche dir in allen Dingen Wohlergehen und Gesundheit, so wie es deiner Seele wohlgeht. Denn ich habe mich sehr gefreut, als Brüder kamen und von deiner Wahrheit Zeugnis ablegten, so wie du in der Wahrheit wandelst. Ich habe keine größere Freude als dies: zu hören, dass meine Kinder in der Wahrheit wandeln.
+
+Geliebter, du tust ein treues Werk in allem, was du für die Brüder und für Fremde tust. Sie haben vor der Versammlung von deiner Liebe Zeugnis abgelegt. Du wirst gut tun, wenn du sie auf ihrem Weg in einer Weise sendest, die Gott würdig ist; denn um des Namens willen sind sie ausgegangen und nehmen nichts von den Heiden an. Wir sollten daher solche aufnehmen, damit wir Mitarbeiter für die Wahrheit sein können.
+
+Ich schrieb an die Versammlung, aber Diotrephes, der es liebt, der Erste unter ihnen zu sein, akzeptiert nicht, was wir sagen. Daher werde ich, wenn ich komme, auf seine Taten aufmerksam machen, die er tut, indem er uns mit bösen Worten ungerecht beschuldigt. Nicht zufrieden damit, empfängt er selbst die Brüder nicht, und diejenigen, die es tun würden, verbietet er und wirft sie aus der Versammlung hinaus.
+
+Geliebte, ahmt nicht das Böse nach, sondern das Gute. Wer Gutes tut, ist von Gott. Wer Böses tut, hat Gott nicht gesehen. Demetrius hat das Zeugnis aller und das Zeugnis der Wahrheit selbst; ja, wir bezeugen auch, und ihr wisst, dass unser Zeugnis wahr ist.
+
+Ich hatte viele Dinge, die ich euch schreiben wollte, aber ich bin nicht bereit, euch mit Tinte und Feder zu schreiben; aber ich hoffe, euch bald zu sehen. Dann werden wir von Angesicht zu Angesicht sprechen.
+
+Frieden sei mit euch. Die Freunde grüßen euch. Grüßt die Freunde namentlich.
+
+## Judas
+
+Der Brief des Judas
+
+### Kapitel 1
+
+Judas, ein Diener Jesu Christi und Bruder Jakobs, an die Berufenen, die von Gott dem Vater geheiligt und für Jesus Christus bewahrt werden: Möge Barmherzigkeit, Frieden und Liebe euch in Fülle zuteilwerden.
+
+Geliebte, während ich sehr darauf bedacht war, euch über unser gemeinsames Heil zu schreiben, war ich gezwungen, euch zu schreiben und euch zu ermahnen, ernsthaft für den Glauben zu kämpfen, der einmal für alle Heiligen überliefert wurde. Denn es sind gewisse Menschen heimlich hereingekommen, die längst zu diesem Urteil geschrieben wurden: gottlose Menschen, die die Gnade unseres Gottes in Unanständigkeit verkehren und unseren einzigen Herrn, Gott und Herrn Jesus Christus, verleugnen.
+
+Nun möchte ich euch daran erinnern, obwohl ihr das bereits wisst, dass der Herr ein Volk aus dem Land Ägypten gerettet hat und danach die zerstört hat, die nicht glaubten. Engel, die ihre erste Herrschaft nicht bewahrt haben, sondern ihren eigenen Wohnsitz verlassen haben, hat er in ewigen Ketten unter Dunkelheit für das Gericht des großen Tages bewahrt. So wie Sodom und Gomorra und die Städte um sie herum, die sich auf dieselbe Weise wie diese der sexuellen Unmoral hingegeben und nach fremdem Fleisch verlangt haben, als Beispiel gezeigt werden und die Strafe des ewigen Feuers erleiden. Ebenso verunreinigen auch diese in ihren Träumen das Fleisch, verachten Autorität und verleumden himmlische Wesen. Aber Michael, der Erzengel, als er mit dem Teufel stritt und über den Leib Moses stritt, wagte es nicht, ihm eine beleidigende Anklage zu bringen, sondern sagte: „Der Herr strafe dich!“ Diese aber reden böse von allem, was sie nicht wissen. Sie werden in diesen Dingen zugrunde gehen, die sie natürlich verstehen, wie unvernünftige Tiere. Wehe ihnen! Denn sie sind den Weg Kains gegangen und haben sich im Irrtum Bileams für Lohn verloren und sind im Aufstand Korahs umgekommen. Diese sind verborgene Felsen bei euren Liebesmahlzeiten; wenn sie mit euch speisen, sind sie Hirten, die sich ohne Furcht selbst weiden; Wolken ohne Wasser, vom Wind getrieben; Herbstbäume ohne Frucht, zweimal tot und von den Wurzeln gerissen; wilde Wellen des Meeres, die ihre eigene Schande ausschäumen; umherirrende Sterne, für die die Finsternis der Dunkelheit auf ewig reserviert ist. Auch über diese hat Henoch, der siebte von Adam an, geweissagt und gesagt: „Siehe, der Herr kommt mit zehntausend seiner Heiligen, um Gericht zu halten über alle und alle Gottlosen zu überführen für all ihre gottlosen Werke, die sie in gottloser Weise getan haben, und für all die harten Dinge, die gottlose Sünder gegen ihn gesprochen haben.“ Diese sind Murrer und Nörgler, die nach ihren eigenen Begierden wandeln – und ihr Mund spricht stolze Dinge – sie zeigen Ansehen der Personen um Vorteil zu gewinnen.
+
+Aber ihr, Geliebte, erinnert euch an die Worte, die zuvor von den Aposteln unseres Herrn Jesus Christus gesprochen wurden. Sie sagten zu euch: „In der letzten Zeit werden Spötter kommen, die nach ihren eigenen gottlosen Begierden wandeln.“ Das sind diejenigen, die Spaltungen verursachen und sinnlich sind und den Geist nicht haben.
+
+Aber ihr, Geliebte, baut euch selbst auf eurem allerheiligsten Glauben auf und betet im Heiligen Geist. Haltet euch in der Liebe Gottes und erwartet die Barmherzigkeit unseres Herrn Jesus Christus zum ewigen Leben. Bei einigen habt Mitleid mit Unterscheidung; andere rettet aus dem Feuer heraus mit Furcht und hasst sogar das Kleidungsstück, das vom Fleisch befleckt ist.
+
+Jetzt dem, der sie vor dem Stolpern bewahren kann und euch fehlerlos vor das Angesicht seiner Herrlichkeit in großer Freude präsentieren kann, sei Ehre und Majestät, Herrschaft und Macht, sowohl jetzt als auch in Ewigkeit. Amen.
+
+## Offenbarung
+
+Die Offenbarung Jesu Christi
+
+### Kapitel 1
+
+Dies ist die Offenbarung Jesu Christi, die Gott ihm gegeben hat, um seinen Dienern die Dinge zu zeigen, die bald geschehen müssen, die er durch seinen Engel seinem Diener Johannes gesandt und bekannt gemacht hat, der das Wort Gottes und das Zeugnis Jesu Christi über alles, was er sah, bezeugte.
+
+Selig ist, der liest und die hören die Worte der Prophezeiung und die Dinge bewahren, die darin geschrieben sind; denn die Zeit ist nahe.
+
+Johannes an die sieben Versammlungen, die in Asien sind: Gnade sei mit euch und Frieden von Gott, der ist und der war und der kommen wird; und von den sieben Geistern, die vor seinem Thron sind; und von Jesus Christus, dem treuen Zeugen, dem Erstgeborenen der Toten und dem Herrscher über die Könige der Erde. Dem, der uns liebt und uns von unseren Sünden durch sein Blut gewaschen hat – und er hat uns zu einem Königreich gemacht, Priester für seinen Gott und Vater – ihm sei die Herrlichkeit und die Herrschaft von Ewigkeit zu Ewigkeit. Amen.
+
+Siehe, er kommt mit den Wolken, und jedes Auge wird ihn sehen, auch die, die ihn durchstochen haben. Und alle Stämme der Erde werden über ihn klagen. Ja, Amen.
+
+„Ich bin das Alpha und das Omega“, sagt der Herr Gott, „der ist und der war und der kommen wird, der Allmächtige.“
+
+Ich, Johannes, euer Bruder und Mitteilnehmer an der Bedrängnis, dem Königreich und der Ausdauer in Christus Jesus, war auf der Insel Patmos wegen des Wortes Gottes und des Zeugnisses Jesu Christi. Ich war am Tag des Herrn im Geist und hörte hinter mir eine laute Stimme wie eine Posaune, die sprach: „Was du siehst, schreibe in ein Buch und sende es an die sieben Versammlungen: an Ephesus, Smyrna, Pergamon, Thyatira, Sardis, Philadelphia und an Laodizea.“
+
+Ich wandte mich um, um die Stimme zu sehen, die mit mir sprach. Und als ich mich umwandte, sah ich sieben goldene Leuchter. Und mitten unter den Leuchtern war einer gleich einem Sohn des Menschen, bekleidet mit einem Gewand bis zu den Füßen und mit einem goldenen Gürtel um die Brust. Sein Haupt und sein Haar waren weiß wie weiße Wolle, wie Schnee. Seine Augen waren wie eine Flamme von Feuer. Seine Füße waren wie glänzendes Erz, als ob sie im Ofen geschmolzen wären. Seine Stimme war wie das Rauschen vieler Wasser. Er hatte sieben Sterne in seiner rechten Hand. Aus seinem Mund ging ein scharfes zweischneidiges Schwert hervor. Sein Angesicht war wie die Sonne, die in ihrer Kraft scheint. Als ich ihn sah, fiel ich zu seinen Füßen wie tot nieder.
+
+Und er legte seine rechte Hand auf mich und sprach: „Fürchte dich nicht! Ich bin der Erste und der Letzte und der Lebendige. Ich war tot, und siehe, ich lebe von Ewigkeit zu Ewigkeit. Amen. Ich habe die Schlüssel des Todes und des Hades. Schreibe daher die Dinge, die du gesehen hast, und die Dinge, die sind, und die Dinge, die nach diesen geschehen werden. Das Geheimnis der sieben Sterne, die du in meiner rechten Hand gesehen hast, und der sieben goldenen Leuchter ist dies: Die sieben Sterne sind die Engel der sieben Versammlungen. Die sieben Leuchter sind sieben Versammlungen.
+
+### Kapitel 2
+
+„An den Engel der Versammlung in Ephesus schreibe:
+
+„Der die sieben Sterne in seiner rechten Hand hält, der unter den sieben goldenen Leuchtern wandelt, sagt dies:
+
+„Ich kenne deine Werke und deine Mühe und Ausdauer und dass du das Böse nicht ertragen kannst; und du hast die geprüft, die sich Apostel nennen und es nicht sind, und hast sie als Lügner befunden. Du hast Ausdauer und hast um meines Namens willen gelitten und bist nicht müde geworden. Aber ich habe dies gegen dich: Du hast deine erste Liebe verlassen. Gedenke daher daran, woher du gefallen bist, und tue Buße und tue die ersten Werke; oder ich komme schnell zu dir und werde deinen Leuchter aus seiner Stelle entfernen, es sei denn, du tust Buße. Aber dies hast du: Du hasst die Werke der Nikolaiten, die ich auch hasse. Wer ein Ohr hat, der höre, was der Geist den Versammlungen sagt. Dem, der überwindet, werde ich zu essen geben von dem Baum des Lebens, der im Paradies meines Gottes ist.
+
+„An den Engel der Gemeinde in Smyrna schreibe:
+
+„Der Erste und der Letzte, der tot war und wieder lebendig geworden ist, sagt diese Dinge:
+
+„Ich kenne deine Werke, deine Bedrängnis und deine Armut (aber du bist reich) und die Lästerung derjenigen, die sagen, sie seien Juden, und es sind keine, sondern eine Synagoge des Satans. Fürchte dich nicht vor den Dingen, die du leiden wirst. Siehe, der Teufel wird einige von euch ins Gefängnis werfen, damit ihr geprüft werdet; und ihr werdet zehn Tage Bedrängnis haben. Sei treu bis zum Tod, und ich werde dir die Krone des Lebens geben. Wer ein Ohr hat, der höre, was der Geist den Gemeinden sagt. Wer überwindet, wird durch den zweiten Tod nicht verletzt werden.
+
+„An den Engel der Gemeinde in Pergamon schreibe:
+
+„Der, der das scharfe, zweischneidige Schwert hat, sagt diese Dinge:
+
+„Ich kenne deine Werke und wo du wohnst, wo der Thron des Satans ist. Du hältst fest an meinem Namen und hast meinen Glauben in den Tagen von Antipas, meinem Zeugen, meinem Treuen, der unter euch getötet wurde, wo der Satan wohnt, nicht verleugnet. Aber ich habe einige Dinge gegen dich, weil du dort einige hast, die die Lehre Balaams halten, der Balak lehrte, einen Anstoß vor den Kindern Israel zu werfen, um Götzenopfer zu essen und Unzucht zu treiben. So hast auch du einige, die an der Lehre der Nikolaiten festhalten. Kehre darum um; andernfalls komme ich schnell zu dir und werde gegen sie Krieg führen mit dem Schwert meines Mundes. Wer ein Ohr hat, der höre, was der Geist den Gemeinden sagt. Dem, der überwindet, werde ich vom verborgenen Manna geben, und ich werde ihm einen weißen Stein geben, und auf dem Stein wird ein neuer Name geschrieben sein, den niemand kennt außer dem, der ihn empfängt.
+
+„An den Engel der Gemeinde in Thyatira schreibe:
+
+„Der Sohn Gottes, der Augen hat wie eine Flamme von Feuer und dessen Füße wie glänzendes Erz sind, sagt diese Dinge:
+
+„Ich kenne deine Werke, deine Liebe, deinen Glauben, deinen Dienst, deine Geduld und dass deine letzten Werke mehr sind als die ersten. Aber ich habe dies gegen dich, dass du die Frau Isebel duldest, die sich selbst eine Prophetin nennt. Sie lehrt und verführt meine Diener zur Unzucht und zum Essen von Götzenopfern. Ich gab ihr Zeit zur Umkehr, aber sie weigert sich, von ihrer Unzucht umzukehren. Siehe, ich werde sie und diejenigen, die mit ihr Unzucht treiben, auf ein Bett großer Bedrängnis werfen, es sei denn, sie kehren um von ihren Werken. Ihre Kinder werde ich mit dem Tod schlagen, und alle Gemeinden werden wissen, dass ich es bin, der die Gedanken und Herzen erforscht. Ich werde jedem von euch nach euren Werken geben. Aber zu euch sage ich, zu den übrigen in Thyatira – so viele wie diese Lehre nicht haben und nicht wissen, was einige „die tiefen Dinge des Satans“ nennen – zu euch sage ich: Ich lege euch keine andere Last auf. Halte jedoch fest, was du hast, bis ich komme. Wer überwindet und wer meine Werke bis ans Ende bewahrt, dem werde ich Macht über die Nationen geben. Er wird sie mit eisernem Stab regieren und sie wie Tontöpfe zerschmettern, wie auch ich von meinem Vater empfangen habe; und ich werde ihm den Morgenstern geben. Wer ein Ohr hat, der höre, was der Geist den Gemeinden sagt.
+
+### Kapitel 3
+
+„Und an den Engel der Gemeinde in Sardes schreibe:
+
+„Der die sieben Geister Gottes und die sieben Sterne hat, sagt diese Dinge:
+
+„Ich kenne deine Werke, dass du den Ruf hast, lebendig zu sein; aber du bist tot. Wach auf und stärke das Übrige, das im Sterben liegt; denn ich habe keine Werke von dir vollendet vor meinem Gott. Erinnere dich daher daran, wie du empfangen und gehört hast. Halte es fest und kehre um. Wenn du daher nicht wachsam bist, werde ich wie ein Dieb kommen; und du wirst nicht wissen, zu welcher Stunde ich über dich kommen werde. Dennoch hast du einige Namen in Sardes, die ihre Kleider nicht befleckt haben. Sie werden mit mir in weißen Kleidern wandeln; denn sie sind würdig. Wer überwindet, wird in weiße Kleider gekleidet werden; und ich werde seinen Namen auf keinen Fall aus dem Buch des Lebens auslöschen und werde seinen Namen vor meinem Vater und vor seinen Engeln bekennen. Wer ein Ohr hat, der höre, was der Geist den Gemeinden sagt.
+
+„An den Engel der Gemeinde in Philadelphia schreibe:
+
+„Der Heilige, der Wahre, der den Schlüssel Davids hat, der öffnet und niemand schließen kann, und der schließt und niemand öffnen kann, sagt diese Dinge:
+
+„Ich kenne deine Werke (siehe, ich habe dir eine offene Tür vor die Augen gestellt, die niemand schließen kann), dass du eine kleine Kraft hast und mein Wort bewahrt hast und meinen Namen nicht verleugnet hast. Siehe, ich werde einige aus der Synagoge des Satans, von denen, die sagen, sie seien Juden und es nicht sind, sondern lügen – siehe, ich werde sie dazu bringen, vor deinen Füßen zu kommen und zu erkennen, dass ich dich geliebt habe. Weil du mein Gebot bewahrt hast, standhaft zu bleiben, werde ich dich auch von der Stunde der Prüfung bewahren, die über die ganze Welt kommen wird, um die zu prüfen, die auf der Erde wohnen. Ich komme bald! Halte fest, was du hast, damit niemand deine Krone nimmt. Wer überwindet, den werde ich zu einem Pfeiler im Tempel meines Gottes machen, und er wird von dort nicht mehr hinausgehen. Ich werde ihm den Namen meines Gottes und den Namen der Stadt meines Gottes, des neuen Jerusalem, das aus dem Himmel von meinem Gott herabkommt, und meinen eigenen neuen Namen schreiben. Wer ein Ohr hat, der höre, was der Geist den Gemeinden sagt.
+
+„An den Engel der Gemeinde in Laodizea schreibe:
+
+„Der Amen, der treue und wahre Zeuge, der Anfang der Schöpfung Gottes, sagt diese Dinge:
+
+„Ich kenne deine Werke, dass du weder kalt noch heiß bist. Ich wünschte, du wärest kalt oder heiß. So weil du lau bist und weder heiß noch kalt, werde ich dich aus meinem Mund speien. Weil du sagst: ‚Ich bin reich und habe Reichtum erlangt und bedarf nichts‘ und nicht weißt, dass du der Elende, Mitleidige, Arme, Blinde und Nackte bist; ich rate dir, von mir Gold zu kaufen, das im Feuer gereinigt ist, damit du reich wirst; und weiße Kleider, damit du dich bekleidest und die Schande deiner Nacktheit nicht offenbar wird; und Augensalbe, um deine Augen zu salben, damit du sehen kannst. So viele ich liebe, die zurechtweise ich und züchtige ich. Sei daher eifrig und bereue. Siehe, ich stehe vor der Tür und klopfe an. Wenn jemand meine Stimme hört und die Tür öffnet, dann werde ich zu ihm hineingehen und mit ihm essen und er mit mir. Wer überwindet, dem werde ich geben, mit mir auf meinem Thron zu sitzen, wie auch ich überwunden habe und mit meinem Vater auf seinem Thron gesessen habe. Wer ein Ohr hat, der höre, was der Geist den Gemeinden sagt.“
+
+### Kapitel 4
+
+Nach diesen Dingen sah ich und sah eine Tür im Himmel geöffnet; und die erste Stimme, die ich hörte, wie eine Trompete, die mit mir sprach, war eine Stimme, die sagte: „Komm hierherauf, und ich werde dir zeigen, was nach diesem geschehen muss.“
+
+Sofort war ich im Geist. Siehe, da war ein Thron im Himmel aufgestellt und einer saß auf dem Thron, der aussah wie ein Jaspisstein und ein Sardis. Um den Thron war ein Regenbogen wie ein Smaragd zu sehen. Rund um den Thron waren vierundzwanzig Throne. Auf den Thrönen saßen vierundzwanzig Älteste gekleidet in weiße Gewänder mit goldenen Kronen auf ihren Köpfen. Aus dem Thron gingen Blitze und Stimmen und Donner aus. Vor seinem Thron brannten sieben Feuerlampen, die sind die sieben Geister Gottes. Vor dem Thron war etwas wie ein gläsernes Meer, ähnlich wie Kristall. In der Mitte des Thrones und um den Thron waren vier lebendige Wesen voller Augen vorne und hinten. Das erste Wesen war wie ein Löwe, das zweite Wesen wie ein Kalb, das dritte Wesen hatte ein Angesicht wie ein Mensch und das vierte war wie ein fliegender Adler. Die vier lebendigen Wesen hatten jedes von ihnen sechs Flügel; sie sind voller Augen rundherum und innen. Sie haben Tag und Nacht keinen Ruhe und sagen: „Heilig, heilig, heilig ist der Herr Gott, der Allmächtige, der war und der ist und der kommen wird!“
+
+Wenn die lebendigen Wesen Ehre, Ruhm und Dank dem geben, der auf dem Thron sitzt, dem der für immer lebt und ewig lebt, fallen die vierundzwanzig Ältesten nieder vor dem, der auf dem Thron sitzt und beten ihn an, der für immer lebt und ewig lebt, und werfen ihre Kronen vor dem Thron nieder und sagen: „Würdig bist du, unser Herr und Gott, der Heilige, die Ehre, den Ruhm und die Macht zu empfangen; denn du hast alle Dinge geschaffen und wegen deines Willens existierten sie und wurden geschaffen!“
+
+### Kapitel 5
+
+Ich sah in der rechten Hand dessen, der auf dem Thron saß, ein Buch, das innen und außen beschrieben war und mit sieben Siegeln versiegelt war. Ich sah einen mächtigen Engel mit lauter Stimme ausrufen: „Wer ist würdig, das Buch zu öffnen und seine Siegel zu brechen?“ Niemand im Himmel oben, noch auf der Erde, noch unter der Erde war in der Lage, das Buch zu öffnen oder hineinzuschauen. Da weinte ich sehr, weil niemand gefunden wurde, der würdig war, das Buch zu öffnen oder hineinzuschauen. Einer der Ältesten sagte zu mir: „Weine nicht! Siehe, der Löwe aus dem Stamm Juda, die Wurzel Davids, hat überwunden: Er, der das Buch öffnet und seine sieben Siegel.“
+
+Ich sah in der Mitte des Thrones und der vier lebendigen Wesen und in der Mitte der Ältesten ein Lamm stehen, als wäre es geschlachtet worden, mit sieben Hörnern und sieben Augen, die die sieben Geister Gottes sind, die in die ganze Erde gesandt wurden. Dann kam es und nahm das Buch aus der rechten Hand dessen, der auf dem Thron saß. Als es das Buch genommen hatte, fielen die vier lebendigen Wesen und die vierundzwanzig Ältesten vor dem Lamm nieder, jeder hatte eine Harfe und goldene Schalen voller Räucherwerk, das die Gebete der Heiligen sind. Sie sangen ein neues Lied und sagten:
+
+„Du bist würdig, das Buch zu nehmen
+
+und seine Siegel zu öffnen,
+
+denn du wurdest getötet
+
+und hast uns für Gott mit deinem Blut erkauft
+
+aus jeder Nation, Sprache, Volk und Nation,
+
+und hast uns zu Königen und Priestern für unseren Gott gemacht;
+
+und wir werden auf der Erde regieren.“
+
+Ich schaute und hörte etwas wie die Stimme vieler Engel um den Thron, die lebendigen Wesen und die Ältesten. Ihre Zahl war zehntausend mal zehntausend und tausend mal tausend, die mit lauter Stimme sagten: „Würdig ist das Lamm, das geschlachtet wurde, die Macht, den Reichtum, die Weisheit, die Stärke, die Ehre, die Herrlichkeit und den Segen zu empfangen!“
+
+Ich hörte alles Geschaffene, das im Himmel ist, auf der Erde, unter der Erde, im Meer und alles in ihnen sagen: „Dem, der auf dem Thron sitzt, und dem Lamm sei der Segen, die Ehre, die Herrlichkeit und die Herrschaft von Ewigkeit zu Ewigkeit! Amen!“
+
+Die vier lebendigen Wesen sagten: „Amen!“ Dann fielen die Ältesten nieder und beteten an.
+
+### Kapitel 6
+
+Ich sah, dass das Lamm eines der sieben Siegel öffnete, und ich hörte eines der vier lebendigen Wesen sagen, wie mit einer Stimme des Donners: „Komm und sieh!“ Dann erschien ein weißes Pferd, und der darauf saß, hatte einen Bogen. Ihm wurde eine Krone gegeben, und er zog aus als Sieger und um zu siegen.
+
+Als es das zweite Siegel öffnete, hörte ich das zweite lebendige Wesen sagen: „Komm!“ Ein anderes kam heraus, ein rotes Pferd. Dem darauf saß wurde Macht gegeben, den Frieden von der Erde zu nehmen, sodass sie einander töten sollten. Ihm wurde ein großes Schwert gegeben.
+
+Als es das dritte Siegel öffnete, hörte ich das dritte lebendige Wesen sagen: „Komm und sieh!“ Und siehe, ein schwarzes Pferd; und der darauf saß hatte eine Waage in seiner Hand. Ich hörte eine Stimme mitten unter den vier lebendigen Wesen sagen: „Ein Maß Weizen für einen Denar und drei Maße Gerste für einen Denar! Schädige das Öl und den Wein nicht!“
+
+Als es das vierte Siegel öffnete, hörte ich das vierte lebendige Wesen sagen: „Komm und sieh!“ Und siehe, ein fahles Pferd; und der Name dessen, der darauf saß, war Tod. Hades folgte ihm nach. Ihm wurde Macht über ein Viertel der Erde gegeben, um mit dem Schwert zu töten, mit Hunger, mit Tod und durch die wilden Tiere der Erde.
+
+Als es das fünfte Siegel öffnete, sah ich unter dem Altar die Seelen derer, die um das Wort Gottes und um das Zeugnis des Lammes getötet worden waren. Sie riefen mit lauter Stimme: „Wie lange, Herr, du Heiliger und Wahrhaftiger, wirst du nicht richten und unser Blut rächen an denen, die auf der Erde wohnen?“ Ein langes weißes Gewand wurde jedem von ihnen gegeben. Man sagte ihnen, dass sie noch eine kleine Weile ruhen sollten, bis auch ihre Mitknechte und ihre Brüder vollzählig wären, die ebenso getötet werden sollten wie sie.
+
+Ich sah als es das sechste Siegel öffnete; da gab es ein großes Erdbeben. Die Sonne wurde schwarz wie ein Sackleinwand aus Haaren; und der ganze Mond wurde wie Blut. Die Sterne des Himmels fielen auf die Erde wie ein Feigenbaum seine unreifen Feigen abwirft, wenn er von einem starken Wind geschüttelt wird. Der Himmel wurde entfernt wie eine Schriftrolle, wenn sie zusammengerollt wird. Jeder Berg und jede Insel wurde aus seiner Stelle gerückt. Die Könige der Erde, die Fürsten, die Hauptleute, die Reichen, die Starken und jeder Sklave und Freie versteckten sich in den Höhlen und in den Felsen der Berge. Sie sagten zu den Bergen und den Felsen: „Fallt auf uns und versteckt uns vor dem Angesicht dessen, der auf dem Thron sitzt, und vor dem Zorn des Lammes; denn der große Tag seines Zorns ist gekommen; wer kann bestehen?“
+
+### Kapitel 7
+
+Nach diesem sah ich vier Engel, die an den vier Ecken der Erde standen und die vier Winde der Erde hielten, damit kein Wind auf die Erde, das Meer oder irgendeinen Baum blasen würde. Ich sah einen anderen Engel vom Sonnenaufgang aufsteigen, der das Siegel des lebendigen Gottes hatte. Er rief mit lauter Stimme zu den vier Engeln, denen es gegeben war, der Erde und dem Meer Schaden zuzufügen, und sagte: „Schadet der Erde, dem Meer oder den Bäumen nicht, bis wir die Knechte unseres Gottes an ihren Stirnen versiegelt haben!“ Ich hörte die Zahl der Versiegelten, hundertvierundvierzigtausend, versiegelt aus jedem Stamm der Kinder Israels:
+
+Von dem Stamm Juda wurden zwölftausend versiegelt,
+
+von dem Stamm Ruben zwölftausend,
+
+von dem Stamm Gad zwölftausend,
+
+von dem Stamm Asher zwölftausend,
+
+von dem Stamm Naftali zwölftausend,
+
+von dem Stamm Manasse zwölftausend,
+
+von dem Stamm Simeon zwölftausend,
+
+von dem Stamm Levi zwölftausend,
+
+von dem Stamm Issachar zwölftausend,
+
+von dem Stamm Sebulon zwölftausend,
+
+von dem Stamm Joseph zwölftausend und
+
+von dem Stamm Benjamin zwölftausend wurden versiegelt.
+
+Nach diesen Dingen sah ich, und siehe, eine große Menge, die niemand zählen konnte, aus jeder Nation und aus allen Stämmen, Völkern und Sprachen, stand vor dem Thron und vor dem Lamm, bekleidet mit weißen Gewändern und mit Palmzweigen in ihren Händen. Sie riefen mit lauter Stimme und sagten: „Das Heil gehört unserem Gott, der auf dem Thron sitzt, und dem Lamm!“
+
+Alle Engel standen um den Thron, die Ältesten und die vier lebenden Wesen; und sie fielen auf ihre Gesichter vor seinem Thron und beteten Gott an und sagten: „Amen! Lobpreis, Ehre, Weisheit, Dank, Ehre, Macht und Stärke sei unserem Gott von Ewigkeit zu Ewigkeit! Amen.“
+
+Einer der Ältesten antwortete und sagte zu mir: „Diese, die in den weißen Gewändern gekleidet sind, wer sind sie und woher kommen sie?“
+
+Ich sagte zu ihm: „Mein Herr, du weißt es.“
+
+Er sagte zu mir: „Das sind die, die aus der großen Drangsal gekommen sind. Sie haben ihre Gewänder gewaschen und sie im Blut des Lammes weiß gemacht. Daher stehen sie vor dem Thron Gottes und dienen ihm Tag und Nacht in seinem Tempel. Der auf dem Thron sitzt, wird sein Zelt über sie breiten. Sie werden nie mehr Hunger oder Durst haben. Die Sonne wird nicht auf sie scheinen noch irgendeine Hitze; denn das Lamm, das in der Mitte des Thrones ist, wird sie weiden und sie zu Quellen lebendigen Wassers führen. Und Gott wird jede Träne von ihren Augen abwischen.“
+
+### Kapitel 8
+
+Als er das siebte Siegel öffnete, gab es etwa eine halbe Stunde lang Stille im Himmel. Ich sah die sieben Engel, die vor Gott stehen, und ihnen wurden sieben Posaunen gegeben.
+
+Ein anderer Engel kam und stellte sich über den Altar und hatte ein goldenes Räucherfass. Viel Weihrauch wurde ihm gegeben, damit er ihn zu den Gebeten aller Heiligen auf dem goldenen Altar hinzufügen sollte, der vor dem Thron war. Der Rauch des Weihrauchs stieg mit den Gebeten der Heiligen aus der Hand des Engels vor Gott auf. Der Engel nahm das Räucherfass und füllte es mit Feuer vom Altar und warf es auf die Erde. Donner, Stimmen, Blitze und ein Erdbeben folgten.
+
+Die sieben Engel, die die sieben Posaunen hatten, bereiteten sich darauf vor, zu blasen.
+
+Der erste blies, und es folgten Hagel und Feuer, vermischt mit Blut, und sie wurden auf die Erde geworfen. Ein Drittel der Erde wurde verbrannt, und ein Drittel der Bäume wurde verbrannt, und alles grüne Gras wurde verbrannt.
+
+Der zweite Engel blies, und etwas wie ein großer brennender Berg wurde ins Meer geworfen. Ein Drittel des Meeres wurde zu Blut, und ein Drittel der lebenden Geschöpfe im Meer starb. Ein Drittel der Schiffe wurde zerstört.
+
+Der dritte Engel blies, und ein großer Stern fiel vom Himmel, brennend wie eine Fackel, und fiel auf ein Drittel der Flüsse und auf die Wasserquellen. Der Name des Sterns ist „Wermut“. Ein Drittel der Wasser wurde zu Wermut. Viele Menschen starben von den Wassern, weil sie bitter gemacht wurden.
+
+Der vierte Engel blies, und ein Drittel der Sonne wurde geschlagen und ein Drittel des Mondes und ein Drittel der Sterne, sodass ein Drittel von ihnen dunkel wurde; und der Tag würde für ein Drittel davon nicht scheinen, und die Nacht ebenso. Ich sah und hörte einen Adler in der Mitte des Himmels fliegen und mit lauter Stimme sagen: „Wehe! Wehe! Wehe denen, die auf der Erde wohnen, wegen der anderen Posaunen der drei Engel, die noch blasen müssen!“
+
+### Kapitel 9
+
+Der fünfte Engel blies die Posaune, und ich sah einen Stern vom Himmel, der auf die Erde gefallen war. Ihm wurde der Schlüssel zur Tiefe des Abgrunds gegeben. Er öffnete den Abgrund, und Rauch stieg aus dem Abgrund auf, wie der Rauch eines brennenden Ofens. Die Sonne und die Luft wurden wegen des Rauches aus dem Abgrund dunkel. Dann kamen aus dem Rauch Heuschrecken auf die Erde, und ihnen wurde Macht gegeben, wie die Skorpione der Erde Macht haben. Man sagte ihnen, dass sie das Gras der Erde nicht schädigen sollten, noch irgendetwas Grünes, noch irgendeinen Baum, sondern nur die Menschen, die das Siegel Gottes nicht auf ihrer Stirn haben. Ihnen wurde Macht gegeben, nicht um sie zu töten, sondern um sie fünf Monate lang zu quälen. Ihr Quälen war wie das Quälen eines Skorpions, wenn er einen Menschen sticht. In jenen Tagen werden die Menschen den Tod suchen und ihn auf keine Weise finden. Sie werden wünschen zu sterben, und der Tod wird vor ihnen fliehen.
+
+Die Gestalten der Heuschrecken waren wie Pferde, die für den Krieg vorbereitet sind. Auf ihren Köpfen waren etwas wie goldene Kronen, und ihre Gesichter waren wie Menschengesichter. Sie hatten Haare wie Frauenhaare, und ihre Zähne waren wie die von Löwen. Sie hatten Brustpanzer wie Brustpanzer aus Eisen. Der Klang ihrer Flügel war wie der Klang vieler Wagen und Pferde, die zum Krieg eilen. Sie haben Schwänze wie Skorpione, mit Stacheln. In ihren Schwänzen haben sie die Macht, Menschen fünf Monate lang zu schädigen. Über ihnen haben sie als König den Engel des Abgrunds. Sein Name auf Hebräisch ist „Abaddon“, aber auf Griechisch hat er den Namen „Apollyon“.
+
+Das erste Wehe ist vergangen. Siehe, es kommen noch zwei Wehen danach.
+
+Der sechste Engel blies die Posaune. Ich hörte eine Stimme von den Hörnern des goldenen Altars, der vor Gott steht, die zu dem sechsten Engel sprach, der die Posaune hatte: „Befreie die vier Engel, die am großen Fluss Euphrat gebunden sind!“
+
+Die vier Engel wurden befreit, die für diese Stunde und diesen Tag und diesen Monat und dieses Jahr vorbereitet waren, um ein Drittel der Menschheit zu töten. Die Zahl der Heere der Reiter war zweihundert Millionen. Ich hörte die Zahl von ihnen. So sah ich die Pferde in der Vision und diejenigen, die auf ihnen saßen, mit Brustpanzern aus feurigem Rot, Hyazinthblau und Schwefelgelb; und die Köpfe der Pferde glichen Löwenköpfen. Aus ihren Mäulern kamen Feuer, Rauch und Schwefel. Durch diese drei Plagen wurde ein Drittel der Menschheit getötet: durch das Feuer, den Rauch und den Schwefel, die aus ihren Mäulern kamen. Denn die Kraft der Pferde ist in ihren Mäulern und in ihren Schwänzen. Denn ihre Schwänze sind wie Schlangen und haben Köpfe; und mit ihnen fügen sie Schaden zu.
+
+Der Rest der Menschheit, der nicht durch diese Plagen getötet wurde, bereute nicht die Werke ihrer Hände, dass sie keine Dämonen anbeteten und die Götzen aus Gold, Silber, Erz, Stein und Holz, die nicht sehen, hören oder gehen können. Sie bereuten nicht ihre Morde, ihre Zaubereien, ihre sexuelle Unmoral oder ihre Diebstähle.
+
+### Kapitel 10
+
+Ich sah einen mächtigen Engel vom Himmel herabkommen, bekleidet mit einer Wolke. Ein Regenbogen war auf seinem Kopf. Sein Gesicht war wie die Sonne, und seine Füße wie Feuersäulen. Er hatte in seiner Hand ein kleines offenes Buch. Er stellte seinen rechten Fuß auf das Meer und seinen linken auf das Land. Er rief mit lauter Stimme, wie ein Löwe brüllt. Als er rief, gaben die sieben Donner ihre Stimmen von sich. Als die sieben Donner ertönten, wollte ich schreiben; aber ich hörte eine Stimme vom Himmel sagen: „Versiegle die Dinge, die die sieben Donner gesagt haben, und schreibe sie nicht auf.“
+
+Der Engel, den ich sah, der auf dem Meer und auf dem Land stand, hob seine rechte Hand zum Himmel und schwor bei dem, der von Ewigkeit zu Ewigkeit lebt, der den Himmel und die Dinge darin geschaffen hat, die Erde und die Dinge darauf und das Meer und die Dinge darin, dass es keine Verzögerung mehr geben wird; sondern in den Tagen der Stimme des siebten Engels, wenn er im Begriff ist zu blasen, dann wird das Geheimnis Gottes vollendet sein, wie er es seinen Dienern, den Propheten, verkündet hat.
+
+Die Stimme, die ich vom Himmel hörte und wieder mit mir sprach, sagte: „Geh hin und nimm das Buch, das in der Hand des Engels offen ist, der auf dem Meer und auf dem Land steht.“
+
+Ich ging zu dem Engel und sagte ihm, er solle mir das kleine Buch geben.
+
+Er sagte zu mir: „Nimm es und iss es. Es wird deinen Magen bitter machen, aber in deinem Mund wird es so süß sein wie Honig.“
+
+Ich nahm das kleine Buch aus der Hand des Engels und aß es. Es war so süß wie Honig in meinem Mund. Als ich es gegessen hatte, wurde mein Magen bitter. Sie sagten zu mir: „Du musst wieder über viele Völker, Nationen, Sprachen und Könige prophezeien.“
+
+### Kapitel 11
+
+Mir wurde ein Rohr gegeben, wie ein Messstab. Jemand sagte: „Steh auf und miss den Tempel Gottes und den Altar und die, die darin anbeten. Lass den Vorhof, der außerhalb des Tempels ist, weg und miss ihn nicht, denn er ist den Nationen gegeben worden. Sie werden die heilige Stadt vierundvierzig Monate lang zertreten. Ich werde meinen zwei Zeugen Macht geben, und sie werden eintausendzweihundertsechzig Tage lang in Sackcloth prophezeien.“
+
+Das sind die zwei Olivenbäume und die zwei Leuchter, die vor dem Herrn der Erde stehen. Wenn jemand ihnen schaden will, geht Feuer aus ihrem Mund hervor und verzehrt ihre Feinde. Wenn jemand ihnen schaden will, muss er auf diese Weise getötet werden. Diese haben die Macht, den Himmel zu verschließen, sodass es während der Tage ihrer Prophezeiung nicht regnet. Sie haben Macht über die Wasser, sie in Blut zu verwandeln und die Erde mit jeder Plage zu schlagen, so oft sie wollen.
+
+Wenn sie ihr Zeugnis vollendet haben, wird das Tier, das aus dem Abgrund aufsteigt, Krieg gegen sie führen und sie überwinden und töten. Ihre Leichname werden auf der Straße der großen Stadt liegen, die geistlich Sodom und Ägypten genannt wird, wo auch ihr Herr gekreuzigt wurde. Aus den Völkern, Stämmen, Sprachen und Nationen werden die Menschen ihre Leichname drei Tage und einen halben Tag lang ansehen und nicht erlauben, dass ihre Leichname in ein Grab gelegt werden. Diejenigen, die auf der Erde wohnen, werden sich über sie freuen und froh sein. Sie werden einander Geschenke geben, weil diese beiden Propheten diejenigen gequält haben, die auf der Erde wohnen.
+
+Nach dreieinhalb Tagen trat der Lebensgeist von Gott in sie ein, und sie standen auf ihren Füßen. Großer Schrecken fiel auf die, die sie sahen. Ich hörte eine laute Stimme vom Himmel zu ihnen sagen: „Kommt hierher!“ Sie gingen in einer Wolke in den Himmel hinauf, und ihre Feinde sahen sie. An diesem Tag gab es ein großes Erdbeben, und ein Zehntel der Stadt fiel. Siebentausend Menschen wurden bei dem Erdbeben getötet, und die Übrigen wurden erschreckt und gaben dem Gott des Himmels Ehre.
+
+Das zweite Wehe ist vergangen. Siehe, das dritte Wehe kommt schnell.
+
+Der siebte Engel blies die Posaune, und große Stimmen im Himmel sagten: „Das Königreich der Welt ist das Königreich unseres Herrn und seines Christus geworden. Er wird für immer und ewig regieren!“
+
+Die vierundzwanzig Ältesten, die auf ihren Thronen vor dem Thron Gottes sitzen, fielen auf ihr Angesicht und beteten Gott an und sagten: „Wir danken dir, Herr Gott, der Allmächtige, der ist und der war, denn du hast deine große Macht genommen und regiert. Die Nationen waren zornig, und dein Zorn kam, wie auch die Zeit für die Toten gerichtet zu werden, und um deinen Knechten den Propheten ihren Lohn zu geben sowie den Heiligen und denen, die deinen Namen fürchten, den Kleinen und den Großen, und um diejenigen zu vernichten, die die Erde verderben.“
+
+Der Tempel Gottes im Himmel wurde geöffnet, und die Lade des Bundes des Herrn wurde in seinem Tempel gesehen. Blitze, Stimmen, Donner, ein Erdbeben und großer Hagel folgten.
+
+### Kapitel 12
+
+Ein großes Zeichen wurde im Himmel gesehen: eine Frau bekleidet mit der Sonne und der Mond unter ihren Füßen und auf ihrem Kopf eine Krone von zwölf Sternen. Sie war schwanger und schrie vor Schmerzen, weil sie gebären wollte.
+
+Ein weiteres Zeichen wurde im Himmel gesehen. Siehe, ein großer roter Drache mit sieben Köpfen und zehn Hörnern, und auf seinen Köpfen sieben Kronen. Sein Schwanz zog ein Drittel der Sterne des Himmels herab und warf sie auf die Erde. Der Drache stand vor der Frau, die gebären wollte, damit er ihr Kind verschlingen könnte, sobald sie geboren hatte. Sie gebar einen Sohn, ein männliches Kind, das alle Nationen mit einem eisernen Stab regieren soll. Ihr Kind wurde zu Gott und zu seinem Thron entrückt. Die Frau floh in die Wüste, wo sie einen Ort hat, den Gott für sie bereitet hat, damit sie dort eintausendzweihundertsechzig Tage genährt werden kann.
+
+Es war Krieg im Himmel. Michael und seine Engel führten Krieg gegen den Drachen. Der Drache und seine Engel führten Krieg. Sie konnten nicht bestehen. Es wurde kein Platz mehr für sie im Himmel gefunden. Der große Drache wurde hinabgeworfen, die alte Schlange, derjenige, der Teufel und Satan genannt wird, der Verführer der ganzen Welt. Er wurde auf die Erde hinabgeworfen, und seine Engel wurden mit ihm hinabgeworfen.
+
+Ich hörte eine laute Stimme im Himmel, die sprach: „Jetzt ist das Heil, die Kraft und das Reich unseres Gottes und die Autorität seines Christus gekommen; denn der Ankläger unserer Brüder ist hinabgeworfen worden, der sie Tag und Nacht vor unserem Gott anklagt. Sie haben ihn überwunden durch das Blut des Lammes und durch das Wort ihres Zeugnisses. Sie liebten ihr Leben nicht bis zum Tod. Darum freut euch, ihr Himmel, und ihr, die ihr darin wohnt. Wehe der Erde und dem Meer, denn der Teufel ist zu euch hinabgekommen, voller großer Zorn, wissend, dass er nur eine kurze Zeit hat.“
+
+Als der Drache sah, dass er auf die Erde hinabgeworfen wurde, verfolgte er die Frau, die das männliche Kind geboren hatte. Der Frau wurden zwei Flügel des großen Adlers gegeben, damit sie in die Wüste zu ihrem Ort fliegen könnte, um dort für eine Zeit, Zeiten und eine halbe Zeit vom Angesicht der Schlange genährt zu werden. Die Schlange spuckte Wasser aus ihrem Mund nach der Frau wie einen Strom, damit sie von dem Strom fortgerissen werde. Die Erde half der Frau, und die Erde öffnete ihren Mund und verschlang den Fluss, den der Drache aus seinem Mund gespuckt hatte. Der Drache wurde zornig auf die Frau und ging weg, um Krieg zu führen mit dem Rest ihrer Nachkommen, die die Gebote Gottes halten und das Zeugnis Jesu bewahren.
+
+### Kapitel 13
+
+Dann stand ich auf dem Sand des Meeres. Ich sah ein Tier aus dem Meer aufsteigen, das zehn Hörner und sieben Köpfe hatte. Auf seinen Hörnern waren zehn Kronen, und auf seinen Köpfen waren lästerliche Namen. Das Tier, das ich sah, war wie ein Leopard, und seine Füße waren wie die eines Bären, und sein Mund wie der Mund eines Löwen. Der Drache gab ihm seine Macht, seinen Thron und große Autorität. Einer seiner Köpfe sah aus, als wäre er tödlich verwundet worden. Seine tödliche Wunde wurde geheilt, und die ganze Erde wunderte sich über das Tier. Sie verehrten den Drachen, weil er dem Tier seine Autorität gegeben hatte; und sie verehrten das Tier und sagten: „Wer ist wie das Tier? Wer kann mit ihm Krieg führen?“
+
+Ein Mund, der große Dinge sprach und lästerte, wurde ihm gegeben. Autorität, um vierundvierzig Monate Krieg zu führen, wurde ihm gegeben. Er öffnete seinen Mund zur Lästerung gegen Gott, um seinen Namen, seine Wohnung und die zu lästern, die im Himmel wohnen. Es wurde ihm gegeben, Krieg mit den Heiligen zu führen und sie zu überwinden. Autorität über jeden Stamm, jedes Volk, jede Sprache und jede Nation wurde ihm gegeben. Alle, die auf der Erde wohnen, werden ihn anbeten, jeder dessen Name nicht seit Grundlegung der Welt im Buch des Lebens des Lammes geschrieben ist, das getötet wurde. Wenn jemand ein Ohr hat, der höre. Wenn jemand in Gefangenschaft gehen soll, wird er in Gefangenschaft gehen. Wenn jemand mit dem Schwert getötet werden soll, muss er getötet werden. Hier ist die Geduld und der Glaube der Heiligen.
+
+Ich sah ein anderes Tier aus der Erde aufsteigen. Es hatte zwei Hörner wie ein Lamm und sprach wie ein Drache. Es übt alle Autorität des ersten Tieres in seiner Gegenwart aus. Es bringt die Erde und die darin wohnen dazu, das erste Tier anzubeten, dessen tödliche Wunde geheilt wurde. Es vollbringt große Zeichen und lässt Feuer vom Himmel auf die Erde herabkommen vor den Augen der Menschen. Es verführt die Menschen auf der Erde wegen der Zeichen, die ihm gegeben wurden zu tun vor dem Tier und sagt zu denen, die auf der Erde wohnen, dass sie ein Bild für das Tier machen sollen, das die Schwertwunde hatte und lebte. Es wurde ihm gegeben, dem Bild des Tieres Leben einzuhauchen, sodass das Bild des Tieres sowohl sprechen konnte als auch bewirken konnte, dass alle getötet wurden, die das Bild des Tieres nicht anbeteten. Es bringt alle dazu, den kleinen und den großen, den reichen und den armen sowie den freien und den Sklaven ein Zeichen auf ihrer rechten Hand oder auf ihrer Stirn zu geben; und dass niemand kaufen oder verkaufen kann, es sei denn, er hat dieses Zeichen, welches der Name des Tieres oder die Zahl seines Namens ist. Hier ist Weisheit. Wer Verstand hat, der berechne die Zahl des Tieres; denn es ist die Zahl eines Menschen. Seine Zahl ist sechshundertsechsundsechzig.
+
+### Kapitel 14
+
+Ich sah, und siehe, das Lamm stand auf dem Berg Zion, und mit ihm eine Zahl, einhundertvierundvierzigtausend, die seinen Namen und den Namen seines Vaters auf ihren Stirnen geschrieben hatten. Ich hörte einen Klang vom Himmel, wie den Klang vieler Wasser und wie den Klang eines großen Donners. Der Klang, den ich hörte, war wie das Spiel von Harfenspielern auf ihren Harfen. Sie singen ein neues Lied vor dem Thron und vor den vier lebenden Wesen und den Ältesten. Niemand konnte das Lied lernen außer den einhundertvierundvierzigtausend, die aus der Erde erlöst worden waren. Diese sind die, die sich nicht mit Frauen befleckt haben, denn sie sind Jungfrauen. Diese sind die, die dem Lamm folgen, wohin es auch geht. Diese wurden von Jesus aus den Menschen erlöst, die Erstlinge für Gott und für das Lamm. In ihrem Mund wurde keine Lüge gefunden, denn sie sind untadelig.
+
+Ich sah einen Engel, der mitten im Himmel flog und ein ewiges Evangelium zu verkünden hatte, den Bewohnern der Erde – jeder Nation, jedem Stamm, jeder Sprache und jedem Volk. Er sprach mit lauter Stimme: „Fürchtet den Herrn und gebt ihm die Ehre, denn die Stunde seines Gerichts ist gekommen. Betet den an, der den Himmel, die Erde, das Meer und die Quellen des Wassers gemacht hat!“
+
+Ein anderer, ein zweiter Engel folgte und sprach: „Babylon, die Große, ist gefallen, die alle Nationen dazu gebracht hat, von dem Wein des Zorns ihrer Unzucht zu trinken.“
+
+Ein weiterer Engel, ein dritter, folgte ihnen und sprach mit großer Stimme: „Wenn jemand das Tier anbetet und sein Bild und ein Zeichen auf seiner Stirn oder auf seiner Hand empfängt, der wird auch von dem Wein des Zorns Gottes trinken, der unverdünnt in dem Becher seines Zorns bereitet ist. Er wird mit Feuer und Schwefel gequält werden in Gegenwart der heiligen Engel und in Gegenwart des Lammes. Der Rauch ihrer Qual steigt auf von Ewigkeit zu Ewigkeit. Sie haben keine Ruhe Tag und Nacht, die das Tier und sein Bild anbeten und wer das Zeichen seines Namens empfängt.
+
+Hier ist das Durchhaltevermögen der Heiligen, die die Gebote Gottes und den Glauben an Jesus bewahren.“
+
+Ich hörte eine Stimme vom Himmel sagen: „Schreibe: ‚Selig sind die Toten, die im Herrn sterben von nun an.‘“
+
+„Ja,“ sagt der Geist, „dass sie ruhen mögen von ihren Mühen, denn ihre Werke folgen mit ihnen.“
+
+Ich schaute und sah eine weiße Wolke, und auf der Wolke saß einer wie ein Menschensohn, der auf seinem Kopf eine goldene Krone hatte und in seiner Hand eine scharfe Sichel. Ein anderer Engel kam aus dem Tempel und rief mit lauter Stimme zu dem, der auf der Wolke saß: „Sende deine Sichel und ernte, denn die Stunde zu ernten ist gekommen; denn die Ernte der Erde ist reif!“ Der, der auf der Wolke saß, schwang seine Sichel über die Erde, und die Erde wurde geerntet.
+
+Ein anderer Engel kam aus dem Tempel, der im Himmel ist. Auch er hatte eine scharfe Sichel. Ein anderer Engel kam aus dem Altar, der Macht über das Feuer hat, und rief mit großer Stimme zu dem, der die scharfe Sichel hatte: „Sende deine scharfe Sichel und sammle die Trauben des Weinstocks der Erde, denn die Trauben der Erde sind vollreif!“ Der Engel schwang seine Sichel über die Erde und sammelte die Weinlese der Erde und warf sie in die große Kelter des Zorns Gottes. Die Kelter wurde außerhalb der Stadt getreten, und Blut kam aus der Kelter bis zu den Zaumzeugen der Pferde, so weit wie eintausendsechshundert Stadien.
+
+### Kapitel 15
+
+Ich sah ein weiteres großes und wunderbares Zeichen am Himmel: sieben Engel mit den sieben letzten Plagen; denn in ihnen ist der Zorn Gottes vollendet.
+
+Ich sah etwas wie ein gläsernes Meer, vermischt mit Feuer, und diejenigen, die das Tier überwunden hatten, sein Bild und die Zahl seines Namens, standen am gläsernen Meer und hatten Harfen Gottes. Sie sangen das Lied Moses, des Dieners Gottes, und das Lied des Lammes und sprachen:
+
+„Groß und wunderbar sind deine Werke, Herr Gott, der Allmächtige!
+
+Gerecht und wahrhaftig sind deine Wege, du König der Nationen.
+
+Wer würde dich nicht fürchten, Herr,
+
+und deinen Namen verherrlichen?
+
+Denn du allein bist heilig.
+
+Denn alle Nationen werden kommen und vor dir anbeten.
+
+Denn deine gerechten Taten sind offenbar geworden.“
+
+Nach diesen Dingen schaute ich und der Tempel der Stiftshütte des Zeugnisses im Himmel wurde geöffnet. Die sieben Engel, die die sieben Plagen hatten, kamen heraus, bekleidet mit reinem, strahlendem Leinen und trugen goldene Gürtel um ihre Brüste.
+
+Eines der vier lebenden Wesen gab den sieben Engeln sieben goldene Schalen, voll mit dem Zorn Gottes, der von Ewigkeit zu Ewigkeit lebt. Der Tempel war mit Rauch erfüllt von der Herrlichkeit Gottes und von seiner Macht. Niemand konnte in den Tempel eintreten, bis die sieben Plagen der sieben Engel vollendet waren.
+
+### Kapitel 16
+
+Ich hörte eine laute Stimme aus dem Tempel, die zu den sieben Engeln sprach: „Geht und gießt die sieben Schalen des Zorns Gottes auf die Erde aus!“
+
+Der erste ging und goss seine Schale auf die Erde, und es wurde ein schädliches und schmerzhaftes Geschwür auf den Menschen, die das Malzeichen des Tieres hatten und sein Bild anbeteten.
+
+Der zweite Engel goss seine Schale ins Meer, und es wurde Blut wie von einem toten Mann. Alles Lebendige im Meer starb.
+
+Der dritte goss seine Schale in die Flüsse und Quellen des Wassers, und sie wurden Blut. Ich hörte den Engel der Wasser sagen: „Du bist gerecht, der du bist und der du warst, o Heiliger, denn du hast diese Dinge gerichtet. Denn sie haben das Blut der Heiligen und der Propheten vergossen, und du hast ihnen Blut zu trinken gegeben. Sie verdienen dies.“
+
+Ich hörte den Altar sagen: „Ja, Herr Gott, der Allmächtige, wahrhaftig und gerecht sind deine Urteile.“
+
+Der vierte goss seine Schale auf die Sonne, und es wurde ihm gegeben, die Menschen mit Feuer zu versengen. Die Menschen wurden mit großer Hitze versengt, und sie lästerten den Namen Gottes, der Macht über diese Plagen hat. Sie taten Buße nicht und gaben ihm keine Ehre.
+
+Der fünfte goss seine Schale auf den Thron des Tieres, und sein Reich wurde verdunkelt. Sie nagten an ihren Zungen wegen des Schmerzes und lästerten den Gott des Himmels wegen ihrer Schmerzen und ihrer Geschwüre. Sie taten immer noch keine Buße von ihren Werken.
+
+Der sechste goss seine Schale auf den großen Fluss Euphrat. Sein Wasser wurde trocken gelegt, damit der Weg bereitet werde für die Könige, die aus dem Osten kommen. Ich sah drei unreine Geister aus dem Mund des Drachen, aus dem Mund des Tieres und aus dem Mund des falschen Propheten kommen, etwas wie Frösche; denn es sind Geister von Dämonen, die Zeichen tun und zu den Königen der ganzen bewohnten Erde hinausgehen, um sie zum Krieg an dem großen Tag Gottes, des Allmächtigen, zu versammeln.
+
+„Siehe, ich komme wie ein Dieb. Selig ist, der wacht und seine Kleider bewahrt, damit er nicht nackt wandelt und sie seine Schande sehen.“ Er versammelte sie an den Ort, der auf Hebräisch „Harmagedon“ genannt wird.
+
+Der siebte goss seine Schale in die Luft. Eine laute Stimme kam aus dem Tempel des Himmels vom Thron und sprach: „Es ist vollbracht!“ Es gab Blitze, Stimmen und Donner; und es gab ein großes Erdbeben, wie es seitdem es Menschen auf der Erde gibt, nicht geschehen ist – so ein großes Erdbeben und so gewaltig. Die große Stadt wurde in drei Teile geteilt, und die Städte der Nationen fielen. Babylon die Große wurde in den Augen Gottes erinnert, um ihr den Becher des Weines des Zorns seiner Fierce zu geben. Jede Insel floh weg, und die Berge wurden nicht gefunden. Große Hagelkörner, etwa im Gewicht eines Talents, fielen vom Himmel auf die Menschen. Die Menschen lästerten Gott wegen der Plage des Hagels; denn diese Plage war überaus heftig.
+
+### Kapitel 17
+
+Einer der sieben Engel, die die sieben Schalen hatten, kam und sprach mit mir und sagte: „Komm her. Ich will dir das Urteil über die große Hure zeigen, die auf vielen Wassern sitzt, mit der die Könige der Erde Unzucht getrieben haben. Die Bewohner der Erde wurden betrunken von dem Wein ihrer Unzucht.“ Er führte mich im Geist in eine Wüste. Ich sah eine Frau auf einem scharlachroten Tier sitzen, das voller lästerlicher Namen war und sieben Köpfe und zehn Hörner hatte. Die Frau war in Purpur und Scharlach gekleidet und geschmückt mit Gold und kostbaren Steinen und Perlen; in ihrer Hand hielt sie einen goldenen Becher voller Gräuel und der Unreinheiten der Unzucht der Erde. Und auf ihrer Stirn war ein Name geschrieben: „GEHEIMNIS, BABYLON DIE GROSSE, DIE MUTTER DER HUREN UND DER GRÄUEL DER ERDE.“ Ich sah die Frau betrunken vom Blut der Heiligen und vom Blut der Märtyrer Jesu. Als ich sie sah, wunderte ich mich mit großer Verwunderung.
+
+Der Engel sagte zu mir: „Warum wunderst du dich? Ich werde dir das Geheimnis der Frau und des Tieres, das sie trägt, erzählen, das sieben Köpfe und zehn Hörner hat. Das Tier, das du gesehen hast, war und ist nicht; und es wird aus dem Abgrund aufsteigen und ins Verderben gehen. Die Bewohner der Erde, deren Namen nicht im Buch des Lebens seit der Grundlegung der Welt geschrieben sind, werden staunen, wenn sie sehen, dass das Tier war und nicht ist und gegenwärtig sein wird.
+
+Hier ist der Verstand, der Weisheit hat. Die sieben Köpfe sind sieben Berge, auf denen die Frau sitzt. Sie sind sieben Könige. Fünf sind gefallen, einer ist, und der andere ist noch nicht gekommen. Wenn er kommt, muss er eine kleine Weile bleiben. Das Tier, das war und nicht ist, ist selbst auch ein achter und gehört zu den sieben; und es geht ins Verderben. Die zehn Hörner, die du gesehen hast, sind zehn Könige, die noch kein Königreich empfangen haben, aber sie erhalten Autorität als Könige mit dem Tier für eine Stunde. Diese haben einen Sinn und geben ihre Macht und Autorität dem Tier. Diese werden gegen das Lamm kämpfen, und das Lamm wird sie überwinden, denn es ist Herr der Herren und König der Könige; und die mit ihm sind, sind berufen, auserwählt und treu.“ Er sagte zu mir: „Die Wasser, die du gesehen hast, wo die Prostituierte sitzt, sind Völker, Massen, Nationen und Sprachen. Die zehn Hörner, die du gesehen hast, sie und das Tier werden die Prostituierte hassen, sie verwüsten, sie nackt ausziehen, ihr Fleisch essen und sie völlig mit Feuer verbrennen. Denn Gott hat in ihre Herzen gelegt, zu tun, was er im Sinn hat, einmütig zu sein und ihr Königreich dem Tier zu geben, bis die Worte Gottes erfüllt sind. Die Frau, die du gesehen hast, ist die große Stadt, die über die Könige der Erde herrscht.“
+
+### Kapitel 18
+
+Nach diesen Dingen sah ich einen anderen Engel vom Himmel herabkommen, der große Autorität hatte. Die Erde wurde von seiner Herrlichkeit erleuchtet. Er rief mit mächtiger Stimme: „Gefallen, gefallen ist Babylon die Große, und sie ist zur Wohnung von Dämonen geworden, ein Gefängnis jedes unreinen Geistes und ein Gefängnis jeder unreinen und gehassten Vogel! Denn alle Nationen haben vom Wein des Zorns ihrer sexuellen Unmoral getrunken; die Könige der Erde haben sich mit ihr in sexueller Unmoral verstrickt, und die Kaufleute der Erde sind durch den Überfluss ihrer Luxusgüter reich geworden.“
+
+Ich hörte eine andere Stimme vom Himmel sagen: „Geht hinaus aus ihr, mein Volk, damit ihr keinen Anteil an ihren Sünden habt und damit ihr nicht von ihren Plagen empfangt; denn ihre Sünden sind bis zum Himmel gelangt, und Gott hat sich ihrer Ungerechtigkeiten erinnert. Kehre zu ihr zurück, wie sie zurückgekehrt ist, und vergib ihr doppelt, wie sie getan hat, und entsprechend ihren Werken. In dem Becher, den sie gemischt hat, mische ihr doppelt. So viel sie sich verherrlicht hat und sich ausschweifend verhalten hat, so viel gib ihr von Qual und Trauer. Denn sie sagt in ihrem Herzen: ‚Ich sitze als Königin und bin keine Witwe und werde in keiner Weise Trauer sehen.‘ Daher werden an einem Tag ihre Plagen kommen: Tod, Trauer und Hunger; und sie wird völlig mit Feuer verbrannt werden; denn der Herr Gott, der sie gerichtet hat, ist stark.
+
+Die Könige der Erde, die sich mit ihr in sexueller Unmoral verstrickt haben und ausschweifend mit ihr gelebt haben, werden über sie weinen und klagen, wenn sie den Rauch ihrer Verbrennung sehen; sie stehen weit entfernt aus Angst vor ihrer Qual und sagen: ‚Wehe! Wehe! Die große Stadt Babylon! Die starke Stadt! Denn dein Gericht ist in einer Stunde gekommen.‘ Die Kaufleute der Erde weinen und trauern über sie; denn niemand kauft ihre Waren mehr: Waren aus Gold, Silber, kostbaren Steinen, Perlen, feinem Leinen, Purpur, Seide, Scharlachrot, alles teure Holz, jedes Gefäß aus Elfenbein, jedes Gefäß aus den kostbarsten Hölzern sowie aus Messing und Eisen und Marmor; Zimt, Weihrauch, Parfüm, Myrrhe, Wein, Olivenöl, feines Mehl, Weizen, Vieh, Schafe, Pferde, Wagen und Menschenkörper und -seelen. Die Früchte, nach denen deine Seele gelüstete, sind dir verloren gegangen. Alle Dinge, die köstlich und prächtig waren, sind von dir verschwunden; du wirst sie nie mehr finden. Die Kaufleute dieser Dinge, die durch sie reich geworden sind, werden aus Angst vor ihrer Qual weit entfernt stehen und weinen und trauern und sagen: ‚Wehe! Wehe! Die große Stadt! Sie wurde in feinem Leinen gekleidet, in Purpur und Scharlachrot und geschmückt mit Gold und kostbaren Steinen und Perlen! Denn in einer Stunde sind so große Reichtümer verwüstet worden.‘ Jeder Schiffsmeister und alle Seefahrer sowie alle Marinern und so viele wie ihren Lebensunterhalt auf dem Meer verdienen, standen weit entfernt und riefen aus als sie den Rauch ihrer Verbrennung sahen: ‚Was ist gleich der großen Stadt?‘ Sie warfen Staub auf ihre Köpfe und riefen weinend und klagend: ‚Wehe! Wehe! Die große Stadt! In der alle reich wurden durch ihren großen Reichtum!‘ Denn sie ist in einer Stunde verwüstet worden.
+
+„Freut euch über sie, o Himmel, ihr Heiligen, Apostel und Propheten, denn Gott hat euer Urteil über sie gerichtet.“
+
+Ein mächtiger Engel nahm einen Stein wie einen großen Mühlstein und warf ihn ins Meer und sprach: „So wird Babylon, die große Stadt, mit Gewalt niedergeworfen werden und wird nicht mehr gefunden werden. Die Stimme der Harfenspieler, der Sänger, der Flötenspieler und der Trompeter wird nicht mehr in dir gehört werden. Kein Handwerker irgendeines Handwerks wird mehr in dir gefunden werden. Der Klang einer Mühle wird nicht mehr in dir gehört werden. Das Licht einer Lampe wird nicht mehr in dir scheinen. Die Stimme des Bräutigams und der Braut wird nicht mehr in dir gehört werden, denn deine Händler waren die Fürsten der Erde; denn durch deine Zauberei wurden alle Nationen verführt. In ihr wurde das Blut der Propheten und der Heiligen gefunden und das Blut aller, die auf der Erde getötet wurden.“
+
+### Kapitel 19
+
+Nach diesen Dingen hörte ich etwas wie eine laute Stimme einer großen Menge im Himmel, die sprach: „Halleluja! Heilung, Macht und Herrlichkeit gehören unserem Gott; denn seine Urteile sind wahr und gerecht. Denn er hat die große Hure gerichtet, die die Erde mit ihrer Unzucht verdorben hat, und er hat das Blut seiner Diener an ihrer Hand gerächt.“
+
+Ein zweiter sprach: „Halleluja! Ihr Rauch steigt auf von Ewigkeit zu Ewigkeit.“ Die vierundzwanzig Ältesten und die vier lebenden Wesen fielen nieder und beteten Gott an, der auf dem Thron sitzt, und sprachen: „Amen! Halleluja!“
+
+Eine Stimme kam vom Thron und sprach: „Lobt unseren Gott, alle seine Diener, die ihr ihn fürchtet, die Kleinen und die Großen!“
+
+Ich hörte etwas wie die Stimme einer großen Menge und wie die Stimme vieler Wasser und wie die Stimme mächtiger Donner, die sprachen: „Halleluja! Denn der Herr, unser Gott, der Allmächtige, regiert! Lasst uns freuen und uns überaus freuen und ihm die Ehre geben. Denn die Hochzeit des Lammes ist gekommen, und seine Frau hat sich bereit gemacht.“ Es wurde ihr gegeben, dass sie sich in leuchtend, rein, feines Leinen kleiden sollte; denn das feine Leinen sind die gerechten Taten der Heiligen.
+
+Er sagte zu mir: „Schreibe: ‚Selig sind die, die zum Hochzeitsmahl des Lammes eingeladen sind.‘“ Er sagte zu mir: „Das sind wahre Worte Gottes.“
+
+Ich fiel vor seinen Füßen nieder, um ihn anzubeten. Er sagte zu mir: „Sieh zu! Tu es nicht! Ich bin ein Mitknecht wie du und deine Brüder, die das Zeugnis Jesu haben. Betet Gott an; denn das Zeugnis Jesu ist der Geist der Prophezeiung.“
+
+Ich sah den Himmel geöffnet, und siehe, ein weißes Pferd, und der darauf saß, heißt Treu und Wahrhaftig. In Gerechtigkeit richtet er und führt Krieg. Seine Augen sind eine Flamme von Feuer, und auf seinem Kopf sind viele Kronen. Er hat Namen geschrieben und einen Namen geschrieben, den niemand kennt als nur er selbst. Er ist bekleidet mit einem Gewand, das mit Blut besprengt ist. Sein Name heißt „Das Wort Gottes.“ Die Heerscharen, die im Himmel sind, bekleidet mit weißem, reinem, feinem Leinen, folgten ihm auf weißen Pferden. Aus seinem Mund geht ein scharfes, zweischneidiges Schwert hervor, mit dem er die Nationen schlagen soll. Er wird sie mit einem eisernen Zepter regieren. Er tritt die Kelter des Grimms des Zorns Gottes, des Allmächtigen. Auf seinem Gewand und auf seinem Oberschenkel steht ein Name geschrieben: „KÖNIG DER KÖNIGE UND HERR DER HERRN.“
+
+Ich sah einen Engel stehen in der Sonne. Er rief mit lauter Stimme zu allen Vögeln, die im Himmel fliegen: „Kommt! Versammelt euch zum großen Mahl Gottes, dass ihr das Fleisch der Könige essen könnt, das Fleisch der Hauptleute, das Fleisch der mächtigen Männer und das Fleisch der Pferde und der darauf sitzen sowie das Fleisch aller Menschen, sowohl Freien als auch Sklaven, kleinen und großen.“ Ich sah das Tier und die Könige der Erde und ihre Heere versammelt, um Krieg zu führen gegen den, der auf dem Pferd saß und gegen sein Heer. Das Tier wurde ergriffen, und mit ihm der falsche Prophet, der die Zeichen in seiner Gegenwart tat, mit denen er die verführte, die das Malzeichen des Tieres empfangen hatten und sein Bild anbeteten. Diese beiden wurden lebendig in den Feuersee geworfen, der mit Schwefel brennt. Der Rest wurde getötet mit dem Schwert dessen, der auf dem Pferd saß, dem Schwert, das aus seinem Mund kam. So wurden alle Vögel mit ihrem Fleisch gesättigt.
+
+### Kapitel 20
+
+Ich sah einen Engel aus dem Himmel herabkommen, der den Schlüssel des Abgrunds und eine große Kette in seiner Hand hatte. Er ergriff den Drachen, die alte Schlange, die der Teufel und Satan ist, der die ganze bewohnte Erde verführt, und band ihn für tausend Jahre und warf ihn in den Abgrund und schloss ihn zu und versiegelte ihn über ihm, damit er die Nationen nicht mehr verführen sollte, bis die tausend Jahre vollendet wären. Nach diesem muss er für eine kurze Zeit losgelassen werden.
+
+Ich sah Throne, und sie saßen darauf, und das Gericht wurde ihnen gegeben. Ich sah die Seelen derer, die um des Zeugnisses Jesu und um das Wort Gottes willen enthauptet worden waren, und solche, die das Tier und sein Bild nicht anbeteten und das Malzeichen nicht auf ihrer Stirn und auf ihrer Hand empfingen. Sie lebten und regierten mit Christus tausend Jahre. Die übrigen Toten lebten nicht, bis die tausend Jahre vollendet waren. Dies ist die erste Auferstehung. Selig und heilig ist, der Anteil hat an der ersten Auferstehung. Über diese hat der zweite Tod keine Macht, sondern sie werden Priester Gottes und Christi sein und mit ihm tausend Jahre regieren.
+
+Und nach den tausend Jahren wird Satan aus seinem Gefängnis losgelassen werden, und er wird herauskommen, um die Nationen zu verführen, die an den vier Ecken der Erde sind, Gog und Magog, um sie zum Krieg zu versammeln, deren Zahl wie der Sand des Meeres ist. Sie zogen über die Breite der Erde und umzingelten das Lager der Heiligen und die geliebte Stadt. Feuer fiel vom Himmel von Gott herab und verzehrte sie. Der Teufel, der sie verführt hatte, wurde in den Feuersee geworfen, wo das Tier und der falsche Prophet sind. Sie werden Tag und Nacht gequält werden in alle Ewigkeit.
+
+Ich sah einen großen weißen Thron und den, der darauf saß, vor dessen Angesicht die Erde und der Himmel flohen. Es wurde kein Platz für sie gefunden. Ich sah die Toten, die Großen und die Kleinen, vor dem Thron stehen, und sie öffneten Bücher. Ein anderes Buch wurde geöffnet, das ist das Buch des Lebens. Die Toten wurden gerichtet aus dem, was in den Büchern geschrieben stand, nach ihren Werken. Das Meer gab die Toten heraus, die darin waren. Der Tod und das Hades gaben die Toten heraus, die in ihnen waren. Sie wurden gerichtet, jeder nach seinen Werken. Der Tod und das Hades wurden in den Feuersee geworfen. Dies ist der zweite Tod, der Feuersee. Wenn jemand nicht im Buch des Lebens gefunden wurde, wurde er in den Feuersee geworfen.
+
+### Kapitel 21
+
+Ich sah einen neuen Himmel und eine neue Erde; denn der erste Himmel und die erste Erde waren vergangen, und das Meer ist nicht mehr. Ich sah die heilige Stadt, das neue Jerusalem, aus dem Himmel von Gott herabkommen, bereitet wie eine Braut, geschmückt für ihren Mann. Ich hörte eine laute Stimme aus dem Himmel sagen: „Siehe, Gottes Wohnung ist bei den Menschen; und er wird bei ihnen wohnen, und sie werden sein Volk sein, und Gott selbst wird bei ihnen sein als ihr Gott. Und er wird jede Träne von ihren Augen abwischen. Der Tod wird nicht mehr sein; weder Trauer noch Geschrei noch Schmerz wird mehr sein; denn das Erste ist vergangen.“
+
+Und der auf dem Thron saß, sprach: „Siehe, ich mache alles neu.“ Und er sprach: „Schreibe; denn diese Worte Gottes sind treu und wahr.“ Und er sprach zu mir: „Ich bin das Alpha und das Omega, der Anfang und das Ende. Ich will dem Durstigen umsonst von der Quelle des Wassers des Lebens geben. Wer überwindet, dem will ich diese Dinge geben. Ich werde sein Gott sein, und er wird mein Sohn sein. Aber den Feigen und Ungläubigen, den Sündern, den abscheulichen Mördern, den Unzüchtigen, den Zauberern, den Götzendienern und allen Lügnern gehört ihr Teil im Feuersee, der mit Feuer und Schwefel brennt; dies ist der zweite Tod.“
+
+Einer von den sieben Engeln, die die sieben Schalen mit den sieben letzten Plagen hatten, kam zu mir und sprach mit mir: „Komm her! Ich will dir die Braut zeigen, die Frau des Lammes.“ Er brachte mich im Geist auf einen großen und hohen Berg und zeigte mir die heilige Stadt Jerusalem, die aus dem Himmel von Gott herabkam, mit der Herrlichkeit Gottes. Ihr Licht war wie ein kostbarer Stein, wie ein Jaspisstein, klar wie Kristall; sie hatte eine große und hohe Mauer mit zwölf Toren, und an den Toren zwölf Engel und Namen darauf geschrieben, das sind die Namen der zwölf Stämme der Kinder Israel. Im Osten waren drei Tore, im Norden drei Tore, im Süden drei Tore und im Westen drei Tore. Die Mauer der Stadt hatte zwölf Grundsteine, und auf ihnen standen zwölf Namen der zwölf Apostel des Lammes.
+
+Der, der mit mir sprach, hatte ein goldenes Rohr als Maß, um die Stadt, ihre Tore und ihre Mauern zu messen. Die Stadt ist quadratisch. Ihre Länge ist so groß wie ihre Breite. Er maß die Stadt mit dem Rohr: zwölf tausend zwölf Stadien. Ihre Länge, Breite und Höhe sind gleich. Ihre Mauer ist einhundertvierundvierzig Ellen, nach dem Maß eines Menschen, das heißt, eines Engels. Der Bau ihrer Mauer war aus Jaspis. Die Stadt war reines Gold, wie reines Glas. Die Fundamente der Stadtmauer waren geschmückt mit allerlei kostbaren Steinen. Das erste Fundament war Jaspis, das zweite Saphir; das dritte Chalcedon, das vierte Smaragd, das fünfte Sardonyx, das sechste Sardius, das siebte Chrysolith, das achte Beryll, das neunte Topas, das zehnte Chrysopras, das elfte Hyazinth und das zwölfte Amethyst. Die zwölf Tore waren zwölf Perlen. Jedes der Tore war aus einer Perle gemacht. Die Straße der Stadt war reines Gold, wie transparentes Glas.
+
+Ich sah keinen Tempel darin, denn der Herr Gott, der Allmächtige, und das Lamm sind ihr Tempel. Die Stadt benötigt weder die Sonne noch den Mond, um zu scheinen, denn die Herrlichkeit Gottes erleuchtet sie und ihr Licht ist das Lamm. Die Nationen werden in ihrem Licht wandeln. Die Könige der Erde bringen die Herrlichkeit und Ehre der Nationen in sie hinein. Ihre Tore werden tagsüber in keiner Weise geschlossen (denn dort wird es keine Nacht geben), und sie werden die Herrlichkeit und die Ehre der Nationen in sie bringen, damit sie eintreten können. In sie wird in keiner Weise etwas Unheiliges oder jemand, der eine Abscheulichkeit oder eine Lüge verursacht, eintreten, sondern nur die, die im Buch des Lebens des Lammes geschrieben sind.
+
+### Kapitel 22
+
+Er zeigte mir einen Fluss von Wasser des Lebens, klar wie Kristall, der aus dem Thron Gottes und des Lammes floss, in der Mitte seiner Straße. Auf dieser Seite des Flusses und auf jener stand der Baum des Lebens, der zwölf Arten von Früchten trug und jeden Monat seine Frucht gab. Die Blätter des Baumes waren zur Heilung der Nationen. Es wird keinen Fluch mehr geben. Der Thron Gottes und des Lammes wird darin sein, und seine Diener werden ihm dienen. Sie werden sein Angesicht sehen, und sein Name wird auf ihren Stirnen sein. Es wird keine Nacht mehr geben, und sie benötigen kein Lampenlicht oder Sonnenlicht; denn der Herr Gott wird sie erleuchten. Sie werden von Ewigkeit zu Ewigkeit regieren.
+
+Er sagte zu mir: „Diese Worte sind treu und wahr. Der Herr Gott der Geister der Propheten hat seinen Engel gesandt, um seinen Knechten die Dinge zu zeigen, die bald geschehen müssen.“
+
+„Siehe, ich komme bald! Selig ist, der die Worte der Prophezeiung dieses Buches bewahrt.“
+
+Jetzt bin ich, Johannes, derjenige, der diese Dinge gehört und gesehen hat. Als ich hörte und sah, fiel ich nieder, um vor den Füßen des Engels zu beten, der mir diese Dinge gezeigt hatte. Er sagte zu mir: „Du darfst das nicht tun! Ich bin ein Mitknecht von dir und von deinen Brüdern, den Propheten, und von denen, die die Worte dieses Buches bewahren. Verehre Gott.“ Er sagte zu mir: „Versiegle die Worte der Prophezeiung dieses Buches nicht, denn die Zeit ist nahe. Wer ungerecht handelt, lasse ihn weiterhin ungerecht handeln. Wer unrein ist, lasse ihn weiterhin unrein sein. Wer gerecht ist, lasse ihn weiterhin Gerechtigkeit tun. Wer heilig ist, lasse ihn weiterhin heilig sein.“
+
+„Siehe, ich komme bald! Mein Lohn ist bei mir, um jedem nach seinem Werk zu vergelten. Ich bin das Alpha und das Omega, der Erste und der Letzte, der Anfang und das Ende. Selig sind die, die seine Gebote tun, damit sie das Recht zum Baum des Lebens haben und durch die Tore in die Stadt eingehen können. Draußen sind die Hunde, die Zauberer, die Unzüchtigen, die Mörder, die Götzendiener und jeder, der Lüge liebt und praktiziert. Ich, Jesus, habe meinen Engel gesandt, um euch diese Dinge für die Versammlungen zu bezeugen. Ich bin die Wurzel und der Nachkomme Davids, der helle Morgenstern.“
+
+Der Geist und die Braut sagen: „Komm!“ Und wer hört, der sage: „Komm!“ Und wer durstig ist, der komme. Und wer will, der nehme das Wasser des Lebens umsonst.
+
+Ich bezeuge jedem, der die Worte der Prophezeiung dieses Buches hört: Wenn jemand etwas hinzufügt, wird Gott ihm die Plagen hinzufügen, die in diesem Buch geschrieben sind. Wenn jemand von den Worten des Buches dieser Prophezeiung wegnimmt, wird Gott seinen Teil vom Baum des Lebens und aus der heiligen Stadt wegnehmen, die in diesem Buch geschrieben sind. Derjenige, der diese Dinge bezeugt sagt: „Ja, ich komme bald.“
+
+Amen! Ja, komm, Herr Jesus!
+
+Die Gnade des Herrn Jesus Christus sei mit allen Heiligen. Amen.
+
+## Glossar
+
+### Glossar der Welt-Englisch-Bibel
+
+Die folgenden Wörter, die in der Welt-Englisch-Bibel (WEB) verwendet werden, sind nicht sehr gebräuchlich, entweder weil sie sich auf alte Gewichte, Maße oder Geld beziehen oder weil sie in irgendeiner Weise einzigartig für die Bibel sind.
+
+Abaddon: Abaddon ist Hebräisch für Zerstörung.
+
+Abba: Abba ist ein chaldäisches Wort für Vater, das respektvoll, liebevoll und vertraut verwendet wird, ähnlich wie Papa, Dad oder Daddy. Oft in Gebeten verwendet, um auf unseren Vater im Himmel zu verweisen.
+
+Ehebruch: Ehebruch ist der Geschlechtsverkehr mit jemandem außer deinem eigenen Ehemann oder deiner eigenen Ehefrau. In der Bibel ist der einzige legitime Geschlechtsverkehr zwischen einem Mann und einer Frau, die miteinander verheiratet sind.
+
+Alpha: Alpha ist der erste Buchstabe des griechischen Alphabets. Manchmal wird es verwendet, um den Anfang oder das Erste zu bedeuten.
+
+Amen: Amen bedeutet „So sei es“ oder „Ich glaube, dass es sicherlich so ist.“
+
+Engel: „Engel“ bedeutet wörtlich „Bote“ oder „Gesandter“ und wird normalerweise verwendet, um sich auf geistige Wesen zu beziehen, die uns normalerweise unsichtbar sind, aber auch als äußerst starke Kreaturen oder als Menschen erscheinen können.
+
+Apollyon: Apollyon ist Griechisch für Zerstörer.
+
+Apostel: „Apostel“ bedeutet einen Delegierten, Boten oder jemanden, der mit Aufträgen gesandt wird. Dieser Begriff wird im Neuen Testament sowohl in einem allgemeinen Sinne verwendet, der mit einem Dienst zur Gründung und Stärkung von Kirchgemeinden verbunden ist, als auch in einem spezifischen Sinne für „Die 12 Apostel des Lammes“ (Offenbarung 21:14). Die erste Kategorie bezieht sich auf einen spezifischen Dienst, der in der Kirche fortgesetzt wird (Epheser 4:11-13) und der viele mehr als 12 Personen umfasst, während letzteres sich auf die in Matthäus 10:2-4 genannten Apostel bezieht, mit Ausnahme von Judas Iskariot, der durch Matthias ersetzt wurde (Apostelgeschichte 1:26).
+
+Armageddon: Siehe Har-magedon.
+
+Assarion: Ein Assarion ist eine kleine römische Kupfermünze im Wert von einem Zehntel einer Drachme oder etwa einem Stundenlohn für einen landwirtschaftlichen Arbeiter.
+
+Aureus: Ein Aureus ist eine römische Goldmünze im Wert von 25 Silberdenarien. Ein Aureus wog zwischen 115 und 126,3 Körnern (7,45 bis 8,18 Gramm).
+
+taufen: Taufen bedeutet, in etwas einzutauchen oder mit etwas zu waschen, normalerweise Wasser. Die Taufe im Heiligen Geist, Feuer, dem Leib Christi und das Leiden werden ebenfalls im Neuen Testament erwähnt, zusammen mit der Wassertaufe. Die Taufe dient nicht nur zur Reinigung des Körpers, sondern als äußeres Zeichen einer inneren geistlichen Reinigung und Verpflichtung. Die Taufe ist ein Zeichen der Buße, wie sie von Johannes dem Täufer praktiziert wurde, und des Glaubens an Jesus Christus, wie sie von den Jüngern Jesu praktiziert wurde.
+
+Bad: Ein Bad ist ein Flüssigkeitsmaß von etwa 22 Litern, 5,8 US-Gallonen oder 4,8 imperialen Gallonen.
+
+Batos: Ein Batos ist ein Flüssigkeitsmaß von etwa 39,5 Litern, 10,4 US-Gallonen oder 8,7 imperialen Gallonen.
+
+Beelzebul: wörtlich Herr der Fliegen. Ein Name für den Teufel.
+
+Beerscheba: Beerscheba ist Hebräisch für „Brunnen des Schwurs“ oder „Brunnen der sieben.“ Eine Stadt in Israel.
+
+siehe: Schau! Sieh! Wow! Beachte dies! Siehe!
+
+Cherub: Ein Cherub ist eine Art Engel mit Flügeln und Händen, die mit dem Thronsaal Gottes und Wächterpflichten assoziiert wird. Siehe Hesekiel 10.
+
+Cherubim: Cherubim bedeutet mehr als ein Cherub oder ein mächtiger Cherub.
+
+Choenix: Ein Choenix ist ein trockenes Volumenmaß, das etwas mehr als ein Liter (was etwas mehr als ein Quart ist) entspricht. Ein Choenix war die tägliche Ration an Getreide für einen Soldaten in einigen Armeen.
+
+Nebenfrau: Eine Frau, die mit einem Mann verbunden ist, um ihm sexuelle Freude und Kinder zu geben, aber nicht als vollwertige Partnerin in der Ehe anerkannt wird; eine Frau zweiter Klasse. In biblischen Zeiten (und an einigen Orten jetzt) war es Brauch unter nahöstlichen Königen, Häuptlingen und wohlhabenden Männern, mehrere Frauen und Nebenfrauen zu heiraten. Gott befahl jedoch den Königen von Israel, dies nicht zu tun (5. Mose 17:17), und Jesus ermutigte die Menschen dazu, entweder ledig zu bleiben oder zu heiraten, wie Gott ursprünglich beabsichtigt hatte: ein Mann verheiratet mit einer Frau (Matthäus 19:3-12; 1. Korinther 7:1-13).
+
+Kor: Ein Kor ist ein trockenes Maß von etwa 391 Litern, 103 US-Gallonen oder 86 imperialen Gallonen.
+
+corban: Corban ist ein hebräisches Wort für ein Gott gewidmetes Opfer.
+
+kreuzigen: Kreuzen bedeutet, jemanden durch das Nageln an ein Kreuz mit Metallspitzen hinzurichten. Die Hände des Opfers sind auf dem Querbalken ausgestreckt, wobei Spitzen durch seine Handgelenke oder Hände getrieben werden. Die Füße oder Knöchel sind mit einem Metallstift an einem Kreuz befestigt. Das Gewicht des Körpers des Opfers drängt dazu, die Luft aus seinen Lungen zu drücken. Um aufzustehen und zu atmen, muss das Opfer Gewicht auf die Wunden legen und viel Kraft aufbringen. Das Opfer wird genagelt, während das Kreuz auf dem Boden liegt, dann wird das Kreuz aufgerichtet und in ein Loch fallen gelassen, wodurch die Wunden erschüttert werden. Vor der Kreuzigung wurde das Opfer normalerweise mit einer römischen Geißel mit neun Schwänzen ausgepeitscht, an deren Enden Stücke von Glas und Metall befestigt waren. Dies führte dazu, dass Fleischstücke entfernt wurden und offene Wunden gegen das rohe Holz des Kreuzes gedrückt wurden. Das Opfer musste den schweren Querbalken seines Kreuzes vom Ort des Urteils bis zum Ort der Kreuzigung tragen, war jedoch oft nach der Geißelung körperlich nicht mehr in der Lage dazu, sodass eine andere Person gezwungen wurde, den Kreuz für ihn zu tragen. Die römische Kreuzigung wurde im Allgemeinen völlig nackt durchgeführt, um sowohl Scham als auch Unbehagen zu maximieren. Schließlich machen der Schmerz, die Schwäche, die Dehydrierung und die Erschöpfung der Muskeln, die zum Atmen benötigt werden, das Atmen unmöglich, und das Opfer erstickt.
+
+elle: Eine Elle ist eine Einheit der linearen Maßnahme, vom Ellbogen bis zur Spitze des längsten Fingers eines Mannes. Diese Einheit wird üblicherweise in 0,46 Meter oder 18 Zoll umgerechnet, obwohl dies je nach Größe des messenden Mannes variiert. Es gibt auch eine „lange“ Elle, die länger ist als eine normale Elle um eine Handbreite. (Ezechiel 43:13)
+
+kümmel: Kümmel ist ein aromatischer Samen von Cuminum cyminum, der im Geschmack und Aussehen dem Kreuzkümmel ähnelt. Er wird als Gewürz verwendet.
+
+taumel: Taumel ist ein Unkrautgras (wahrscheinlich behaarter Taumel oder Lolium temulentum), das sehr ähnlich wie Weizen aussieht, bis es reif ist, wenn die Samen einen großen Unterschied offenbaren. Taumelsamen sind für nichts gut außer als Hühnerfutter oder um verbrannt zu werden, um die Ausbreitung dieses Unkrauts zu verhindern.
+
+denar: Denar: Pluralform von Denarius, einer römischen Silbermünze, die etwa einem Tagelohn für einen Arbeiter wert ist.
+
+denarius: Ein Denarius ist eine römische Silbermünze, die etwa einem Tagelohn für einen landwirtschaftlichen Arbeiter wert ist. Ein Denarius war 1/25 eines römischen Aureus wert.
+
+teufel: Das Wort „Teufel“ stammt vom griechischen „diabolos“, was „jemand, der verleumdet; ein Lügner“ bedeutet. „Teufel“ wird verwendet, um sich auf einen gefallenen Engel zu beziehen, der auch „Satan“ genannt wird und darauf abzielt zu stehlen, zu töten, zu zerstören und Böses zu tun. Das Schicksal des Teufels ist gewiss, und es ist nur eine Frage der Zeit, bis er in den Feuersee geworfen wird, aus dem es kein Entkommen gibt.
+
+didrachme: Eine Didrachme ist eine griechische Silbermünze im Wert von 2 Drachmen, etwa so viel wie 2 römische Denarien oder etwa 2 Tageslöhne. Sie wurde häufig zur Zahlung der halben Schekel-Tempelsteuer verwendet.
+
+jünger: Ein Schüler, der einem Lehrer folgt, um sowohl durch Lehre als auch durch Beispiel zu lernen.
+
+spinnrad: Teil eines Spinnrades, das zum Drehen von Fäden verwendet wird.
+
+drachme: Eine Drachme ist eine griechische Silbermünze im Wert von etwa einem römischen Denarius oder etwa einem Tageslohn für einen landwirtschaftlichen Arbeiter.
+
+El-Elohe-Israel: El-Elohe-Israel bedeutet „Gott, der Gott Israels“ oder „Der Gott Israels ist mächtig.“
+
+ephah: Ein Ephah ist ein Volumenmaß von etwa 22 Litern, 5,8 US-Gallonen, 4,8 imperialen Gallonen oder etwas mehr als einem halben Scheffel.
+
+gehenna: Gehenna ist ein Wort für die Hölle. Es stammt vom hebräischen Gey-Hinnom, was wörtlich „Tal von Hinnom“ bedeutet. Dieses Wort entstand als Name für einen Ort südlich der alten Stadt Jerusalem, wo der Müll der Stadt verbrannt wurde. Einst wurden lebende Babys weinend in das Feuer unter den Armen des Götzen Moloch geworfen, um dort zu sterben. Dieser Ort wurde von den Menschen so verachtet, nachdem der gerechte König Josia diese abscheuliche Praxis abgeschafft hatte, dass er zu einem Müllhaufen gemacht wurde. Die Körper kranker Tiere und hingerichteter Verbrecher wurden dort hingeworfen und verbrannt.
+
+gittith: Gittith ist ein musikalischer Begriff, der möglicherweise „ein Instrument von Gath“ bedeutet.
+
+goad: ein scharfes, spitzes Stachelgerät, das verwendet wird, um widerwillige Tiere (wie Ochsen und Maultiere) in die richtige Richtung zu bewegen.
+
+gospel: Evangelium bedeutet „gute Nachricht“ oder „frohe Botschaft“, speziell die gute Nachricht vom Leben, Tod und der Auferstehung Jesu für unser Heil, unsere Heilung und Versorgung; und die Hoffnung auf das ewige Leben, das Jesus uns durch die Gnade Gottes verfügbar gemacht hat.
+
+Hades: Hades: Das untere Reich der unkörperlichen Geister. Auch bekannt als „Hölle“. Siehe auch „Scheol“.
+
+Har-magedon: Har-magedon, auch Armegeddon genannt, bezieht sich höchstwahrscheinlich auf den Hügel („har“) von Megiddo, in der Nähe des Karmelgebirges in Israel. Dieses Gebiet hat eine große Talebene mit viel Platz für Armeen, um zu manövrieren.
+
+hin: Ein Hin ist ein Volumenmaß von etwa 6,5 Litern oder 1,7 Gallonen.
+
+homer: Ein Homer entspricht etwa 220 Litern, 6,2 US-Bushels, 6,1 imperialen Bushels, 58 US-Gallonen oder 48,4 imperialen Gallonen.
+
+hypocrite: ein Bühnenakteur; jemand, der vorgibt, jemand anderes zu sein als er wirklich ist; ein Heuchler; ein Versteller.
+
+Ishmael: Ishmael ist der Sohn von Abraham und Hagar. Ishmael bedeutet wörtlich „Gott hört“.
+
+Jehovah: Siehe „Jahwe“.
+
+Jesus: „Jesus“ ist Griechisch für den hebräischen Namen „Yeshua“, der eine Kurzform von „Yehoshua“ ist, was von „Yoshia“ kommt und „Er wird retten“ bedeutet.
+
+kodrantes: Ein Kodrantes ist eine kleine Münze, die die Hälfte eines attischen Chalcus oder zwei Lepta wert ist. Sie ist weniger als 2 % des Tageslohns eines landwirtschaftlichen Arbeiters wert.
+
+lepta: Lepta sind sehr kleine, messingene jüdische Münzen, die jeweils die Hälfte eines römischen Quadrans wert sind, was einem Viertel des kupfernen Assarion entspricht. Lepta sind weniger als 1 % des Tageslohns eines landwirtschaftlichen Arbeiters wert.
+
+leviathan: Leviathan ist ein poetischer Name für ein großes aquatisches Wesen, möglicherweise ein Krokodil oder ein Dinosaurier.
+
+mahalath: Mahalath ist der Name einer Melodie oder ein musikalischer Begriff.
+
+manna: Name für das Essen, das Gott den Israeliten auf wundersame Weise während ihrer Wanderung in der Wüste zwischen Ägypten und dem Gelobten Land zur Verfügung stellte. Vom Hebräischen man-hu (Was ist das?) oder manan (zuteilen). Siehe Exodus 16:14-35.
+
+marriage: die Vereinigung eines Mannes und einer Frau zum Zweck des Zusammenlebens, der Fortpflanzung und um die Gesellschaft des anderen zu genießen. Gottes Plan für die Ehe sieht eine Verbindung zwischen einem Mann und einer Frau vor (Markus 10:6-9; 1 Korinther 7). Obwohl es viele Fälle gibt, in denen ein Mann mehr als eine Frau im Alten Testament heiratet, ist die Ehe mit einer Frau eine Voraussetzung für bestimmte Führungspositionen in der Kirche (1 Timotheus 3:2,12; Titus 1:5-6).
+
+maschil: Maschil ist ein musikalischer und literarischer Begriff für „Kontemplation“ oder „meditativer Psalm“.
+
+michtam: Ein Michtam ist ein Gedicht.
+
+mina: Eine Mina ist eine griechische Münze im Wert von 100 griechischen Drachmen (oder 100 römischen Denarii), oder etwa 100 Tageslöhnen eines landwirtschaftlichen Arbeiters.
+
+myrrh: Myrrhe ist die duftende Substanz, die aus den Stämmen und Ästen des niedrigen, strauchigen Baumes Commiphora myrrha oder Commiphora kataf austritt, die in den arabischen Wüsten und Teilen Afrikas heimisch sind. Das duftende Harz fällt zu Boden und härtet zu einem ölig gelblich-braunen Harz aus. Myrrhe wurde hoch geschätzt als Parfüm und als Bestandteil in medizinischen und zeremoniellen Salben.
+
+Nicolaitans: Nicolaitaner waren höchstwahrscheinlich Gnostiker, die die abscheuliche Lüge lehrten, dass die physische und spirituelle Welt völlig getrennt seien und dass Unmoral im physischen Bereich deiner spirituellen Gesundheit nicht schaden würde.
+
+omega: Omega ist der letzte Buchstabe des griechischen Alphabets. Er wird manchmal verwendet, um das Letzte oder das Ende zu bedeuten.
+
+Peniel: Peniel ist Hebräisch für „Gesicht Gottes“.
+
+phylactery: ein Lederbehälter zur Aufbewahrung einer kleinen Schriftrolle mit wichtigen Schriftpassagen, die beim Gebet am Arm oder an der Stirn getragen wird. Diese Phylakterien (Tefillin auf Hebräisch) werden immer noch von orthodoxen jüdischen Männern verwendet. Siehe Deuteronomium 6:8.
+
+Praetorium: Praetorium: die Residenz und das Bürogebäude des römischen Gouverneurs sowie derjenigen, die dort arbeiten.
+
+quadrans: Ein Quadrans ist eine römische Münze im Wert von etwa 1/64 eines Denarius. Ein Denarius entspricht etwa einem Tageslohn eines landwirtschaftlichen Arbeiters.
+
+rabbi: Rabbi ist eine Transliteration des hebräischen Wortes für „mein Lehrer“, das als Titel des Respekts für jüdische Lehrer verwendet wird.
+
+Rahab: Rahab ist entweder (1) die Prostituierte, die Josuas 2 Spione in Jericho versteckte (Josua 2,6) und später eine Vorfahrin von Jesus wurde (Matthäus 1:5) und ein Beispiel für Glauben ist (Hebräer 11:31; Jakobus 2:25); oder (2) wörtlich „Stolz“ oder „Arroganz“ — möglicherweise ein Verweis auf ein großes Wasserwesen (Hiob 9:13; 26:12; Jesaja 51:9) oder symbolisch auf Ägypten bezogen (Psalmen 87:4; 89:10; Jesaja 30:7).
+
+Buße: seine Meinung ändern; sich von der Sünde abwenden und sich Gott zuwenden; seine vergangenen Sünden verabscheuen und entschlossen sein, Gott zu folgen.
+
+Rhabboni: Rhabboni: eine Transliteration des hebräischen Wortes für „großer Lehrer“.
+
+Sabbat: Der siebte Tag der Woche, von Gott für den Menschen zum Ausruhen bestimmt.
+
+Heilige: Das griechische Wort für „Heilige“ bedeutet wörtlich „Heilige“. Heilige sind Menschen, die für den Dienst an Gott als heilig und getrennt ausgesondert sind und in Gerechtigkeit leben. In der Bibel wird es verwendet, um sich auf alle Christen und auf alle zu beziehen, die Yahweh in biblischen Zeiten anbeten.
+
+Samariter: Ein Samariter ist ein Bewohner von Samaria. Die Samariter und die Juden verachteten sich im Allgemeinen während der Zeit, als Jesus unter uns wandelte.
+
+heiligen: Etwas als heilig erklären oder absondern. Eine Person von der Sünde reinigen und trennen.
+
+Sata: Ein Sata ist ein trockenes Maß für Volumen, das ungefähr 13 Liter oder 1,5 Scheffel entspricht.
+
+Satan: Satan bedeutet „Ankläger“. Dies ist ein Name für den Teufel, einen Feind Gottes und des Volkes Gottes.
+
+Schriftgelehrter: Ein Schriftgelehrter ist jemand, der das Gesetz Gottes kopiert. Sie wurden oft als Lehrer und Autoritäten des Gesetzes Gottes respektiert.
+
+Selah: Selah ist ein musikalischer Begriff, der eine Pause oder ein instrumentales Intermezzo zur Reflexion anzeigt.
+
+Seraphim: Seraphim sind Engel mit 6 Flügeln. Siehe Jesaja 6:2-6.
+
+sexuelle Unmoral: Der Begriff „sexuelle Unmoral“ im Neuen Testament stammt aus dem Griechischen „porneia“, das sich auf jede sexuelle Aktivität bezieht, die nicht zwischen einem Ehemann und seiner Frau stattfindet. Mit anderen Worten, Prostitution (männlich oder weiblich), Bestialität, homosexuelle Aktivitäten, jeglicher Geschlechtsverkehr außerhalb der Ehe und die Produktion und der Konsum von Pornografie sind alle in diesem Begriff enthalten.
+
+Schekel: Ein Maß für Gewicht, und wenn es sich auf dieses Gewicht in Gold, Silber oder Messing bezieht, auch ein Geldmaß. Ein Schekel wiegt ungefähr 16 Gramm, etwa eine halbe Unze oder 20 Gerahs (Ezechiel 45:12).
+
+Scheol: Scheol ist der Ort der Toten. Siehe auch „Hades“.
+
+Shibah: Shibah ist Hebräisch für „Eid“ oder „sieben“. Siehe Beerscheba.
+
+Shigionoth: Siegreiche Musik.
+
+Seele: „Seele“ bezieht sich auf die Emotionen und den Intellekt einer lebenden Person sowie auf das Leben dieser Person. In der Bibel wird sie von dem Geist und dem Körper einer Person unterschieden. (1 Thessalonicher 5:23, Hebräer 4:12)
+
+Spanne: Eine Spanne ist die Länge vom Ende des Daumens bis zur Spitze des kleinen Fingers, wenn die Hand ausgestreckt ist (etwa eine halbe Elle oder 9 Zoll oder 22,8 cm).
+
+Geist: Geist, Atem und Wind stammen alle von denselben hebräischen und griechischen Wörtern. Der Geist einer Person ist das Wesen des Lebens dieser Person, das von Gott kommt, der ein Geistwesen ist (Johannes 4:24, Genesis 1:2; 2:7). Die Bibel unterscheidet zwischen dem Geist, der Seele und dem Körper einer Person (1 Thessalonicher 5:23, Hebräer 4:12). Einige Wesen können als Geister existieren, ohne notwendigerweise einen sichtbaren Körper zu haben, wie Engel und Dämonen (Lukas 9:39, 1 Johannes 4:1-3).
+
+Stadien: Stadien ist der Plural von „Stadion“, einem linearen Maß von etwa 184,9 Metern oder 606,6 Fuß (die Länge der Rennstrecke in Olympia).
+
+Stater: Ein Stater ist eine griechische Silbermünze, die vier attische oder zwei alexandrinische Drachmen oder einen jüdischen Schekel entspricht: genau genug, um die halbe Schekel Tempelsteuer für zwei Personen zu decken.
+
+Zelt der Begegnung: ein Wohnort oder Ort der Anbetung, normalerweise ein Zelt.
+
+Talent: Ein Maß für Gewicht oder Masse von 3000 Schekeln.
+
+Tartarus: Tartarus ist der griechische Name für eine Unterwelt für die bösen Toten; ein anderer Name für Gehenna oder die Hölle.
+
+Teraphim: Teraphim sind Haushaltsgötzen, die möglicherweise mit Erbrechtsansprüchen auf das Haushaltsvermögen verbunden waren.
+
+Jah: „Jah“ ist eine verkürzte Form von „Jahweh“, dem richtigen Namen Gottes. Diese Form wird gelegentlich im Alten Testament verwendet, hauptsächlich in den Psalmen. Siehe „Jahweh“.
+
+Jahwe: „Jahwe“ ist der Eigenname Gottes. Im Hebräischen wurden die vier Konsonanten, die ungefähr YHWH entsprechen, als zu heilig zum Aussprechen angesehen, weshalb das hebräische Wort für „Herr“ (Adonai) beim Vorlesen anstelle dessen verwendet wurde. Als die Vokalzeichen dem hebräischen Alten Testament hinzugefügt wurden, wurden die Vokalzeichen für „Adonai“ mit den Konsonanten für „Jahwe“ vermischt, was, wenn man es wörtlich aussprach, als „Jehovah“ oder „Jehovah“ ausgesprochen würde. Als das Alte Testament ins Griechische übersetzt wurde, setzte sich die Tradition fort, „Herr“ anstelle des Eigennamens Gottes zu verwenden, indem Gottes Name als „Herr“ (Kurios) übersetzt wurde. Einige englische Bibeln übersetzen den Eigenname Gottes als „LORD“ oder „GOD“ (meistens in kleinen Großbuchstaben), basierend auf dieser gleichen Tradition. Das kann wirklich verwirrend sein, da zwei andere Wörter („Adonai“ und „Elohim“) mit „Herr“ und „Gott“ übersetzt werden und manchmal zusammen verwendet werden. Die ASV von 1901 (und einige andere Übersetzungen) geben YHWH als „Jehovah“ wieder. Die wahrscheinlichste Aussprache des Eigennamens Gottes ist „Jahwe“. Im Hebräischen steht der Name „Jahwe“ in Beziehung zur aktiven Erklärung „Ich BIN“. Siehe Exodus 3:13-14. Da das Hebräische keine Zeiten hat, kann die Erklärung „Ich BIN“ auch als „Ich WAR“ und „Ich WERDE SEIN“ interpretiert werden. Vergleiche Offenbarung 1:8.
+
+Zion: Zion ist ein Name, der ursprünglich einen der Berge Jerusalems bezeichnete. Er wurde zu einem Begriff, der synonym für Jerusalem selbst verwendet wird. Der Begriff „Himmlisches Zion“ wird ebenfalls verwendet, um den zukünftigen Wohnort des Volkes Gottes zu bezeichnen.
+
+Dieses Begleitglossar zur World English Bible ist gemeinfrei. Sie dürfen es nicht urheberrechtlich schützen oder sich als Autor ausgeben, aber Sie sind frei, es zu verwenden, zu verkaufen, zu verteilen oder zu kopieren.
