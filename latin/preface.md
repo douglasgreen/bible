@@ -55,3 +55,19 @@ Cum omnibus praedictis et aliis locis ubi defectus claritatis in manuscriptis or
 Biblia Anglica Mundi est projectum oecumenicum quod libros in multis denominationibus inclusos continet. Principales 66 libri Veteris et Novi Testamenti ab omnibus veris Christianis ut Scriptura agnoscuntur. Sunt etiam libri qui partem esse considerantur, pro quibus libro et quem rogas, Deuterocanonici, Apocrypha, et Pseudepigrapha.
 
 Sequentes libri et partes librorum ut Scriptura Deuterocanonica a Romanis Catholicis, Graecis, et Orthodoxis Russianis Ecclesiis agnoscuntur: Tobit, Judith, Esther ex Septuaginta Graeca, Sapientia Salomonis, Ecclesiasticus (qui etiam Sapientia Iesu Filii Sirach appellatur), Baruch, Canticum Trium Sanctorum Puerorum, Susanna, et Bel et Draco, 1 Machabaeorum, 2 Machabaeorum. In hac editione, Epistola Ieremiae ut caput 6 Baruch inclusa est. Tres ex illis libris ex partibus Danielis in Septuaginta Graeca inventis oriuntur, sed non ex Vetere Testamento Hebraico: Canticum Trium Sanctorum Puerorum, Susanna, et Bel et Draco. Hi tres in Danieli (Graeco) in contextu includuntur, cum ita magis sensum habeant.
+
+Libri sequentes a Ecclesiis Graeca et Russica Orthodoxa ut Scriptura Deuterocanonica agnoscuntur, sed non a Ecclesia Catholica Romana: 1 Esdras, Oratio Manasseh, Psalmus 151, et 3 Maccabees. Nota quod 1 Esdras et Oratio Manasseh etiam in appendice ad Bibliam Latinam Vulgatam continentur.
+
+Biblia Slavonica 2 Esdras includit, sed eam 3 Esdras vocat. Hic liber idem in Appendice ad Vulgatam Latinam ut 4 Esdras continetur.
+
+Appendix ad Septuaginta Graeca 4 Maccabees continet. Pro valore historico includitur.
+
+Inter denominationes Christianas et inter singulos Christianos, opiniones de Deuterocanone/Apocrypha late variant, sicut et nomina collectiva quae eis dant. Multi eos ut utiles existimant ad ulteriorem intellectum Veteris et Novi Testamenti ac manus Dei in historia, etiam si eis eundem statum non tribuant ac 66 libros Veteris et Novi Testamenti. Hic includuntur ad sustentationem ecclesiarum et individuorum qui eos legunt et utuntur, separatim a, sed frequenter cum, canonico core 66 librorum Sacrae Bibliae.
+
+### Quid sunt MT, TR, et NU?
+
+In notis pedibus, MT ad Textum Graecum Maiorem Novi Testamenti refertur, qui est auctoritas huius translationis. TR pro Textus Receptus stat, qui est Textus Graecus ex quo Versio Regia Novi Testamenti translata est. NU pro Textu critico Nestle-Aland/UBS Novi Testamenti Graeci stat, qui ut basis pro aliis translationibus Bibliorum adhibetur.
+
+### Plura Informationes
+
+Ad responsa quaestionum saepius rogatarum de Biblia Anglica Mundi, quaeso visita nostrum locum interretialem apud WorldEnglish.Bible.
