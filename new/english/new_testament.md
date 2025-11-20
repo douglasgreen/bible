@@ -2,7 +2,9 @@
 
 Translate this chapter of the Greek New Testament into English.
 
-## Matthew Chapter 1
+## Matthew
+
+### Chapter 1
 
 **1** The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.
 
