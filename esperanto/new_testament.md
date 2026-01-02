@@ -6916,4 +6916,3 @@ La jenaj vortoj uzataj en la World English Bible (WEB) ne estas tre oftaj, ĉu �
 **Cion**: Cion estas nomo, kiu origine rilatis al unu el la montoj de Jerusalemo. Ĝi fariĝis termino sinonima kun Jerusalemo mem. La termino “Ĉiela Cion” ankaŭ estas uzata por aludi al la estonta loĝejo de la popolo de Dio.
 
 Ĉi tiu akompana glosaro al la World English Bible estas en la Publika Domeno. Vi ne rajtas kopirajtigi ĝin aŭ pretendi aŭtorecon pri ĝi, sed vi estas libera uzi, vendi, distribui aŭ kopii ĝin.
-

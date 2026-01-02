@@ -46401,4 +46401,3 @@ Tiam tiuj, kiuj timis Jahven, parolis unu kun alia; kaj Jahve atentis kaj aŭdis
 “Memoru la leĝon de Moseo, mia servanto, kiun Mi ordonis al li sur Ĥoreb por la tuta Izrael, nome la preskribojn kaj la juĝojn.
 
 Jen Mi sendos al vi la profeton Elija antaŭ ol venos la granda kaj terura tago de Jahve. Li turnos la korojn de la patroj al la infanoj kaj la korojn de la infanoj al iliaj patroj, por ke Mi ne venu kaj ne frapu la teron per malbeno.”
-
