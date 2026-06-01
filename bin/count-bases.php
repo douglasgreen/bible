@@ -206,3 +206,37 @@ function getBase(string $word): ?string
 
     return $base;
 }
+
+if ($argc < 2) {
+    fwrite(STDERR, "Usage: {$argv[0]} <filename>\n");
+    exit(1);
+}
+
+$filename = $argv[1];
+if (!file_exists($filename)) {
+    fwrite(STDERR, "Error: File '{$filename}' not found.\n");
+    exit(1);
+}
+
+$content = file_get_contents($filename);
+if ($content === false) {
+    fwrite(STDERR, "Error: Could not read file '{$filename}'.\n");
+    exit(1);
+}
+
+preg_match_all('/\p{L}+/u', $content, $matches);
+
+$baseCounts = [];
+foreach ($matches[0] as $word) {
+    $base = getBase($word);
+    if ($base === null) {
+        continue;
+    }
+    $baseCounts[$base] = ($baseCounts[$base] ?? 0) + 1;
+}
+
+arsort($baseCounts);
+
+foreach ($baseCounts as $base => $count) {
+    echo "{$base}\t{$count}\n";
+}
