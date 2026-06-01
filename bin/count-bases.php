@@ -172,11 +172,12 @@ $bases = [
     'vi' => 'vi',
 ];
 
-function getBase(string $word): ?string
+function getBase(string $word): string
 {
-    $lowWord = mb_strtolower($word); // Convert word to lowercase
+    global $bases;
 
-    $base = null;
+    $lowWord = mb_strtolower($word);
+
     if (isset($bases[$lowWord])) {
         $base = $bases[$lowWord];
     } elseif (
@@ -197,10 +198,6 @@ function getBase(string $word): ?string
         // Verb base
         $base = $match[1] . 'i';
     } else {
-        if ($word === ucfirst($word)) {
-            return null;
-        }
-
         $base = $lowWord;
     }
 
@@ -230,9 +227,6 @@ $baseCounts = [];
 $baseForms = [];
 foreach ($matches[0] as $word) {
     $base = getBase($word);
-    if ($base === null) {
-        continue;
-    }
     $baseCounts[$base] = ($baseCounts[$base] ?? 0) + 1;
     $baseForms[$base][$word] = true;
 }
