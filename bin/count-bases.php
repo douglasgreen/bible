@@ -1,0 +1,208 @@
+#!/usr/bin/env php
+<?php
+
+$bases = [
+    'akurata' => 'akurata',
+    'akurataj' => 'akurataj',
+    'akuratajn' => 'akuratajn',
+    'akuratan' => 'akuratan',
+    'akurate' => 'akurate',
+    'al' => 'al',
+    'anstataŭ' => 'anstataŭ',
+    'antaŭ' => 'antaŭ',
+    'antaŭen' => 'antaŭen',
+    'apud' => 'apud',
+    'aŭ' => 'aŭ',
+    'aŭtoritata' => 'aŭtoritata',
+    'aŭtoritataj' => 'aŭtoritata',
+    'aŭtoritatajn' => 'aŭtoritata',
+    'aŭtoritatan' => 'aŭtoritata',
+    'aŭtoritato' => 'aŭtoritato',
+    'aŭtoritatoj' => 'aŭtoritato',
+    'aŭtoritatojn' => 'aŭtoritato',
+    'aŭtoritaton' => 'aŭtoritato',
+    'boata' => 'boata',
+    'boataj' => 'boata',
+    'boatajn' => 'boata',
+    'boatan' => 'boata',
+    'boato' => 'boato',
+    'boatoj' => 'boato',
+    'boatojn' => 'boato',
+    'boaton' => 'boato',
+    'ĉar' => 'ĉar',
+    'ĉe' => 'ĉe',
+    'ĉia' => 'ĉia',
+    'ĉiam' => 'ĉiam',
+    'ĉi' => 'ĉi',
+    'ĉiel' => 'ĉiel',
+    'ĉiu' => 'ĉiu',
+    'ĉiuj' => 'ĉiu',
+    'ĉiujn' => 'ĉiu',
+    'ĉu' => 'ĉu',
+    'de' => 'de',
+    'do' => 'do',
+    'du' => 'du',
+    'dum' => 'dum',
+    'ekster' => 'ekster',
+    'en' => 'en',
+    'fin' => 'fino',
+    'frata' => 'frata',
+    'frataj' => 'frata',
+    'fratajn' => 'frata',
+    'fratan' => 'frata',
+    'frato' => 'frato',
+    'fratoj' => 'frato',
+    'fratojn' => 'frato',
+    'fraton' => 'frato',
+    'ĝia' => 'ĝi',
+    'ĝi' => 'ĝi',
+    'ĝis' => 'ĝis',
+    'honta' => 'honta',
+    'hontaj' => 'honta',
+    'hontajn' => 'honta',
+    'hontan' => 'honta',
+    'honte' => 'honte',
+    'honto' => 'honta',
+    'hontoj' => 'honta',
+    'hontojn' => 'honta',
+    'honton' => 'honta',
+    'honti' => 'honti',
+    'ia' => 'ia',
+    'iam' => 'iam',
+    'iel' => 'iel',
+    'ilia' => 'ili',
+    'iliaj' => 'ili',
+    'iliajn' => 'ili',
+    'ilian' => 'ili',
+    'ili' => 'ili',
+    'inter' => 'inter',
+    'io' => 'io',
+    'ion' => 'ion',
+    'iu' => 'iu',
+    'je' => 'je',
+    'ĵus' => 'ĵus',
+    'kaj' => 'kaj',
+    'ke' => 'ke',
+    'kial' => 'kial',
+    'kiam' => 'kiam',
+    'kie' => 'kie',
+    'kiel' => 'kiel',
+    'kio' => 'kio',
+    'kioma' => 'kioma',
+    'kiom' => 'kiom',
+    'kiuj' => 'kiu',
+    'kiu' => 'kiu',
+    'kompate' => 'kompate',
+    'kompataj' => 'kompata',
+    'kompatajn' => 'kompata',
+    'kompata' => 'kompata',
+    'kompatan' => 'kompata',
+    'kompatoj' => 'kompato',
+    'kompatojn' => 'kompato',
+    'kompato' => 'kompato',
+    'kompaton' => 'kompato',
+    'konstanta' => 'konstanta',
+    'kontraŭ' => 'kontraŭ',
+    'krom' => 'krom',
+    'kun' => 'kun',
+    'kvankam' => 'kvankam',
+    'kvazaŭ' => 'kvazaŭ',
+    'la' => 'la',
+    'laŭ' => 'laŭ',
+    'lia' => 'li',
+    'li' => 'li',
+    'malgraŭ' => 'malgraŭ',
+    'mia' => 'mi',
+    'mi' => 'mi',
+    'nek' => 'nek',
+    'ne' => 'ne',
+    'neniam' => 'neniam',
+    'nenia' => 'nenia',
+    'nenie' => 'nenie',
+    'nenio' => 'nenio',
+    'neniuj' => 'neniu',
+    'neniu' => 'neniu',
+    'neniun' => 'neniun',
+    'nia' => 'ni',
+    'ni' => 'ni',
+    'ol' => 'ol',
+    'oni' => 'oni',
+    'per' => 'per',
+    'pivota' => 'pivota',
+    'pli' => 'pli',
+    'plu' => 'plu',
+    'por' => 'por',
+    'post' => 'post',
+    'pri' => 'pri',
+    'pro' => 'pro',
+    'rekte' => 'rekte',
+    'sabatajn' => 'sabata',
+    'sabataj' => 'sabata',
+    'sabatan' => 'sabata',
+    'sabata' => 'sabata',
+    'sabatojn' => 'sabato',
+    'sabatoj' => 'sabato',
+    'sabaton' => 'sabato',
+    'sabato' => 'sabato',
+    'sed' => 'sed',
+    'sen' => 'sen',
+    'senprofi' => 'senprofita',
+    'se' => 'se',
+    'ŝia' => 'ŝi',
+    'si' => 'si',
+    'ŝi' => 'ŝi',
+    'sub' => 'sub',
+    'super' => 'super',
+    'sur' => 'sur',
+    'tamen' => 'tamen',
+    'tial' => 'tial',
+    'tiam' => 'tiam',
+    'tia' => 'tia',
+    'tiel' => 'tiel',
+    'tie' => 'tie',
+    'tio' => 'tio',
+    'tiuj' => 'tiu',
+    'tiu' => 'tiu',
+    'trans' => 'trans',
+    'tra' => 'tra',
+    'tri' => 'tri',
+    'unu' => 'unu',
+    'uzant' => 'uzanto',
+    'via' => 'vi',
+    'vi' => 'vi',
+];
+
+function getBase(string $word): ?string
+{
+    $lowWord = mb_strtolower($word); // Convert word to lowercase
+
+    $base = null;
+    if (isset($bases[$lowWord])) {
+        $base = $bases[$lowWord];
+    } elseif (
+        preg_match('/(.+)(ant|int|ont|at|it|ot)(a|aj|an|ajn|o|oj|on|ojn|e)$/', $lowWord, $match)
+    ) {
+        // Participle to verb base
+        $base = $match[1] . 'i';
+    } elseif (preg_match('/(.+)(o|oj|on|ojn)$/', $lowWord, $match)) {
+        // Noun base
+        $base = $match[1] . 'o';
+    } elseif (preg_match('/(.+)(a|aj|an|ajn)$/', $lowWord, $match)) {
+        // Adjective base
+        $base = $match[1] . 'a';
+    } elseif (preg_match('/(.+)(e)$/', $lowWord, $match)) {
+        // Adverb base
+        $base = $match[1] . 'e';
+    } elseif (preg_match('/(.+)(i|as|is|os|us|u)$/', $lowWord, $match)) {
+        // Verb base
+        $base = $match[1] . 'i';
+    } else {
+        if ($word === ucfirst($word)) {
+            return null;
+        }
+
+        $base = $lowWord;
+    }
+
+    return $base;
+}
