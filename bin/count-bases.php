@@ -227,16 +227,19 @@ if ($content === false) {
 preg_match_all('/\p{L}+/u', $content, $matches);
 
 $baseCounts = [];
+$baseForms = [];
 foreach ($matches[0] as $word) {
     $base = getBase($word);
     if ($base === null) {
         continue;
     }
     $baseCounts[$base] = ($baseCounts[$base] ?? 0) + 1;
+    $baseForms[$base][$word] = true;
 }
 
 arsort($baseCounts);
 
 foreach ($baseCounts as $base => $count) {
-    echo "{$base}\t{$count}\n";
+    $forms = implode(', ', array_keys($baseForms[$base]));
+    echo "{$base}\t{$count}\t{$forms}\n";
 }
