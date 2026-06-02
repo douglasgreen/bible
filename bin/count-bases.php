@@ -290,6 +290,14 @@ if ($lines === false) {
     exit(1);
 }
 
+$defs = [];
+$fh = fopen(__DIR__ . '/glossary.csv', 'r');
+while ($fields = fgetcsv($fh)) {
+    list($base, $def) = $fields;
+    $defs[$base] = $def;
+}
+fclose($fh);
+
 foreach ($lines as $line) {
     if (!preg_match_all('/\p{L}+/u', $line, $matches)) {
         continue;
@@ -306,7 +314,11 @@ foreach ($lines as $line) {
 
     foreach ($baseForms as $base => $forms) {
         $forms = implode(', ', array_keys($forms));
-        echo "* {$base}: {$forms}\n";
+        echo "* {$base} ({$forms})";
+        if (isset($defs[$base])) {
+            echo ": " . $defs[$base];
+        }
+        echo "\n";
     }
 
     echo "\n";
