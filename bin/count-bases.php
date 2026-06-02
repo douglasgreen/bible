@@ -284,25 +284,30 @@ if (!file_exists($filename)) {
     exit(1);
 }
 
-$content = file_get_contents($filename);
-if ($content === false) {
+$lines = file($filename);
+if ($lines === false) {
     fwrite(STDERR, "Error: Could not read file '{$filename}'.\n");
     exit(1);
 }
 
-preg_match_all('/\p{L}+/u', $content, $matches);
+foreach ($lines as $line) {
+    if (!preg_match_all('/\p{L}+/u', $line, $matches)) {
+        continue;
+    }
 
-$baseCounts = [];
-$baseForms = [];
-foreach ($matches[0] as $word) {
-    $base = getBase($word);
-    $baseCounts[$base] = ($baseCounts[$base] ?? 0) + 1;
-    $baseForms[$base][$word] = true;
-}
+    echo "$line\n";
 
-arsort($baseCounts);
+    $baseCounts = [];
+    $baseForms = [];
+    foreach ($matches[0] as $word) {
+        $base = getBase($word);
+        $baseForms[$base][$word] = true;
+    }
 
-foreach ($baseCounts as $base => $count) {
-    $forms = implode(', ', array_keys($baseForms[$base]));
-    echo "{$base}\t{$count}\t{$forms}\n";
+    foreach ($baseForms as $base => $forms) {
+        $forms = implode(', ', array_keys($forms));
+        echo "* {$base}: {$forms}\n";
+    }
+
+    echo "\n";
 }
