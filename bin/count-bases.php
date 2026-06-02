@@ -45,7 +45,7 @@ $bases = [
     'dum' => 'dum',
     'ekster' => 'ekster',
     'en' => 'en',
-    'fin' => 'fino',
+    'Esdras' => 'Esdras',
     'frata' => 'frata',
     'frataj' => 'frata',
     'fratajn' => 'frata',
@@ -56,17 +56,18 @@ $bases = [
     'fraton' => 'frato',
     'ĝia' => 'ĝi',
     'ĝi' => 'ĝi',
+    'ĝin' => 'ĝi',
     'ĝis' => 'ĝis',
     'honta' => 'honta',
     'hontaj' => 'honta',
     'hontajn' => 'honta',
     'hontan' => 'honta',
     'honte' => 'honte',
+    'honti' => 'honti',
     'honto' => 'honta',
     'hontoj' => 'honta',
     'hontojn' => 'honta',
     'honton' => 'honta',
-    'honti' => 'honti',
     'ia' => 'ia',
     'iam' => 'iam',
     'iel' => 'iel',
@@ -80,6 +81,8 @@ $bases = [
     'ion' => 'ion',
     'iu' => 'iu',
     'je' => 'je',
+    'Jesuo' => 'Jesuo',
+    'Johano' => 'Johano',
     'ĵus' => 'ĵus',
     'kaj' => 'kaj',
     'ke' => 'ke',
@@ -92,11 +95,11 @@ $bases = [
     'kiom' => 'kiom',
     'kiuj' => 'kiu',
     'kiu' => 'kiu',
-    'kompate' => 'kompate',
     'kompataj' => 'kompata',
     'kompatajn' => 'kompata',
     'kompata' => 'kompata',
     'kompatan' => 'kompata',
+    'kompate' => 'kompate',
     'kompatoj' => 'kompato',
     'kompatojn' => 'kompato',
     'kompato' => 'kompato',
@@ -125,9 +128,17 @@ $bases = [
     'neniun' => 'neniun',
     'nia' => 'ni',
     'ni' => 'ni',
+    'notojn' => 'notojn',
+    'notoj' => 'notoj',
+    'noton' => 'noton',
+    'noto' => 'noto',
     'ol' => 'ol',
     'oni' => 'oni',
     'per' => 'per',
+    'piednotojn' => 'piednotojn',
+    'piednotoj' => 'piednotoj',
+    'piednoton' => 'piednoton',
+    'piednoto' => 'piednoto',
     'pivota' => 'pivota',
     'pli' => 'pli',
     'plu' => 'plu',
@@ -145,12 +156,16 @@ $bases = [
     'sabaton' => 'sabato',
     'sabato' => 'sabato',
     'sed' => 'sed',
+    'senprofita' => 'senprofita',
     'sen' => 'sen',
-    'senprofi' => 'senprofita',
     'se' => 'se',
     'ŝia' => 'ŝi',
     'si' => 'si',
     'ŝi' => 'ŝi',
+    'spiritojn' => 'spiritojn',
+    'spiritoj' => 'spiritoj',
+    'spiriton' => 'spiriton',
+    'spirito' => 'spirito',
     'sub' => 'sub',
     'super' => 'super',
     'sur' => 'sur',
@@ -167,7 +182,7 @@ $bases = [
     'tra' => 'tra',
     'tri' => 'tri',
     'unu' => 'unu',
-    'uzant' => 'uzanto',
+    'uzanto' => 'uzanto',
     'via' => 'vi',
     'vi' => 'vi',
 ];
@@ -177,8 +192,13 @@ function getBase(string $word): string
     global $bases;
 
     $lowWord = mb_strtolower($word);
+    $capWord = mb_strtoupper($word);
 
-    if (isset($bases[$lowWord])) {
+    if (strlen($word) > 1 && $word === $capWord) {
+        $base = $capWord;
+    } elseif (isset($bases[$word])) {
+        $base = $bases[$word];
+    } elseif (isset($bases[$lowWord])) {
         $base = $bases[$lowWord];
     } elseif (
         preg_match('/(.+)(ant|int|ont|at|it|ot)(a|aj|an|ajn|o|oj|on|ojn|e)$/', $lowWord, $match)
