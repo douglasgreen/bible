@@ -7,6 +7,7 @@ correlative,ĉies,everyone’s
 correlative,ĉio,"all; altogether; everything"
 correlative,ĉiom,"all; all of it; the full amount; the whole quantity"
 correlative,ĉiu,"all the; each; every; everybody; every one"
+correlative,ia,"(a) certain; any; some (kind of)"
 correlative,ial,"for some reason"
 correlative,iam,"at any time; at some time; ever; formerly; once upon a time; sometime"
 correlative,ie,"anywhere; somewhere"
@@ -51,7 +52,6 @@ other,ankaŭ,"also; likewise; moreover; too"
 other,ankoraŭ,"again; anew; not yet; still; yet"
 other,anstataŭ,"in lieu of; in place of; instead of"
 other,antaŭ,"above; ago; before; in front of; to"
-other,antaŭen,"forward; ahead"
 other,apenaŭ,"barely; hardly; no more than; only just; scarcely"
 other,apud,"at; beside; by; nearby; near (to); next to"
 other,aŭ,"either; or"
@@ -62,7 +62,6 @@ other,ĉe,"at (house of); beside; with"
 other,cent,"hundred; one hundred"
 other,ĉi,"here (denotes proximity)"
 other,ĉirkaŭ,"about; around; circa; round; towards"
-other,ci,"thou; you (familiar form)"
 other,ĉu,"(asks a question); either; if; is it; whether"
 other,da,"(quantity) of"
 other,de,"by; from; of; on; since"
@@ -83,7 +82,6 @@ other,he,"eh; hey; say"
 other,hieraŭ,yesterday
 other,hodiaŭ,today
 other,ho,"woaw, oh, wow"
-other,ia,"(a) certain; any; some (kind of)"
 other,inter,"among; between"
 other,ja,"certainly; indeed; in fact; rather; surely"
 other,jam,"already; by now; yet"
@@ -188,6 +186,7 @@ prefix,tra,through
 prefix,tro,"too (much, many)"
 prefix,vic,"(prefix analogous to ""vice"")"
 prefix,vir,"denotes male sex"
+pronoun,ci,"thou; you (familiar form)"
 pronoun,ĝi,it
 pronoun,ili,they
 pronoun,li,he
@@ -409,6 +408,7 @@ root,anonci,"to advertise; announce; give notice; profess"
 root,anonima,"anonymous; nameless"
 root,ansero,goose
 root,Antarkto,"Antarctic; the Antarctic"
+root,antaŭa,previous
 root,anteno,"aerial; antenna; feeler"
 root,antibiotiko,antibiotic
 root,anticipi,"to anticipate; expect; think ahead"
@@ -853,6 +853,7 @@ root,centigramo,centigram
 root,centilitro,centiliter
 root,centimetro,centimeter
 root,centimo,centime
+root,cento,"one hundred"
 root,centralizi,"to centralize"
 root,centralo,"central office; exchange (telephone); power station"
 root,centro,center
@@ -959,6 +960,7 @@ root,dekagramo,decagram
 root,dekalitro,decaliter
 root,dekametro,decameter
 root,dekano,"dean (college, etc.)"
+root,deka,tenth
 root,deklami,"to declaim; recite"
 root,deklaracio,"announcement; declaration; proclamation; manifesto"
 root,deklari,"to declare; state; proclaim"
@@ -1113,6 +1115,7 @@ root,drogo,"drug; pharmaceutical"
 root,dromedaro,dromedary
 root,droni,"to drown; sink"
 root,dualismo,dualism
+root,dua,second
 root,dubi,"to doubt; question"
 root,duelo,duel
 root,dueto,duet
@@ -1451,6 +1454,7 @@ root,fono,background
 root,fonografo,"(cylinder) phonograph"
 root,fontano,fountain
 root,fonto,"fountain; fount; source; spring; seeder (torrent)"
+root,fora,distant
 root,forgesi,"to forget"
 root,forĝi,"to forge"
 root,forko,fork
@@ -2385,6 +2389,7 @@ root,kontrakti,"to enter into a contract with; make a contract"
 root,kontralto,"alto; contralto"
 root,kontrapunkto,counterpoint
 root,kontrasto,"contrast; difference; opposition"
+root,kontraŭa,"contrary; opposite"
 root,kontribucio,reparations
 root,kontribui,"to contribute"
 root,kontroli,"to audit; check (up on); supervise; verify"
@@ -2522,6 +2527,7 @@ root,kulo,"gnat; mosquito"
 root,kulpa,"culpable; guilty; to blame"
 root,kulto,"cult (system of religious worship); homage; devotion"
 root,kulturi,"to cultivate; grow"
+root,kuna,"joint; together"
 root,kuniklo,rabbit
 root,kupeo,compartment
 root,kupo,"cupping glass"
@@ -2551,6 +2557,7 @@ root,kvadrilo,quadrille
 root,kvakero,Quaker
 root,kvalito,"property; quality"
 root,kvanto,quantity
+root,kvara,fourth
 root,kvaranteno,quarantine
 root,kvarco,"quartz; rock-crystal"
 root,kvartalo,"district; neighborhood; quarter; ward"
@@ -2560,6 +2567,7 @@ root,kvereli,"to quarrel; wrangle"
 root,kverko,oak
 root,kvestoro,"quaestor; questore"
 root,kvieta,"calm; quiet; placid"
+root,kvina,fifth
 root,kvintesenco,quintessence
 root,kvinto,fifth
 root,kvita,"debt-free; even; paid up; paid-up; free and clear"
@@ -3056,6 +3064,7 @@ root,naso,"crayfish net; eel pot; eel trap; fish trap; fishing basket; hoop net;
 root,natrio,sodium
 root,naturalismo,naturalism
 root,naturo,"character; nature"
+root,naŭa,ninth
 root,naŭzi,"to disgust; nauseate"
 root,navigacio,navigation
 root,navo,"nave (church)"
@@ -3149,6 +3158,7 @@ root,oficiro,officer
 root,ofico,"capacity; function; job; office; position; post; employment"
 root,ofta,"frequent; often"
 root,ogivo,"ogee; ogive"
+root,oka,eighth
 root,okazi,"to come about; happen; occur; befall; chance; happen; take place; transpire; arrange; bring about"
 root,okcidento,West
 root,oksido,oxide
@@ -3552,6 +3562,7 @@ root,porti,"to bear; carry; wear; bring; port (to another operating system)"
 root,portreto,portrait
 root,posedi,"to own; possess"
 root,poŝo,"pocket; paste buffer; clipboard"
+root,posta,"rear; subsequent"
 root,posteno,"job; position; post"
 root,poŝto,"mail; post"
 root,postuli,"to demand; postulate; require; exact"
@@ -4013,6 +4024,7 @@ root,senso,sense
 root,sentenco,"maxim; proverb; wise saying"
 root,sentimentala,"romantic; sentimental"
 root,senti,"to experience; feel; sense; perceive"
+root,sepa,seventh
 root,sepio,"cuttlefish; sepia"
 root,Septembro,September
 root,septeto,septet
@@ -4029,6 +4041,7 @@ root,seruro,lock
 root,servico,"crockery set; service"
 root,servi,"to attend; serve; wait on"
 root,servuto,"bondage; serfdom; servitude; forced labor; slavery"
+root,sesa,sixth
 root,sesio,session
 root,severa,"harsh; rigid; severe; strict; stringent; rigorous; stern"
 root,sezono,"season (of year)"
@@ -4536,6 +4549,7 @@ root,trempi,"to dip; immerse; plunge; soak; steep"
 root,treni,"to drag; tow; trail; train"
 root,treti,"to trample on; tread"
 root,trezoro,treasure
+root,tria,third
 root,tribo,tribe
 root,tribunalo,tribunal
 root,tribuno,"podium; rostrum; speaker’s platform; pulpit; tribune"
@@ -4616,6 +4630,7 @@ root,unisono,unison
 root,universala,"general; universal; worldwide"
 root,universitato,university
 root,universo,universe
+root,unua,first
 root,uragano,"hurricane; tempest"
 root,urbo,"city; town"
 root,urĝi,"to hurry; press; urge"
