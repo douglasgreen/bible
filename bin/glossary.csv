@@ -140,6 +140,7 @@ other,tre,"quite; very; very much"
 other,tri,three
 other,tro,"too (much, many)"
 other,tuj,"at once; immediately; just; right away; right now"
+other,unuj,"some; a few; others"
 other,unu,one
 other,ve,"wo, woe, alas"
 prefix,al,"at; to; toward(s)"
@@ -1382,6 +1383,7 @@ root,festono,festoon
 root,fetiĉo,fetish
 root,feŭdo,"feud; fief"
 root,fiakro,"cab; carriage for hire; coach for hire; fiacre"
+root,fia,"nasty; shameful"
 root,fianĉo,"betrothed; fiancé; sweetheart"
 root,fiasko,"abortion; failure; fiasco"
 root,fibro,"fiber; filament"
@@ -1455,6 +1457,7 @@ root,fonografo,"(cylinder) phonograph"
 root,fontano,fountain
 root,fonto,"fountain; fount; source; spring; seeder (torrent)"
 root,fora,distant
+root,fore,"far; away"
 root,forgesi,"to forget"
 root,forĝi,"to forge"
 root,forko,fork
@@ -1958,6 +1961,7 @@ root,jaro,"year; vintage (of wine)"
 root,jasmeno,jasmine
 root,ĵaŭdo,Thursday
 root,ĵazo,jazz
+root,jesi,"to agree"
 root,Jesuo,Jesus
 root,ĵeti,"to cast; fling; throw; toss; pitch"
 root,jezuito,jesuit
@@ -3078,6 +3082,7 @@ root,negliĝo,"housedress; negligee; undress"
 root,negoco,"business; trade; commerce; transaction"
 root,neĝo,snow
 root,negro,Negro
+root,nei,"to deny; say no"
 root,nekrologo,"necrology; obituary"
 root,nektaro,nectar
 root,neologismo,neologism
@@ -4319,6 +4324,7 @@ root,ŝtupo,"stair; step; rung"
 root,stupo,tow
 root,sturgo,sturgeon
 root,sturno,starling
+root,sube,"below; beneath; under; underneath"
 root,subita,"abrupt; sudden; instantaneous"
 root,subjektiva,subjective
 root,subjekto,"subject (grammar); topic"
@@ -4539,6 +4545,7 @@ root,traktoro,tractor
 root,tramo,"streetcar; tram"
 root,tranĉi,"to cut (with knife); slice; carve"
 root,trankvila,"calm; tranquil; serene; still; quiet; peaceful"
+root,transe,"on the other side"
 root,transistoro,transistor
 root,transito,transit
 root,trefo,"club (cards)"
@@ -4690,6 +4697,7 @@ root,vazo,"vase; vessel; container"
 root,vegetalo,plant
 root,vegetara,vegetarian
 root,vegeti,"to vegetate"
+root,vei,"to lament"
 root,vejno,vein
 root,veki,"to wake (up); awaken; arouse"
 root,vekto,"beam (of scales)"
