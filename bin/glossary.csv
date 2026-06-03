@@ -76,7 +76,6 @@ other,el,"from; (out) of"
 other,en,"in; into; within"
 other,fi,"to shame"
 other,for,"away; distant; far (off, away); forth; gone"
-other,ĝi,it
 other,ĝis,"as far as; till; until; up to"
 other,ha,ha
 other,he,"eh; hey; say"
@@ -84,7 +83,6 @@ other,hieraŭ,yesterday
 other,hodiaŭ,today
 other,ho,"woaw, oh, wow"
 other,ia,"(a) certain; any; some (kind of)"
-other,ili,they
 other,inter,"among; between"
 other,ja,"certainly; indeed; in fact; rather; surely"
 other,jam,"already; by now; yet"
@@ -104,22 +102,18 @@ other,kvazaŭ,"as if; as though; in a way"
 other,kvin,five
 other,la,the
 other,laŭ,"according as; according to; along; as; by; in accordance with"
-other,li,he
 other,malgraŭ,"despite; in spite of; notwithstanding"
 other,mem,"(puts emphasis on the noun or pronoun it follows); self"
-other,mi,I
 other,minus,minus
 other,morgaŭ,tomorrow
 other,naŭ,nine
 other,nek,"neither; nor"
 other,ne,"no; not"
-other,ni,we
 other,nun,"at present; now"
 other,nur,"exclusively; just; only; simply"
 other,nu,well
 other,ok,eight
 other,ol,than
-other,oni,"one; people; they"
 other,per,"by means of; through; with"
 other,plej,most
 other,pli,more
@@ -136,8 +130,6 @@ other,se,"if; provided that"
 other,sen,"less; without"
 other,sep,seven
 other,ses,six
-other,si,"(reflexive pronoun)"
-other,ŝi,she
 other,sub,"below; beneath; under; underneath"
 other,super,"above; over; superior"
 other,sur,"on; onto; upon"
@@ -150,7 +142,6 @@ other,tro,"too (much, many)"
 other,tuj,"at once; immediately; just; right away; right now"
 other,unu,one
 other,ve,"wo, woe, alas"
-other,vi,you
 prefix,al,"at; to; toward(s)"
 prefix,antaŭ,"above; ago; before; in front of; to"
 prefix,apud,"at; beside; by; nearby; near (to); next to"
@@ -195,6 +186,15 @@ prefix,tra,through
 prefix,tro,"too (much, many)"
 prefix,vic,"(prefix analogous to ""vice"")"
 prefix,vir,"denotes male sex"
+pronoun,ĝi,it
+pronoun,ili,they
+pronoun,li,he
+pronoun,mi,I
+pronoun,ni,we
+pronoun,oni,"one; people; they"
+pronoun,si,"(reflexive pronoun)"
+pronoun,ŝi,she
+pronoun,vi,you
 root,abato,"abbé; abbot"
 root,abdiki,"to abdicate; resign"
 root,abelo,bee
