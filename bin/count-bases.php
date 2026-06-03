@@ -298,6 +298,7 @@ while ($fields = fgetcsv($fh)) {
 }
 fclose($fh);
 
+$newCounts = [];
 foreach ($lines as $line) {
     if (!preg_match_all('/\p{L}+/u', $line, $matches)) {
         continue;
@@ -317,9 +318,19 @@ foreach ($lines as $line) {
         echo "* {$base} ({$forms})";
         if (isset($defs[$base])) {
             echo ": " . $defs[$base];
+        } else {
+            $newCounts[$base] = isset($newCounts[$base]) ? $newCounts[$base] + 1 : 1;
         }
         echo "\n";
     }
 
     echo "\n";
+}
+
+arsort($newCounts);
+if ($newCounts) {
+    echo "Unknown words:\n";
+    foreach ($newCounts as $base => $count) {
+        echo "* $base\n";
+    }
 }
