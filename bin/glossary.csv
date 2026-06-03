@@ -1,82 +1,5177 @@
-"afiŝi","to post, to placard, to publish (online)"
-"ajn","-ever (used with correlatives, e.g., *kiu ajn* - whoever)"
-"alia","other, another"
-"al","to, toward"
-"angla","English"
-"ankaŭ","also, too, as well"
-"aparteni","to belong"
-"biblio","bible"
-"celi","to aim, to target, to intend"
-"ĉi","(denotes proximity, e.g., *tio ĉi* - this)"
-"citi","to cite, to quote"
-"dediĉi","to dedicate, to devote"
-"de","of, from, by"
-"dio","god"
-"dissendi","to broadcast, to distribute, to send out"
-"disvastigi","to spread, to disseminate, to distribute"
-"domeno","domain (e.g., internet domain, field)"
-"donaci","to donate, to present as a gift"
-"doni","to give"
-"efektiva","actual, real, effective"
-"el","out of, from"
-"en","in, into"
-"esti","to be"
-"eviti","to avoid, to prevent"
-"fari","to do, to make"
-"ĝi","it"
-"iel","somehow, in some way"
-"instrui","to teach, to instruct"
-"interreto","internet"
-"kaj","and"
-"ke","that (conjunction)"
-"kiom","how much, how many"
-"kiu","who, which, which one"
-"konfuzo","confusion"
-"kopii","to copy"
-"kopirajto","copyright"
-"kundividi","to share (with others)"
-"labori","to work"
-"la","the"
-"legi","to read"
-"libereco","freedom, liberty"
-"li","he, him"
-"limigi","to limit, to restrict"
-"monda","global, worldly, of the world"
-"ne","no, not"
-"ni","we, us"
-"nomi","to name, to call"
-"nur","only, just"
-"parkerigi","to memorize, to commit to memory"
-"peti","to request, to ask for, to beg"
-"plu","further, more, onward"
-"prediki","to preach"
-"presi","to print"
-"pri","about, concerning"
-"proklami","to proclaim, to declare"
-"protekti","to protect"
-"publika","public"
-"publike","publicly"
-"publikigi","to publish, to make public"
-"rajti","to have the right to, to be allowed to"
-"redisvastigi","to redistribute"
-"reprodukti","to reproduce"
-"rezulto","result, outcome"
-"ŝanĝi","to change, to modify"
-"sankta","holy, sacred"
-"se","if"
-"sekurkopio","backup copy, backup"
-"senpage","free of charge, for free"
-"signifi","to mean, to signify"
-"tamen","however, nevertheless"
-"teksto","text"
-"tiom","so much, so many, as much"
-"tio","that, that thing"
-"tiu","that one, that person, which"
-"traduko","translation"
-"transsendi","to transmit, to transfer, to forward"
-"uzi","to use"
-"varmarko","trademark"
-"vendi","to sell"
-"vi","you"
-"voli","to want, to wish"
-"vorto","word"
+correlative,ĉia,all
+correlative,ĉia,each
+correlative,ĉia,"every kind of"
+correlative,ĉial,"for every reason"
+correlative,ĉiam,"all the time"
+correlative,ĉiam,always
+correlative,ĉiam,ever
+correlative,ĉie,"all about"
+correlative,ĉie,everywhere
+correlative,ĉiel,"every manner"
+correlative,ĉiel,"every way"
+correlative,ĉiel,"in every way"
+correlative,ĉies,everyone’s
+correlative,ĉio,all
+correlative,ĉio,altogether
+correlative,ĉio,everything
+correlative,ĉiom,all
+correlative,ĉiom,"all of it"
+correlative,ĉiom,"the full amount"
+correlative,ĉiom,"the whole quantity"
+correlative,ĉiu,"all the"
+correlative,ĉiu,each
+correlative,ĉiu,every
+correlative,ĉiu,everybody
+correlative,ĉiu,"every one"
+correlative,ial,"for some reason"
+correlative,iam,"at any time"
+correlative,iam,"at some time"
+correlative,iam,ever
+correlative,iam,formerly
+correlative,iam,"once upon a time"
+correlative,iam,sometime
+correlative,ie,anywhere
+correlative,iel,anyhow
+correlative,iel,anyway
+correlative,iel,somehow
+correlative,iel,"some way"
+correlative,ies,anyone’s
+correlative,ie,somewhere
+correlative,ies,somebody’s
+correlative,ies,someone’s
+correlative,io,anything
+correlative,iom,"a bit"
+correlative,iom,"a little"
+correlative,iom,rather
+correlative,iom,some
+correlative,iom,somewhat
+correlative,iom,"to some extent"
+correlative,io,something
+correlative,iu,anybody
+correlative,iu,anyone
+correlative,iu,somebody
+correlative,iu,someone
+correlative,kial,"for what reason"
+correlative,kial,"what for"
+correlative,kial,why
+correlative,kiam,as
+correlative,kiam,when
+correlative,kia,"what a"
+correlative,kia,"what kind of"
+correlative,kia,"what sort of"
+correlative,kiel,as
+correlative,kiel,how
+correlative,kiel,"in what way"
+correlative,kiel,like
+correlative,kiel,"such a"
+correlative,kiel,"such as"
+correlative,kiel,"what a"
+correlative,kies,"of which"
+correlative,kies,"which one’s"
+correlative,kies,whose
+correlative,kie,where
+correlative,kiom,"how many"
+correlative,kiom,"how much"
+correlative,kio,that
+correlative,kio,which
+correlative,kiu,that
+correlative,kiu,"which (one)"
+correlative,kiu,who
+correlative,nenial,"for no cause"
+correlative,nenial,"for no reason"
+correlative,nenial,"on no account"
+correlative,neniam,"at no time"
+correlative,neniam,never
+correlative,neniam,"not ever"
+correlative,nenia,"no kind of"
+correlative,nenia,"no . . . whatsoever"
+correlative,neniel,"by no means"
+correlative,neniel,"in no way"
+correlative,neniel,"not at all"
+correlative,neniel,"not on any account"
+correlative,nenie,nowhere
+correlative,nenies,no-one’s
+correlative,neniom,"no amount"
+correlative,neniom,none
+correlative,nenio,naught
+correlative,nenio,none
+correlative,nenio,"not any thing"
+correlative,nenio,nothing
+correlative,neniu,neither
+correlative,neniu,nobody
+correlative,neniu,none
+correlative,neniu,no-one
+correlative,tial,"for that reason"
+correlative,tial,"on that account"
+correlative,tial,so
+correlative,tial,therefore
+correlative,tiam,then
+correlative,tia,so
+correlative,tia,such
+correlative,tia,"such a"
+correlative,tia,"that kind of"
+correlative,tie,"in that place"
+correlative,tiel,"in such a fashion"
+correlative,tiel,"in that manner"
+correlative,tiel,"in that way"
+correlative,tiel,like
+correlative,tiel,so
+correlative,tiel,thus
+correlative,tie,"over there"
+correlative,ties,"of that one"
+correlative,ties,"that one’s"
+correlative,ties,"the latter’s"
+correlative,tie,there
+correlative,tie,yonder
+correlative,tiom,"as many"
+correlative,tiom,"so many"
+correlative,tiom,"so much"
+correlative,tio,that
+correlative,tio,"that over there"
+correlative,tio,those
+correlative,tiu,"that (one)"
+other,adiaŭ,adieu
+other,adiaŭ,bye
+other,adiaŭ,farewell
+other,adiaŭ,goodbye
+other,ajn,"any kind of"
+other,ajn,arbitrary
+other,ajn,whatsoever
+other,al,at
+other,almenaŭ,"at (the very) least"
+other,almenaŭ,"if nothing else"
+other,al,to
+other,al,toward(s)
+other,ambaŭ,both
+other,ankaŭ,also
+other,ankaŭ,likewise
+other,ankaŭ,moreover
+other,ankaŭ,too
+other,ankoraŭ,again
+other,ankoraŭ,anew
+other,ankoraŭ,"not yet"
+other,ankoraŭ,still
+other,ankoraŭ,yet
+other,anstataŭ,"in lieu of"
+other,anstataŭ,"in place of"
+other,anstataŭ,"instead of"
+other,antaŭ,above
+other,antaŭ,above
+other,antaŭ,ago
+other,antaŭ,before
+other,antaŭ,"in front of"
+other,antaŭ,to
+other,apenaŭ,barely
+other,apenaŭ,hardly
+other,apenaŭ,"no more than"
+other,apenaŭ,"only just"
+other,apenaŭ,scarcely
+other,apud,at
+other,apud,beside
+other,apud,by
+other,apud,nearby
+other,apud,"near (to)"
+other,apud,"next to"
+other,aŭ,either
+other,aŭ,or
+other,baldaŭ,soon
+other,bis,again
+other,bis,encore
+other,bis,"one more time"
+other,ĉar,as
+other,ĉar,because
+other,ĉar,for
+other,ĉar,since
+other,ĉar,whereas
+other,ĉe,"at (house of)"
+other,ĉe,beside
+other,cent,hundred
+other,cent,"one hundred"
+other,ĉe,with
+other,ĉi,"here (denotes proximity)"
+other,ĉirkaŭ,about
+other,ĉirkaŭ,around
+other,ĉirkaŭ,circa
+other,ĉirkaŭ,round
+other,ĉirkaŭ,round
+other,ĉirkaŭ,towards
+other,ci,thou
+other,ci,"you (familiar form)"
+other,ĉu,"(asks a question)"
+other,ĉu,either
+other,ĉu,if
+other,ĉu,"is it"
+other,ĉu,whether
+other,da,"(quantity) of"
+other,de,by
+other,de,from
+other,dek,ten
+other,de,of
+other,de,on
+other,des,"all the more"
+other,de,since
+other,des,"so much the more"
+other,do,accordingly
+other,do,so
+other,do,then
+other,do,"therefore; name of the letter D"
+other,dum,during
+other,dum,for
+other,dum,whereas
+other,dum,while
+other,dum,whilst
+other,du,two
+other,eĉ,even
+other,ekster,"apart from"
+other,ekster,"aside from"
+other,ekster,beyond
+other,ekster,out
+other,ekster,"outside (of)"
+other,el,from
+other,el,"(out) of"
+other,en,in
+other,en,into
+other,en,within
+other,fi,"to shame"
+other,for,away
+other,for,distant
+other,for,"far (off, away)"
+other,for,forth
+other,for,gone
+other,ĝi,it
+other,ĝis,"as far as"
+other,ĝis,till
+other,ĝis,until
+other,ĝis,"up to"
+other,ha,ha
+other,he,eh
+other,he,hey
+other,he,say
+other,hieraŭ,yesterday
+other,hodiaŭ,today
+other,ho,"woaw, oh, wow"
+other,ia,"(a) certain"
+other,ia,any
+other,ia,"some (kind of)"
+other,ili,they
+other,inter,among
+other,inter,between
+other,ja,certainly
+other,ja,indeed
+other,ja,"in fact"
+other,jam,already
+other,jam,"by now"
+other,jam,yet
+other,ja,rather
+other,ja,surely
+other,jen,behold
+other,jen,"here are"
+other,jen,"here is"
+other,jen,look
+other,jen,there
+other,je,"(preposition with no fixed meaning)"
+other,jes,yes
+other,ĵus,"a moment ago"
+other,ĵus,"just (now)"
+other,ju,"the (more, less)"
+other,kaj,and
+other,ke,that
+other,kontraŭ,"across from"
+other,kontraŭ,against
+other,kontraŭ,"in exchange for"
+other,kontraŭ,"in return for"
+other,kontraŭ,"opposed to"
+other,kontraŭ,opposite
+other,kontraŭ,upon
+other,krom,"apart from"
+other,krom,besides
+other,krom,except
+other,krom,"except for"
+other,kun,with
+other,kvankam,albeit
+other,kvankam,although
+other,kvankam,though
+other,kvankam,while
+other,kvar,four
+other,kvazaŭ,"as if"
+other,kvazaŭ,"as though"
+other,kvazaŭ,"in a way"
+other,kvin,five
+other,la,the
+other,laŭ,"according as"
+other,laŭ,"according to"
+other,laŭ,along
+other,laŭ,as
+other,laŭ,by
+other,laŭ,"in accordance with"
+other,li,he
+other,malgraŭ,despite
+other,malgraŭ,"in spite of"
+other,malgraŭ,notwithstanding
+other,mem,"(puts emphasis on the noun or pronoun it follows)"
+other,mem,self
+other,mi,I
+other,minus,minus
+other,morgaŭ,tomorrow
+other,naŭ,nine
+other,nek,neither
+other,nek,nor
+other,ne,no
+other,ne,not
+other,ni,we
+other,nun,"at present"
+other,nun,now
+other,nur,exclusively
+other,nur,just
+other,nur,only
+other,nur,simply
+other,nu,well
+other,ok,eight
+other,ol,than
+other,oni,one
+other,oni,people
+other,oni,they
+other,per,"by means of"
+other,per,through
+other,per,with
+other,plej,most
+other,pli,more
+other,plu,"any more"
+other,plu,else
+other,plu,further
+other,plu,more
+other,plu,on
+other,plus,plus
+other,po,a
+other,po,apiece
+other,po,at
+other,po,"at the rate of"
+other,po,each
+other,po,per
+other,post,after
+other,post,behind
+other,post,in
+other,preskaŭ,almost
+other,preskaŭ,nearly
+other,preter,beyond
+other,preter,by
+other,preter,past
+other,preter,"straight past"
+other,pri,about
+other,pri,concerning
+other,pri,on
+other,pri,upon
+other,pro,"because of"
+other,pro,for
+other,pro,"for sake of"
+other,pro,"on account of"
+other,pro,"owing to"
+other,pro,through
+other,sed,but
+other,se,if
+other,sen,less
+other,sen,without
+other,se,"provided that"
+other,sep,seven
+other,ses,six
+other,si,"(reflexive pronoun)"
+other,ŝi,she
+other,sub,below
+other,sub,beneath
+other,sub,under
+other,sub,underneath
+other,super,above
+other,super,over
+other,super,superior
+other,sur,on
+other,sur,onto
+other,sur,upon
+other,tamen,but
+other,tamen,however
+other,tamen,nevertheless
+other,tamen,notwithstanding
+other,tamen,still
+other,tamen,yet
+other,trans,across
+other,trans,beyond
+other,trans,"on the other side of"
+other,tra,through
+other,tre,quite
+other,tre,very
+other,tre,"very much"
+other,tri,three
+other,tro,"too (much, many)"
+other,tuj,"at once"
+other,tuj,immediately
+other,tuj,just
+other,tuj,"right away"
+other,tuj,"right now"
+other,unu,one
+other,ve,"wo, woe, alas"
+other,vi,you
+prefix,al,at
+prefix,al,to
+prefix,al,toward(s)
+prefix,antaŭ,above
+prefix,antaŭ,above
+prefix,antaŭ,ago
+prefix,antaŭ,before
+prefix,antaŭ,"in front of"
+prefix,antaŭ,to
+prefix,apud,at
+prefix,apud,beside
+prefix,apud,by
+prefix,apud,nearby
+prefix,apud,"near (to)"
+prefix,apud,"next to"
+prefix,bis,again
+prefix,bis,encore
+prefix,bis,"one more time"
+prefix,bo,"(denotes in-law, relatives by marriage)"
+prefix,ĉe,"at (house of)"
+prefix,ĉe,beside
+prefix,ĉef,arch-
+prefix,ĉef,chief-
+prefix,ĉe,with
+prefix,ĉirkaŭ,about
+prefix,ĉirkaŭ,around
+prefix,ĉirkaŭ,circa
+prefix,ĉirkaŭ,round
+prefix,ĉirkaŭ,round
+prefix,ĉirkaŭ,towards
+prefix,de,by
+prefix,de,from
+prefix,de,of
+prefix,de,on
+prefix,de,since
+prefix,dis,"(denotes dispersal or separation)"
+prefix,ek,"(denotes an action which begins or is of short duration)"
+prefix,eks,ex-
+prefix,eks,former
+prefix,eks,late
+prefix,ekster,"apart from"
+prefix,ekster,"aside from"
+prefix,ekster,beyond
+prefix,ekster,out
+prefix,ekster,"outside (of)"
+prefix,el,from
+prefix,el,"(out) of"
+prefix,en,in
+prefix,en,into
+prefix,en,within
+prefix,fi,"(denotes subjective indignation or moral condemnation)"
+prefix,fin,"(denotes the completion of an action)"
+prefix,for,away
+prefix,for,distant
+prefix,for,"far (off, away)"
+prefix,for,forth
+prefix,for,gone
+prefix,ge,"(persons of both sexes taken together)"
+prefix,inter,among
+prefix,inter,between
+prefix,kelk,"(denotes multiplication by an undefined but small number)"
+prefix,kelk,"(sometimes used with the meaning of ""about"" or ""some"")"
+prefix,kontraŭ,"across from"
+prefix,kontraŭ,against
+prefix,kontraŭ,"in exchange for"
+prefix,kontraŭ,"in return for"
+prefix,kontraŭ,"opposed to"
+prefix,kontraŭ,opposite
+prefix,kontraŭ,upon
+prefix,kun,with
+prefix,laŭ,"according as"
+prefix,laŭ,"according to"
+prefix,laŭ,along
+prefix,laŭ,as
+prefix,laŭ,by
+prefix,laŭ,"in accordance with"
+prefix,mal,"(prefix used to form word of opposite meaning)"
+prefix,mem,self
+prefix,mis,"(denotes an error)"
+prefix,ne,"(denotes the lack of something)"
+prefix,plej,most
+prefix,pli,more
+prefix,plu,"any more"
+prefix,plu,else
+prefix,plu,further
+prefix,plu,more
+prefix,plu,on
+prefix,pra,"(denotes remoteness in time, distant relationship)"
+prefix,pri,about
+prefix,pri,concerning
+prefix,pri,on
+prefix,pri,upon
+prefix,pro,"because of"
+prefix,pro,for
+prefix,pro,"for sake of"
+prefix,pro,"on account of"
+prefix,pro,"owing to"
+prefix,pro,through
+prefix,re,"(denotes repetition of an act)"
+prefix,re,re-
+prefix,sen,less
+prefix,sen,without
+prefix,sin,self
+prefix,super,above
+prefix,super,over
+prefix,super,superior
+prefix,sur,on
+prefix,sur,onto
+prefix,sur,upon
+prefix,trans,across
+prefix,trans,beyond
+prefix,trans,"on the other side of"
+prefix,tra,through
+prefix,tro,"too (much, many)"
+prefix,vic,"(prefix analogous to ""vice"")"
+prefix,vir,"denotes male sex"
+root,abato,"abbé; abbot"
+root,abdiki,"to abdicate; resign"
+root,abelo,bee
+root,abio,"Abies; fir (tree)"
+root,abismo,"abyss; chasm; gulf; precipice; oblivion"
+root,abituriento,"certificated secondary school leaver; high school graduate"
+root,ablativo,ablative
+root,abnegacio,"abnegation; self-denial; renunciation"
+root,abomeno,"abhorrence; abomination; horror; disgust; loathing"
+root,aboni,"to have a subscription; subscribe to"
+root,aborti,"to abort; fail; miscarry"
+root,abrikoto,apricot
+root,abrupta,abrupt
+root,absceso,abscess
+root,absinto,"absinth; wormwood"
+root,absoluta,"absolute; stark; unconditional"
+root,absorbi,"to absorb; engross; occupy; preoccupy"
+root,abstini,"to abstain"
+root,abstrakti,"to abstract"
+root,absurda,absurd
+root,abunda,"abundant; affluent; ample; copious; plentiful; profuse; rich; bountiful"
+root,acero,"maple; sycamore"
+root,aĉeti,"to acquire; buy; purchase; take over"
+root,acida,"acerbic; acid; sour; tart; acidic"
+root,adapti,"to accommodate; adapt; adjust; attune; fix; fit; mount; place; tune"
+root,adepto,"acolyte; adept; adherent; supporter; initiate; follower"
+root,adicii,"to add (up); count in"
+root,adjektivo,adjective
+root,adjutanto,"adjutant; aide"
+root,administracio,"administration; management"
+root,administri,"to administer; manage"
+root,admiralitato,admiralty
+root,admiralo,admiral
+root,admiri,"to admire"
+root,admoni,"to admonish; advise; censure; exhort; scold; reprimand; tell off"
+root,adopti,"to adopt"
+root,adori,"to adore; worship; idolize"
+root,adrenalino,adrenaline
+root,adreso,address
+root,adulti,"to commit adultery"
+root,advento,advent
+root,adverbo,adverb
+root,advokato,"advocate; barrister; counsel; intercessor; lawyer; solicitor; attorney"
+root,aero,air
+root,aerolito,"meteoric stone; meteorite; aerolite"
+root,aeroplano,"airplane; plane"
+root,afabla,"amiable; nice; affable; friendly; good-natured; kind; user-friendly"
+root,afekti,"to be affected; pose; put on airs; feign; pretend"
+root,afero,"affair; business; deal; case; matter; thing; object; (good) cause"
+root,afikso,affix
+root,afiŝo,"article; posting; post (message); notice; placard; poster; bill; sign; article"
+root,aflikti,"to afflict; grieve; distress"
+root,aforismo,aphorism
+root,afranki,"to prepay; put on stamps; frank"
+root,Afriko,Africa
+root,afusto,"(gun) carriage"
+root,agaci,"to aggravate; annoy; irritate; set on edge"
+root,agato,agate
+root,agento,"agent; dealer"
+root,aĝio,"agio; exchange premium"
+root,agi,"to act; move; take action; do"
+root,aglo,eagle
+root,aĝo,"age (how old someone or something is)"
+root,agonio,"agony; death throes"
+root,agordo,"accord; agreement; consonance; customization; options; setup; settings; mood; tuning; preference"
+root,agrabla,"agreeable; enjoyable; lovely; nice; pleasant"
+root,agrafo,"binding; clasp; hook; fastener; staple"
+root,agresi,"to aggress; attack; commit aggression; be aggressive"
+root,agronomio,"agriculture; agronomics; agronomy"
+root,agronomo,"agriculturist; agronomist"
+root,aidoso,AIDS
+root,ajlo,"garlic; leek"
+root,akacio,"acacia; wattle"
+root,akademio,academy
+root,akapari,"to corner (the market); monopolize; usurp"
+root,akaro,"maggot; mite"
+root,akceli,"to accelerate; advance; further; hasten; promote; speed up"
+root,akcento,"accent; stress; emphasis"
+root,akcepti,"to accept; accredit; admit; receive (guests); take (in); recognize"
+root,akcesora,"accessory; secondary"
+root,akcidento,"accident; mishap"
+root,akcio,"corporate share; share (finance); stock"
+root,akcipitro,"accipiter; goshawk; hawk"
+root,akcizo,"excise; excise duty; excise tax"
+root,akiri,"to achieve; acquire; attain; get; obtain"
+root,aklami,"to acclaim; applaud; hail"
+root,akno,"pimple; zit; blemish; spot; acne"
+root,akompani,"to accompany; attend"
+root,akordo,"accord; accordance; agreement; chord; concord; concurrence; concurrency; consonance"
+root,akra,"abrasive; acrimonious; acute; lurid; sharp; keen; poignant"
+root,akrido,"Acridium; grasshopper; locust"
+root,akrobato,acrobat
+root,akselo,"armpit; crotch (of a tree); underarm"
+root,aksiomo,axiom
+root,akso,"axis; axle; pivot; spindle; alliance"
+root,aktiva,"active; in action"
+root,akto,"act; certificate; diploma; (legal) document; deed"
+root,aktoro,actor
+root,aktuala,"contemporary; current; present(-day) topical; up-to-date; live"
+root,akupunkturo,acupuncture
+root,akurata,"accurate; on time; prompt; punctual; exact; precise"
+root,akuŝi,"to (be in) labor; be in the process of giving birth"
+root,akuta,"acute; penetrating"
+root,akuzativo,accusative
+root,akuzi,"to accuse; allege; charge"
+root,akvarelo,"aquarelle; watercolor painting"
+root,akvario,aquarium
+root,akvilegio,"aquilegia; columbine"
+root,akvo,water
+root,alabastro,alabaster
+root,alarmo,"alarm; alert"
+root,alaŭdo,"lark; skylark"
+root,albano,Albanian
+root,albino,albino
+root,albumo,album
+root,alciono,"halcyon; kingfisher"
+root,aldo,"alto; contralto (voice); viola"
+root,alegorio,allegory
+root,Aleksandro,Alexander
+root,aleno,awl
+root,aleo,"avenue; passage; way; (garden) walk; path; alley; boulevard"
+root,alergio,allergy
+root,alfabeto,alphabet
+root,algebro,algebra
+root,Alĝerio,Algeria
+root,algo,"alga; seaweed"
+root,algoritmo,algorithm
+root,alĥemio,alchemy
+root,alia,"other; another (one); different; else"
+root,alibio,alibi
+root,aligatoro,alligator
+root,alineo,"paragraph (text); indentation"
+root,alkemio,alchemy
+root,alko,"elk; moose"
+root,alkoholo,"alcohol; spirit"
+root,alkovo,"alcove; recess"
+root,almanako,almanac
+root,almozo,"alms; charity; handout; charitable relief"
+root,alno,"alder (tree)"
+root,aloo,aloe
+root,alta,"high; lofty; tall; alto"
+root,altaro,altar
+root,alteo,"althea; marsh-mallow; hibiscus"
+root,alternativo,"alternative; option"
+root,alterni,"to alternate"
+root,aludi,"to allude; hint; refer to"
+root,alumeto,"match (for starting fires)"
+root,aluminio,aluminum
+root,aluno,alum
+root,amara,"bitter; acerbic; acrimonious"
+root,amaso,"accumulation; body; crowd; heap; mass; multitude; pile; swarm; hoard; mob; throng; troop"
+root,amatoro,"amateur; enthusiast; fancier"
+root,ambasado,"embassy; diplomatic mission"
+root,ambasadoro,ambassador
+root,ambicio,ambition
+root,amboso,anvil
+root,ambro,"amber; ambergris; grey amber"
+root,ambrozio,ambrosia
+root,ambulanco,"ambulance; field hospital"
+root,amebo,amoeba
+root,amelo,"starch; amylum; farina"
+root,amendi,"to amend (resolution, etc.)"
+root,Ameriko,America
+root,ametisto,amethyst
+root,amfibio,"member of Amphibia; amphibian"
+root,amfiteatro,"amphitheater; lecture hall; lecture theater"
+root,amforo,amphora
+root,amiko,friend
+root,ami,"to love; cherish"
+root,amnestio,"amnesty; act of grace"
+root,amoniako,"ammonia; anhydrous ammonia"
+root,Amoro,"Amour; Cupid; Eros"
+root,amortizi,"to amortize; deaden; damp"
+root,amplekso,"amplitude; bulk; dimension; extent; size; scope; magnitude; range; span"
+root,ampolo,"(light) bulb; ampoule; ampulla"
+root,amputi,"to amputate"
+root,amuleto,"amulet; charm; talisman"
+root,amuzi,"to amuse; divert; entertain; unbend; relax"
+root,anagalo,pimpernel
+root,anagramo,anagram
+root,anakronismo,anachronism
+root,analizi,"to analyze; assay; construe; parse"
+root,analoga,"analog; analogous"
+root,ananaso,pineapple
+root,anapesto,"anapest; antidactylus"
+root,anarĥio,anarchy
+root,anarkio,anarchy
+root,anaso,duck
+root,anatomio,anatomy
+root,anĉo,"reed (of a musical instrument)"
+root,anĉovo,"(spiced) anchovy"
+root,anekdoto,anecdote
+root,aneksi,"to annex"
+root,anemono,anemone
+root,angeliko,angelica
+root,anĝelo,angel
+root,angilo,eel
+root,angino,"angina; quinsy"
+root,anglo,Englishman
+root,angoro,"agony; anguish; fear; distress; angst"
+root,angulo,"angle; corner"
+root,anilino,aniline
+root,animalo,"animal (as opposed to vegetable or mineral)"
+root,animo,"soul; spirit"
+root,anizo,"anise; aniseed"
+root,ankro,"anchor; hyperlink"
+root,Anno,Anne
+root,anomalio,"abnormity; anomaly"
+root,anonci,"to advertise; announce; give notice; profess"
+root,anonima,"anonymous; nameless"
+root,ansero,goose
+root,Antarkto,"Antarctic; the Antarctic"
+root,anteno,"aerial; antenna; feeler"
+root,antibiotiko,antibiotic
+root,anticipi,"to anticipate; expect; think ahead"
+root,antikva,"ancient; antique; antiquated; rare; old"
+root,antilopo,antelope
+root,antimono,antimony
+root,antipatio,"antipathy; aversion; dislike; revulsion"
+root,antipodo,antipode(s)
+root,antitezo,antithesis
+root,antologio,anthology
+root,Antono,Anton
+root,antropologio,anthropology
+root,antropologo,anthropologist
+root,anunciacio,Annunciation
+root,anuso,"anus; ass"
+root,aorto,aorta
+root,aparato,"apparatus; device; set; appliance; machine; system"
+root,aparta,"aloof; apart; distinct; distinctive; own; particular; separate; special"
+root,apartamento,"apartment; flat"
+root,aparteni,"to belong to"
+root,apatio,"apathy; nonchalance"
+root,apelacii,"to appeal"
+root,aperitivo,apéritif
+root,aperi,"to appear; come into sight; emerge; materialize; perform; be published"
+root,aperturo,"aperture; opening"
+root,apetito,appetite
+root,apio,"(wild) celery"
+root,aplaŭdi,"to acclaim; applaud; clap"
+root,apliki,"to administer; apply; practice"
+root,aplombo,"aplomb; self-assurance; nerve"
+root,apogeo,"apex; apogee; pinnacle; zenith"
+root,apogi,"to back (up); bolster; buttress; lean; prop; rest; support; sustain; underpin; recline; uphold"
+root,apokrifa,apocryphal
+root,apologo,"apologue; fable"
+root,apopleksio,"(apoplectic) fit; seizure; stroke; (stroke of) apoplexy"
+root,apostolo,"apostle; disciple"
+root,apostrofo,apostrophe
+root,apoteko,"drugstore; pharmacy; chemist"
+root,apoteozi,"to apotheosize; deify"
+root,Aprilo,April
+root,aprobi,"to approve; authorize; countenance; endorse; sanction; ratify; hold with; tolerate"
+root,apro,"wild boar"
+root,arabo,Arab
+root,araneo,spider
+root,aranĝi,"to arrange; adjust; array; fix up"
+root,arbalesto,"bow; crossbow"
+root,arbitra,"arbitrary; despotic"
+root,arbitracio,"arbitrage; arbitration"
+root,arbo,tree
+root,arbusto,"bush; shrub; shrubbery"
+root,arĉo,"bow (violin)"
+root,arda,"ablaze; afire; aflame; aglow; ardent"
+root,ardeo,heron
+root,ardezo,slate
+root,areno,"arena; (boxing) ring"
+root,areo,"area; selection; region"
+root,areometro,"aerometer; densitometer; hydrometer"
+root,aresti,"to apprehend; arrest; detain"
+root,arĝento,silver
+root,argilo,clay
+root,argumento,"argument; plea; operand"
+root,arĥaika,archaic
+root,arĥaismo,archaism
+root,arĥeologio,archaeology
+root,arĥeologo,"archaeologist; archeologist"
+root,arĥipelago,archipelago
+root,arĥitekto,architect
+root,arĥitekturo,architecture
+root,arĥivo,"archive; archives; files; records"
+root,ario,"air; aria; tune"
+root,aristokratio,aristocracy
+root,aristokrato,aristocrat
+root,aritmetiko,"arithmetic(s); number theory"
+root,arkado,archway
+root,arkaika,"archaic; obsolete"
+root,arkaismo,archaism
+root,arkeologio,"archaeology; archeology"
+root,arkeologo,archaeologist
+root,arkipelago,archipelago
+root,arkitekto,architect
+root,arkitekturo,architecture
+root,arkivo,"archive; record(s); file(s)"
+root,arko,"arc; bow; arch; buttress"
+root,Arkto,"Arctic; the Arctic"
+root,arlekeno,"buffoon; clown; harlequin; jester"
+root,armeno,Armenian
+root,armeo,army
+root,armi,"to arm (weapons); reinforce (concrete)"
+root,armo,"arm; armament"
+root,arniko,"arnica; leopard’s bane"
+root,aroganta,"arrogant; haughty"
+root,aromo,"aroma; flavor; fragrance; smell"
+root,arpeĝo,arpeggio
+root,arseniko,"(white) arsenic"
+root,arterio,artery
+root,artifiko,"artifice; shenanigan; stunt; subterfuge; trick; wile"
+root,artiko,"articulation; joint; hinge"
+root,artikolo,article
+root,artilerio,"artillery; ordnance"
+root,artiŝoko,artichoke
+root,arto,art
+root,artrito,arthritis
+root,asbesto,asbestos
+root,asekuri,"to assure; insure; underwrite"
+root,asembleo,assembly
+root,aserti,"to affirm; allege; assert; aver; claim; state"
+root,asesoro,"advisor; assessor"
+root,asfalto,asphalt
+root,asigni,"to assign; summon; earmark; allocate"
+root,asisti,"to abet; aid; assist; help; attend to; support"
+root,aso,"ace (cards, etc.)"
+root,asocio,association
+root,asonanco,"alliteration; assonance"
+root,asparago,asparagus
+root,aspekti,"to appear; look; seem"
+root,aspergi,"to asperse; atomize; spray; sprinkle; water"
+root,aspido,asp
+root,aspirino,aspirin
+root,aspiri,"to aspire (to); hope for; be ambitious of; be eager for; desire earnestly; seek after"
+root,astmo,"asthma; shortness of breath"
+root,astro,"celestial body; heavenly body"
+root,astrologio,astrology
+root,astrologo,astrologer
+root,astronomio,astronomy
+root,astronomo,astronomer
+root,ataki,"to assail; assault; attack; storm"
+root,atavismo,"atavism; throw-back"
+root,ateismo,atheism
+root,ateisto,atheist
+root,atenci,"to assault; violate; attempt (to kill someone)"
+root,atendi,"to abide; expect; wait (for); await"
+root,atenta,"attentive; heedful; wary"
+root,atesti,"to affirm; attest; (bear) witness; testify; certify; give evidence; vouch"
+root,atingi,"to accomplish; achieve; attain; get; reach; overtake; obtain; access (database, disk)"
+root,Atlantiko,"Atlantic (Ocean)"
+root,atlaso,"atlas; (type of) satin"
+root,atleto,athlete
+root,atmosfero,atmosphere
+root,atomo,atom
+root,atribui,"to accredit; ascribe; assign; attach; award; bestow; attribute"
+root,atributo,"property; attribute"
+root,atriplo,orache
+root,atuto,trump
+root,aŭdaca,"audacious; bold; daring; intrepid"
+root,aŭdienco,"audience (official reception)"
+root,aŭdi,"to hear"
+root,aŭditorio,"assembly; audience; auditory; auditorium"
+root,aŭguri,"to augur; forecast; foretell; prophesy; foreshadow; predict"
+root,Aŭgusto,Augustus
+root,aŭkcio,auction
+root,aŭreolo,"aura; aureole; halo"
+root,aŭskulti,"to listen (to)"
+root,Aŭstralio,Australia
+root,aŭtentika,"authentic; genuine"
+root,aŭto,"automobile; car"
+root,aŭtobiografi,"write an autobiography"
+root,aŭtobuso,"bus; coach"
+root,aŭtografo,autograph
+root,aŭtokratio,"absolute power; absolute rule; autocracy"
+root,aŭtokrato,"absolute ruler; autocrat"
+root,aŭtomato,"acceptor; automate; automaton"
+root,aŭtomobilo,"automobile; car"
+root,aŭtonoma,"autonomic; autonomous; stand-alone"
+root,aŭtoritato,authority
+root,aŭtoro,author
+root,aŭtuno,"autumn; fall"
+root,avantaĝo,"advantage; benefit"
+root,avara,"avaricious; miserly; stingy; greedy; mean; greedy"
+root,avelo,hazelnut
+root,aveno,oats
+root,aventuro,adventure
+root,avenuo,avenue
+root,averti,"to alert; caution; (fore)warn"
+root,aviado,"aeronautics; aviation"
+root,avida,"avid; eager; greedy"
+root,avizo,"notification; notice; advice"
+root,avo,grandfather
+root,avokado,avocado
+root,azeno,"ass; donkey"
+root,azilo,"asylum; sanctuary"
+root,Azio,Asia
+root,azoto,"azote; nitrogen"
+root,babili,"to babble; blab; chatter; prattle; shoot the breeze; chat"
+root,bacilo,bacillus
+root,bagatelo,"bagatelle; bauble; trifle; unimportant thing"
+root,bajoneto,bayonet
+root,baki,"to bake; cook in an oven"
+root,bakterio,bacterium
+root,balai,"to sweep; whisk"
+root,balanci,"to balance; rock; swing; sway; nod"
+root,balasto,ballast
+root,balbuti,"to falter; stammer; stutter"
+root,baldakeno,"baldachin; canopy"
+root,baleno,whale
+root,baleto,ballet
+root,balistiko,ballistics
+root,balkono,"balcony; verandah"
+root,balo,"ball; party; dance"
+root,balono,"balloon; flask"
+root,baloti,"to ballot; poll; vote; elect"
+root,balustrado,"balustrade; banisters; parapet; railing"
+root,balzamino,balsam
+root,balzamo,"balm; balsam"
+root,bambuo,bamboo
+root,banala,"banal; commonplace; dismal; trite"
+root,banano,banana
+root,bandaĝo,bandage
+root,banderolo,"paper band; wrapper (for mailing, etc.)"
+root,bandito,bandit
+root,bando,"band; bevy; gang; posse"
+root,bani,"to bathe; rinse; wash (over); submerge"
+root,bankedo,"banquet; dinner"
+root,bankiero,banker
+root,banko,bank
+root,bankroti,"to be bankrupt; go broke; fail"
+root,banto,"bow; knot; loop; rosette; pom-pom"
+root,bapti,"to baptize; christen"
+root,barako,"barrack; barn; shack; shanty; shed"
+root,barakti,"to struggle (against); writhe; wrestle; move convulsively; convulse; flounder"
+root,barbaro,barbarian
+root,barbiro,barber
+root,barbo,beard
+root,barĉo,"beet soup; borscht"
+root,bardo,"bard; minstrel"
+root,bareliefo,"bas-relief; low relief"
+root,barelo,"barrel; cask"
+root,bariero,"barrier; barricade"
+root,barikado,barricade
+root,baritono,baritone
+root,barko,"bark; boat; small ship"
+root,baro,"bar; barrier; impediment; obstacle; obstruction; bound"
+root,barometro,barometer
+root,barono,baron
+root,basko,"coattails; train (of a dress or robe)"
+root,baskulo,"seesaw; teeter-totter; lever; toggle; trigger; weighing machine"
+root,baso,"bass; bass voice"
+root,bastardo,bastard
+root,bastiono,bastion
+root,basto,"bast; inner bark"
+root,bastono,"baton; cane; staff; stick; rod; bar"
+root,bataliono,battalion
+root,batali,"to (do) battle; combat; contend; fight; struggle; engage in combat"
+root,baterio,battery
+root,bati,"to beat; hit; strike; smack; beat; lash"
+root,bazalto,"basalt; whimstone"
+root,bazaro,"bazaar; fair; market; department store; mall"
+root,bazilisko,"(American) basilisk"
+root,bazo,"base; basis; footing; ground; platform; stem; radix"
+root,bebo,baby
+root,bedaŭri,"to be sorry about; regret; lament; pity"
+root,bedo,"bed (garden); plot"
+root,beko,"beak; bill"
+root,bela,"beautiful; fine; handsome; lovely; good-looking; pretty"
+root,beladono,"belladonna; deadly nightshade; devil’s cherry"
+root,beletristiko,"belles-lettres; belletristic literature"
+root,beletro,"belles lettres; literature"
+root,belgo,Belgian
+root,bemolo,"flat (music)"
+root,bendo,"binding; strip; tape; band"
+root,beni,"to bless"
+root,benko,"bench; form"
+root,benzino,gasoline
+root,Berlino,Berlin
+root,bero,berry
+root,besto,"animal; beast"
+root,beto,"beet; beetroot"
+root,betono,concrete
+root,betulo,"birch (tree)"
+root,bezoni,"to need; require; want"
+root,biblio,bible
+root,bibliografio,bibliography
+root,bibliografo,bibliographer
+root,biblioteko,library
+root,biciklo,"bicycle; bike; cycle"
+root,bieno,"domain; estate; farm; property; ranch; land; ground(s)"
+root,biero,"ale; beer"
+root,bifsteko,"steak; beefsteak"
+root,bigoto,"bigot; fanatic"
+root,bilanco,"annual accounts; (annual) financial statement; balance sheet; statement of conditions; balance"
+root,bilardo,"billiards; billiards table; pool; pool table"
+root,bildo,"image; picture"
+root,bileto,"bill; ticket; note; docket"
+root,bindi,"to bind; link (a program)"
+root,binoklo,binoculars
+root,biografio,biography
+root,biografo,biographer
+root,biologio,biology
+root,biologo,biologist
+root,birdo,bird
+root,bireto,"beret; biretta"
+root,Birmo,"Burma; Union of Myanmar"
+root,biskvito,"biscuit; cookie; zwieback; cracker"
+root,bismuto,bismuth
+root,bisturio,"lancet; surgeon’s knife"
+root,bito,bit
+root,bitumo,bitumen
+root,bivako,bivouac
+root,bizono,"bison; buffalo"
+root,blanka,"blank; white"
+root,blasfemi,"to blaspheme; cuss; curse; swear"
+root,blato,"cockroach; chip"
+root,blazono,"blazon; coat of arms; heraldry; symbol"
+root,bleki,"to cry (of animals); bellow; bleat; neigh; grunt"
+root,blinda,"blind; sightless"
+root,blokado,blockade
+root,bloko,"block; boulder; chunk; unit"
+root,blonda,"blond; fair; fair-haired"
+root,blovi,"to blow; puff"
+root,blua,blue
+root,blufi,"to bluff; brag"
+root,bluzo,blouse
+root,boaco,"caribou; reindeer"
+root,boao,"boa (snake)"
+root,boato,"boat; vessel; ship"
+root,bobeno,"bobbin; coil; reel; spool; choke; inductor; reactor"
+root,boji,"to bay; bark"
+root,bojkoti,"to boycott"
+root,boksi,"to box"
+root,boli,"to boil; seethe"
+root,Bolivio,Bolivia
+root,bombardi,"to bombard"
+root,bombasto,bombast
+root,bombo,"bomb; shell"
+root,bombono,"bonbon; piece of candy; sweet"
+root,bona,"good; nice; okay; kind; nice"
+root,borakso,borax
+root,bordelo,"bordello; brothel"
+root,borderi,"to border; fringe; hem"
+root,bordo,"bank; border; edge; coast; shore"
+root,bori,"to bore; drill"
+root,borso,"money market; stock exchange; stock market"
+root,bosko,"copse; grove"
+root,botaniko,botany
+root,botelo,bottle
+root,boto,boot
+root,bovlo,bowl
+root,bovo,"cow; ox"
+root,braceleto,bracelet
+root,bradipo,"sloth; three-toed sloth"
+root,brako,"arm (of the body); upper arm"
+root,bramano,Brahmin
+root,bramo,"bream; topgallant mast"
+root,branĉo,"bough; branch"
+root,brando,brandy
+root,branko,gill
+root,brano,bran
+root,brasiko,"brassica; cabbage; cole"
+root,brava,"brave; gallant; good; honest; stalwart; staunch; valiant; valorous; worthy"
+root,Brazilo,Brazil
+root,breĉo,"breach; gap (software, programming) bug"
+root,bredi,"to breed; farm; keep; raise; rear"
+root,bremso,"brake; break key"
+root,breto,"bar; shelf"
+root,brido,"bridle; check; restraint"
+root,brigado,brigade
+root,briko,block
+root,brilianto,"gem; jewel"
+root,brili,"to glisten; glow; shine; sparkle"
+root,brito,Briton
+root,broĉo,"brooch; safety pin"
+root,brodi,"to embroider"
+root,brogi,"to scald"
+root,brokanti,"to buy and sell used (second-hand) products"
+root,brokolo,broccoli
+root,bromo,bromine
+root,bronkito,bronchitis
+root,bronko,"bronchial tube"
+root,bronzo,bronze
+root,broso,brush
+root,broŝuro,"brochure; leaflet; pamphlet; paperback"
+root,brovo,"brow; eyebrow"
+root,brui,"to make (a) noise"
+root,bruli,"to burn; be on fire; sting"
+root,bruna,brown
+root,brusto,"bosom; breast; chest"
+root,bruto,"brute; beast; head of cattle; farm animal"
+root,bubalo,buffalo
+root,bubo,"brat kid; urchin; jack (cards)"
+root,buĉi,"to butcher; slaughter; kill (animals)"
+root,budĝeto,budget
+root,budo,"barn; shed; stand; stall; hut; booth; cabana; kiosk"
+root,buduaro,boudoir
+root,bufedo,buffet
+root,bufo,toad
+root,buĝeto,budget
+root,bukedo,"bunch; bouquet"
+root,buklo,"curl; lock (hair); loop; lock; wisp"
+root,buko,"buckle; clasp"
+root,bukso,"box (shrub, tree); boxwood"
+root,bulbo,"bulb; dome"
+root,bulgaro,Bulgarian
+root,buljono,"bouillon; broth"
+root,bulko,"bun; roll"
+root,bulo,"ball; chunk; clod; hunk; lump; wad; bullet"
+root,bulteno,"bulletin; newsletter"
+root,bulvardo,boulevard
+root,burdo,"bumblebee; drone"
+root,burĝo,"bourgeois; commoner; middle-class citizen"
+root,burĝono,bud
+root,burleska,burlesque
+root,burnuso,burnous
+root,burokrato,bureaucrat
+root,buŝelo,bushel
+root,buŝo,"mouth; orifice"
+root,busto,"bust; torso"
+root,butero,butter
+root,butiko,"boutique; shop; store"
+root,butono,"bud; button; knob; stud"
+root,ĉagreni,"to aggravate; annoy; distress; vex; worry; grieve"
+root,ĉambelano,chamberlain
+root,ĉambro,"chamber; room"
+root,ĉamo,chamois
+root,ĉampano,champagne
+root,ĉampiono,champion
+root,ĉano,"hammer (of a gun); trigger"
+root,ĉapelo,"caret; hat; circumflex"
+root,ĉapitro,chapter
+root,ĉapo,"beret; cap; cover; bonnet; header; heading"
+root,ĉarlatano,"charlatan; imposter"
+root,ĉarma,"attractive; charming; lovely; pleasing; alluring"
+root,ĉarniro,hinge
+root,ĉaro,"car; cart; chariot"
+root,caro,"czar; tsar"
+root,ĉarpenti,"to build; build from wood; construct"
+root,ĉarpio,lint
+root,ĉasio,chassis
+root,ĉasi,"to chase; hunt; pursue; seek after"
+root,ĉasta,"chaste; pure"
+root,cedi,"to cede; give in; yield; comply; concede; grant; accommodate"
+root,cedro,cedar
+root,cejano,cornflower
+root,ĉeko,check
+root,celerio,celery
+root,celo,"aim; goal; purpose; target; purpose; objective; aspiration"
+root,ĉelo,"cell; location"
+root,celulozo,cellulose
+root,cemento,cement
+root,ĉemizo,"chemise; shirt"
+root,cendo,cent
+root,ĉeno,"chain; string; string (characters)"
+root,centigramo,centigram
+root,centilitro,centiliter
+root,centimetro,centimeter
+root,centimo,centime
+root,centralizi,"to centralize"
+root,centralo,"central office; exchange (telephone); power station"
+root,centro,center
+root,cenzuri,"to censor; censure"
+root,cepo,onion
+root,ceramiko,"ceramics; pottery"
+root,cerbo,brain
+root,ceremonio,"ceremony; observance"
+root,ĉerizo,cherry
+root,ĉerko,coffin
+root,ĉerpi,"to bail; draw (water); excerpt; extract; spoon"
+root,certa,"certain; sure; unerring"
+root,cervo,"deer; hart; stag"
+root,ĉesi,"to cease; stop; leave off; desist; quit; end"
+root,cetera,"additional; remaining; rest of"
+root,ĉevalo,"horse; steed"
+root,ĉevrono,"chevron; rafter; support beam"
+root,cico,nipple
+root,cidonio,quince
+root,cidro,cider
+root,ĉielo,"heaven; sky"
+root,cifero,"cipher; digit; figure; numeral"
+root,ĉifi,"to crease; crumble; crumple; rumple; wrinkle"
+root,ĉifono,"rag; scrap; tatter; shred"
+root,ĉifro,"cipher; code; secret code; secret writing"
+root,cigano,"Gypsy; Romany"
+root,cigaredo,cigarette
+root,cigaro,cigar
+root,cigno,swan
+root,cikado,cicada
+root,ĉikani,"to nit-pick; quibble; split hairs; badger; bait; bully"
+root,cikatro,scar
+root,ciklo,"cycle; bicycle; bike"
+root,ciklono,cyclone
+root,ciklopo,Cyclops
+root,cikonio,stork
+root,cikorio,"Belgian endives; chicory"
+root,cikuto,"water hemlock; cowbane"
+root,cilindro,"cylinder; roller; stack; cylindrical surface"
+root,cimbalo,cymbal
+root,cimo,"bug (software, programming)"
+root,ĉimpanzo,chimpanzee
+root,cinabro,"cinnabar; vermilion"
+root,cinamo,cinnamon
+root,cindro,"ash(es); cinder"
+root,cinika,cynical
+root,ĉino,Chinese
+root,cipreso,cypress
+root,cirkelo,"(pair of) compasses"
+root,cirklo,"circle; disk"
+root,cirko,circus
+root,cirkonstanco,circumstance
+root,cirkulero,circular
+root,cirkuli,"to be about; circulate; get about"
+root,cirkumcidi,"to circumcise"
+root,cirkumflekso,circumflex
+root,cirkvito,circuit
+root,ciro,"polish; wax"
+root,cisterno,"cistern; reservoir; tank"
+root,citadelo,citadel
+root,citi,"to cite; quote; mention"
+root,citrono,"citron; lemon"
+root,citro,zither
+root,civila,"civil; civilian; non-military; secular"
+root,civilizacio,civilization
+root,civilizi,"to civilize"
+root,civito,"citizenry; city state; incorporated town; polity"
+root,ĉizi,"to carve; chisel"
+root,ĉokolado,chocolate
+root,colo,inch
+root,daktilo,"dactyl; date (fruit)"
+root,damasko,damask
+root,damo,"dame; queen; king; lady"
+root,danci,"to dance"
+root,dando,"dandy; dude; fop; fashionista"
+root,danĝero,"danger; hazard; jeopardy; peril"
+root,danki,"to thank"
+root,dativo,dative
+root,dato,"date (time)"
+root,daturo,"jimson weed; thorn apple"
+root,daŭro,"duration; space (time); lapse (of time)"
+root,debato,debate
+root,debeto,debit
+root,Decembro,December
+root,decidi,"to choose; decide; determine; resolve; settle"
+root,deĉifri,"to decipher; decode; decrypt"
+root,decigramo,decigram
+root,decilitro,deciliter
+root,decimala,decimal
+root,decimetro,decimeter
+root,deci,"to befit; be fitting"
+root,dediĉi,"to consecrate; dedicate; devote; set aside; vow"
+root,dedukti,"to deduce; gather"
+root,defendi,"to defend"
+root,deficito,"deficiency; deficit"
+root,defii,"to challenge; defy"
+root,definitiva,"definite; definitive"
+root,degeli,"to melt; thaw"
+root,degeneri,"to degenerate; degrade; deteriorate"
+root,degradi,"to degrade; demote; downgrade"
+root,deĵori,"to be on duty; serve"
+root,dekadenco,"decadence; decline; decay"
+root,dekagramo,decagram
+root,dekalitro,decaliter
+root,dekametro,decameter
+root,dekano,"dean (college, etc.)"
+root,deklami,"to declaim; recite"
+root,deklaracio,"announcement; declaration; proclamation; manifesto"
+root,deklari,"to declare; state; proclaim"
+root,deklinacio,"declension; declination"
+root,deklivo,"declivity; gradient; hillside; side; slant; slope; incline; backslash"
+root,dekolti,"to cut low; expose neck and shoulders"
+root,dekoracio,"décor; decoration; theater set"
+root,dekreto,"decree; edict"
+root,dekstra,"right; right-hand"
+root,delegacio,delegation
+root,delegi,"to delegate"
+root,delfeno,dolphin
+root,delikata,"delicate; fine; refined; gentle; sensitive; fragile; dainty; awkward"
+root,deliri,"to be delirious; wander; rave"
+root,delto,delta
+root,demagogio,"demagoguery; demagogy"
+root,demagogo,demagogue
+root,demandi,"to ask; inquire; demand; interrogate; question"
+root,demografio,demography
+root,demokratio,democracy
+root,demokrato,democrat
+root,demono,"daemon; demon"
+root,demonstracio,"demonstration; proof"
+root,demonstrativo,"demonstrative; demonstrative pronoun"
+root,denaro,denarius
+root,densa,"compact; concentrated; dense; thick; condensed"
+root,dento,"tooth; cog; prong"
+root,denunci,"to accuse; denounce; impeach; inform against; file charges; lodge a complaint"
+root,departemento,"(administrative) department"
+root,depeŝo,"dispatch; message"
+root,deponi,"to deposit; dump; bank; file; lodge; store"
+root,deputi,"to depute"
+root,desegni,"to design; depict; draw; sketch; plot"
+root,deserto,dessert
+root,despoto,despot
+root,destini,"to assign; consign; designate; destine; dispose; earmark; ordain"
+root,detalo,detail
+root,detektivo,"detective; private eye; investigator"
+root,determini,"to decide; determine; fix; set; settle"
+root,detrui,"to destroy; quash"
+root,devi,"to be obliged to; have to; must; ought to; should"
+root,devizo,"device; motto; watchword; slogan; rallying cry; draft on foreign bank"
+root,dezerto,"desert; wilderness"
+root,deziri,"to desire; wish; want"
+root,diabeto,diabetes
+root,diablo,devil
+root,diademo,diadem
+root,diafana,"diaphanous; pellucid; semi-transparent; translucent; transparent; overhead (sheet)"
+root,diafragmo,diaphragm
+root,diagnozo,"diagnosis; diagnostics"
+root,diagonalo,diagonal
+root,diakono,deacon
+root,dialektiko,dialectic(s)
+root,dialekto,dialect
+root,dialogo,dialog
+root,diamanto,diamond
+root,diametro,diameter
+root,dianto,"carnation (flower); pink"
+root,diapazono,"tuning fork; diapason"
+root,diboĉi,"to debauch; revel; wallow"
+root,didaktiko,"didactics; pedagogy"
+root,didelfo,"kangaroo; opossum"
+root,dieso,"grid; hash; number sign; pound sign; sharp (music)"
+root,dieto,diet
+root,difekti,"to damage; harm; hurt; impair; injure; mutilate; spoil; mar"
+root,diferenci,"to be different; differ; disagree"
+root,difini,"to allot; define; determine"
+root,difterio,diphtheria
+root,difterito,diphtheria
+root,diftongo,diphthong
+root,digesti,"to digest"
+root,digno,"dignity; respect; self-worth; self-respect; worth"
+root,digo,"dam; dike; embankment; jetty; mound"
+root,dika,"thick; corpulent; fat; stout; plump; bold (font)"
+root,diktatoro,dictator
+root,dikti,"to dictate"
+root,dilemo,dilemma
+root,diletanto,"amateur; dabbler; dilettante"
+root,diligenta,"assiduous; diligent; hardworking; industrious; earnest"
+root,diluvo,"deluge; flood"
+root,dimanĉo,Sunday
+root,dimensio,"dimension; measurement; order; size"
+root,dinamiko,dynamics
+root,dinamito,dynamite
+root,dinamometro,dynamometer
+root,dinastio,dynasty
+root,Dio,God
+root,diplomatio,diplomacy
+root,diplomato,diplomat
+root,diplomo,"certificate; degree; diploma"
+root,direkto,direction
+root,direktoro,"director; manager"
+root,diri,"to say; tell; state"
+root,disciplino,discipline
+root,disĉiplo,"adherent; disciple; follower"
+root,disenterio,dysentery
+root,disko,"disc; disk; disk drive; drive; platter; dial; record; circle"
+root,diskonti,"to discount"
+root,diskreta,"discrete; countable; denumerable"
+root,diskriminacii,"to discriminate"
+root,diskuti,"to discuss"
+root,dispepsio,"dyspepsia; indigestion"
+root,disponi,"to absorb; have at one’s disposal; dispose (of); have available"
+root,disputi,"to argue; dispute; bicker; contest; wrangle; contend"
+root,distanco,"distance; offset"
+root,distili,"to distil"
+root,distingi,"to differentiate; discern; discriminate; distinguish; mark"
+root,distribui,"to allocate; apportion; distribute"
+root,distrikto,"circuit; district; zone"
+root,distri,"to amuse; distract; divert; entertain; unbend; relax"
+root,ditirambo,dithyramb
+root,divano,"couch; divan; ottoman"
+root,diveni,"to divine; guess (correctly)"
+root,diversa,"different; diverse; varied; various; sundry; miscellaneous"
+root,dividi,"to divide; separate; share; split"
+root,divizio,"division; military division"
+root,dizerti,"to desert; run away from"
+root,dogano,"customs (duty at border)"
+root,dogmo,"dogma; tenet"
+root,dogo,"bulldog; mastiff"
+root,doko,"dock; dockyard; docking station; cradle"
+root,doktoro,"doctor (title)"
+root,doktrino,doctrine
+root,dokumento,"document; paper; certificate"
+root,dolaro,dollar
+root,dolĉa,"gentle; soft; sweet; tender; mild"
+root,doloro,"ache; pain; pang; tribulation; anguish; hurt"
+root,domaĝi,"to be anxious about; be concerned for; begrudge; not want to spend; regret; be sorry about; fear for"
+root,domeno,"domino(es); masquerade dress"
+root,domo,"house; villa; building; home"
+root,donaco,"gift; present; donation; giveaway"
+root,doni,"to give; administer; afford; allow; confer; grant; impart; provide; spare; yield"
+root,dorloti,"to coddle; pamper; pet; fondle"
+root,dormi,"to be asleep; sleep"
+root,dorno,"thorn; prickle; spine"
+root,dorso,"back (of body)"
+root,doto,"dowry; portion"
+root,dozo,"dose; portion; quantity"
+root,dragono,dragoon
+root,drakmo,drachma
+root,drako,dragon
+root,dramo,"drama; thriller"
+root,drapiri,"to drape"
+root,drapo,"cloth; woolen cloth; sheet"
+root,draŝi,"to thresh; thrash; hammer; wallop"
+root,drasta,drastic
+root,drato,wire
+root,dresi,"to tame; train (an animal)"
+root,drinki,"to drink (to excess)"
+root,drivi,"to drift; be adrift"
+root,drogo,"drug; pharmaceutical"
+root,dromedaro,dromedary
+root,droni,"to drown; sink"
+root,dualismo,dualism
+root,dubi,"to doubt; question"
+root,duelo,duel
+root,dueto,duet
+root,dukato,ducat
+root,duko,duke
+root,dungi,"to employ; engage; hire"
+root,duŝo,"douche; shower"
+root,ebena,"even; flat; level; smooth"
+root,ebono,ebony
+root,ebria,"drunk; intoxicated; tipsy; inebriated"
+root,eburo,ivory
+root,Edeno,Eden
+root,edifi,"to edify"
+root,edikto,"decree; edict"
+root,eduki,"to breed; bring up; educate; raise"
+root,edzo,"husband; mate; spouse"
+root,efektiva,"actual; real; effective; effectual; true"
+root,efekto,"effect; impression"
+root,efemero,mayfly
+root,efiki,"to act; be effective; have effect; work; effect"
+root,egala,"equal; even; level"
+root,egido,"aegis; protection; shield; auspices; sponsorship"
+root,egoismo,"egoism; self-interest; selfishness"
+root,egoisto,"egoist; egotist"
+root,eĥo,echo
+root,ekipi,"to equip; outfit"
+root,eklezio,"church (institution, not building)"
+root,eklipso,eclipse
+root,eklogo,eclogue
+root,ekologio,ecology
+root,ekonomio,"economics; economy"
+root,ekrano,"display; monitor; screen; visual display unit"
+root,ekscelenco,"excellency (title)"
+root,eksceso,excess
+root,eksciti,"to agitate; arouse; excite; rouse; stir; stir up"
+root,ekskluziva,exclusive
+root,ekskomuniki,"to excommunicate"
+root,ekskremento,excrement
+root,ekskursi,"to go on an excursion"
+root,ekspedi,"to dispatch; send off; ship; expedite; forward; dispatch"
+root,eksperimento,experiment
+root,eksplodi,"to explode; blow up"
+root,ekspluati,"to exploit; leverage; take advantage of; utilize; work"
+root,eksporti,"to export"
+root,ekspozicio,"exhibition; exposition"
+root,ekspresa,express
+root,ekstazo,"ecstasy; rapture; delight"
+root,ekstermi,"to exterminate; wipe out"
+root,ekstra,"additional; extra; spare"
+root,ekstrakto,extract
+root,ekstrema,"extreme; utmost"
+root,ekvacio,equation
+root,Ekvadoro,Ecuador
+root,ekvatoro,equator
+root,ekvilibro,"balance; equilibrium"
+root,ekzakta,"accurate; exact"
+root,ekzameni,"to examine; inspect; verify; question; scrutinize; survey; audit"
+root,ekzekuti,"to execute (criminal)"
+root,ekzemo,eczema
+root,ekzemplero,"copy (of book, etc.); exemplar"
+root,ekzemplo,"copy; example; instance"
+root,ekzerci,"to exercise; practice; train; drill; rehearse"
+root,ekzili,"to ban; banish; exile"
+root,ekzisti,"to exist"
+root,elasta,"elastic; springy"
+root,elefanto,elephant
+root,eleganta,"elegant; smart"
+root,elegio,elegy
+root,elekti,"to choose; elect; pick (out); select"
+root,elektro,electricity
+root,elektroniko,electronics
+root,elemento,"element; entry; item"
+root,elfo,elf
+root,eliksiro,elixir
+root,elipso,ellipse
+root,Elizabeto,Elizabeth
+root,elizii,"to elide"
+root,elokventa,"eloquent; fluent; rhetorical"
+root,emajlo,enamel
+root,emancipi,"to emancipate"
+root,embaraso,"abashment; embarrassment; perplexity; difficult situation; quandary; complication; difficulty"
+root,emblemo,"emblem; suit (of cards); logo"
+root,embrio,embryo
+root,embusko,"ambuscade; ambush"
+root,emerito,"emeritus; ex-official; retired person; retiree; pensioner"
+root,emfazo,"accent; emphasis"
+root,eminenco,eminence
+root,eminenta,"distinguished; eminent; prominent"
+root,emocio,emotion
+root,empirio,empiry
+root,emulsio,emulsion
+root,enciklopedio,encyclopedia
+root,energio,"energy; spirit"
+root,enigmo,"enigma; puzzle; riddle"
+root,enketi,"to inquire; investigate; make an inquiry; survey"
+root,entomologio,entomology
+root,entomologo,entomologist
+root,entrepreni,"to undertake (take it upon oneself to do)"
+root,entuziasmo,"alacrity; enthusiasm"
+root,enui,"to be bored; be tired; be weary; bother; pester; tire"
+root,envii,"to envy"
+root,epidemio,epidemic
+root,epidermo,epidermis
+root,Epifanio,"Epiphany; Twelfth-night"
+root,epigrafo,"epigraph; inscription"
+root,epigramo,epigram
+root,epilepsio,epilepsy
+root,epilogo,"epilog; epilogue"
+root,episkopo,"bishop; prelate"
+root,epiteto,epithet
+root,epizodo,"episode; occurrence; event"
+root,epoko,"age; epoch; era; period"
+root,epoleto,"epaulet; epaulette"
+root,epopeo,"epic; epic poem"
+root,erari,"to err; make a mistake; go astray; wander"
+root,eriko,"heath; heather (plant)"
+root,erinaco,hedgehog
+root,erizipelo,erysipelas
+root,ermeno,"ermine (animal)"
+root,ermito,"hermit; recluse"
+root,erotika,erotic
+root,erpi,"to harrow; rake; till; plow"
+root,erudicio,"erudition; scholarship"
+root,erupcio,"eruption; rash"
+root,eŝafodo,"scaffold (for hangings, executions)"
+root,escepti,"to except; exclude"
+root,esenco,"essence; gist; substance; bottom line"
+root,eskadro,"squadron (naval)"
+root,eskapi,"to escape; flee"
+root,eskorti,"to escort"
+root,Esperanto,Esperanto
+root,esperi,"to hope"
+root,esplori,"to examine; explore; investigate; prospect; research; study; survey; browse (for file)"
+root,esprimi,"to express; state"
+root,establi,"to erect; establish"
+root,estetiko,aesthetics
+root,estimi,"to esteem; think well of; have esteem for; respect; regard"
+root,estingi,"to extinguish; put out; put out; quench"
+root,esti,"to be"
+root,estono,Estonian
+root,estrado,"platform; stage"
+root,etaĝo,"floor; storey; story"
+root,etapo,"period; stage; phase; distance covered; halting place; length covered; stage; stopover; lap"
+root,etato,"account; inventory; report; list; register; return (financial); statement (financial); table (data)"
+root,etendi,"to expand; extend; stretch out"
+root,eterna,"endless; eternal; everlasting; perpetual; never-ending"
+root,etero,ether
+root,etikedo,"label; tag"
+root,etiketo,"code of conduct; etiquette; protocol; rules of behavior; label; tag"
+root,etiko,"ethic; ethics; morals"
+root,etimologio,etymology
+root,etimologo,etymologist
+root,etiologio,etiology
+root,etiologo,aetiologist
+root,etiopo,"Abyssinian; Ethiopian"
+root,etno,"ethnos; ethnic group"
+root,etnografio,ethnography
+root,etnografo,ethnographer
+root,etnologio,ethnology
+root,etoso,"atmosphere; environment; ethos; mood; look-and-feel; skin; theme"
+root,eŭfemismo,euphemism
+root,eŭkalipto,"eucalyptus; jarrah"
+root,Eŭkaristio,eucharist
+root,eŭnuko,eunuch
+root,eŭro,euro
+root,Eŭropo,Europe
+root,Evangelio,gospel
+root,evento,event
+root,eventuala,"contingent; eventual"
+root,evidenta,"evident; obvious; manifest; unmistakable; clear"
+root,eviti,"to avoid; evade; eschew; keep aloof; shirk; shun"
+root,evolucio,"development; evolution"
+root,evolui,"to develop; evolve"
+root,ezofago,"esophagus; gullet"
+root,ezoko,"pike (fish)"
+root,fabelo,"bedtime story; fairy tale; story; tale"
+root,fablo,fable
+root,fabo,"bean; broad bean; fava bean"
+root,fabriko,"fabric; factory; manufacture"
+root,faceto,facet
+root,facila,"easy; facile"
+root,faco,face
+root,fadeno,"strand; thread"
+root,fago,"beech (tree)"
+root,fagoto,bassoon
+root,fajenco,"crockery; earthenware; pottery"
+root,fajfi,"to whistle"
+root,fajli,"to file (down)"
+root,fajro,"fire; ardor; enthusiasm; fervor"
+root,fakiro,fakir
+root,fako,"area of expertise; branch; compartment; department; section; specialty; subject; discipline"
+root,faksimilo,facsimile
+root,fakto,fact
+root,faktoro,"agent; factor; steward"
+root,fakturo,"account; bill; invoice"
+root,fakultato,"faculty (university, etc.)"
+root,falbalo,"flounce; furbelow; trimming; frill; ruffle"
+root,falĉi,"to cut; mow; reap"
+root,faldi,"to fold; wrap"
+root,faldo,fold
+root,fali,"to drop; fall; topple"
+root,falko,falcon
+root,falsa,"counterfeit; fake; false; spurious; forged; wrong"
+root,falsi,"to counterfeit; fake; falsify; counterfeit; forge"
+root,fama,"famous; celebrated; illustrious; notable"
+root,familiara,"familiar; informal; intimate; friendly"
+root,familio,family
+root,fanatika,fanatical
+root,fandi,"to case; fuse; melt; smelt"
+root,fanfaro,"fanfare; flourish"
+root,fanfaroni,"to bluster; boast; brag; swagger; boast"
+root,fantazio,"fantasy; imagination"
+root,fantomo,"ghost; phantom; specter; spirit"
+root,farbo,"dye; paint"
+root,farĉo,"mincemeat; stuffing"
+root,faringo,"pharynx; gullet"
+root,fari,"to achieve; act; do; make; perform; build"
+root,farmacio,"pharmaceutics; pharmacy (science)"
+root,farmi,"to farm; lease"
+root,farso,farce
+root,farti,"to be; fare (as to health)"
+root,faruno,"flour; meal"
+root,fasado,"façade; front; interface; look and feel"
+root,fasko,"bunch; bundle; cluster; sheaf"
+root,fasono,"cut; fashion; style; make; tailoring; model"
+root,fasti,"to fast"
+root,fatala,"fated; fateful; ill-fated; inevitable; ruinous"
+root,faŭko,"jaws; maw"
+root,favo,"favus; ringworm"
+root,favora,"advantageous; auspicious; favorable"
+root,fazano,pheasant
+root,fazeolo,"bean; green bean; haricot"
+root,fazo,"phase; stage; aspect"
+root,febro,fever
+root,Februaro,February
+root,feĉo,"dregs; scum; sediment"
+root,federacio,federation
+root,federi,"to federate"
+root,feki,"to defecate; shit"
+root,feliĉa,"fortunate; happy; lucky"
+root,felietono,"feuilleton; serial; serial feature"
+root,felo,"fur; hide; skin; pelt"
+root,felto,felt
+root,feminismo,feminism
+root,feministo,feminist
+root,femuro,"femur; thigh; leg; upper leg"
+root,fendo,"cleft; crack; crevice; rift; slit"
+root,fenestro,"window; pane"
+root,fenikso,phoenix
+root,fenkolo,fennel
+root,fenomeno,phenomenon
+root,feo,"fairy; spirit"
+root,ferdeko,"deck (ship)"
+root,ferio,"holiday; vacation"
+root,fermento,"enzyme; ferment"
+root,fermi,"to close; shut (down); adjourn"
+root,fero,iron
+root,fervora,"ardent; fervent; full of zeal; zealous"
+root,festeni,"to banquet; feast"
+root,festi,"to celebrate; party"
+root,festivalo,festival
+root,festono,festoon
+root,fetiĉo,fetish
+root,feŭdo,"feud; fief"
+root,fiakro,"cab; carriage for hire; coach for hire; fiacre"
+root,fianĉo,"betrothed; fiancé; sweetheart"
+root,fiasko,"abortion; failure; fiasco"
+root,fibro,"fiber; filament"
+root,fidela,"accurate; exact; faithful; loyal; staunch; trusty; trustworthy"
+root,fidi,"to have faith; have faith in; trust"
+root,fiera,"proud; haughty"
+root,figo,fig
+root,figuro,"configuration; diagram; figure; image; picture; representation"
+root,fikcio,fiction
+root,fiksa,fixed
+root,fiksi,"to attach; determine; fasten; fix; affix; make fast; secure; freeze; latch"
+root,fiktiva,fictitious
+root,filantropio,philanthropy
+root,filantropo,philanthropist
+root,filio,"affiliate; affiliation; branch; affiliated body"
+root,filmo,"film; motion picture; movie"
+root,filologio,philology
+root,filologo,philologist
+root,filo,son
+root,filozofio,philosophy
+root,filozofo,philosopher
+root,filtri,"to filter"
+root,finalo,"decider; playoff; finale"
+root,financo,finance
+root,fingro,"finger; digit"
+root,fini,"to end; finish; terminate; close; conclude"
+root,firma,"fast; firm; stable; staunch; unshaken"
+root,fisko,"exchequer; state treasury"
+root,fiŝo,fish
+root,fistulo,fistula
+root,fiziko,physics
+root,fiziologio,physiology
+root,fiziologo,physiologist
+root,fizionomio,"physiognomy (face)"
+root,fjordo,"firth; fjord; inlet; loch"
+root,flago,"banner; flag; toggle"
+root,flagri,"to flare; flare up; flicker"
+root,flamo,flame
+root,flanelo,flannel
+root,flanko,"flank; side; lateral surface"
+root,flano,"flan; tart; pancake; thin flat pastry"
+root,flari,"to scent; smell"
+root,flati,"to flatter"
+root,flava,yellow
+root,flegi,"to attend; nurse; tend to; mind; take care of; see to"
+root,flegmo,"apathy; indifference; phlegm; stolidity; composure; calmness"
+root,fleksio,"flexion; inflexion"
+root,fleksi,"to bend; flex; inflect"
+root,fliki,"to darn; mend; patch (up)"
+root,flirti,"to flirt; flit; flutter"
+root,floko,"flake; flock; wisp"
+root,floreno,"floren; florin"
+root,floro,"bloom; flower"
+root,floso,raft
+root,flugi,"to flee; fly"
+root,fluido,"fluid; liquid"
+root,flui,"to flow; run; stream"
+root,flustri,"to whisper"
+root,fluto,flute
+root,foiro,"fair; bazaar; (street) market"
+root,fojno,hay
+root,fojo,"occasion; time"
+root,foko,"seal (animal)"
+root,fokuso,focus
+root,folio,"leaf; sheet; page"
+root,folkloro,folklore
+root,fondi,"to erect; establish; form; found; institute"
+root,fonetiko,phonetics
+root,fono,background
+root,fonografo,"(cylinder) phonograph"
+root,fontano,fountain
+root,fonto,"fountain; fount; source; spring; seeder (torrent)"
+root,forgesi,"to forget"
+root,forĝi,"to forge"
+root,forko,fork
+root,formala,"formal; dummy"
+root,formato,"format; size (of a book)"
+root,formiko,ant
+root,formo,"form; shape; formation"
+root,formulo,"expression; formula"
+root,forno,"furnace; kiln; oven; stove"
+root,forta,"strong; pronounced"
+root,fortepiano,"grand piano; piano; pianoforte"
+root,fortika,"able-bodied; durable; firm; robust; sturdy; strong; solid; stable; substantial; rugged; fortified; durable"
+root,forumo,"forum; newsgroup"
+root,fosforo,phosphorus
+root,fosi,"to dig; grub; spade; excavate"
+root,foso,ditch
+root,fosto,"pole; post; stanchion; stake; upright; upright beam; upright support; vertical support; pier"
+root,fotelo,"armchair; easy chair"
+root,fotografio,photography
+root,fotografi,"to photograph"
+root,foto,"photo; photograph"
+root,fragmento,"bit; fragment; lump; piece; scrap; shred; splinter"
+root,frago,strawberry
+root,frajo,"fish eggs; spawn; fry; roe"
+root,frakasi,"to crush; shatter; smash; break to pieces; shatter"
+root,frakcio,"faction; fraction"
+root,frako,"dress coat; evening dress; tails"
+root,frakseno,"ash (tree)"
+root,framasono,"Freemason; Mason"
+root,frambo,raspberry
+root,framo,"frame; framework; substructure; skeleton"
+root,franco,Frenchman
+root,frandi,"to eat for pleasure; relish; enjoy"
+root,franĝo,fringe
+root,frangolo,"glossy buckthorn; breaking buckthorn; black dogwood"
+root,franko,franc
+root,frapi,"to hit; knock; strike"
+root,frato,"brother; sibling"
+root,fraŭlo,bachelor
+root,frazo,"expression; sentence; statement; phrase"
+root,fregato,"frigate; frigate bird"
+root,fremda,"alien; foreign; strange"
+root,freneza,"crazy; insane; mad; nuts"
+root,freŝa,"fresh; new; recent; raw"
+root,fresko,fresco
+root,fringelo,siskin
+root,fringo,"chaffinch; finch"
+root,fripono,"cheat; crook; rogue; rascal; villain; swindler"
+root,friti,"to fry"
+root,frivola,frivolous
+root,frizi,"to curl; frizz"
+root,fromaĝo,cheese
+root,fronto,"front; battlefront; frontage"
+root,frontono,pediment
+root,frosto,"freezing cold; frost"
+root,froti,"to grate; rub; stroke"
+root,frua,early
+root,frugilego,rook
+root,frukto,fruit
+root,frunto,"brow; forehead"
+root,frustri,"to frustrate"
+root,ftizo,"consumption; tuberculosis; phthisis"
+root,fuĝi,"to flee; run away"
+root,fuko,"jetsam; wrack"
+root,fulgo,soot
+root,fulmo,lightning
+root,fumo,"fume; smoke"
+root,fundamento,"element; foundation"
+root,fundo,"bottom; foundation; ground"
+root,funebro,"grief; mourning (band, garments)"
+root,funelo,funnel
+root,fungo,"fungus; mushroom; toadstool"
+root,funkcio,"function; capability"
+root,funto,"pound (weight or money)"
+root,furaĝo,"fodder; forage"
+root,furio,"fury; goddess of vengeance"
+root,furioza,"desperate; frantic; furious; raging"
+root,furoro,"blockbuster; craze; hit; fad"
+root,furunko,"boil (blain); furuncle"
+root,furzi,"to fart"
+root,fuŝi,"to botch; bungle; screw up; spoil; make a mess of; muddle"
+root,fusteno,fustian
+root,futo,"foot (12 inches)"
+root,gado,cod
+root,gaja,"cheerful; gay; merry; happy"
+root,gajlo,"gall-nut; oak apple; gall"
+root,gajni,"to gain; earn; profit; win"
+root,galaksio,galaxy
+root,galanterio,"millinery; toilet accessories"
+root,galantino,gallantine
+root,galanto,snowdrop
+root,galerio,gallery
+root,galero,galley
+root,galo,"bile; gall"
+root,galono,"galloon; piping; ribbon; tinsel; trim; cord; lace; stripe"
+root,galopo,gallop
+root,galoŝo,"galosh; overshoe"
+root,gamaŝo,gaiter
+root,gamo,"gamut; key; (musical) scale; range"
+root,ganglio,ganglion
+root,gangreno,gangrene
+root,ganto,"glove; mitten"
+root,garaĝo,garage
+root,garantii,"to guarantee; warrant; vouch; be responsible for"
+root,garbo,"bunch; bundle; sheaf; cluster; shock"
+root,gardenio,gardenia
+root,ĝardeno,garden
+root,gardi,"to guard; keep; look after; watch over; escort; retain"
+root,gargari,"to gargle; rinse"
+root,garni,"to decorate; embellish; equip; fit out; furnish; garnish; trim; reinforce; strengthen; adorn"
+root,garnituro,"accessories; fittings; garniture; kit; trimmings"
+root,garnizono,garrison
+root,garolo,jay
+root,gaso,gas
+root,gasto,"guest; sojourner"
+root,gazelo,gazelle
+root,gazeto,"gazette; magazine; newspaper; periodical"
+root,gazo,gauze
+root,gelateno,gelatine
+root,ĝemelo,"twin; Gemini"
+root,ĝemi,"to groan; moan"
+root,genciano,gentian
+root,ĝendarmo,"constable; gendarme; patrolman"
+root,genealogio,"family tree; genealogy; pedigree; genealogy"
+root,genealogo,genealogist
+root,generacio,generation
+root,ĝenerala,"general; generic; usual; rife; prevalent; widespread"
+root,generalo,general
+root,genio,genius
+root,genisto,broom
+root,genitivo,genitive
+root,ĝeni,"to bother; disturb; hinder; trouble; make uncomfortable"
+root,geno,gene
+root,genoto,genet
+root,genro,"gender; genus"
+root,ĝentila,"polite; gentle; civil; courteous; well-mannered; polished; refined"
+root,gento,"clan; ethnic group; genus; tribe; family; kin; race; people"
+root,genuo,knee
+root,geodezio,geodesy
+root,geografo,geographer
+root,geologio,geology
+root,geologo,geologist
+root,geometrio,geometry
+root,geometro,"geometer moths; Geometra; geometer; geometrician"
+root,Georgo,George
+root,geranio,geranium
+root,germano,German
+root,ĝermo,germ
+root,gerundio,gerund
+root,gesti,"to gesticulate; gesture"
+root,ĝibo,"bump; hump"
+root,giĉeto,"(ticket) window; counter"
+root,giganto,giant
+root,gilotino,guillotine
+root,gimnastiko,"exercise; gymnastics"
+root,gimnazio,"grammar school; high school; secondary school; middle school"
+root,gipso,"gypsum; plaster (of Paris)"
+root,ĝirafo,giraffe
+root,ĝiri,"to endorse; transfer"
+root,girlando,"garland; wreath"
+root,gitaro,guitar
+root,glacio,ice
+root,gladiatoro,gladiator
+root,gladi,"to iron (clothes)"
+root,glando,gland
+root,glano,"acorn; glans"
+root,glaso,"glass (a vessel)"
+root,glata,"sleek; slippery; smooth; slick"
+root,glavo,sword
+root,glazuro,glaze
+root,glicerino,glycerine
+root,glicirizo,licorice
+root,glikozo,glucose
+root,glimo,mica
+root,glisi,"to glide; plane"
+root,gliti,"to glide; slide; slip; skate"
+root,globo,"ball; ball bearing; globe; billiard ball; sphere"
+root,gloro,"fame; glory; renown"
+root,glukozo,glucose
+root,gluo,glue
+root,gluti,"to swallow"
+root,gnomo,"brownie; gnome; goblin"
+root,gobio,gudgeon
+root,ĝoji,"to be glad; enjoy; rejoice"
+root,golfo,"bay; golf; gulf"
+root,gondolo,gondola
+root,gorĝo,throat
+root,gorilo,gorilla
+root,gotika,Gothic
+root,gracia,"graceful; gracious; slender; slim"
+root,grado,"degree; grade"
+root,grafiko,"graphic arts; graphics; artwork"
+root,grafito,graphite
+root,grafo,"count; earl; graph"
+root,grafologio,"graphology; handwriting analysis"
+root,grafologo,"graphologist; handwriting analyst; handwriting expert"
+root,grajno,"grain; granule; pip (of fruit); stone (of fruit); particle; speck; seed"
+root,gramatiko,grammar
+root,gramofono,"gramophone; phonograph; record player; turntable; stereo"
+root,gramo,"gram (weight)"
+root,granato,pomegranate
+root,granda,"big; great; large; tall"
+root,grandioza,"grand; grandiose; magnificent; superb; sublime; splendid"
+root,granito,granite
+root,graso,"fat; grease"
+root,grati,"to scratch"
+root,gratuli,"to felicitate; congratulate"
+root,grava,"important; serious; grave; notable; important"
+root,graveda,"pregnant; with young"
+root,gravuri,"to engrave"
+root,grego,"flock; herd"
+root,greko,greek
+root,grenado,grenade
+root,greno,"corn; grain; cereal"
+root,grifelo,"pencil; stylus; pen"
+root,grilo,"cricket (insect)"
+root,grimaci,"to grimace; grin"
+root,grimpi,"to climb"
+root,grinci,"to creak; gnash; grate; grind; grate; make a grinding sound; squeak"
+root,grio,"coarse meal; grits; meal; oatmeal"
+root,gripo,"flu; influenza"
+root,griza,gray
+root,grogo,grog
+root,groso,gooseberry
+root,groŝo,"groschen (low value coin)"
+root,groteska,"grotesque; ludicrous"
+root,groto,"cave; grotto"
+root,grumbli,"to growl; grumble"
+root,grundo,"ground; soil"
+root,gruo,"crane (bird)"
+root,grupo,group
+root,gruzo,"gravel; grit"
+root,gubernio,"(administrative) province"
+root,gudro,"pitch; tar"
+root,gufo,"(eagle) owl"
+root,ĝui,"to delight in; enjoy; relish"
+root,gujavo,guava
+root,guldeno,"guilder; gulden"
+root,gumo,"eraser; gum"
+root,gurdo,"barrel-organ; hurdy-gurdy; organ"
+root,ĝusta,"correct; exact; proper; right"
+root,gusto,"flavor; relish; savor; taste; zest"
+root,gutaperko,gutta-percha
+root,guto,"drip; drop"
+root,guverni,"to coach; tutor; teach privately"
+root,gvardio,"guard (elite military corps, not sentry)"
+root,Gvatemalo,Guatemala
+root,gvidi,"to conduct; direct; drive; guide; lead; show the way"
+root,Gvineo,Guinea
+root,hajlo,hail
+root,haki,"to chop; cut; hack; hew"
+root,haladzo,"bad smell; fume(s); stink; stench"
+root,halebardo,halberd
+root,halo,"hall (great room)"
+root,halti,"to halt; come to a halt; stop"
+root,hamako,hammock
+root,hamstro,hamster
+root,hangaro,hangar
+root,ĥaoso,"chaos; tangle"
+root,hardi,"to harden; season; steel; temper; toughen"
+root,haremo,harem
+root,haringo,herring
+root,harmoniko,"accordion; harmonica; harp; harmonics"
+root,harmonio,harmony
+root,harmoniumo,harmonium
+root,haro,"(single) hair"
+root,harpio,"harpy (eagle)"
+root,harpo,harp
+root,harpuno,harpoon
+root,haŭto,"hide; skin; theme (GUI)"
+root,haveno,"harbor; port; haven; seaport"
+root,havi,"to have; own"
+root,hazardo,"accidence; chance; hazard"
+root,hebreo,hebrew
+root,hedero,ivy
+root,hegemonio,"dominance; hegemony; supremacy"
+root,heĝo,hedge
+root,hejmo,home
+root,hejti,"to heat; stoke"
+root,hekatombo,hecatombe
+root,heksametro,hexameter
+root,hektaro,hectare
+root,hektogramo,hectogram
+root,hektolitro,hectoliter
+root,hektometro,hectometer
+root,hela,"bright; brilliant; clear; light; vivid"
+root,heliko,"at sign; commercial at; @"
+root,helikoptero,helicopter
+root,heliotropo,heliotrope
+root,helpi,"to accommodate; aid; assist; help"
+root,ĥemio,chemistry
+root,hepato,liver
+root,herbo,"grass; herb"
+root,heredi,"to inherit"
+root,herezo,heresy
+root,hermafrodita,hermaphroditic
+root,hernio,"hernia; rupture"
+root,heroldo,herald
+root,heroo,hero
+root,hetmano,hetman
+root,heziti,"to hesitate"
+root,hiacinto,hyacinth
+root,hidrargo,"mercury; quicksilver"
+root,hidrofobio,hydrophobia
+root,hidrogeno,hydrogen
+root,hidro,hydra
+root,hidrostatiko,hydrostatics
+root,hidroterapio,hydrotherapy
+root,hieno,hyena
+root,hierarĥio,hierarchy
+root,hierarkio,hierarchy
+root,hieroglifo,hieroglyph
+root,higieno,hygiene
+root,higrometro,hygrometer
+root,ĥimero,chimera
+root,himno,"anthem; hymn; canticle"
+root,hipertrofio,hypertrophy
+root,hipnoto,"hypnosis; hypnotic trance"
+root,hipodromo,"hippodrome; racecourse"
+root,hipokriti,"to dissemble"
+root,hipopotamo,"hippo; hippopotamus"
+root,hipoteko,mortgage
+root,hipotezo,hypothesis
+root,hirta,"bristling; bristly; standing on end; untidy"
+root,hirudo,leech
+root,hirundo,"swallow (bird)"
+root,ĥirurgio,"surgery (the science)"
+root,ĥirurgo,surgeon
+root,hiskiamo,henbane
+root,hisopo,hyssop
+root,hispano,spaniard
+root,histerio,"excitement; hysteria; hysterics"
+root,historio,"annals; history; story"
+root,histriko,porcupine
+root,hobojo,oboe
+root,hoko,"hacek; hook; inverted circumflex; inverted hat; wedge"
+root,ĥolero,cholera
+root,homeopatio,"homeopathy; homoeopathy"
+root,homeopato,homeopath
+root,homo,"human being; man"
+root,homonimo,homonym
+root,honesta,"above-board; honest; incorrupt; upright"
+root,honorario,"fee; honorarium; remuneration"
+root,honoro,honor
+root,honti,"to be ashamed"
+root,hordeo,barley
+root,horizontalo,"horizontal line; row"
+root,horizonto,horizon
+root,horloĝo,timer
+root,hormono,hormone
+root,ĥoro,"chorus; choir"
+root,horo,"hour; o’clock; time"
+root,horoskopo,horoscope
+root,hortensio,hydrangea
+root,hortulano,ortolan
+root,hospitalo,hospital
+root,hostio,"wafer; host (Eucharist)"
+root,hotelo,hotel
+root,hufo,hoof
+root,humana,"humane; humanitarian"
+root,humida,"damp; humid; moist"
+root,humila,"humble; lowly; submissive"
+root,humo,humus
+root,humoro,"humor; mood; temper; wit"
+root,hundo,"dog; hound"
+root,hungaro,Hungarian
+root,husaro,"hussar; light cavalry soldier"
+root,huzo,"beluga; (European, white) sturgeon; hausen"
+root,ibiso,ibis
+root,idealismo,idealism
+root,idealo,ideal
+root,identa,identical
+root,ideografio,"ideography; picture writing"
+root,ideo,idea
+root,ideologio,ideology
+root,idilio,idyll
+root,idiomo,"idiom; tongue; language; vernacular"
+root,idiotismo,"idiom; idiomatic expression"
+root,idioto,idiot
+root,idolo,idol
+root,ignori,"to ignore; leave out of account; discard"
+root,iĥtiokolo,isinglass
+root,ikso,"the name of the letter X"
+root,ilekso,holly
+root,ilumini,"to enlighten; illuminate"
+root,ilustri,"to illustrate"
+root,iluzio,illusion
+root,imagi,"to fancy; imagine"
+root,imiti,"to imitate; emulate; fake; mimic; counterfeit"
+root,imperialismo,imperialism
+root,imperialo,"top deck of vehicle"
+root,imperio,empire
+root,impertinenta,"impertinent; impudent; insolent"
+root,impeti,"to be impetuous; bound; dash; spring; leap; rush"
+root,impliki,"to entangle; implicate; infer"
+root,imponi,"to impress forcibly; strike"
+root,importi,"to import"
+root,imposto,"duty; impost; tax"
+root,impresario,impresario
+root,impreso,impression
+root,improvizi,"to improvise"
+root,impulso,"access; impetus; impulse"
+root,imuna,"exempt; immune"
+root,inaŭguracio,inauguration
+root,inaŭguri,"to inaugurate"
+root,incenso,incense
+root,inciti,"to abet; excite; incite; provoke; rouse; stimulate; stir up; irritate"
+root,indekso,index
+root,indiferenta,"immaterial; indifferent"
+root,indiĝeno,"aborigine; native; indigenous person"
+root,indigni,"to be indignant; be irritated; resent"
+root,indigo,indigo
+root,indiki,"to indicate; suggest; designate; point"
+root,individuo,individual
+root,indukti,"to generalize; induce; infer; reason"
+root,indulgi,"to be lenient with; indulge; spare"
+root,industrio,industry
+root,inerta,inert
+root,infano,"child; infant"
+root,infanterio,infantry
+root,infekti,"to infect"
+root,infero,"hell; underworld"
+root,inflacio,inflation
+root,influi,"to act; affect; influence; have influence on; shape; sway"
+root,informi,"to acquaint; inform; report; make known"
+root,infuzi,"to infuse; instill"
+root,inĝeniero,engineer
+root,ingredienco,"component; element; ingredient; part"
+root,ingveno,groin
+root,iniciati,"to initiate; start"
+root,injekti,"to inject"
+root,inklina,"inclined; prone"
+root,inkluziva,inclusive
+root,inkognito,incognito
+root,inko,ink
+root,inkvizicio,inquisition
+root,inkvizitoro,inquisitor
+root,inokuli,"to inoculate; vaccinate"
+root,insekto,"bug; insect"
+root,insidi,"to lay a snare; plot against; set a trap (for)"
+root,insigno,"badge; insignia; coat-of-arms"
+root,insisti,"to insist"
+root,inspekti,"to inspect"
+root,inspektoro,"inspector; overseer"
+root,inspiri,"to imbue; inspire; suggest"
+root,instali,"to install"
+root,instigi,"to encourage; impel; instigate; spur on; stimulate; urge; incite"
+root,instinkto,instinct
+root,institucio,institution
+root,instituto,institute
+root,instrui,"to instruct; teach; train"
+root,instrukcio,"command; directions; instruction; orders; statement"
+root,instrumento,instrument
+root,insulino,insulin
+root,insulo,"island; isle"
+root,insulti,"to abuse; insult; offend"
+root,intelekto,"intellect; mind; understanding"
+root,inteligenta,"intelligent; sagacious"
+root,intenci,"to intend; mean; purpose"
+root,intendanto,"administrator; agent; steward; superintendent; curator; manager"
+root,intensa,"acute; intense; intensive"
+root,interesi,"to interest"
+root,intereso,interest
+root,interjekcio,interjection
+root,intermiti,"to be intermittent; occur intermittently"
+root,interna,"back-end; internal; domestic; inner; inside"
+root,interpelacii,"to interpolate"
+root,interpreti,"to interpret"
+root,interpunkcio,"interpunction; punctuation"
+root,intervjuo,interview
+root,intesto,intestine
+root,intima,"close; intimate"
+root,intrigi,"to intrigue; scheme; plot"
+root,inundi,"to flood"
+root,invadi,"to invade"
+root,invalido,"disabled person; invalid"
+root,inventi,"to invent"
+root,inversa,"inverse; inverted; reverse; reversed"
+root,inviti,"to invite"
+root,ipsilono,"upsilon; Y"
+root,Irako,Iraq
+root,Irano,"Iran; Persia"
+root,iriso,"iris (anat.)"
+root,iri,"to go; walk"
+root,Irlando,Ireland
+root,ironio,irony
+root,Islando,Iceland
+root,Israelo,Israel
+root,istmo,isthmus
+root,italo,italian
+root,izoli,"to insulate; isolate; seclude"
+root,Izraelo,Israel
+root,jaguaro,jaguar
+root,ĵaketo,jacket
+root,jako,"jacket; coat"
+root,ĵaluza,jealous
+root,Januaro,January
+root,japano,Japanese
+root,ĵargono,"jargon; lingua franca; pidgin"
+root,jaro,"year; vintage (of wine)"
+root,jasmeno,jasmine
+root,ĵaŭdo,Thursday
+root,ĵazo,jazz
+root,Jesuo,Jesus
+root,ĵeti,"to cast; fling; throw; toss; pitch"
+root,jezuito,jesuit
+root,jodo,iodine
+root,Johano,John
+root,ĵokeo,jockey
+root,ĵongli,"to conjure; juggle"
+root,Jorko,York
+root,Jozefo,Joseph
+root,jubileo,jubilee
+root,judaismo,Judaism
+root,judo,jew
+root,ĵudo,judo
+root,juĝi,"to judge; sentence"
+root,juglando,walnut
+root,jugo,"subjugation; yoke"
+root,juki,"to itch"
+root,Julio,July
+root,juna,"young; youthful; juvenile"
+root,jungi,"to harness; yoke"
+root,Junio,June
+root,junipero,juniper
+root,junko,"rush (grassy plant)"
+root,jupo,skirt
+root,ĵuri,"to affirm; pledge; swear; take an oath; vow"
+root,ĵurnalo,"daily paper; journal; newspaper"
+root,juro,"jurisprudence; law"
+root,justa,"fair; just; righteous; equitable"
+root,juvelo,jewel
+root,kabalo,cabal
+root,kabano,"cabin; hut; shack"
+root,kabineto,"cabinet (ministry); gallery"
+root,kablo,"cable; cord"
+root,kaĉo,"gruel; mess; mush; porridge; puree; slush; hodge-podge"
+root,kadavro,"cadaver; corpse"
+root,kadenco,cadence
+root,kadeto,cadet
+root,kadro,"backdrop; cadre; frame; framework; setting"
+root,kaduka,"decayed; decrepit; dilapidated; rickety; frail; fragile; inoperative"
+root,kafo,coffee
+root,kaĝo,cage
+root,kahelo,"flag; paver; paving block; tile"
+root,kajero,"copybook; exercise book; folder; notebook; pamphlet; workbook"
+root,kajo,"conjunction; pier; platform; quay; wharf"
+root,kajuto,"cabin (ship, etc.); hovel"
+root,kakao,cocoa
+root,kakto,cactus
+root,kalcio,calcium
+root,kaldrono,"boiler; cauldron; kettle"
+root,kalejdoskopo,kaleidoscope
+root,kalendaro,calendar
+root,kaleŝo,"carriage; coach"
+root,kalfatri,"to calk; caulk; pitch"
+root,kalibro,"bore (of a gun); caliber; calibration"
+root,kalifo,caliph
+root,kaliko,"chalice; goblet; tankard; grail"
+root,kalikoto,calico
+root,kalio,potassium
+root,kalkano,"heel (foot)"
+root,kalko,lime
+root,kalkuli,"to calculate; count; figure; work out; compute; reckon; enumerate"
+root,kalo,"callus; corn (on foot)"
+root,kalsono,"drawers; panties; underpants; undershorts"
+root,kalumnii,"to defame; libel; malign; slander; vilify; bad-mouth"
+root,kalva,"bald(-headed); hairless"
+root,Kalvino,Calvin
+root,kamarado,"buddy; companion; comrade; pal; mate; chum"
+root,kambio,"bill of exchange; draft; letter of exchange"
+root,kamelio,camelia
+root,kamelo,camel
+root,kameno,"fireplace; hearth; fireside"
+root,kameo,cameo
+root,kamero,"chamber; darkroom; small room"
+root,kamforo,camphor
+root,kamiono,"lorry; truck"
+root,kamizolo,"camisole; doublet; jerkin; undershirt"
+root,kamloto,camlet
+root,kamomilo,chamomile
+root,kampanjo,"campaign; drive"
+root,kampo,field
+root,kanabeno,linnet
+root,kanabo,"cannabis; hemp"
+root,Kanado,Canada
+root,kanajlo,"blackguard; knave; rogue; scoundrel; scamp; villain"
+root,kanalo,"canal; channel; gutter; circuit"
+root,kanapo,"couch; sofa"
+root,kanario,canary
+root,kancelario,"chancellery; chancery; office of public records; reception; waiting room"
+root,kanceliero,chancellor
+root,kancero,"cancer; canker"
+root,kandelabro,candelabrum
+root,kandelo,candle
+root,kandidato,"applicant; aspirant; candidate"
+root,kando,"candy; crystallized sugar; sugar candy"
+root,kanguruo,kangaroo
+root,kanibalo,cannibal
+root,kankro,"crab; crayfish"
+root,kano,"cane; reed"
+root,kanoniko,"prebendary; canon"
+root,kanono,"cannon; big gun"
+root,kantarido,"sailor beetle; soldier beetle"
+root,kantato,cantata
+root,kanti,"to sing"
+root,kantono,"canton; county (USA)"
+root,kantoro,"cantor; choir member"
+root,kanvaso,canvas
+root,kanzono,"ballad; chanson; song"
+root,kapabla,"able; capable; apt; qualified"
+root,kapelo,chapel
+root,kapitalo,"capital (money)"
+root,kapitano,captain
+root,kapitelo,"capital (of a column)"
+root,kapitulaci,"to capitulate; surrender; yield; give up; resign"
+root,kapo,"head; cape; cranium; promontory"
+root,kapono,"capon; castrated cock; castrato; eunuch"
+root,kaporalo,corporal
+root,kaporo,"caper bush"
+root,kapoto,"bonnet; hood; capote"
+root,kapreolo,"roe; roebuck"
+root,kaprica,"capricious; fitful; whimsical"
+root,kapro,goat
+root,kapsiko,"chili; pepper"
+root,kapsulo,"capsule; firing cap"
+root,kapti,"to capture; catch; grapple; trap; ensnare; clutch; grasp; grab"
+root,kapuceno,"Capuchin monk"
+root,kapuĉo,"capuche; cowl; hood"
+root,kara,"beloved; cherished; dear; expensive; valuable; precious; costly; high-priced"
+root,karabeno,carbine
+root,karafo,"carafe; decanter"
+root,karakterizi,"to characterize"
+root,karaktero,"character; nature; personality; temper; habitual conduct; individuality; moral strength; personality; reputation"
+root,karamboli,"to strike; collide"
+root,karamelo,caramel
+root,karaso,"crucian carp"
+root,karato,carat
+root,karavano,caravan
+root,karbo,coal
+root,karbono,carbon
+root,karcero,"jail cell; prison"
+root,kardelo,goldfinch
+root,kardo,thistle
+root,karesi,"to caress; fondle; stroke"
+root,kariero,career
+root,karikaturo,caricature
+root,kariofilo,clove
+root,kariolo,"dog cart; trap"
+root,karmino,carmine
+root,karnavalo,carnival
+root,karno,"flesh; meat"
+root,karobo,"carob; St. John’s bread"
+root,karoo,"diamond (cards)"
+root,karoserio,"body; coach work"
+root,karoto,carrot
+root,karpeno,"hornbeam; yoke elm"
+root,karpo,carp
+root,kartavi,"to make a uvular R"
+root,kartilago,cartilage
+root,karto,"card; map; menu; board"
+root,kartoĉo,"cartridge; shell; shot shell; shotgun shell"
+root,kartografio,cartography
+root,kartografo,cartograph
+root,kartono,"cardboard; pasteboard"
+root,karuselo,"carousel; carrousel; merry-go-round"
+root,kasedo,"cartridge; cassette"
+root,kaserolo,"casserole; saucepan; stew pan"
+root,kaŝi,"to conceal; hide; veil"
+root,kaskedo,"cap (with visor)"
+root,kasko,helmet
+root,kaso,"cash box; money box; till; cashier"
+root,kastanjeto,castanet
+root,kaŝtano,"chestnut; edible chestnut; horse chestnut"
+root,kastelo,"castle; citadel; fort; stronghold; mansion"
+root,kasto,caste
+root,kastoro,beaver
+root,kastri,"to castrate"
+root,katafalko,"catafalque; open hearse"
+root,katakombo,catacomb
+root,katalepsio,"catalepsy; trance"
+root,katalogo,"catalog; directory; inventory; schedule"
+root,kataplasmo,"plaster; poultice"
+root,katapulto,catapult
+root,katarakto,"cataract (eyes)"
+root,kataro,catarrh
+root,katastrofo,"calamity; catastrophe; disaster"
+root,katedralo,cathedral
+root,katedro,"cathedral; professorial chair or platform; pulpit; lecturer’s desk; professorship"
+root,kategorio,category
+root,kateĥisto,catechist
+root,kateĥizi,"to catechize"
+root,katekisto,catechist
+root,katekizi,"to catechize"
+root,kateno,"chain; fetter; shackle; restraint; restriction"
+root,kato,cat
+root,katolika,Catholic
+root,katuno,"cotton (cloth, fabric)"
+root,kaŭĉuko,rubber
+root,kaŭri,"to cower; crouch; squat; lurk"
+root,kaŭterizi,"to cauterize; sear"
+root,kaŭzo,"cause; reason; incentive; motive"
+root,kavalerio,cavalry
+root,kavaliro,"cavalier; knight; chevalier"
+root,kaverno,"cave; cavern; den"
+root,kaviaro,caviar
+root,kavo,"cave; cavity; groove"
+root,kazemato,casemate
+root,kazeo,curd
+root,kazerno,"barracks; soldiers’ quarters"
+root,kazino,casino
+root,kazo,"affair; case; matter"
+root,keglo,"bowling pin; ninepin; pin; skittle"
+root,kejlo,"peg; pin"
+root,kelka,"a little; some"
+root,kelnero,waiter
+root,kelo,"basement; cellar"
+root,kemio,chemistry
+root,keno,"resin-wood; resinous wood"
+root,kepo,"cap (military)"
+root,kerno,"core; kernel; nucleus; pit; stone"
+root,kero,"heart (cards)"
+root,kerubo,cherub
+root,kesto,"box; chest; coffer; case; trunk; crate"
+root,kibuco,kibbutz
+root,kilogramo,"kilo; kilogram"
+root,kilo,keel
+root,kilometro,kilometer
+root,kimono,kimono
+root,kinino,quinine
+root,kino,"cinema; cinematography"
+root,kiosko,"gazebo; kiosk"
+root,kiraso,"armor; cuirass; breastplate"
+root,kirli,"to curl; froth; stir; whip; whirl"
+root,kirurgio,surgery
+root,kirurgo,surgeon
+root,kisi,"to kiss"
+root,kitelo,"blouse; overalls; smock; frock"
+root,klaĉi,"to gossip; prate; make small talk; prattle"
+root,klafto,fathom
+root,klaki,"to chatter; clap; click; rattle; flap; slap; smack"
+root,klapo,"flap; valve; half shell"
+root,klara,"clear; distinct; plain; explicit; lucid; manifest"
+root,klarneto,clarinet
+root,klasifiki,"to classify; sort"
+root,klasika,"classic; classical"
+root,klaso,class
+root,klavo,"button; key (piano, typewriter, etc.)"
+root,klera,"cultured; educated; learned; well-informed; talented; enlightened"
+root,kliento,"account (customer); client; client (computer); client (customer); customer"
+root,klimato,climate
+root,klingo,"blade (knife, etc.); cutting edge"
+root,kliniko,clinic
+root,klini,"to bend; incline; tilt; lean; slope; tilt"
+root,kliŝi,"to stereotype"
+root,klistero,"clyster; injection (medical); douche; enema"
+root,klitoro,clitoris
+root,kloako,"cesspit; cesspool; latrine; septic tank; sewer"
+root,klono,clone
+root,klopodi,"to aim; attempt; endeavor; take steps; undertake; try"
+root,kloro,chlorine
+root,kloŝo,"bell jar; cloche; frame"
+root,klubo,"club; society"
+root,kluki,"to cluck"
+root,kluzo,"gateway; lock; sluice"
+root,knabo,"boy; lad"
+root,knari,"to creak; screech; grate; grind; scratch; squeak; scrape"
+root,knedi,"to form; give form to; knead; mix"
+root,koakso,coke
+root,kobalto,cobalt
+root,koboldo,"(hob)goblin; gnome; imp; sprite; elf; kobold"
+root,koĉenilo,cochineal
+root,kodekso,"codex; pharmacopoeia"
+root,kodicilo,codicil
+root,kodo,code
+root,koeficiento,coefficient
+root,kofro,"chest; coffer; suitcase; trunk"
+root,kohera,"coherent; connected; consistent; stuck together"
+root,koincidi,"to coincide; concur"
+root,kojno,"block; chock; wedge"
+root,kokardo,"bow; cockade"
+root,kokcinelo,"lady beetle; ladybird; ladybird beetle; ladybug"
+root,koketa,coquettish
+root,kokluŝo,"pertussis; whooping cough"
+root,koko,"chicken; fowl; cock; rooster"
+root,kokono,cocoon
+root,kokoso,coconut
+root,kokso,"haunch; hip"
+root,kolbaso,"sausage; salami"
+root,kolegio,"college; trade school"
+root,kolego,"associate; classmate; coworker; colleague; companion; comrade; schoolmate"
+root,kolektiva,"collective; joint"
+root,kolekto,"collection; gathering"
+root,koleri,"to be angry"
+root,kolibro,hummingbird
+root,koliko,"colic; gripes"
+root,kolimbo,"diver (bird); loon"
+root,kolizii,"to collide (with); crash into; run into; clash"
+root,kolofono,"colophony; rosin; resin"
+root,kolombo,"dove; pigeon"
+root,kolo,neck
+root,kolonelo,colonel
+root,kolonio,"colony; settlement"
+root,kolono,"column; pillar; file; stack"
+root,koloro,"color; dye"
+root,koloso,colossus
+root,kolporti,"to peddle; sell door-to-door; hawk"
+root,kolubro,"adder; colubrid"
+root,kolumno,column
+root,kolzo,"colza; winter rape"
+root,komandi,"to command; be in command; order"
+root,komandito,"limited partnership"
+root,kombini,"to combine"
+root,kombi,"to comb"
+root,komedio,comedy
+root,komenci,"to begin; commence; start"
+root,komentario,"annotation; note; commentary"
+root,komenti,"to comment; annotate"
+root,komerci,"to deal; do business; trade"
+root,kometo,comet
+root,komforta,"at ease; comfortable; cozy; snug"
+root,komika,"comic; comical; funny; facetious; humorous; laughable; ludicrous; witty"
+root,komisaro,"commissar; commissary; commissioner"
+root,komisii,"to appoint; assign; authorize; charge; entrust; instruct; commission"
+root,komisiono,commission
+root,komitato,committee
+root,komizo,"clerk; office assistant; salesman; shop assistant"
+root,komo,comma
+root,komodo,"chest of drawers; dresser; commode (furniture)"
+root,kompakta,"compact; dense"
+root,kompanio,company
+root,komparativo,comparison
+root,kompari,"to compare"
+root,kompaso,compass
+root,kompati,"to be sorry for; commiserate with; feel compassion for; feel sorry for; have compassion; pity; have mercy on; have pity for; pity"
+root,kompensi,"to atone; balance; compensate; indemnify; counterpoise; make amends for; make up for; offset; restore equilibrium"
+root,kompetenta,"able; accomplished; competent; proficient; adept; capable; efficient; qualified"
+root,kompili,"to compile"
+root,kompleta,"absolute; complete"
+root,komplezi,"to be so kind as to; do a favor; oblige"
+root,kompliki,"to complicate"
+root,komplimento,compliment
+root,komploto,"conspiracy; plot; intrigue; scheme"
+root,komposti,"to typeset"
+root,kompoto,compote
+root,kompreni,"to comprehend; realize; understand"
+root,kompreso,"compress; gauze pads"
+root,kompromiso,"accommodation; compromise"
+root,kompromiti,"to compromise; endanger; imperil; jeopardize; prejudice"
+root,komputi,"to compute"
+root,komuna,"common; joint; shared; neric"
+root,komuniki,"to communicate; report; impart"
+root,komunio,communion
+root,koncedi,"to admit; concede; grant"
+root,koncentri,"to concentrate"
+root,koncerni,"to concern; involve"
+root,koncerto,"accord; concert; harmony; agreement"
+root,koncesio,"concession; franchise"
+root,konciza,"concise; brief and comprehensive; pithy; terse; succinct"
+root,kondamni,"to condemn; sentence; damn; convict; find guilty"
+root,kondicionalo,"conditional tense"
+root,kondiĉo,"condition; stipulation; terms"
+root,kondolenci,"to commiserate; condole; express condolences"
+root,kondomo,"condom; rubber"
+root,kondoro,condor
+root,konduki,"to conduct; guide; lead; drive (vehicle)"
+root,konduktoro,"conductor; fare collector; guard; ticket checker"
+root,konduti,"to behave; act; conduct (oneself)"
+root,konekti,"to connect; connect up; plug in; hook up"
+root,konfederacio,confederation
+root,konfekcio,"confection (clothing); ready-made clothes"
+root,konfesi,"to acknowledge; admit; confess; profess; avow"
+root,konfidenco,"confidence; secret; confidentiality"
+root,konfidi,"to confide; have confidence in; trust; entrust; rely"
+root,konfirmi,"to acknowledge; confirm; corroborate"
+root,konfiski,"to confiscate"
+root,konfiti,"to preserve with sugar"
+root,konflikto,"clash; conflict; antagonism"
+root,konforma,"compliant; conforming; (well-)fitting"
+root,konfuzi,"to bewilder; confuse; puzzle; disconcert; perplex; trouble; perturb; unsettle; disturb"
+root,konglomerato,conglomerate
+root,kongregacio,congregation
+root,kongreso,"conference; congress; convention"
+root,koni,"to be acquainted with; know"
+root,konjako,"brandy; cognac"
+root,konjekti,"to (make a) conjecture; surmise; suppose; guess"
+root,konjugacio,conjugation
+root,konjunkcio,conjunction
+root,konkava,concave
+root,konkeri,"to bring to subjection; conquer; gain; win; overcome by force; subjugate"
+root,konkludi,"to abstract; induce; gather; infer; conclude; deduce"
+root,konkordo,"accord; concord; harmony; agreement"
+root,konko,shell
+root,konkreta,"concrete; not abstract; perceptible; real; positive"
+root,konkurenco,"competition (business, etc.)"
+root,konkuri,"to compete; contend; rival; vie"
+root,konkurso,"bout; competition; contest; match"
+root,konscienco,"conscience; inner voice; moral sense"
+root,konscii,"to appreciate; be aware of; be conscious of; realize; see"
+root,konsekri,"to consecrate; coronate; dedicate; devote; hallow; sanctify; ordain"
+root,konsekvenco,"consequence; consistency; consequent"
+root,konsenti,"to agree; consent; concur; admit; approve; be in accord (with); be in harmony with; comply with"
+root,konservativa,conservative
+root,konservatorio,"academy of music; conservatory"
+root,konservi,"to conserve; keep; maintain; preserve; store; save (a file)"
+root,konsideri,"to account; consider; esteem; regard; take into account"
+root,konsili,"to advise; counsel; consult"
+root,konsisti,"to consist"
+root,konsistorio,consistory
+root,konsoli,"to cheer; comfort; console; soothe; solace"
+root,konsonanto,consonant
+root,konspiri,"to conspire; plot"
+root,konstanta,"constant; continual; permanent; sustained; steadfast"
+root,konstati,"to ascertain to be true (a fact); establish; take note; prove"
+root,konsterni,"to alarm; dismay; puzzle; appall"
+root,konstitucio,constitution
+root,konstrui,"to build; construct; craft; erect; establish"
+root,konsulo,consul
+root,konsulti,"to consult"
+root,konsumi,"to consume; use up; exhaust"
+root,kontakto,contact
+root,kontanta,"cash; in cash"
+root,kontenta,"content; contented; gratified; happy; pleased; satisfied; happy"
+root,kontesti,"to call into question; challenge; question; debate; deny the truth of; contest"
+root,kontinento,"continent; mainland"
+root,kontinua,"lasting; continuous"
+root,konto,account
+root,kontoro,"bureau; office (business)"
+root,kontrabando,"contraband; prohibited traffic; smuggling"
+root,kontrabaso,"bass viol; counter-bass; double bass"
+root,kontrakti,"to enter into a contract with; make a contract"
+root,kontralto,"alto; contralto"
+root,kontrapunkto,counterpoint
+root,kontrasto,"contrast; difference; opposition"
+root,kontribucio,reparations
+root,kontribui,"to contribute"
+root,kontroli,"to audit; check (up on); supervise; verify"
+root,konturo,"contour; outline"
+root,kontuzi,"to bruise; contuse"
+root,konuso,cone
+root,konvalo,"lily of the valley"
+root,konveksa,convex
+root,konvena,"appropriate; becoming; seemly; suitable; proper; becoming"
+root,konvencio,"agreement; convention; general usage"
+root,konversacii,"to chat; converse; talk"
+root,konverti,"to convert; proselytize; transform"
+root,konvinki,"to convince; persuade"
+root,konvolvulo,"bindweed; convolvulus; morning glory"
+root,konvulsio,convulsion
+root,kooperativo,cooperative
+root,kopeko,kopeck
+root,kopio,copy
+root,koralo,coral
+root,Korano,"Koran; Quran"
+root,korbo,"basket; hamper"
+root,kordo,"cord; string"
+root,korekti,"to correct; revise"
+root,korelativa,"correlated; correlative"
+root,korespondi,"to correspond"
+root,koridoro,"corridor; passage; hallway; hall; lane; passageway"
+root,korifeo,"chorus leader; coryphaeus"
+root,korko,"cork; stopper"
+root,korneo,cornea
+root,korneto,cornet
+root,kornico,cornice
+root,korniko,"(hooded) crow"
+root,korno,"hooter; horn; klaxon"
+root,koro,heart
+root,korolo,corolla
+root,korpo,body
+root,korporacio,"company; corporation; trade union"
+root,korpuso,"(army) corps"
+root,korsaĵo,"bodice; body; corsage"
+root,korsaro,"corsair; privateer"
+root,korseto,corset
+root,korto,"court; yard; courtyard; enclosed area; quadrangle"
+root,korupti,"to bribe; taint; corrupt"
+root,korveto,corvette
+root,korvo,"crow; raven"
+root,kosmetiko,cosmetics
+root,kosmogonio,cosmogony
+root,kosmografio,cosmography
+root,kosmografo,cosmographer
+root,kosmo,"(outer) space; cosmos; universe"
+root,kosmopolito,"cosmopolite; cosmopolitan"
+root,Kostariko,"Costa Rica"
+root,kosti,"to cost"
+root,kostumo,"costume; outfit; suit; dress; garb"
+root,kotizi,"to contribute; subscribe"
+root,kotleto,"chop; cutlet"
+root,koto,"dirt; mire; mud; muck; filth"
+root,kotono,"cotton (raw)"
+root,koturno,"quail (bird)"
+root,koverto,envelope
+root,kovi,"to brood (over); hatch (up); incubate; watch over"
+root,kovri,"to cover; veil; wrap; cover"
+root,krabo,crab
+root,krabro,hornet
+root,kraĉi,"to expectorate; spit"
+root,krado,"lattice; crossbars; grate; grid; grill; grating; hash; pound sign; number sign; sharp sign"
+root,krajono,pencil
+root,krakeno,cracker
+root,kraki,"to bang; clap; crack; snap (noise)"
+root,kramfo,cramp
+root,krampo,"bracket; parentheses; parenthesis; clamp; brace; staple"
+root,kranio,"cranium; head; skull; pate"
+root,krano,"cock; faucet; tap; spigot"
+root,kratago,hawthorn
+root,kratero,crater
+root,kravato,"necktie; tie"
+root,kredi,"to account; accredit; believe; deem"
+root,kredito,credit
+root,kreditoro,"account payable; creditor"
+root,krei,"to compose; create; produce; make"
+root,kremo,"cream; choicest part"
+root,kreno,horseradish
+root,kreozoto,creosote
+root,krepo,crepe
+root,krepusko,"dawn; dusk; twilight"
+root,kreski,"to accrue; grow; increase; ascend"
+root,kresto,"(cock’s) comb; (mountain) ridge; crest"
+root,krestomatio,chrestomathy
+root,kreto,chalk
+root,krevi,"to burst"
+root,kribri,"to sift; strain; filter; screen"
+root,krii,"to call (out); cry (out); scream; shout"
+root,kriminala,criminal
+root,krimo,"crime; felony; offense"
+root,kringo,"ring-shaped roll; biscuit"
+root,kripla,"crippled; infirm; handicapped"
+root,krispo,"frill; ruffle; frilled collar"
+root,kristalo,crystal
+root,Kristo,Christ
+root,kriterio,"criterion; rule; touchstone; measure"
+root,kritiki,"to censure; criticize; knock"
+root,krizantemo,chrysanthemum
+root,krizo,"crisis; depression; emergency; depression; critical situation"
+root,kroĉi,"to concatenate; hook"
+root,krokodilo,crocodile
+root,kromosomo,chromosome
+root,kronika,"chronic; lingering"
+root,krono,"crown (money)"
+root,kronologio,"chronology; timeline"
+root,kronometro,chronometer
+root,kropo,"craw; crop; goiter; gullet; pouch"
+root,krozi,"to browse (internet); cruise"
+root,krucifikso,crucifix
+root,kruco,"cross; Crux"
+root,kruĉo,"cruse; ewer; jug; pitcher; pot; vessel"
+root,kruda,"crude; raw; rough; unbleached; uncooked; uncut; virgin; natural; primitive"
+root,kruela,"cruel; fierce"
+root,krupo,croup
+root,kruro,"leg; paw; limb"
+root,krusto,"crust; deposit; hard outer covering; rind; scab; casing; scale"
+root,kruta,"abrupt; steep; sheer"
+root,Kubo,Cuba
+root,kubo,cube
+root,kubuto,elbow
+root,kudri,"to stitch; sew; tack"
+root,kufo,"bonnet; cap"
+root,kuglo,"ball; bullet; shot"
+root,kuiri,"to cook"
+root,kuko,cake
+root,kukolo,cuckoo
+root,kukumo,cucumber
+root,kukurbo,"gourd; pumpkin; squash"
+root,kulero,spoon
+root,kulo,"gnat; mosquito"
+root,kulpa,"culpable; guilty; to blame"
+root,kulto,"cult (system of religious worship); homage; devotion"
+root,kulturi,"to cultivate; grow"
+root,kuniklo,rabbit
+root,kupeo,compartment
+root,kupo,"cupping glass"
+root,kupolo,"cupola; dome"
+root,kupono,"coupon; stub"
+root,kupro,"copper (metal)"
+root,kuraci,"to care for; cure; heal; remedy; treat"
+root,kuraĝa,"audacious; bold; brave; courageous; valiant; daring; fearless; intrepid"
+root,kuratoro,"conservator; curator; guardian; trustee"
+root,kurbo,"bend; curve"
+root,kurento,"current (electric); power (energy)"
+root,kuriero,"bishop (chess); courier; runner; messenger"
+root,kurioza,"curious; interesting; quaint; rare; odd; strange"
+root,kuri,"to run"
+root,kursivo,"cursive; italic"
+root,kurso,"class; course; route"
+root,kurteno,"curtain; screen; veil"
+root,kurzo,"exchange rate; rate of exchange; quotation; rate; price"
+root,kuseno,"cushion; pillow"
+root,kuŝi,"to lie; recline; rest on"
+root,kutimo,"custom; habit; way; practice; routine"
+root,kuvo,"bath; tub; vat; space open box; visible space"
+root,kuzo,"(male) cousin"
+root,kvadrato,"quadrate; quadrature; square"
+root,kvadraturo,quadrature
+root,kvadrilo,quadrille
+root,kvakero,Quaker
+root,kvalito,"property; quality"
+root,kvanto,quantity
+root,kvaranteno,quarantine
+root,kvarco,"quartz; rock-crystal"
+root,kvartalo,"district; neighborhood; quarter; ward"
+root,kvarto,fourth
+root,kvasto,tassel
+root,kvereli,"to quarrel; wrangle"
+root,kverko,oak
+root,kvestoro,"quaestor; questore"
+root,kvieta,"calm; quiet; placid"
+root,kvintesenco,quintessence
+root,kvinto,fifth
+root,kvita,"debt-free; even; paid up; paid-up; free and clear"
+root,kvitanco,"quittance; (acknowledgment of) receipt"
+root,kvociento,"quotient; ratio"
+root,kvorumo,quorum
+root,labirinto,"labyrinth; labyrinth; maze"
+root,laboratorio,laboratory
+root,labori,"to labor; work"
+root,laca,"tired; weary; fatigued"
+root,lacerto,lizard
+root,laĉo,"lace; shoelace"
+root,lado,"sheet metal; tin (plate); firmware"
+root,lafo,lava
+root,lago,"lake; loch"
+root,laguno,lagoon
+root,laiko,"non-professional; layman"
+root,lakeo,"flunkey; footman; knave (cards); lackey; valet; servant"
+root,lako,lacquer
+root,lakso,diarrhea
+root,lakto,milk
+root,laktuko,"lettuce; milt; roe"
+root,lama,"feeble; hobbling; lame; weak"
+root,lameno,"lamina; layer; plate"
+root,lamenti,"to grieve; mourn; lament; wail"
+root,lampiro,"firefly; glow-worm"
+root,lampo,lamp
+root,lanĉi,"to launch; trigger; run; start"
+root,lanco,"lance; spear"
+root,lando,"country; land"
+root,lango,tongue
+root,lano,wool
+root,lanterno,lantern
+root,lanugo,"down; fluff; nap"
+root,lapiso,"lunar caustic"
+root,lapo,"burdock; burr"
+root,lardo,bacon
+root,larĝa,"wide; broad"
+root,lariko,larch
+root,laringo,larynx
+root,larmo,"tear (from eye)"
+root,larvo,"grub; larva"
+root,lasero,laser
+root,lasi,"to allow; leave; let; release; quit"
+root,lasta,"hindermost; last; ultimate"
+root,latero,"arm; side"
+root,latitudo,latitude
+root,lato,"batten; lath; slat"
+root,latuno,brass
+root,latvo,"Latvian; Lett"
+root,laŭbo,"arbor; bower; summerhouse; booth; shady retreat"
+root,laŭdi,"to acclaim; commend; laud; praise"
+root,laŭreato,"laureate; winner"
+root,laŭro,"bay tree; laurel"
+root,laŭta,"aloud; loud"
+root,lavango,avalanche
+root,lavendo,lavender
+root,lavi,"to wash"
+root,lazuro,"azure; sky blue"
+root,leciono,lesson
+root,ledo,leather
+root,legato,legate
+root,legendo,"legend; myth"
+root,legio,legion
+root,legitimi,"to legitimize; prove identity"
+root,legi,"to read"
+root,leĝo,"law; principle"
+root,legomo,vegetable
+root,lekanto,"daisy; marguerite"
+root,lekcio,lecture
+root,leki,"to lick; lap"
+root,leksikono,lexicon
+root,lenso,lens
+root,lento,lentil
+root,lentugo,freckle
+root,leono,lion
+root,leontodo,dandelion
+root,leopardo,leopard
+root,leporo,"hare; rabbit"
+root,lepro,leprosy
+root,lerni,"to learn"
+root,lerta,"able; adroit; clever; dexterous; skillful; expert; talented; handy"
+root,lesivo,lye
+root,letargio,"apathy; drowsiness; inertness; lethargy; stupor; torpidity"
+root,letero,"epistle; letter; missive"
+root,leŭkemio,leukemia
+root,leŭtenanto,lieutenant
+root,levi,"to lever; lift; raise"
+root,levkojo,"gilliflower; wallflower"
+root,liano,"bind-weed; liana; tropical climbing vine"
+root,Libano,Lebanon
+root,libelo,dragonfly
+root,libera,"exempt; free; unrestrained; spare; unchecked"
+root,liberala,liberal
+root,Liberio,Liberia
+root,Libio,Libya
+root,libro,book
+root,licenco,license
+root,liceo,"grammar school; high school; secondary school; lyceum"
+root,lieno,"milt; spleen"
+root,lifto,"elevator; lift"
+root,ligno,"timber; wood"
+root,ligo,"connection; league"
+root,likeno,lichen
+root,likvidi,"to liquidate"
+root,likvo,liquid
+root,likvoro,liqueur
+root,lilio,lily
+root,limako,"slug; snail"
+root,limfo,lymph
+root,limo,"bound; boundary; frontier; limit"
+root,limonado,lemonade
+root,lingvo,"language; tongue"
+root,linio,"curve; line"
+root,linko,lynx
+root,lino,flax
+root,lipo,lip
+root,liriko,"lyric; lyric poetry; lyrical poem"
+root,liro,"lyre; lira"
+root,listo,list
+root,litanio,litany
+root,literaturo,literature
+root,litero,"letter (alphabet)"
+root,lito,"bed; couch"
+root,litografio,lithography
+root,litografi,"to lithograph"
+root,litro,liter
+root,liturgio,liturgy
+root,liuto,lute
+root,liveri,"to deliver; furnish; supply; return; yield"
+root,livreo,livery
+root,lobo,lobe
+root,lodo,lot
+root,logaritmo,logarithm
+root,logiko,logic
+root,loĝio,"box (opera); lodge (freemason, etc.)"
+root,logi,"to allure; entice; attract; decoy; lure; coax"
+root,loĝi,"to dwell; live; inhabit; reside"
+root,logogrifo,"logogriph; riddle"
+root,lojala,"faithful; loyal"
+root,lojto,"bourbot; eel pout"
+root,loko,"locality; location; place; spot"
+root,lokomobilo,"traction engine"
+root,lokomotivo,"engine; locomotive"
+root,lolo,"rye grass"
+root,Londono,London
+root,longa,long
+root,longitudo,longitude
+root,lonicero,honeysuckle
+root,lordo,lord
+root,lorno,"binoculars; field glasses; spyglass"
+root,loterio,"lottery; raffle; sweepstakes"
+root,loto,"lottery (game)"
+root,lotuso,lotus
+root,lozanĝo,"lozenge; rhombus"
+root,lubriki,"to lubricate"
+root,lucerno,"hanging lamp in church"
+root,ludi,"to play; enact; perform"
+root,Ludoviko,Ludwig
+root,lui,"to hire; rent"
+root,luko,"porthole; skylight"
+root,lukso,luxury
+root,lukti,"to struggle; wrestle"
+root,luli,"to cradle; rock; sooth; lull"
+root,lumbo,"haunch; loin; small of the back; loin"
+root,lumbriko,earthworm
+root,lumi,"to light; light up; shine"
+root,lunatiko,"lunatic; sleepwalker"
+root,lundo,Monday
+root,luno,moon
+root,lupolo,"hop; hops"
+root,lupo,wolf
+root,lustro,"chandelier; luster (lamp)"
+root,Lutero,Luther
+root,luti,"to solder"
+root,lutro,otter
+root,maĉi,"to chew; masticate; munch"
+root,maco,"matzo; unleavened bread"
+root,magazeno,"big store; department store; warehouse"
+root,magio,magic
+root,magnetismo,magnetism
+root,magnetofono,"tape deck; tape player; tape recorder; stereo (system)"
+root,magneto,"loadstone; magnet"
+root,mahagono,mahogany
+root,maizo,"(Indian) corn; maize"
+root,majesta,majestic
+root,majoliko,majolica
+root,Majo,May
+root,majonezo,mayonnaise
+root,majoro,"major (rank)"
+root,majstro,"adept; maestro; master; maestro"
+root,majusklo,"capital (upper case) letter"
+root,makadamo,macadam
+root,makaronio,macaroni
+root,makarono,macaroon
+root,makleri,"to act as a middleman; act as broker; broker"
+root,maksimo,"maxim; principle"
+root,maksimumo,"(upper) limit; maximum"
+root,makulo,"blemish; blot; spot; stain"
+root,makzelo,"jaw; jawbone"
+root,malakito,malachite
+root,malario,malaria
+root,maleolo,"ankle; anklebone"
+root,malica,"malevolent; malicious; mischievous; nasty; vicious; wanton; spiteful"
+root,malto,malt
+root,malvo,mallow
+root,mamo,"breast; chest; teat; udder"
+root,mamuto,mammoth
+root,manao,manna
+root,mandarino,"mandarin; tangerine"
+root,mandato,"mandate; order (postal, money)"
+root,mandolino,mandolin
+root,mangano,manganese
+root,manĝi,"to eat; feed"
+root,mango,mango
+root,maniero,"fashion; manner; mode; way"
+root,manifestacio,demonstration
+root,manifesti,"to (make) manifest; demonstrate; show"
+root,maniko,sleeve
+root,manio,"addiction; mania; passion"
+root,manioko,"cassava; manioc"
+root,manipuli,"to handle; manipulate; manage"
+root,manki,"to be lacking; be missing; fail; miss"
+root,mano,hand
+root,manometro,manometer
+root,manovri,"to maneuver"
+root,mansardo,"attic; garret"
+root,mantelo,"cape; cloak; mantle; coat"
+root,manufakturo,"factory; manufactory; works"
+root,manuskripto,manuscript
+root,mapo,map
+root,marasmo,"emaciation; marasmus; stagnation"
+root,marĉandi,"to bargain; haggle"
+root,marcipano,marzipan
+root,marĉo,"marsh; swamp"
+root,mardo,Tuesday
+root,margarino,margarine
+root,marĝeno,margin
+root,marini,"to marinate"
+root,Mario,"Mario; Marius; Mary"
+root,marioneto,"marionette; puppet"
+root,markizo,marquis
+root,marko,"mark; stamp"
+root,markoto,layer
+root,marmelado,"jam; marmalade"
+root,marmoro,marble
+root,marmoto,"groundhog; marmot; woodchuck"
+root,marokeno,"Moroccan leather"
+root,Maroko,Morocco
+root,maro,sea
+root,marŝalo,marshal
+root,marŝi,"to march; walk"
+root,martelo,hammer
+root,martiro,martyr
+root,Marto,March
+root,masaĝo,massage
+root,maŝino,"engine; machine"
+root,masiva,"large; massive; heavy"
+root,masko,mask
+root,maŝo,"knot; link; loop; mesh; mail (armor)"
+root,maso,"lump; mass; pile; heap"
+root,masoni,"to build (with stone); mason"
+root,mastiko,"mastic; putty"
+root,masto,mast
+root,mastro,"boss; lord; master; manager"
+root,matadoro,matador
+root,matematiko,mathematics
+root,mateno,morning
+root,mateo,"yerba mate"
+root,materialo,"data; material; matter"
+root,materio,matter
+root,mato,"checkmate; mate"
+root,matraco,mattress
+root,matrico,"array; matrix"
+root,matura,"mature; ripe; full-grown; mature"
+root,maŭzoleo,mausoleum
+root,mazurko,mazurka
+root,meblo,"piece of furniture"
+root,meĉo,"fuse; wick"
+root,medaliono,"locket; medallion"
+root,medalo,medal
+root,medicino,"medicine (practice of)"
+root,medikamento,"drug; medicine; pharmaceutical; medication"
+root,medio,"environment; medium"
+root,Mediteraneo,Mediterranean
+root,mediti,"to meditate; think to oneself"
+root,mediumo,"medium (spiritualism)"
+root,medolo,"medulla; pith; marrow"
+root,meduzo,jellyfish
+root,meĥaniko,mechanics
+root,meĥanismo,mechanism
+root,mejlo,mile
+root,mekaniko,mechanics
+root,mekanismo,"action; mechanism"
+root,Meksiko,Mexico
+root,melankolio,"dejection; gloom; melancholia; melancholy; depression"
+root,melaso,"golden syrup; molasses; treacle"
+root,meleagro,turkey
+root,meliso,balm-mint
+root,melki,"to milk"
+root,melo,badger
+root,melodio,"melody; tune"
+root,melodramo,melodrama
+root,melongeno,"aubergine; eggplant"
+root,melono,melon
+root,membrano,"film; membrane"
+root,membro,"limb; member; term"
+root,memori,"to recall; recollect; remember"
+root,mencii,"to mention"
+root,mendi,"to book; order; reserve"
+root,mensogi,"to lie; tell a lie"
+root,menso,mind
+root,menstrui,menstruate
+root,mento,"mint (plant, flavor)"
+root,mentono,chin
+root,mentoro,mentor
+root,menuo,menu
+root,meridiano,"meridian (line)"
+root,meriti,"to be worthy of; deserve; merit"
+root,merizo,"wild cherry"
+root,merkato,"market; sales activity"
+root,merkredo,Wednesday
+root,merlo,blackbird
+root,mesaĝo,"message; errand"
+root,mesio,messiah
+root,meso,"(holy) Mass"
+root,metafiziko,metaphysics
+root,metaforo,metaphor
+root,metalo,metal
+root,metalurgio,metallurgy
+root,metamorfozo,"metamorphosis; recreation; regeneration; transformation"
+root,metempsikozo,"metempsychosis; transmigration of souls"
+root,meteoro,"atmospheric phenomenon; meteor; shooting star"
+root,meteorologio,meteorology
+root,meteorologo,meteorologist
+root,metio,"handicraft; occupation; trade; profession"
+root,meti,"to lay down; place; put; put down; set"
+root,metodo,method
+root,metro,meter
+root,metronomo,metronome
+root,metropolo,metropolis
+root,mevo,"gull; seagull"
+root,mezo,"average; mean; middle"
+root,mezuri,"to gauge; measure"
+root,miasmo,miasma
+root,miaŭi,"to meow; mew"
+root,mielo,honey
+root,mieno,"air; appearance; expression; look; face; mien; aspect"
+root,migdalo,almond
+root,migri,"to migrate; roam; wander; wander about; travel about"
+root,Miĥaelo,Michael
+root,mikrobo,"germ; microbe"
+root,mikrofono,microphone
+root,mikrometro,micrometer
+root,mikroskopo,microscope
+root,miksi,"to blend; mingle; mix; shuffle; scramble"
+root,milda,"gentle; mild"
+root,miliardo,"billion (10^9)"
+root,miligramo,milligram
+root,milimetro,millimeter
+root,milio,millet
+root,miliono,million
+root,militi,"to make war; wage war"
+root,mimiko,mime
+root,mimozo,"mimosa; sensitive plant"
+root,minaci,"to impend; menace; threaten; intimidate"
+root,minareto,minaret
+root,mineralogio,mineralogy
+root,mineralogo,mineralogist
+root,mineralo,mineral
+root,miniaturo,"miniature; thumbnail"
+root,minimumo,"least; minimum"
+root,ministerio,"(cabinet) department; ministry"
+root,ministro,"minister (head of govt. dept.)"
+root,mino,"mine (pit)"
+root,minusklo,"lower case letter; miniscule; small letter"
+root,minuto,"minuet (time)"
+root,miogalo,"desman; muskrat"
+root,miopa,"myopic; near-sighted; short-sighted"
+root,miozoto,"forget-me-not; myosotis"
+root,mirabelo,mirabelle
+root,miraĝo,mirage
+root,miraklo,miracle
+root,mirho,myrrh
+root,miriado,myriad
+root,miriametro,myriameter
+root,miri,"to be amazed; be astonished; marvel (at); wonder; be surprised"
+root,mirtelo,blueberry
+root,mirto,myrtle
+root,misio,mission
+root,mistero,mystery
+root,mistifiki,"to fool; hoax; mystify; trick"
+root,mistiko,"mysticism; mystique"
+root,mitologio,mythology
+root,mito,myth
+root,mitro,"miter (headdress)"
+root,mitulo,mussel
+root,mizero,"misery; wretchedness"
+root,mobilizi,"to mobilize"
+root,modelo,"model; specimen; standard; type; pattern; master"
+root,modemo,modem
+root,modera,"moderate; reasonable"
+root,moderna,"modern; leading edge; advanced"
+root,modesta,"bashful; demure; modest; unassuming; moderate"
+root,modifi,"to alter; modify"
+root,modo,"fashion; mode; mood"
+root,moduli,"to modulate"
+root,moki,"to mock; deride; jeer at; poke fun at; ridicule; taunt"
+root,mola,"gentle; soft; tender; minor (music)"
+root,molekulo,molecule
+root,molusko,"member of mollusca; mollusc; mollusk"
+root,momento,"instant; moment"
+root,monaĥo,"friar; monk"
+root,monarĥio,monarchy
+root,monarĥo,monarch
+root,monarkio,monarchy
+root,monarko,monarch
+root,monato,month
+root,mondo,world
+root,monedo,jackdaw
+root,mono,"cash; money"
+root,monogramo,monogram
+root,monologo,"monologue; soliloquy"
+root,monomanio,monomania
+root,monopolo,monopoly
+root,monoteismo,monotheism
+root,monotona,"monotone; monotonic; monotonous"
+root,monstro,monster
+root,monto,mountain
+root,montri,"to indicate; point out; show; denote; expose; view"
+root,monumento,monument
+root,mopso,pug
+root,moralo,morals
+root,morbilo,measles
+root,mordi,"to bite"
+root,morfino,"morphia; morphine"
+root,moro,"custom; mores; morals"
+root,mortero,"mortar (building)"
+root,morti,"to die; expire; pass away"
+root,moruo,"cod; codfish"
+root,moruso,mulberry
+root,moskeo,mosque
+root,moskito,mosquito
+root,mosko,musk
+root,moŝto,"(general title for persons of high rank)"
+root,mosto,"must; new wine; unfermented grape juice"
+root,motivo,"account; motive; reason; goal; purpose; incentive; motif; motivation; cause"
+root,motoro,"engine; motor"
+root,movi,"to move; shift; stir; advance"
+root,mozaiko,"mosaic; mosaic work"
+root,mueli,"to grind; pulverize"
+root,mufo,"gas mantle; mitten; muff"
+root,muĝi,"to bellow; howl; roar; low; moo; roar"
+root,muko,"mucus; phlegm"
+root,muldi,"to cast; mold"
+root,mulo,mule
+root,multa,"a lot of; much; numerous"
+root,multipliki,"to multiply"
+root,mumio,mummy
+root,municio,"munition; ammunition"
+root,munti,"to assemble; link; mount; set; build"
+root,murdi,"to murder"
+root,murmuri,"to murmur; mutter"
+root,muro,wall
+root,muskato,nutmeg
+root,muskolo,muscle
+root,musko,moss
+root,muslino,muslin
+root,muŝo,fly
+root,muso,mouse
+root,mustardo,mustard
+root,mustelo,"marter; weasel"
+root,muta,"dumb; mute; speechless; silent"
+root,muzelo,"muzzle; snout"
+root,muzeo,museum
+root,muziko,music
+root,muzo,muse
+root,nacio,"nation; nationality"
+root,nadlo,"indicator; pointer; needle (compass, phonograph); hand (watch, clock)"
+root,naftalino,naphthalene
+root,nafto,"crude oil"
+root,naĝi,"to float; swim"
+root,naiva,"artless; candid; naïve; simple; innocent; unaffected; unsophisticated; natural"
+root,najbaro,neighbor
+root,najlo,nail
+root,najtingalo,nightingale
+root,nankeno,nankeen
+root,nano,"dwarf; midget; little person"
+root,napo,"canola; rapeseed; turnip"
+root,narciso,"daffodil; narcissus"
+root,narkotiko,narcotic
+root,naski,"to bear; give birth to; bring forth; generate; spawn"
+root,naso,"crayfish net; eel pot; eel trap; fish trap; fishing basket; hoop net; lobster trap"
+root,natrio,sodium
+root,naturalismo,naturalism
+root,naturo,"character; nature"
+root,naŭzi,"to disgust; nauseate"
+root,navigacio,navigation
+root,navo,"nave (church)"
+root,nazo,nose
+root,nebulo,"fog; mist"
+root,necesa,"necessary; needful; requisite"
+root,Nederlando,"Holland; the Netherlands"
+root,negativa,negative
+root,neglekti,"to neglect"
+root,negliĝo,"housedress; negligee; undress"
+root,negoco,"business; trade; commerce; transaction"
+root,neĝo,snow
+root,negro,Negro
+root,nekrologo,"necrology; obituary"
+root,nektaro,nectar
+root,neologismo,neologism
+root,nepo,grandson
+root,nepotismo,nepotism
+root,nepra,"absolute; required"
+root,nervo,nerve
+root,nervoza,"agitated; nervous"
+root,nesto,"nest; den; lair"
+root,neto,"corrected copy; final copy"
+root,neŭtrala,"impartial; neutral"
+root,nevo,nephew
+root,niĉo,"niche; nook"
+root,nigra,black
+root,nihilismo,nihilism
+root,nihilisto,nihilist
+root,Nikaragvo,Nicaragua
+root,nikelo,nickel
+root,Nikolao,"Nicholas; Nicolas"
+root,nikotino,nicotine
+root,nilono,nylon
+root,nimfo,"labia minora; nymph"
+root,nivelo,level
+root,nizo,"sparrow hawk"
+root,nobelo,"noble; nobleman"
+root,nobla,"great; noble; honorable"
+root,nodo,"knot; node"
+root,nokto,night
+root,noktuo,"little owl; screech owl"
+root,nomado,"nomad; nomenclature; denomination"
+root,nombro,"amount; number; quantity"
+root,nominala,nominal
+root,nominativo,nominative
+root,nomo,"name; appellation; denomination; noun; identifier"
+root,nordo,north
+root,normala,normal
+root,normo,"norm; standard"
+root,norvego,Norwegian
+root,nostalgio,nostalgia
+root,notario,notary
+root,noto,"annotation; note; grade; memorandum; bulletin; mark"
+root,nova,"new; novel; recent"
+root,novelo,"novelette; short story"
+root,Novembro,November
+root,novico,novice
+root,nuanco,"hue; nuance; shade; tint"
+root,nubo,cloud
+root,nuda,"bare; naked; nude"
+root,nuko,"back of the neck; nape; scruff"
+root,nukso,nut
+root,nulo,"zero; naught; null"
+root,numero,"number; house number; issue number; number in a series; numeral"
+root,numismatiko,numismatics
+root,nuncio,nuncio
+root,nutri,"to feed; nourish; foster"
+root,oazo,oasis
+root,obei,"to obey"
+root,obelisko,obelisk
+root,objektiva,objective
+root,objekto,"article; object; thing; subject"
+root,oblato,"seal; wafer"
+root,oblikva,"oblique; slanting"
+root,obolo,"obolus (a Greek silver coin worth a sixth of a drachma)"
+root,observatorio,observatory
+root,observi,"to observe; abide by; comply; mind; obey; respect; watch; follow; take notice of"
+root,obstaklo,obstacle
+root,obstina,"dogged; headstrong; obstinate; stubborn"
+root,obstrukco,"impediment; obstruction; congestion; filibuster"
+root,obtuza,"dull; obtuse"
+root,oceano,ocean
+root,odo,ode
+root,odori,"to give off an odor; reek; smell"
+root,ofendi,"to abuse; insult; offend; transgress"
+root,oferi,"to offer; offer up; sacrifice"
+root,oferti,"to bid; offer; make an offer of"
+root,oficiala,"officer; official"
+root,oficiro,officer
+root,ofico,"capacity; function; job; office; position; post; employment"
+root,ofta,"frequent; often"
+root,ogivo,"ogee; ogive"
+root,okazi,"to come about; happen; occur; befall; chance; happen; take place; transpire; arrange; bring about"
+root,okcidento,West
+root,oksido,oxide
+root,oksigeno,oxygen
+root,oksikoko,cranberry
+root,oktavo,"octave; octavo"
+root,Oktobro,October
+root,okulo,eye
+root,okulta,occult
+root,okupi,"to occupy; employ; engage; allocate"
+root,okzalo,sorrel
+root,oleandro,oleander
+root,oleo,oil
+root,oligarĥio,oligarchy
+root,oligarĥo,oligarch
+root,oligarkio,oligarchy
+root,oligarko,oligarch
+root,olivo,olive
+root,omaĝo,homage
+root,omaro,lobster
+root,ombrelo,umbrella
+root,ombro,"shade; shadow; umbra"
+root,omnibuso,omnibus
+root,ondo,wave
+root,onikso,onyx
+root,onklo,uncle
+root,onobriko,sainfoin
+root,opalo,opal
+root,operacii,"to operate"
+root,opero,opera
+root,opinii,"to account; deem; opine; think; believe; have an opinion"
+root,opio,opium
+root,oponi,"to oppose"
+root,oportuna,"convenient; handy; opportune"
+root,opozicii,"to be in opposition; oppose"
+root,optiko,optics
+root,optimismo,optimism
+root,optimisto,optimist
+root,orakolo,"oracle; revelation"
+root,oranĝo,orange
+root,oratoro,"orator; spokesperson; speaker"
+root,orbito,"eye socket; field; orbit"
+root,ordeno,"badge; decoration; fraternity; order"
+root,ordinara,"common; ordinary; usual"
+root,ordoni,"to command; order; tell; direct; prescribe"
+root,ordo,"order; ordering; sequence; arrangement"
+root,orelo,ear
+root,orfo,orphan
+root,organika,organic
+root,organismo,organism
+root,organizi,"to organize"
+root,organo,organ
+root,orgasmo,orgasm
+root,orgeno,organ
+root,orgio,orgy
+root,oriento,"East; Orient"
+root,originalo,original
+root,origino,origin
+root,oriolo,oriole
+root,orkestro,orchestra
+root,orkideo,orchid
+root,ornami,"to adorn; decorate; ornament; embellish"
+root,ornitologio,ornithology
+root,ornitologo,ornithologist
+root,oro,gold
+root,orografio,orography
+root,ortodoksa,orthodox
+root,ortografio,orthography
+root,orto,"right angle"
+root,oscedi,"to yawn"
+root,osto,bone
+root,ostracismo,ostracism
+root,ostro,oyster
+root,ovacio,ovation
+root,ovalo,oval
+root,ovo,egg
+root,ozono,ozone
+root,pacienca,patient
+root,paciento,patient
+root,Pacifiko,"Pacific; Pacific Ocean"
+root,pacifismo,pacifism
+root,pacifisto,pacifist
+root,paco,peace
+root,paĉulo,patchouli
+root,pafi,"to fire; shoot (a gun)"
+root,paĝio,"page (person)"
+root,pagi,"to pay"
+root,pagodo,pagoda
+root,paĝo,"page (book, etc.)"
+root,pajlo,straw
+root,Pakistano,Pakistan
+root,pako,"pack; parcel; package"
+root,palaco,palace
+root,palankeno,"palanquin; litter"
+root,pala,"pale; sallow; wan"
+root,palato,"(hard) palate"
+root,paleografio,paleography
+root,paleografo,palaeographer
+root,paleontologio,paleontology
+root,paleontologo,paleontologist
+root,paletro,"color box; painter’s palette"
+root,palinuro,"crayfish; spiny lobster; rock lobster; sea crayfish"
+root,palisandro,rosewood
+root,paliso,"post; stake; pile; support; stick"
+root,palmo,"palm; palm tree"
+root,palpebro,eyelid
+root,palpi,"to feel; grope; touch"
+root,palto,"coat; overcoat"
+root,pamfleto,"pamphlet; lampoon; satire"
+root,Panamo,Panama
+root,panelo,"board; panel; dashboard"
+root,paneo,"breakdown; failure; fault; malfunction"
+root,paniko,panic
+root,pankreato,pancreas
+root,pano,"bread; loaf"
+root,panoramo,"panorama; view"
+root,pantalono,"pants; trousers"
+root,panteismo,pantheism
+root,panteisto,pantheist
+root,pantero,"leopard; panther"
+root,pantoflo,slipper
+root,pantomimo,pantomime
+root,papago,parrot
+root,papavo,poppy
+root,papero,"(piece of) paper"
+root,papilio,butterfly
+root,papiruso,papyrus
+root,papo,pope
+root,papriko,"paprika; red pepper"
+root,parabolo,"parable; parabola"
+root,paradi,"to display; parade"
+root,paradizo,"paradise; Eden; Heaven"
+root,paradokso,paradox
+root,parafino,paraffin
+root,parafo,"initials; flourish after signature; paraph"
+root,parafrazo,paraphrase
+root,paragrafo,"paragraph; section"
+root,Paragvajo,Paraguay
+root,paralelogramo,parallelogram
+root,paralelo,"parallel line"
+root,paralizi,"to paralyze"
+root,paraŝuto,parachute
+root,parazito,"cadger; parasite; sponger; freeloader"
+root,pardoni,"to forgive; pardon; reprieve; excuse; overlook"
+root,parenco,"kinsman; relation; relative"
+root,parentezo,parenthesis
+root,parfumo,perfume
+root,pargeto,"parquet; wood flooring"
+root,Parizo,Paris
+root,parkeri,"to learn by heart; memorize"
+root,parko,park
+root,parlamento,parliament
+root,paro,"brace; couple; pair"
+root,parodio,"burlesque; parody"
+root,paroĥo,parish
+root,paroksismo,"fit; paroxysm; seizure"
+root,paroli,"to speak; talk"
+root,partero,"ground floor; parterre; pit (lower floor of theater)"
+root,participo,participle
+root,partio,"faction; party; side; game; match"
+root,partituro,"partition; score (musical)"
+root,parto,"part; share; portion; section; quota; behalf"
+root,paruo,titmouse
+root,pasaĝero,passenger
+root,pasamento,"braid; lace; trimming; trim"
+root,pasero,sparrow
+root,pasio,"lust; passion"
+root,paŝi,"to pace; stalk; step; stride; tread"
+root,pasi,"to pass"
+root,pasiva,passive
+root,Pasko,"Easter; Passover"
+root,paskvilo,"lampoon; satire"
+root,pasporto,passport
+root,pasteĉo,"pâté; pie"
+root,paŝtelo,"crayon; pastel"
+root,pastelo,"lozenge; pastille"
+root,pastinako,parsnip
+root,paŝti,"to (take to) pasture; feed; shepherd"
+root,pasto,"dough; paste"
+root,pastro,"clergyman; pastor; priest; minister; parson"
+root,patento,patent
+root,pato,"frying pan"
+root,patologio,pathology
+root,patologo,pathologist
+root,patoso,"bombast; expression; feeling; fervor; passion; pathos; rant; emphasis"
+root,patricio,patrician
+root,patriotismo,patriotism
+root,patrioto,patriot
+root,patro,"father; parent; sire"
+root,patrolo,patrol
+root,patrono,"patron; pattern"
+root,Paŭlo,Paul
+root,paŭzi,"to pause; take a break; take a rest"
+root,paviano,baboon
+root,pavilono,pavilion
+root,pavimo,"paving; pavement"
+root,pavo,peacock
+root,peco,"bit; lump; piece; shred; chunk (torrent)"
+root,peĉo,pitch
+root,pedagogio,pedagogy
+root,pedagogo,"pedagogue; teacher"
+root,pedalo,"pedal; treadle"
+root,pedanta,pedantic
+root,pedelo,"apparitor; beadle; usher; verger"
+root,pediko,louse
+root,pego,woodpecker
+root,pejzaĝo,"landscape; scenery"
+root,peki,"to sin; transgress"
+root,pekli,"to pickle (in salt)"
+root,pelerino,"cape; pelerine; tippet"
+root,pelikano,pelican
+root,peli,"to chase; drive; drive on; impel; shoo; expel; dispel; propel"
+root,pelto,"fur; fur coat; fur piece; pelisse; pelt"
+root,pelvo,"basin; bowl; pelvis"
+root,penco,penny
+root,pendi,"to droop; hang"
+root,pendolo,pendulum
+root,penetri,"to penetrate; pervade; pierce"
+root,penicilino,penicillin
+root,peniko,"brush; paintbrush"
+root,peniso,penis
+root,peni,"to aim; attempt; endeavor; try"
+root,pensiono,"boarding house; boarding school"
+root,pensio,"pension; retirement"
+root,pensi,"to think; deem"
+root,pentametro,pentameter
+root,pentekosto,Pentecost
+root,penti,"to repent"
+root,pentri,"to paint"
+root,peonio,peony
+root,pepi,"to chirp; peep; twitter; warble; beep"
+root,pepsino,pepsin
+root,percepto,perception
+root,perĉo,"ruff (fish)"
+root,perdi,"to lose"
+root,perdriko,partridge
+root,perei,"to perish"
+root,perfekta,perfect
+root,perfidi,"to betray"
+root,pergameno,parchment
+root,perimetro,"circumference; perimeter"
+root,periodo,period
+root,periskopo,periscope
+root,peristilo,peristyle
+root,peritoneo,peritoneum
+root,perko,"bass; perch (fish)"
+root,perlamoto,"mother of pearl"
+root,perlo,pearl
+root,permesi,"to accord; admit; afford; allow; permit; authorize; grant"
+root,perono,"front steps of a building; stoop; platform; railway platform"
+root,persekuti,"to chase; persecute; prosecute; pursue"
+root,persiko,"nectarine; peach"
+root,persisti,"to abide; persevere; persist"
+root,persono,"character; person; personage"
+root,perspektivo,"perspective; prospect"
+root,persvadi,"to persuade"
+root,peruko,"hairpiece; wig"
+root,Peruo,Peru
+root,pesimismo,pessimism
+root,pesimisto,pessimist
+root,pesi,"to weigh (something)"
+root,pesto,"pest; pestilence; plague; pestilence"
+root,petalo,petal
+root,petardo,"detonator; firecracker; petard"
+root,peti,"to ask (for); request; seek; bid; beg"
+root,petoli,"to frolic; horse around; play about"
+root,petrolo,"paraffin oil; petroleum; oil"
+root,petromizo,lamprey
+root,Petro,Peter
+root,petroselo,parsley
+root,peza,"burdensome; heavy; onerous; weighty"
+root,pfenigo,pfennig
+root,piano,piano
+root,pia,"pious; righteous"
+root,piastro,piaster
+root,piceo,"spruce; spruce fir"
+root,pico,pizza
+root,piedestalo,"base; pedestal; stand"
+root,piedo,"foot; paw; root (of dyed hair)"
+root,pigmeo,"pigmy; pygmy"
+root,pigo,"magpie; pica"
+root,piĵamo,pajama
+root,pikedo,"guard; outpost; picket; sentry"
+root,piki,"to bite; jab; pick; pierce; prick; puncture; stab; stick; sting"
+root,pikniko,picnic
+root,pilastro,pilaster
+root,pilgrimi,"to go on a pilgrimage"
+root,pilko,"ball (for playing)"
+root,pilo,"battery cell; pile"
+root,pilolo,pill
+root,piloto,pilot
+root,pinĉi,"to nip; pinch"
+root,pinglo,"needle; pin"
+root,pingveno,penguin
+root,pinio,"pine; silver fir; stone pine; umbrella pine"
+root,pino,"pine (tree)"
+root,pinto,"peak; point; tip; summit; ridge; vertex"
+root,pioĉo,"pick; pickaxe"
+root,pioniro,pioneer
+root,pipo,pipe
+root,pipro,"(black) pepper"
+root,pipso,"pip (disease in birds)"
+root,piramido,pyramid
+root,pirato,"pirate; sea robber; hacker"
+root,pirito,pyrite
+root,pirolo,bullfinch
+root,piro,pear
+root,pirozo,"acid stomach; heartburn; pyrosis"
+root,pisi,"to piss; urinate"
+root,pistako,pistachio
+root,pisti,"to crush; pound; grind"
+root,pistolo,"pistol; spray gun"
+root,piŝto,piston
+root,pivoto,pivot
+root,pizo,"green pea"
+root,plaĉi,"to be pleasing; please"
+root,placo,"place; plaza; square; public square"
+root,plado,"course; dish; plate; platter; tray"
+root,plafono,ceiling
+root,plagiato,plagiarism
+root,plago,"calamity; scourge; plague"
+root,plando,"sole (foot)"
+root,planedo,planet
+root,planko,floor
+root,plano,"design; diagram; plan; blueprint"
+root,plantago,"plaintain; plantago"
+root,planti,"to plant"
+root,planto,"plant; planting"
+root,plastiko,"modeling art; molding art; plastic art"
+root,plasto,plastic
+root,plastro,"plaster (dressing)"
+root,plata,flat
+root,platano,"plane (tree); sycamore"
+root,plateno,platinum
+root,plaŭdi,"to beat; flap; lap; plash; splash"
+root,plebo,"common people; plebs"
+root,pledi,"to appeal; plea; plead"
+root,plekti,"to braid; plait; twine; wreathe"
+root,plena,"complete; full; integral; plenary; thorough; whole"
+root,plendi,"to complain; lament"
+root,pleonasmo,"pleonasm; redundancy"
+root,pleto,tray
+root,plezuro,"fun; pleasure"
+root,pliko,"Polish plait"
+root,plonĝi,"to dive; plunge"
+root,plori,"to cry; weep; shed tears"
+root,ploto,roach
+root,plugi,"to plow; till"
+root,plumbo,lead
+root,plumo,"feather; pen; plume; quill"
+root,pluralo,plural
+root,plura,"more than one; multiple; several"
+root,pluŝo,plush
+root,plutokratio,plutocracy
+root,plutokrato,plutocrat
+root,pluvo,rain
+root,pneŭmatiko,"pneumatics; tire"
+root,podagro,gout
+root,podio,"platform; podium"
+root,poemo,poem
+root,poento,"point (cards, score)"
+root,poeto,poet
+root,poezio,poetry
+root,pokalo,"fancy cup; goblet; tankard"
+root,polemiko,"controversy; polemic; dispute"
+root,poleno,pollen
+root,polico,police
+root,poligloto,polyglot
+root,poligono,"buckwheat; knotgrass; knotweed; polygon"
+root,Polinezio,Polynesia
+root,polipo,"polyp; polypus"
+root,politeismo,polytheism
+root,politiko,"policy; politics"
+root,polko,polka
+root,polpo,octopus
+root,poluro,"luster; polish"
+root,poluso,"pole (geography)"
+root,polvo,dust
+root,pomado,"pomade; pomatum; ointment"
+root,pomo,apple
+root,pompo,"display; pomp; splendor"
+root,ponardo,"dagger; poniard"
+root,ponto,bridge
+root,pontono,pontoon
+root,poplo,poplar
+root,popolo,"folk; nation; people"
+root,populara,popular
+root,porcelano,"china; porcelain"
+root,porcio,"allowance; portion; ration; share; part; quota"
+root,pordo,"door; gate; port"
+root,poreo,leek
+root,porfiro,porphyry
+root,porko,"hog; pig; swine"
+root,poro,pore
+root,portalo,portal
+root,portero,"porter; stout"
+root,portiko,"porch; portico"
+root,porti,"to bear; carry; wear; bring; port (to another operating system)"
+root,portreto,portrait
+root,posedi,"to own; possess"
+root,poŝo,"pocket; paste buffer; clipboard"
+root,posteno,"job; position; post"
+root,poŝto,"mail; post"
+root,postuli,"to demand; postulate; require; exact"
+root,potaso,"potash; potassium hydroxide"
+root,potenco,"domination; might; potency; power"
+root,poto,"jug; pot"
+root,povi,"to be able; can"
+root,pozicio,"location; place; position; pose; post; situation; stance; status; posture; rank"
+root,pozitiva,positive
+root,pozi,"to pose"
+root,praktiko,practice
+root,pramo,"ferry boat; pontoon"
+root,prava,"correct; right; just; justified; true"
+root,precipa,"chief; main; predominant; principal"
+root,preciza,"accurate; precise; exact"
+root,predikato,predicate
+root,prediki,"to preach"
+root,prefekto,"commissioner; prefect"
+root,preferi,"to prefer; like best"
+root,prefikso,prefix
+root,preĝi,"to pray"
+root,prelato,prelate
+root,prelegi,"to address; discourse; lecture"
+root,preludo,"overture; prelude"
+root,premio,"award; premium; prize; reward"
+root,premiso,"assumption; premise; premiss; precondition"
+root,premi,"to press; oppress; squeeze; grasp; push; hold down; depress; hit (a key)"
+root,preni,"to get; lay hold of; pick up; take"
+root,prepari,"to prepare"
+root,prepozicio,preposition
+root,prerogativo,prerogative
+root,presi,"to impress; print; type"
+root,preskribi,"to order; prescribe; stipulate"
+root,prestiĝo,"glamour; prestige"
+root,preta,"finished; ready; through; prepared"
+root,preteksto,"excuse; pretence; pretext"
+root,pretendi,"to allege; claim; presume; maintain; assert; argue"
+root,prezenti,"to present; offer; tender; give; perform; show; tender; represent"
+root,prezidi,"to preside; take the chair"
+root,prezo,price
+root,primitiva,"primeval; primitive"
+root,primolo,primrose
+root,principo,principle
+root,princo,prince
+root,printempo,"spring; springtime"
+root,prismo,prism
+root,privata,private
+root,privilegio,"favor; privilege; special advantage"
+root,probabla,probable
+root,problemo,"problem; trouble"
+root,procedi,"to act; proceed"
+root,proceduro,"procedure; subroutine"
+root,procesio,procession
+root,proceso,"action; lawsuit; case (in court)"
+root,produkto,"product; production"
+root,profani,"to defile; desecrate; profane"
+root,profesio,"business; calling; profession; occupation; job"
+root,profesoro,professor
+root,profeto,"prophet; seer"
+root,profilo,"profile; side face; silhouette"
+root,profito,"advantage; gain; profit; benefit"
+root,profunda,"deep; profound"
+root,prognozo,"forecast; prognosis; prediction"
+root,programo,"program; statement of policy; declaration of policy; platform"
+root,progresi,"to advance; progress; proceed"
+root,projekcio,projection
+root,projekto,"design document; draft; plan; project; scheme; technical specification"
+root,proklami,"to issue; proclaim"
+root,prokrasti,"to adjourn; delay; postpone; defer; procrastinate; put off; suspend"
+root,proksima,"close; near; nearby; next; proximate"
+root,proletario,proletarian
+root,proleto,"member of the lower class; proletarian"
+root,prologo,"prolog; prologue"
+root,promeni,"to go for a walk; stroll; promenade"
+root,promesi,"to promise; vow"
+root,promontoro,"cape; headland; promontory"
+root,pronomo,pronoun
+root,prononci,"to pronounce"
+root,propagandi,"to advertise; publicize; propagate"
+root,proponi,"to propose; offer; advocate; suggest"
+root,proporcio,"proportion; rate; ratio"
+root,propra,"own; personal; proper; custom"
+root,prospekto,"prospectus; brochure"
+root,prosperi,"to be successful; prosper; thrive"
+root,prostato,"prostate gland"
+root,protagonisto,protagonist
+root,proteino,protein
+root,protekti,"to protect; back; cover"
+root,protektorato,protectorate
+root,protesti,"to protest"
+root,protokolo,"log; log; log file; minutes (meeting); protocol; report (official)"
+root,prototipo,"mockup; prototype"
+root,proverbo,"adage; proverb; maxim; saying"
+root,provinco,province
+root,provi,"to attempt; test; try; essay"
+root,provizora,"provisional; temporary; tentative"
+root,provizo,"stock; store; supply; provision"
+root,provoki,"to defy; incite; provoke; incite"
+root,prozelito,"convert; proselyte"
+root,prozodio,prosody
+root,prozo,prose
+root,prudenta,"judicious; prudent; reasonable; sensible; wise; careful"
+root,prujno,frost
+root,prunelo,"blackthorn; sloe"
+root,pruno,plum
+root,prunto,loan
+root,pruvi,"to demonstrate; prove; substantiate"
+root,psalmo,psalm
+root,pseŭdonimo,"alias; pseudonym"
+root,psikologio,psychology
+root,psikologo,psychologist
+root,publiko,public
+root,pubo,"pubic region"
+root,pudelo,poodle
+root,pudingo,pudding
+root,pudro,"(cosmetic) powder"
+root,pufo,"padding; puff; swelling; stuffing; wad; pad"
+root,pugno,fist
+root,pulĉinelo,"punch and Judy"
+root,pulmo,lung
+root,pulo,flea
+root,pulpo,"fleshy part; pulp"
+root,pulso,"beat; pulse"
+root,pulvo,gunpowder
+root,pulvoro,"powder (cosmetic)"
+root,pumiko,"pumice stone"
+root,pumpi,"to pump"
+root,punca,"flaming red; poppy red; poppy-colored; crimson red"
+root,punĉo,punch
+root,pundo,"pound (unit of currency)"
+root,puni,"to chastise; punish"
+root,punkto,"dot; period; point; spot"
+root,punto,lace
+root,pupilo,"pupil (of eye)"
+root,pupitro,"desk; lectern; school desk"
+root,pupo,"chrysalis; pupa; doll; puppet"
+root,pura,"clean; pure; neat; unadulterated"
+root,purgatorio,purgatory
+root,puritano,puritan
+root,purpuro,purple
+root,puŝi,"to push; thrust; shove"
+root,puso,pus
+root,pustulo,pustule
+root,putoro,polecat
+root,puto,"well; pit"
+root,putri,"to decay; decompose; putrefy; rot; fester"
+root,rabarbo,rhubarb
+root,rabato,"rebate; abatement; discount"
+root,rabeno,rabbi
+root,rabio,"rabies; frenzy; rage"
+root,rabi,"to pillage; plunder; rob; take away (by force)"
+root,raboti,"to abrade; plane"
+root,racio,"judgment; reason; logical reasoning; sense; rationality"
+root,racionalismo,rationalism
+root,racionalisto,rationalist
+root,radaro,"radar; wheelwork; machinery"
+root,radiatoro,radiator
+root,radikala,radical
+root,radiko,"root; radical"
+root,radio,"beam; radio; radius; ray; wireless; spoke (of wheel)"
+root,radiografi,"to X-ray"
+root,rado,wheel
+root,rafano,"radish; black radish; horse radish"
+root,rafini,"to refine"
+root,rajdi,"to ride"
+root,rajto,"entitlement; right; authority"
+root,rakedo,racket
+root,raketo,"flare; missile; rocket"
+root,rakonti,"to narrate; relate; tell; recount; relate"
+root,rampi,"to crawl; creep; sneak"
+root,ranca,rancid
+root,rando,"border; brim; brink; edge; edging; fringe; rand; rim; boundary"
+root,rango,"grade; rank; rate"
+root,rano,frog
+root,ranunkolo,"buttercup; ranunculus"
+root,rapida,"brisk; quick; rapid; speedy; swift; hasty; prompt; fast; high-speed"
+root,rapiro,"foil; rapier"
+root,raporti,"to give an account; report"
+root,rapo,turnip
+root,raso,"breed; race"
+root,raspi,"to grate; rasp; grate"
+root,rasti,"to rake"
+root,rato,rat
+root,raŭka,"harsh; hoarse; raucous; husky"
+root,raŭpo,caterpillar
+root,ravi,"to delight; enchant; enrapture"
+root,razi,"to shave"
+root,reakcio,reaction
+root,reala,"actual; practical; real"
+root,realismo,realism
+root,rebuso,rebus
+root,recenzi,"to review"
+root,recepto,"formula; prescription; recipe"
+root,reciproka,"mutual; reciprocal"
+root,recitativo,recitative
+root,redakcio,"editorial office"
+root,redakti,"to compile; edit"
+root,redaktoro,"editor (person)"
+root,redukti,"to reduce; scale down"
+root,referenco,"recommendation; reference; testimonial; referral; pointer (variable)"
+root,reflekti,"to reflect"
+root,refo,"reef (sail)"
+root,reformacio,reformation
+root,refuti,"to disprove; rebut; refute"
+root,regali,"to entertain; treat; regale"
+root,regento,regent
+root,regimento,regiment
+root,reĝimo,"mode; regime; regimen"
+root,regiono,"region; scope; district; tract (of land)"
+root,reĝisoro,"director; stage manager"
+root,registro,"account book; record; register; list; roll; register"
+root,regi,"to control; govern; restrain; rule; reign"
+root,regno,"dominion; realm; state; sovereign country; kingdom"
+root,reĝo,king
+root,regolo,"goldcrest (regulus regulus)"
+root,regulo,"rule; enactment; regulation; statute; law"
+root,reklami,"to advertise"
+root,rekomendi,"to commend; recommend; register"
+root,rekompenco,"compensation; reward"
+root,rekordo,record
+root,rekremento,"dregs; grounds; husks; refuse; residue; waste"
+root,rekruto,recruit
+root,rekta,"direct; straight; right; upright; erect; live (broadcast)"
+root,rektoro,"chancellor; rector (school)"
+root,relativa,relative
+root,reliefo,"embossment; relief (raised out)"
+root,religio,religion
+root,relo,rail
+root,remburi,"to pad; upholster; stuff; justify"
+root,remi,"to row"
+root,remparo,"battlement; bulwark; rampart; mound"
+root,rendevuo,"appointment; date; rendezvous"
+root,renkonti,"to come across; encounter; meet; see"
+root,reno,kidney
+root,rento,"annuity; dividend; income; return; revenue"
+root,renversi,"to overthrow; turn; turn over; overturn; upset; reverse; flip"
+root,repertuaro,repertoire
+root,reputacio,reputation
+root,respekti,"to respect"
+root,respektiva,respective
+root,respondi,"to answer; reply; respond; retort"
+root,respubliko,"commonwealth; republic"
+root,resti,"to remain; stay; be left; stay over; sojourn; stop; rest"
+root,restoracio,restaurant
+root,resto,"remainder; residue; rest"
+root,retino,retina
+root,reto,"net; network; web"
+root,retoriko,"oratory; rhetoric"
+root,retoro,rhetorician
+root,retorto,"retort (chemical vessel)"
+root,reŭmatismo,rheumatism
+root,revelacio,revelation
+root,revi,"to dream; daydream; fancy; muse"
+root,revizii,"to audit; revise"
+root,revizoro,"auditor; government inspector; inspector general"
+root,revolucii,"to revolt"
+root,revolvero,revolver
+root,revuo,"journal; magazine; periodical; review"
+root,rezedo,"mignonette; reseda (type of fragrant herbaceous plant)"
+root,rezervo,"backup; reservation; reserve"
+root,rezignacio,"acquiescence; resignation"
+root,rezigni,"to abandon; give up; resign; renounce; yield; renounce; surrender; cancel"
+root,rezino,resin
+root,rezisti,"to resist; stand; withstand"
+root,rezolucio,"motion; resolution"
+root,rezoni,"to discuss; argue; reason"
+root,rezultato,"conclusion; effect; result"
+root,rezulti,"to result"
+root,ribeli,"to rebel"
+root,ribo,currant
+root,riĉa,"affluent; rich; wealthy; well-off; well-to-do"
+root,ricevi,"to get; have; receive; retrieve"
+root,ricino,"castor oil plant"
+root,ridi,"to laugh"
+root,rifo,"dangerous rocks; reef"
+root,rifuĝi,"to take refuge"
+root,rifuzi,"to decline; refuse; reject"
+root,rigardi,"to consider; deem; look; look at; regard; see; view; watch"
+root,rigida,"inflexible; rigid; stiff"
+root,rigli,"to bolt; fasten; interlock"
+root,rigora,"rigorous; stringent"
+root,rikani,"to laugh derisively; sneer"
+root,rikolti,"to gather; harvest; reap"
+root,rilati,"to concern; relate"
+root,rimarki,"to note; notice; observe; remark"
+root,rimedo,"means; remedy; resources"
+root,rimeno,"band; strap; belt"
+root,rimo,rhyme
+root,ringo,ring
+root,rinocero,"rhino; rhinoceros"
+root,ripari,"to fix; repair; mend; redress; amend; restore; recover"
+root,ripeti,"to recapitulate; rehearse; repeat; reiterate"
+root,ripo,rib
+root,ripozi,"to repose; rest"
+root,riproĉi,"to blame; rebuke; reproach; reprove; scold; reprimand"
+root,riski,"to hazard; risk; venture"
+root,rismo,"ream (paper)"
+root,risorto,"spring (mech.)"
+root,ritmo,rhythm
+root,rito,rite
+root,riveli,"to develop; reveal"
+root,riverenci,"to bow; curtsy; make reverence to"
+root,rivero,river
+root,rivoluo,revolution
+root,rizo,rice
+root,robo,"dress; gown; robe"
+root,roboto,robot
+root,rodo,"anchorage; moorage; mooring"
+root,rojalisto,royalist
+root,roko,"rock (music)"
+root,rolo,"character; part; role; rôle (acting)"
+root,romano,"novel (romance); Roman"
+root,romantiko,romanticism
+root,rombo,"rhomb; rhombus"
+root,rompi,"to break"
+root,rondo,"circle; ring; round"
+root,ronĝi,"to gnaw; nibble"
+root,ronki,"to snore"
+root,rosmareno,rosemary
+root,rosmaro,"sea horse; walrus"
+root,roso,dew
+root,rosti,"to broil; roast; toast"
+root,rostro,"proboscis; snout; trunk; sucker"
+root,rotacii,"to rotate"
+root,roto,"company; gang; squad; detachment"
+root,rotondo,rotunda
+root,rozario,"litany; rosary"
+root,rozo,rose
+root,rubando,"ribbon; band; tape"
+root,rubeno,ruby
+root,rublo,"ruble (Russian unit of currency)"
+root,rubo,"debris; rubbish; rubble; garbage; trash; junk"
+root,rubriko,"column; header; rubric; section"
+root,rubuso,"blackberry; blackberry bush; bramble"
+root,ruĝa,"red; ruddy; rosy; blushing"
+root,ruino,ruin
+root,rukti,"to belch; burp"
+root,ruleto,roulette
+root,ruli,"to roll; run; execute"
+root,rulo,"roll; run"
+root,rumano,"Romanian; Rumanian"
+root,rumo,rum
+root,ruso,Russian
+root,rusto,rust
+root,rutino,"routine; habit"
+root,ruto,rue
+root,ruza,"artful; crafty; sly; astute; clever; cunning; smart"
+root,sabato,"Sabbath; Saturday"
+root,sablo,sand
+root,sabro,saber
+root,sacerdoto,priest
+root,safiro,sapphire
+root,ŝafo,sheep
+root,safrano,saffron
+root,sagaca,"acute; astute; shrewd; ingenious; shrewd"
+root,saĝa,"sagacious; sage; wise; sensible"
+root,sago,"arrow; dart"
+root,saguo,sago
+root,ŝaho,shah
+root,ŝajni,"to appear (to be); look; seem"
+root,ŝakalo,jackal
+root,sako,"bag; sack; wallet"
+root,ŝako,"check; chess"
+root,sakramento,sacrament
+root,sakristio,"sacristy; vestry"
+root,sakro,"bad language; curse; expletive; obscenity; profanity; sacrum"
+root,saksofono,saxophone
+root,salajro,"salary; wage; wages; stipend"
+root,salamandro,salamander
+root,salato,salad
+root,saldo,"balance (account)"
+root,salikoko,"prawn; shrimp"
+root,saliko,willow
+root,salivo,saliva
+root,ŝalmo,"bellows; pipe; windbag; stalk"
+root,salmo,salmon
+root,salono,"drawing room; living room; parlor; salon; sitting room"
+root,salo,salt
+root,ŝalo,"shawl; wrap"
+root,salpetro,"nitre; saltpeter"
+root,salti,"to jump; leap; spring; bounce; bound; vault"
+root,ŝalti,"to switch (on); turn on; activate; enable"
+root,ŝalupo,"longboat; sloop; launch (boat)"
+root,saluti,"to greet; salute; bow; log in; log on; sign on"
+root,salvio,"sage (botany)"
+root,sama,"same; ditto"
+root,sambuko,"elder (tree)"
+root,ŝamo,"chamois; chamois leather; shammy"
+root,samovaro,samovar
+root,sana,"healthy; well"
+root,ŝanceli,"to shake; totter; waver"
+root,ŝanco,"chance; luck; prospect"
+root,sandalo,sandal
+root,sandviĉo,sandwich
+root,ŝanĝi,"to change; turn; modify; make changes"
+root,sango,blood
+root,sankcio,"authorization; official approval; penalty; permission; reward; sanction"
+root,ŝankro,"canker; chancre; venereal ulcer"
+root,sankta,"holy; sacred; saintly"
+root,santalo,sandalwood
+root,sapo,soap
+root,ŝarado,charade
+root,sardelo,"anchovy; sardine (pickled)"
+root,ŝargi,"to charge; load; burden"
+root,ŝarĝo,"burden; charge; load; capacity"
+root,sarkasmo,sarcasm
+root,sarki,"to hoe; weed; weed out"
+root,sarkofago,sarcophagus
+root,ŝarko,shark
+root,sata,"full; replete; satisfied"
+root,satano,Satan
+root,satelito,satellite
+root,sateno,satin
+root,satiro,"lampoon; satire"
+root,ŝati,"to appreciate; like; prize; value; esteem; think highly of; relish"
+root,satrapo,satrap
+root,saturi,"to saturate"
+root,saŭco,"gravy; sauce"
+root,ŝaŭmo,"foam; froth; scum; spume"
+root,savi,"to keep; save; rescue"
+root,sceno,"scene (painted)"
+root,sceptro,scepter
+root,scienco,science
+root,scii,"to know; know how"
+root,sciuro,squirrel
+root,sebo,"fat; tallow; suet"
+root,segi,"to saw"
+root,segmento,"segment; slice"
+root,seĝo,"chair; seat"
+root,seka,"arid; dry"
+root,sekalo,rye
+root,sekcio,"branch; chapter; section"
+root,sekci,"to cut; dissect; (perform an) autopsy; intersect"
+root,sekrecio,secretion
+root,sekretario,secretary
+root,sekreto,secret
+root,sekso,"gender; sex"
+root,sekto,"faction; sect"
+root,sektoro,"industry; sector"
+root,sekundanto,second
+root,sekundo,"second (time)"
+root,sekura,"safe; secure"
+root,sekvi,"to ensue; follow; succeed (order)"
+root,selakto,whey
+root,ŝelko,"braces; suspenders"
+root,ŝelo,"bark; husk; peel; shell; pod; rind; skin; wrapper"
+root,selo,saddle
+root,semaforo,"semaphore; signal"
+root,semajno,week
+root,seminario,seminar
+root,semo,seed
+root,senato,senate
+root,senco,"meaning; sense"
+root,sendi,"to forward; remit; send; transmit; submit"
+root,ŝenoprazo,chive
+root,sensacio,"furor; impression; interest; sensation; commotion; perception"
+root,senso,sense
+root,sentenco,"maxim; proverb; wise saying"
+root,sentimentala,"romantic; sentimental"
+root,senti,"to experience; feel; sense; perceive"
+root,sepio,"cuttlefish; sepia"
+root,Septembro,September
+root,septeto,septet
+root,serajlo,seraglio
+root,serĉi,"to find; search; seek; track down"
+root,ŝerci,"to jest; joke; kid"
+root,serena,"calm; serene; untroubled"
+root,serenado,serenade
+root,serĝento,sergeant
+root,serio,"series; set"
+root,serioza,"earnest; serious; staid; sober"
+root,serpento,"serpent; snake"
+root,seruro,lock
+root,servico,"crockery set; service"
+root,servi,"to attend; serve; wait on"
+root,servuto,"bondage; serfdom; servitude; forced labor; slavery"
+root,sesio,session
+root,severa,"harsh; rigid; severe; strict; stringent; rigorous; stern"
+root,sezono,"season (of year)"
+root,sfero,"ball; sphere"
+root,sfinkso,sphinx
+root,sfinktero,sphincter
+root,sibli,"to hiss; whistle"
+root,sidi,"to sit; be seated"
+root,sieĝi,"to besiege"
+root,sifiliso,syphilis
+root,sifono,siphon
+root,sigelo,seal
+root,signalo,"mark; sign; signal; token"
+root,signifi,"to imply; mean; signify"
+root,signo,"character; mark; sign; signal; token; accent"
+root,silabo,syllable
+root,ŝildo,"buckler; shield; sign; plaque; tag"
+root,silenti,"to be quiet; silent"
+root,silicio,silicon
+root,siliko,"flint; gravel"
+root,ŝilingo,shilling
+root,silko,silk
+root,silogismo,syllogism
+root,silueto,"outline; silhouette"
+root,silvio,"hedge sparrow; warbler"
+root,simbolo,"symbol; token; lexeme; badge"
+root,simetrio,symmetry
+root,simfonio,symphony
+root,simila,"alike; similar; like"
+root,simio,"ape; monkey"
+root,ŝimi,"to get moldy"
+root,simpatio,sympathy
+root,simpla,"simple; straightforward; unaffected; unvarnished; plain; unpretending"
+root,simptomo,symptom
+root,sinagogo,synagogue
+root,sincera,"above-board; frank; sincere; unfeigned"
+root,sindikato,"labor union; trade union; syndicate"
+root,ŝindo,"shingle; wood tile"
+root,sinedrio,Sanhedrim
+root,singularo,singular
+root,singulti,"to hiccough; hiccup"
+root,sinjoro,"gentleman; lord; Mr.; Sir"
+root,ŝinko,ham
+root,sinkopo,"syncopation; syncope"
+root,sino,"bosom; breast; lap"
+root,sinodo,synod
+root,sinonimo,synonym
+root,sinoptika,synoptic
+root,sintakso,syntax
+root,sintezo,synthesis
+root,ŝipo,"ship; boat; vessel"
+root,sireno,"mermaid; siren"
+root,siringo,"lilac; Syringa"
+root,Sirio,Syria
+root,ŝiri,"to rip; tear"
+root,ŝirmi,"to protect; shelter; screen; shield"
+root,siropo,syrup
+root,sistemo,system
+root,sitelo,"bucket; pail"
+root,situacio,"circumstances; condition; situation; position; station; site; context"
+root,situo,site
+root,skabio,"blotch; scab; infection; itch (disease); mange"
+root,skadro,squadron
+root,skalo,"scale (map, measure, etc.)"
+root,skalpo,scalp
+root,skandalo,"scandal; shocking occurrence"
+root,skani,"to scan (electronically); sweep"
+root,skapolo,"scapula; shoulder blade"
+root,skarabo,"beetle; scarabaeus; scarab"
+root,skarlatino,"scarlatina; scarlet fever"
+root,skarlato,scarlet
+root,skarpo,"(woman’s) scarf; arm-sling; sash; stole"
+root,skatolo,"box (small); can"
+root,skeĉo,"skit; sketch"
+root,skeleto,skeleton
+root,skemo,"chart; diagram; outline; scheme; model; pattern"
+root,skeptika,skeptical
+root,skerco,scherzo
+root,skermi,"to fence (sport)"
+root,skio,ski
+root,skismo,schism
+root,skizo,"design; outline; sketch"
+root,sklavo,slave
+root,skolastiko,scholasticism
+root,skolopo,woodcock
+root,skolo,"school (of art, philosophy, thought, etc)"
+root,skolto,"boy scout"
+root,skorbuto,scurvy
+root,skorpio,scorpion
+root,skorzonero,"black salsify"
+root,skrapi,"to scrape; scratch; dredge"
+root,skribi,"to write"
+root,skrofolo,scrofula
+root,skrupulo,"conscientiousness; scrupulousness"
+root,skui,"to agitate; shake; shock; toss"
+root,skulpti,"to carve; sculpt"
+root,skurĝo,"scourge; whip; lash"
+root,skvamo,"scale (of fish)"
+root,sledo,"sled; sleigh; toboggan"
+root,ŝlimo,"mire; mud; slime"
+root,slipo,"filing card; slip"
+root,ŝlosi,"to lock"
+root,ŝmaci,"to smack"
+root,smeraldo,emerald
+root,ŝmiri,"to anoint; smear; spread; coat; grease; smear"
+root,ŝnuro,"cord; rope; string"
+root,sobra,"abstemious; sober; staid; temperate"
+root,sociala,"communal; social"
+root,societo,"association; circle; club; society; company"
+root,sociologio,sociology
+root,sociologo,sociologist
+root,socio,society
+root,sodo,soda
+root,Sofio,Sofia
+root,sofismo,"fallacy; sophism"
+root,sofisto,sophist
+root,ŝoforo,"chauffeur; driver"
+root,sofo,sofa
+root,soifi,"to be thirsty; thirst"
+root,sojlo,"sill; threshold"
+root,ŝoki,"to shock"
+root,soklo,"base; plinth; supporting base; pedestal"
+root,sola,"alone; only; sole; solitary; single"
+root,soldato,"pawn; soldier"
+root,soldo,"pay (military)"
+root,solecismo,solecism
+root,solena,"ceremonious; solemn"
+root,soleo,"sole (fish)"
+root,solidara,"interdependent; jointly responsible; standing together"
+root,solisto,soloist
+root,solventa,solvent
+root,solvi,"to dissolve; reduce; solve; ressolve"
+root,somero,summer
+root,somnambulo,sleepwalker
+root,sonato,sonata
+root,sondi,"to fathom; sound; try depth; probe; plumb; sound out"
+root,soneto,sonnet
+root,sonĝi,"to dream"
+root,soni,"to boom; sound"
+root,sonoro,"clang; peal; ringing"
+root,sopiri,"to ache; long for; yearn"
+root,soprano,soprano
+root,sorbi,"to absorb (a liquid); sip"
+root,sorĉi,"to bewitch"
+root,sorgo,sorghum
+root,soriko,"shrew mouse"
+root,sorpo,"mountain-ash berry; rowan berry; sorb (apple)"
+root,sortimento,"assortment; selection; collection"
+root,sorto,"destiny; fate; fortune; luck; lot"
+root,ŝoseo,highway
+root,sovaĝa,"savage; wild; untamed"
+root,ŝoveli,"to shovel"
+root,ŝovinismo,"chauvinism; jingoism"
+root,ŝovinisto,"chauvinist; jingo; jingoist"
+root,ŝovi,"to push along; shove; thrust; shift"
+root,spaco,"room; space"
+root,spado,"court sword; dress sword; dueling sword; epee; rapier; small sword"
+root,spaliro,"gauntlet (2 rows of people); rank; row (of standing people)"
+root,ŝpari,"to be careful; spare; economize; save; spare; be sparing of; keep for future use"
+root,spasmo,spasm
+root,ŝpato,spade
+root,spato,"spar (mineral)"
+root,speciala,"advanced; particular; special"
+root,specifi,"to specify"
+root,specimeno,"sample; specimen"
+root,speco,"kind; sort; form; species"
+root,spegulo,mirror
+root,spektaklo,"show; spectacle"
+root,spekti,"to view; watch; witness; be a spectator"
+root,spekulativa,speculative
+root,spermo,sperm
+root,sperta,"accomplished; adept; experienced; expert; conversant; skilled"
+root,spezi,"to transact money"
+root,spico,spice
+root,spiko,"ear (of corn); spike"
+root,spinaco,spinach
+root,ŝpini,"to spin (thread)"
+root,spino,"backbone; spine; spinal column"
+root,spiono,spy
+root,spiralo,spiral
+root,spiritisto,"spiritist; follower of spiritism"
+root,spiri,"to breathe; respire"
+root,spirito,"mind; spirit"
+root,spiritualismo,spiritualism
+root,spiritualisto,spiritualist
+root,spiti,"to defy"
+root,spleno,"blues; depression; ill humor; low spirits; melancholy"
+root,splito,"splinter; wafer"
+root,spongo,sponge
+root,spontanea,spontaneous
+root,sporto,sport
+root,sprita,"bright; clever; lively; witty; racy"
+root,sprono,"spur; sprat"
+root,ŝpruci,"to gush; spurt; spurt out; splash; spout; pop-out"
+root,spuro,"trace; track; trail"
+root,sputi,"to spit"
+root,ŝranko,"cabinet; closet; cupboard; sideboard; wardrobe"
+root,ŝraŭbo,screw
+root,ŝrumpi,"to crumple; shrink; shrivel up; wilt; wrinkle"
+root,stabila,"stable; firm; steady"
+root,stablo,"bench; easel; workbench; support; stand"
+root,stabo,"commanding officers; general staff"
+root,stacio,"stage; station; stop; terminal"
+root,stadiono,"arena; ballpark; coliseum; grandstand; grounds; stadium; sports ground"
+root,stadio,"period; phase; stage; stadium (Greek measure)"
+root,stagni,"to stagnate"
+root,stalagmito,stalagmite
+root,stalaktito,stalactite
+root,stalo,"stable; stall; sty"
+root,ŝtalo,steel
+root,stameno,stamen
+root,stampo,"mark; stamp"
+root,standardo,"banner; flag; standard"
+root,stango,"bar; handle; pole; rod; shaft; spar; staff; stake; stave; perch"
+root,stano,"pewter; tin"
+root,stari,"to stand"
+root,starti,"to start (off)"
+root,statistiko,statistics
+root,statisto,"extra (in a movie or in theatre); background actor"
+root,stato,"condition; state; situation; station (of life); status"
+root,ŝtato,state
+root,statuo,statue
+root,staturo,stature
+root,statuto,"by-laws; statute; regulations"
+root,stearino,stearin
+root,stebi,"to quilt; stitch; sew"
+root,Stefano,"Stephen; Steven"
+root,ŝteli,"to rob; steal; thieve; swindle; purloin; filch"
+root,stelo,star
+root,stenografio,"shorthand; stenography"
+root,stenografi,"to write shorthand"
+root,stepo,"moor; steppe; heath"
+root,stereofonio,"stereo; stereophony"
+root,sterko,"dung; fertilizer; manure"
+root,sterledo,sterlet
+root,sterni,"to lay out; spread; spread out; sprawl"
+root,stertoro,"rattle in the throat"
+root,stilo,style
+root,stimuli,"to rouse; stimulate; stir up"
+root,stipendio,"grant; scholarship; stipend"
+root,ŝtipo,"billet; block; chunk of wood; log"
+root,stipo,stalk
+root,stiri,"to drive; fly; steer; control"
+root,ŝtofo,"cloth; material; matter; stuff; fabric; textile"
+root,stoika,"impassive; imperturbable; stoic; stoical"
+root,stoko,"stock; reserves"
+root,stomako,stomach
+root,ŝtono,stone
+root,ŝtopi,"to block; clog; plug up; stop up; jam"
+root,stoplo,stubble
+root,ŝtormo,storm
+root,strabi,"to be cross-eyed; look askance; squint"
+root,stranga,"odd; peculiar; strange; curious; eccentric; queer"
+root,strangoli,"to choke; strangle"
+root,strategio,strategy
+root,strato,"road; street"
+root,strebi,"to seek; strive for"
+root,streĉi,"to stretch; wind up (watch, clock); tense"
+root,streko,"line; line segment; streak; stroke; bar"
+root,strigli,"to curry(-comb); rub down; groom"
+root,strigo,owl
+root,striki,"to strike (of workmen)"
+root,striknino,strychnine
+root,strio,"ray; strip; stripe"
+root,strofo,"couplet; stanza; strophe; verse"
+root,strukturo,"structure; format; layout"
+root,ŝtrumpo,stocking
+root,struto,ostrich
+root,studento,"student (university)"
+root,studi,"to study"
+root,stuki,"to plaster; stucco"
+root,stulta,"foolish; silly; stupid; dumb"
+root,stumpo,"butt; stub; stump"
+root,ŝtupo,"stair; step; rung"
+root,stupo,tow
+root,sturgo,sturgeon
+root,sturno,starling
+root,subita,"abrupt; sudden; instantaneous"
+root,subjektiva,subjective
+root,subjekto,"subject (grammar); topic"
+root,sublimato,"corrosive sublimate; mercuric chloride; sublimate"
+root,substanco,"matter; stuff; substance"
+root,substantivo,"noun; substantive"
+root,subtila,subtle
+root,subtrahi,"to subtract"
+root,subvencio,"grant; subsidy"
+root,suĉi,"to suck"
+root,Sudano,Sudan
+root,sudo,south
+root,suferi,"to abide; bear; endure; put up with; suffer; undergo"
+root,sufiĉa,"adequate; ample; enough; sufficient"
+root,sufikso,"extension; suffix"
+root,sufloro,prompter
+root,sufoki,"to choke; quell; suffocate; suppress; smother; stifle strangle; throttle"
+root,sugestii,"to suggest"
+root,sugesti,"to advance; suggest"
+root,sukceno,amber
+root,sukcesi,"to succeed"
+root,sukero,sugar
+root,suko,"gravy; juice; sap; pith"
+root,ŝuldi,"to owe; be indebted"
+root,sulfuro,"brimstone; sulfur"
+root,sulko,"groove; ridge; wrinkle (facial); furrow (in the earth)"
+root,sultano,sultan
+root,ŝultro,shoulder
+root,sumo,"amount; sum"
+root,suno,sun
+root,ŝuo,shoe
+root,superlativo,superlative
+root,superstiĉo,superstition
+root,suplemento,"adjunct; supplement"
+root,supo,soup
+root,supozi,"to assume; guess; presume; suppose; surmise"
+root,supro,"pinnacle; summit; surface; top; ridge; vertex"
+root,surda,deaf
+root,surfaco,surface
+root,surprizi,"to surprise"
+root,surtuto,"coat; overcoat; overall"
+root,suspekti,"to mistrust; suspect"
+root,susuri,"to rustle; swish"
+root,sutano,"cassock; soutane"
+root,ŝuti,"to dump; pour (out); scatter; tip"
+root,svarmi,"to abound; swarm"
+root,svati,"to match-make; match"
+root,ŝvebi,"to circle; hang; hover; float"
+root,svedo,Swede
+root,ŝveli,"to bloat; swell; inflate; distend; puff"
+root,sveni,"to faint; swoon"
+root,svingi,"to brandish; fling; swing; wave; wave about"
+root,ŝvito,"perspiration; sweat"
+root,tabako,tobacco
+root,tabano,"gadfly; horsefly"
+root,tabelo,"array; index; table; tablet; tabulation"
+root,tablo,table
+root,tabulo,"board; desktop; plank"
+root,tabureto,stool
+root,taĉmento,"detachment; squad; gang; shift; team"
+root,tafto,taffeta
+root,tago,day
+root,tajli,"to carve; cut; polish; sculpt"
+root,tajloro,tailor
+root,tajpi,"to type (on keyboard)"
+root,taksio,"taxi; taxicab"
+root,taksi,"to appraise; estimate; rate; assess; tax; value; evaluate"
+root,taksuso,"yew (tree)"
+root,taktiko,"tactic; tactics"
+root,takto,"beat; musical time; tact; time; clock pulse; clock signal"
+root,talento,"ability; accomplishment; aptitude; disposition; talent"
+root,talero,"taler; thaler"
+root,talio,"waist; waistline"
+root,talismano,"amulet; charm; talisman"
+root,talko,"talc; talcum"
+root,talmudo,Talmud
+root,talpo,"mole (animal)"
+root,tamburino,tambourine
+root,tamburo,drum
+root,tamtamo,tamtam
+root,tandemo,"tandem bicycle"
+root,tanino,tannin
+root,tani,"to tan"
+root,tanko,"tank (mil.)"
+root,tapeto,"tapestry; wall covering; wallpaper"
+root,tapioko,tapioca
+root,tapiro,tapir
+root,tapiŝo,"carpet; rug"
+root,tarantelo,tarantella
+root,tarifo,"list of charges; list of prices; scale of charges; tariff"
+root,tasko,"job; task"
+root,taso,cup
+root,tatui,"to tattoo"
+root,taŭga,"fitting; suitable"
+root,tavolo,"layer; stratum"
+root,teatro,theater
+root,tedi,"to bore; tire"
+root,tegi,"to coat; cover; overlay"
+root,tegmento,roof
+root,tegolo,"roofing tile; shingle"
+root,teĥniko,technique
+root,teismo,theism
+root,teisto,theist
+root,tekniko,"technique; technology"
+root,teksi,"to weave"
+root,teksto,"lyrics; text"
+root,telefono,telephone
+root,telegrafo,telegraph
+root,telegramo,telegram
+root,telepatio,telepathy
+root,telero,"dish; plate"
+root,teleskopo,telescope
+root,televidi,"to watch television"
+root,temo,"theme; subject; topic"
+root,temperamento,temperament
+root,temperaturo,temperature
+root,tempesto,"storm; tempest"
+root,tempio,"temple (forehead)"
+root,templo,"temple (worship)"
+root,tempo,"time; beat; tense"
+root,tendenco,"tendency; bias; trend"
+root,tendeno,"ligament; sinew; string; tendon"
+root,tendo,"tabernacle; tent; pavilion"
+root,tenera,"affectionate; fond; loving; tender"
+root,tenio,tapeworm
+root,teniso,tennis
+root,teni,"to hang onto; hold; keep; retain"
+root,tenoro,tenor
+root,tenti,"to entice; induce; tempt"
+root,Teodoro,Theodore
+root,teokratio,theocracy
+root,teokrato,theocrat
+root,teologio,theology
+root,teologo,theologian
+root,teoremo,theorem
+root,teorio,theory
+root,teo,tea
+root,terapio,therapy
+root,teraso,terrace
+root,terceto,trio
+root,terebinto,turpentine
+root,tereno,"ground; grounds; terrain; campus"
+root,teritorio,territory
+root,termino,"name; (technical) term; expression"
+root,termometro,thermometer
+root,terni,"to sneeze"
+root,tero,"soil; earth; land; ground"
+root,teruro,"alarm; terror; panic; awe; dread; fright"
+root,testamento,"testament; will"
+root,testiko,"testicle; testis"
+root,testo,test
+root,testudo,"tortoise; turtle"
+root,tetano,"lockjaw; tetanus"
+root,tetrao,"hazel hen"
+root,tetro,"black grouse; grouse"
+root,tezo,"essay; thesis"
+root,tiaro,"papal crown; tiara"
+root,tibio,"shin bone; tibia"
+root,tifo,typhus
+root,tigo,"stalk; stem"
+root,tigro,tiger
+root,tikli,"to tickle"
+root,tilio,"lime tree; linden tree; linden"
+root,timiano,thyme
+root,timi,"to be afraid of; fear"
+root,timono,"drawbar; shaft (of vehicle); beam; pole"
+root,tindro,"tinder; punk; touchwood"
+root,tineo,"clothes moth; moth"
+root,tinkturo,"dye; tint; tincture"
+root,tinti,"to chink; clink; jingle; tinkle"
+root,tipografio,typography
+root,tipografo,typographer
+root,tipo,type
+root,tirano,tyrant
+root,tiri,"to drag; draw; haul; pull; tug; tow"
+root,titano,titanium
+root,titolo,"heading; title; caption; degree; designation; style"
+root,toleri,"to endure; put up with; tolerate; suffer; bear; stand"
+root,tolo,"cloth; linen; sheeting"
+root,tomato,tomato
+root,tombako,"red brass; tombac"
+root,tombo,"grave; tomb; vault"
+root,tondi,"to clip; cut; shear"
+root,tondro,thunder
+root,tonelo,"ton; shipping measure (about 2.83 cubic meters)"
+root,tono,"note; tone (music)"
+root,tonsilo,tonsil
+root,tonsuro,tonsure
+root,topazo,topaz
+root,topografio,topography
+root,topografo,topographer
+root,torĉo,torch
+root,tordi,"to contort; twist; warp; wind; wring; wriggle; sprain"
+root,toreadoro,"bullfighter; toreador"
+root,torento,"stream; torrent; volley"
+root,torfo,"peat; turf"
+root,tornistro,"backpack; knapsack; haversack"
+root,torni,"to turn (on a lathe)"
+root,torpedo,torpedo
+root,torso,"torso; trunk (of body)"
+root,torto,"pie; tart; pastry"
+root,torturi,"to agonize; torture"
+root,tosto,"toast (speech during drink)"
+root,trabo,"beam; girder; joist; bar; tray"
+root,tradicio,tradition
+root,traduki,"to interpret; translate; compile"
+root,trafiko,traffic
+root,trafi,"to attain; catch; encounter; find; hit; run across; score; strike"
+root,tragedio,tragedy
+root,tragika,tragic
+root,tragikomedio,tragicomedy
+root,traĥeo,"trachea; windpipe"
+root,trajno,"(railroad) train"
+root,trajto,"feature; facial feature; trait; characteristic"
+root,traktato,"pact; tract; treatise; treaty; monograph"
+root,trakti,"to deal with; handle; treat; process"
+root,traktoro,tractor
+root,tramo,"streetcar; tram"
+root,tranĉi,"to cut (with knife); slice; carve"
+root,trankvila,"calm; tranquil; serene; still; quiet; peaceful"
+root,transistoro,transistor
+root,transito,transit
+root,trefo,"club (cards)"
+root,trejni,"to coach; train"
+root,tremi,"to quiver; shiver; tremble; shake; tremble"
+root,tremolo,aspen
+root,trempi,"to dip; immerse; plunge; soak; steep"
+root,treni,"to drag; tow; trail; train"
+root,treti,"to trample on; tread"
+root,trezoro,treasure
+root,tribo,tribe
+root,tribunalo,tribunal
+root,tribuno,"podium; rostrum; speaker’s platform; pulpit; tribune"
+root,tributo,tribute
+root,trigonometrio,trigonometry
+root,triki,"to knit"
+root,trikoto,"sweater (garment)"
+root,trilo,"quaver; trill; warble"
+root,trinki,"to drink"
+root,tripo,tripe
+root,tritiko,wheat
+root,triumfo,triumph
+root,triviala,"commonplace; course; vulgar; paltry; trifling; trivial"
+root,trofeo,trophy
+root,trogo,"manger; trough"
+root,trombo,"column of water; tornado over water; waterspout"
+root,trombono,trombone
+root,trompi,"to cheat; deceive; mislead; con; fool; trick"
+root,trono,throne
+root,tropiko,tropics
+root,troti,"to trot"
+root,trotuaro,"footpath; pavement; sidewalk"
+root,trovi,"to find"
+root,trudi,"to assert; coerce; force; impose; thrust"
+root,trufo,truffle
+root,trulo,trowel
+root,trumpeto,trumpet
+root,trunko,"frustum; stem; trunk; torso"
+root,truo,"hole; orifice"
+root,trupo,"company (theatrical); troop; troupe; group"
+root,trusto,"business trust"
+root,truto,trout
+root,tualeto,toilet
+root,tuberkulo,"tubercle (med)"
+root,tuberkulozo,tuberculosis
+root,tubero,"bump; gnarl; knob; knot; lump; protuberance; tuber"
+root,tubo,"barrel; channel; pipe; tube; conduit; duct; stem"
+root,tufo,"clump; tuft; wisp"
+root,tukano,toucan
+root,tuko,"cloth (material)"
+root,tulipo,tulip
+root,tulo,tulle
+root,tumoro,tumor
+root,tumulto,"agitation; riot; tumult; disturbance; clamor; racket; row; noise; commotion"
+root,tunelo,tunnel
+root,tuniko,tunic
+root,Tunizio,Tunisia
+root,tuno,"(metric) ton"
+root,turbano,turban
+root,turbino,turbine
+root,turbo,"spinning top"
+root,turdo,thrush
+root,turismo,tourism
+root,turisto,tourist
+root,turkiso,turquoise
+root,turko,Turk
+root,turmenti,"to abuse; agonize; torment; molest"
+root,turniro,tournament
+root,turni,"to revolve; turn (around); rotate"
+root,turo,"rook (chess); tower"
+root,turto,"turtle dove"
+root,tusi,"to cough"
+root,tuŝi,"to touch"
+root,tuta,"all; entire; overall; whole; total; complete"
+root,ukazo,ukase
+root,ulano,"uhlan; ulan"
+root,ulcero,"ulcer; sore"
+root,ulmo,elm
+root,ulno,"arm’s length; cubit; ell; ulna"
+root,ultimato,ultimatum
+root,umbiliko,navel
+root,unco,ounce
+root,ungo,nail
+root,uniformo,livery
+root,unika,unique
+root,unio,union
+root,unisono,unison
+root,universala,"general; universal; worldwide"
+root,universitato,university
+root,universo,universe
+root,uragano,"hurricane; tempest"
+root,urbo,"city; town"
+root,urĝi,"to hurry; press; urge"
+root,urini,"to urinate"
+root,urno,urn
+root,uro,aurochs
+root,urogalo,capercaillie
+root,urso,"bear (animal)"
+root,urtiko,nettle
+root,Urugvajo,Uruguay
+root,Usono,"United States of America; USA"
+root,utero,"uterus; womb"
+root,utila,"advantageous; useful"
+root,utopio,utopia
+root,uverturo,"overture (music)"
+root,uzi,"to employ; use; make use of"
+root,uzuro,usury
+root,uzurpi,"to overpower; usurp; supplant"
+root,vadi,"to wade"
+root,vaflo,waffle
+root,vagino,vagina
+root,vagi,"to drift; loiter; prowl; ramble; roam; wander; meander; stray"
+root,vagono,"car; carriage; coach; railway carriage; wagon"
+root,vakcinio,"bilberry; blueberry; cranberry; huckleberry"
+root,vakcino,vaccine
+root,vaki,"to be vacant"
+root,vakso,"wax (bees)"
+root,vakuo,vacuum
+root,valida,valid
+root,valizo,"suitcase; piece of luggage; valise"
+root,valoro,"value; worth"
+root,valo,valley
+root,valso,waltz
+root,valuto,"currency (of a country); money"
+root,vampiro,vampire
+root,vana,"abortive; futile; useless; vain; fruitless; ineffectual"
+root,vando,"partition; wall"
+root,vanelo,lapwing
+root,vango,"cheek; jowl"
+root,vanilo,vanilla
+root,vanta,"conceited; frivolous; vain; frivolous"
+root,vaporo,"steam; vapor"
+root,varbi,"to enlist; enroll; recruit"
+root,varianto,"different form; variable; variant"
+root,varii,"to vary"
+root,variolo,"smallpox; variola"
+root,varma,"warm; hot"
+root,varo,"commodity; ware; good(s); merchandise"
+root,Varsovio,Warsaw
+root,varti,"to look after; nurse; take care; tend"
+root,vasalo,"bondman; retainer; vassal"
+root,vasta,"extensive; spacious; vast; wide; immense; roomy; widespread"
+root,vato,"cotton wool; wadding"
+root,vazelino,Vaseline
+root,vazo,"vase; vessel; container"
+root,vegetalo,plant
+root,vegetara,vegetarian
+root,vegeti,"to vegetate"
+root,vejno,vein
+root,veki,"to wake (up); awaken; arouse"
+root,vekto,"beam (of scales)"
+root,veleno,vellum
+root,velki,"to fade; wither"
+root,velocipedo,velocipede
+root,velo,"sail (of a ship); velum"
+root,veluro,velvet
+root,vendi,"to sell; vend"
+root,vendredo,Friday
+root,veneno,"poison; venom; virus"
+root,Venezuelo,Venezuela
+root,venĝi,"to avenge (oneself); revenge"
+root,veni,"to come"
+root,venki,"to conquer; defeat; win over; overcome; vanquish; subdue"
+root,ventoli,"to ventilate; winnow"
+root,vento,wind
+root,ventro,"abdomen; stomach; belly; tummy"
+root,vera,"genuine; intrinsic; true; veritable; authentic"
+root,verando,"porch; veranda"
+root,verbeno,"verbena; vervain"
+root,verbo,verb
+root,verda,green
+root,verdigro,verdigris
+root,verdikto,"adjudication; verdict; finding; decision"
+root,vergo,"cane; rod; switch; wand; stick; staff"
+root,verko,"work (literary or artistic)"
+root,vermiĉelo,vermicelli
+root,vermo,worm
+root,vermuto,"bitters; vermouth"
+root,versio,"build; version; edition"
+root,verŝi,"to pour out; scatter; shed"
+root,verso,"verse; song"
+root,versto,verst
+root,vertebro,vertebra
+root,vertico,"apex; node; vertex"
+root,vertikalo,"column; vertical line; vertical row"
+root,verto,"pate; top (of head); crown"
+root,veruko,wart
+root,vervo,"verve; vivacity; zest"
+root,vespero,"evening; eve"
+root,vespo,wasp
+root,vestiblo,"entrance hall; lobby; porch; vestibule"
+root,vesto,"apparel; coat; garb; garment; clothing; dress"
+root,veŝto,"vest; waistcoat"
+root,veterano,veteran
+root,veterinaro,veterinarian
+root,vetero,weather
+root,veti,"to bet; wager; gamble"
+root,veturi,"to drive (a vehicle); go; ride; travel"
+root,veziko,"bladder; bubble; blister"
+root,veziro,"Turkish minister; vizier"
+root,viadukto,viaduct
+root,viando,"meat; flesh"
+root,vibri,"to vibrate; oscillate; thrill"
+root,viburno,"guelder rose; viburnum"
+root,vico,"array; file; line; rank; row; turn; sequence"
+root,vidi,"to see; view; observe"
+root,vidvo,widower
+root,vigla,"adroit; agile; alert; brisk; keen; lively; nimble; vigilant; watchful"
+root,vikario,"curate; vicar"
+root,viktimo,"sacrifice; victim"
+root,vilaĝo,village
+root,vila,"hairy; shaggy"
+root,Vilhelmo,William
+root,vinagro,vinegar
+root,vindo,diaper
+root,vinjeto,"decorative design; decorative symbol; text illustration; vignette; dingbat"
+root,vinko,periwinkle
+root,vinkto,"rivet; fastener; staple"
+root,vino,wine
+root,vintro,winter
+root,violonĉelo,"cello; violoncello"
+root,violono,"fiddle; violin"
+root,violo,"pansy; violet"
+root,vipero,viper
+root,vipo,whip
+root,vipuro,"adder; viper"
+root,virga,"virgin; virginal"
+root,viro,"man; male"
+root,virto,"morality; vice; virtue"
+root,virtuala,virtual
+root,virtuozo,virtuoso
+root,viruso,virus
+root,viŝi,"to delete; wipe; erase; remove"
+root,visko,mistletoe
+root,visto,whist
+root,vitamino,vitamin
+root,vito,"vine; grapevine"
+root,vitriolo,"sulfuric acid; vitriol"
+root,vitro,"glass (material)"
+root,vivisekcio,vivisection
+root,vivi,"to be alive; live"
+root,vizaĝo,"face; visage; countenance; look"
+root,viziero,visor
+root,vizio,vision
+root,viziti,"to attend; call on; see; visit"
+root,vizo,visa
+root,voĉo,"voice; vote"
+root,vodko,vodka
+root,vojaĝi,"to journey; travel; voyage"
+root,vojo,"course; passage; path; pathway; road; route; way"
+root,vokalo,vowel
+root,voki,"to call; summon"
+root,voli,"to be willing to; want; wish; will"
+root,volonta,"voluntary; willing"
+root,volumeno,volume
+root,volumo,"tome; volume"
+root,volupto,"lust; sexual pleasure"
+root,volvi,"to roll; roll up; wind; wind up; wrap"
+root,vomi,"to throw up; vomit"
+root,vorto,word
+root,vosto,tail
+root,vualo,veil
+root,vulgara,"coarse; common; vulgar; underbred; rude; everyday; proletarian"
+root,vulkano,volcano
+root,vulpo,fox
+root,vulturo,vulture
+root,vulvo,vulva
+root,vundo,"injury; wound"
+root,zebro,zebra
+root,zefiro,zephyr
+root,zenito,zenith
+root,zibelo,"marten; sable (animal)"
+root,zigzago,zigzag
+root,zingibro,ginger
+root,zinko,zinc
+root,zipo,zipper
+root,zizelo,suslik
+root,zodiako,zodiac
+root,zono,"shingles (disease); herpes zoster; waist; belt; girdle; zone; area; selection"
+root,zoologio,zoology
+root,zoologo,zoologist
+root,zorgi,"to be anxious; be concerned; (take) care; see (to); worry"
+root,zuavo,Zouave
+root,zumi,"to buzz; hum; roar (traffic)"
+suffix,aĉ,"(denotes badness of quality, disparaging)"
+suffix,ad,"(denotes continuation or constant repetition of an action)"
+suffix,aĵ,"(denotes something possessing a certain quality or made from a certain substance, meat from a specific animal)"
+suffix,an,"(denotes a member, inhabitant, or partisan)"
+suffix,ant,"ending of pres. part. act. in verbs"
+suffix,ar,"(denotes a collection of persons or objects)"
+suffix,at,"ending of pres. part. pass. in verbs"
+suffix,ĉj,"(used to form diminutives with masculine names)"
+suffix,ebl,"(denotes possibility)"
+suffix,ec,"(denotes an abstract concept)"
+suffix,eg,"(denotes a great size or degree)"
+suffix,ej,"(place used for an action or object)"
+suffix,em,"(denotes a disposition or inclination)"
+suffix,end,"(denotes something to be done or which must be done)"
+suffix,er,"(denotes the unit of the whole)"
+suffix,estr,"(denotes person in charge)"
+suffix,et,"(suffix diminishing meaning of root)"
+suffix,hav,"(denotes having something, used in adjectives)"
+suffix,id,"(denotes young of, offspring)"
+suffix,ig,"(denotes causing or bringing about an state, creates causative verbs, to make, render)"
+suffix,iĝ,"(denotes that a state has come into being, become)"
+suffix,il,"(denotes the instrument by which something is done)"
+suffix,ind,"(denotes worthiness, merit)"
+suffix,ing,"(denotes a holder for the object contained in the root)"
+suffix,in,"(gives the feminine of a noun)"
+suffix,int,"ending of past part. act. in verbs"
+suffix,ism,"(denotes doctrine or school of though)"
+suffix,ist,"(denotes one who occupies oneself with something)"
+suffix,it,"ending of past part. pass. in verbs"
+suffix,kelk,"(denotes addition of an undefined but small number)"
+suffix,nj,"(used to form diminutives with feminine names)"
+suffix,obl,"(denotes multiples of a number)"
+suffix,on,"(denotes a fraction)"
+suffix,ont,"ending of fut. part. act. in verbs "
+suffix,op,"(denotes a numeral collective)"
+suffix,ot,"ending of fut. part. pass. in verbs"
+suffix,plen,"(denotes something being full of something)"
+suffix,riĉ,"(denotes something being rich of something)"
+suffix,uj,"(denotes a container, country formed from the name of its people, tree formed from name of its fruit)"
+suffix,ul,"(person characterized by the root)"
+suffix,um,"(denotes some undefined action or object related to the root)"
