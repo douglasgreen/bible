@@ -51,6 +51,7 @@ other,ankaŭ,"also; likewise; moreover; too"
 other,ankoraŭ,"again; anew; not yet; still; yet"
 other,anstataŭ,"in lieu of; in place of; instead of"
 other,antaŭ,"above; ago; before; in front of; to"
+other,antaŭen,"forward; ahead"
 other,apenaŭ,"barely; hardly; no more than; only just; scarcely"
 other,apud,"at; beside; by; nearby; near (to); next to"
 other,aŭ,"either; or"
@@ -120,6 +121,7 @@ other,pli,more
 other,plu,"any more; else; further; more; on"
 other,plus,plus
 other,po,"a; apiece; at; at the rate of; each; per"
+other,por,"for; in order to"
 other,post,"after; behind; in"
 other,preskaŭ,"almost; nearly"
 other,preter,"beyond; by; past; straight past"
@@ -1237,6 +1239,7 @@ root,erudicio,"erudition; scholarship"
 root,erupcio,"eruption; rash"
 root,eŝafodo,"scaffold (for hangings, executions)"
 root,escepti,"to except; exclude"
+root,Esdras,Esdras
 root,esenco,"essence; gist; substance; bottom line"
 root,eskadro,"squadron (naval)"
 root,eskapi,"to escape; flee"
@@ -3424,6 +3427,7 @@ root,piastro,piaster
 root,piceo,"spruce; spruce fir"
 root,pico,pizza
 root,piedestalo,"base; pedestal; stand"
+root,piednoto,footnote
 root,piedo,"foot; paw; root (of dyed hair)"
 root,pigmeo,"pigmy; pygmy"
 root,pigo,"magpie; pica"
@@ -3459,6 +3463,7 @@ root,pistako,pistachio
 root,pisti,"to crush; pound; grind"
 root,pistolo,"pistol; spray gun"
 root,piŝto,piston
+root,pivoti,"pivot; revolve"
 root,pivoto,pivot
 root,pizo,"green pea"
 root,plaĉi,"to be pleasing; please"
@@ -4002,6 +4007,7 @@ root,senato,senate
 root,senco,"meaning; sense"
 root,sendi,"to forward; remit; send; transmit; submit"
 root,ŝenoprazo,chive
+root,senprofita,"without profit"
 root,sensacio,"furor; impression; interest; sensation; commotion; perception"
 root,senso,sense
 root,sentenco,"maxim; proverb; wise saying"
@@ -4625,6 +4631,7 @@ root,utero,"uterus; womb"
 root,utila,"advantageous; useful"
 root,utopio,utopia
 root,uverturo,"overture (music)"
+root,uzanto,user
 root,uzi,"to employ; use; make use of"
 root,uzuro,usury
 root,uzurpi,"to overpower; usurp; supplant"
