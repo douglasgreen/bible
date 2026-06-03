@@ -1,41 +1,63 @@
 #!/usr/bin/env php
 <?php
 
-function getBase(string $word): string
+function getBase(string $word, array $glossaryWords): ?string
 {
-    global $bases;
-
     $lowWord = mb_strtolower($word);
     $capWord = mb_strtoupper($word);
 
     if (strlen($word) > 1 && $word === $capWord) {
-        $base = $capWord;
-    } elseif (isset($bases[$word])) {
-        $base = $bases[$word];
-    } elseif (isset($bases[$lowWord])) {
-        $base = $bases[$lowWord];
-    } elseif (
-        preg_match('/(.+)(ant|int|ont|at|it|ot)(a|aj|an|ajn|o|oj|on|ojn|e)$/', $lowWord, $match)
-    ) {
-        // Participle to verb base
-        $base = $match[1] . 'i';
-    } elseif (preg_match('/(.+)(o|oj|on|ojn)$/', $lowWord, $match)) {
-        // Noun base
-        $base = $match[1] . 'o';
-    } elseif (preg_match('/(.+)(a|aj|an|ajn)$/', $lowWord, $match)) {
-        // Adjective base
-        $base = $match[1] . 'a';
-    } elseif (preg_match('/(.+)(e)$/', $lowWord, $match)) {
-        // Adverb base
-        $base = $match[1] . 'e';
-    } elseif (preg_match('/(.+)(i|as|is|os|us|u)$/', $lowWord, $match)) {
-        // Verb base
-        $base = $match[1] . 'i';
-    } else {
-        $base = $lowWord;
+        if (isset($glossaryWords[$capWord])) {
+            return $capWord;
+        }
+        return null;
     }
 
-    return $base;
+    if (isset($glossaryWords[$word])) {
+        return $word;
+    }
+    if (isset($glossaryWords[$lowWord])) {
+        return $lowWord;
+    }
+
+    if (
+        preg_match('/(.+)(ant|int|ont|at|it|ot)(a|aj|an|ajn|o|oj|on|ojn|e)$/', $lowWord, $match)
+    ) {
+        $candidate = $match[1] . 'i';
+        if (isset($glossaryWords[$candidate])) {
+            return $candidate;
+        }
+    }
+
+    if (preg_match('/(.+)(o|oj|on|ojn)$/', $lowWord, $match)) {
+        $candidate = $match[1] . 'o';
+        if (isset($glossaryWords[$candidate])) {
+            return $candidate;
+        }
+    }
+
+    if (preg_match('/(.+)(a|aj|an|ajn)$/', $lowWord, $match)) {
+        $candidate = $match[1] . 'a';
+        if (isset($glossaryWords[$candidate])) {
+            return $candidate;
+        }
+    }
+
+    if (preg_match('/(.+)(e)$/', $lowWord, $match)) {
+        $candidate = $match[1] . 'e';
+        if (isset($glossaryWords[$candidate])) {
+            return $candidate;
+        }
+    }
+
+    if (preg_match('/(.+)(i|as|is|os|us|u)$/', $lowWord, $match)) {
+        $candidate = $match[1] . 'i';
+        if (isset($glossaryWords[$candidate])) {
+            return $candidate;
+        }
+    }
+
+    return null;
 }
 
 if ($argc < 2) {
@@ -56,10 +78,19 @@ if ($lines === false) {
 }
 
 $defs = [];
+$glossaryWords = [];
+$allowedCategories = ['correlative', 'other', 'pronoun', 'root'];
 $fh = fopen(__DIR__ . '/glossary.csv', 'r');
 while ($fields = fgetcsv($fh)) {
-    list($base, $def) = $fields;
-    $defs[$base] = $def;
+    if (count($fields) !== 3) {
+        continue;
+    }
+    list($category, $word, $definition) = $fields;
+    if (!in_array($category, $allowedCategories, true)) {
+        continue;
+    }
+    $defs[$word] = $definition;
+    $glossaryWords[$word] = true;
 }
 fclose($fh);
 
@@ -74,7 +105,10 @@ foreach ($lines as $line) {
     $baseCounts = [];
     $baseForms = [];
     foreach ($matches[0] as $word) {
-        $base = getBase($word);
+        $base = getBase($word, $glossaryWords);
+        if ($base === null) {
+            continue;
+        }
         $baseForms[$base][$word] = true;
     }
 
