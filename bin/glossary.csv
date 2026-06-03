@@ -1,526 +1,196 @@
-correlative,ĉia,all
-correlative,ĉia,each
-correlative,ĉia,"every kind of"
+correlative,ĉia,"all; each; every kind of"
 correlative,ĉial,"for every reason"
-correlative,ĉiam,"all the time"
-correlative,ĉiam,always
-correlative,ĉiam,ever
-correlative,ĉie,"all about"
-correlative,ĉie,everywhere
-correlative,ĉiel,"every manner"
-correlative,ĉiel,"every way"
-correlative,ĉiel,"in every way"
+correlative,ĉiam,"all the time; always; ever"
+correlative,ĉie,"all about; everywhere"
+correlative,ĉiel,"every manner; every way; in every way"
 correlative,ĉies,everyone’s
-correlative,ĉio,all
-correlative,ĉio,altogether
-correlative,ĉio,everything
-correlative,ĉiom,all
-correlative,ĉiom,"all of it"
-correlative,ĉiom,"the full amount"
-correlative,ĉiom,"the whole quantity"
-correlative,ĉiu,"all the"
-correlative,ĉiu,each
-correlative,ĉiu,every
-correlative,ĉiu,everybody
-correlative,ĉiu,"every one"
+correlative,ĉio,"all; altogether; everything"
+correlative,ĉiom,"all; all of it; the full amount; the whole quantity"
+correlative,ĉiu,"all the; each; every; everybody; every one"
 correlative,ial,"for some reason"
-correlative,iam,"at any time"
-correlative,iam,"at some time"
-correlative,iam,ever
-correlative,iam,formerly
-correlative,iam,"once upon a time"
-correlative,iam,sometime
-correlative,ie,anywhere
-correlative,iel,anyhow
-correlative,iel,anyway
-correlative,iel,somehow
-correlative,iel,"some way"
-correlative,ies,anyone’s
-correlative,ie,somewhere
-correlative,ies,somebody’s
-correlative,ies,someone’s
-correlative,io,anything
-correlative,iom,"a bit"
-correlative,iom,"a little"
-correlative,iom,rather
-correlative,iom,some
-correlative,iom,somewhat
-correlative,iom,"to some extent"
-correlative,io,something
-correlative,iu,anybody
-correlative,iu,anyone
-correlative,iu,somebody
-correlative,iu,someone
-correlative,kial,"for what reason"
-correlative,kial,"what for"
-correlative,kial,why
-correlative,kiam,as
-correlative,kiam,when
-correlative,kia,"what a"
-correlative,kia,"what kind of"
-correlative,kia,"what sort of"
-correlative,kiel,as
-correlative,kiel,how
-correlative,kiel,"in what way"
-correlative,kiel,like
-correlative,kiel,"such a"
-correlative,kiel,"such as"
-correlative,kiel,"what a"
-correlative,kies,"of which"
-correlative,kies,"which one’s"
-correlative,kies,whose
+correlative,iam,"at any time; at some time; ever; formerly; once upon a time; sometime"
+correlative,ie,"anywhere; somewhere"
+correlative,iel,"anyhow; anyway; somehow; some way"
+correlative,ies,"anyone’s; somebody’s; someone’s"
+correlative,io,"anything; something"
+correlative,iom,"a bit; a little; rather; some; somewhat; to some extent"
+correlative,iu,"anybody; anyone; somebody; someone"
+correlative,kial,"for what reason; what for; why"
+correlative,kiam,"as; when"
+correlative,kia,"what a; what kind of; what sort of"
+correlative,kiel,"as; how; in what way; like; such a; such as; what a"
+correlative,kies,"of which; which one’s; whose"
 correlative,kie,where
-correlative,kiom,"how many"
-correlative,kiom,"how much"
-correlative,kio,that
-correlative,kio,which
-correlative,kiu,that
-correlative,kiu,"which (one)"
-correlative,kiu,who
-correlative,nenial,"for no cause"
-correlative,nenial,"for no reason"
-correlative,nenial,"on no account"
-correlative,neniam,"at no time"
-correlative,neniam,never
-correlative,neniam,"not ever"
-correlative,nenia,"no kind of"
-correlative,nenia,"no . . . whatsoever"
-correlative,neniel,"by no means"
-correlative,neniel,"in no way"
-correlative,neniel,"not at all"
-correlative,neniel,"not on any account"
+correlative,kiom,"how many; how much"
+correlative,kio,"that; which"
+correlative,kiu,"that; which (one); who"
+correlative,nenial,"for no cause; for no reason; on no account"
+correlative,neniam,"at no time; never; not ever"
+correlative,nenia,"no kind of; no . . . whatsoever"
+correlative,neniel,"by no means; in no way; not at all; not on any account"
 correlative,nenie,nowhere
 correlative,nenies,no-one’s
-correlative,neniom,"no amount"
-correlative,neniom,none
-correlative,nenio,naught
-correlative,nenio,none
-correlative,nenio,"not any thing"
-correlative,nenio,nothing
-correlative,neniu,neither
-correlative,neniu,nobody
-correlative,neniu,none
-correlative,neniu,no-one
-correlative,tial,"for that reason"
-correlative,tial,"on that account"
-correlative,tial,so
-correlative,tial,therefore
+correlative,neniom,"no amount; none"
+correlative,nenio,"naught; none; not any thing; nothing"
+correlative,neniu,"neither; nobody; none; no-one"
+correlative,tial,"for that reason; on that account; so; therefore"
 correlative,tiam,then
-correlative,tia,so
-correlative,tia,such
-correlative,tia,"such a"
-correlative,tia,"that kind of"
-correlative,tie,"in that place"
-correlative,tiel,"in such a fashion"
-correlative,tiel,"in that manner"
-correlative,tiel,"in that way"
-correlative,tiel,like
-correlative,tiel,so
-correlative,tiel,thus
-correlative,tie,"over there"
-correlative,ties,"of that one"
-correlative,ties,"that one’s"
-correlative,ties,"the latter’s"
-correlative,tie,there
-correlative,tie,yonder
-correlative,tiom,"as many"
-correlative,tiom,"so many"
-correlative,tiom,"so much"
-correlative,tio,that
-correlative,tio,"that over there"
-correlative,tio,those
+correlative,tia,"so; such; such a; that kind of"
+correlative,tie,"in that place; over there; there; yonder"
+correlative,tiel,"in such a fashion; in that manner; in that way; like; so; thus"
+correlative,ties,"of that one; that one’s; the latter’s"
+correlative,tiom,"as many; so many; so much"
+correlative,tio,"that; that over there; those"
 correlative,tiu,"that (one)"
-other,adiaŭ,adieu
-other,adiaŭ,bye
-other,adiaŭ,farewell
-other,adiaŭ,goodbye
-other,ajn,"any kind of"
-other,ajn,arbitrary
-other,ajn,whatsoever
-other,al,at
-other,almenaŭ,"at (the very) least"
-other,almenaŭ,"if nothing else"
-other,al,to
-other,al,toward(s)
+other,adiaŭ,"adieu; bye; farewell; goodbye"
+other,ajn,"any kind of; arbitrary; whatsoever"
+other,al,"at; to; toward(s)"
+other,almenaŭ,"at (the very) least; if nothing else"
 other,ambaŭ,both
-other,ankaŭ,also
-other,ankaŭ,likewise
-other,ankaŭ,moreover
-other,ankaŭ,too
-other,ankoraŭ,again
-other,ankoraŭ,anew
-other,ankoraŭ,"not yet"
-other,ankoraŭ,still
-other,ankoraŭ,yet
-other,anstataŭ,"in lieu of"
-other,anstataŭ,"in place of"
-other,anstataŭ,"instead of"
-other,antaŭ,above
-other,antaŭ,above
-other,antaŭ,ago
-other,antaŭ,before
-other,antaŭ,"in front of"
-other,antaŭ,to
-other,apenaŭ,barely
-other,apenaŭ,hardly
-other,apenaŭ,"no more than"
-other,apenaŭ,"only just"
-other,apenaŭ,scarcely
-other,apud,at
-other,apud,beside
-other,apud,by
-other,apud,nearby
-other,apud,"near (to)"
-other,apud,"next to"
-other,aŭ,either
-other,aŭ,or
+other,ankaŭ,"also; likewise; moreover; too"
+other,ankoraŭ,"again; anew; not yet; still; yet"
+other,anstataŭ,"in lieu of; in place of; instead of"
+other,antaŭ,"above; ago; before; in front of; to"
+other,apenaŭ,"barely; hardly; no more than; only just; scarcely"
+other,apud,"at; beside; by; nearby; near (to); next to"
+other,aŭ,"either; or"
 other,baldaŭ,soon
-other,bis,again
-other,bis,encore
-other,bis,"one more time"
-other,ĉar,as
-other,ĉar,because
-other,ĉar,for
-other,ĉar,since
-other,ĉar,whereas
-other,ĉe,"at (house of)"
-other,ĉe,beside
-other,cent,hundred
-other,cent,"one hundred"
-other,ĉe,with
+other,bis,"again; encore; one more time"
+other,ĉar,"as; because; for; since; whereas"
+other,ĉe,"at (house of); beside; with"
+other,cent,"hundred; one hundred"
 other,ĉi,"here (denotes proximity)"
-other,ĉirkaŭ,about
-other,ĉirkaŭ,around
-other,ĉirkaŭ,circa
-other,ĉirkaŭ,round
-other,ĉirkaŭ,round
-other,ĉirkaŭ,towards
-other,ci,thou
-other,ci,"you (familiar form)"
-other,ĉu,"(asks a question)"
-other,ĉu,either
-other,ĉu,if
-other,ĉu,"is it"
-other,ĉu,whether
+other,ĉirkaŭ,"about; around; circa; round; towards"
+other,ci,"thou; you (familiar form)"
+other,ĉu,"(asks a question); either; if; is it; whether"
 other,da,"(quantity) of"
-other,de,by
-other,de,from
+other,de,"by; from; of; on; since"
 other,dek,ten
-other,de,of
-other,de,on
-other,des,"all the more"
-other,de,since
-other,des,"so much the more"
-other,do,accordingly
-other,do,so
-other,do,then
-other,do,"therefore; name of the letter D"
-other,dum,during
-other,dum,for
-other,dum,whereas
-other,dum,while
-other,dum,whilst
+other,des,"all the more; so much the more"
+other,do,"accordingly; so; then; therefore; name of the letter D"
+other,dum,"during; for; whereas; while; whilst"
 other,du,two
 other,eĉ,even
-other,ekster,"apart from"
-other,ekster,"aside from"
-other,ekster,beyond
-other,ekster,out
-other,ekster,"outside (of)"
-other,el,from
-other,el,"(out) of"
-other,en,in
-other,en,into
-other,en,within
+other,ekster,"apart from; aside from; beyond; out; outside (of)"
+other,el,"from; (out) of"
+other,en,"in; into; within"
 other,fi,"to shame"
-other,for,away
-other,for,distant
-other,for,"far (off, away)"
-other,for,forth
-other,for,gone
+other,for,"away; distant; far (off, away); forth; gone"
 other,ĝi,it
-other,ĝis,"as far as"
-other,ĝis,till
-other,ĝis,until
-other,ĝis,"up to"
+other,ĝis,"as far as; till; until; up to"
 other,ha,ha
-other,he,eh
-other,he,hey
-other,he,say
+other,he,"eh; hey; say"
 other,hieraŭ,yesterday
 other,hodiaŭ,today
 other,ho,"woaw, oh, wow"
-other,ia,"(a) certain"
-other,ia,any
-other,ia,"some (kind of)"
+other,ia,"(a) certain; any; some (kind of)"
 other,ili,they
-other,inter,among
-other,inter,between
-other,ja,certainly
-other,ja,indeed
-other,ja,"in fact"
-other,jam,already
-other,jam,"by now"
-other,jam,yet
-other,ja,rather
-other,ja,surely
-other,jen,behold
-other,jen,"here are"
-other,jen,"here is"
-other,jen,look
-other,jen,there
+other,inter,"among; between"
+other,ja,"certainly; indeed; in fact; rather; surely"
+other,jam,"already; by now; yet"
+other,jen,"behold; here are; here is; look; there"
 other,je,"(preposition with no fixed meaning)"
 other,jes,yes
-other,ĵus,"a moment ago"
-other,ĵus,"just (now)"
+other,ĵus,"a moment ago; just (now)"
 other,ju,"the (more, less)"
 other,kaj,and
 other,ke,that
-other,kontraŭ,"across from"
-other,kontraŭ,against
-other,kontraŭ,"in exchange for"
-other,kontraŭ,"in return for"
-other,kontraŭ,"opposed to"
-other,kontraŭ,opposite
-other,kontraŭ,upon
-other,krom,"apart from"
-other,krom,besides
-other,krom,except
-other,krom,"except for"
+other,kontraŭ,"across from; against; in exchange for; in return for; opposed to; opposite; upon"
+other,krom,"apart from; besides; except; except for"
 other,kun,with
-other,kvankam,albeit
-other,kvankam,although
-other,kvankam,though
-other,kvankam,while
+other,kvankam,"albeit; although; though; while"
 other,kvar,four
-other,kvazaŭ,"as if"
-other,kvazaŭ,"as though"
-other,kvazaŭ,"in a way"
+other,kvazaŭ,"as if; as though; in a way"
 other,kvin,five
 other,la,the
-other,laŭ,"according as"
-other,laŭ,"according to"
-other,laŭ,along
-other,laŭ,as
-other,laŭ,by
-other,laŭ,"in accordance with"
+other,laŭ,"according as; according to; along; as; by; in accordance with"
 other,li,he
-other,malgraŭ,despite
-other,malgraŭ,"in spite of"
-other,malgraŭ,notwithstanding
-other,mem,"(puts emphasis on the noun or pronoun it follows)"
-other,mem,self
+other,malgraŭ,"despite; in spite of; notwithstanding"
+other,mem,"(puts emphasis on the noun or pronoun it follows); self"
 other,mi,I
 other,minus,minus
 other,morgaŭ,tomorrow
 other,naŭ,nine
-other,nek,neither
-other,nek,nor
-other,ne,no
-other,ne,not
+other,nek,"neither; nor"
+other,ne,"no; not"
 other,ni,we
-other,nun,"at present"
-other,nun,now
-other,nur,exclusively
-other,nur,just
-other,nur,only
-other,nur,simply
+other,nun,"at present; now"
+other,nur,"exclusively; just; only; simply"
 other,nu,well
 other,ok,eight
 other,ol,than
-other,oni,one
-other,oni,people
-other,oni,they
-other,per,"by means of"
-other,per,through
-other,per,with
+other,oni,"one; people; they"
+other,per,"by means of; through; with"
 other,plej,most
 other,pli,more
-other,plu,"any more"
-other,plu,else
-other,plu,further
-other,plu,more
-other,plu,on
+other,plu,"any more; else; further; more; on"
 other,plus,plus
-other,po,a
-other,po,apiece
-other,po,at
-other,po,"at the rate of"
-other,po,each
-other,po,per
-other,post,after
-other,post,behind
-other,post,in
-other,preskaŭ,almost
-other,preskaŭ,nearly
-other,preter,beyond
-other,preter,by
-other,preter,past
-other,preter,"straight past"
-other,pri,about
-other,pri,concerning
-other,pri,on
-other,pri,upon
-other,pro,"because of"
-other,pro,for
-other,pro,"for sake of"
-other,pro,"on account of"
-other,pro,"owing to"
-other,pro,through
+other,po,"a; apiece; at; at the rate of; each; per"
+other,post,"after; behind; in"
+other,preskaŭ,"almost; nearly"
+other,preter,"beyond; by; past; straight past"
+other,pri,"about; concerning; on; upon"
+other,pro,"because of; for; for sake of; on account of; owing to; through"
 other,sed,but
-other,se,if
-other,sen,less
-other,sen,without
-other,se,"provided that"
+other,se,"if; provided that"
+other,sen,"less; without"
 other,sep,seven
 other,ses,six
 other,si,"(reflexive pronoun)"
 other,ŝi,she
-other,sub,below
-other,sub,beneath
-other,sub,under
-other,sub,underneath
-other,super,above
-other,super,over
-other,super,superior
-other,sur,on
-other,sur,onto
-other,sur,upon
-other,tamen,but
-other,tamen,however
-other,tamen,nevertheless
-other,tamen,notwithstanding
-other,tamen,still
-other,tamen,yet
-other,trans,across
-other,trans,beyond
-other,trans,"on the other side of"
+other,sub,"below; beneath; under; underneath"
+other,super,"above; over; superior"
+other,sur,"on; onto; upon"
+other,tamen,"but; however; nevertheless; notwithstanding; still; yet"
+other,trans,"across; beyond; on the other side of"
 other,tra,through
-other,tre,quite
-other,tre,very
-other,tre,"very much"
+other,tre,"quite; very; very much"
 other,tri,three
 other,tro,"too (much, many)"
-other,tuj,"at once"
-other,tuj,immediately
-other,tuj,just
-other,tuj,"right away"
-other,tuj,"right now"
+other,tuj,"at once; immediately; just; right away; right now"
 other,unu,one
 other,ve,"wo, woe, alas"
 other,vi,you
-prefix,al,at
-prefix,al,to
-prefix,al,toward(s)
-prefix,antaŭ,above
-prefix,antaŭ,above
-prefix,antaŭ,ago
-prefix,antaŭ,before
-prefix,antaŭ,"in front of"
-prefix,antaŭ,to
-prefix,apud,at
-prefix,apud,beside
-prefix,apud,by
-prefix,apud,nearby
-prefix,apud,"near (to)"
-prefix,apud,"next to"
-prefix,bis,again
-prefix,bis,encore
-prefix,bis,"one more time"
+prefix,al,"at; to; toward(s)"
+prefix,antaŭ,"above; ago; before; in front of; to"
+prefix,apud,"at; beside; by; nearby; near (to); next to"
+prefix,bis,"again; encore; one more time"
 prefix,bo,"(denotes in-law, relatives by marriage)"
-prefix,ĉe,"at (house of)"
-prefix,ĉe,beside
-prefix,ĉef,arch-
-prefix,ĉef,chief-
-prefix,ĉe,with
-prefix,ĉirkaŭ,about
-prefix,ĉirkaŭ,around
-prefix,ĉirkaŭ,circa
-prefix,ĉirkaŭ,round
-prefix,ĉirkaŭ,round
-prefix,ĉirkaŭ,towards
-prefix,de,by
-prefix,de,from
-prefix,de,of
-prefix,de,on
-prefix,de,since
+prefix,ĉe,"at (house of); beside; with"
+prefix,ĉef,"arch-; chief-"
+prefix,ĉirkaŭ,"about; around; circa; round; towards"
+prefix,de,"by; from; of; on; since"
 prefix,dis,"(denotes dispersal or separation)"
 prefix,ek,"(denotes an action which begins or is of short duration)"
-prefix,eks,ex-
-prefix,eks,former
-prefix,eks,late
-prefix,ekster,"apart from"
-prefix,ekster,"aside from"
-prefix,ekster,beyond
-prefix,ekster,out
-prefix,ekster,"outside (of)"
-prefix,el,from
-prefix,el,"(out) of"
-prefix,en,in
-prefix,en,into
-prefix,en,within
+prefix,eks,"ex-; former; late"
+prefix,ekster,"apart from; aside from; beyond; out; outside (of)"
+prefix,el,"from; (out) of"
+prefix,en,"in; into; within"
 prefix,fi,"(denotes subjective indignation or moral condemnation)"
 prefix,fin,"(denotes the completion of an action)"
-prefix,for,away
-prefix,for,distant
-prefix,for,"far (off, away)"
-prefix,for,forth
-prefix,for,gone
+prefix,for,"away; distant; far (off, away); forth; gone"
 prefix,ge,"(persons of both sexes taken together)"
-prefix,inter,among
-prefix,inter,between
-prefix,kelk,"(denotes multiplication by an undefined but small number)"
-prefix,kelk,"(sometimes used with the meaning of ""about"" or ""some"")"
-prefix,kontraŭ,"across from"
-prefix,kontraŭ,against
-prefix,kontraŭ,"in exchange for"
-prefix,kontraŭ,"in return for"
-prefix,kontraŭ,"opposed to"
-prefix,kontraŭ,opposite
-prefix,kontraŭ,upon
+prefix,inter,"among; between"
+prefix,kelk,"(denotes multiplication by an undefined but small number); (sometimes used with the meaning of ""about"" or ""some"")"
+prefix,kontraŭ,"across from; against; in exchange for; in return for; opposed to; opposite; upon"
 prefix,kun,with
-prefix,laŭ,"according as"
-prefix,laŭ,"according to"
-prefix,laŭ,along
-prefix,laŭ,as
-prefix,laŭ,by
-prefix,laŭ,"in accordance with"
+prefix,laŭ,"according as; according to; along; as; by; in accordance with"
 prefix,mal,"(prefix used to form word of opposite meaning)"
 prefix,mem,self
 prefix,mis,"(denotes an error)"
 prefix,ne,"(denotes the lack of something)"
 prefix,plej,most
 prefix,pli,more
-prefix,plu,"any more"
-prefix,plu,else
-prefix,plu,further
-prefix,plu,more
-prefix,plu,on
+prefix,plu,"any more; else; further; more; on"
 prefix,pra,"(denotes remoteness in time, distant relationship)"
-prefix,pri,about
-prefix,pri,concerning
-prefix,pri,on
-prefix,pri,upon
-prefix,pro,"because of"
-prefix,pro,for
-prefix,pro,"for sake of"
-prefix,pro,"on account of"
-prefix,pro,"owing to"
-prefix,pro,through
-prefix,re,"(denotes repetition of an act)"
-prefix,re,re-
-prefix,sen,less
-prefix,sen,without
+prefix,pri,"about; concerning; on; upon"
+prefix,pro,"because of; for; for sake of; on account of; owing to; through"
+prefix,re,"(denotes repetition of an act); re-"
+prefix,sen,"less; without"
 prefix,sin,self
-prefix,super,above
-prefix,super,over
-prefix,super,superior
-prefix,sur,on
-prefix,sur,onto
-prefix,sur,upon
-prefix,trans,across
-prefix,trans,beyond
-prefix,trans,"on the other side of"
+prefix,super,"above; over; superior"
+prefix,sur,"on; onto; upon"
+prefix,trans,"across; beyond; on the other side of"
 prefix,tra,through
 prefix,tro,"too (much, many)"
 prefix,vic,"(prefix analogous to ""vice"")"
@@ -5167,7 +4837,7 @@ suffix,kelk,"(denotes addition of an undefined but small number)"
 suffix,nj,"(used to form diminutives with feminine names)"
 suffix,obl,"(denotes multiples of a number)"
 suffix,on,"(denotes a fraction)"
-suffix,ont,"ending of fut. part. act. in verbs "
+suffix,ont,"ending of fut. part. act. in verbs"
 suffix,op,"(denotes a numeral collective)"
 suffix,ot,"ending of fut. part. pass. in verbs"
 suffix,plen,"(denotes something being full of something)"
