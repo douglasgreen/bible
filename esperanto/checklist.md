@@ -6,56 +6,56 @@ This is a checklist for each section:
 4. Write commentary.
 
 # La Monda Angla Biblio
-* [ ] retranslation
-* [ ] proofing
+* [x] retranslation
+* [x] proofing
 * [ ] glossary
 * [ ] commentary
 
 ## Antaŭparolo al la Monda Angla Biblio
-* [ ] retranslation
-* [ ] proofing
+* [x] retranslation
+* [x] proofing
 * [ ] glossary
 * [ ] commentary
 
 ### Kio estas la Sankta Biblio?
-* [ ] retranslation
-* [ ] proofing
+* [x] retranslation
+* [x] proofing
 * [ ] glossary
 * [ ] commentary
 
 ### Kial la Monda Angla Biblio estis tradukita?
-* [ ] retranslation
-* [ ] proofing
+* [x] retranslation
+* [x] proofing
 * [ ] glossary
 * [ ] commentary
 
 ### Kiel la Monda Angla Biblio estis tradukita?
-* [ ] retranslation
-* [ ] proofing
+* [x] retranslation
+* [x] proofing
 * [ ] glossary
 * [ ] commentary
 
 ### Kio diferencas ĉe la Monda Angla Biblio?
-* [ ] retranslation
-* [ ] proofing
+* [x] retranslation
+* [x] proofing
 * [ ] glossary
 * [ ] commentary
 
 ### Ĉu la Monda Angla Biblio inkluzivas la Apokrifojn?
-* [ ] retranslation
-* [ ] proofing
+* [x] retranslation
+* [x] proofing
 * [ ] glossary
 * [ ] commentary
 
 ### Kio estas MT, TR kaj NU?
-* [ ] retranslation
-* [ ] proofing
+* [x] retranslation
+* [x] proofing
 * [ ] glossary
 * [ ] commentary
 
 ### Pliaj informoj
-* [ ] retranslation
-* [ ] proofing
+* [x] retranslation
+* [x] proofing
 * [ ] glossary
 * [ ] commentary
 
