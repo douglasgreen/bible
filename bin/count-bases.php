@@ -4,19 +4,9 @@
 function getBase(string $word, array $glossaryWords): string
 {
     $lowWord = mb_strtolower($word);
-    $capWord = mb_strtoupper($word);
 
-    if (strlen($word) > 1 && $word === $capWord) {
-        if (isset($glossaryWords[$capWord])) {
-            return $capWord;
-        }
-    }
-
-    if (isset($glossaryWords[$word])) {
-        return $word;
-    }
     if (isset($glossaryWords[$lowWord])) {
-        return $lowWord;
+        return $glossaryWords[$lowWord];
     }
 
     if (
@@ -24,35 +14,35 @@ function getBase(string $word, array $glossaryWords): string
     ) {
         $candidate = $match[1] . 'i';
         if (isset($glossaryWords[$candidate])) {
-            return $candidate;
+            return $glossaryWords[$candidate];
         }
     }
 
     if (preg_match('/(.+)(o|oj|on|ojn)$/', $lowWord, $match)) {
         $candidate = $match[1] . 'o';
         if (isset($glossaryWords[$candidate])) {
-            return $candidate;
+            return $glossaryWords[$candidate];
         }
     }
 
     if (preg_match('/(.+)(a|aj|an|ajn)$/', $lowWord, $match)) {
         $candidate = $match[1] . 'a';
         if (isset($glossaryWords[$candidate])) {
-            return $candidate;
+            return $glossaryWords[$candidate];
         }
     }
 
     if (preg_match('/(.+)(e)$/', $lowWord, $match)) {
         $candidate = $match[1] . 'e';
         if (isset($glossaryWords[$candidate])) {
-            return $candidate;
+            return $glossaryWords[$candidate];
         }
     }
 
     if (preg_match('/(.+)(i|as|is|os|us|u)$/', $lowWord, $match)) {
         $candidate = $match[1] . 'i';
         if (isset($glossaryWords[$candidate])) {
-            return $candidate;
+            return $glossaryWords[$candidate];
         }
     }
 
@@ -93,7 +83,7 @@ while ($fields = fgetcsv($fh)) {
         continue;
     }
     $defs[$word] = $definition;
-    $glossaryWords[$word] = true;
+    $glossaryWords[mb_strtolower($word)] = $word;
 }
 fclose($fh);
 
