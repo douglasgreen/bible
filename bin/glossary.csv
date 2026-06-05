@@ -187,16 +187,36 @@ prefix,tra,through
 prefix,tro,"too (much, many)"
 prefix,vic,"(prefix analogous to ""vice"")"
 prefix,vir,"denotes male sex"
-pronoun,ci,"thou; you (familiar form)"
-pronoun,ĝi,it
+pronoun,ci,"thou; you (singular, familiar, subject)"
+pronoun,cin,"thee; you (singular, familiar, object)"
+pronoun,cia,"thy; thine; your (singular, familiar, possessive)"
+pronoun,ĝi,"it (subject)"
+pronoun,ĝin,"it (object)"
+pronoun,ĝia,its
 pronoun,ili,they
+pronoun,ilin,them
+pronoun,ilia,"their; theirs"
 pronoun,li,he
+pronoun,lin,him
+pronoun,lia,his
 pronoun,mi,I
+pronoun,min,me
+pronoun,mia,"my; mine"
 pronoun,ni,we
-pronoun,oni,"one; people; they"
-pronoun,si,"(reflexive pronoun)"
+pronoun,nin,us
+pronoun,nia,"our; ours"
+pronoun,oni,"one; they; people (generic subject)"
+pronoun,onin,"one; people (generic object)"
+pronoun,onia,one's
+pronoun,si,"oneself; himself; herself; itself; themselves (reflexive)"
+pronoun,sin,"oneself; himself; herself; itself; themselves (reflexive, object)"
+pronoun,sia,"one's own; his own; her own; its own; their own (reflexive possessive)"
 pronoun,ŝi,she
-pronoun,vi,you
+pronoun,ŝin,"her (object)"
+pronoun,ŝia,"her; hers (possessive)"
+pronoun,vi,"you (singular/plural, subject)"
+pronoun,vin,"you (singular/plural, object)"
+pronoun,via,"your; yours"
 root,abato,"abbé; abbot"
 root,abdiki,"to abdicate; resign"
 root,abelo,bee

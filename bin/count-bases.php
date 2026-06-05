@@ -5,10 +5,12 @@ function getBase(string $word, array $glossaryWords): string
 {
     $lowWord = mb_strtolower($word);
 
+    // Exact matches
     if (isset($glossaryWords[$lowWord])) {
         return $glossaryWords[$lowWord];
     }
 
+    // Participles
     if (
         preg_match('/(.+)(ant|int|ont|at|it|ot)(a|aj|an|ajn|o|oj|on|ojn|e)$/', $lowWord, $match)
     ) {
@@ -20,6 +22,7 @@ function getBase(string $word, array $glossaryWords): string
         }
     }
 
+    // Nouns
     if (preg_match('/(.+)(o|oj|on|ojn)$/', $lowWord, $match)) {
         foreach (['o', 'a', 'i', 'e'] as $ending) {
             $candidate = $match[1] . $ending;
@@ -29,6 +32,7 @@ function getBase(string $word, array $glossaryWords): string
         }
     }
 
+    // Adjectives
     if (preg_match('/(.+)(a|aj|an|ajn)$/', $lowWord, $match)) {
         foreach (['a', 'o', 'i', 'e'] as $ending) {
             $candidate = $match[1] . $ending;
@@ -38,6 +42,7 @@ function getBase(string $word, array $glossaryWords): string
         }
     }
 
+    // Adverbs
     if (preg_match('/(.+)(e)$/', $lowWord, $match)) {
         foreach (['e', 'i', 'o', 'a'] as $ending) {
             $candidate = $match[1] . $ending;
@@ -47,6 +52,23 @@ function getBase(string $word, array $glossaryWords): string
         }
     }
 
+    // Adverbs of direction
+    if (preg_match('/(.+)(en)$/', $lowWord, $match)) {
+        $candidate = $match[1] . 'e';
+        if (isset($glossaryWords[$candidate])) {
+            return $glossaryWords[$candidate];
+        }
+    }
+
+    // Correlatives and the number "unu" ending in u
+    if (preg_match('/(.+)(u|uj|un|ujn)$/', $lowWord, $match)) {
+        $candidate = $match[1] . 'u';
+        if (isset($glossaryWords[$candidate])) {
+            return $glossaryWords[$candidate];
+        }
+    }
+
+    // Verbs
     if (preg_match('/(.+)(i|as|is|os|us|u)$/', $lowWord, $match)) {
         foreach (['i', 'e', 'o', 'a'] as $ending) {
             $candidate = $match[1] . $ending;
