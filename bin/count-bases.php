@@ -1,7 +1,7 @@
 #!/usr/bin/env php
 <?php
 
-function getBase(string $word, array $glossaryWords): ?string
+function getBase(string $word, array $glossaryWords): string
 {
     $lowWord = mb_strtolower($word);
     $capWord = mb_strtoupper($word);
@@ -10,7 +10,6 @@ function getBase(string $word, array $glossaryWords): ?string
         if (isset($glossaryWords[$capWord])) {
             return $capWord;
         }
-        return null;
     }
 
     if (isset($glossaryWords[$word])) {
@@ -57,7 +56,7 @@ function getBase(string $word, array $glossaryWords): ?string
         }
     }
 
-    return null;
+    return $word;
 }
 
 if ($argc < 2) {
@@ -83,6 +82,10 @@ $allowedCategories = ['correlative', 'other', 'pronoun', 'root'];
 $fh = fopen(__DIR__ . '/glossary.csv', 'r');
 while ($fields = fgetcsv($fh)) {
     if (count($fields) !== 3) {
+        if ($fields) {
+            echo "Bad field count: " . var_export($fields, true);
+            exit(1);
+        }
         continue;
     }
     list($category, $word, $definition) = $fields;
@@ -106,9 +109,6 @@ foreach ($lines as $line) {
     $baseForms = [];
     foreach ($matches[0] as $word) {
         $base = getBase($word, $glossaryWords);
-        if ($base === null) {
-            continue;
-        }
         $baseForms[$base][$word] = true;
     }
 
