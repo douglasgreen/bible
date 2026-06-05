@@ -12,37 +12,47 @@ function getBase(string $word, array $glossaryWords): string
     if (
         preg_match('/(.+)(ant|int|ont|at|it|ot)(a|aj|an|ajn|o|oj|on|ojn|e)$/', $lowWord, $match)
     ) {
-        $candidate = $match[1] . 'i';
-        if (isset($glossaryWords[$candidate])) {
-            return $glossaryWords[$candidate];
+        foreach (['i', 'e', 'o', 'a'] as $ending) {
+            $candidate = $match[1] . $ending;
+            if (isset($glossaryWords[$candidate])) {
+                return $glossaryWords[$candidate];
+            }
         }
     }
 
     if (preg_match('/(.+)(o|oj|on|ojn)$/', $lowWord, $match)) {
-        $candidate = $match[1] . 'o';
-        if (isset($glossaryWords[$candidate])) {
-            return $glossaryWords[$candidate];
+        foreach (['o', 'a', 'i', 'e'] as $ending) {
+            $candidate = $match[1] . $ending;
+            if (isset($glossaryWords[$candidate])) {
+                return $glossaryWords[$candidate];
+            }
         }
     }
 
     if (preg_match('/(.+)(a|aj|an|ajn)$/', $lowWord, $match)) {
-        $candidate = $match[1] . 'a';
-        if (isset($glossaryWords[$candidate])) {
-            return $glossaryWords[$candidate];
+        foreach (['a', 'o', 'i', 'e'] as $ending) {
+            $candidate = $match[1] . $ending;
+            if (isset($glossaryWords[$candidate])) {
+                return $glossaryWords[$candidate];
+            }
         }
     }
 
     if (preg_match('/(.+)(e)$/', $lowWord, $match)) {
-        $candidate = $match[1] . 'e';
-        if (isset($glossaryWords[$candidate])) {
-            return $glossaryWords[$candidate];
+        foreach (['e', 'i', 'o', 'a'] as $ending) {
+            $candidate = $match[1] . $ending;
+            if (isset($glossaryWords[$candidate])) {
+                return $glossaryWords[$candidate];
+            }
         }
     }
 
     if (preg_match('/(.+)(i|as|is|os|us|u)$/', $lowWord, $match)) {
-        $candidate = $match[1] . 'i';
-        if (isset($glossaryWords[$candidate])) {
-            return $glossaryWords[$candidate];
+        foreach (['i', 'e', 'o', 'a'] as $ending) {
+            $candidate = $match[1] . $ending;
+            if (isset($glossaryWords[$candidate])) {
+                return $glossaryWords[$candidate];
+            }
         }
     }
 
