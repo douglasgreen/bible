@@ -1,3 +1,4 @@
+#!/usr/bin/env php
 <?php
 /**
  * Extract sections from markdown files based on heading count.
