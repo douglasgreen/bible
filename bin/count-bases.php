@@ -136,7 +136,10 @@ foreach ($lines as $line) {
 
     foreach ($baseForms as $base => $forms) {
         $forms = implode(', ', array_keys($forms));
-        echo "* {$base} ({$forms})";
+        echo "* {$base}";
+        if ($base !== $forms) {
+            echo " ({$forms})";
+        }
         if (isset($defs[$base])) {
             echo ": " . $defs[$base];
         } else {
