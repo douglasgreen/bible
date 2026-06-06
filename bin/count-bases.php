@@ -121,34 +121,44 @@ fclose($fh);
 
 $newCounts = [];
 foreach ($lines as $line) {
-    if (!preg_match_all('/\p{L}+/u', $line, $matches)) {
-        continue;
-    }
-
-    echo "$line\n";
-
-    $baseCounts = [];
-    $baseForms = [];
-    foreach ($matches[0] as $word) {
-        $base = getBase($word, $glossaryWords);
-        $baseForms[$base][$word] = true;
-    }
-
-    foreach ($baseForms as $base => $forms) {
-        $forms = implode(', ', array_keys($forms));
-        echo "* {$base}";
-        if ($base !== $forms) {
-            echo " ({$forms})";
+    $sentences = preg_split('/([.?!])(?=\s+[A-Z]|$)/', $line, -1, PREG_SPLIT_NO_EMPTY | PREG_SPLIT_DELIM_CAPTURE);
+    $current = 0;
+    while (isset($sentences[$current])) {
+        $sentence = $sentences[$current];
+        if (isset($sentences[$current + 1])) {
+            $sentence .= $sentences[$current + 1];
         }
-        if (isset($defs[$base])) {
-            echo ": " . $defs[$base];
-        } else {
-            $newCounts[$base] = isset($newCounts[$base]) ? $newCounts[$base] + 1 : 1;
+        $sentence = trim($sentence);
+        $current += 2;
+        if (!preg_match_all('/\p{L}+/u', $sentence, $matches)) {
+            continue;
         }
+
+        echo "$sentence\n";
+
+        $baseCounts = [];
+        $baseForms = [];
+        foreach ($matches[0] as $word) {
+            $base = getBase($word, $glossaryWords);
+            $baseForms[$base][$word] = true;
+        }
+
+        foreach ($baseForms as $base => $forms) {
+            $forms = implode(', ', array_keys($forms));
+            echo "* {$base}";
+            if ($base !== $forms) {
+                echo " ({$forms})";
+            }
+            if (isset($defs[$base])) {
+                echo ": " . $defs[$base];
+            } else {
+                $newCounts[$base] = isset($newCounts[$base]) ? $newCounts[$base] + 1 : 1;
+            }
+            echo "\n";
+        }
+
         echo "\n";
     }
-
-    echo "\n";
 }
 
 arsort($newCounts);
