@@ -187,36 +187,36 @@ prefix,tra,through
 prefix,tro,"too (much, many)"
 prefix,vic,"(prefix analogous to ""vice"")"
 prefix,vir,"denotes male sex"
-pronoun,ci,"thou; you (singular, familiar, subject)"
-pronoun,cin,"thee; you (singular, familiar, object)"
 pronoun,cia,"thy; thine; your (singular, familiar, possessive)"
+pronoun,cin,"thee; you (singular, familiar, object)"
+pronoun,ci,"thou; you (singular, familiar, subject)"
+pronoun,ĝia,its
 pronoun,ĝi,"it (subject)"
 pronoun,ĝin,"it (object)"
-pronoun,ĝia,its
-pronoun,ili,they
-pronoun,ilin,them
 pronoun,ilia,"their; theirs"
+pronoun,ilin,them
+pronoun,ili,they
+pronoun,lia,his
 pronoun,li,he
 pronoun,lin,him
-pronoun,lia,his
+pronoun,mia,"my; mine"
 pronoun,mi,I
 pronoun,min,me
-pronoun,mia,"my; mine"
-pronoun,ni,we
-pronoun,nin,us
 pronoun,nia,"our; ours"
-pronoun,oni,"one; they; people (generic subject)"
-pronoun,onin,"one; people (generic object)"
+pronoun,nin,us
+pronoun,ni,we
 pronoun,onia,one's
-pronoun,si,"oneself; himself; herself; itself; themselves (reflexive)"
-pronoun,sin,"oneself; himself; herself; itself; themselves (reflexive, object)"
-pronoun,sia,"one's own; his own; her own; its own; their own (reflexive possessive)"
-pronoun,ŝi,she
-pronoun,ŝin,"her (object)"
+pronoun,onin,"one; people (generic object)"
+pronoun,oni,"one; they; people (generic subject)"
 pronoun,ŝia,"her; hers (possessive)"
-pronoun,vi,"you (singular/plural, subject)"
-pronoun,vin,"you (singular/plural, object)"
+pronoun,sia,"one's own; his own; her own; its own; their own (reflexive possessive)"
+pronoun,ŝin,"her (object)"
+pronoun,sin,"oneself; himself; herself; itself; themselves (reflexive, object)"
+pronoun,si,"oneself; himself; herself; itself; themselves (reflexive)"
+pronoun,ŝi,she
 pronoun,via,"your; yours"
+pronoun,vin,"you (singular/plural, object)"
+pronoun,vi,"you (singular/plural, subject)"
 root,abato,"abbé; abbot"
 root,abdiki,"to abdicate; resign"
 root,abelo,bee
@@ -279,6 +279,7 @@ root,agento,"agent; dealer"
 root,aĝio,"agio; exchange premium"
 root,agi,"to act; move; take action; do"
 root,aglo,eagle
+root,agnoski,"to recognize, acknowledge, or admit"
 root,aĝo,"age (how old someone or something is)"
 root,agonio,"agony; death throes"
 root,agordo,"accord; agreement; consonance; customization; options; setup; settings; mood; tuning; preference"
@@ -334,6 +335,8 @@ root,albino,albino
 root,albumo,album
 root,alciono,"halcyon; kingfisher"
 root,aldo,"alto; contralto (voice); viola"
+root,aldoni,"to add or append"
+root,aldono,"addition, supplement, or appendix"
 root,alegorio,allegory
 root,Aleksandro,Alexander
 root,aleno,awl
@@ -349,6 +352,7 @@ root,alia,"other; another (one); different; else"
 root,alibio,alibi
 root,aligatoro,alligator
 root,alineo,"paragraph (text); indentation"
+root,aliro,"access or approach"
 root,alkemio,alchemy
 root,alko,"elk; moose"
 root,alkoholo,"alcohol; spirit"
@@ -366,6 +370,7 @@ root,aludi,"to allude; hint; refer to"
 root,alumeto,"match (for starting fires)"
 root,aluminio,aluminum
 root,aluno,alum
+root,alveno,"arrival or coming"
 root,amara,"bitter; acerbic; acrimonious"
 root,amaso,"accumulation; body; crowd; heap; mass; multitude; pile; swarm; hoard; mob; throng; troop"
 root,amatoro,"amateur; enthusiast; fancier"
@@ -430,6 +435,8 @@ root,anonima,"anonymous; nameless"
 root,ansero,goose
 root,Antarkto,"Antarctic; the Antarctic"
 root,antaŭa,previous
+root,antaŭdiri,"to predict or foretell"
+root,antaŭparolo,"foreword, preface, or introduction"
 root,anteno,"aerial; antenna; feeler"
 root,antibiotiko,antibiotic
 root,anticipi,"to anticipate; expect; think ahead"
@@ -452,6 +459,7 @@ root,apartamento,"apartment; flat"
 root,aparteni,"to belong to"
 root,apatio,"apathy; nonchalance"
 root,apelacii,"to appeal"
+root,apendico,"appendix (of a book or anatomical)"
 root,aperitivo,apéritif
 root,aperi,"to appear; come into sight; emerge; materialize; perform; be published"
 root,aperturo,"aperture; opening"
@@ -462,6 +470,7 @@ root,apliki,"to administer; apply; practice"
 root,aplombo,"aplomb; self-assurance; nerve"
 root,apogeo,"apex; apogee; pinnacle; zenith"
 root,apogi,"to back (up); bolster; buttress; lean; prop; rest; support; sustain; underpin; recline; uphold"
+root,Apokalipso,"Apocalypse (the Book of Revelation)"
 root,apokrifa,apocryphal
 root,apologo,"apologue; fable"
 root,apopleksio,"(apoplectic) fit; seizure; stroke; (stroke of) apoplexy"
@@ -663,6 +672,7 @@ root,barko,"bark; boat; small ship"
 root,baro,"bar; barrier; impediment; obstacle; obstruction; bound"
 root,barometro,barometer
 root,barono,baron
+root,Baruĥ,Baruch
 root,basko,"coattails; train (of a dress or robe)"
 root,baskulo,"seesaw; teeter-totter; lever; toggle; trigger; weighing machine"
 root,baso,"bass; bass voice"
@@ -679,11 +689,13 @@ root,bazaro,"bazaar; fair; market; department store; mall"
 root,bazilisko,"(American) basilisk"
 root,bazo,"base; basis; footing; ground; platform; stem; radix"
 root,bebo,baby
+root,bedaŭrinde,"unfortunately"
 root,bedaŭri,"to be sorry about; regret; lament; pity"
 root,bedo,"bed (garden); plot"
 root,beko,"beak; bill"
 root,bela,"beautiful; fine; handsome; lovely; good-looking; pretty"
 root,beladono,"belladonna; deadly nightshade; devil’s cherry"
+root,Bel,Bel
 root,beletristiko,"belles-lettres; belletristic literature"
 root,beletro,"belles lettres; literature"
 root,belgo,Belgian
@@ -712,6 +724,7 @@ root,bilanco,"annual accounts; (annual) financial statement; balance sheet; stat
 root,bilardo,"billiards; billiards table; pool; pool table"
 root,bildo,"image; picture"
 root,bileto,"bill; ticket; note; docket"
+root,bindigi,"to have (a book) bound"
 root,bindi,"to bind; link (a program)"
 root,binoklo,binoculars
 root,biografio,biography
@@ -755,6 +768,7 @@ root,bombasto,bombast
 root,bombo,"bomb; shell"
 root,bombono,"bonbon; piece of candy; sweet"
 root,bona,"good; nice; okay; kind; nice"
+root,bonvoli,"to have the kindness to, to please"
 root,borakso,borax
 root,bordelo,"bordello; brothel"
 root,borderi,"to border; fringe; hem"
@@ -860,6 +874,7 @@ root,ĉasi,"to chase; hunt; pursue; seek after"
 root,ĉasta,"chaste; pure"
 root,cedi,"to cede; give in; yield; comply; concede; grant; accommodate"
 root,cedro,cedar
+root,ĉefa,"main, chief, or principal"
 root,cejano,cornflower
 root,ĉeko,check
 root,celerio,celery
@@ -935,6 +950,7 @@ root,cirkvito,circuit
 root,ciro,"polish; wax"
 root,cisterno,"cistern; reservoir; tank"
 root,citadelo,citadel
+root,citaĵo,"citation or quotation"
 root,citi,"to cite; quote; mention"
 root,citrono,"citron; lemon"
 root,citro,zither
@@ -951,6 +967,7 @@ root,damo,"dame; queen; king; lady"
 root,danci,"to dance"
 root,dando,"dandy; dude; fop; fashionista"
 root,danĝero,"danger; hazard; jeopardy; peril"
+root,Danielo,"Daniel"
 root,danki,"to thank"
 root,dativo,dative
 root,dato,"date (time)"
@@ -1011,6 +1028,7 @@ root,densa,"compact; concentrated; dense; thick; condensed"
 root,dento,"tooth; cog; prong"
 root,denunci,"to accuse; denounce; impeach; inform against; file charges; lodge a complaint"
 root,departemento,"(administrative) department"
+root,depende,"dependently (often used as *depende de*);depending on"
 root,depeŝo,"dispatch; message"
 root,deponi,"to deposit; dump; bank; file; lodge; store"
 root,deputi,"to depute"
@@ -1022,6 +1040,7 @@ root,detalo,detail
 root,detektivo,"detective; private eye; investigator"
 root,determini,"to decide; determine; fix; set; settle"
 root,detrui,"to destroy; quash"
+root,deveni,"to originate or stem from"
 root,devi,"to be obliged to; have to; must; ought to; should"
 root,devizo,"device; motto; watchword; slogan; rallying cry; draft on foreign bank"
 root,dezerto,"desert; wilderness"
@@ -1077,6 +1096,7 @@ root,direktoro,"director; manager"
 root,diri,"to say; tell; state"
 root,disciplino,discipline
 root,disĉiplo,"adherent; disciple; follower"
+root,disdoni,"to distribute or hand out"
 root,disenterio,dysentery
 root,disko,"disc; disk; disk drive; drive; platter; dial; record; circle"
 root,diskonti,"to discount"
@@ -1086,12 +1106,14 @@ root,diskuti,"to discuss"
 root,dispepsio,"dyspepsia; indigestion"
 root,disponi,"to absorb; have at one’s disposal; dispose (of); have available"
 root,disputi,"to argue; dispute; bicker; contest; wrangle; contend"
+root,dissendi,"to broadcast, transmit, or distribute"
 root,distanco,"distance; offset"
 root,distili,"to distil"
 root,distingi,"to differentiate; discern; discriminate; distinguish; mark"
 root,distribui,"to allocate; apportion; distribute"
 root,distrikto,"circuit; district; zone"
 root,distri,"to amuse; distract; divert; entertain; unbend; relax"
+root,disvastigi,"to spread, disseminate, or circulate"
 root,ditirambo,dithyramb
 root,divano,"couch; divan; ottoman"
 root,diveni,"to divine; guess (correctly)"
@@ -1118,6 +1140,7 @@ root,dorloti,"to coddle; pamper; pet; fondle"
 root,dormi,"to be asleep; sleep"
 root,dorno,"thorn; prickle; spine"
 root,dorso,"back (of body)"
+root,dosiero,"file (computer or paper document folder)"
 root,doto,"dowry; portion"
 root,dozo,"dose; portion; quantity"
 root,dragono,dragoon
@@ -1135,6 +1158,7 @@ root,drivi,"to drift; be adrift"
 root,drogo,"drug; pharmaceutical"
 root,dromedaro,dromedary
 root,droni,"to drown; sink"
+root,duakanono,"deuterocanon"
 root,dualismo,dualism
 root,dua,second
 root,dubi,"to doubt; question"
@@ -1145,6 +1169,8 @@ root,duko,duke
 root,dungi,"to employ; engage; hire"
 root,duŝo,"douche; shower"
 root,ebena,"even; flat; level; smooth"
+root,ebla,"possible"
+root,eble,"maybe, perhaps"
 root,ebono,ebony
 root,ebria,"drunk; intoxicated; tipsy; inebriated"
 root,eburo,ivory
@@ -1163,6 +1189,7 @@ root,egoismo,"egoism; self-interest; selfishness"
 root,egoisto,"egoist; egotist"
 root,eĥo,echo
 root,ekipi,"to equip; outfit"
+root,Ekleziastiko,"Ecclesiasticus (the Book of Sirach)"
 root,eklezio,"church (institution, not building)"
 root,eklipso,eclipse
 root,eklogo,eclogue
@@ -1188,10 +1215,12 @@ root,ekstermi,"to exterminate; wipe out"
 root,ekstra,"additional; extra; spare"
 root,ekstrakto,extract
 root,ekstrema,"extreme; utmost"
+root,ekumena,"ecumenical"
 root,ekvacio,equation
 root,Ekvadoro,Ecuador
 root,ekvatoro,equator
 root,ekvilibro,"balance; equilibrium"
+root,ekvivalento,"equivalent"
 root,ekzakta,"accurate; exact"
 root,ekzameni,"to examine; inspect; verify; question; scrutinize; survey; audit"
 root,ekzekuti,"to execute (criminal)"
@@ -1201,7 +1230,9 @@ root,ekzemplo,"copy; example; instance"
 root,ekzerci,"to exercise; practice; train; drill; rehearse"
 root,ekzili,"to ban; banish; exile"
 root,ekzisti,"to exist"
+root,elaĉeti,"to redeem or ransom"
 root,elasta,"elastic; springy"
+root,eldono,"edition, publication, or issue"
 root,elefanto,elephant
 root,eleganta,"elegant; smart"
 root,elegio,elegy
@@ -1215,6 +1246,8 @@ root,elipso,ellipse
 root,Elizabeto,Elizabeth
 root,elizii,"to elide"
 root,elokventa,"eloquent; fluent; rhetorical"
+root,elspezo,"expense or expenditure"
+root,elŝutebla,"downloadable"
 root,emajlo,enamel
 root,emancipi,"to emancipate"
 root,embaraso,"abashment; embarrassment; perplexity; difficult situation; quandary; complication; difficulty"
@@ -1230,11 +1263,15 @@ root,empirio,empiry
 root,emulsio,emulsion
 root,enciklopedio,encyclopedia
 root,energio,"energy; spirit"
+root,enhavi,"to contain or include"
+root,enigi,"to insert, enter, or input"
 root,enigmo,"enigma; puzzle; riddle"
 root,enketi,"to inquire; investigate; make an inquiry; survey"
+root,enmeti,"to insert or put in"
 root,entomologio,entomology
 root,entomologo,entomologist
 root,entrepreni,"to undertake (take it upon oneself to do)"
+root,entute,"overall, in total, or as a whole"
 root,entuziasmo,"alacrity; enthusiasm"
 root,enui,"to be bored; be tired; be weary; bother; pester; tire"
 root,envii,"to envy"
@@ -1252,6 +1289,7 @@ root,epoko,"age; epoch; era; period"
 root,epoleto,"epaulet; epaulette"
 root,epopeo,"epic; epic poem"
 root,erari,"to err; make a mistake; go astray; wander"
+root,Erasmo,"Erasmus"
 root,eriko,"heath; heather (plant)"
 root,erinaco,hedgehog
 root,erizipelo,erysipelas
@@ -1273,6 +1311,7 @@ root,esperi,"to hope"
 root,esplori,"to examine; explore; investigate; prospect; research; study; survey; browse (for file)"
 root,esprimi,"to express; state"
 root,establi,"to erect; establish"
+root,Ester,Esther
 root,estetiko,aesthetics
 root,estimi,"to esteem; think well of; have esteem for; respect; regard"
 root,estingi,"to extinguish; put out; put out; quench"
@@ -1638,6 +1677,8 @@ root,gipso,"gypsum; plaster (of Paris)"
 root,ĝirafo,giraffe
 root,ĝiri,"to endorse; transfer"
 root,girlando,"garland; wreath"
+root,ĝisdatigado,"the continuous process of updating"
+root,ĝisdatigi,"to update"
 root,gitaro,guitar
 root,glacio,ice
 root,gladiatoro,gladiator
@@ -1748,6 +1789,7 @@ root,harpio,"harpy (eagle)"
 root,harpo,harp
 root,harpuno,harpoon
 root,haŭto,"hide; skin; theme (GUI)"
+root,havaĵo,"property, asset, or possession"
 root,haveno,"harbor; port; haven; seaport"
 root,havi,"to have; own"
 root,hazardo,"accidence; chance; hazard"
@@ -1815,6 +1857,7 @@ root,histriko,porcupine
 root,hobojo,oboe
 root,hoko,"hacek; hook; inverted circumflex; inverted hat; wedge"
 root,ĥolero,cholera
+root,homaro,"humanity or mankind"
 root,homeopatio,"homeopathy; homoeopathy"
 root,homeopato,homeopath
 root,homo,"human being; man"
@@ -1891,6 +1934,7 @@ root,indiĝeno,"aborigine; native; indigenous person"
 root,indigni,"to be indignant; be irritated; resent"
 root,indigo,indigo
 root,indiki,"to indicate; suggest; designate; point"
+root,indi,"to be worth or worthy of"
 root,individuo,individual
 root,indukti,"to generalize; induce; infer; reason"
 root,indulgi,"to be lenient with; indulge; spare"
@@ -1934,11 +1978,14 @@ root,instrumento,instrument
 root,insulino,insulin
 root,insulo,"island; isle"
 root,insulti,"to abuse; insult; offend"
+root,integreco,"integrity"
 root,intelekto,"intellect; mind; understanding"
 root,inteligenta,"intelligent; sagacious"
 root,intenci,"to intend; mean; purpose"
 root,intendanto,"administrator; agent; steward; superintendent; curator; manager"
 root,intensa,"acute; intense; intensive"
+root,interago,"interaction"
+root,interesiĝi,"to be interested or take an interest in"
 root,interesi,"to interest"
 root,intereso,interest
 root,interjekcio,interjection
@@ -1947,6 +1994,7 @@ root,interna,"back-end; internal; domestic; inner; inside"
 root,interpelacii,"to interpolate"
 root,interpreti,"to interpret"
 root,interpunkcio,"interpunction; punctuation"
+root,Interreto,"the Internet"
 root,intervjuo,interview
 root,intesto,intestine
 root,intima,"close; intimate"
@@ -1956,6 +2004,7 @@ root,invadi,"to invade"
 root,invalido,"disabled person; invalid"
 root,inventi,"to invent"
 root,inversa,"inverse; inverted; reverse; reversed"
+root,inversigi,"to invert or reverse"
 root,inviti,"to invite"
 root,ipsilono,"upsilon; Y"
 root,Irako,Iraq
@@ -1981,6 +2030,8 @@ root,jaro,"year; vintage (of wine)"
 root,jasmeno,jasmine
 root,ĵaŭdo,Thursday
 root,ĵazo,jazz
+root,jena,"following, as follows"
+root,Jeremia,Jeremiah
 root,jesi,"to agree"
 root,Jesuo,Jesus
 root,ĵeti,"to cast; fling; throw; toss; pitch"
@@ -1993,6 +2044,7 @@ root,Jorko,York
 root,Jozefo,Joseph
 root,jubileo,jubilee
 root,judaismo,Judaism
+root,Judit,Judith
 root,judo,jew
 root,ĵudo,judo
 root,juĝi,"to judge; sentence"
@@ -2222,6 +2274,7 @@ root,klafto,fathom
 root,klaki,"to chatter; clap; click; rattle; flap; slap; smack"
 root,klapo,"flap; valve; half shell"
 root,klara,"clear; distinct; plain; explicit; lucid; manifest"
+root,klareco,"clarity or clearness"
 root,klarneto,clarinet
 root,klasifiki,"to classify; sort"
 root,klasika,"classic; classical"
@@ -2328,6 +2381,7 @@ root,kompreni,"to comprehend; realize; understand"
 root,kompreso,"compress; gauze pads"
 root,kompromiso,"accommodation; compromise"
 root,kompromiti,"to compromise; endanger; imperil; jeopardize; prejudice"
+root,komputila,"computer-related or digital"
 root,komputi,"to compute"
 root,komuna,"common; joint; shared; neric"
 root,komuniki,"to communicate; report; impart"
@@ -2350,6 +2404,7 @@ root,konduti,"to behave; act; conduct (oneself)"
 root,konekti,"to connect; connect up; plug in; hook up"
 root,konfederacio,confederation
 root,konfekcio,"confection (clothing); ready-made clothes"
+root,konfesio,"denomination or religious confession"
 root,konfesi,"to acknowledge; admit; confess; profess; avow"
 root,konfidenco,"confidence; secret; confidentiality"
 root,konfidi,"to confide; have confidence in; trust; entrust; rely"
@@ -2358,6 +2413,7 @@ root,konfiski,"to confiscate"
 root,konfiti,"to preserve with sugar"
 root,konflikto,"clash; conflict; antagonism"
 root,konforma,"compliant; conforming; (well-)fitting"
+root,konformiĝi,"to conform or comply"
 root,konfuzi,"to bewilder; confuse; puzzle; disconcert; perplex; trouble; perturb; unsettle; disturb"
 root,konglomerato,conglomerate
 root,kongregacio,congregation
@@ -2432,6 +2488,9 @@ root,konvulsio,convulsion
 root,kooperativo,cooperative
 root,kopeko,kopeck
 root,kopio,copy
+root,kopirajtigi,"to copyright"
+root,kopirajto,"copyright"
+root,kopirajtposedanto,"copyright holder"
 root,koralo,coral
 root,Korano,"Koran; Quran"
 root,korbo,"basket; hamper"
@@ -2512,6 +2571,7 @@ root,kringo,"ring-shaped roll; biscuit"
 root,kripla,"crippled; infirm; handicapped"
 root,krispo,"frill; ruffle; frilled collar"
 root,kristalo,crystal
+root,kristano,"Christian"
 root,Kristo,Christ
 root,kriterio,"criterion; rule; touchstone; measure"
 root,kritiki,"to censure; criticize; knock"
@@ -2520,6 +2580,7 @@ root,krizo,"crisis; depression; emergency; depression; critical situation"
 root,kroĉi,"to concatenate; hook"
 root,krokodilo,crocodile
 root,kromosomo,chromosome
+root,kronadpsalmo,"coronation psalm"
 root,kronika,"chronic; lingering"
 root,krono,"crown (money)"
 root,kronologio,"chronology; timeline"
@@ -2535,6 +2596,7 @@ root,krupo,croup
 root,kruro,"leg; paw; limb"
 root,krusto,"crust; deposit; hard outer covering; rind; scab; casing; scale"
 root,kruta,"abrupt; steep; sheer"
+root,ktp,"kaj tiel plu; and so on; etc"
 root,Kubo,Cuba
 root,kubo,cube
 root,kubuto,elbow
@@ -2552,7 +2614,10 @@ root,kulpa,"culpable; guilty; to blame"
 root,kulto,"cult (system of religious worship); homage; devotion"
 root,kulturi,"to cultivate; grow"
 root,kuna,"joint; together"
+root,kundividi,"to share"
 root,kuniklo,rabbit
+root,kunteksto,"context"
+root,kuntiriĝo,"contraction or shrinking"
 root,kupeo,compartment
 root,kupo,"cupping glass"
 root,kupolo,"cupola; dome"
@@ -2638,6 +2703,7 @@ root,lasero,laser
 root,lasi,"to allow; leave; let; release; quit"
 root,lasta,"hindermost; last; ultimate"
 root,latero,"arm; side"
+root,latina,"Latin"
 root,latitudo,latitude
 root,lato,"batten; lath; slat"
 root,latuno,brass
@@ -2647,13 +2713,17 @@ root,laŭdi,"to acclaim; commend; laud; praise"
 root,laŭreato,"laureate; winner"
 root,laŭro,"bay tree; laurel"
 root,laŭta,"aloud; loud"
+root,laŭtlegi,"to read aloud"
+root,laŭvorte,"literally or word-for-word"
 root,lavango,avalanche
 root,lavendo,lavender
 root,lavi,"to wash"
 root,lazuro,"azure; sky blue"
 root,leciono,lesson
 root,ledo,leather
+root,legaĵo,"reading material or passage"
 root,legato,legate
+root,legebleco,"readability or legibility"
 root,legendo,"legend; myth"
 root,legio,legion
 root,legitimi,"to legitimize; prove identity"
@@ -2686,9 +2756,11 @@ root,Libano,Lebanon
 root,libelo,dragonfly
 root,libera,"exempt; free; unrestrained; spare; unchecked"
 root,liberala,liberal
+root,libereco,"freedom or liberty"
 root,Liberio,Liberia
 root,Libio,Libya
 root,libro,book
+root,libroformo,"book form"
 root,licenco,license
 root,liceo,"grammar school; high school; secondary school; lyceum"
 root,lieno,"milt; spleen"
@@ -2702,8 +2774,10 @@ root,likvoro,liqueur
 root,lilio,lily
 root,limako,"slug; snail"
 root,limfo,lymph
+root,limigi,"to limit, restrict, or bound"
 root,limo,"bound; boundary; frontier; limit"
 root,limonado,lemonade
+root,lingvaĵo,"language style, terminology, or parlance"
 root,lingvo,"language; tongue"
 root,linio,"curve; line"
 root,linko,lynx
@@ -2711,6 +2785,7 @@ root,lino,flax
 root,lipo,lip
 root,liriko,"lyric; lyric poetry; lyrical poem"
 root,liro,"lyre; lira"
+root,listigi,"to list"
 root,listo,list
 root,litanio,litany
 root,literaturo,literature
@@ -2783,7 +2858,9 @@ root,Majo,May
 root,majonezo,mayonnaise
 root,majoro,"major (rank)"
 root,majstro,"adept; maestro; master; maestro"
+root,majuskligi,"to capitalize or make uppercase"
 root,majusklo,"capital (upper case) letter"
+root,Makabeo,"Maccabee"
 root,makadamo,macadam
 root,makaronio,macaroni
 root,makarono,macaroon
@@ -2794,13 +2871,20 @@ root,makulo,"blemish; blot; spot; stain"
 root,makzelo,"jaw; jawbone"
 root,malakito,malachite
 root,malario,malaria
+root,malbono,"evil or badness"
 root,maleolo,"ankle; anklebone"
+root,malfacilaĵo,"difficulty, obstacle, or problem"
 root,malica,"malevolent; malicious; mischievous; nasty; vicious; wanton; spiteful"
+root,malkaŝi,"to reveal, disclose, or uncover"
+root,malnova,"old (not new)"
+root,malsama,"different or dissimilar"
 root,malto,malt
+root,malutilo,"harm, detriment, or disadvantage"
 root,malvo,mallow
 root,mamo,"breast; chest; teat; udder"
 root,mamuto,mammoth
 root,manao,manna
+root,Manase,Manasseh
 root,mandarino,"mandarin; tangerine"
 root,mandato,"mandate; order (postal, money)"
 root,mandolino,mandolin
@@ -2978,6 +3062,7 @@ root,miraklo,miracle
 root,mirho,myrrh
 root,miriado,myriad
 root,miriametro,myriameter
+root,mirinda,"wonderful, marvelous, or amazing"
 root,miri,"to be amazed; be astonished; marvel (at); wonder; be surprised"
 root,mirtelo,blueberry
 root,mirto,myrtle
@@ -2995,6 +3080,7 @@ root,modelo,"model; specimen; standard; type; pattern; master"
 root,modemo,modem
 root,modera,"moderate; reasonable"
 root,moderna,"modern; leading edge; advanced"
+root,modernigo,"modernization"
 root,modesta,"bashful; demure; modest; unassuming; moderate"
 root,modifi,"to alter; modify"
 root,modo,"fashion; mode; mood"
@@ -3096,6 +3182,7 @@ root,nazo,nose
 root,nebulo,"fog; mist"
 root,necesa,"necessary; needful; requisite"
 root,Nederlando,"Holland; the Netherlands"
+root,neformala,"informal"
 root,negativa,negative
 root,neglekti,"to neglect"
 root,negliĝo,"housedress; negligee; undress"
@@ -3144,6 +3231,7 @@ root,norvego,Norwegian
 root,nostalgio,nostalgia
 root,notario,notary
 root,noto,"annotation; note; grade; memorandum; bulletin; mark"
+root,novaĵo,"news or novelty"
 root,nova,"new; novel; recent"
 root,novelo,"novelette; short story"
 root,Novembro,November
@@ -3156,7 +3244,9 @@ root,nukso,nut
 root,nulo,"zero; naught; null"
 root,numero,"number; house number; issue number; number in a series; numeral"
 root,numismatiko,numismatics
+root,nuna,"current, present, or existing"
 root,nuncio,nuncio
+root,nuntempa,"contemporary or modern"
 root,nutri,"to feed; nourish; foster"
 root,oazo,oasis
 root,obei,"to obey"
@@ -3333,6 +3423,7 @@ root,parentezo,parenthesis
 root,parfumo,perfume
 root,pargeto,"parquet; wood flooring"
 root,Parizo,Paris
+root,parkerigi,"to memorize or commit to memory"
 root,parkeri,"to learn by heart; memorize"
 root,parko,park
 root,parlamento,parliament
@@ -3523,13 +3614,18 @@ root,plateno,platinum
 root,plaŭdi,"to beat; flap; lap; plash; splash"
 root,plebo,"common people; plebs"
 root,pledi,"to appeal; plea; plead"
+root,plejparte,"mostly, mainly, or for the most part"
 root,plekti,"to braid; plait; twine; wreathe"
 root,plena,"complete; full; integral; plenary; thorough; whole"
 root,plendi,"to complain; lament"
 root,pleonasmo,"pleonasm; redundancy"
 root,pleto,tray
 root,plezuro,"fun; pleasure"
+root,plia,"additional, further, or more"
+root,plibonigi,"to improve or ameliorate"
 root,pliko,"Polish plait"
+root,plimulta,"majority (used as an adjective)"
+root,plimulto,"majority"
 root,plonĝi,"to dive; plunge"
 root,plori,"to cry; weep; shed tears"
 root,ploto,roach
@@ -3603,15 +3699,18 @@ root,pramo,"ferry boat; pontoon"
 root,prava,"correct; right; just; justified; true"
 root,precipa,"chief; main; predominant; principal"
 root,preciza,"accurate; precise; exact"
+root,precizeco,"precision or accuracy"
 root,predikato,predicate
 root,prediki,"to preach"
 root,prefekto,"commissioner; prefect"
 root,preferi,"to prefer; like best"
 root,prefikso,prefix
+root,preĝema,"prayerful or devout"
 root,preĝi,"to pray"
 root,prelato,prelate
 root,prelegi,"to address; discourse; lecture"
 root,preludo,"overture; prelude"
+root,premadi,"to press continuously or pressure"
 root,premio,"award; premium; prize; reward"
 root,premiso,"assumption; premise; premiss; precondition"
 root,premi,"to press; oppress; squeeze; grasp; push; hold down; depress; hit (a key)"
@@ -3646,11 +3745,13 @@ root,produkto,"product; production"
 root,profani,"to defile; desecrate; profane"
 root,profesio,"business; calling; profession; occupation; job"
 root,profesoro,professor
+root,profetaĵo,"prophecy"
 root,profeto,"prophet; seer"
 root,profilo,"profile; side face; silhouette"
 root,profito,"advantage; gain; profit; benefit"
 root,profunda,"deep; profound"
 root,prognozo,"forecast; prognosis; prediction"
+root,programaro,"software or suite of programs"
 root,programo,"program; statement of policy; declaration of policy; platform"
 root,progresi,"to advance; progress; proceed"
 root,projekcio,projection
@@ -3685,6 +3786,7 @@ root,provinco,province
 root,provi,"to attempt; test; try; essay"
 root,provizora,"provisional; temporary; tentative"
 root,provizo,"stock; store; supply; provision"
+root,provlegi,"to proofread"
 root,provoki,"to defy; incite; provoke; incite"
 root,prozelito,"convert; proselyte"
 root,prozodio,prosody
@@ -3696,9 +3798,13 @@ root,pruno,plum
 root,prunto,loan
 root,pruvi,"to demonstrate; prove; substantiate"
 root,psalmo,psalm
+root,pseŭdepigrafo,"pseudepigraphon (apocryphal writing)"
 root,pseŭdonimo,"alias; pseudonym"
 root,psikologio,psychology
 root,psikologo,psychologist
+root,publikhavaĵa,"public-domain"
+root,publikigi,"to publish"
+root,publikigo,"publication (the act of publishing)"
 root,publiko,public
 root,pubo,"pubic region"
 root,pudelo,poodle
@@ -3784,8 +3890,11 @@ root,recepto,"formula; prescription; recipe"
 root,reciproka,"mutual; reciprocal"
 root,recitativo,recitative
 root,redakcio,"editorial office"
+root,redaktado,"editing or redaction"
 root,redakti,"to compile; edit"
 root,redaktoro,"editor (person)"
+root,redisdoni,"to redistribute"
+root,redisvastigi,"to re-disseminate or re-spread"
 root,redukti,"to reduce; scale down"
 root,referenco,"recommendation; reference; testimonial; referral; pointer (variable)"
 root,reflekti,"to reflect"
@@ -3803,16 +3912,19 @@ root,regi,"to control; govern; restrain; rule; reign"
 root,regno,"dominion; realm; state; sovereign country; kingdom"
 root,reĝo,king
 root,regolo,"goldcrest (regulus regulus)"
+root,regullibro,"rule book"
 root,regulo,"rule; enactment; regulation; statute; law"
 root,reklami,"to advertise"
 root,rekomendi,"to commend; recommend; register"
 root,rekompenco,"compensation; reward"
+root,rekonstruo,"reconstruction"
 root,rekordo,record
 root,rekremento,"dregs; grounds; husks; refuse; residue; waste"
 root,rekruto,recruit
 root,rekta,"direct; straight; right; upright; erect; live (broadcast)"
 root,rektoro,"chancellor; rector (school)"
 root,relativa,relative
+root,relegi,"to reread"
 root,reliefo,"embossment; relief (raised out)"
 root,religio,religion
 root,relo,rail
@@ -3825,6 +3937,8 @@ root,reno,kidney
 root,rento,"annuity; dividend; income; return; revenue"
 root,renversi,"to overthrow; turn; turn over; overturn; upset; reverse; flip"
 root,repertuaro,repertoire
+root,reprodukti,"to reproduce"
+root,republikigo,"republication"
 root,reputacio,reputation
 root,respekti,"to respect"
 root,respektiva,respective
@@ -3833,6 +3947,7 @@ root,respubliko,"commonwealth; republic"
 root,resti,"to remain; stay; be left; stay over; sojourn; stop; rest"
 root,restoracio,restaurant
 root,resto,"remainder; residue; rest"
+root,retejo,"website"
 root,retino,retina
 root,reto,"net; network; web"
 root,retoriko,"oratory; rhetoric"
@@ -3902,6 +4017,7 @@ root,rolo,"character; part; role; rôle (acting)"
 root,romano,"novel (romance); Roman"
 root,romantiko,romanticism
 root,rombo,"rhomb; rhombus"
+root,romkatolika,"Roman Catholic"
 root,rompi,"to break"
 root,rondo,"circle; ring; round"
 root,ronĝi,"to gnaw; nibble"
@@ -3964,6 +4080,7 @@ root,saliko,willow
 root,salivo,saliva
 root,ŝalmo,"bellows; pipe; windbag; stalk"
 root,salmo,salmon
+root,Salomono,"Solomon"
 root,salono,"drawing room; living room; parlor; salon; sitting room"
 root,salo,salt
 root,ŝalo,"shawl; wrap"
@@ -3977,6 +4094,7 @@ root,sama,"same; ditto"
 root,sambuko,"elder (tree)"
 root,ŝamo,"chamois; chamois leather; shammy"
 root,samovaro,samovar
+root,samtempe,"simultaneously or at the same time"
 root,sana,"healthy; well"
 root,ŝanceli,"to shake; totter; waver"
 root,ŝanco,"chance; luck; prospect"
@@ -3987,6 +4105,7 @@ root,sango,blood
 root,sankcio,"authorization; official approval; penalty; permission; reward; sanction"
 root,ŝankro,"canker; chancre; venereal ulcer"
 root,sankta,"holy; sacred; saintly"
+root,Sanktoleito,"Anointed One or Messiah"
 root,santalo,sandalwood
 root,sapo,soap
 root,ŝarado,charade
@@ -4030,6 +4149,7 @@ root,sektoro,"industry; sector"
 root,sekundanto,second
 root,sekundo,"second (time)"
 root,sekura,"safe; secure"
+root,sekurkopio,"backup copy"
 root,sekvi,"to ensue; follow; succeed (order)"
 root,selakto,whey
 root,ŝelko,"braces; suspenders"
@@ -4043,6 +4163,8 @@ root,senato,senate
 root,senco,"meaning; sense"
 root,sendi,"to forward; remit; send; transmit; submit"
 root,ŝenoprazo,chive
+root,senpaga,"free of charge (at no cost)"
+root,senpage,"for free"
 root,senprofita,"without profit"
 root,sensacio,"furor; impression; interest; sensation; commotion; perception"
 root,senso,sense
@@ -4053,6 +4175,7 @@ root,sepa,seventh
 root,sepio,"cuttlefish; sepia"
 root,Septembro,September
 root,septeto,septet
+root,Septuaginto,"Septuagint"
 root,serajlo,seraglio
 root,serĉi,"to find; search; seek; track down"
 root,ŝerci,"to jest; joke; kid"
@@ -4118,6 +4241,7 @@ root,sinoptika,synoptic
 root,sintakso,syntax
 root,sintezo,synthesis
 root,ŝipo,"ship; boat; vessel"
+root,Siraĥ,Sirach
 root,sireno,"mermaid; siren"
 root,siringo,"lilac; Syringa"
 root,Sirio,Syria
@@ -4165,6 +4289,7 @@ root,skui,"to agitate; shake; shock; toss"
 root,skulpti,"to carve; sculpt"
 root,skurĝo,"scourge; whip; lash"
 root,skvamo,"scale (of fish)"
+root,slavona,"Slavonic"
 root,sledo,"sled; sleigh; toboggan"
 root,ŝlimo,"mire; mud; slime"
 root,slipo,"filing card; slip"
@@ -4196,6 +4321,7 @@ root,solecismo,solecism
 root,solena,"ceremonious; solemn"
 root,soleo,"sole (fish)"
 root,solidara,"interdependent; jointly responsible; standing together"
+root,solida,"solid, sturdy, or robust"
 root,solisto,soloist
 root,solventa,solvent
 root,solvi,"to dissolve; reduce; solve; ressolve"
@@ -4207,6 +4333,7 @@ root,soneto,sonnet
 root,sonĝi,"to dream"
 root,soni,"to boom; sound"
 root,sonoro,"clang; peal; ringing"
+root,sonregistraĵo,"audio recording"
 root,sopiri,"to ache; long for; yearn"
 root,soprano,soprano
 root,sorbi,"to absorb (a liquid); sip"
@@ -4290,6 +4417,7 @@ root,stato,"condition; state; situation; station (of life); status"
 root,ŝtato,state
 root,statuo,statue
 root,staturo,stature
+root,statuso,"status or standing"
 root,statuto,"by-laws; statute; regulations"
 root,stearino,stearin
 root,stebi,"to quilt; stitch; sew"
@@ -4335,6 +4463,7 @@ root,strofo,"couplet; stanza; strophe; verse"
 root,strukturo,"structure; format; layout"
 root,ŝtrumpo,stocking
 root,struto,ostrich
+root,studado,"studying or the pursuit of study"
 root,studento,"student (university)"
 root,studi,"to study"
 root,stuki,"to plaster; stucco"
@@ -4351,6 +4480,8 @@ root,subjekto,"subject (grammar); topic"
 root,sublimato,"corrosive sublimate; mercuric chloride; sublimate"
 root,substanco,"matter; stuff; substance"
 root,substantivo,"noun; substantive"
+root,subteni,"to support or sustain"
+root,subteno,"support"
 root,subtila,subtle
 root,subtrahi,"to subtract"
 root,subvencio,"grant; subsidy"
@@ -4386,6 +4517,7 @@ root,surda,deaf
 root,surfaco,surface
 root,surprizi,"to surprise"
 root,surtuto,"coat; overcoat; overall"
+root,Susana,"Susanna"
 root,suspekti,"to mistrust; suspect"
 root,susuri,"to rustle; swish"
 root,sutano,"cassock; soutane"
@@ -4409,6 +4541,7 @@ root,tafto,taffeta
 root,tago,day
 root,tajli,"to carve; cut; polish; sculpt"
 root,tajloro,tailor
+root,tajperaro,"typo or typing error"
 root,tajpi,"to type (on keyboard)"
 root,taksio,"taxi; taxicab"
 root,taksi,"to appraise; estimate; rate; assess; tax; value; evaluate"
@@ -4429,6 +4562,7 @@ root,tandemo,"tandem bicycle"
 root,tanino,tannin
 root,tani,"to tan"
 root,tanko,"tank (mil.)"
+root,tantiemo,"royalty payment or royalty"
 root,tapeto,"tapestry; wall covering; wallpaper"
 root,tapioko,tapioca
 root,tapiro,tapir
@@ -4440,6 +4574,7 @@ root,taso,cup
 root,tatui,"to tattoo"
 root,taŭga,"fitting; suitable"
 root,tavolo,"layer; stratum"
+root,teamo,"team"
 root,teatro,theater
 root,tedi,"to bore; tire"
 root,tegi,"to coat; cover; overlay"
@@ -4522,6 +4657,7 @@ root,tirano,tyrant
 root,tiri,"to drag; draw; haul; pull; tug; tow"
 root,titano,titanium
 root,titolo,"heading; title; caption; degree; designation; style"
+root,Tobit,Tobit
 root,toleri,"to endure; put up with; tolerate; suffer; bear; stand"
 root,tolo,"cloth; linen; sheeting"
 root,tomato,tomato
@@ -4550,6 +4686,7 @@ root,torturi,"to agonize; torture"
 root,tosto,"toast (speech during drink)"
 root,trabo,"beam; girder; joist; bar; tray"
 root,tradicio,tradition
+root,tradukado,"translating or the process of translation"
 root,traduki,"to interpret; translate; compile"
 root,trafiko,traffic
 root,trafi,"to attain; catch; encounter; find; hit; run across; score; strike"
@@ -4568,6 +4705,7 @@ root,trankvila,"calm; tranquil; serene; still; quiet; peaceful"
 root,transe,"on the other side"
 root,transistoro,transistor
 root,transito,transit
+root,transsendi,"to transmit, forward, or send across"
 root,trefo,"club (cards)"
 root,trejni,"to coach; train"
 root,tremi,"to quiver; shiver; tremble; shake; tremble"
@@ -4599,6 +4737,7 @@ root,trono,throne
 root,tropiko,tropics
 root,troti,"to trot"
 root,trotuaro,"footpath; pavement; sidewalk"
+root,troviĝi,"to be found or to be located"
 root,trovi,"to find"
 root,trudi,"to assert; coerce; force; impose; thrust"
 root,trufo,truffle
@@ -4668,11 +4807,14 @@ root,urogalo,capercaillie
 root,urso,"bear (animal)"
 root,urtiko,nettle
 root,Urugvajo,Uruguay
+root,uskleco,"letter casing (distinction between uppercase and lowercase)"
 root,Usono,"United States of America; USA"
 root,utero,"uterus; womb"
 root,utila,"advantageous; useful"
+root,utiligi,"to utilize or make use of"
 root,utopio,utopia
 root,uverturo,"overture (music)"
+root,uzado,"usage or use"
 root,uzanto,user
 root,uzi,"to employ; use; make use of"
 root,uzuro,usury
@@ -4705,6 +4847,7 @@ root,varbi,"to enlist; enroll; recruit"
 root,varianto,"different form; variable; variant"
 root,varii,"to vary"
 root,variolo,"smallpox; variola"
+root,varmarko,"trademark"
 root,varma,"warm; hot"
 root,varo,"commodity; ware; good(s); merchandise"
 root,Varsovio,Warsaw
@@ -4824,15 +4967,18 @@ root,vokalo,vowel
 root,voki,"to call; summon"
 root,voli,"to be willing to; want; wish; will"
 root,volonta,"voluntary; willing"
+root,volontulo,"volunteer"
 root,volumeno,volume
 root,volumo,"tome; volume"
 root,volupto,"lust; sexual pleasure"
 root,volvi,"to roll; roll up; wind; wind up; wrap"
 root,vomi,"to throw up; vomit"
+root,vortformo,"word form"
 root,vorto,word
 root,vosto,tail
 root,vualo,veil
 root,vulgara,"coarse; common; vulgar; underbred; rude; everyday; proletarian"
+root,Vulgato,"Vulgate"
 root,vulkano,volcano
 root,vulpo,fox
 root,vulturo,vulture
