@@ -457,6 +457,7 @@ root,aparato,"apparatus; device; set; appliance; machine; system"
 root,aparta,"aloof; apart; distinct; distinctive; own; particular; separate; special"
 root,apartamento,"apartment; flat"
 root,aparteni,"to belong to"
+root,apartigi,"to separate, to set apart"
 root,apatio,"apathy; nonchalance"
 root,apelacii,"to appeal"
 root,apendico,"appendix (of a book or anatomical)"
@@ -1241,10 +1242,12 @@ root,elektro,electricity
 root,elektroniko,electronics
 root,elemento,"element; entry; item"
 root,elfo,elf
+root,eligi,"to bring forth, emit, produce"
 root,eliksiro,elixir
 root,elipso,ellipse
 root,Elizabeto,Elizabeth
 root,elizii,"to elide"
+root,elkreskigi,"to cause to grow, to bring forth"
 root,elokventa,"eloquent; fluent; rhetorical"
 root,elspezo,"expense or expenditure"
 root,elŝutebla,"downloadable"
@@ -1311,6 +1314,7 @@ root,esperi,"to hope"
 root,esplori,"to examine; explore; investigate; prospect; research; study; survey; browse (for file)"
 root,esprimi,"to express; state"
 root,establi,"to erect; establish"
+root,estaĵo,"being, creature"
 root,Ester,Esther
 root,estetiko,aesthetics
 root,estimi,"to esteem; think well of; have esteem for; respect; regard"
@@ -1392,6 +1396,7 @@ root,fantazio,"fantasy; imagination"
 root,fantomo,"ghost; phantom; specter; spirit"
 root,farbo,"dye; paint"
 root,farĉo,"mincemeat; stuffing"
+root,fariĝi,"to become"
 root,faringo,"pharynx; gullet"
 root,fari,"to achieve; act; do; make; perform; build"
 root,farmacio,"pharmaceutics; pharmacy (science)"
@@ -1470,6 +1475,7 @@ root,financo,finance
 root,fingro,"finger; digit"
 root,fini,"to end; finish; terminate; close; conclude"
 root,firma,"fast; firm; stable; staunch; unshaken"
+root,firmaĵo,"firmament, solid structure"
 root,fisko,"exchequer; state treasury"
 root,fiŝo,fish
 root,fistulo,fistula
@@ -1497,6 +1503,7 @@ root,floko,"flake; flock; wisp"
 root,floreno,"floren; florin"
 root,floro,"bloom; flower"
 root,floso,raft
+root,flugilhava,"winged, having wings"
 root,flugi,"to flee; fly"
 root,fluido,"fluid; liquid"
 root,flui,"to flow; run; stream"
@@ -1575,6 +1582,7 @@ root,frosto,"freezing cold; frost"
 root,froti,"to grate; rub; stroke"
 root,frua,early
 root,frugilego,rook
+root,fruktarbo,"fruit tree"
 root,frukto,fruit
 root,frunto,"brow; forehead"
 root,frustri,"to frustrate"
@@ -2323,6 +2331,8 @@ root,kokso,"haunch; hip"
 root,kolbaso,"sausage; salami"
 root,kolegio,"college; trade school"
 root,kolego,"associate; classmate; coworker; colleague; companion; comrade; schoolmate"
+root,kolektiĝi,"to gather, assemble (intransitive)"
+root,kolektiĝo,"gathering, assembly, collection"
 root,kolektiva,"collective; joint"
 root,kolekto,"collection; gathering"
 root,koleri,"to be angry"
@@ -2558,6 +2568,7 @@ root,kreno,horseradish
 root,kreozoto,creosote
 root,krepo,crepe
 root,krepusko,"dawn; dusk; twilight"
+root,kreskaĵo,"plant, vegetation"
 root,kreski,"to accrue; grow; increase; ascend"
 root,kresto,"(cock’s) comb; (mountain) ridge; crest"
 root,krestomatio,chrestomathy
@@ -2833,6 +2844,7 @@ root,lukti,"to struggle; wrestle"
 root,luli,"to cradle; rock; sooth; lull"
 root,lumbo,"haunch; loin; small of the back; loin"
 root,lumbriko,earthworm
+root,lumilo,"light source, luminary, lamp"
 root,lumi,"to light; light up; shine"
 root,lunatiko,"lunatic; sleepwalker"
 root,lundo,Monday
@@ -2874,9 +2886,13 @@ root,malario,malaria
 root,malbono,"evil or badness"
 root,maleolo,"ankle; anklebone"
 root,malfacilaĵo,"difficulty, obstacle, or problem"
+root,malferma,"open"
+root,malgranda,"small, little"
 root,malica,"malevolent; malicious; mischievous; nasty; vicious; wanton; spiteful"
 root,malkaŝi,"to reveal, disclose, or uncover"
+root,mallumo,"darkness"
 root,malnova,"old (not new)"
+root,malplena,"empty, void"
 root,malsama,"different or dissimilar"
 root,malto,malt
 root,malutilo,"harm, detriment, or disadvantage"
@@ -2888,6 +2904,7 @@ root,Manase,Manasseh
 root,mandarino,"mandarin; tangerine"
 root,mandato,"mandate; order (postal, money)"
 root,mandolino,mandolin
+root,manĝaĵo,"food"
 root,mangano,manganese
 root,manĝi,"to eat; feed"
 root,mango,mango
@@ -3126,6 +3143,7 @@ root,moŝto,"(general title for persons of high rank)"
 root,mosto,"must; new wine; unfermented grape juice"
 root,motivo,"account; motive; reason; goal; purpose; incentive; motif; motivation; cause"
 root,motoro,"engine; motor"
+root,moviĝi,"to move (oneself), stir"
 root,movi,"to move; shift; stir; advance"
 root,mozaiko,"mosaic; mosaic work"
 root,mueli,"to grind; pulverize"
@@ -3135,6 +3153,7 @@ root,muko,"mucus; phlegm"
 root,muldi,"to cast; mold"
 root,mulo,mule
 root,multa,"a lot of; much; numerous"
+root,multiĝi,"to multiply, increase"
 root,multipliki,"to multiply"
 root,mumio,mummy
 root,municio,"munition; ammunition"
@@ -3618,6 +3637,7 @@ root,plejparte,"mostly, mainly, or for the most part"
 root,plekti,"to braid; plait; twine; wreathe"
 root,plena,"complete; full; integral; plenary; thorough; whole"
 root,plendi,"to complain; lament"
+root,plenigi,"to fill"
 root,pleonasmo,"pleonasm; redundancy"
 root,pleto,tray
 root,plezuro,"fun; pleasure"
@@ -4137,6 +4157,7 @@ root,segi,"to saw"
 root,segmento,"segment; slice"
 root,seĝo,"chair; seat"
 root,seka,"arid; dry"
+root,sekaĵo,"dry land, dry matter"
 root,sekalo,rye
 root,sekcio,"branch; chapter; section"
 root,sekci,"to cut; dissect; (perform an) autopsy; intersect"
@@ -4157,11 +4178,13 @@ root,ŝelo,"bark; husk; peel; shell; pod; rind; skin; wrapper"
 root,selo,saddle
 root,semaforo,"semaphore; signal"
 root,semajno,week
+root,semdona,"seed-bearing, seed-producing"
 root,seminario,seminar
 root,semo,seed
 root,senato,senate
 root,senco,"meaning; sense"
 root,sendi,"to forward; remit; send; transmit; submit"
+root,senforma,"formless, shapeless"
 root,ŝenoprazo,chive
 root,senpaga,"free of charge (at no cost)"
 root,senpage,"for free"
@@ -4219,6 +4242,7 @@ root,simbolo,"symbol; token; lexeme; badge"
 root,simetrio,symmetry
 root,simfonio,symphony
 root,simila,"alike; similar; like"
+root,simileco,"likeness, similarity"
 root,simio,"ape; monkey"
 root,ŝimi,"to get moldy"
 root,simpatio,sympathy
@@ -4478,6 +4502,7 @@ root,subita,"abrupt; sudden; instantaneous"
 root,subjektiva,subjective
 root,subjekto,"subject (grammar); topic"
 root,sublimato,"corrosive sublimate; mercuric chloride; sublimate"
+root,submeti,"to subject, subdue, submit"
 root,substanco,"matter; stuff; substance"
 root,substantivo,"noun; substantive"
 root,subteni,"to support or sustain"
@@ -4512,6 +4537,7 @@ root,superstiĉo,superstition
 root,suplemento,"adjunct; supplement"
 root,supo,soup
 root,supozi,"to assume; guess; presume; suppose; surmise"
+root,supraĵo,"surface"
 root,supro,"pinnacle; summit; surface; top; ridge; vertex"
 root,surda,deaf
 root,surfaco,surface
@@ -4940,6 +4966,7 @@ root,vipero,viper
 root,vipo,whip
 root,vipuro,"adder; viper"
 root,virga,"virgin; virginal"
+root,virino,"woman"
 root,viro,"man; male"
 root,virto,"morality; vice; virtue"
 root,virtuala,virtual
