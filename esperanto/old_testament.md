@@ -9381,7 +9381,7 @@ Tio okazis, ĉar la filoj de Israelo pekis kontraŭ Jave, ilia Dio, kiu elkonduk
 
 Ankaŭ Judio ne observis la ordonojn de Jave, ilia Dio, sed iris laŭ la statutoj de Israelo, kiujn ili faris. Jave forĵetis la tutan idaron de Israelo, afliktis ilin, kaj transdonis ilin en la manojn de rabistoj, ĝis li forĵetis ilin el antaŭ sia vizaĝo. Ĉar li disŝiris Israelon de la domo de Davido; kaj ili faris Jerobeamon, filon de Nebat, reĝo; kaj Jerobeam forpuŝis Israelon de sekvado al Jave kaj igis ilin peki per granda peko. La filoj de Israelo iris en ĉiuj pekoj de Jerobeam, kiujn li faris; ili ne deturniĝis de ili, ĝis Jave forigis Israelon el antaŭ sia vizaĝo, kiel li diris per ĉiuj siaj servantoj, la profetoj. Tiel Israelo estis forkondukita el sia propra lando en Asirion ĝis hodiaŭ.
 
-La reĝo de Asirio alportis homojn el Babel, el Kuta, el Avva, kaj el Ĥamat kaj Sefarvaim, kaj lokigis ilin en la urboj de Samario anstataŭ la filoj de Israelo; kaj ili ekposedis Samarion kaj loĝis en ĝiaj urboj. Kaj okazis, ĉe la komenco de ilia loĝado tie, ke ili ne timis Javen. Tial Jave sendis leonojn inter ilin, kiuj mortigis kelkajn el ili. Tial ili parolis al la reĝo de Asirio, dirante: “La nacioj, kiujn vi forkondukis kaj lokigis en la urboj de Samario, ne konas la leĝon de la dio de la lando. Tial li sendis leonojn inter ilin; kaj jen, ili mortigas ilin, ĉar ili ne konas la leĝon de la dio de la lando.”
+La reĝo de Asirio alportis homojn el Babilono, el Kuta, el Avva, kaj el Ĥamat kaj Sefarvaim, kaj lokigis ilin en la urboj de Samario anstataŭ la filoj de Israelo; kaj ili ekposedis Samarion kaj loĝis en ĝiaj urboj. Kaj okazis, ĉe la komenco de ilia loĝado tie, ke ili ne timis Javen. Tial Jave sendis leonojn inter ilin, kiuj mortigis kelkajn el ili. Tial ili parolis al la reĝo de Asirio, dirante: “La nacioj, kiujn vi forkondukis kaj lokigis en la urboj de Samario, ne konas la leĝon de la dio de la lando. Tial li sendis leonojn inter ilin; kaj jen, ili mortigas ilin, ĉar ili ne konas la leĝon de la dio de la lando.”
 
 Tiam la reĝo de Asirio ordonis, dirante: “Konduku tien unu el la pastroj, kiujn vi forkondukis de tie; kaj li iru kaj loĝu tie, kaj li instruu al ili la leĝon de la dio de la lando.”
 
@@ -9447,17 +9447,17 @@ Jesaja diris: “Jen estos por vi la signo de Jave, ke Jave faros la aferon, kiu
 
 La profeto Jesaja kriis al Jave; kaj li revenigis la ombron dek ŝtupojn malantaŭen, laŭ kiuj ĝi malsupreniris sur la sunhorloĝo de Aĥaz.
 
-En tiu tempo Berodaĥ-Baladan, filo de Baladan, reĝo de Babel, sendis leterojn kaj donacon al Ĥizkija, ĉar li aŭdis, ke Ĥizkija malsanis. Ĥizkija aŭskultis ilin, kaj montris al ili la tutan magazenon de siaj multekostaĵoj—la arĝenton, la oron, la aromaĵojn kaj la multekostan oleon, kaj la domon de siaj armiloj, kaj ĉion, kio troviĝis en liaj trezoroj. Nenio estis en lia domo, nek en lia tuta regno, kion Ĥizkija ne montris al ili.
+En tiu tempo Berodaĥ-Baladan, filo de Baladan, reĝo de Babilono, sendis leterojn kaj donacon al Ĥizkija, ĉar li aŭdis, ke Ĥizkija malsanis. Ĥizkija aŭskultis ilin, kaj montris al ili la tutan magazenon de siaj multekostaĵoj—la arĝenton, la oron, la aromaĵojn kaj la multekostan oleon, kaj la domon de siaj armiloj, kaj ĉion, kio troviĝis en liaj trezoroj. Nenio estis en lia domo, nek en lia tuta regno, kion Ĥizkija ne montris al ili.
 
 Tiam la profeto Jesaja venis al la reĝo Ĥizkija kaj diris al li: “Kion diris tiuj homoj? De kie ili venis al vi?”
 
-Ĥizkija diris: “Ili venis al mi el malproksima lando, el Babel.”
+Ĥizkija diris: “Ili venis al mi el malproksima lando, el Babilono.”
 
 Li diris: “Kion ili vidis en via domo?”
 
 Ĥizkija respondis: “Ili vidis ĉion, kio estas en mia domo. Nenio estas inter miaj trezoroj, kion mi ne montris al ili.”
 
-Jesaja diris al Ĥizkija: “Aŭdu la vorton de Jave. ‘Jen, venos tagoj, kiam ĉio, kio estas en via domo, kaj tio, kion viaj patroj amasigis ĝis ĉi tiu tago, estos forportata al Babel. Nenio restos,’ diras Jave. ‘Kaj oni forprenos kelkajn el viaj filoj, kiuj eliros el vi, kiujn vi naskigos; kaj ili estos eŭnukoj en la palaco de la reĝo de Babel.’”
+Jesaja diris al Ĥizkija: “Aŭdu la vorton de Jave. ‘Jen, venos tagoj, kiam ĉio, kio estas en via domo, kaj tio, kion viaj patroj amasigis ĝis ĉi tiu tago, estos forportata al Babilono. Nenio restos,’ diras Jave. ‘Kaj oni forprenos kelkajn el viaj filoj, kiuj eliros el vi, kiujn vi naskigos; kaj ili estos eŭnukoj en la palaco de la reĝo de Babilono.’”
 
 Tiam Ĥizkija diris al Jesaja: “Bona estas la vorto de Jave, kiun vi parolis.” Li diris plue: “Ĉu ne tiel, se paco kaj vero estos en miaj tagoj?”
 
@@ -9509,29 +9509,29 @@ Jehoahaz havis dudek tri jarojn, kiam li ekreĝis; kaj li reĝis tri monatojn en
 
 ### Ĉapitro 24
 
-En liaj tagoj Nebukadnecar, reĝo de Babel, supreniris, kaj Jehojakim fariĝis lia servanto dum tri jaroj. Poste li turnis sin kaj ribelis kontraŭ li. Jave sendis kontraŭ li bandojn de la Ĥaldeoj, bandojn de la Sirianoj, bandojn de la Moabidoj, kaj bandojn de la Amonidoj, kaj sendis ilin kontraŭ Judio por ĝin pereigi, laŭ la vorto de Jave, kiun li parolis per siaj servantoj, la profetoj. Vere laŭ la ordono de Jave tio venis sur Judion, por forigi ilin el lia vidpovo pro la pekoj de Manase, laŭ ĉio, kion li faris, kaj ankaŭ pro la senkulpa sango, kiun li verŝis; ĉar li plenigis Jerusalemon per senkulpa sango, kaj Jave ne volis pardoni. La ceteraj faroj de Jehojakim, kaj ĉio, kion li faris, ĉu ili ne estas skribitaj en la libro de la kronikoj de la reĝoj de Judio? Kaj Jehojakim ekdormis kun siaj patroj, kaj Jehojaĥin, lia filo, reĝis anstataŭ li.
+En liaj tagoj Nebukadnecar, reĝo de Babilono, supreniris, kaj Jehojakim fariĝis lia servanto dum tri jaroj. Poste li turnis sin kaj ribelis kontraŭ li. Jave sendis kontraŭ li bandojn de la Ĥaldeoj, bandojn de la Sirianoj, bandojn de la Moabidoj, kaj bandojn de la Amonidoj, kaj sendis ilin kontraŭ Judio por ĝin pereigi, laŭ la vorto de Jave, kiun li parolis per siaj servantoj, la profetoj. Vere laŭ la ordono de Jave tio venis sur Judion, por forigi ilin el lia vidpovo pro la pekoj de Manase, laŭ ĉio, kion li faris, kaj ankaŭ pro la senkulpa sango, kiun li verŝis; ĉar li plenigis Jerusalemon per senkulpa sango, kaj Jave ne volis pardoni. La ceteraj faroj de Jehojakim, kaj ĉio, kion li faris, ĉu ili ne estas skribitaj en la libro de la kronikoj de la reĝoj de Judio? Kaj Jehojakim ekdormis kun siaj patroj, kaj Jehojaĥin, lia filo, reĝis anstataŭ li.
 
-La reĝo de Egiptio ne eliris plu el sia lando; ĉar la reĝo de Babel prenis, de la torento de Egiptio ĝis la rivero Eŭfrato, ĉion, kio apartenis al la reĝo de Egiptio.
+La reĝo de Egiptio ne eliris plu el sia lando; ĉar la reĝo de Babilono prenis, de la torento de Egiptio ĝis la rivero Eŭfrato, ĉion, kio apartenis al la reĝo de Egiptio.
 
-Jehojaĥin havis dek ok jarojn, kiam li ekreĝis, kaj li reĝis en Jerusalemo tri monatojn. La nomo de lia patrino estis Neĥuŝta, filino de Elnatan el Jerusalemo. Li faris tion, kio estas malbona antaŭ la okuloj de Jave, laŭ ĉio, kion faris lia patro. En tiu tempo la servantoj de Nebukadnecar, reĝo de Babel, supreniris al Jerusalemo, kaj la urbo estis sieĝata. Nebukadnecar, reĝo de Babel, venis al la urbo, dum liaj servantoj sieĝis ĝin; kaj Jehojaĥin, la reĝo de Judio, eliris al la reĝo de Babel—li, lia patrino, liaj servantoj, liaj princoj, kaj liaj oficiroj; kaj la reĝo de Babel kaptis lin en la oka jaro de sia regado. Li elportis de tie ĉiujn trezorojn de la domo de Jave kaj la trezorojn de la reĝa domo, kaj dispecigis ĉiujn vazojn el oro, kiujn Salomono, reĝo de Israelo, faris en la templo de Jave, kiel Jave estis dirinta. Li forkondukis la tutan Jerusalemon, kaj ĉiujn princojn, kaj ĉiujn fortajn virojn, eĉ dek mil kaptitojn, kaj ĉiujn metiistojn kaj forĝistojn. Neniu restis krom la plej malriĉaj homoj de la lando. Li forkondukis Jehojaĥinon al Babel, kun la patrino de la reĝo, la edzinoj de la reĝo, liaj oficiroj, kaj la ĉefaj homoj de la lando. Li forkondukis ilin en kaptitecon el Jerusalemo al Babel. Ĉiuj viroj de forto, eĉ sep mil, kaj la metiistoj kaj la forĝistoj mil, ĉiuj fortaj kaj taŭgaj por milito—ankaŭ ilin la reĝo de Babel forkondukis kaptite al Babel. La reĝo de Babel faris Matanjan, la fraton de la patro de Jehojaĥin, reĝo anstataŭ li, kaj ŝanĝis lian nomon al Cidkija.
+Jehojaĥin havis dek ok jarojn, kiam li ekreĝis, kaj li reĝis en Jerusalemo tri monatojn. La nomo de lia patrino estis Neĥuŝta, filino de Elnatan el Jerusalemo. Li faris tion, kio estas malbona antaŭ la okuloj de Jave, laŭ ĉio, kion faris lia patro. En tiu tempo la servantoj de Nebukadnecar, reĝo de Babilono, supreniris al Jerusalemo, kaj la urbo estis sieĝata. Nebukadnecar, reĝo de Babilono, venis al la urbo, dum liaj servantoj sieĝis ĝin; kaj Jehojaĥin, la reĝo de Judio, eliris al la reĝo de Babilono—li, lia patrino, liaj servantoj, liaj princoj, kaj liaj oficiroj; kaj la reĝo de Babilono kaptis lin en la oka jaro de sia regado. Li elportis de tie ĉiujn trezorojn de la domo de Jave kaj la trezorojn de la reĝa domo, kaj dispecigis ĉiujn vazojn el oro, kiujn Salomono, reĝo de Israelo, faris en la templo de Jave, kiel Jave estis dirinta. Li forkondukis la tutan Jerusalemon, kaj ĉiujn princojn, kaj ĉiujn fortajn virojn, eĉ dek mil kaptitojn, kaj ĉiujn metiistojn kaj forĝistojn. Neniu restis krom la plej malriĉaj homoj de la lando. Li forkondukis Jehojaĥinon al Babilono, kun la patrino de la reĝo, la edzinoj de la reĝo, liaj oficiroj, kaj la ĉefaj homoj de la lando. Li forkondukis ilin en kaptitecon el Jerusalemo al Babilono. Ĉiuj viroj de forto, eĉ sep mil, kaj la metiistoj kaj la forĝistoj mil, ĉiuj fortaj kaj taŭgaj por milito—ankaŭ ilin la reĝo de Babilono forkondukis kaptite al Babilono. La reĝo de Babilono faris Matanjan, la fraton de la patro de Jehojaĥin, reĝo anstataŭ li, kaj ŝanĝis lian nomon al Cidkija.
 
 Cidkija havis dudek unu jarojn, kiam li ekreĝis, kaj li reĝis dek unu jarojn en Jerusalemo. La nomo de lia patrino estis Ĥamutal, filino de Jeremia el Libna. Li faris tion, kio estas malbona antaŭ la okuloj de Jave, laŭ ĉio, kion faris Jehojakim. Ĉar pro la kolero de Jave tio okazis en Jerusalemo kaj en Judio, ĝis li elĵetis ilin el sia ĉeesto.
 
-Tiam Cidkija ribelis kontraŭ la reĝo de Babel.
+Tiam Cidkija ribelis kontraŭ la reĝo de Babilono.
 
 ### Ĉapitro 25
 
-En la naŭa jaro de lia regado, en la deka monato, en la deka tago de la monato, venis Nebukadnecar, reĝo de Babel, li kaj lia tuta armeo, kontraŭ Jerusalemon, kaj ili tendaris kontraŭ ĝi; kaj ili konstruis sieĝfortikaĵojn ĉirkaŭ ĝi. Tiel la urbo estis sieĝata ĝis la dek-unua jaro de la reĝo Cidkija. En la naŭa tago de la kvara monato la malsato estis severa en la urbo, tiel ke ne estis pano por la popolo de la lando. Tiam oni faris breĉon en la urbo, kaj ĉiuj militistoj fuĝis nokte laŭ la vojo de la pordego inter la du muroj, kiu estis apud la ĝardeno de la reĝo (dum la Ĥaldeoj estis ĉirkaŭ la urbo); kaj la reĝo iris laŭ la vojo de la Araba. Sed la ĥaldea armeo persekutis la reĝon kaj atingis lin en la ebenaĵoj de Jeriĥo; kaj lia tuta armeo disiĝis for de li. Tiam ili kaptis la reĝon kaj kondukis lin supren al la reĝo de Babel en Riblan; kaj ili eldiris juĝon kontraŭ li. Ili mortigis la filojn de Cidkija antaŭ liaj okuloj, poste elpikis la okulojn de Cidkija, katenis lin per ĉenoj, kaj forkondukis lin al Babel.
+En la naŭa jaro de lia regado, en la deka monato, en la deka tago de la monato, venis Nebukadnecar, reĝo de Babilono, li kaj lia tuta armeo, kontraŭ Jerusalemon, kaj ili tendaris kontraŭ ĝi; kaj ili konstruis sieĝfortikaĵojn ĉirkaŭ ĝi. Tiel la urbo estis sieĝata ĝis la dek-unua jaro de la reĝo Cidkija. En la naŭa tago de la kvara monato la malsato estis severa en la urbo, tiel ke ne estis pano por la popolo de la lando. Tiam oni faris breĉon en la urbo, kaj ĉiuj militistoj fuĝis nokte laŭ la vojo de la pordego inter la du muroj, kiu estis apud la ĝardeno de la reĝo (dum la Ĥaldeoj estis ĉirkaŭ la urbo); kaj la reĝo iris laŭ la vojo de la Araba. Sed la ĥaldea armeo persekutis la reĝon kaj atingis lin en la ebenaĵoj de Jeriĥo; kaj lia tuta armeo disiĝis for de li. Tiam ili kaptis la reĝon kaj kondukis lin supren al la reĝo de Babilono en Riblan; kaj ili eldiris juĝon kontraŭ li. Ili mortigis la filojn de Cidkija antaŭ liaj okuloj, poste elpikis la okulojn de Cidkija, katenis lin per ĉenoj, kaj forkondukis lin al Babilono.
 
-En la kvina monato, en la sepa tago de la monato, tio estas en la dek-naŭa jaro de la reĝo Nebukadnecar, reĝo de Babel, Nebuzaradan, la estro de la gardistaro, servanto de la reĝo de Babel, venis al Jerusalemo. Li forbruligis la domon de Jave, la domon de la reĝo, kaj ĉiujn domojn de Jerusalemo. Ĉiun grandan domon li forbruligis per fajro. La tuta armeo de la Ĥaldeoj, kiu estis kun la estro de la gardistaro, malkonstruis la murojn ĉirkaŭ Jerusalemo. Nebuzaradan, la estro de la gardistaro, forkondukis en kaptitecon la reston de la popolo, kiu restis en la urbo, kaj tiujn, kiuj transfuĝis al la reĝo de Babel—la tutan reston de la amaso. Sed la estro de la gardistaro lasis kelkajn el la plej malriĉaj de la lando por prilabori la vinberejojn kaj la kampojn.
+En la kvina monato, en la sepa tago de la monato, tio estas en la dek-naŭa jaro de la reĝo Nebukadnecar, reĝo de Babilono, Nebuzaradan, la estro de la gardistaro, servanto de la reĝo de Babilono, venis al Jerusalemo. Li forbruligis la domon de Jave, la domon de la reĝo, kaj ĉiujn domojn de Jerusalemo. Ĉiun grandan domon li forbruligis per fajro. La tuta armeo de la Ĥaldeoj, kiu estis kun la estro de la gardistaro, malkonstruis la murojn ĉirkaŭ Jerusalemo. Nebuzaradan, la estro de la gardistaro, forkondukis en kaptitecon la reston de la popolo, kiu restis en la urbo, kaj tiujn, kiuj transfuĝis al la reĝo de Babilono—la tutan reston de la amaso. Sed la estro de la gardistaro lasis kelkajn el la plej malriĉaj de la lando por prilabori la vinberejojn kaj la kampojn.
 
-La Ĥaldeoj disrompis la bronzajn kolonojn, kiuj estis en la domo de Jave, kaj la bazojn kaj la bronzan maron, kiuj estis en la domo de Jave, kaj forportis la bronzajn pecojn al Babel. Ili forprenis la potojn, la ŝovelilojn, la tondilojn, la kulerojn, kaj ĉiujn bronzajn vazojn, per kiuj oni servis. La estro de la gardistaro forprenis la fajrujojn, la pelvojn, tion, kio estis el oro, por oro, kaj tion, kio estis el arĝento, por arĝento. La du kolonoj, la unu maro, kaj la bazoj, kiujn Salomono faris por la domo de Jave—la bronzo de ĉiuj ĉi vazoj ne estis pesita. La alto de la unu kolono estis dek ok ulnoj, kaj sur ĝi estis bronza kapitelo. La alto de la kapitelo estis tri ulnoj, kun reto kaj granatoj sur la kapitelo ĉirkaŭe, ĉio el bronzo; kaj la dua kolono kun sia reto estis simila al ĉi tiuj.
+La Ĥaldeoj disrompis la bronzajn kolonojn, kiuj estis en la domo de Jave, kaj la bazojn kaj la bronzan maron, kiuj estis en la domo de Jave, kaj forportis la bronzajn pecojn al Babilono. Ili forprenis la potojn, la ŝovelilojn, la tondilojn, la kulerojn, kaj ĉiujn bronzajn vazojn, per kiuj oni servis. La estro de la gardistaro forprenis la fajrujojn, la pelvojn, tion, kio estis el oro, por oro, kaj tion, kio estis el arĝento, por arĝento. La du kolonoj, la unu maro, kaj la bazoj, kiujn Salomono faris por la domo de Jave—la bronzo de ĉiuj ĉi vazoj ne estis pesita. La alto de la unu kolono estis dek ok ulnoj, kaj sur ĝi estis bronza kapitelo. La alto de la kapitelo estis tri ulnoj, kun reto kaj granatoj sur la kapitelo ĉirkaŭe, ĉio el bronzo; kaj la dua kolono kun sia reto estis simila al ĉi tiuj.
 
-La estro de la gardistaro prenis Serajan, la ĉefpastro, Cefanjan, la duan pastron, kaj la tri sojlogardistojn; kaj el la urbo li prenis oficiron, kiu estis starigita super la militistoj; kaj kvin virojn el tiuj, kiuj vidis la vizaĝon de la reĝo, kiuj troviĝis en la urbo; kaj la skribiston, la estron de la armeo, kiu registris la popolon de la lando, kaj sesdek virojn el la popolo de la lando, kiuj troviĝis en la urbo. Nebuzaradan, la estro de la gardistaro, prenis ilin kaj kondukis ilin al la reĝo de Babel en Riblan. La reĝo de Babel frapis ilin kaj mortigis ilin en Ribla en la lando Ĥamat. Tiel Jehuda estis forkondukita en kaptitecon el sia lando.
+La estro de la gardistaro prenis Serajan, la ĉefpastro, Cefanjan, la duan pastron, kaj la tri sojlogardistojn; kaj el la urbo li prenis oficiron, kiu estis starigita super la militistoj; kaj kvin virojn el tiuj, kiuj vidis la vizaĝon de la reĝo, kiuj troviĝis en la urbo; kaj la skribiston, la estron de la armeo, kiu registris la popolon de la lando, kaj sesdek virojn el la popolo de la lando, kiuj troviĝis en la urbo. Nebuzaradan, la estro de la gardistaro, prenis ilin kaj kondukis ilin al la reĝo de Babilono en Riblan. La reĝo de Babilono frapis ilin kaj mortigis ilin en Ribla en la lando Ĥamat. Tiel Jehuda estis forkondukita en kaptitecon el sia lando.
 
-Pri la popolo, kiu restis en la lando de Jehuda, kiun Nebukadnecar, reĝo de Babel, lasis, super ili li starigis Gedaljan, filon de Aĥikam, filo de Ŝafan, kiel guberniestron. Kiam ĉiuj estroj de la trupoj, ili kaj iliaj viroj, aŭdis, ke la reĝo de Babel faris Gedaljan guberniestro, ili venis al Gedalja en Micpa: ankaŭ Iŝmael, filo de Netanja, Joĥanan, filo de Kareah, Seraja, filo de Tanĥumet, la Netofatano, kaj Jaazanja, filo de la Maakatano, ili kaj iliaj viroj. Gedalja ĵuris al ili kaj al iliaj viroj, kaj diris al ili: “Ne timu pro la servantoj de la Ĥaldeoj. Loĝu en la lando kaj servu la reĝon de Babel, kaj estos bone al vi.”
+Pri la popolo, kiu restis en la lando de Jehuda, kiun Nebukadnecar, reĝo de Babilono, lasis, super ili li starigis Gedaljan, filon de Aĥikam, filo de Ŝafan, kiel guberniestron. Kiam ĉiuj estroj de la trupoj, ili kaj iliaj viroj, aŭdis, ke la reĝo de Babilono faris Gedaljan guberniestro, ili venis al Gedalja en Micpa: ankaŭ Iŝmael, filo de Netanja, Joĥanan, filo de Kareah, Seraja, filo de Tanĥumet, la Netofatano, kaj Jaazanja, filo de la Maakatano, ili kaj iliaj viroj. Gedalja ĵuris al ili kaj al iliaj viroj, kaj diris al ili: “Ne timu pro la servantoj de la Ĥaldeoj. Loĝu en la lando kaj servu la reĝon de Babilono, kaj estos bone al vi.”
 
-Sed en la sepa monato venis Iŝmael, filo de Netanja, filo de Eliŝama, el la reĝa idaro, kaj dek viroj kun li, kaj ili frapis Gedaljan tiel, ke li mortis, kune kun la Judoj kaj la Ĥaldeoj, kiuj estis kun li en Micpa. La tuta popolo, kaj malgrandaj kaj grandaj, kaj la estroj de la trupoj leviĝis kaj venis al Egiptio; ĉar ili timis la Ĥaldeojn. En la tridek-sepa jaro de la kaptiteco de Jehojaĥin, reĝo de Jehuda, en la dek-dua monato, en la dudek-sepa tago de la monato, Evil-Merodaĥ, reĝo de Babel, en la jaro, kiam li komencis regi, liberigis Jehojaĥin, reĝon de Jehuda, el malliberejo; kaj li parolis afable al li kaj starigis lian tronon super la tronon de la reĝoj, kiuj estis kun li en Babel, kaj li ŝanĝis liajn malliberejajn vestojn. Jehojaĥin manĝis panon antaŭ li senĉese dum ĉiuj tagoj de sia vivo; kaj pri lia porcio, estis porcio senĉese donata al li de la reĝo, ĉiutage porcio, dum ĉiuj tagoj de lia vivo.
+Sed en la sepa monato venis Iŝmael, filo de Netanja, filo de Eliŝama, el la reĝa idaro, kaj dek viroj kun li, kaj ili frapis Gedaljan tiel, ke li mortis, kune kun la Judoj kaj la Ĥaldeoj, kiuj estis kun li en Micpa. La tuta popolo, kaj malgrandaj kaj grandaj, kaj la estroj de la trupoj leviĝis kaj venis al Egiptio; ĉar ili timis la Ĥaldeojn. En la tridek-sepa jaro de la kaptiteco de Jehojaĥin, reĝo de Jehuda, en la dek-dua monato, en la dudek-sepa tago de la monato, Evil-Merodaĥ, reĝo de Babilono, en la jaro, kiam li komencis regi, liberigis Jehojaĥin, reĝon de Jehuda, el malliberejo; kaj li parolis afable al li kaj starigis lian tronon super la tronon de la reĝoj, kiuj estis kun li en Babilono, kaj li ŝanĝis liajn malliberejajn vestojn. Jehojaĥin manĝis panon antaŭ li senĉese dum ĉiuj tagoj de sia vivo; kaj pri lia porcio, estis porcio senĉese donata al li de la reĝo, ĉiutage porcio, dum ĉiuj tagoj de lia vivo.
 
 ## 1 Kronikoj
 
@@ -9653,7 +9653,7 @@ La patro de Gibeon, kies edzino nomiĝis Maaka, loĝis en Gibeon kun sia unuenas
 
 ### Ĉapitro 9
 
-Tiel la tuta Israelo estis registrita laŭ genealogioj; kaj jen, ili estas skribitaj en la libro de la reĝoj de Israelo. Jehuda estis forkondukita en kaptitecon al Babel pro sia malobeo. Kaj la unuaj loĝantoj, kiuj loĝis en siaj posedaĵoj en siaj urboj, estis Israelo, la pastroj, la Levidoj, kaj la temploservantoj. En Jerusalem loĝis el la filoj de Jehuda, el la filoj de Benjamen, kaj el la filoj de Efraim kaj Manase: Utaj, filo de Amihud, filo de Omri, filo de Imri, filo de Bani, el la filoj de Perec, filo de Jehuda. El la Ŝilonidoj: Asaija, la unuenaskito, kaj liaj filoj. El la filoj de Zerah: Jeuel kaj iliaj fratoj, sescent naŭdek. El la filoj de Benjamen: Salu, filo de Meŝulam, filo de Hodavja, filo de Hasenua; kaj Ibneja, filo de Jeroham, kaj Ela, filo de Uzi, filo de Miĥri; kaj Meŝulam, filo de Ŝefatja, filo de Reuel, filo de Ibneja; kaj iliaj fratoj, laŭ siaj generacioj, naŭcent kvindek ses. Ĉiuj ĉi tiuj viroj estis ĉefoj de patrodomoj laŭ siaj patrodomoj.
+Tiel la tuta Israelo estis registrita laŭ genealogioj; kaj jen, ili estas skribitaj en la libro de la reĝoj de Israelo. Jehuda estis forkondukita en kaptitecon al Babilono pro sia malobeo. Kaj la unuaj loĝantoj, kiuj loĝis en siaj posedaĵoj en siaj urboj, estis Israelo, la pastroj, la Levidoj, kaj la temploservantoj. En Jerusalem loĝis el la filoj de Jehuda, el la filoj de Benjamen, kaj el la filoj de Efraim kaj Manase: Utaj, filo de Amihud, filo de Omri, filo de Imri, filo de Bani, el la filoj de Perec, filo de Jehuda. El la Ŝilonidoj: Asaija, la unuenaskito, kaj liaj filoj. El la filoj de Zerah: Jeuel kaj iliaj fratoj, sescent naŭdek. El la filoj de Benjamen: Salu, filo de Meŝulam, filo de Hodavja, filo de Hasenua; kaj Ibneja, filo de Jeroham, kaj Ela, filo de Uzi, filo de Miĥri; kaj Meŝulam, filo de Ŝefatja, filo de Reuel, filo de Ibneja; kaj iliaj fratoj, laŭ siaj generacioj, naŭcent kvindek ses. Ĉiuj ĉi tiuj viroj estis ĉefoj de patrodomoj laŭ siaj patrodomoj.
 
 El la pastroj: Jedaja, Jehojarib, Jaĥin, kaj Azarja, filo de Hilkija, filo de Meŝulam, filo de Cadok, filo de Merajot, filo de Aĥitub, la estro de la domo de Dio; kaj Adaja, filo de Jeroham, filo de Paŝĥur, filo de Malkija; kaj Maasaj, filo de Adiel, filo de Jahzera, filo de Meŝulam, filo de Meŝilemit, filo de Imer; kaj iliaj fratoj, ĉefoj de siaj patrodomoj, mil sepcent sesdek; ili estis tre kapablaj viroj por la laboro de la servo en la domo de Dio.
 
@@ -10595,7 +10595,7 @@ En tiuj tagoj Ĥizkija estis mortmalsana, kaj li preĝis al Jave; kaj Li parolis
 
 Ĥizkija havis tre grandajn riĉaĵojn kaj honoron. Li provizis al si trezorejojn por arĝento, por oro, por multekostaj ŝtonoj, por spicoj, por ŝildoj, kaj por ĉiaspecaj valoraj vazoj; ankaŭ grenejojn por la enspezo de greno, de nova vino kaj de oleo; kaj stalojn por ĉiaspecaj brutoj, kaj ŝafojn en faldoj. Plue li provizis al si urbojn, kaj posedaĵojn de ŝafaroj kaj brutaroj abunde; ĉar Dio donis al li abundajn posedaĵojn. Tiu sama Ĥizkija ankaŭ baris la supran fonton de la akvoj de Giĥon, kaj kondukis ilin rekte malsupren al la okcidenta flanko de la urbo de Davido. Ĥizkija prosperis en ĉiuj siaj faroj.
 
-Tamen, rilate al la senditoj de la princoj de Babel, kiuj sendis al li por demandi pri la mirindaĵo, kiu okazis en la lando, Dio lasis lin, por provi lin, por ke Li sciu ĉion, kio estis en lia koro.
+Tamen, rilate al la senditoj de la princoj de Babilono, kiuj sendis al li por demandi pri la mirindaĵo, kiu okazis en la lando, Dio lasis lin, por provi lin, por ke Li sciu ĉion, kio estis en lia koro.
 
 Kaj la ceteraj agoj de Ĥizkija kaj liaj bonfaroj, jen, ili estas skribitaj en la vizio de Jesaja, la profeto, filo de Amoc, en la libro de la reĝoj de Judio kaj Israelo. Ĥizkija ekdormis kun siaj patroj, kaj oni enterigis lin en la supreniro al la tomboj de la filoj de Davido. Kaj la tuta Judio kaj la loĝantoj de Jerusalemo honoris lin ĉe lia morto. Manase, lia filo, reĝis anstataŭ li.
 
@@ -10603,7 +10603,7 @@ Kaj la ceteraj agoj de Ĥizkija kaj liaj bonfaroj, jen, ili estas skribitaj en l
 
 Manase estis dekdujara, kiam li ekreĝis, kaj li reĝis kvindek kvin jarojn en Jerusalemo. Li faris tion, kio estis malbona antaŭ la okuloj de Jave, laŭ la abomenaĵoj de la nacioj, kiujn Jave forpelis antaŭ la Israelidoj. Ĉar li denove konstruis la altaĵojn, kiujn Ĥizkija, lia patro, detruis; li starigis altarojn por la Baaloj, faris Aŝerojn, kaj adoris la tutan armeon de la ĉielo kaj servis al ili. Li konstruis altarojn en la domo de Jave, pri kiu Jave diris: “Mia nomo estos en Jerusalemo por ĉiam.” Li konstruis altarojn por la tuta armeo de la ĉielo en la du kortoj de la domo de Jave. Li ankaŭ igis siajn infanojn trairi la fajron en la valo de la filo de Hinom. Li praktikadis sorĉadon, aŭguradon kaj magion, kaj rilatis kun spiritvokistoj kaj sorĉistoj. Li faris multe da malbono antaŭ la okuloj de Jave, por inciti lin al kolero. Li starigis la ĉizitan bildon de la idolo, kiun li faris, en la domo de Dio, pri kiu Dio diris al Davido kaj al Salomono, lia filo: “En ĉi tiu domo kaj en Jerusalemo, kiun mi elektis el ĉiuj triboj de Israelo, mi metos mian nomon por ĉiam. Kaj mi ne plu forigos la piedon de Israelo de sur la tero, kiun mi destinis al viaj patroj, se nur ili observos fari ĉion, kion mi ordonis al ili, nome la tutan leĝon, la preskribojn kaj la ordonojn donitajn per Moseo.” Manase delogis Judion kaj la loĝantojn de Jerusalemo, tiel ke ili faris pli da malbono ol la nacioj, kiujn Jave ekstermis antaŭ la Israelidoj.
 
-Jave parolis al Manase kaj al lia popolo, sed ili ne aŭskultis. Tial Jave venigis kontraŭ ili la militestrojn de la armeo de la reĝo de Asirio, kiuj kaptis Manasen per ĉenoj, ligis lin per katenoj, kaj forkondukis lin al Babel.
+Jave parolis al Manase kaj al lia popolo, sed ili ne aŭskultis. Tial Jave venigis kontraŭ ili la militestrojn de la armeo de la reĝo de Asirio, kiuj kaptis Manasen per ĉenoj, ligis lin per katenoj, kaj forkondukis lin al Babilono.
 
 Kiam li estis en mizero, li petegis Javen, sian Dion, kaj profunde humiliĝis antaŭ la Dio de siaj patroj. Li preĝis al li; kaj li estis favorigita de li, kaj li aŭdis lian petegon, kaj revenigis lin al Jerusalemo en lian regnon. Tiam Manase eksciis, ke Jave estas Dio.
 
@@ -10653,15 +10653,15 @@ Tiam liaj servantoj elprenis lin el la ĉaro, kaj metis lin en la duan ĉaron, k
 
 Tiam la popolo de la lando prenis Jehoahazon, filon de Joŝija, kaj faris lin reĝo anstataŭ lia patro en Jerusalemo. Jehoahaz havis dudek tri jarojn, kiam li ekreĝis; kaj li reĝis tri monatojn en Jerusalemo. La reĝo de Egiptio forigis lin el ofico en Jerusalemo, kaj monpunis la landon je cent talentoj da arĝento kaj je unu talento da oro. La reĝo de Egiptio faris lian fraton Eljakim reĝo super Judio kaj Jerusalemo, kaj ŝanĝis lian nomon al Jehojakim. Neko prenis lian fraton Jehoahazon kaj forkondukis lin al Egiptio.
 
-Jehojakim havis dudek kvin jarojn, kiam li ekreĝis; kaj li reĝis dek unu jarojn en Jerusalemo. Li faris tion, kio estis malbona antaŭ la okuloj de Jave, lia Dio. Nebukadnecar, reĝo de Babel, venis kontraŭ lin kaj ligis lin per katenoj, por forporti lin al Babel. Nebukadnecar ankaŭ forportis kelkajn el la vazoj de la domo de Jave al Babel, kaj metis ilin en sian templon en Babel. Kaj la ceteraj faroj de Jehojakim, kaj liaj abomenindaĵoj, kiujn li faris, kaj tio, kio troviĝis en li, jen ili estas skribitaj en la libro de la reĝoj de Israelo kaj Judio; kaj Jehojaĥin, lia filo, reĝis anstataŭ li.
+Jehojakim havis dudek kvin jarojn, kiam li ekreĝis; kaj li reĝis dek unu jarojn en Jerusalemo. Li faris tion, kio estis malbona antaŭ la okuloj de Jave, lia Dio. Nebukadnecar, reĝo de Babilono, venis kontraŭ lin kaj ligis lin per katenoj, por forporti lin al Babilono. Nebukadnecar ankaŭ forportis kelkajn el la vazoj de la domo de Jave al Babilono, kaj metis ilin en sian templon en Babilono. Kaj la ceteraj faroj de Jehojakim, kaj liaj abomenindaĵoj, kiujn li faris, kaj tio, kio troviĝis en li, jen ili estas skribitaj en la libro de la reĝoj de Israelo kaj Judio; kaj Jehojaĥin, lia filo, reĝis anstataŭ li.
 
-Jehojaĥin havis ok jarojn, kiam li ekreĝis; kaj li reĝis tri monatojn kaj dek tagojn en Jerusalemo. Li faris tion, kio estis malbona antaŭ la okuloj de Jave. Ĉe la reveno de la jaro reĝo Nebukadnecar sendis kaj venigis lin al Babel, kune kun la valoraj vazoj de la domo de Jave, kaj faris lian fraton Cidkija reĝo super Judio kaj Jerusalemo.
+Jehojaĥin havis ok jarojn, kiam li ekreĝis; kaj li reĝis tri monatojn kaj dek tagojn en Jerusalemo. Li faris tion, kio estis malbona antaŭ la okuloj de Jave. Ĉe la reveno de la jaro reĝo Nebukadnecar sendis kaj venigis lin al Babilono, kune kun la valoraj vazoj de la domo de Jave, kaj faris lian fraton Cidkija reĝo super Judio kaj Jerusalemo.
 
 Cidkija havis dudek unu jarojn, kiam li ekreĝis; kaj li reĝis dek unu jarojn en Jerusalemo. Li faris tion, kio estis malbona antaŭ la okuloj de Jave, lia Dio. Li ne humiliĝis antaŭ la profeto Jeremia, kiu parolis el la buŝo de Jave. Li ankaŭ ribelis kontraŭ reĝo Nebukadnecar, kiu devigis lin ĵuri per Dio; sed li obstinigis sian kolon kaj malmoligis sian koron kontraŭ la reveno al Jave, la Dio de Israelo. Krome ĉiuj ĉefoj de la pastroj kaj la popolo tre multe pekis, laŭ ĉiuj abomenindaĵoj de la nacioj; kaj ili malpurigis la domon de Jave, kiun Li sanktigis en Jerusalemo.
 
 Jave, la Dio de iliaj patroj, sendadis al ili per Siaj senditoj, frue leviĝante kaj sendante, ĉar Li kompatis Sian popolon kaj Sian loĝejon; sed ili mokis la senditojn de Dio, malestimis Liajn vortojn, kaj insultis Liajn profetojn, ĝis la kolero de Jave leviĝis kontraŭ Lia popolo, ĝis ne restis rimedo.
 
-Tial Li venigis kontraŭ ilin la reĝon de la Ĥaldeoj, kiu mortigis iliajn junulojn per glavo en la domo de ilia sanktejo, kaj ne kompatis junulon nek virgulinon, maljunulon nek senfortulon. Li donis ilin ĉiujn en lian manon. Ĉiuj vazoj de la domo de Dio, grandaj kaj malgrandaj, kaj la trezoroj de la domo de Jave, kaj la trezoroj de la reĝo kaj de liaj princoj — ĉion ĉi li alportis al Babel. Ili bruligis la domon de Dio, malkonstruis la muron de Jerusalemo, bruligis per fajro ĉiujn ĝiajn palacojn, kaj detruis ĉiujn ĝiajn valorajn vazojn. Li forkondukis al Babel tiujn, kiuj eskapis de la glavo, kaj ili fariĝis servantoj al li kaj al liaj filoj ĝis la regado de la regno de Persujo, por plenumi la vorton de Jave per la buŝo de Jeremia, ĝis la lando ĝuis siajn sabatojn. Dum ĝi kuŝis dezerta, ĝi sabatis, por plenumi sepdek jarojn.
+Tial Li venigis kontraŭ ilin la reĝon de la Ĥaldeoj, kiu mortigis iliajn junulojn per glavo en la domo de ilia sanktejo, kaj ne kompatis junulon nek virgulinon, maljunulon nek senfortulon. Li donis ilin ĉiujn en lian manon. Ĉiuj vazoj de la domo de Dio, grandaj kaj malgrandaj, kaj la trezoroj de la domo de Jave, kaj la trezoroj de la reĝo kaj de liaj princoj — ĉion ĉi li alportis al Babilono. Ili bruligis la domon de Dio, malkonstruis la muron de Jerusalemo, bruligis per fajro ĉiujn ĝiajn palacojn, kaj detruis ĉiujn ĝiajn valorajn vazojn. Li forkondukis al Babilono tiujn, kiuj eskapis de la glavo, kaj ili fariĝis servantoj al li kaj al liaj filoj ĝis la regado de la regno de Persujo, por plenumi la vorton de Jave per la buŝo de Jeremia, ĝis la lando ĝuis siajn sabatojn. Dum ĝi kuŝis dezerta, ĝi sabatis, por plenumi sepdek jarojn.
 
 Kaj en la unua jaro de Ciro, reĝo de Persujo, por ke plenumiĝu la vorto de Jave per la buŝo de Jeremia, Jave vekis la spiriton de Ciro, reĝo de Persujo, tiel ke li faris proklamon tra sia tuta regno, kaj ankaŭ metis ĝin skribe, dirante: “Ciro, reĝo de Persujo, diras: ‘Jave, la Dio de la ĉielo, donis al mi ĉiujn regnojn de la tero; kaj Li ordonis al mi konstrui al Li domon en Jerusalemo, kiu estas en Judio. Kiu ajn el vi estas inter lia tuta popolo, Jave, lia Dio, estu kun li, kaj li iru supren.’”
 
@@ -10675,11 +10675,11 @@ En la unua jaro de Ciro, reĝo de Persujo, por ke plenumiĝu la vorto de Jave pe
 
 “Ciro, reĝo de Persujo, diras: ‘Jave, la Dio de la ĉielo, donis al mi ĉiujn regnojn de la tero; kaj li ordonis al mi konstrui al li domon en Jerusalemo, kiu estas en Judio. Kiu ajn el vi estas el lia tuta popolo, lia Dio estu kun li, kaj li iru supren al Jerusalemo, kiu estas en Judio, kaj konstruu la domon de Jave, la Dio de Israelo (li estas Dio), kiu estas en Jerusalemo. Kaj kiu ajn restas, en iu ajn loko kie li loĝas, la viroj de lia loko helpu lin per arĝento, per oro, per havaĵoj kaj per bestoj, krom la libervola ofero por la domo de Dio, kiu estas en Jerusalemo.’”
 
-Tiam leviĝis la ĉefoj de la patrodomoj de Judio kaj Benjamen, la pastroj kaj la Levidoj, ĉiuj, kies spiriton Dio vekis por iri supren, por konstrui la domon de Jave, kiu estas en Jerusalemo. Kaj ĉiuj, kiuj estis ĉirkaŭ ili, fortigis iliajn manojn per vazoj el arĝento, per oro, per havaĵoj, per bestoj kaj per multekostaj aĵoj, krom ĉio, kio estis libervole oferita. Ankaŭ Ciro, la reĝo, elportigis la vazojn de la domo de Jave, kiujn Nebukadnecar elportigis el Jerusalemo kaj metis en la domon de siaj dioj; ankaŭ tiujn Ciro, reĝo de Persujo, elportigis per la mano de Mitredat, la kasisto, kaj li kalkulis ilin al Ŝeŝbacar, la princo de Judio. Jen ilia nombro: tridek oraj pladoj, mil arĝentaj pladoj, dudek naŭ tranĉiloj, tridek oraj bovloj, kvarcent dek arĝentaj bovloj de dua speco, kaj mil aliaj vazoj. Ĉiuj vazoj el oro kaj el arĝento estis kvin mil kvarcent. Ŝeŝbacar alportis ĉion ĉi supren, kiam la kaptitoj estis alportitaj supren el Babel al Jerusalemo.
+Tiam leviĝis la ĉefoj de la patrodomoj de Judio kaj Benjamen, la pastroj kaj la Levidoj, ĉiuj, kies spiriton Dio vekis por iri supren, por konstrui la domon de Jave, kiu estas en Jerusalemo. Kaj ĉiuj, kiuj estis ĉirkaŭ ili, fortigis iliajn manojn per vazoj el arĝento, per oro, per havaĵoj, per bestoj kaj per multekostaj aĵoj, krom ĉio, kio estis libervole oferita. Ankaŭ Ciro, la reĝo, elportigis la vazojn de la domo de Jave, kiujn Nebukadnecar elportigis el Jerusalemo kaj metis en la domon de siaj dioj; ankaŭ tiujn Ciro, reĝo de Persujo, elportigis per la mano de Mitredat, la kasisto, kaj li kalkulis ilin al Ŝeŝbacar, la princo de Judio. Jen ilia nombro: tridek oraj pladoj, mil arĝentaj pladoj, dudek naŭ tranĉiloj, tridek oraj bovloj, kvarcent dek arĝentaj bovloj de dua speco, kaj mil aliaj vazoj. Ĉiuj vazoj el oro kaj el arĝento estis kvin mil kvarcent. Ŝeŝbacar alportis ĉion ĉi supren, kiam la kaptitoj estis alportitaj supren el Babilono al Jerusalemo.
 
 ### Ĉapitro 2
 
-Jen estas la filoj de la provinco, kiuj eliris el la kaptiteco de tiuj, kiuj estis forkondukitaj, kiujn Nebukadnecar, la reĝo de Babel, forkondukis al Babel, kaj kiuj revenis al Jerusalem kaj al Judio, ĉiu al sia urbo; kiuj venis kun Zerubabel, Jeŝua, Neĥemja, Seraja, Reelaija, Mordekaj, Bilŝan, Mispar, Bigvaj, Reĥum kaj Baana.
+Jen estas la filoj de la provinco, kiuj eliris el la kaptiteco de tiuj, kiuj estis forkondukitaj, kiujn Nebukadnecar, la reĝo de Babilono, forkondukis al Babilono, kaj kiuj revenis al Jerusalem kaj al Judio, ĉiu al sia urbo; kiuj venis kun Zerubabel, Jeŝua, Neĥemja, Seraja, Reelaija, Mordekaj, Bilŝan, Mispar, Bigvaj, Reĥum kaj Baana.
 
 La nombro de la viroj el la popolo de Israelo: la filoj de Paroŝ, du mil cent sepdek du. La filoj de Ŝefatja, tricent sepdek du. La filoj de Araĥ, sepcent sepdek kvin. La filoj de Paĥat-Moab, el la filoj de Jeŝua kaj Joab, du mil okcent dek du. La filoj de Elam, mil ducent kvindek kvar. La filoj de Zatu, naŭcent kvardek kvin. La filoj de Zakaj, sepcent sesdek. La filoj de Bani, sescent kvardek du. La filoj de Bebaj, sescent dudek tri. La filoj de Azgad, mil ducent dudek du. La filoj de Adonikam, sescent sesdek ses. La filoj de Bigvaj, du mil kvindek ses. La filoj de Adin, kvarcent kvindek kvar. La filoj de Ater, de Ĥizkija, naŭdek ok. La filoj de Becaj, tricent dudek tri. La filoj de Jora, cent dek du. La filoj de Ĥaŝum, ducent dudek tri. La filoj de Gibbar, naŭdek kvin. La filoj de Bet-Leĥem, cent dudek tri. La viroj de Netofa, kvindek ses. La viroj de Anatot, cent dudek ok. La filoj de Azmavet, kvardek du. La filoj de Kirjat-Arim, Kefira kaj Beerot, sepcent kvardek tri. La filoj de Rama kaj Geba, sescent dudek unu. La viroj de Miĥmas, cent dudek du. La viroj de Bet-El kaj Aj, ducent dudek tri. La filoj de Nebo, kvindek du. La filoj de Magbiŝ, cent kvindek ses. La filoj de la alia Elam, mil ducent kvindek kvar. La filoj de Ĥarim, tricent dudek. La filoj de Lod, Ĥadid kaj Ono, sepcent dudek kvin. La filoj de Jeriĥo, tricent kvardek kvin. La filoj de Senaa, tri mil sescent tridek.
 
@@ -10743,15 +10743,15 @@ Jen la kopio de la letero, kiun Tatnai, la provincestro trans la Rivero, kaj Ŝe
 
 Al Dario, la reĝo, ĉia paco.
 
-Estu sciigite al la reĝo, ke ni iris en la provincon Judio, al la domo de la granda Dio, kiu estas konstruata per grandaj ŝtonoj, kaj ligno estas metata en la murojn. Ĉi tiu laboro iras antaŭen diligente kaj prosperas en iliaj manoj. Tiam ni demandis tiujn pliaĝulojn kaj diris al ili jene: “Kiu donis al vi dekreton konstrui ĉi tiun domon kaj fini ĉi tiun muron?” Ni demandis ankaŭ iliajn nomojn, por sciigi vin, por ke ni povu skribi la nomojn de la viroj, kiuj estis ĉe ilia kapo. Tiel ili respondis al ni, dirante: “Ni estas servantoj de la Dio de la ĉielo kaj de la tero, kaj ni konstruas la domon, kiu estis konstruita antaŭ multaj jaroj, kiun granda reĝo de Israelo konstruis kaj finis. Sed post kiam niaj patroj incitis la Dion de la ĉielo al kolero, li transdonis ilin en la manon de Nebukadnecar, reĝo de Babel, la Ĥaldeo, kiu detruis ĉi tiun domon kaj forkondukis la popolon en Babelon. Sed en la unua jaro de Ciro, reĝo de Babel, Ciro, la reĝo, faris dekreton konstrui ĉi tiun domon de Dio. Kaj la orajn kaj arĝentajn vazojn de la domo de Dio, kiujn Nebukadnecar elprenis el la templo, kiu estis en Jerusalemo, kaj alportis en la templon de Babel, tiujn ankaŭ Ciro, la reĝo, elprenis el la templo de Babel, kaj ili estis transdonitaj al iu, kies nomo estis Ŝeŝbacar, kiun li faris provincestro. Li diris al li: ‘Prenu ĉi tiujn vazojn, iru, metu ilin en la templon, kiu estas en Jerusalemo, kaj lasu la domon de Dio esti konstruita sur ĝia loko.’ Tiam tiu sama Ŝeŝbacar venis kaj metis la fundamentojn de la domo de Dio, kiu estas en Jerusalemo. De post tiu tempo ĝis nun ĝi estas konstruata, kaj tamen ĝi ne estas finita.
+Estu sciigite al la reĝo, ke ni iris en la provincon Judio, al la domo de la granda Dio, kiu estas konstruata per grandaj ŝtonoj, kaj ligno estas metata en la murojn. Ĉi tiu laboro iras antaŭen diligente kaj prosperas en iliaj manoj. Tiam ni demandis tiujn pliaĝulojn kaj diris al ili jene: “Kiu donis al vi dekreton konstrui ĉi tiun domon kaj fini ĉi tiun muron?” Ni demandis ankaŭ iliajn nomojn, por sciigi vin, por ke ni povu skribi la nomojn de la viroj, kiuj estis ĉe ilia kapo. Tiel ili respondis al ni, dirante: “Ni estas servantoj de la Dio de la ĉielo kaj de la tero, kaj ni konstruas la domon, kiu estis konstruita antaŭ multaj jaroj, kiun granda reĝo de Israelo konstruis kaj finis. Sed post kiam niaj patroj incitis la Dion de la ĉielo al kolero, li transdonis ilin en la manon de Nebukadnecar, reĝo de Babilono, la Ĥaldeo, kiu detruis ĉi tiun domon kaj forkondukis la popolon en Babilonon. Sed en la unua jaro de Ciro, reĝo de Babilono, Ciro, la reĝo, faris dekreton konstrui ĉi tiun domon de Dio. Kaj la orajn kaj arĝentajn vazojn de la domo de Dio, kiujn Nebukadnecar elprenis el la templo, kiu estis en Jerusalemo, kaj alportis en la templon de Babilono, tiujn ankaŭ Ciro, la reĝo, elprenis el la templo de Babilono, kaj ili estis transdonitaj al iu, kies nomo estis Ŝeŝbacar, kiun li faris provincestro. Li diris al li: ‘Prenu ĉi tiujn vazojn, iru, metu ilin en la templon, kiu estas en Jerusalemo, kaj lasu la domon de Dio esti konstruita sur ĝia loko.’ Tiam tiu sama Ŝeŝbacar venis kaj metis la fundamentojn de la domo de Dio, kiu estas en Jerusalemo. De post tiu tempo ĝis nun ĝi estas konstruata, kaj tamen ĝi ne estas finita.
 
-Nun do, se al la reĝo ŝajnas bone, oni faru serĉon en la reĝa trezorejo, kiu estas tie en Babel, ĉu vere estas tiel, ke dekreto estis farita de Ciro, la reĝo, por konstrui ĉi tiun domon de Dio en Jerusalemo; kaj la reĝo sendu al ni sian volon pri ĉi tiu afero.”
+Nun do, se al la reĝo ŝajnas bone, oni faru serĉon en la reĝa trezorejo, kiu estas tie en Babilono, ĉu vere estas tiel, ke dekreto estis farita de Ciro, la reĝo, por konstrui ĉi tiun domon de Dio en Jerusalemo; kaj la reĝo sendu al ni sian volon pri ĉi tiu afero.”
 
 ### Ĉapitro 6
 
-Tiam la reĝo Dario eldonis dekreton, kaj oni traserĉis la domon de la arkivoj, kie la trezoroj estis deponitaj en Babel. Kaj oni trovis volvlibron en Aĥmeta, en la palaco, kiu estas en la provinco Medujo, kaj en ĝi estis skribite por memoraĵo jene:
+Tiam la reĝo Dario eldonis dekreton, kaj oni traserĉis la domon de la arkivoj, kie la trezoroj estis deponitaj en Babilono. Kaj oni trovis volvlibron en Aĥmeta, en la palaco, kiu estas en la provinco Medujo, kaj en ĝi estis skribite por memoraĵo jene:
 
-En la unua jaro de Ciro la reĝo, Ciro la reĝo eldonis dekreton: Pri la domo de Dio en Jerusalem, la domo estu konstruita, la loko, kie oni oferu oferojn, kaj ĝiaj fundamentoj estu firme metitaj; ĝia alto estu sesdek ulnoj kaj ĝia larĝo sesdek ulnoj; kun tri vicoj da grandaj ŝtonoj kaj unu vico da nova ligno. La elspezoj estu pagataj el la reĝa domo. Ankaŭ la oraj kaj arĝentaj vazoj de la domo de Dio, kiujn Nebukadnecar elprenis el la templo, kiu estas en Jerusalem, kaj alportis en Babelon, estu redonitaj kaj denove alportitaj al la templo, kiu estas en Jerusalem, ĉiu al sia loko. Vi metu ilin en la domon de Dio.
+En la unua jaro de Ciro la reĝo, Ciro la reĝo eldonis dekreton: Pri la domo de Dio en Jerusalem, la domo estu konstruita, la loko, kie oni oferu oferojn, kaj ĝiaj fundamentoj estu firme metitaj; ĝia alto estu sesdek ulnoj kaj ĝia larĝo sesdek ulnoj; kun tri vicoj da grandaj ŝtonoj kaj unu vico da nova ligno. La elspezoj estu pagataj el la reĝa domo. Ankaŭ la oraj kaj arĝentaj vazoj de la domo de Dio, kiujn Nebukadnecar elprenis el la templo, kiu estas en Jerusalem, kaj alportis en Babilonon, estu redonitaj kaj denove alportitaj al la templo, kiu estas en Jerusalem, ĉiu al sia loko. Vi metu ilin en la domon de Dio.
 
 Nun do, Tatnai, guberniestro trans la Rivero, Ŝetar-Boznaj, kaj viaj kunuloj, la Afarsaĥidoj, kiuj estas trans la Rivero, restu malproksime de tie. Lasu la laboron de ĉi tiu domo de Dio; la guberniestro de la Judoj kaj la pliaĝuloj de la Judoj konstruu ĉi tiun domon de Dio sur ĝia loko. Plue mi eldonas dekreton pri tio, kion vi faru por ĉi tiuj pliaĝuloj de la Judoj por la konstruado de ĉi tiu domo de Dio: el la reĝaj havaĵoj, nome el la imposto trans la Rivero, la elspezoj estu donataj al ĉi tiuj homoj kun ĉia diligento, por ke ili ne estu malhelpataj. Kaj kion ajn ili bezonas, inkluzive junajn bovojn, virŝafojn kaj ŝafidojn, por bruloferoj al la Dio de la ĉielo; ankaŭ tritikon, salon, vinon kaj oleon, laŭ la vorto de la pastroj, kiuj estas en Jerusalem, oni donu al ili tagon post tago sen manko, por ke ili oferu oferojn de agrabla odoro al la Dio de la ĉielo, kaj preĝu por la vivo de la reĝo kaj de liaj filoj. Mi ankaŭ eldonis dekreton, ke se iu ŝanĝos ĉi tiun mesaĝon, trabo estu eltirita el lia domo, kaj li estu levita kaj alligita al ĝi; kaj lia domo estu pro tio farita sterkaĵejo. La Dio, kiu igis sian nomon loĝi tie, renversu ĉiujn reĝojn kaj popolojn, kiuj etendas sian manon por ŝanĝi ĉi tion, por detrui ĉi tiun domon de Dio, kiu estas en Jerusalem. Mi, Dario, eldonis dekreton. Ĝi estu plenumata kun ĉia diligento.
 
@@ -10765,7 +10765,7 @@ Kaj la filoj de la kaptiteco celebris la Paskon en la dek-kvara tago de la unua 
 
 ### Ĉapitro 7
 
-Post ĉi tiuj aferoj, dum la regado de Artakserkso, reĝo de Persujo, Ezra, filo de Seraja, filo de Azarja, filo de Ĥilkija, filo de Ŝalum, filo de Cadok, filo de Aĥitub, filo de Amarja, filo de Azarja, filo de Merajot, filo de Zeraĥja, filo de Uzi, filo de Bukki, filo de Abiŝua, filo de Pineĥas, filo de Eleazar, filo de Arono, la ĉefpastro — ĉi tiu Ezra supreniris el Babel. Li estis lerta skribisto en la leĝo de Moseo, kiun Jave, Dio de Israelo, donis; kaj la reĝo donis al li ĉion, kion li petis, laŭ la bona mano de Jave, lia Dio, super li. Kaj kelkaj el la Israelidoj, ankaŭ kelkaj el la pastroj, la Levidoj, la kantistoj, la pordogardistoj kaj la temploservantoj supreniris al Jerusalem en la sepa jaro de Artakserkso, la reĝo. Kaj li venis al Jerusalem en la kvina monato, kiu estis en la sepa jaro de la reĝo. Ĉar en la unua tago de la unua monato li komencis supreniri el Babel; kaj en la unua tago de la kvina monato li venis al Jerusalem, laŭ la bona mano de lia Dio super li. Ĉar Ezra direktis sian koron por serĉi la leĝon de Jave, kaj por plenumi ĝin, kaj por instrui en Israelo leĝojn kaj juĝordonojn.
+Post ĉi tiuj aferoj, dum la regado de Artakserkso, reĝo de Persujo, Ezra, filo de Seraja, filo de Azarja, filo de Ĥilkija, filo de Ŝalum, filo de Cadok, filo de Aĥitub, filo de Amarja, filo de Azarja, filo de Merajot, filo de Zeraĥja, filo de Uzi, filo de Bukki, filo de Abiŝua, filo de Pineĥas, filo de Eleazar, filo de Arono, la ĉefpastro — ĉi tiu Ezra supreniris el Babilono. Li estis lerta skribisto en la leĝo de Moseo, kiun Jave, Dio de Israelo, donis; kaj la reĝo donis al li ĉion, kion li petis, laŭ la bona mano de Jave, lia Dio, super li. Kaj kelkaj el la Israelidoj, ankaŭ kelkaj el la pastroj, la Levidoj, la kantistoj, la pordogardistoj kaj la temploservantoj supreniris al Jerusalem en la sepa jaro de Artakserkso, la reĝo. Kaj li venis al Jerusalem en la kvina monato, kiu estis en la sepa jaro de la reĝo. Ĉar en la unua tago de la unua monato li komencis supreniri el Babilono; kaj en la unua tago de la kvina monato li venis al Jerusalem, laŭ la bona mano de lia Dio super li. Ĉar Ezra direktis sian koron por serĉi la leĝon de Jave, kaj por plenumi ĝin, kaj por instrui en Israelo leĝojn kaj juĝordonojn.
 
 Jen estas la kopio de la letero, kiun reĝo Artakserkso donis al Ezra, la pastro, la skribisto, nome la skribisto de la vortoj de la ordonoj de Jave kaj de liaj leĝoj por Israelo:
 
@@ -10773,7 +10773,7 @@ Artakserkso, reĝo de reĝoj,
 
 Al Ezra, la pastro, la skribisto de la leĝo de la perfekta Dio de la ĉielo.
 
-Nun mi faras dekreton, ke ĉiuj el la popolo de Israelo kaj iliaj pastroj kaj la Levidoj en mia regno, kiuj laŭ propra libera volo intencas iri al Jerusalem, iru kun vi. Ĉar vi estas sendita de la reĝo kaj de liaj sep konsilistoj por esplori pri Judio kaj Jerusalem laŭ la leĝo de via Dio, kiu estas en via mano, kaj por porti la arĝenton kaj la oron, kiujn la reĝo kaj liaj konsilistoj libervole oferis al la Dio de Israelo, kies loĝejo estas en Jerusalem, kaj la tutan arĝenton kaj oron, kiujn vi trovos en la tuta provinco Babel, kune kun la libervolaj oferoj de la popolo kaj de la pastroj, kiuj libervole oferas por la domo de ilia Dio, kiu estas en Jerusalem. Tial vi aĉetu per ĉi tiu mono, kun ĉia diligento, bovojn, virŝafojn kaj ŝafidojn, kun iliaj farunoferoj kaj iliaj verŝoferoj, kaj oferu ilin sur la altaro de la domo de via Dio, kiu estas en Jerusalem. Kaj kion ajn vi kaj viaj fratoj opinios bona fari per la resto de la arĝento kaj la oro, tion faru laŭ la volo de via Dio. Kaj la vazojn, kiuj estas donitaj al vi por la servado de la domo de via Dio, transdonu antaŭ la Dio de Jerusalem. Kaj kion ajn plue bezonos la domo de via Dio, kion vi eble havos okazon doni, donu el la trezorejo de la reĝo.
+Nun mi faras dekreton, ke ĉiuj el la popolo de Israelo kaj iliaj pastroj kaj la Levidoj en mia regno, kiuj laŭ propra libera volo intencas iri al Jerusalem, iru kun vi. Ĉar vi estas sendita de la reĝo kaj de liaj sep konsilistoj por esplori pri Judio kaj Jerusalem laŭ la leĝo de via Dio, kiu estas en via mano, kaj por porti la arĝenton kaj la oron, kiujn la reĝo kaj liaj konsilistoj libervole oferis al la Dio de Israelo, kies loĝejo estas en Jerusalem, kaj la tutan arĝenton kaj oron, kiujn vi trovos en la tuta provinco Babilono, kune kun la libervolaj oferoj de la popolo kaj de la pastroj, kiuj libervole oferas por la domo de ilia Dio, kiu estas en Jerusalem. Tial vi aĉetu per ĉi tiu mono, kun ĉia diligento, bovojn, virŝafojn kaj ŝafidojn, kun iliaj farunoferoj kaj iliaj verŝoferoj, kaj oferu ilin sur la altaro de la domo de via Dio, kiu estas en Jerusalem. Kaj kion ajn vi kaj viaj fratoj opinios bona fari per la resto de la arĝento kaj la oro, tion faru laŭ la volo de via Dio. Kaj la vazojn, kiuj estas donitaj al vi por la servado de la domo de via Dio, transdonu antaŭ la Dio de Jerusalem. Kaj kion ajn plue bezonos la domo de via Dio, kion vi eble havos okazon doni, donu el la trezorejo de la reĝo.
 
 Mi, mi mem, Artakserkso, la reĝo, faras dekreton al ĉiuj kasistoj, kiuj estas trans la Rivero, ke ĉio, kion Ezra, la pastro, la skribisto de la leĝo de la Dio de la ĉielo, postulos de vi, estu farata kun ĉia diligento, ĝis cent talentoj da arĝento, kaj ĝis cent koroj da tritiko, kaj ĝis cent batoj da vino, kaj ĝis cent batoj da oleo, kaj salo sen fiksita kvanto. Ĉio, kio estas ordonata de la Dio de la ĉielo, estu farata ĝuste por la domo de la Dio de la ĉielo; ĉar kial estu kolero kontraŭ la regno de la reĝo kaj de liaj filoj?
 
@@ -10785,7 +10785,7 @@ Benata estu Jave, la Dio de niaj patroj, kiu enmetis tian aferon en la koron de 
 
 ### Ĉapitro 8
 
-Jen estas la ĉefoj de la patrodomoj, kaj jen la genealogio de tiuj, kiuj supreniris kun mi el Babel, dum la regado de Artakserkso, la reĝo:
+Jen estas la ĉefoj de la patrodomoj, kaj jen la genealogio de tiuj, kiuj supreniris kun mi el Babilono, dum la regado de Artakserkso, la reĝo:
 
 El la filoj de Pineĥas: Gerŝom.
 
@@ -11015,7 +11015,7 @@ La urbo estis vasta kaj granda; sed la popolo en ĝi estis malmultnombra, kaj la
 
 Mia Dio enmetis en mian koron kunvenigi la nobelojn kaj la estrojn kaj la popolon, por ke ili estu registritaj laŭ genealogio. Kaj mi trovis la libron de la genealogio de tiuj, kiuj supreniris la unuan fojon, kaj mi trovis skribite en ĝi:
 
-Jen estas la filoj de la provinco, kiuj supreniris el la kaptiteco de tiuj, kiuj estis forkondukitaj, kiujn Nebukadnecar, la reĝo de Babel, forkondukis, kaj kiuj revenis al Jerusalemo kaj al Judio, ĉiu al sia urbo; kiuj venis kun Zerubabel, Jeŝua, Neĥemja, Azarja, Raamja, Naĥamani, Mordekaj, Bilŝan, Misperet, Bigvaj, Neĥum kaj Baana.
+Jen estas la filoj de la provinco, kiuj supreniris el la kaptiteco de tiuj, kiuj estis forkondukitaj, kiujn Nebukadnecar, la reĝo de Babilono, forkondukis, kaj kiuj revenis al Jerusalemo kaj al Judio, ĉiu al sia urbo; kiuj venis kun Zerubabel, Jeŝua, Neĥemja, Azarja, Raamja, Naĥamani, Mordekaj, Bilŝan, Misperet, Bigvaj, Neĥum kaj Baana.
 
 La nombro de la viroj el la popolo de Israelo:
 
@@ -11203,7 +11203,7 @@ En tiu tago oni starigis virojn super la ĉambroj por la trezoroj, por la svingo
 
 En tiu tago oni legis el la libro de Moseo antaŭ la oreloj de la popolo; kaj oni trovis skribite en ĝi, ke Amonido kaj Moabido ne eniru en la kunvenon de Dio por ĉiam, ĉar ili ne renkontis la Israelidojn kun pano kaj kun akvo, sed dungis Bileamon kontraŭ ili, por malbeni ilin; tamen nia Dio turnis la malbenon en benon. Kaj kiam ili aŭdis la leĝon, ili apartigis de Israelo la tutan miksitan amason.
 
-Sed antaŭ tio, Eljaŝib, la pastro, kiu estis starigita super la ĉambroj de la domo de nia Dio, estante parenca al Tobija, pretigis por li grandan ĉambron, kie antaŭe oni metadis la farunoferojn, la olibanon, la vazojn, kaj la dekonojn de la greno, la nova vino, kaj la oleo, kiuj estis donataj laŭ ordono al la Levidoj, la kantistoj, kaj la pordogardistoj; kaj la svingoferojn por la pastroj. Sed dum ĉio ĉi, mi ne estis en Jerusalem; ĉar en la tridek-dua jaro de Artakserkses, reĝo de Babel, mi iris al la reĝo; kaj post kelkaj tagoj mi petis forpermeson de la reĝo, kaj mi venis al Jerusalem, kaj komprenis la malbonon, kiun Eljaŝib faris por Tobija, pretigante por li ĉambron en la kortoj de la domo de Dio. Tio tre afliktis min. Tial mi elĵetis el la ĉambro ĉiujn hejmaĵojn de Tobija. Poste mi ordonis, kaj oni purigis la ĉambrojn. Kaj mi denove enportis tien la vazojn de la domo de Dio, kun la farunoferoj kaj la olibano.
+Sed antaŭ tio, Eljaŝib, la pastro, kiu estis starigita super la ĉambroj de la domo de nia Dio, estante parenca al Tobija, pretigis por li grandan ĉambron, kie antaŭe oni metadis la farunoferojn, la olibanon, la vazojn, kaj la dekonojn de la greno, la nova vino, kaj la oleo, kiuj estis donataj laŭ ordono al la Levidoj, la kantistoj, kaj la pordogardistoj; kaj la svingoferojn por la pastroj. Sed dum ĉio ĉi, mi ne estis en Jerusalem; ĉar en la tridek-dua jaro de Artakserkses, reĝo de Babilono, mi iris al la reĝo; kaj post kelkaj tagoj mi petis forpermeson de la reĝo, kaj mi venis al Jerusalem, kaj komprenis la malbonon, kiun Eljaŝib faris por Tobija, pretigante por li ĉambron en la kortoj de la domo de Dio. Tio tre afliktis min. Tial mi elĵetis el la ĉambro ĉiujn hejmaĵojn de Tobija. Poste mi ordonis, kaj oni purigis la ĉambrojn. Kaj mi denove enportis tien la vazojn de la domo de Dio, kun la farunoferoj kaj la olibano.
 
 Mi rimarkis, ke la porcioj de la Levidoj ne estis donitaj al ili, tiel ke la Levidoj kaj la kantistoj, kiuj faris la laboron, ĉiu fuĝis al sia kampo. Tiam mi disputis kun la estroj, kaj diris: “Kial la domo de Dio estas forlasita?” Mi kunigis ilin, kaj starigis ilin en ilia loko. Tiam la tuta Judio alportis la dekonaĵon de la greno, la nova vino, kaj la oleo al la trezorejoj. Kaj mi starigis super la trezorejoj trezoristojn: Ŝelemja, la pastro, kaj Cadok, la skribisto, kaj el la Levidoj, Pedaija; kaj apud ili estis Ĥanan, filo de Zakur, filo de Matanja; ĉar oni rigardis ilin fidelaj, kaj ilia tasko estis disdoni al siaj fratoj.
 
@@ -11245,7 +11245,7 @@ Memukan respondis antaŭ la reĝo kaj la princoj: “La reĝino Vaŝti malbonfar
 
 Post tiuj aferoj, kiam la kolero de la reĝo Aĥaŝveroŝ kvietiĝis, li rememoris Vaŝti, kaj kion ŝi faris, kaj kio estis dekretita kontraŭ ŝi. Tiam la servantoj de la reĝo, kiuj servis al li, diris: “Oni serĉu por la reĝo belajn junajn virgulinojn. La reĝo starigu oficistojn en ĉiuj provincoj de sia regno, por ke ili kolektu ĉiujn belajn junajn virgulinojn en la citadelon de Suza, en la domon de la virinoj, sub la gardo de Hegaj, la eŭnuko de la reĝo, gardisto de la virinoj. Oni donu al ili kosmetikaĵojn; kaj la junulino, kiu plaĉos al la reĝo, estu reĝino anstataŭ Vaŝti.” La afero plaĉis al la reĝo, kaj li tiel faris.
 
-Estis iu Judo en la citadelo de Suza, kies nomo estis Mordekaj, filo de Jair, filo de Ŝimei, filo de Kiŝ, Benjamenido, kiu estis forkondukita el Jerusalemo kun la kaptitoj, kiuj estis forkondukitaj kun Jeĥonja, reĝo de Judio, kiun Nebukadnecar, la reĝo de Babel, forkondukis. Li edukis Hadasaon, tio estas Esteron, la filinon de la frato de lia patro; ĉar ŝi ne havis nek patron nek patrinon. La junulino estis bela kaj ĉarma; kaj kiam ŝiaj patro kaj patrino mortis, Mordekaj prenis ŝin kiel sian propran filinon.
+Estis iu Judo en la citadelo de Suza, kies nomo estis Mordekaj, filo de Jair, filo de Ŝimei, filo de Kiŝ, Benjamenido, kiu estis forkondukita el Jerusalemo kun la kaptitoj, kiuj estis forkondukitaj kun Jeĥonja, reĝo de Judio, kiun Nebukadnecar, la reĝo de Babilono, forkondukis. Li edukis Hadasaon, tio estas Esteron, la filinon de la frato de lia patro; ĉar ŝi ne havis nek patron nek patrinon. La junulino estis bela kaj ĉarma; kaj kiam ŝiaj patro kaj patrino mortis, Mordekaj prenis ŝin kiel sian propran filinon.
 
 Kiam do la ordono de la reĝo kaj lia dekreto estis aŭditaj, kaj kiam multaj junulinoj estis kolektitaj en la citadelon de Suza sub la gardo de Hegaj, Ester estis prenita en la domon de la reĝo, sub la gardo de Hegaj, gardisto de la virinoj. La junulino plaĉis al li, kaj ŝi akiris favoron ĉe li. Li rapide donis al ŝi kosmetikaĵojn kaj ŝiajn manĝoporciojn, kaj la sep elektitajn junulinojn, kiuj devis esti donitaj al ŝi el la domo de la reĝo. Li transloĝigis ŝin kaj ŝiajn junulinojn al la plej bona loko en la domo de la virinoj. Ester ne sciigis sian popolon nek siajn parencojn, ĉar Mordekaj ordonis al ŝi, ke ŝi ne sciigu. Mordekaj ĉiutage promenadis antaŭ la korto de la domo de la virinoj, por ekscii, kiel fartas Ester, kaj kio okazos al ŝi.
 
@@ -21436,7 +21436,7 @@ Gloraj aferoj estas parolataj pri vi, urbo de Dio.
 
 Sela.
 
-Mi registros Rahabon kaj Babelon inter tiuj, kiuj min agnoskas.
+Mi registros Rahabon kaj Babilonon inter tiuj, kiuj min agnoskas.
 
 Jen Filisteo, Tiro, kaj ankaŭ Etiopio:
 
@@ -24967,7 +24967,7 @@ Ho, dankon al la Dio de la ĉielo,
 
 #### Psalmo 137
 
-Ĉe la riveroj de Babel, tie ni sidis.
+Ĉe la riveroj de Babilono, tie ni sidis.
 
 Jes, ni ploris, kiam ni rememoris Cionon.
 
@@ -24997,7 +24997,7 @@ kiuj diris: “Detruu ĝin!
 
 Detruu ĝin eĉ ĝis ĝia fundamento!”
 
-Filino de Babel, kondamnita al pereo,
+Filino de Babilono, kondamnita al pereo,
 
 feliĉa estos tiu, kiu repagos al vi,
 
@@ -30887,25 +30887,25 @@ En tiu tago vi diros: “Mi dankos vin, ho Jave; ĉar kvankam vi koleris kontra�
 
 ### Ĉapitro 13
 
-La ŝarĝo pri Babel, kiun vidis Jesaja, filo de Amoc.
+La ŝarĝo pri Babilono, kiun vidis Jesaja, filo de Amoc.
 
 Starigu standardon sur la nuda monto! Levu vian voĉon al ili! Svingu vian manon, por ke ili eniru en la pordegojn de la nobeloj. Mi ordonis al miaj konsekritoj; jes, mi vokis miajn potenculojn por mia kolero, eĉ miajn fiere ĝojkriantajn. Bruo de amaso estas sur la montoj, kvazaŭ de granda popolo; bruo de tumulto de la regnoj de la nacioj kunvenintaj! Jave de la Armeoj kunvokas la militistaron por la batalo. Ili venas el fora lando, el la plej fora parto de la ĉielo, Jave mem, kaj la armiloj de lia indigno, por pereigi la tutan landon.
 
 Ĝemu, ĉar la tago de Jave estas proksima! Ĝi venos kiel pereigo de la Ĉiopova. Tial ĉiuj manoj senfortiĝos, kaj la koro de ĉiu homo degelos. Ili konsterniĝos. Doloroj kaj suferoj kaptos ilin. Ili tordiĝos kiel virino naskanta. Ili rigardos unu la alian mire. Iliaj vizaĝoj estos vizaĝoj de flamo. Jen, la tago de Jave venas, kruela, kun kolero kaj furioza indigno; por fari la landon dezerto, kaj por ekstermi el ĝi ĝiajn pekulojn. Ĉar la steloj de la ĉielo kaj ĝiaj konstelacioj ne donos sian lumon. La suno mallumiĝos ĉe sia subiro, kaj la luno ne igos sian lumon brili. Mi punos la mondon pro ĝia malbono, kaj la malpiulojn pro ilia maljusteco. Mi ĉesigos la arogantecon de la fieruloj, kaj mi humiligos la arogantecon de la teruruloj. Mi faros homojn pli maloftaj ol fajna oro, eĉ homon pli malofta ol la pura oro de Ofir. Tial mi igos la ĉielojn tremi, kaj la tero skuiĝos el sia loko pro la kolero de Jave de la Armeoj, en la tago de lia furioza indigno. Okazos, ke kiel ĉasata gazelo kaj kiel ŝafoj, kiujn neniu kolektas, ĉiu sin turnos al sia popolo, kaj ĉiu fuĝos al sia lando. Ĉiu, kiu estos trovita, estos trapikita. Ĉiu, kiu estos kaptita, falos de glavo. Ankaŭ iliaj infanoj estos frakasitaj antaŭ iliaj okuloj. Iliaj domoj estos prirabitaj, kaj iliaj edzinoj seksperfortitaj.
 
-Jen, mi ekscitos kontraŭ ili la Medojn, kiuj ne taksos arĝenton, kaj pri oro ili ne ĝuos ĝin. Iliaj pafarkoj frakasos la junulojn; kaj ili ne kompatos la frukton de la ventro. Iliaj okuloj ne indulgos infanojn. Babel, la gloro de regnoj, la beleco de la fiero de la Ĥaldeoj, estos kiel kiam Dio renversis Sodomon kaj Gomoran. Ĝi neniam estos loĝata, nek oni loĝos en ĝi de generacio al generacio. La arabo ne starigos tie tendon, nek paŝtistoj kuŝigos tie siajn brutarojn. Sed sovaĝaj bestoj de la dezerto kuŝos tie, kaj iliaj domoj estos plenaj de ŝakaloj. Strutoj loĝos tie, kaj sovaĝaj kaproj petolos tie. Hienoj krios en iliaj fortikaĵoj, kaj ŝakaloj en la agrablaj palacoj. Ŝia tempo estas proksima por veni, kaj ŝiaj tagoj ne estos plilongigitaj.
+Jen, mi ekscitos kontraŭ ili la Medojn, kiuj ne taksos arĝenton, kaj pri oro ili ne ĝuos ĝin. Iliaj pafarkoj frakasos la junulojn; kaj ili ne kompatos la frukton de la ventro. Iliaj okuloj ne indulgos infanojn. Babilono, la gloro de regnoj, la beleco de la fiero de la Ĥaldeoj, estos kiel kiam Dio renversis Sodomon kaj Gomoran. Ĝi neniam estos loĝata, nek oni loĝos en ĝi de generacio al generacio. La arabo ne starigos tie tendon, nek paŝtistoj kuŝigos tie siajn brutarojn. Sed sovaĝaj bestoj de la dezerto kuŝos tie, kaj iliaj domoj estos plenaj de ŝakaloj. Strutoj loĝos tie, kaj sovaĝaj kaproj petolos tie. Hienoj krios en iliaj fortikaĵoj, kaj ŝakaloj en la agrablaj palacoj. Ŝia tempo estas proksima por veni, kaj ŝiaj tagoj ne estos plilongigitaj.
 
 ### Ĉapitro 14
 
 Ĉar Jave kompatos Jakobon, kaj ankoraŭ elektos Israelon, kaj loĝigos ilin en ilia propra lando. La fremdulo aliĝos al ili, kaj ili unuiĝos kun la domo de Jakobo. La popoloj prenos ilin kaj kondukos ilin al ilia loko. La domo de Israelo posedos ilin en la lando de Jave kiel servistojn kaj servistinojn. Ili kaptos tiujn, kiuj kaptis ilin; kaj ili regos super siaj premantoj.
 
-Kaj okazos en la tago, kiam Jave donos al vi ripozon de via malĝojo, de via aflikto, kaj de la malmola servado, en kiu oni devigis vin servi, ke vi prenos ĉi tiun proverbon kontraŭ la reĝo de Babel kaj diros: “Kiel ĉesis la premanto! Ĉesis la ora urbo!” Jave rompis la bastonon de la malpiuloj, la sceptron de la regantoj, kiuj frapis la popolojn en kolero per senĉesa bato, kiuj regis la naciojn en kolero per persekutado, kiun neniu retenis. La tuta tero ripozas kaj estas kvieta. Ili ekkrias per kanto. Jes, la cipresoj ĝojas pro vi, kune kun la cedroj de Lebanon, dirante: “De kiam vi estas humiliĝinta, neniu lignohakisto supreniris kontraŭ ni.” Ŝeol el sube moviĝis pro vi, por renkonti vin ĉe via alveno. Ĝi vekas por vi la ombrojn, ĉiujn regantojn de la tero. Ĝi levis el iliaj tronoj ĉiujn reĝojn de la nacioj. Ili ĉiuj respondos kaj diros al vi: “Ĉu ankaŭ vi fariĝis tiel senforta kiel ni? Ĉu vi fariĝis kiel ni?” Via pompo estas malsuprenportita al Ŝeol, kun la sono de viaj kordaj instrumentoj. Larvoj estas sternitaj sub vi, kaj vermoj vin kovras.
+Kaj okazos en la tago, kiam Jave donos al vi ripozon de via malĝojo, de via aflikto, kaj de la malmola servado, en kiu oni devigis vin servi, ke vi prenos ĉi tiun proverbon kontraŭ la reĝo de Babilono kaj diros: “Kiel ĉesis la premanto! Ĉesis la ora urbo!” Jave rompis la bastonon de la malpiuloj, la sceptron de la regantoj, kiuj frapis la popolojn en kolero per senĉesa bato, kiuj regis la naciojn en kolero per persekutado, kiun neniu retenis. La tuta tero ripozas kaj estas kvieta. Ili ekkrias per kanto. Jes, la cipresoj ĝojas pro vi, kune kun la cedroj de Lebanon, dirante: “De kiam vi estas humiliĝinta, neniu lignohakisto supreniris kontraŭ ni.” Ŝeol el sube moviĝis pro vi, por renkonti vin ĉe via alveno. Ĝi vekas por vi la ombrojn, ĉiujn regantojn de la tero. Ĝi levis el iliaj tronoj ĉiujn reĝojn de la nacioj. Ili ĉiuj respondos kaj diros al vi: “Ĉu ankaŭ vi fariĝis tiel senforta kiel ni? Ĉu vi fariĝis kiel ni?” Via pompo estas malsuprenportita al Ŝeol, kun la sono de viaj kordaj instrumentoj. Larvoj estas sternitaj sub vi, kaj vermoj vin kovras.
 
 Kiel vi falis el la ĉielo, ho brila, filo de la matenruĝo! Kiel vi estas dehakita ĝis la tero, vi, kiu faligis la naciojn! Vi diris en via koro: “Mi supreniros en la ĉielon! Mi altigos mian tronon super la steloj de Dio! Mi sidos sur la monto de kunveno, en la fora nordo! Mi supreniros super la altaĵojn de la nuboj! Mi faros min simila al la Plejaltulo!” Tamen vi estos malsuprenportita al Ŝeol, al la profundoj de la fosaĵo. Tiuj, kiuj vin vidos, fikse rigardos vin. Ili pripensos vin, dirante: “Ĉu ĉi tiu estas la homo, kiu tremigis la teron, kiu skuadis regnojn, kiu faris la mondon kiel dezerto kaj renversis ĝiajn urbojn, kiu ne liberigis siajn kaptitojn al ilia hejmo?”
 
 Ĉiuj reĝoj de la nacioj dormas en gloro, ĉiu en sia propra domo. Sed vi estas forĵetita for de via tombo kiel abomena branĉo, vestita per la mortigitaj, kiuj estas trapikitaj per glavo, kiuj malsupreniras al la ŝtonoj de la fosaĵo; kiel kadavro tretita sub piedoj. Vi ne kuniĝos kun ili en enterigo, ĉar vi detruis vian landon. Vi mortigis vian popolon. La idaro de malbonfarantoj ne estos nomata por ĉiam.
 
-Pretigu buĉadon por liaj infanoj pro la maljusteco de iliaj patroj, por ke ili ne leviĝu kaj posedu la teron, kaj plenigu la surfacon de la mondo per urboj. “Mi leviĝos kontraŭ ili,” diras Jave Cebaot, “kaj eltranĉos el Babel nomon kaj restaĵon, kaj filon kaj nepon,” diras Jave. “Mi ankaŭ faros ĝin posedaĵo por la histriko, kaj akvajn lagetojn. Mi balairos ĝin per la balailo de detruo,” diras Jave Cebaot.
+Pretigu buĉadon por liaj infanoj pro la maljusteco de iliaj patroj, por ke ili ne leviĝu kaj posedu la teron, kaj plenigu la surfacon de la mondo per urboj. “Mi leviĝos kontraŭ ili,” diras Jave Cebaot, “kaj eltranĉos el Babilono nomon kaj restaĵon, kaj filon kaj nepon,” diras Jave. “Mi ankaŭ faros ĝin posedaĵo por la histriko, kaj akvajn lagetojn. Mi balairos ĝin per la balailo de detruo,” diras Jave Cebaot.
 
 Jave Cebaot ĵuris, dirante: “Certe, kiel mi pensis, tiel okazos; kaj kiel mi intencis, tiel staros: ke mi rompos la Asirianon en mia lando, kaj tretos lin sub piedoj sur miaj montoj. Tiam lia jugo foriros de ili, kaj lia ŝarĝo foriros de iliaj ŝultroj. Ĉi tio estas la plano, decidita por la tuta tero. Ĉi tio estas la mano, etendita super ĉiuj nacioj. Ĉar Jave Cebaot planis, kaj kiu povas ĝin malhelpi? Lia mano estas etendita, kaj kiu povas ĝin returni?”
 
@@ -30971,7 +30971,7 @@ En la jaro, kiam Tartano venis al Aŝdod, kiam Sargon, la reĝo de Asirio, sendi
 
 La ŝarĝo de la dezerto de la maro.
 
-Kiel ventegoj en la sudo balaas, tiel ĝi venas el la dezerto, el timinda lando. Peza vizio estas anoncita al mi. La perfidulo perfidas, kaj la detruanto detruas. Supreniru, Elam; ataku! Mi ĉesigis ĉiun ĝemadon de Medujo. Tial miaj femuroj pleniĝis de angoro. Doloroj kaptis min, kiel la doloroj de virino naskanta. Mi tiel suferas, ke mi ne povas aŭdi. Mi tiel konsterniĝis, ke mi ne povas vidi. Mia koro tremas. Teruro min timigis. La krepusko, kiun mi deziris, fariĝis por mi tremado. Ili pretigas la tablon. Ili starigas la gardon. Ili manĝas. Ili trinkas. Leviĝu, vi princoj, ŝmiru la ŝildon! Ĉar la Sinjoro diris al mi: “Iru, starigu gardiston. Li deklaru, kion li vidas. Kiam li vidos taĉmenton, rajdantojn duope, taĉmenton da azenoj, taĉmenton da kameloj, li atente aŭskultu kun granda atentemo.” Li kriis kiel leono: “Sinjoro, mi staras senĉese sur la gardoturo dum la tago, kaj ĉiun nokton mi restas ĉe mia posteno. Jen venas taĉmento da homoj, rajdantoj duope.” Li respondis: “Falinta, falinta estas Babel; kaj ĉiuj skulptitaj bildoj de ĝiaj dioj estas frakasitaj sur la teron.
+Kiel ventegoj en la sudo balaas, tiel ĝi venas el la dezerto, el timinda lando. Peza vizio estas anoncita al mi. La perfidulo perfidas, kaj la detruanto detruas. Supreniru, Elam; ataku! Mi ĉesigis ĉiun ĝemadon de Medujo. Tial miaj femuroj pleniĝis de angoro. Doloroj kaptis min, kiel la doloroj de virino naskanta. Mi tiel suferas, ke mi ne povas aŭdi. Mi tiel konsterniĝis, ke mi ne povas vidi. Mia koro tremas. Teruro min timigis. La krepusko, kiun mi deziris, fariĝis por mi tremado. Ili pretigas la tablon. Ili starigas la gardon. Ili manĝas. Ili trinkas. Leviĝu, vi princoj, ŝmiru la ŝildon! Ĉar la Sinjoro diris al mi: “Iru, starigu gardiston. Li deklaru, kion li vidas. Kiam li vidos taĉmenton, rajdantojn duope, taĉmenton da azenoj, taĉmenton da kameloj, li atente aŭskultu kun granda atentemo.” Li kriis kiel leono: “Sinjoro, mi staras senĉese sur la gardoturo dum la tago, kaj ĉiun nokton mi restas ĉe mia posteno. Jen venas taĉmento da homoj, rajdantoj duope.” Li respondis: “Falinta, falinta estas Babilono; kaj ĉiuj skulptitaj bildoj de ĝiaj dioj estas frakasitaj sur la teron.
 
 Vi estas mia draŝado kaj la greno de mia draŝejo!” Tion, kion mi aŭdis de Jave de la armeoj, la Dio de Israelo, mi deklaris al vi.
 
@@ -31770,15 +31770,15 @@ Kaj Jesaja estis dirinta: “Oni prenu kukon el figoj kaj metu ĝin kiel katapla
 
 ### Ĉapitro 39
 
-En tiu tempo Merodaĥ-Baladan, filo de Baladan, reĝo de Babel, sendis leterojn kaj donacon al Ĥizkija, ĉar li aŭdis, ke li malsanis kaj resaniĝis. Ĥizkija ĝojis pri ili, kaj montris al ili la domon de siaj altvaloraj aĵoj: la arĝenton, la oron, la spicojn kaj la altvaloran oleon, kaj la tutan domon de sia armilaro, kaj ĉion, kio troviĝis en liaj trezoroj. Estis nenio en lia domo, nek en la tuta lia regno, kion Ĥizkija ne montris al ili. Tiam la profeto Jesaja venis al la reĝo Ĥizkija kaj demandis lin: “Kion diris tiuj viroj? De kie ili venis al vi?”
+En tiu tempo Merodaĥ-Baladan, filo de Baladan, reĝo de Babilono, sendis leterojn kaj donacon al Ĥizkija, ĉar li aŭdis, ke li malsanis kaj resaniĝis. Ĥizkija ĝojis pri ili, kaj montris al ili la domon de siaj altvaloraj aĵoj: la arĝenton, la oron, la spicojn kaj la altvaloran oleon, kaj la tutan domon de sia armilaro, kaj ĉion, kio troviĝis en liaj trezoroj. Estis nenio en lia domo, nek en la tuta lia regno, kion Ĥizkija ne montris al ili. Tiam la profeto Jesaja venis al la reĝo Ĥizkija kaj demandis lin: “Kion diris tiuj viroj? De kie ili venis al vi?”
 
-Ĥizkija diris: “Ili venis al mi el lando malproksima, el Babel.”
+Ĥizkija diris: “Ili venis al mi el lando malproksima, el Babilono.”
 
 Tiam li demandis: “Kion ili vidis en via domo?”
 
 Ĥizkija respondis: “Ili vidis ĉion, kio estas en mia domo. Estas nenio inter miaj trezoroj, kion mi ne montris al ili.”
 
-Tiam Jesaja diris al Ĥizkija: “Aŭdu la vorton de Jave Cebaot: ‘Jen venas tagoj, kiam ĉio, kio estas en via domo, kaj tio, kion viaj patroj amasigis ĝis hodiaŭ, estos forportata al Babel. Nenio restos,’ diras Jave. ‘Kaj oni forprenos viajn filojn, kiuj eliros el vi, kiujn vi naskigos, kaj ili estos eŭnukoj en la palaco de la reĝo de Babel.’”
+Tiam Jesaja diris al Ĥizkija: “Aŭdu la vorton de Jave Cebaot: ‘Jen venas tagoj, kiam ĉio, kio estas en via domo, kaj tio, kion viaj patroj amasigis ĝis hodiaŭ, estos forportata al Babilono. Nenio restos,’ diras Jave. ‘Kaj oni forprenos viajn filojn, kiuj eliros el vi, kiujn vi naskigos, kaj ili estos eŭnukoj en la palaco de la reĝo de Babilono.’”
 
 Tiam Ĥizkija diris al Jesaja: “Bona estas la vorto de Jave, kiun vi parolis.” Li diris plue: “Ĉar estos paco kaj vero en miaj tagoj.”
 
@@ -32443,7 +32443,7 @@ Neniu povas savi el Mia mano.
 Mi agos, kaj kiu tion malhelpos?”
 
 Tiel diras Jave, via Elaĉetanto, la Sanktulo de Israelo:  
-“Pro vi Mi sendis al Babel, kaj Mi faligos ilin ĉiujn kiel fuĝantojn, eĉ la Ĥaldeojn, en la ŝipoj de ilia ĝojo. Mi estas Jave, via Sanktulo, la Kreinto de Israelo, via Reĝo.”
+“Pro vi Mi sendis al Babilono, kaj Mi faligos ilin ĉiujn kiel fuĝantojn, eĉ la Ĥaldeojn, en la ŝipoj de ilia ĝojo. Mi estas Jave, via Sanktulo, la Kreinto de Israelo, via Reĝo.”
 
 Jave, kiu faras vojon en la maro,  
 kaj irejon en la fortaj akvoj,  
@@ -32949,7 +32949,7 @@ mian gloron al Israelo.”
 
 ### Ĉapitro 47
 
-“Malsupreniru kaj sidiĝu en la polvo, virga filino de Babel.
+“Malsupreniru kaj sidiĝu en la polvo, virga filino de Babilono.
 
 Sidiĝu sur la tero sen trono, filino de la Ĥaldeoj.
 
@@ -33175,7 +33175,7 @@ Kiam mi vokas ilin, ili stariĝas kune.
 
 Kiu inter ili anoncis ĉi tiujn aferojn?
 
-Tiu, kiun Jave amas, faros kion li volas al Babel,
+Tiu, kiun Jave amas, faros kion li volas al Babilono,
 
 kaj lia brako estos kontraŭ la Ĥaldeoj.
 
@@ -33221,7 +33221,7 @@ kaj la idoj de via korpo kiel ĝiaj grajnoj.
 
 Lia nomo ne estus eltranĉita nek detruita antaŭ mi.”
 
-Eliru el Babel!
+Eliru el Babilono!
 
 Forkuru de la Ĥaldeoj!
 
@@ -36692,7 +36692,7 @@ Tiam Jeremia venis el Tofet, kien Jave lin sendis por profeti, kaj li staris en 
 
 ### Ĉapitro 20
 
-Nun Paŝĥur, filo de Imer, la pastro, kiu estis ĉefa oficisto en la domo de Jave, aŭdis Jeremian profeti ĉi tiujn aferojn. Tiam Paŝĥur batis la profeton Jeremia kaj metis lin en la ŝtipon, kiu estis ĉe la supra pordego de Benjamen, kiu estis en la domo de Jave. La sekvan tagon Paŝĥur liberigis Jeremian el la ŝtipo. Tiam Jeremia diris al li: “Jave ne nomis vian nomon Paŝĥur, sed Magor-Misabib. Ĉar tiel diras Jave: ‘Jen, mi faros vin teruro por vi mem kaj por ĉiuj viaj amikoj. Ili falos per la glavo de siaj malamikoj, kaj viaj okuloj tion vidos. Mi transdonos la tutan Judion en la manon de la reĝo de Babel, kaj li forkondukos ilin kaptite al Babel kaj mortigos ilin per la glavo. Plue mi transdonos ĉiujn riĉaĵojn de ĉi tiu urbo, kaj ĉiujn ĝiajn akirojn, kaj ĉiujn ĝiajn multekostaĵojn; jes, mi transdonos ĉiujn trezorojn de la reĝoj de Judio en la manon de iliaj malamikoj. Ili kaptos ilin, prenos ilin, kaj forportos ilin al Babel. Vi, Paŝĥur, kaj ĉiuj loĝantoj de via domo iros en kaptitecon. Vi venos al Babel, kaj tie vi mortos, kaj tie vi estos enterigita, vi kaj ĉiuj viaj amikoj, al kiuj vi profetis malvere.’”
+Nun Paŝĥur, filo de Imer, la pastro, kiu estis ĉefa oficisto en la domo de Jave, aŭdis Jeremian profeti ĉi tiujn aferojn. Tiam Paŝĥur batis la profeton Jeremia kaj metis lin en la ŝtipon, kiu estis ĉe la supra pordego de Benjamen, kiu estis en la domo de Jave. La sekvan tagon Paŝĥur liberigis Jeremian el la ŝtipo. Tiam Jeremia diris al li: “Jave ne nomis vian nomon Paŝĥur, sed Magor-Misabib. Ĉar tiel diras Jave: ‘Jen, mi faros vin teruro por vi mem kaj por ĉiuj viaj amikoj. Ili falos per la glavo de siaj malamikoj, kaj viaj okuloj tion vidos. Mi transdonos la tutan Judion en la manon de la reĝo de Babilono, kaj li forkondukos ilin kaptite al Babilono kaj mortigos ilin per la glavo. Plue mi transdonos ĉiujn riĉaĵojn de ĉi tiu urbo, kaj ĉiujn ĝiajn akirojn, kaj ĉiujn ĝiajn multekostaĵojn; jes, mi transdonos ĉiujn trezorojn de la reĝoj de Judio en la manon de iliaj malamikoj. Ili kaptos ilin, prenos ilin, kaj forportos ilin al Babilono. Vi, Paŝĥur, kaj ĉiuj loĝantoj de via domo iros en kaptitecon. Vi venos al Babilono, kaj tie vi mortos, kaj tie vi estos enterigita, vi kaj ĉiuj viaj amikoj, al kiuj vi profetis malvere.’”
 
 Jave, vi allogis min, kaj mi lasis min allogi.
 
@@ -36790,11 +36790,11 @@ ke miaj tagoj konsumiĝu en honto?
 
 ### Ĉapitro 21
 
-La vorto, kiu venis al Jeremia de Jave, kiam la reĝo Cidkija sendis al li Paŝĥuron, filon de Malkija, kaj Cefanjaon, filon de Maaseja, la pastron, dirante: “Bonvolu demandi Javen por ni; ĉar Nebukadnecar, reĝo de Babel, militas kontraŭ ni. Eble Jave agos kun ni laŭ ĉiuj siaj mirindaj faroj, por ke li retiriĝu de ni.”
+La vorto, kiu venis al Jeremia de Jave, kiam la reĝo Cidkija sendis al li Paŝĥuron, filon de Malkija, kaj Cefanjaon, filon de Maaseja, la pastron, dirante: “Bonvolu demandi Javen por ni; ĉar Nebukadnecar, reĝo de Babilono, militas kontraŭ ni. Eble Jave agos kun ni laŭ ĉiuj siaj mirindaj faroj, por ke li retiriĝu de ni.”
 
-Tiam Jeremia diris al ili: “Diru al Cidkija: ‘Tiele diras Jave, la Dio de Israelo: “Jen, mi returnos la militarmilojn, kiuj estas en viaj manoj, per kiuj vi batalas kontraŭ la reĝo de Babel kaj kontraŭ la Ĥaldeoj, kiuj sieĝas vin ekster la muroj; kaj mi kolektos ilin en la mezon de ĉi tiu urbo. Mi mem batalos kontraŭ vi per etendita mano kaj per forta brako, en kolero, en furiozo, kaj en granda indigno. Mi frapos la loĝantojn de ĉi tiu urbo, kaj homon kaj beston; ili mortos pro granda pesto. Poste,” diras Jave, “mi transdonos Cidkijan, reĝon de Judio, liajn servantojn, kaj la popolon, eĉ tiujn, kiuj restos en ĉi tiu urbo post la pesto, post la glavo, kaj post la malsato, en la manon de Nebukadnecar, reĝo de Babel, kaj en la manon de iliaj malamikoj, kaj en la manon de tiuj, kiuj serĉas ilian vivon. Li frapos ilin per la tranĉo de la glavo. Li ne indulgos ilin, ne kompatos, kaj ne kompatemos.” ’
+Tiam Jeremia diris al ili: “Diru al Cidkija: ‘Tiele diras Jave, la Dio de Israelo: “Jen, mi returnos la militarmilojn, kiuj estas en viaj manoj, per kiuj vi batalas kontraŭ la reĝo de Babilono kaj kontraŭ la Ĥaldeoj, kiuj sieĝas vin ekster la muroj; kaj mi kolektos ilin en la mezon de ĉi tiu urbo. Mi mem batalos kontraŭ vi per etendita mano kaj per forta brako, en kolero, en furiozo, kaj en granda indigno. Mi frapos la loĝantojn de ĉi tiu urbo, kaj homon kaj beston; ili mortos pro granda pesto. Poste,” diras Jave, “mi transdonos Cidkijan, reĝon de Judio, liajn servantojn, kaj la popolon, eĉ tiujn, kiuj restos en ĉi tiu urbo post la pesto, post la glavo, kaj post la malsato, en la manon de Nebukadnecar, reĝo de Babilono, kaj en la manon de iliaj malamikoj, kaj en la manon de tiuj, kiuj serĉas ilian vivon. Li frapos ilin per la tranĉo de la glavo. Li ne indulgos ilin, ne kompatos, kaj ne kompatemos.” ’
 
-“Vi diros al ĉi tiu popolo: ‘Tiele diras Jave: “Jen, mi metas antaŭ vin la vojon de vivo kaj la vojon de morto. Kiu restas en ĉi tiu urbo, tiu mortos per la glavo, per la malsato, kaj per la pesto; sed kiu eliros kaj transiros al la Ĥaldeoj, kiuj sieĝas vin, tiu vivos, kaj li savos sian vivon. Ĉar mi direktis mian vizaĝon kontraŭ ĉi tiu urbo por malbono, kaj ne por bono,” diras Jave. “Ĝi estos transdonita en la manon de la reĝo de Babel, kaj li forbruligos ĝin per fajro.” ’
+“Vi diros al ĉi tiu popolo: ‘Tiele diras Jave: “Jen, mi metas antaŭ vin la vojon de vivo kaj la vojon de morto. Kiu restas en ĉi tiu urbo, tiu mortos per la glavo, per la malsato, kaj per la pesto; sed kiu eliros kaj transiros al la Ĥaldeoj, kiuj sieĝas vin, tiu vivos, kaj li savos sian vivon. Ĉar mi direktis mian vizaĝon kontraŭ ĉi tiu urbo por malbono, kaj ne por bono,” diras Jave. “Ĝi estos transdonita en la manon de la reĝo de Babilono, kaj li forbruligos ĝin per fajro.” ’
 
 “Pri la domo de la reĝo de Judio, aŭdu la vorton de Jave: Ho domo de Davido, tiele diras Jave:
 
@@ -36942,7 +36942,7 @@ kiel kompatinda vi estos, kiam venos doloroj sur vin,
 
 la doloro kiel de virino naskanta!
 
-“Per mia vivo,” diras Jave, “kvankam Konja, filo de Jehojakim, reĝo de Judio, estus la sigelringo sur mia dekstra mano, mi tamen elŝirus vin de tie. Mi transdonus vin en la manon de tiuj, kiuj serĉas vian vivon, kaj en la manon de tiuj, kiujn vi timas, eĉ en la manon de Nebukadnecar, reĝo de Babel, kaj en la manon de la Ĥaldeoj. Mi elĵetos vin kun via patrino, kiu naskis vin, en alian landon, kie vi ne naskiĝis; kaj tie vi mortos. Sed al la lando, al kiu ilia animo sopiras reveni, tien ili ne revenos.”
+“Per mia vivo,” diras Jave, “kvankam Konja, filo de Jehojakim, reĝo de Judio, estus la sigelringo sur mia dekstra mano, mi tamen elŝirus vin de tie. Mi transdonus vin en la manon de tiuj, kiuj serĉas vian vivon, kaj en la manon de tiuj, kiujn vi timas, eĉ en la manon de Nebukadnecar, reĝo de Babilono, kaj en la manon de la Ĥaldeoj. Mi elĵetos vin kun via patrino, kiu naskis vin, en alian landon, kie vi ne naskiĝis; kaj tie vi mortos. Sed al la lando, al kiu ilia animo sopiras reveni, tien ili ne revenos.”
 
 Ĉu ĉi tiu homo Konja estas malestimata rompita vazo?
 
@@ -37120,7 +37120,7 @@ ke Mi lin ne vidu?” diras Jave.
 
 ### Ĉapitro 24
 
-Jave montris al mi, kaj jen du korboj da figoj estis metitaj antaŭ la templo de Jave, post kiam Nebukadnecar, reĝo de Babel, forkondukis en kaptitecon Jeĥonjan, filon de Jehojakim, reĝon de Judio, kaj la princojn de Judio, kune kun la metiistoj kaj forĝistoj, el Jerusalemo, kaj venigis ilin en Babelon. Unu korbo havis tre bonajn figojn, kiel la figoj unueripaj; kaj la alia korbo havis tre malbonajn figojn, kiuj ne povis esti manĝataj, tiel malbonaj ili estis.
+Jave montris al mi, kaj jen du korboj da figoj estis metitaj antaŭ la templo de Jave, post kiam Nebukadnecar, reĝo de Babilono, forkondukis en kaptitecon Jeĥonjan, filon de Jehojakim, reĝon de Judio, kaj la princojn de Judio, kune kun la metiistoj kaj forĝistoj, el Jerusalemo, kaj venigis ilin en Babilonon. Unu korbo havis tre bonajn figojn, kiel la figoj unueripaj; kaj la alia korbo havis tre malbonajn figojn, kiuj ne povis esti manĝataj, tiel malbonaj ili estis.
 
 Tiam Jave demandis min: “Kion vi vidas, Jeremia?”
 
@@ -37132,15 +37132,15 @@ La vorto de Jave venis al mi, dirante: “Tiele diras Jave, Dio de Israelo: ‘K
 
 ### Ĉapitro 25
 
-La vorto, kiu venis al Jeremia pri la tuta popolo de Judio, en la kvara jaro de Jehojakim, filo de Joŝija, reĝo de Judio (tio estis la unua jaro de Nebukadnecar, reĝo de Babel), kiun Jeremia, la profeto, parolis al la tuta popolo de Judio kaj al ĉiuj loĝantoj de Jerusalemo: De la dektria jaro de Joŝija, filo de Amon, reĝo de Judio, ĝis hodiaŭ, dum ĉi tiuj dudek tri jaroj, la vorto de Jave venis al mi, kaj mi parolis al vi, frue leviĝante kaj parolante; sed vi ne aŭskultis.
+La vorto, kiu venis al Jeremia pri la tuta popolo de Judio, en la kvara jaro de Jehojakim, filo de Joŝija, reĝo de Judio (tio estis la unua jaro de Nebukadnecar, reĝo de Babilono), kiun Jeremia, la profeto, parolis al la tuta popolo de Judio kaj al ĉiuj loĝantoj de Jerusalemo: De la dektria jaro de Joŝija, filo de Amon, reĝo de Judio, ĝis hodiaŭ, dum ĉi tiuj dudek tri jaroj, la vorto de Jave venis al mi, kaj mi parolis al vi, frue leviĝante kaj parolante; sed vi ne aŭskultis.
 
 Jave sendis al vi ĉiujn siajn servantojn, la profetojn, frue leviĝante kaj sendante ilin (sed vi ne aŭskultis nek klinis vian orelon por aŭdi), dirante: “Revenu nun ĉiu de sia malbona vojo kaj de la malbono de viaj faroj, kaj loĝu en la lando, kiun Jave donis al vi kaj al viaj patroj, de antikve kaj eĉ por ĉiam. Ne iru post aliaj dioj por servi ilin aŭ adori ilin, kaj ne incitu min al kolero per la faro de viaj manoj; tiam mi ne faros al vi malbonon.”
 
 “Sed vi ne aŭskultis min,” diras Jave, “por ke vi incitu min al kolero per la faro de viaj manoj, por via propra malutilo.”
 
-Tial Jave Cebaot diras: “Ĉar vi ne aŭdis miajn vortojn, jen mi sendos kaj prenos ĉiujn familiojn de la nordo,” diras Jave, “kaj mi sendos al Nebukadnecar, la reĝo de Babel, mian servanton, kaj mi venigos ilin kontraŭ ĉi tiun landon, kontraŭ ĝiajn loĝantojn, kaj kontraŭ ĉiujn ĉi tiujn naciojn ĉirkaŭe. Mi tute ekstermos ilin kaj faros ilin teruraĵo, fajfataĵo, kaj eternaj dezertaĵoj. Plue mi forprenos de ili la voĉon de gajeco kaj la voĉon de ĝojo, la voĉon de la fianĉo kaj la voĉon de la fianĉino, la sonon de la muelŝtonoj, kaj la lumon de la lampo. Ĉi tiu tuta lando fariĝos dezertaĵo kaj teruraĵo; kaj ĉi tiuj nacioj servos la reĝon de Babel sepdek jarojn.
+Tial Jave Cebaot diras: “Ĉar vi ne aŭdis miajn vortojn, jen mi sendos kaj prenos ĉiujn familiojn de la nordo,” diras Jave, “kaj mi sendos al Nebukadnecar, la reĝo de Babilono, mian servanton, kaj mi venigos ilin kontraŭ ĉi tiun landon, kontraŭ ĝiajn loĝantojn, kaj kontraŭ ĉiujn ĉi tiujn naciojn ĉirkaŭe. Mi tute ekstermos ilin kaj faros ilin teruraĵo, fajfataĵo, kaj eternaj dezertaĵoj. Plue mi forprenos de ili la voĉon de gajeco kaj la voĉon de ĝojo, la voĉon de la fianĉo kaj la voĉon de la fianĉino, la sonon de la muelŝtonoj, kaj la lumon de la lampo. Ĉi tiu tuta lando fariĝos dezertaĵo kaj teruraĵo; kaj ĉi tiuj nacioj servos la reĝon de Babilono sepdek jarojn.
 
-“Okazos, kiam la sepdek jaroj estos plenumitaj, ke mi punos la reĝon de Babel kaj tiun nacion,” diras Jave, “pro ilia maljusteco. Mi faros la landon de la Ĥaldeoj dezerta por ĉiam. Mi venigos sur tiun landon ĉiujn miajn vortojn, kiujn mi eldiris kontraŭ ĝi, ĉion, kio estas skribita en ĉi tiu libro, kion Jeremia profetis kontraŭ ĉiuj nacioj. Ĉar multaj nacioj kaj grandaj reĝoj sklavigos ilin, eĉ ilin. Mi repagos al ili laŭ iliaj faroj kaj laŭ la laboro de iliaj manoj.”
+“Okazos, kiam la sepdek jaroj estos plenumitaj, ke mi punos la reĝon de Babilono kaj tiun nacion,” diras Jave, “pro ilia maljusteco. Mi faros la landon de la Ĥaldeoj dezerta por ĉiam. Mi venigos sur tiun landon ĉiujn miajn vortojn, kiujn mi eldiris kontraŭ ĝi, ĉion, kio estas skribita en ĉi tiu libro, kion Jeremia profetis kontraŭ ĉiuj nacioj. Ĉar multaj nacioj kaj grandaj reĝoj sklavigos ilin, eĉ ilin. Mi repagos al ili laŭ iliaj faroj kaj laŭ la laboro de iliaj manoj.”
 
 Ĉar Jave, la Dio de Israelo, diras al mi: “Prenu ĉi tiun pokalon de la vino de kolero el mia mano, kaj igu ĉiujn naciojn, al kiuj mi sendas vin, trinki ĝin. Ili trinkos, ŝanceliĝos tien kaj reen, kaj freneziĝos pro la glavo, kiun mi sendos inter ilin.”
 
@@ -37232,23 +37232,23 @@ Sed la mano de Aĥikam, filo de Ŝafan, estis kun Jeremia, tiel ke oni ne transd
 
 ### Ĉapitro 27
 
-En la komenco de la regado de Jehojakim, filo de Joŝija, reĝo de Judio, ĉi tiu vorto venis al Jeremia de Jave, dirante: Tiele diras Jave al mi: “Faru ligilojn kaj stangojn, kaj metu ilin sur vian kolon. Poste sendu ilin al la reĝo de Edom, al la reĝo de Moab, al la reĝo de la Ammonidoj, al la reĝo de Tiro, kaj al la reĝo de Cidon, per la mano de la senditoj, kiuj venas al Jerusalemo al Cidkija, reĝo de Judio. Donu al ili ordonon por iliaj sinjoroj, dirante: ‘Tiele diras Jave Cebaot, la Dio de Israelo: “Tiel vi diros al viaj sinjoroj: ‘Mi faris la teron, la homojn, kaj la bestojn, kiuj estas sur la supraĵo de la tero, per mia granda potenco kaj per mia etendita brako. Mi donas ĝin al tiu, al kiu ŝajnas ĝuste al mi. Nun mi donis ĉiujn ĉi tiujn landojn en la manon de Nebukadnecar, la reĝo de Babel, mia servanto. Mi ankaŭ donis al li la bestojn de la kampo, por servi al li. Ĉiuj nacioj servos al li, al lia filo, kaj al la filo de lia filo, ĝis venos la tempo de lia propra lando. Tiam multaj nacioj kaj grandaj reĝoj faros lin sia sklavo.
+En la komenco de la regado de Jehojakim, filo de Joŝija, reĝo de Judio, ĉi tiu vorto venis al Jeremia de Jave, dirante: Tiele diras Jave al mi: “Faru ligilojn kaj stangojn, kaj metu ilin sur vian kolon. Poste sendu ilin al la reĝo de Edom, al la reĝo de Moab, al la reĝo de la Ammonidoj, al la reĝo de Tiro, kaj al la reĝo de Cidon, per la mano de la senditoj, kiuj venas al Jerusalemo al Cidkija, reĝo de Judio. Donu al ili ordonon por iliaj sinjoroj, dirante: ‘Tiele diras Jave Cebaot, la Dio de Israelo: “Tiel vi diros al viaj sinjoroj: ‘Mi faris la teron, la homojn, kaj la bestojn, kiuj estas sur la supraĵo de la tero, per mia granda potenco kaj per mia etendita brako. Mi donas ĝin al tiu, al kiu ŝajnas ĝuste al mi. Nun mi donis ĉiujn ĉi tiujn landojn en la manon de Nebukadnecar, la reĝo de Babilono, mia servanto. Mi ankaŭ donis al li la bestojn de la kampo, por servi al li. Ĉiuj nacioj servos al li, al lia filo, kaj al la filo de lia filo, ĝis venos la tempo de lia propra lando. Tiam multaj nacioj kaj grandaj reĝoj faros lin sia sklavo.
 
-“‘ “‘Kaj okazos, ke mi punos la nacion kaj la regnon, kiuj ne servos al tiu sama Nebukadnecar, reĝo de Babel, kaj kiuj ne metos sian kolon sub la jugon de la reĝo de Babel,’ diras Jave, ‘per glavo, per malsato, kaj per pesto, ĝis mi ilin ekstermos per lia mano. Sed vi ne aŭskultu viajn profetojn, viajn divenistojn, viajn sonĝojn, viajn aŭguristojn, nek viajn sorĉistojn, kiuj parolas al vi, dirante: “Vi ne servos al la reĝo de Babel;” ĉar ili profetas mensogon al vi, por forigi vin malproksimen de via lando, por ke mi vin elpelu, kaj vi pereu. Sed la nacio, kiu metos sian kolon sub la jugon de la reĝo de Babel kaj servos al li, tiun nacion mi lasos resti en sia propra lando,’ diras Jave; ‘kaj ili ĝin kultivos kaj loĝos en ĝi.’” ’”
+“‘ “‘Kaj okazos, ke mi punos la nacion kaj la regnon, kiuj ne servos al tiu sama Nebukadnecar, reĝo de Babilono, kaj kiuj ne metos sian kolon sub la jugon de la reĝo de Babilono,’ diras Jave, ‘per glavo, per malsato, kaj per pesto, ĝis mi ilin ekstermos per lia mano. Sed vi ne aŭskultu viajn profetojn, viajn divenistojn, viajn sonĝojn, viajn aŭguristojn, nek viajn sorĉistojn, kiuj parolas al vi, dirante: “Vi ne servos al la reĝo de Babilono;” ĉar ili profetas mensogon al vi, por forigi vin malproksimen de via lando, por ke mi vin elpelu, kaj vi pereu. Sed la nacio, kiu metos sian kolon sub la jugon de la reĝo de Babilono kaj servos al li, tiun nacion mi lasos resti en sia propra lando,’ diras Jave; ‘kaj ili ĝin kultivos kaj loĝos en ĝi.’” ’”
 
-Mi parolis al Cidkija, reĝo de Judio, laŭ ĉiuj ĉi tiuj vortoj, dirante: “Metu viajn kolojn sub la jugon de la reĝo de Babel, kaj servu al li kaj al lia popolo, kaj vivu. Kial vi mortu, vi kaj via popolo, per glavo, per malsato, kaj per pesto, kiel Jave parolis pri la nacio, kiu ne servos al la reĝo de Babel? Ne aŭskultu la vortojn de la profetoj, kiuj parolas al vi, dirante: ‘Vi ne servos al la reĝo de Babel;’ ĉar ili profetas mensogon al vi. Ĉar mi ne sendis ilin,” diras Jave, “sed ili profetas malvere en mia nomo, por ke mi vin elpelu, kaj por ke vi pereu, vi kaj la profetoj, kiuj profetas al vi.”
+Mi parolis al Cidkija, reĝo de Judio, laŭ ĉiuj ĉi tiuj vortoj, dirante: “Metu viajn kolojn sub la jugon de la reĝo de Babilono, kaj servu al li kaj al lia popolo, kaj vivu. Kial vi mortu, vi kaj via popolo, per glavo, per malsato, kaj per pesto, kiel Jave parolis pri la nacio, kiu ne servos al la reĝo de Babilono? Ne aŭskultu la vortojn de la profetoj, kiuj parolas al vi, dirante: ‘Vi ne servos al la reĝo de Babilono;’ ĉar ili profetas mensogon al vi. Ĉar mi ne sendis ilin,” diras Jave, “sed ili profetas malvere en mia nomo, por ke mi vin elpelu, kaj por ke vi pereu, vi kaj la profetoj, kiuj profetas al vi.”
 
-Ankaŭ mi parolis al la pastroj kaj al la tuta ĉi tiu popolo, dirante: Tiele diras Jave: “Ne aŭskultu la vortojn de viaj profetoj, kiuj profetas al vi, dirante: ‘Jen, la vazoj de la domo de Jave baldaŭ estos alportitaj reen el Babel;’ ĉar ili profetas mensogon al vi. Ne aŭskultu ilin. Servu al la reĝo de Babel, kaj vivu. Kial ĉi tiu urbo fariĝu dezertaĵo? Sed se ili estas profetoj, kaj se la vorto de Jave estas kun ili, ili nun faru petegon al Jave Cebaot, ke la vazoj, kiuj restas en la domo de Jave, en la domo de la reĝo de Judio, kaj en Jerusalemo, ne iru al Babel. Ĉar Jave Cebaot diras pri la kolonoj, pri la maro, pri la bazoj, kaj pri la ceteraj vazoj, kiuj restas en ĉi tiu urbo, kiujn Nebukadnecar, reĝo de Babel, ne prenis, kiam li forkondukis en kaptitecon Jeĥonjan, filon de Jehojakim, reĝon de Judio, el Jerusalemo al Babel, kaj ĉiujn eminentulojn de Judio kaj Jerusalemo— jes, Jave Cebaot, la Dio de Israelo, diras pri la vazoj, kiuj restas en la domo de Jave, kaj en la domo de la reĝo de Judio, kaj en Jerusalemo: ‘Ili estos forportitaj al Babel, kaj tie ili estos, ĝis la tago, kiam mi ilin vizitos,’ diras Jave; ‘tiam mi ilin suprenportos, kaj restarigos ilin al ĉi tiu loko.’”
+Ankaŭ mi parolis al la pastroj kaj al la tuta ĉi tiu popolo, dirante: Tiele diras Jave: “Ne aŭskultu la vortojn de viaj profetoj, kiuj profetas al vi, dirante: ‘Jen, la vazoj de la domo de Jave baldaŭ estos alportitaj reen el Babilono;’ ĉar ili profetas mensogon al vi. Ne aŭskultu ilin. Servu al la reĝo de Babilono, kaj vivu. Kial ĉi tiu urbo fariĝu dezertaĵo? Sed se ili estas profetoj, kaj se la vorto de Jave estas kun ili, ili nun faru petegon al Jave Cebaot, ke la vazoj, kiuj restas en la domo de Jave, en la domo de la reĝo de Judio, kaj en Jerusalemo, ne iru al Babilono. Ĉar Jave Cebaot diras pri la kolonoj, pri la maro, pri la bazoj, kaj pri la ceteraj vazoj, kiuj restas en ĉi tiu urbo, kiujn Nebukadnecar, reĝo de Babilono, ne prenis, kiam li forkondukis en kaptitecon Jeĥonjan, filon de Jehojakim, reĝon de Judio, el Jerusalemo al Babilono, kaj ĉiujn eminentulojn de Judio kaj Jerusalemo— jes, Jave Cebaot, la Dio de Israelo, diras pri la vazoj, kiuj restas en la domo de Jave, kaj en la domo de la reĝo de Judio, kaj en Jerusalemo: ‘Ili estos forportitaj al Babilono, kaj tie ili estos, ĝis la tago, kiam mi ilin vizitos,’ diras Jave; ‘tiam mi ilin suprenportos, kaj restarigos ilin al ĉi tiu loko.’”
 
 ### Ĉapitro 28
 
-En tiu sama jaro, komence de la regado de Cidkija, reĝo de Judio, en la kvara jaro, en la kvina monato, Ĥananja, filo de Azur, la profeto, kiu estis el Gibeon, parolis al mi en la domo de Jave, antaŭ la pastroj kaj antaŭ la tuta popolo, dirante: “Jave Cebaot, Dio de Israelo, diras: ‘Mi rompis la jugon de la reĝo de Babel. Ene de du plenaj jaroj mi revenigos en ĉi tiun lokon ĉiujn vazojn de la domo de Jave, kiujn Nebukadnecar, reĝo de Babel, forprenis el ĉi tiu loko kaj forportis al Babel. Mi revenigos en ĉi tiun lokon Jeĥonjan, filon de Jehojakim, reĝon de Judio, kun ĉiuj kaptitoj de Judio, kiuj iris al Babel,’ diras Jave; ‘ĉar mi rompos la jugon de la reĝo de Babel.’”
+En tiu sama jaro, komence de la regado de Cidkija, reĝo de Judio, en la kvara jaro, en la kvina monato, Ĥananja, filo de Azur, la profeto, kiu estis el Gibeon, parolis al mi en la domo de Jave, antaŭ la pastroj kaj antaŭ la tuta popolo, dirante: “Jave Cebaot, Dio de Israelo, diras: ‘Mi rompis la jugon de la reĝo de Babilono. Ene de du plenaj jaroj mi revenigos en ĉi tiun lokon ĉiujn vazojn de la domo de Jave, kiujn Nebukadnecar, reĝo de Babilono, forprenis el ĉi tiu loko kaj forportis al Babilono. Mi revenigos en ĉi tiun lokon Jeĥonjan, filon de Jehojakim, reĝon de Judio, kun ĉiuj kaptitoj de Judio, kiuj iris al Babilono,’ diras Jave; ‘ĉar mi rompos la jugon de la reĝo de Babilono.’”
 
-Tiam la profeto Jeremia diris al la profeto Ĥananja antaŭ la pastroj kaj antaŭ la tuta popolo, kiu staris en la domo de Jave; eĉ la profeto Jeremia diris: “Amen! Tiel faru Jave. Plenumu Jave viajn vortojn, kiujn vi profetis, por revenigi la vazojn de la domo de Jave kaj ĉiujn kaptitojn el Babel en ĉi tiun lokon. Tamen aŭskultu nun ĉi tiun vorton, kiun mi parolas en viajn orelojn kaj en la orelojn de la tuta popolo: La profetoj, kiuj estis antaŭ mi kaj antaŭ vi de antikve, profetis kontraŭ multaj landoj kaj kontraŭ grandaj regnoj pri milito, pri malbono kaj pri pesto. Sed la profeto, kiu profetas pri paco—kiam la vorto de la profeto plenumiĝas, tiam la profeto estos konata, ke Jave vere sendis lin.”
+Tiam la profeto Jeremia diris al la profeto Ĥananja antaŭ la pastroj kaj antaŭ la tuta popolo, kiu staris en la domo de Jave; eĉ la profeto Jeremia diris: “Amen! Tiel faru Jave. Plenumu Jave viajn vortojn, kiujn vi profetis, por revenigi la vazojn de la domo de Jave kaj ĉiujn kaptitojn el Babilono en ĉi tiun lokon. Tamen aŭskultu nun ĉi tiun vorton, kiun mi parolas en viajn orelojn kaj en la orelojn de la tuta popolo: La profetoj, kiuj estis antaŭ mi kaj antaŭ vi de antikve, profetis kontraŭ multaj landoj kaj kontraŭ grandaj regnoj pri milito, pri malbono kaj pri pesto. Sed la profeto, kiu profetas pri paco—kiam la vorto de la profeto plenumiĝas, tiam la profeto estos konata, ke Jave vere sendis lin.”
 
-Tiam Ĥananja, la profeto, prenis la stangon de la kolo de la profeto Jeremia kaj rompis ĝin. Ĥananja parolis antaŭ la tuta popolo, dirante: “Jave diras: ‘Tiel mi rompos la jugon de Nebukadnecar, reĝo de Babel, de la kolo de ĉiuj nacioj ene de du plenaj jaroj.’” Tiam la profeto Jeremia iris sian vojon.
+Tiam Ĥananja, la profeto, prenis la stangon de la kolo de la profeto Jeremia kaj rompis ĝin. Ĥananja parolis antaŭ la tuta popolo, dirante: “Jave diras: ‘Tiel mi rompos la jugon de Nebukadnecar, reĝo de Babilono, de la kolo de ĉiuj nacioj ene de du plenaj jaroj.’” Tiam la profeto Jeremia iris sian vojon.
 
-Poste la vorto de Jave venis al Jeremia, post kiam Ĥananja, la profeto, rompis la stangon de la kolo de la profeto Jeremia, dirante: “Iru, kaj diru al Ĥananja: ‘Jave diras: “Vi rompis la lignajn stangojn, sed vi faris anstataŭ ili ferajn stangojn.” Ĉar Jave Cebaot, Dio de Israelo, diras: “Mi metis feran jugon sur la kolon de ĉiuj ĉi nacioj, por ke ili servu al Nebukadnecar, reĝo de Babel; kaj ili servos al li. Mi ankaŭ donis al li la bestojn de la kampo.” ’”
+Poste la vorto de Jave venis al Jeremia, post kiam Ĥananja, la profeto, rompis la stangon de la kolo de la profeto Jeremia, dirante: “Iru, kaj diru al Ĥananja: ‘Jave diras: “Vi rompis la lignajn stangojn, sed vi faris anstataŭ ili ferajn stangojn.” Ĉar Jave Cebaot, Dio de Israelo, diras: “Mi metis feran jugon sur la kolon de ĉiuj ĉi nacioj, por ke ili servu al Nebukadnecar, reĝo de Babilono; kaj ili servos al li. Mi ankaŭ donis al li la bestojn de la kampo.” ’”
 
 Tiam la profeto Jeremia diris al Ĥananja, la profeto: “Aŭskultu, Ĥananja! Jave ne sendis vin, sed vi igas ĉi tiun popolon fidi je mensogo. Tial Jave diras: ‘Jen, mi forsendos vin de sur la supraĵo de la tero. Ĉi-jare vi mortos, ĉar vi parolis ribelon kontraŭ Jave.’”
 
@@ -37256,15 +37256,15 @@ Kaj Ĥananja, la profeto, mortis en tiu sama jaro en la sepa monato.
 
 ### Ĉapitro 29
 
-Jen estas la vortoj de la letero, kiun la profeto Jeremia sendis el Jerusalemo al la resto de la pliaĝuloj de la kaptiteco, kaj al la pastroj, al la profetoj, kaj al la tuta popolo, kiun Nebukadnecar forkondukis kiel kaptitojn el Jerusalemo al Babel (post kiam foriris el Jerusalemo Jeĥonja la reĝo, la reĝinpatrino, la eŭnukoj, la princoj de Judio kaj Jerusalemo, la metiistoj kaj la forĝistoj), per la mano de Elasah, filo de Ŝafan, kaj Gemarja, filo de Ĥilkija (kiujn Cidkija, reĝo de Judio, sendis al Babel al Nebukadnecar, reĝo de Babel). Ĝi diris:
+Jen estas la vortoj de la letero, kiun la profeto Jeremia sendis el Jerusalemo al la resto de la pliaĝuloj de la kaptiteco, kaj al la pastroj, al la profetoj, kaj al la tuta popolo, kiun Nebukadnecar forkondukis kiel kaptitojn el Jerusalemo al Babilono (post kiam foriris el Jerusalemo Jeĥonja la reĝo, la reĝinpatrino, la eŭnukoj, la princoj de Judio kaj Jerusalemo, la metiistoj kaj la forĝistoj), per la mano de Elasah, filo de Ŝafan, kaj Gemarja, filo de Ĥilkija (kiujn Cidkija, reĝo de Judio, sendis al Babilono al Nebukadnecar, reĝo de Babilono). Ĝi diris:
 
-Tiele diras Jave Cebaot, la Dio de Israelo, al ĉiuj kaptitoj, kiujn mi forkondukigis kiel kaptitojn el Jerusalemo al Babel: “Konstruu domojn kaj loĝu en ili. Plantu ĝardenojn kaj manĝu iliajn fruktojn. Prenu edzinojn kaj naskigu filojn kaj filinojn. Prenu edzinojn por viaj filoj, kaj donu viajn filinojn al edzoj, por ke ili nasku filojn kaj filinojn. Multiĝu tie, kaj ne malmultiĝu. Serĉu la pacon de la urbo, kien mi forkondukigis vin kiel kaptitojn, kaj preĝu al Jave por ĝi; ĉar en ĝia paco vi havos pacon.” Ĉar tiele diras Jave Cebaot, la Dio de Israelo: “Ne lasu vin trompi viaj profetoj, kiuj estas inter vi, nek viaj aŭguristoj. Ne aŭskultu viajn sonĝojn, kiujn vi igas sonĝi. Ĉar ili profetas al vi mensoge en mia nomo. Mi ne sendis ilin,” diras Jave. Ĉar tiele diras Jave: “Kiam plenumiĝos sepdek jaroj por Babel, mi vizitos vin kaj plenumos al vi mian bonan vorton, revenigante vin al ĉi tiu loko. Ĉar mi scias la pensojn, kiujn mi pensas pri vi,” diras Jave, “pensojn de paco kaj ne de malbono, por doni al vi esperon kaj estontecon. Vi vokos min, vi iros kaj preĝos al mi, kaj mi aŭskultos vin. Vi serĉos min kaj trovos min, kiam vi serĉos min per via tuta koro. Mi estos trovata de vi,” diras Jave, “kaj mi returnurnos vian kaptitecon, kaj mi kolektos vin el ĉiuj nacioj kaj el ĉiuj lokoj, kien mi vin forpelis,” diras Jave. “Mi revenigos vin al la loko, el kiu mi forkondukigis vin kiel kaptitojn.”
+Tiele diras Jave Cebaot, la Dio de Israelo, al ĉiuj kaptitoj, kiujn mi forkondukigis kiel kaptitojn el Jerusalemo al Babilono: “Konstruu domojn kaj loĝu en ili. Plantu ĝardenojn kaj manĝu iliajn fruktojn. Prenu edzinojn kaj naskigu filojn kaj filinojn. Prenu edzinojn por viaj filoj, kaj donu viajn filinojn al edzoj, por ke ili nasku filojn kaj filinojn. Multiĝu tie, kaj ne malmultiĝu. Serĉu la pacon de la urbo, kien mi forkondukigis vin kiel kaptitojn, kaj preĝu al Jave por ĝi; ĉar en ĝia paco vi havos pacon.” Ĉar tiele diras Jave Cebaot, la Dio de Israelo: “Ne lasu vin trompi viaj profetoj, kiuj estas inter vi, nek viaj aŭguristoj. Ne aŭskultu viajn sonĝojn, kiujn vi igas sonĝi. Ĉar ili profetas al vi mensoge en mia nomo. Mi ne sendis ilin,” diras Jave. Ĉar tiele diras Jave: “Kiam plenumiĝos sepdek jaroj por Babilono, mi vizitos vin kaj plenumos al vi mian bonan vorton, revenigante vin al ĉi tiu loko. Ĉar mi scias la pensojn, kiujn mi pensas pri vi,” diras Jave, “pensojn de paco kaj ne de malbono, por doni al vi esperon kaj estontecon. Vi vokos min, vi iros kaj preĝos al mi, kaj mi aŭskultos vin. Vi serĉos min kaj trovos min, kiam vi serĉos min per via tuta koro. Mi estos trovata de vi,” diras Jave, “kaj mi returnurnos vian kaptitecon, kaj mi kolektos vin el ĉiuj nacioj kaj el ĉiuj lokoj, kien mi vin forpelis,” diras Jave. “Mi revenigos vin al la loko, el kiu mi forkondukigis vin kiel kaptitojn.”
 
-Ĉar vi diris: “Jave starigis por ni profetojn en Babel,” tiele diras Jave pri la reĝo, kiu sidas sur la trono de Davido, kaj pri la tuta popolo, kiu loĝas en ĉi tiu urbo, viaj fratoj, kiuj ne iris kun vi en kaptitecon: tiele diras Jave Cebaot: “Jen, mi sendos sur ilin la glavon, la malsaton kaj la peston, kaj mi faros ilin kiel putrajn figojn, kiujn oni ne povas manĝi, tiel malbonaj ili estas. Mi persekutos ilin per glavo, per malsato kaj per pesto, kaj mi transdonos ilin por esti ĵetataj tien kaj reen inter ĉiuj regnoj de la tero, por esti objekto de teruro, de miro, de fajfado kaj de riproĉo inter ĉiuj nacioj, kien mi ilin forpelis, ĉar ili ne aŭskultis miajn vortojn,” diras Jave, “per kiuj mi sendis al ili miajn servantojn, la profetojn, frue leviĝante kaj sendante; sed vi ne aŭskultis,” diras Jave.
+Ĉar vi diris: “Jave starigis por ni profetojn en Babilono,” tiele diras Jave pri la reĝo, kiu sidas sur la trono de Davido, kaj pri la tuta popolo, kiu loĝas en ĉi tiu urbo, viaj fratoj, kiuj ne iris kun vi en kaptitecon: tiele diras Jave Cebaot: “Jen, mi sendos sur ilin la glavon, la malsaton kaj la peston, kaj mi faros ilin kiel putrajn figojn, kiujn oni ne povas manĝi, tiel malbonaj ili estas. Mi persekutos ilin per glavo, per malsato kaj per pesto, kaj mi transdonos ilin por esti ĵetataj tien kaj reen inter ĉiuj regnoj de la tero, por esti objekto de teruro, de miro, de fajfado kaj de riproĉo inter ĉiuj nacioj, kien mi ilin forpelis, ĉar ili ne aŭskultis miajn vortojn,” diras Jave, “per kiuj mi sendis al ili miajn servantojn, la profetojn, frue leviĝante kaj sendante; sed vi ne aŭskultis,” diras Jave.
 
-Aŭdu do la vorton de Jave, ĉiuj vi kaptitoj, kiujn mi forsendis el Jerusalemo al Babel. Tiele diras Jave Cebaot, la Dio de Israelo, pri Aĥab, filo de Kolaja, kaj pri Cidkija, filo de Maaseja, kiuj profetas al vi mensogon en mia nomo: “Jen, mi transdonos ilin en la manon de Nebukadnecar, reĝo de Babel; kaj li mortigos ilin antaŭ viaj okuloj. Kaj el ili estos prenata malbeno de ĉiuj kaptitoj de Judio, kiuj estas en Babel, dirante: ‘Jave faru vin kiel Cidkija kaj kiel Aĥab, kiujn la reĝo de Babel rostis en la fajro;’ ĉar ili faris malsaĝaĵojn en Israelo, kaj adultis kun la edzinoj de siaj proksimuloj, kaj parolis vortojn en mia nomo mensoge, kiujn mi ne ordonis al ili. Mi estas tiu, kiu scias, kaj mi estas atestanto,” diras Jave.
+Aŭdu do la vorton de Jave, ĉiuj vi kaptitoj, kiujn mi forsendis el Jerusalemo al Babilono. Tiele diras Jave Cebaot, la Dio de Israelo, pri Aĥab, filo de Kolaja, kaj pri Cidkija, filo de Maaseja, kiuj profetas al vi mensogon en mia nomo: “Jen, mi transdonos ilin en la manon de Nebukadnecar, reĝo de Babilono; kaj li mortigos ilin antaŭ viaj okuloj. Kaj el ili estos prenata malbeno de ĉiuj kaptitoj de Judio, kiuj estas en Babilono, dirante: ‘Jave faru vin kiel Cidkija kaj kiel Aĥab, kiujn la reĝo de Babilono rostis en la fajro;’ ĉar ili faris malsaĝaĵojn en Israelo, kaj adultis kun la edzinoj de siaj proksimuloj, kaj parolis vortojn en mia nomo mensoge, kiujn mi ne ordonis al ili. Mi estas tiu, kiu scias, kaj mi estas atestanto,” diras Jave.
 
-Pri Ŝemaja, la Neĥelamido, vi parolu, dirante: “Tiele diras Jave Cebaot, la Dio de Israelo: ‘Ĉar vi sendis leterojn en via propra nomo al la tuta popolo, kiu estas en Jerusalemo, kaj al Cefanja, filo de Maaseja, la pastro, kaj al ĉiuj pastroj, dirante: “Jave faris vin pastro anstataŭ Jehojada, la pastro, por ke estu oficistoj en la domo de Jave por ĉiu homo, kiu frenezas kaj faras sin profeto, por ke vi metu lin en la ŝtiparon kaj en katenojn. Nun do, kial vi ne riproĉis Jeremian el Anatot, kiu faras sin profeto por vi? Ĉar li sendis al ni en Babel, dirante: La kaptiteco estas longa. Konstruu domojn kaj loĝu en ili. Plantu ĝardenojn kaj manĝu iliajn fruktojn?” ’”
+Pri Ŝemaja, la Neĥelamido, vi parolu, dirante: “Tiele diras Jave Cebaot, la Dio de Israelo: ‘Ĉar vi sendis leterojn en via propra nomo al la tuta popolo, kiu estas en Jerusalemo, kaj al Cefanja, filo de Maaseja, la pastro, kaj al ĉiuj pastroj, dirante: “Jave faris vin pastro anstataŭ Jehojada, la pastro, por ke estu oficistoj en la domo de Jave por ĉiu homo, kiu frenezas kaj faras sin profeto, por ke vi metu lin en la ŝtiparon kaj en katenojn. Nun do, kial vi ne riproĉis Jeremian el Anatot, kiu faras sin profeto por vi? Ĉar li sendis al ni en Babilono, dirante: La kaptiteco estas longa. Konstruu domojn kaj loĝu en ili. Plantu ĝardenojn kaj manĝu iliajn fruktojn?” ’”
 
 Cefanja, la pastro, legis ĉi tiun leteron antaŭ la aŭdo de Jeremia, la profeto. Tiam venis la vorto de Jave al Jeremia, dirante: “Sendu al ĉiuj kaptitoj, dirante: ‘Tiele diras Jave pri Ŝemaja, la Neĥelamido: “Ĉar Ŝemaja profetis al vi, kaj mi ne sendis lin, kaj li igis vin fidi je mensogo,” tial tiele diras Jave: “Jen, mi punos Ŝemajan, la Neĥelamidon, kaj lian idaron. Li ne havos homon por loĝi inter ĉi tiu popolo. Li ne vidos la bonon, kiun mi faros al mia popolo,” diras Jave, “ĉar li parolis ribelon kontraŭ Jave.” ’”
 
@@ -37666,9 +37666,9 @@ tiam ankaŭ mi forĵetos la tutan idaron de Israelo pro ĉio, kion ili faris,”
 
 ### Ĉapitro 32
 
-Jen estas la vorto, kiu venis al Jeremia de Jave en la deka jaro de Cidkija, reĝo de Judio, kiu estis la dekoka jaro de Nebukadnecar. En tiu tempo la armeo de la reĝo de Babel sieĝis Jerusalemon. Jeremia, la profeto, estis enfermita en la korto de la gardistaro, kiu estis en la domo de la reĝo de Judio.
+Jen estas la vorto, kiu venis al Jeremia de Jave en la deka jaro de Cidkija, reĝo de Judio, kiu estis la dekoka jaro de Nebukadnecar. En tiu tempo la armeo de la reĝo de Babilono sieĝis Jerusalemon. Jeremia, la profeto, estis enfermita en la korto de la gardistaro, kiu estis en la domo de la reĝo de Judio.
 
-Ĉar Cidkija, reĝo de Judio, enfermis lin, dirante: “Kial vi profetas kaj diras: ‘Tiele diras Jave: “Jen, mi transdonos ĉi tiun urbon en la manon de la reĝo de Babel, kaj li ĝin prenos; kaj Cidkija, reĝo de Judio, ne eskapos el la mano de la Ĥaldeoj, sed certe estos transdonita en la manon de la reĝo de Babel, kaj li parolos kun li buŝo al buŝo, kaj liaj okuloj vidos liajn okulojn; kaj li forkondukos Cidkijan al Babel, kaj li estos tie, ĝis mi vizitos lin,” diras Jave; “kvankam vi batalos kontraŭ la Ĥaldeoj, vi ne prosperos”’?”
+Ĉar Cidkija, reĝo de Judio, enfermis lin, dirante: “Kial vi profetas kaj diras: ‘Tiele diras Jave: “Jen, mi transdonos ĉi tiun urbon en la manon de la reĝo de Babilono, kaj li ĝin prenos; kaj Cidkija, reĝo de Judio, ne eskapos el la mano de la Ĥaldeoj, sed certe estos transdonita en la manon de la reĝo de Babilono, kaj li parolos kun li buŝo al buŝo, kaj liaj okuloj vidos liajn okulojn; kaj li forkondukos Cidkijan al Babilono, kaj li estos tie, ĝis mi vizitos lin,” diras Jave; “kvankam vi batalos kontraŭ la Ĥaldeoj, vi ne prosperos”’?”
 
 Jeremia diris: “La vorto de Jave venis al mi, dirante: ‘Jen, Ĥanamel, filo de Ŝalum, via onklo, venos al vi, dirante: “Aĉetu mian kampon, kiu estas en Anatot; ĉar la rajto de elaĉeto estas via, por aĉeti ĝin.”’”
 
@@ -37684,11 +37684,11 @@ Kaj post kiam mi transdonis la aĉetdokumenton al Baruĥ, filo de Nerija, mi pre
 
 “Jen, sieĝrampoj estas konstruitaj kontraŭ la urbo por preni ĝin. La urbo estas transdonita en la manon de la Ĥaldeoj, kiuj batalas kontraŭ ĝi, pro la glavo, pro la malsato, kaj pro la pesto. Kion vi parolis, tio okazis. Jen, vi vidas ĝin. Kaj vi diris al mi, Sinjoro Jave: ‘Aĉetu la kampon per mono, kaj alvoku atestantojn;’ dum la urbo estas transdonita en la manon de la Ĥaldeoj.”
 
-Tiam la vorto de Jave venis al Jeremia, dirante: “Jen, mi estas Jave, la Dio de ĉiu karno. Ĉu io estas tro malfacila por mi? Tial tiele diras Jave: Jen, mi transdonos ĉi tiun urbon en la manon de la Ĥaldeoj kaj en la manon de Nebukadnecar, reĝo de Babel, kaj li ĝin prenos. La Ĥaldeoj, kiuj batalas kontraŭ ĉi tiu urbo, venos kaj ekbruligos ĉi tiun urbon, kaj forbruligos ĝin, kun la domoj, sur kies tegmentoj ili incensis al Baal kaj elverŝis verŝoferojn al aliaj dioj, por inciti min al kolero.
+Tiam la vorto de Jave venis al Jeremia, dirante: “Jen, mi estas Jave, la Dio de ĉiu karno. Ĉu io estas tro malfacila por mi? Tial tiele diras Jave: Jen, mi transdonos ĉi tiun urbon en la manon de la Ĥaldeoj kaj en la manon de Nebukadnecar, reĝo de Babilono, kaj li ĝin prenos. La Ĥaldeoj, kiuj batalas kontraŭ ĉi tiu urbo, venos kaj ekbruligos ĉi tiun urbon, kaj forbruligos ĝin, kun la domoj, sur kies tegmentoj ili incensis al Baal kaj elverŝis verŝoferojn al aliaj dioj, por inciti min al kolero.
 
 “Ĉar la filoj de Israelo kaj la filoj de Judio faris nur tion, kio estas malbona antaŭ miaj okuloj, de sia juneco; ĉar la filoj de Israelo nur incitis min al kolero per la faro de siaj manoj, diras Jave. Ĉar ĉi tiu urbo estis por mi incito de mia kolero kaj de mia furiozo de la tago, kiam ili ĝin konstruis, ĝis ĉi tiu tago, tiel ke mi forigu ĝin de antaŭ mia vizaĝo, pro la tuta malbono de la filoj de Israelo kaj de la filoj de Judio, kiun ili faris por inciti min al kolero—ili, iliaj reĝoj, iliaj princoj, iliaj pastroj, iliaj profetoj, la viroj de Judio, kaj la loĝantoj de Jerusalem. Ili turnis al mi sian dorson, kaj ne sian vizaĝon. Kvankam mi instruis ilin, frue leviĝante kaj instruante ilin, tamen ili ne aŭskultis por ricevi instruon. Sed ili metis siajn abomenaĵojn en la domon, kiu estas nomata per mia nomo, por malpurigi ĝin. Ili konstruis la altaĵojn de Baal, kiuj estas en la valo de la filo de Hinom, por igi siajn filojn kaj siajn filinojn pasi tra fajro al Moleĥ, kion mi ne ordonis al ili. Eĉ ne venis en mian menson, ke ili faru ĉi tiun abomenaĵon, por igi Judion peki.”
 
-Nun do tiele diras Jave, la Dio de Israelo, pri ĉi tiu urbo, pri kiu vi diras: “Ĝi estas transdonita en la manon de la reĝo de Babel per la glavo, per la malsato, kaj per la pesto:” “Jen, mi kolektos ilin el ĉiuj landoj, kien mi dispelis ilin en mia kolero kaj en mia furiozo kaj en granda indigno; kaj mi revenigos ilin al ĉi tiu loko. Mi igos ilin loĝi sekure. Tiam ili estos mia popolo, kaj mi estos ilia Dio. Mi donos al ili unu koron kaj unu vojon, por ke ili timu min por ĉiam, por ilia bono kaj la bono de iliaj infanoj post ili. Mi faros kun ili eternan interligon, ke mi ne deturniĝos de post ili, por fari al ili bonon. Mi metos mian timon en iliajn korojn, por ke ili ne foriru de mi. Jes, mi ĝojos pri ili, por fari al ili bonon, kaj mi plantos ilin en ĉi tiu lando certe, per mia tuta koro kaj per mia tuta animo.”
+Nun do tiele diras Jave, la Dio de Israelo, pri ĉi tiu urbo, pri kiu vi diras: “Ĝi estas transdonita en la manon de la reĝo de Babilono per la glavo, per la malsato, kaj per la pesto:” “Jen, mi kolektos ilin el ĉiuj landoj, kien mi dispelis ilin en mia kolero kaj en mia furiozo kaj en granda indigno; kaj mi revenigos ilin al ĉi tiu loko. Mi igos ilin loĝi sekure. Tiam ili estos mia popolo, kaj mi estos ilia Dio. Mi donos al ili unu koron kaj unu vojon, por ke ili timu min por ĉiam, por ilia bono kaj la bono de iliaj infanoj post ili. Mi faros kun ili eternan interligon, ke mi ne deturniĝos de post ili, por fari al ili bonon. Mi metos mian timon en iliajn korojn, por ke ili ne foriru de mi. Jes, mi ĝojos pri ili, por fari al ili bonon, kaj mi plantos ilin en ĉi tiu lando certe, per mia tuta koro kaj per mia tuta animo.”
 
 Ĉar tiele diras Jave: “Kiel mi alportis ĉi tiun tutan grandan malbonon sur ĉi tiun popolon, tiel mi alportos sur ilin la tutan bonon, kiun mi promesis al ili. Kampoj estos aĉetataj en ĉi tiu lando, pri kiu vi diras: ‘Ĝi estas dezerta, sen homo aŭ besto. Ĝi estas transdonita en la manon de la Ĥaldeoj.’ Homoj aĉetos kampojn per mono, subskribos la dokumentojn, sigelos ilin, kaj alvokos atestantojn, en la lando de Benjamen, kaj en la lokoj ĉirkaŭ Jerusalem, en la urboj de Judio, en la urboj de la montara regiono, en la urboj de la malaltaĵo, kaj en la urboj de la sudo; ĉar mi revenigos ilian kaptitecon,” diras Jave.
 
@@ -37724,11 +37724,11 @@ La vorto de Jave venis al Jeremia, dirante: “Ne konsideru, kion ĉi tiu popolo
 
 ### Ĉapitro 34
 
-La vorto, kiu venis al Jeremia de Jave, kiam Nebukadnecar, reĝo de Babel, kun sia tuta armeo, ĉiuj regnoj de la tero, kiuj estis sub lia regado, kaj ĉiuj popoloj, militis kontraŭ Jerusalem kaj kontraŭ ĉiuj ĝiaj urboj, dirante: “Tiele diras Jave, Dio de Israelo: ‘Iru, kaj parolu al Cidkija, reĝo de Judio, kaj diru al li: Tiele diras Jave: Jen Mi transdonos ĉi tiun urbon en la manon de la reĝo de Babel, kaj li forbruligos ĝin per fajro. Vi ne eskapos el lia mano, sed certe estos kaptita kaj transdonita en lian manon. Viaj okuloj vidos la okulojn de la reĝo de Babel, kaj li parolos kun vi buŝo kontraŭ buŝo; kaj vi iros en Babelon.’”
+La vorto, kiu venis al Jeremia de Jave, kiam Nebukadnecar, reĝo de Babilono, kun sia tuta armeo, ĉiuj regnoj de la tero, kiuj estis sub lia regado, kaj ĉiuj popoloj, militis kontraŭ Jerusalem kaj kontraŭ ĉiuj ĝiaj urboj, dirante: “Tiele diras Jave, Dio de Israelo: ‘Iru, kaj parolu al Cidkija, reĝo de Judio, kaj diru al li: Tiele diras Jave: Jen Mi transdonos ĉi tiun urbon en la manon de la reĝo de Babilono, kaj li forbruligos ĝin per fajro. Vi ne eskapos el lia mano, sed certe estos kaptita kaj transdonita en lian manon. Viaj okuloj vidos la okulojn de la reĝo de Babilono, kaj li parolos kun vi buŝo kontraŭ buŝo; kaj vi iros en Babilonon.’”
 
 “Sed aŭdu la vorton de Jave, ho Cidkija, reĝo de Judio. Tiele diras Jave pri vi: ‘Vi ne mortos per glavo. Vi mortos en paco; kaj kiel oni faris bruligojn por viaj patroj, la antaŭaj reĝoj, kiuj estis antaŭ vi, tiel oni faros bruligon por vi. Kaj oni ploros pri vi, dirante: “Ve, sinjoro!” ĉar Mi parolis la vorton,’ diras Jave.”
 
-Tiam Jeremia, la profeto, parolis ĉiujn ĉi tiujn vortojn al Cidkija, reĝo de Judio, en Jerusalem, kiam la armeo de la reĝo de Babel militis kontraŭ Jerusalem kaj kontraŭ ĉiuj urboj de Judio, kiuj restis, kontraŭ Laĥiŝ kaj kontraŭ Azeka; ĉar nur ĉi tiuj restis el la urboj de Judio kiel fortikigitaj urboj.
+Tiam Jeremia, la profeto, parolis ĉiujn ĉi tiujn vortojn al Cidkija, reĝo de Judio, en Jerusalem, kiam la armeo de la reĝo de Babilono militis kontraŭ Jerusalem kaj kontraŭ ĉiuj urboj de Judio, kiuj restis, kontraŭ Laĥiŝ kaj kontraŭ Azeka; ĉar nur ĉi tiuj restis el la urboj de Judio kiel fortikigitaj urboj.
 
 La vorto venis al Jeremia de Jave, post kiam la reĝo Cidkija faris interligon kun la tuta popolo, kiu estis en Jerusalem, por proklami al ili liberecon: ke ĉiu viro liberigu sian viran sklavon, kaj ĉiu viro sian inan sklavinon, kiu estas Hebreo aŭ Hebreino, por ke ili iru liberaj, kaj ke neniu sklavigu ilin, Judon, sian fraton. Ĉiuj princoj kaj la tuta popolo obeis, kiuj eniris en la interligon, ke ĉiu liberigu sian viran sklavon kaj ĉiu sian inan sklavinon, por ke neniu plu sklavigu ilin. Ili obeis kaj liberigis ilin; sed poste ili returniĝis kaj revenigis la sklavojn kaj la sklavinojn, kiujn ili estis liberigintaj, kaj submetis ilin denove kiel sklavojn kaj sklavinojn.
 
@@ -37736,7 +37736,7 @@ Tial la vorto de Jave venis al Jeremia de Jave, dirante: “Tiele diras Jave, Di
 
 Tial tiele diras Jave: “Vi ne aŭskultis Min, por proklami liberecon, ĉiu al sia frato kaj ĉiu al sia proksimulo. Jen Mi proklamas al vi liberecon,” diras Jave, “al la glavo, al la pesto kaj al la malsato. Mi faros vin ĵetataj tien kaj reen inter ĉiuj regnoj de la tero. Kaj Mi transdonos la homojn, kiuj transpaŝis Mian interligon, kiuj ne plenumis la vortojn de la interligo, kiun ili faris antaŭ Mi, kiam ili distranĉis la bovidon en du kaj pasis inter ĝiaj partoj: la princojn de Judio, la princojn de Jerusalem, la eŭnukojn, la pastrojn, kaj la tutan popolon de la lando, kiuj pasis inter la partoj de la bovido. Mi transdonos ilin en la manon de iliaj malamikoj kaj en la manon de tiuj, kiuj serĉas ilian vivon; kaj iliaj kadavroj estos manĝaĵo por la birdoj de la ĉielo kaj por la bestoj de la tero.
 
-“Mi transdonos Cidkijan, reĝon de Judio, kaj liajn princojn en la manojn de iliaj malamikoj, en la manojn de tiuj, kiuj serĉas ilian vivon, kaj en la manojn de la armeo de la reĝo de Babel, kiu foriris de vi. Jen Mi ordonos,” diras Jave, “kaj revenigos ilin al ĉi tiu urbo. Ili militos kontraŭ ĝi, prenos ĝin, kaj forbruligos ĝin per fajro. Kaj Mi faros la urbojn de Judio dezerto, sen loĝanto.”
+“Mi transdonos Cidkijan, reĝon de Judio, kaj liajn princojn en la manojn de iliaj malamikoj, en la manojn de tiuj, kiuj serĉas ilian vivon, kaj en la manojn de la armeo de la reĝo de Babilono, kiu foriris de vi. Jen Mi ordonos,” diras Jave, “kaj revenigos ilin al ĉi tiu urbo. Ili militos kontraŭ ĝi, prenos ĝin, kaj forbruligos ĝin per fajro. Kaj Mi faros la urbojn de Judio dezerto, sen loĝanto.”
 
 ### Ĉapitro 35
 
@@ -37744,7 +37744,7 @@ La vorto, kiu venis al Jeremia de Jave en la tagoj de Jehojakim, filo de Joŝija
 
 Tiam mi prenis Jaazanian, filon de Jeremia, filo de Ĥabacinja, kun liaj fratoj, ĉiuj liaj filoj, kaj la tutan domon de la Reĥabidoj; kaj mi enkondukis ilin en la domon de Jave, en la ĉambron de la filoj de Ĥanan, filo de Igdalja, la homo de Dio, kiu estis apud la ĉambro de la princoj, kiu estis super la ĉambro de Maaseja, filo de Ŝalum, la sojlogardisto. Mi metis antaŭ la filojn de la domo de la Reĥabidoj bovlojn plenajn de vino, kaj pokalojn; kaj mi diris al ili: “Trinku vinon!”
 
-Sed ili diris: “Ni ne trinkos vinon; ĉar Jonadab, filo de Reĥab, nia patro, ordonis al ni, dirante: ‘Vi ne trinku vinon, nek vi nek viaj infanoj, por ĉiam. Vi ne konstruu domon, ne semu semon, ne plantu vinberejon, nek havu ian; sed dum ĉiuj viaj tagoj vi loĝu en tendoj, por ke vi vivu multajn tagojn en la lando, en kiu vi loĝas kiel nomadoj.’ Ni obeis la voĉon de Jonadab, filo de Reĥab, nia patro, en ĉio, kion li ordonis al ni: ne trinki vinon dum ĉiuj niaj tagoj, ni, niaj edzinoj, niaj filoj, aŭ niaj filinoj; kaj ne konstrui domojn por ni, por loĝi en ili. Ni ne havas vinberejon, kampon, aŭ semon; sed ni loĝis en tendoj, kaj obeis, kaj faris laŭ ĉio, kion Jonadab, nia patro, ordonis al ni. Sed kiam Nebukadnecar, reĝo de Babel, supreniris en la landon, ni diris: ‘Venu! ni iru al Jerusalem pro timo antaŭ la armeo de la Ĥaldeoj, kaj pro timo antaŭ la armeo de la Sirianoj; kaj tiel ni loĝos en Jerusalem.’”
+Sed ili diris: “Ni ne trinkos vinon; ĉar Jonadab, filo de Reĥab, nia patro, ordonis al ni, dirante: ‘Vi ne trinku vinon, nek vi nek viaj infanoj, por ĉiam. Vi ne konstruu domon, ne semu semon, ne plantu vinberejon, nek havu ian; sed dum ĉiuj viaj tagoj vi loĝu en tendoj, por ke vi vivu multajn tagojn en la lando, en kiu vi loĝas kiel nomadoj.’ Ni obeis la voĉon de Jonadab, filo de Reĥab, nia patro, en ĉio, kion li ordonis al ni: ne trinki vinon dum ĉiuj niaj tagoj, ni, niaj edzinoj, niaj filoj, aŭ niaj filinoj; kaj ne konstrui domojn por ni, por loĝi en ili. Ni ne havas vinberejon, kampon, aŭ semon; sed ni loĝis en tendoj, kaj obeis, kaj faris laŭ ĉio, kion Jonadab, nia patro, ordonis al ni. Sed kiam Nebukadnecar, reĝo de Babilono, supreniris en la landon, ni diris: ‘Venu! ni iru al Jerusalem pro timo antaŭ la armeo de la Ĥaldeoj, kaj pro timo antaŭ la armeo de la Sirianoj; kaj tiel ni loĝos en Jerusalem.’”
 
 Tiam la vorto de Jave venis al Jeremia, dirante: “Jave Cebaot, la Dio de Israelo, diras: ‘Iru kaj diru al la viroj de Judio kaj al la loĝantoj de Jerusalem: “Ĉu vi ne akceptos instruon por aŭskulti miajn vortojn?” diras Jave. “La vortoj de Jonadab, filo de Reĥab, kiujn li ordonis al siaj filoj, ne trinki vinon, estas plenumataj; kaj ĝis hodiaŭ ili trinkas nenion, ĉar ili obeas la ordonon de sia patro; sed mi parolis al vi, frue leviĝante kaj parolante, kaj vi ne aŭskultis min. Mi ankaŭ sendis al vi ĉiujn miajn servantojn, la profetojn, frue leviĝante kaj sendante ilin, dirante: ‘Ĉiu el vi nun revenu de sia malbona vojo, plibonigu viajn farojn, kaj ne iru post aliaj dioj por servi ilin. Tiam vi loĝos en la lando, kiun mi donis al vi kaj al viaj patroj;’ sed vi ne klinis vian orelon, nek aŭskultis min. La filoj de Jonadab, filo de Reĥab, plenumis la ordonon de sia patro, kiun li ordonis al ili, sed ĉi tiu popolo ne aŭskultis min.” ’
 
@@ -37774,13 +37774,13 @@ Tiam la princoj diris al Baruĥ: “Vi kaj Jeremia iru kaŝi vin. Neniu sciu, ki
 
 Ili eniris al la reĝo en la korton, sed ili metis la volvolibron en la ĉambron de Eliŝama, la skribisto. Tiam ili rakontis ĉiujn vortojn en la aŭdo de la reĝo. Kaj la reĝo sendis Jeĥudin por preni la volvolibron, kaj li elprenis ĝin el la ĉambro de Eliŝama, la skribisto. Jeĥudi legis ĝin en la aŭdo de la reĝo, kaj en la aŭdo de ĉiuj princoj, kiuj staris apud la reĝo. La reĝo sidis en la vintra domo en la naŭa monato, kaj fajro brulis en la fajrujo antaŭ li. Kiam Jeĥudi legis tri aŭ kvar kolumnojn, la reĝo tranĉis ĝin per tranĉileto, kaj ĵetis ĝin en la fajron, kiu estis en la fajrujo, ĝis la tuta volvolibro konsumiĝis en la fajro, kiu estis en la fajrujo. La reĝo kaj liaj servantoj, kiuj aŭdis ĉiujn ĉi vortojn, ne timis, kaj ne disŝiris siajn vestojn. Cetere Elnatan kaj Delaja kaj Gemarja petegis la reĝon, ke li ne bruligu la volvolibron; sed li ne aŭskultis ilin. La reĝo ordonis al Jerahmeel, la reĝa filo, kaj al Seraja, filo de Azriel, kaj al Ŝelemja, filo de Abdeel, aresti Baruĥon, la skribiston, kaj Jeremia, la profeton; sed Jave kaŝis ilin.
 
-Tiam la vorto de Jave venis al Jeremia, post kiam la reĝo bruligis la volvolibron kaj la vortojn, kiujn Baruĥ skribis el la buŝo de Jeremia, dirante: “Prenu denove alian volvolibron, kaj skribu en ĝi ĉiujn antaŭajn vortojn, kiuj estis en la unua volvolibro, kiun Jehojakim, reĝo de Judio, bruligis. Pri Jehojakim, reĝo de Judio, vi diru: ‘Tiele diras Jave: “Vi bruligis ĉi tiun volvolibron, dirante: ‘Kial vi skribis en ĝi, dirante: “La reĝo de Babel certe venos kaj detruos ĉi tiun landon, kaj estigos ĉeson de tie de homo kaj besto”?’” Tial tiele diras Jave pri Jehojakim, reĝo de Judio: “Li ne havos iun, kiu sidos sur la trono de Davido. Lia kadavro estos elĵetita tage al la varmego, kaj nokte al la frosto. Mi punos lin, lian idaron, kaj liajn servantojn pro ilia kulpo. Mi venigos sur ilin, sur la loĝantojn de Jerusalemo, kaj sur la virojn de Judio, la tutan malbonon, kiun Mi eldiris kontraŭ ili, sed ili ne aŭskultis.” ’”
+Tiam la vorto de Jave venis al Jeremia, post kiam la reĝo bruligis la volvolibron kaj la vortojn, kiujn Baruĥ skribis el la buŝo de Jeremia, dirante: “Prenu denove alian volvolibron, kaj skribu en ĝi ĉiujn antaŭajn vortojn, kiuj estis en la unua volvolibro, kiun Jehojakim, reĝo de Judio, bruligis. Pri Jehojakim, reĝo de Judio, vi diru: ‘Tiele diras Jave: “Vi bruligis ĉi tiun volvolibron, dirante: ‘Kial vi skribis en ĝi, dirante: “La reĝo de Babilono certe venos kaj detruos ĉi tiun landon, kaj estigos ĉeson de tie de homo kaj besto”?’” Tial tiele diras Jave pri Jehojakim, reĝo de Judio: “Li ne havos iun, kiu sidos sur la trono de Davido. Lia kadavro estos elĵetita tage al la varmego, kaj nokte al la frosto. Mi punos lin, lian idaron, kaj liajn servantojn pro ilia kulpo. Mi venigos sur ilin, sur la loĝantojn de Jerusalemo, kaj sur la virojn de Judio, la tutan malbonon, kiun Mi eldiris kontraŭ ili, sed ili ne aŭskultis.” ’”
 
 Tiam Jeremia prenis alian volvolibron, kaj donis ĝin al Baruĥ, la skribisto, filo de Nerija, kiu skribis en ĝi el la buŝo de Jeremia ĉiujn vortojn de la libro, kiun Jehojakim, reĝo de Judio, bruligis en la fajro; kaj multaj similaj vortoj estis aldonitaj al ili.
 
 ### Ĉapitro 37
 
-Cidkija, filo de Joŝija, reĝis kiel reĝo anstataŭ Konja, filo de Jehojakim, kiun Nebukadnecar, reĝo de Babel, faris reĝo en la lando de Judio. Sed nek li, nek liaj servantoj, nek la popolo de la lando aŭskultis la vortojn de Jave, kiujn li parolis per la profeto Jeremia.
+Cidkija, filo de Joŝija, reĝis kiel reĝo anstataŭ Konja, filo de Jehojakim, kiun Nebukadnecar, reĝo de Babilono, faris reĝo en la lando de Judio. Sed nek li, nek liaj servantoj, nek la popolo de la lando aŭskultis la vortojn de Jave, kiujn li parolis per la profeto Jeremia.
 
 Cidkija, la reĝo, sendis Jehukalon, filon de Ŝelemja, kaj Cefanjaon, filon de Maaseja, la pastron, al la profeto Jeremia, dirante: “Preĝu nun al Jave, nia Dio, por ni.”
 
@@ -37798,15 +37798,15 @@ Sed li ne aŭskultis lin; tial Iria kaptis Jeremia-n kaj kondukis lin al la prin
 
 Kiam Jeremia venis en la domon de la kavo kaj en la ĉelojn, kaj Jeremia restis tie multajn tagojn, tiam Cidkija, la reĝo, sendis kaj elkondukigis lin. La reĝo demandis lin sekrete en sia domo: “Ĉu estas iu vorto de Jave?”
 
-Jeremia diris: “Estas.” Li ankaŭ diris: “Vi estos transdonita en la manon de la reĝo de Babel.”
+Jeremia diris: “Estas.” Li ankaŭ diris: “Vi estos transdonita en la manon de la reĝo de Babilono.”
 
-Plue Jeremia diris al la reĝo Cidkija: “Kiel mi pekis kontraŭ vi, kontraŭ viaj servantoj, aŭ kontraŭ ĉi tiu popolo, ke vi metis min en malliberejon? Kaj nun kie estas viaj profetoj, kiuj profetis al vi, dirante: ‘La reĝo de Babel ne venos kontraŭ vin, nek kontraŭ ĉi tiu lando’? Nun, mi petas, aŭdu, mia sinjoro, la reĝo: mi petas, lasu mian petegon esti prezentita antaŭ vi, por ke vi ne igu min reveni al la domo de Jonatan, la skribisto, por ke mi ne mortu tie.”
+Plue Jeremia diris al la reĝo Cidkija: “Kiel mi pekis kontraŭ vi, kontraŭ viaj servantoj, aŭ kontraŭ ĉi tiu popolo, ke vi metis min en malliberejon? Kaj nun kie estas viaj profetoj, kiuj profetis al vi, dirante: ‘La reĝo de Babilono ne venos kontraŭ vin, nek kontraŭ ĉi tiu lando’? Nun, mi petas, aŭdu, mia sinjoro, la reĝo: mi petas, lasu mian petegon esti prezentita antaŭ vi, por ke vi ne igu min reveni al la domo de Jonatan, la skribisto, por ke mi ne mortu tie.”
 
 Tiam Cidkija, la reĝo, ordonis, kaj oni metis Jeremia-n en la korton de la gardistaro. Oni donis al li ĉiutage unu panbulon el la strato de la bakistoj, ĝis la tuta pano en la urbo elĉerpiĝis. Tiel Jeremia restis en la korto de la gardistaro.
 
 ### Ĉapitro 38
 
-Ŝefatja, filo de Mattan, Gedalja, filo de Paŝĥur, Jukal, filo de Ŝelemja, kaj Paŝĥur, filo de Malkija, aŭdis la vortojn, kiujn Jeremia parolis al la tuta popolo, dirante: “Tiele diras Jave: ‘Kiu restos en ĉi tiu urbo, tiu mortos per glavo, per malsato kaj per pesto; sed kiu eliros al la Ĥaldeoj, tiu vivos. Li savos sian vivon kaj vivos.’ Tiele diras Jave: ‘Ĉi tiu urbo certe estos transdonita en la manon de la armeo de la reĝo de Babel, kaj li ĝin prenos.’”
+Ŝefatja, filo de Mattan, Gedalja, filo de Paŝĥur, Jukal, filo de Ŝelemja, kaj Paŝĥur, filo de Malkija, aŭdis la vortojn, kiujn Jeremia parolis al la tuta popolo, dirante: “Tiele diras Jave: ‘Kiu restos en ĉi tiu urbo, tiu mortos per glavo, per malsato kaj per pesto; sed kiu eliros al la Ĥaldeoj, tiu vivos. Li savos sian vivon kaj vivos.’ Tiele diras Jave: ‘Ĉi tiu urbo certe estos transdonita en la manon de la armeo de la reĝo de Babilono, kaj li ĝin prenos.’”
 
 Tiam la princoj diris al la reĝo: “Bonvolu, ke ĉi tiu homo estu mortigita, ĉar li malfortigas la manojn de la militistoj, kiuj restas en ĉi tiu urbo, kaj la manojn de la tuta popolo, parolante al ili tiajn vortojn; ĉar ĉi tiu homo ne serĉas la bonon de ĉi tiu popolo, sed malbonon.”
 
@@ -37828,11 +37828,11 @@ Tiam Jeremia diris al Cidkija: “Se mi tion diros al vi, ĉu vi ne certe mortig
 
 Do la reĝo Cidkija sekrete ĵuris al Jeremia, dirante: “Kiel Jave vivas, kiu faris niajn animojn, mi ne mortigos vin, nek mi transdonos vin en la manon de ĉi tiuj homoj, kiuj serĉas vian vivon.”
 
-Tiam Jeremia diris al Cidkija: “Jave, Dio de la armeoj, Dio de Israelo, diras: ‘Se vi eliros al la princoj de la reĝo de Babel, tiam via animo vivos, kaj ĉi tiu urbo ne estos bruligita per fajro. Vi vivos, vi kaj via domo. Sed se vi ne eliros al la princoj de la reĝo de Babel, tiam ĉi tiu urbo estos transdonita en la manon de la Ĥaldeoj, kaj ili ĝin bruligos per fajro, kaj vi ne eskapos el ilia mano.’”
+Tiam Jeremia diris al Cidkija: “Jave, Dio de la armeoj, Dio de Israelo, diras: ‘Se vi eliros al la princoj de la reĝo de Babilono, tiam via animo vivos, kaj ĉi tiu urbo ne estos bruligita per fajro. Vi vivos, vi kaj via domo. Sed se vi ne eliros al la princoj de la reĝo de Babilono, tiam ĉi tiu urbo estos transdonita en la manon de la Ĥaldeoj, kaj ili ĝin bruligos per fajro, kaj vi ne eskapos el ilia mano.’”
 
 La reĝo Cidkija diris al Jeremia: “Mi timas la Judojn, kiuj transfuĝis al la Ĥaldeoj, ke ili ne transdonu min en ilian manon, kaj ili mokos min.”
 
-Sed Jeremia diris: “Ili ne transdonos vin. Obeu, mi petas vin, la voĉon de Jave en tio, kion mi parolas al vi; tiel estos bone al vi, kaj via animo vivos. Sed se vi rifuzos eliri, jen la vorto, kiun Jave montris al mi: ‘Jen, ĉiuj virinoj, kiuj restas en la domo de la reĝo de Judio, estos elkondukitaj al la princoj de la reĝo de Babel, kaj tiuj virinoj diros:
+Sed Jeremia diris: “Ili ne transdonos vin. Obeu, mi petas vin, la voĉon de Jave en tio, kion mi parolas al vi; tiel estos bone al vi, kaj via animo vivos. Sed se vi rifuzos eliri, jen la vorto, kiun Jave montris al mi: ‘Jen, ĉiuj virinoj, kiuj restas en la domo de la reĝo de Judio, estos elkondukitaj al la princoj de la reĝo de Babilono, kaj tiuj virinoj diros:
 
 “Viaj intimaj amikoj trompis vin,
 
@@ -37842,7 +37842,7 @@ Viaj piedoj enfundiĝis en la koton,
 
 ili forturniĝis de vi.”’
 
-Ili elkondukos ĉiujn viajn edzinojn kaj viajn infanojn al la Ĥaldeoj. Vi ne eskapos el ilia mano, sed vi estos kaptita per la mano de la reĝo de Babel. Vi kaŭzos, ke ĉi tiu urbo estu bruligita per fajro.’”
+Ili elkondukos ĉiujn viajn edzinojn kaj viajn infanojn al la Ĥaldeoj. Vi ne eskapos el ilia mano, sed vi estos kaptita per la mano de la reĝo de Babilono. Vi kaŭzos, ke ĉi tiu urbo estu bruligita per fajro.’”
 
 Tiam Cidkija diris al Jeremia: “Neniu sciu pri ĉi tiuj vortoj, kaj vi ne mortos. Sed se la princoj aŭdos, ke mi parolis kun vi, kaj ili venos al vi kaj diros al vi: ‘Diru al ni nun, kion vi diris al la reĝo; ne kaŝu de ni, kaj ni ne mortigos vin; ankaŭ diru al ni, kion la reĝo diris al vi;’ tiam vi diros al ili: ‘Mi prezentis mian petegon antaŭ la reĝo, ke li ne igu min reveni al la domo de Jonatan, por morti tie.’”
 
@@ -37852,27 +37852,27 @@ Do Jeremia restis en la korto de la gardistaro ĝis la tago, kiam Jerusalemo est
 
 ### Ĉapitro 39
 
-En la naŭa jaro de Cidkija, reĝo de Judio, en la deka monato, Nebukadnecar, reĝo de Babel, kaj lia tuta armeo venis kontraŭ Jerusalemon kaj sieĝis ĝin. En la dek-unua jaro de Cidkija, en la kvara monato, en la naŭa tago de la monato, oni faris breĉon en la urbo. Tiam eniris ĉiuj princoj de la reĝo de Babel kaj sidiĝis en la Meza Pordego: Nergal-Ŝarecer, Samgar-Nebo, Sarsekim la rabsariso, Nergal-Ŝarecer la rabmago, kun ĉiuj ceteraj princoj de la reĝo de Babel. Kiam Cidkija, reĝo de Judio, kaj ĉiuj militistoj ilin vidis, ili fuĝis kaj eliris el la urbo nokte laŭ la vojo de la reĝa ĝardeno, tra la pordego inter la du muroj; kaj li eliris direkte al la Araba.
+En la naŭa jaro de Cidkija, reĝo de Judio, en la deka monato, Nebukadnecar, reĝo de Babilono, kaj lia tuta armeo venis kontraŭ Jerusalemon kaj sieĝis ĝin. En la dek-unua jaro de Cidkija, en la kvara monato, en la naŭa tago de la monato, oni faris breĉon en la urbo. Tiam eniris ĉiuj princoj de la reĝo de Babilono kaj sidiĝis en la Meza Pordego: Nergal-Ŝarecer, Samgar-Nebo, Sarsekim la rabsariso, Nergal-Ŝarecer la rabmago, kun ĉiuj ceteraj princoj de la reĝo de Babilono. Kiam Cidkija, reĝo de Judio, kaj ĉiuj militistoj ilin vidis, ili fuĝis kaj eliris el la urbo nokte laŭ la vojo de la reĝa ĝardeno, tra la pordego inter la du muroj; kaj li eliris direkte al la Araba.
 
-Sed la armeo de la Ĥaldeoj postkuris ilin kaj atingis Cidkijan sur la ebenaĵoj de Jeriĥo. Kiam ili kaptis lin, ili kondukis lin supren al Nebukadnecar, reĝo de Babel, al Ribla en la lando Ĥamat; kaj li eldiris juĝon kontraŭ li. Tiam la reĝo de Babel mortigis la filojn de Cidkija en Ribla antaŭ liaj okuloj. La reĝo de Babel ankaŭ mortigis ĉiujn nobelojn de Judio. Krome li elpikis la okulojn de Cidkija kaj ligis lin per katenoj, por forkonduki lin al Babel.
+Sed la armeo de la Ĥaldeoj postkuris ilin kaj atingis Cidkijan sur la ebenaĵoj de Jeriĥo. Kiam ili kaptis lin, ili kondukis lin supren al Nebukadnecar, reĝo de Babilono, al Ribla en la lando Ĥamat; kaj li eldiris juĝon kontraŭ li. Tiam la reĝo de Babilono mortigis la filojn de Cidkija en Ribla antaŭ liaj okuloj. La reĝo de Babilono ankaŭ mortigis ĉiujn nobelojn de Judio. Krome li elpikis la okulojn de Cidkija kaj ligis lin per katenoj, por forkonduki lin al Babilono.
 
-La Ĥaldeoj bruligis per fajro la domon de la reĝo kaj la domojn de la popolo, kaj malkonstruis la murojn de Jerusalemo. Tiam Nebuzaradan, la estro de la korpogardistoj, forkondukis en kaptitecon al Babel la reston de la popolo, kiu restis en la urbo, ankaŭ la transfuĝintojn, kiuj transiris al li, kaj la reston de la popolo, kiu restis. Sed Nebuzaradan, la estro de la korpogardistoj, lasis el la malriĉuloj de la popolo, kiuj havis nenion, en la lando de Judio, kaj donis al ili vinberejojn kaj kampojn en tiu sama tempo.
+La Ĥaldeoj bruligis per fajro la domon de la reĝo kaj la domojn de la popolo, kaj malkonstruis la murojn de Jerusalemo. Tiam Nebuzaradan, la estro de la korpogardistoj, forkondukis en kaptitecon al Babilono la reston de la popolo, kiu restis en la urbo, ankaŭ la transfuĝintojn, kiuj transiris al li, kaj la reston de la popolo, kiu restis. Sed Nebuzaradan, la estro de la korpogardistoj, lasis el la malriĉuloj de la popolo, kiuj havis nenion, en la lando de Judio, kaj donis al ili vinberejojn kaj kampojn en tiu sama tempo.
 
-Nun Nebukadnecar, reĝo de Babel, ordonis al Nebuzaradan, la estro de la korpogardistoj, pri Jeremia, dirante: “Prenu lin kaj zorgu pri li. Ne faru al li malbonon; sed faru al li ĝuste tiel, kiel li diros al vi.”
+Nun Nebukadnecar, reĝo de Babilono, ordonis al Nebuzaradan, la estro de la korpogardistoj, pri Jeremia, dirante: “Prenu lin kaj zorgu pri li. Ne faru al li malbonon; sed faru al li ĝuste tiel, kiel li diros al vi.”
 
-Tial Nebuzaradan, la estro de la korpogardistoj, Nebuŝazban, la rabsariso, kaj Nergal-Ŝarecer, la rabmago, kaj ĉiuj ĉefaj oficiroj de la reĝo de Babel sendis kaj elprenis Jeremian el la korto de la gardistaro, kaj transdonis lin al Gedalja, filo de Aĥikam, filo de Ŝafan, por ke li konduku lin hejmen. Kaj li loĝis inter la popolo.
+Tial Nebuzaradan, la estro de la korpogardistoj, Nebuŝazban, la rabsariso, kaj Nergal-Ŝarecer, la rabmago, kaj ĉiuj ĉefaj oficiroj de la reĝo de Babilono sendis kaj elprenis Jeremian el la korto de la gardistaro, kaj transdonis lin al Gedalja, filo de Aĥikam, filo de Ŝafan, por ke li konduku lin hejmen. Kaj li loĝis inter la popolo.
 
 Kaj la vorto de Jave venis al Jeremia, dum li estis enfermita en la korto de la gardistaro, dirante: “Iru kaj parolu al Ebed-Meleĥ, la Etiopo, dirante: ‘Jave Cebaot, la Dio de Israelo, diras: “Jen, mi plenumigos miajn vortojn kontraŭ ĉi tiu urbo por malbono, kaj ne por bono; kaj ili plenumiĝos antaŭ vi en tiu tago. Sed mi savos vin en tiu tago,” diras Jave; “kaj vi ne estos transdonita en la manon de la viroj, kiujn vi timas. Ĉar mi certe savos vin. Vi ne falos per glavo, sed vi eskapos kun via vivo, ĉar vi fidis al mi,” diras Jave.’”
 
 ### Ĉapitro 40
 
-La vorto, kiu venis al Jeremia de Jave, post kiam Nebuzaradan, la estro de la gardistaro, liberigis lin el Rama, kiam li estis preninta lin, katenitan per ĉenoj, inter ĉiuj kaptitoj de Jerusalemo kaj Judio, kiuj estis forkondukitaj en kaptitecon al Babel. La estro de la gardistaro prenis Jeremian kaj diris al li: “Jave, via Dio, eldiris ĉi tiun malbonon kontraŭ ĉi tiu loko; kaj Jave ĝin alportis kaj faris laŭ tio, kion li parolis. Ĉar vi pekis kontraŭ Jave kaj ne obeis lian voĉon, tial ĉi tio venis sur vin. Kaj nun, jen, mi hodiaŭ liberigas vin de la ĉenoj, kiuj estas sur via mano. Se ŝajnas al vi bone veni kun mi en Babelon, venu, kaj mi zorgos pri vi; sed se ŝajnas al vi malbone veni kun mi en Babelon, ne venu. Jen, la tuta lando estas antaŭ vi. Kien ŝajnas al vi bone kaj ĝuste iri, iru tien.” Kaj dum li ankoraŭ ne estis reveninta, li diris: “Reiru do al Gedalja, filo de Ahikam, filo de Ŝafan, kiun la reĝo de Babel faris guberniestro super la urboj de Judio, kaj loĝu kun li inter la popolo; aŭ iru kien ajn ŝajnas al vi ĝuste iri.”
+La vorto, kiu venis al Jeremia de Jave, post kiam Nebuzaradan, la estro de la gardistaro, liberigis lin el Rama, kiam li estis preninta lin, katenitan per ĉenoj, inter ĉiuj kaptitoj de Jerusalemo kaj Judio, kiuj estis forkondukitaj en kaptitecon al Babilono. La estro de la gardistaro prenis Jeremian kaj diris al li: “Jave, via Dio, eldiris ĉi tiun malbonon kontraŭ ĉi tiu loko; kaj Jave ĝin alportis kaj faris laŭ tio, kion li parolis. Ĉar vi pekis kontraŭ Jave kaj ne obeis lian voĉon, tial ĉi tio venis sur vin. Kaj nun, jen, mi hodiaŭ liberigas vin de la ĉenoj, kiuj estas sur via mano. Se ŝajnas al vi bone veni kun mi en Babilonon, venu, kaj mi zorgos pri vi; sed se ŝajnas al vi malbone veni kun mi en Babilonon, ne venu. Jen, la tuta lando estas antaŭ vi. Kien ŝajnas al vi bone kaj ĝuste iri, iru tien.” Kaj dum li ankoraŭ ne estis reveninta, li diris: “Reiru do al Gedalja, filo de Ahikam, filo de Ŝafan, kiun la reĝo de Babilono faris guberniestro super la urboj de Judio, kaj loĝu kun li inter la popolo; aŭ iru kien ajn ŝajnas al vi ĝuste iri.”
 
 Tiam la estro de la gardistaro donis al li manĝaĵon kaj donacon, kaj lasis lin iri. Kaj Jeremia iris al Gedalja, filo de Ahikam, al Micpa, kaj loĝis kun li inter la popolo, kiu restis en la lando.
 
-Kiam ĉiuj estroj de la militfortoj, kiuj estis sur la kampoj, ili kaj iliaj viroj, aŭdis, ke la reĝo de Babel faris Gedaljan, filon de Ahikam, guberniestro en la lando, kaj ke li konfidis al li virojn, virinojn, infanojn, kaj el la plej malriĉaj de la lando, el tiuj, kiuj ne estis forkondukitaj en kaptitecon al Babel, tiam Iŝmael, filo de Netanja, kaj Johanan kaj Jonatan, filoj de Kareah, kaj Seraja, filo de Tanhumet, kaj la filoj de Efaj, la Netofatano, kaj Jezanja, filo de la Maakatano, ili kaj iliaj viroj venis al Gedalja en Micpa. Gedalja, filo de Ahikam, filo de Ŝafan, ĵuris al ili kaj al iliaj viroj, dirante: “Ne timu servi al la Ĥaldeoj. Loĝu en la lando kaj servu al la reĝo de Babel, kaj estos bone al vi. Pri mi, jen, mi loĝos en Micpa, por stari antaŭ la Ĥaldeoj, kiuj venos al ni; sed vi kolektu vinon kaj somerajn fruktojn kaj oleon, kaj metu ilin en viajn vazojn, kaj loĝu en viaj urboj, kiujn vi okupis.”
+Kiam ĉiuj estroj de la militfortoj, kiuj estis sur la kampoj, ili kaj iliaj viroj, aŭdis, ke la reĝo de Babilono faris Gedaljan, filon de Ahikam, guberniestro en la lando, kaj ke li konfidis al li virojn, virinojn, infanojn, kaj el la plej malriĉaj de la lando, el tiuj, kiuj ne estis forkondukitaj en kaptitecon al Babilono, tiam Iŝmael, filo de Netanja, kaj Johanan kaj Jonatan, filoj de Kareah, kaj Seraja, filo de Tanhumet, kaj la filoj de Efaj, la Netofatano, kaj Jezanja, filo de la Maakatano, ili kaj iliaj viroj venis al Gedalja en Micpa. Gedalja, filo de Ahikam, filo de Ŝafan, ĵuris al ili kaj al iliaj viroj, dirante: “Ne timu servi al la Ĥaldeoj. Loĝu en la lando kaj servu al la reĝo de Babilono, kaj estos bone al vi. Pri mi, jen, mi loĝos en Micpa, por stari antaŭ la Ĥaldeoj, kiuj venos al ni; sed vi kolektu vinon kaj somerajn fruktojn kaj oleon, kaj metu ilin en viajn vazojn, kaj loĝu en viaj urboj, kiujn vi okupis.”
 
-Same, kiam ĉiuj Judoj, kiuj estis en Moab, kaj inter la idoj de Amon, kaj en Edom, kaj kiuj estis en ĉiuj landoj, aŭdis, ke la reĝo de Babel lasis restaĵon de Judio, kaj ke li starigis super ili Gedaljan, filon de Ahikam, filon de Ŝafan, tiam ĉiuj Judoj revenis el ĉiuj lokoj, kien ili estis forpelitaj, kaj venis en la landon de Judio, al Gedalja, al Micpa, kaj kolektis tre multe da vino kaj someraj fruktoj.
+Same, kiam ĉiuj Judoj, kiuj estis en Moab, kaj inter la idoj de Amon, kaj en Edom, kaj kiuj estis en ĉiuj landoj, aŭdis, ke la reĝo de Babilono lasis restaĵon de Judio, kaj ke li starigis super ili Gedaljan, filon de Ahikam, filon de Ŝafan, tiam ĉiuj Judoj revenis el ĉiuj lokoj, kien ili estis forpelitaj, kaj venis en la landon de Judio, al Gedalja, al Micpa, kaj kolektis tre multe da vino kaj someraj fruktoj.
 
 Krome Johanan, filo de Kareah, kaj ĉiuj estroj de la militfortoj, kiuj estis sur la kampoj, venis al Gedalja en Micpa, kaj diris al li: “Ĉu vi scias, ke Baalis, la reĝo de la idoj de Amon, sendis Iŝmaelon, filon de Netanja, por preni vian vivon?”
 
@@ -37884,7 +37884,7 @@ Sed Gedalja, filo de Ahikam, diris al Johanan, filo de Kareah: “Vi ne faru ĉi
 
 ### Ĉapitro 41
 
-En la sepa monato venis Iŝmael, filo de Netanja, filo de Eliŝama, el la reĝa idaro kaj unu el la ĉefaj oficiroj de la reĝo, kaj dek viroj kun li, al Gedalja, filo de Aĥikam, en Micpa; kaj tie ili kune manĝis panon en Micpa. Tiam Iŝmael, filo de Netanja, leviĝis, kaj la dek viroj, kiuj estis kun li, kaj frapis per glavo Gedaljan, filon de Aĥikam, filon de Ŝafan, kaj mortigis lin, kiun la reĝo de Babel faris reganto super la lando. Iŝmael ankaŭ mortigis ĉiujn Judojn, kiuj estis kun Gedalja en Micpa, kaj la Ĥaldeajn militistojn, kiuj troviĝis tie.
+En la sepa monato venis Iŝmael, filo de Netanja, filo de Eliŝama, el la reĝa idaro kaj unu el la ĉefaj oficiroj de la reĝo, kaj dek viroj kun li, al Gedalja, filo de Aĥikam, en Micpa; kaj tie ili kune manĝis panon en Micpa. Tiam Iŝmael, filo de Netanja, leviĝis, kaj la dek viroj, kiuj estis kun li, kaj frapis per glavo Gedaljan, filon de Aĥikam, filon de Ŝafan, kaj mortigis lin, kiun la reĝo de Babilono faris reganto super la lando. Iŝmael ankaŭ mortigis ĉiujn Judojn, kiuj estis kun Gedalja en Micpa, kaj la Ĥaldeajn militistojn, kiuj troviĝis tie.
 
 En la dua tago post kiam li mortigis Gedaljan, kaj neniu tion sciis, venis viroj el Ŝeĥem, el Ŝilo, kaj el Samario, okdek viroj, kun razitaj barboj kaj disŝiritaj vestoj, kaj kun tranĉoj sur si, kun farunoferoj kaj olibano en la mano, por alporti ilin al la domo de Jave. Iŝmael, filo de Netanja, eliris el Micpa por renkonti ilin, plorante dum la tuta vojo; kaj kiam li renkontis ilin, li diris al ili: “Venu al Gedalja, filo de Aĥikam.” Kaj kiam ili venis en la mezon de la urbo, Iŝmael, filo de Netanja, mortigis ilin kaj ĵetis ilin en la mezon de la puto, li kaj la viroj, kiuj estis kun li. Sed inter ili troviĝis dek viroj, kiuj diris al Iŝmael: “Ne mortigu nin; ĉar ni havas kaŝitajn provizojn en la kampo: tritikon, hordeon, oleon kaj mielon.”
 
@@ -37894,7 +37894,7 @@ Poste Iŝmael forkondukis kiel kaptitojn ĉiujn homojn, kiuj restis en Micpa, no
 
 Sed kiam Joĥanan, filo de Kareah, kaj ĉiuj estroj de la militfortoj, kiuj estis kun li, aŭdis pri la tuta malbono, kiun Iŝmael, filo de Netanja, faris, tiam ili prenis ĉiujn virojn kaj iris batali kontraŭ Iŝmael, filo de Netanja, kaj trovis lin ĉe la grandaj akvoj, kiuj estas en Gibeon. Kaj kiam ĉiuj homoj, kiuj estis kun Iŝmael, vidis Joĥananon, filon de Kareah, kaj ĉiujn estrojn de la militfortoj, kiuj estis kun li, tiam ili ĝojis. Tiam ĉiuj homoj, kiujn Iŝmael forkondukis kiel kaptitojn el Micpa, turniĝis kaj revenis, kaj iris al Joĥanan, filo de Kareah. Sed Iŝmael, filo de Netanja, eskapis de Joĥanan kun ok viroj kaj iris al la Amonidoj.
 
-Tiam Joĥanan, filo de Kareah, kaj ĉiuj estroj de la militfortoj, kiuj estis kun li, prenis la tutan restaĵon de la popolo, kiun li reprenis de Iŝmael, filo de Netanja, el Micpa, post kiam tiu mortigis Gedaljan, filon de Aĥikam—la militistojn, kun la virinoj, la infanoj kaj la eŭnukoj, kiujn li revenigis el Gibeon. Ili foriris kaj loĝis en Gerut-Ĥimham, kiu estas apud Bet-Leĥem, por iri eniri en Egiption pro la Ĥaldeoj; ĉar ili timis ilin, pro tio ke Iŝmael, filo de Netanja, mortigis Gedaljan, filon de Aĥikam, kiun la reĝo de Babel faris reganto super la lando.
+Tiam Joĥanan, filo de Kareah, kaj ĉiuj estroj de la militfortoj, kiuj estis kun li, prenis la tutan restaĵon de la popolo, kiun li reprenis de Iŝmael, filo de Netanja, el Micpa, post kiam tiu mortigis Gedaljan, filon de Aĥikam—la militistojn, kun la virinoj, la infanoj kaj la eŭnukoj, kiujn li revenigis el Gibeon. Ili foriris kaj loĝis en Gerut-Ĥimham, kiu estas apud Bet-Leĥem, por iri eniri en Egiption pro la Ĥaldeoj; ĉar ili timis ilin, pro tio ke Iŝmael, filo de Netanja, mortigis Gedaljan, filon de Aĥikam, kiun la reĝo de Babilono faris reganto super la lando.
 
 ### Ĉapitro 42
 
@@ -37904,7 +37904,7 @@ Tiam la profeto Jeremia diris al ili: “Mi aŭdis vin. Jen, mi preĝos al Jave,
 
 Tiam ili diris al Jeremia: “Jave estu vera kaj fidela atestanto inter ni, se ni ne faros laŭ ĉiu vorto, per kiu Jave, via Dio, sendos vin por diri al ni. Ĉu ĝi estos bona, ĉu ĝi estos malbona, ni obeos la voĉon de Jave, nia Dio, al kiu ni sendas vin; por ke estu bone al ni, kiam ni obeos la voĉon de Jave, nia Dio.”
 
-Post dek tagoj la vorto de Jave venis al Jeremia. Tiam li alvokis Johananon, filon de Kareah, kaj ĉiujn estrojn de la militfortoj, kiuj estis kun li, kaj la tutan popolon, de la plej malgranda ĝis la plej granda, kaj diris al ili: “Jave, la Dio de Israelo, al kiu vi sendis min por prezenti vian petegon antaŭ li, diras: ‘Se vi ankoraŭ loĝos en ĉi tiu lando, tiam mi konstruos vin kaj ne malkonstruos; mi plantos vin kaj ne elradikigos; ĉar mi bedaŭras la malfeliĉon, kiun mi venigis sur vin. Ne timu la reĝon de Babel, kiun vi timas. Ne timu lin,’ diras Jave, ‘ĉar mi estas kun vi por savi vin kaj por liberigi vin el lia mano. Mi donos al vi kompaton, por ke li kompatu vin kaj revenigu vin al via propra lando.
+Post dek tagoj la vorto de Jave venis al Jeremia. Tiam li alvokis Johananon, filon de Kareah, kaj ĉiujn estrojn de la militfortoj, kiuj estis kun li, kaj la tutan popolon, de la plej malgranda ĝis la plej granda, kaj diris al ili: “Jave, la Dio de Israelo, al kiu vi sendis min por prezenti vian petegon antaŭ li, diras: ‘Se vi ankoraŭ loĝos en ĉi tiu lando, tiam mi konstruos vin kaj ne malkonstruos; mi plantos vin kaj ne elradikigos; ĉar mi bedaŭras la malfeliĉon, kiun mi venigis sur vin. Ne timu la reĝon de Babilono, kiun vi timas. Ne timu lin,’ diras Jave, ‘ĉar mi estas kun vi por savi vin kaj por liberigi vin el lia mano. Mi donos al vi kompaton, por ke li kompatu vin kaj revenigu vin al via propra lando.
 
 “‘Sed se vi diros: “Ni ne loĝos en ĉi tiu lando,” por ke vi ne obeu la voĉon de Jave, via Dio, dirante: “Ne, sed ni iros en la landon Egiptan, kie ni ne vidos militon, nek aŭdos la sonon de la trumpeto, nek havos malsaton je pano; kaj tie ni loĝos;” ’ — nun do aŭdu la vorton de Jave, ho restaĵo de Judio! Jave Cebaot, la Dio de Israelo, diras: ‘Se vi efektive turnos viajn vizaĝojn por eniri en Egiption kaj iros por loĝi tie, tiam okazos, ke la glavo, kiun vi timas, atingos vin tie en la lando Egipta; kaj la malsato, pri kiu vi timas, sekvos vin proksime tie en Egiptio; kaj vi mortos tie. Tiel estos al ĉiuj homoj, kiuj turnas siajn vizaĝojn por iri en Egiption por loĝi tie: ili mortos per glavo, per malsato, kaj per pesto. Neniu el ili restos aŭ eskapos de la malbono, kiun mi venigos sur ilin.’ Ĉar Jave Cebaot, la Dio de Israelo, diras: ‘Kiel mia kolero kaj mia indigno elverŝiĝis sur la loĝantojn de Jerusalem, tiel mia indigno elverŝiĝos sur vin, kiam vi eniros en Egiption; kaj vi fariĝos objekto de teruro, de miro, de malbeno kaj de riproĉo; kaj vi ne plu vidos ĉi tiun lokon.’
 
@@ -37912,11 +37912,11 @@ Post dek tagoj la vorto de Jave venis al Jeremia. Tiam li alvokis Johananon, fil
 
 ### Ĉapitro 43
 
-Kiam Jeremia finis paroli al la tuta popolo ĉiujn vortojn de Jave, ilia Dio, per kiuj Jave, ilia Dio, sendis lin al ili—jes, ĉiujn ĉi vortojn—tiam Azarja, filo de Hoŝaja, Johanano, filo de Kareah, kaj ĉiuj fieruloj ekparolis, dirante al Jeremia: “Vi parolas mensoge. Jave, nia Dio, ne sendis vin por diri: ‘Vi ne iru en Egiption por loĝi tie;’ sed Baruĥ, filo de Nerija, incitas vin kontraŭ ni, por transdoni nin en la manon de la Ĥaldeoj, por ke ili mortigu nin aŭ forkonduku nin kaptite en Babelon.”
+Kiam Jeremia finis paroli al la tuta popolo ĉiujn vortojn de Jave, ilia Dio, per kiuj Jave, ilia Dio, sendis lin al ili—jes, ĉiujn ĉi vortojn—tiam Azarja, filo de Hoŝaja, Johanano, filo de Kareah, kaj ĉiuj fieruloj ekparolis, dirante al Jeremia: “Vi parolas mensoge. Jave, nia Dio, ne sendis vin por diri: ‘Vi ne iru en Egiption por loĝi tie;’ sed Baruĥ, filo de Nerija, incitas vin kontraŭ ni, por transdoni nin en la manon de la Ĥaldeoj, por ke ili mortigu nin aŭ forkonduku nin kaptite en Babilonon.”
 
 Tial Johanano, filo de Kareah, kaj ĉiuj estroj de la militfortoj, kaj la tuta popolo ne obeis la voĉon de Jave, por loĝi en la lando de Judio. Sed Johanano, filo de Kareah, kaj ĉiuj estroj de la militfortoj prenis la tutan restaĵon de Judio, kiuj revenis el ĉiuj nacioj, kien ili estis forpelitaj, por loĝi en la lando de Judio—la virojn, la virinojn, la infanojn, la filinojn de la reĝo, kaj ĉiun personon, kiun Nebuzaradan, la estro de la korpogardistoj, lasis kun Gedalja, filo de Aĥikam, filo de Ŝafan; kaj la profeton Jeremia, kaj Baruĥon, filon de Nerija. Ili venis en la landon de Egiptio, ĉar ili ne obeis la voĉon de Jave; kaj ili venis al Taĥpanĥes.
 
-Tiam la vorto de Jave venis al Jeremia en Taĥpanĥes, dirante: “Prenu grandajn ŝtonojn en vian manon kaj kaŝu ilin en mortero en la brikaĵo, kiu estas ĉe la enirejo de la domo de Faraono en Taĥpanĥes, antaŭ la okuloj de la viroj de Judio. Kaj diru al ili: Tiele diras Jave Cebaot, la Dio de Israelo: ‘Jen Mi sendos kaj prenos Nebukadnecaron, la reĝon de Babel, Mian servanton, kaj Mi starigos lian tronon sur ĉi tiuj ŝtonoj, kiujn Mi kaŝis; kaj li etendos super ili sian reĝan tendon. Li venos kaj frapos la landon de Egiptio: tiuj, kiuj estas por morto, estos mortigitaj; kaj tiuj, kiuj estas por kaptiteco, en kaptitecon; kaj tiuj, kiuj estas por glavo, al glavo. Mi ekbruligos fajron en la domoj de la dioj de Egiptio. Li bruligos ilin kaj forkondukos ilin kaptite. Li vestos sin per la lando de Egiptio, kiel paŝtisto surmetas sian veston; kaj li eliros de tie en paco. Li ankaŭ disrompos la kolonojn de Bet-Ŝemeŝ, kiu estas en la lando de Egiptio; kaj li bruligos per fajro la domojn de la dioj de Egiptio.’”
+Tiam la vorto de Jave venis al Jeremia en Taĥpanĥes, dirante: “Prenu grandajn ŝtonojn en vian manon kaj kaŝu ilin en mortero en la brikaĵo, kiu estas ĉe la enirejo de la domo de Faraono en Taĥpanĥes, antaŭ la okuloj de la viroj de Judio. Kaj diru al ili: Tiele diras Jave Cebaot, la Dio de Israelo: ‘Jen Mi sendos kaj prenos Nebukadnecaron, la reĝon de Babilono, Mian servanton, kaj Mi starigos lian tronon sur ĉi tiuj ŝtonoj, kiujn Mi kaŝis; kaj li etendos super ili sian reĝan tendon. Li venos kaj frapos la landon de Egiptio: tiuj, kiuj estas por morto, estos mortigitaj; kaj tiuj, kiuj estas por kaptiteco, en kaptitecon; kaj tiuj, kiuj estas por glavo, al glavo. Mi ekbruligos fajron en la domoj de la dioj de Egiptio. Li bruligos ilin kaj forkondukos ilin kaptite. Li vestos sin per la lando de Egiptio, kiel paŝtisto surmetas sian veston; kaj li eliros de tie en paco. Li ankaŭ disrompos la kolonojn de Bet-Ŝemeŝ, kiu estas en la lando de Egiptio; kaj li bruligos per fajro la domojn de la dioj de Egiptio.’”
 
 ### Ĉapitro 44
 
@@ -37938,7 +37938,7 @@ Plue Jeremia diris al la tuta popolo, inkluzive de ĉiuj virinoj: “Aŭdu la vo
 
 “Tial aŭdu la vorton de Jave, tuta Judio, kiu loĝas en la lando Egipta: ‘Jen mi ĵuris per mia granda nomo,’ diras Jave, ‘ke mia nomo ne plu estos nomata en la buŝo de iu viro de Judio en la tuta lando Egipta, dirante: “Kiel vivas la Sinjoro Jave.” Jen mi viglas super ili por malbono, kaj ne por bono; kaj ĉiuj viroj de Judio, kiuj estas en la lando Egipta, estos konsumitaj per glavo kaj per malsato, ĝis ili ĉiuj pereos. Tiuj, kiuj eskapos de la glavo, revenos el la lando Egipta en la landon Judion malmultnombre. Kaj la tuta restaĵo de Judio, kiuj iris en la landon Egiptan por loĝi tie, ekscios, kies vorto staros: mia aŭ ilia.
 
-“‘Ĉi tio estos la signo por vi,’ diras Jave, ‘ke mi punos vin en ĉi tiu loko, por ke vi sciu, ke miaj vortoj certe staros kontraŭ vi por malbono.’ Tiele diras Jave: ‘Jen mi transdonos Faraon Hofran, reĝon de Egiptio, en la manon de liaj malamikoj kaj en la manon de tiuj, kiuj serĉas lian vivon, kiel mi transdonis Cidkijan, reĝon de Judio, en la manon de Nebukadnecar, reĝo de Babel, kiu estis lia malamiko kaj serĉis lian vivon.’”
+“‘Ĉi tio estos la signo por vi,’ diras Jave, ‘ke mi punos vin en ĉi tiu loko, por ke vi sciu, ke miaj vortoj certe staros kontraŭ vi por malbono.’ Tiele diras Jave: ‘Jen mi transdonos Faraon Hofran, reĝon de Egiptio, en la manon de liaj malamikoj kaj en la manon de tiuj, kiuj serĉas lian vivon, kiel mi transdonis Cidkijan, reĝon de Judio, en la manon de Nebukadnecar, reĝo de Babilono, kiu estis lia malamiko kaj serĉis lian vivon.’”
 
 ### Ĉapitro 45
 
@@ -37950,7 +37950,7 @@ La mesaĝo, kiun la profeto Jeremia parolis al Baruĥ, filo de Nerija, kiam li s
 
 La vorto de Jave, kiu venis al Jeremia la profeto pri la nacioj.
 
-Pri Egiptio: pri la armeo de Faraono Neĥo, reĝo de Egiptio, kiu estis ĉe la rivero Eŭfrato en Karkemiŝ, kiun Nebukadnecar, reĝo de Babel, frapis en la kvara jaro de Jehojakim, filo de Joŝija, reĝo de Judio.
+Pri Egiptio: pri la armeo de Faraono Neĥo, reĝo de Egiptio, kiu estis ĉe la rivero Eŭfrato en Karkemiŝ, kiun Nebukadnecar, reĝo de Babilono, frapis en la kvara jaro de Jehojakim, filo de Joŝija, reĝo de Judio.
 
 “Pretigu la ŝildeton kaj la ŝildon,  
 kaj alproksimiĝu al batalo!  
@@ -37996,7 +37996,7 @@ kaj la tero estas plena je via krio;
 ĉar la fortulo stumblis kontraŭ la fortulo,  
 ili ambaŭ falas kune.”
 
-La vorto, kiun Jave parolis al Jeremia la profeto, ke Nebukadnecar, reĝo de Babel, venos kaj frapos la landon de Egiptio:
+La vorto, kiun Jave parolis al Jeremia la profeto, ke Nebukadnecar, reĝo de Babilono, venos kaj frapos la landon de Egiptio:
 
 “Proklamu en Egiptio,  
 publikigu en Migdol,  
@@ -38042,7 +38042,7 @@ kaj estas sennombraj.
 La filino de Egiptio estos hontigita;  
 ŝi estos transdonita en la manon de la popolo de la nordo.’”
 
-Jave Cebaot, la Dio de Israelo, diras: “Jen, mi punos Amonon de No, kaj Faraonon, kaj Egiption, kun ĝiaj dioj kaj ĝiaj reĝoj, eĉ Faraonon, kaj tiujn, kiuj fidas je li. Mi transdonos ilin en la manon de tiuj, kiuj serĉas ilian vivon, kaj en la manon de Nebukadnecar, reĝo de Babel, kaj en la manon de liaj servantoj. Poste ĝi estos loĝata, kiel en la tagoj de antaŭe,” diras Jave.
+Jave Cebaot, la Dio de Israelo, diras: “Jen, mi punos Amonon de No, kaj Faraonon, kaj Egiption, kun ĝiaj dioj kaj ĝiaj reĝoj, eĉ Faraonon, kaj tiujn, kiuj fidas je li. Mi transdonos ilin en la manon de tiuj, kiuj serĉas ilian vivon, kaj en la manon de Nebukadnecar, reĝo de Babilono, kaj en la manon de liaj servantoj. Poste ĝi estos loĝata, kiel en la tagoj de antaŭe,” diras Jave.
 
 “Sed vi ne timu, Jakobo, mia servanto.  
 Ne konsterniĝu, Israelo;  
@@ -38551,7 +38551,7 @@ diras Jave Cebaot.
 “Mi ekbruligos fajron en la muro de Damasko,
 kaj ĝi formanĝos la palacojn de Ben-Hadad.”
 
-Pri Kedar, kaj pri la regnoj de Ĥacor, kiujn Nebukadnecar, reĝo de Babel, frapis, Jave diras:
+Pri Kedar, kaj pri la regnoj de Ĥacor, kiujn Nebukadnecar, reĝo de Babilono, frapis, Jave diras:
 
 “Leviĝu, iru supren al Kedar,
 kaj ekstermu la idojn de la oriento.
@@ -38562,7 +38562,7 @@ kaj ili krios al ili: ‘Teruro ĉie ĉirkaŭe!’
 Fuĝu!
 Vagadu malproksimen!
 Loĝu en la profundaĵoj, vi loĝantoj de Ĥacor,” diras Jave;
-“ĉar Nebukadnecar, reĝo de Babel, prenis konsilon kontraŭ vi,
+“ĉar Nebukadnecar, reĝo de Babilono, prenis konsilon kontraŭ vi,
 kaj elpensis intencon kontraŭ vi.
 Leviĝu! Iru supren al nacio, kiu estas trankvila,
 kiu loĝas sen zorgo,” diras Jave;
@@ -38599,7 +38599,7 @@ ke mi revenigos la kaptitecon de Elam,’ diras Jave.”
 
 ### Ĉapitro 50
 
-La vorto, kiun Jave parolis pri Babel, pri la lando de la Ĥaldeoj, per la profeto Jeremia.
+La vorto, kiun Jave parolis pri Babilono, pri la lando de la Ĥaldeoj, per la profeto Jeremia.
 
 “Proklamu inter la nacioj kaj publikigu,
 
@@ -38607,7 +38607,7 @@ starigu standardon;
 
 publikigu, kaj ne kaŝu;
 
-diru: ‘Babel estas prenita,
+diru: ‘Babilono estas prenita,
 
 Bel estas hontigita,
 
@@ -38665,7 +38665,7 @@ la loĝejo de justeco,
 
 jes, kontraŭ Jave, la espero de iliaj patroj.’
 
-“Forkuru el la mezo de Babel!
+“Forkuru el la mezo de Babilono!
 
 Eliru el la lando de la Ĥaldeoj,
 
@@ -38673,7 +38673,7 @@ kaj estu kiel virkaproj antaŭ la gregoj.
 
 Ĉar jen Mi ekscitos
 
-kaj venigos kontraŭ Babel aron da grandaj nacioj el la norda lando;
+kaj venigos kontraŭ Babilono aron da grandaj nacioj el la norda lando;
 
 kaj ili sin aranĝos kontraŭ ŝi.
 
@@ -38709,11 +38709,11 @@ Pro la kolero de Jave ŝi ne estos loĝata,
 
 sed ŝi estos tute dezerta.
 
-Ĉiu, kiu preterpasos Babelon, miros,
+Ĉiu, kiu preterpasos Babilonon, miros,
 
 kaj fajfos pro ĉiuj ŝiaj plagoj.
 
-Aranĝu vin kontraŭ Babel ĉirkaŭe,
+Aranĝu vin kontraŭ Babilono ĉirkaŭe,
 
 ĉiuj, kiuj streĉas la pafarkon;
 
@@ -38737,7 +38737,7 @@ Venĝu vin je ŝi.
 
 Kiel ŝi faris, tiel faru al ŝi.
 
-Elhaku la semanton el Babel,
+Elhaku la semanton el Babilono,
 
 kaj tiun, kiu tenas la rikoltilon en la tempo de rikolto.
 
@@ -38753,11 +38753,11 @@ Leonoj forpelis lin.
 
 Unue la reĝo de Asirio formanĝis lin,
 
-kaj nun fine Nebukadnecar, reĝo de Babel, rompis liajn ostojn.”
+kaj nun fine Nebukadnecar, reĝo de Babilono, rompis liajn ostojn.”
 
 Tial tiel diras Jave Cebaot, la Dio de Israelo:
 
-“Jen Mi punos la reĝon de Babel kaj lian landon,
+“Jen Mi punos la reĝon de Babilono kaj lian landon,
 
 kiel Mi punis la reĝon de Asirio.
 
@@ -38793,11 +38793,11 @@ kaj de granda pereo.
 
 Kiel la martelo de la tuta tero estas dispecigita kaj rompita!
 
-Kiel Babel fariĝis dezertaĵo inter la nacioj!
+Kiel Babilono fariĝis dezertaĵo inter la nacioj!
 
 Mi metis kaptilon por vi,
 
-kaj ankaŭ vi estas kaptita, ho Babel,
+kaj ankaŭ vi estas kaptita, ho Babilono,
 
 kaj vi ne sciis.
 
@@ -38831,13 +38831,13 @@ Ve al ili! ĉar venis ilia tago,
 
 la tempo de ilia vizitado.
 
-Aŭskultu la fuĝantojn kaj saviĝintojn el la lando de Babel,
+Aŭskultu la fuĝantojn kaj saviĝintojn el la lando de Babilono,
 
 por anonci en Cion la venĝon de Jave, nia Dio,
 
 la venĝon de Lia templo.
 
-“Kunvoku la pafarkistojn kontraŭ Babel,
+“Kunvoku la pafarkistojn kontraŭ Babilono,
 
 ĉiujn, kiuj streĉas la pafarkon.
 
@@ -38885,11 +38885,11 @@ Li plene defendos ilian aferon,
 
 por doni ripozon al la tero,
 
-kaj maltrankviligi la loĝantojn de Babel.
+kaj maltrankviligi la loĝantojn de Babilono.
 
 “Glavo estas kontraŭ la Ĥaldeoj,” diras Jave,
 
-“kaj kontraŭ la loĝantoj de Babel,
+“kaj kontraŭ la loĝantoj de Babilono,
 
 kontraŭ ŝiaj princoj,
 
@@ -38955,9 +38955,9 @@ Ili rajdas sur ĉevaloj,
 
 kiel homo por batalo,
 
-kontraŭ vi, filino de Babel.
+kontraŭ vi, filino de Babilono.
 
-La reĝo de Babel aŭdis la sciigon pri ili,
+La reĝo de Babilono aŭdis la sciigon pri ili,
 
 kaj liaj manoj senfortiĝis.
 
@@ -38983,7 +38983,7 @@ Kaj kiu estas la paŝtisto, kiu povas stari antaŭ Mi?”
 
 Tial aŭdu la konsilon de Jave,
 
-kiun Li prenis kontraŭ Babel;
+kiun Li prenis kontraŭ Babilono;
 
 kaj Liajn intencojn,
 
@@ -38995,7 +38995,7 @@ eĉ la plej etajn de la grego.
 
 Certe Li dezertigos ilian loĝejon pro ili.
 
-La tero tremas pro la bruo de la preno de Babel.
+La tero tremas pro la bruo de la preno de Babilono.
 
 La krio aŭdiĝas inter la nacioj.
 
@@ -39003,11 +39003,11 @@ La krio aŭdiĝas inter la nacioj.
 
 Jave diras:
 
-“Jen, mi levos kontraŭ Babelon,
+“Jen, mi levos kontraŭ Babilonon,
 
 kaj kontraŭ tiuj, kiuj loĝas en Lebkamaj, detruan venton.
 
-Mi sendos al Babelon fremdulojn, kiuj ventumos ŝin.
+Mi sendos al Babilonon fremdulojn, kiuj ventumos ŝin.
 
 Ili malplenigos ŝian landon;
 
@@ -39031,7 +39031,7 @@ de Jave Cebaot;
 
 kvankam ilia lando estas plena je kulpo kontraŭ la Sanktulo de Israelo.
 
-“Forkuru el la mezo de Babel!
+“Forkuru el la mezo de Babilono!
 
 Ĉiu savu sian propran vivon!
 
@@ -39041,7 +39041,7 @@ Ne estu ekstermitaj pro ŝia malpieco,
 
 Li repagos al ŝi rekompencon.
 
-Babelo estis ora pokalo en la mano de Jave,
+Babilono estis ora pokalo en la mano de Jave,
 
 kiu ebriigis la tutan teron.
 
@@ -39049,7 +39049,7 @@ La nacioj trinkis el ŝia vino;
 
 tial la nacioj freneziĝis.
 
-Babelo subite falis kaj estis detruita!
+Babilono subite falis kaj estis detruita!
 
 Ploru pro ŝi!
 
@@ -39057,7 +39057,7 @@ Prenu balzamon por ŝia doloro.
 
 Eble ŝi resaniĝos.
 
-“Ni estus resanigintaj Babelon,
+“Ni estus resanigintaj Babilonon,
 
 sed ŝi ne resaniĝis.
 
@@ -39079,13 +39079,13 @@ Firme tenu la ŝildojn!
 
 Jave ekscitis la spiriton de la reĝoj de la Medoj,
 
-ĉar lia intenco estas kontraŭ Babelon, por ĝin detrui;
+ĉar lia intenco estas kontraŭ Babilonon, por ĝin detrui;
 
 ĉar tio estas la venĝo de Jave,
 
 la venĝo pro lia templo.
 
-Starigu standardon kontraŭ la muroj de Babel!
+Starigu standardon kontraŭ la muroj de Babilono!
 
 Fortigu la gardadon!
 
@@ -39095,7 +39095,7 @@ kaj pretigu la embuskojn;
 
 ĉar Jave kaj intencis kaj faris
 
-tion, kion li parolis pri la loĝantoj de Babel.
+tion, kion li parolis pri la loĝantoj de Babilono.
 
 Vi, kiu loĝas ĉe multaj akvoj, abunda je trezoroj,
 
@@ -39185,7 +39185,7 @@ Per vi mi dispecigos
 
 regantojn kaj deputitojn.
 
-“Mi repagos al Babelon kaj al ĉiuj loĝantoj de Ĥaldeujo la tutan malbonon, kiun ili faris en Cion antaŭ viaj okuloj,” diras Jave.
+“Mi repagos al Babilonon kaj al ĉiuj loĝantoj de Ĥaldeujo la tutan malbonon, kiun ili faris en Cion antaŭ viaj okuloj,” diras Jave.
 
 “Jen, mi estas kontraŭ vi, ho detrua monto,” diras Jave,
 
@@ -39221,11 +39221,11 @@ la reĝojn de la Medoj, ĝiajn regantojn kaj ĉiujn ĝiajn deputitojn, kaj la tu
 
 La lando tremas kaj suferas;
 
-ĉar la intencoj de Jave kontraŭ Babelon staras,
+ĉar la intencoj de Jave kontraŭ Babilonon staras,
 
-por fari la landon de Babel dezerto, sen loĝanto.
+por fari la landon de Babilono dezerto, sen loĝanto.
 
-La fortuloj de Babel ĉesis batali,
+La fortuloj de Babilono ĉesis batali,
 
 ili restas en siaj fortikaĵoj.
 
@@ -39241,7 +39241,7 @@ Unu kuristo kuros por renkonti alian,
 
 kaj unu mesaĝisto por renkonti alian,
 
-por sciigi al la reĝo de Babel, ke lia urbo estas prenita de ĉiu flanko.
+por sciigi al la reĝo de Babilono, ke lia urbo estas prenita de ĉiu flanko.
 
 Tiel la transirejoj estas okupitaj.
 
@@ -39251,11 +39251,11 @@ La militistoj estas timigitaj.”
 
 Ĉar Jave Cebaot, la Dio de Israelo, diras:
 
-“La filino de Babel estas kiel draŝejo en la tempo, kiam oni ĝin tretas.
+“La filino de Babilono estas kiel draŝejo en la tempo, kiam oni ĝin tretas.
 
 Tamen ankoraŭ iom, kaj venos por ŝi la tempo de rikolto.”
 
-“Nebukadnecar, la reĝo de Babel, min formanĝis.
+“Nebukadnecar, la reĝo de Babilono, min formanĝis.
 
 Li min dispremis.
 
@@ -39267,7 +39267,7 @@ Li plenigis sian buŝon per miaj frandaĵoj.
 
 Li min elĵetis.
 
-La perforto farita al mi kaj al mia karno estu sur Babel!”
+La perforto farita al mi kaj al mia karno estu sur Babilono!”
 
 diros la loĝanto de Cion; kaj:
 
@@ -39285,7 +39285,7 @@ Mi sekigos ŝian maron,
 
 kaj igos ŝian fonton seka.
 
-Babelo fariĝos amasoj,
+Babilono fariĝos amasoj,
 
 loĝejo por ŝakaloj,
 
@@ -39315,9 +39315,9 @@ kiel virŝafojn kun virkaproj.
 
 Kiel la laŭdo de la tuta tero estas kaptita!
 
-Kiel Babelo fariĝis dezerto inter la nacioj!
+Kiel Babilono fariĝis dezerto inter la nacioj!
 
-La maro leviĝis sur Babelon.
+La maro leviĝis sur Babilonon.
 
 Ŝi estas kovrita de la amaso de ĝiaj ondoj.
 
@@ -39329,13 +39329,13 @@ lando, en kiu neniu homo loĝas.
 
 Neniu homido pasas tra ĝi.
 
-Mi plenumos juĝon kontraŭ Bel en Babel,
+Mi plenumos juĝon kontraŭ Bel en Babilono,
 
 kaj mi eligos el lia buŝo tion, kion li englutis.
 
 La nacioj ne plu fluos al li.
 
-Jes, la muro de Babel falos.
+Jes, la muro de Babilono falos.
 
 “Mia popolo, foriru el ŝia mezo,
 
@@ -39353,7 +39353,7 @@ kaj perforto en la lando,
 
 reganto kontraŭ reganto.
 
-Tial jen, venas tagoj, kiam mi plenumos juĝon kontraŭ la gravuritaj bildoj de Babel;
+Tial jen, venas tagoj, kiam mi plenumos juĝon kontraŭ la gravuritaj bildoj de Babilono;
 
 kaj ŝia tuta lando estos konfuzita.
 
@@ -39363,13 +39363,13 @@ Tiam la ĉieloj kaj la tero,
 
 kaj ĉio, kio estas en ili,
 
-kantos pro ĝojo super Babel;
+kantos pro ĝojo super Babilono;
 
 ĉar la detruantoj venos al ŝi el la nordo,” diras Jave.
 
-“Kiel Babelo faligis la mortigitajn de Israelo,
+“Kiel Babilono faligis la mortigitajn de Israelo,
 
-tiel ĉe Babel falos la mortigitaj de la tuta lando.
+tiel ĉe Babilono falos la mortigitaj de la tuta lando.
 
 Vi, kiuj eskapis de la glavo, iru!
 
@@ -39393,17 +39393,17 @@ Honto kovris niajn vizaĝojn,
 
 kaj tra ŝia tuta lando la vunditoj ĝemos.
 
-Kvankam Babelo suprenirus ĝis la ĉielo,
+Kvankam Babilono suprenirus ĝis la ĉielo,
 
 kaj kvankam ŝi fortikigus la altecon de sia forto,
 
 tamen detruantoj venos al ŝi de mi,” diras Jave.
 
-“La sono de krio venas el Babel,
+“La sono de krio venas el Babilono,
 
 kaj de granda detruo el la lando de la Ĥaldeoj!
 
-Ĉar Jave ruinigas Babelon,
+Ĉar Jave ruinigas Babilonon,
 
 kaj el ŝi neniigas la grandan voĉon!
 
@@ -39413,7 +39413,7 @@ La bruo de ilia voĉo aŭdiĝas.
 
 Ĉar la detruanto venis sur ŝin,
 
-sur Babelon.
+sur Babilonon.
 
 Ŝiaj fortuloj estas kaptitaj.
 
@@ -39435,7 +39435,7 @@ diras la Reĝo, kies nomo estas Jave Cebaot.
 
 Jave Cebaot diras:
 
-“La larĝaj muroj de Babel estos tute faligitaj.
+“La larĝaj muroj de Babilono estos tute faligitaj.
 
 Ŝiaj altaj pordegoj estos bruligitaj per fajro.
 
@@ -39445,7 +39445,7 @@ kaj la nacioj por la fajro;
 
 kaj ili laciĝos.”
 
-La vorto, kiun la profeto Jeremia ordonis al Seraja, filo de Nerija, filo de Mahseja, kiam li iris kun Cidkija, reĝo de Jehuda, al Babel en la kvara jaro de lia regado. Seraja estis ĉefprovizisto. Jeremia skribis en libro la tutan malbonon, kiu devis veni sur Babelon, ĉiujn ĉi vortojn, kiuj estas skribitaj pri Babel. Jeremia diris al Seraja: “Kiam vi venos al Babel, tiam zorgu, ke vi legu ĉiujn ĉi vortojn, kaj diru: ‘Jave, vi parolis pri ĉi tiu loko, por ekstermi ĝin, ke neniu loĝu en ĝi, nek homo nek besto, sed ke ĝi estu dezerta por ĉiam.’ Kaj estos, kiam vi finos legi ĉi tiun libron, ke vi ligos ŝtonon al ĝi, kaj ĵetos ĝin en la mezon de Eŭfrato. Tiam vi diros: ‘Tiel Babelo sinkos, kaj ne releviĝos pro la malbono, kiun mi venigos sur ŝin; kaj ili laciĝos.’”
+La vorto, kiun la profeto Jeremia ordonis al Seraja, filo de Nerija, filo de Mahseja, kiam li iris kun Cidkija, reĝo de Jehuda, al Babilono en la kvara jaro de lia regado. Seraja estis ĉefprovizisto. Jeremia skribis en libro la tutan malbonon, kiu devis veni sur Babilonon, ĉiujn ĉi vortojn, kiuj estas skribitaj pri Babilono. Jeremia diris al Seraja: “Kiam vi venos al Babilono, tiam zorgu, ke vi legu ĉiujn ĉi vortojn, kaj diru: ‘Jave, vi parolis pri ĉi tiu loko, por ekstermi ĝin, ke neniu loĝu en ĝi, nek homo nek besto, sed ke ĝi estu dezerta por ĉiam.’ Kaj estos, kiam vi finos legi ĉi tiun libron, ke vi ligos ŝtonon al ĝi, kaj ĵetos ĝin en la mezon de Eŭfrato. Tiam vi diros: ‘Tiel Babilono sinkos, kaj ne releviĝos pro la malbono, kiun mi venigos sur ŝin; kaj ili laciĝos.’”
 
 Ĝis ĉi tie estas la vortoj de Jeremia.
 
@@ -39453,17 +39453,17 @@ La vorto, kiun la profeto Jeremia ordonis al Seraja, filo de Nerija, filo de Mah
 
 Cidekija havis dudek unu jarojn, kiam li ekreĝis. Li reĝis dek unu jarojn en Jerusalemo. La nomo de lia patrino estis Ĥamutal, filino de Jeremia el Libna. Li faris tion, kio estis malbona antaŭ la okuloj de Jave, laŭ ĉio, kion faris Jehojakim. Ĉar pro la kolero de Jave tio okazis en Jerusalemo kaj en Judio, ĝis Li forĵetis ilin el Sia ĉeesto.
 
-Cidekija ribelis kontraŭ la reĝo de Babel. En la naŭa jaro de lia regado, en la deka monato, en la deka tago de la monato, Nebukadnecar, reĝo de Babel, venis, li kaj lia tuta armeo, kontraŭ Jerusalemon, kaj ili tendaris kontraŭ ĝi; kaj ili konstruis ĉirkaŭ ĝi sieĝfortikaĵojn. Tiel la urbo estis sieĝata ĝis la dek-unua jaro de la reĝo Cidekija.
+Cidekija ribelis kontraŭ la reĝo de Babilono. En la naŭa jaro de lia regado, en la deka monato, en la deka tago de la monato, Nebukadnecar, reĝo de Babilono, venis, li kaj lia tuta armeo, kontraŭ Jerusalemon, kaj ili tendaris kontraŭ ĝi; kaj ili konstruis ĉirkaŭ ĝi sieĝfortikaĵojn. Tiel la urbo estis sieĝata ĝis la dek-unua jaro de la reĝo Cidekija.
 
-En la kvara monato, en la naŭa tago de la monato, la malsato estis severa en la urbo, tiel ke ne estis pano por la popolo de la lando. Tiam rompo estis farita en la urbo, kaj ĉiuj militistoj fuĝis, kaj eliris el la urbo nokte laŭ la vojo de la pordego inter la du muroj, kiu estis apud la reĝa ĝardeno. La Ĥaldeoj estis ĉirkaŭ la urbo ĉiuflanke. La militistoj iris direkte al la Araba, sed la armeo de la Ĥaldeoj postkuris la reĝon kaj atingis Cidekijan sur la ebenaĵoj de Jeriĥo; kaj lia tuta armeo disiĝis de li. Tiam ili kaptis la reĝon kaj kondukis lin supren al la reĝo de Babel en Riblan en la lando Ĥamat; kaj li eldiris juĝon kontraŭ li. La reĝo de Babel mortigis la filojn de Cidekija antaŭ liaj okuloj. Li ankaŭ mortigis ĉiujn princojn de Judio en Ribla. Li elpikis la okulojn de Cidekija; kaj la reĝo de Babel ligis lin per katenoj kaj kondukis lin al Babel, kaj metis lin en malliberejon ĝis la tago de lia morto.
+En la kvara monato, en la naŭa tago de la monato, la malsato estis severa en la urbo, tiel ke ne estis pano por la popolo de la lando. Tiam rompo estis farita en la urbo, kaj ĉiuj militistoj fuĝis, kaj eliris el la urbo nokte laŭ la vojo de la pordego inter la du muroj, kiu estis apud la reĝa ĝardeno. La Ĥaldeoj estis ĉirkaŭ la urbo ĉiuflanke. La militistoj iris direkte al la Araba, sed la armeo de la Ĥaldeoj postkuris la reĝon kaj atingis Cidekijan sur la ebenaĵoj de Jeriĥo; kaj lia tuta armeo disiĝis de li. Tiam ili kaptis la reĝon kaj kondukis lin supren al la reĝo de Babilono en Riblan en la lando Ĥamat; kaj li eldiris juĝon kontraŭ li. La reĝo de Babilono mortigis la filojn de Cidekija antaŭ liaj okuloj. Li ankaŭ mortigis ĉiujn princojn de Judio en Ribla. Li elpikis la okulojn de Cidekija; kaj la reĝo de Babilono ligis lin per katenoj kaj kondukis lin al Babilono, kaj metis lin en malliberejon ĝis la tago de lia morto.
 
-En la kvina monato, en la deka tago de la monato, tio estas en la dek-naŭa jaro de la reĝo Nebukadnecar, reĝo de Babel, Nebuzaradan, la estro de la gardistaro, kiu staris antaŭ la reĝo de Babel, venis en Jerusalemon. Li forbruligis la domon de Jave kaj la reĝan domon; kaj ĉiujn domojn de Jerusalemo, eĉ ĉiun grandan domon, li forbruligis per fajro. La tuta armeo de la Ĥaldeoj, kiuj estis kun la estro de la gardistaro, malkonstruis ĉiujn murojn de Jerusalemo ĉirkaŭe. Tiam Nebuzaradan, la estro de la gardistaro, forkondukis en kaptitecon el la plej malriĉaj el la popolo, kaj la reston de la popolo, kiuj restis en la urbo, kaj tiujn, kiuj transiris, kiuj defalis al la reĝo de Babel, kaj la reston de la amaso. Sed Nebuzaradan, la estro de la gardistaro, lasis el la plej malriĉaj de la lando por esti vinberej-gardistoj kaj terkultivistoj.
+En la kvina monato, en la deka tago de la monato, tio estas en la dek-naŭa jaro de la reĝo Nebukadnecar, reĝo de Babilono, Nebuzaradan, la estro de la gardistaro, kiu staris antaŭ la reĝo de Babilono, venis en Jerusalemon. Li forbruligis la domon de Jave kaj la reĝan domon; kaj ĉiujn domojn de Jerusalemo, eĉ ĉiun grandan domon, li forbruligis per fajro. La tuta armeo de la Ĥaldeoj, kiuj estis kun la estro de la gardistaro, malkonstruis ĉiujn murojn de Jerusalemo ĉirkaŭe. Tiam Nebuzaradan, la estro de la gardistaro, forkondukis en kaptitecon el la plej malriĉaj el la popolo, kaj la reston de la popolo, kiuj restis en la urbo, kaj tiujn, kiuj transiris, kiuj defalis al la reĝo de Babilono, kaj la reston de la amaso. Sed Nebuzaradan, la estro de la gardistaro, lasis el la plej malriĉaj de la lando por esti vinberej-gardistoj kaj terkultivistoj.
 
-La Ĥaldeoj disrompis la bronzajn kolonojn, kiuj estis en la domo de Jave, kaj la bazojn kaj la bronzan maron, kiuj estis en la domo de Jave, en pecojn, kaj forportis la tutan ilian bronzon al Babel. Ili ankaŭ forprenis la potojn, la ŝovelilojn, la estingilojn, la pelvojn, la kulerojn, kaj ĉiujn bronzajn vazojn, per kiuj oni servis. La estro de la gardistaro forprenis la tasojn, la fajrujojn, la pelvojn, la potojn, la lampingojn, la kulerojn, kaj la bovlojn; kio estis el oro, kiel oro, kaj kio estis el arĝento, kiel arĝento.
+La Ĥaldeoj disrompis la bronzajn kolonojn, kiuj estis en la domo de Jave, kaj la bazojn kaj la bronzan maron, kiuj estis en la domo de Jave, en pecojn, kaj forportis la tutan ilian bronzon al Babilono. Ili ankaŭ forprenis la potojn, la ŝovelilojn, la estingilojn, la pelvojn, la kulerojn, kaj ĉiujn bronzajn vazojn, per kiuj oni servis. La estro de la gardistaro forprenis la tasojn, la fajrujojn, la pelvojn, la potojn, la lampingojn, la kulerojn, kaj la bovlojn; kio estis el oro, kiel oro, kaj kio estis el arĝento, kiel arĝento.
 
 Ili forprenis la du kolonojn, la unu maron, kaj la dek du bronzajn bovojn, kiuj estis sub la bazoj, kiujn la reĝo Salomono faris por la domo de Jave. La bronzo de ĉiuj ĉi vazoj estis senpezigebla. Pri la kolonoj: la alto de unu kolono estis dek ok ulnoj; kaj ŝnuro de dek du ulnoj ĉirkaŭis ĝin; kaj ĝia dikeco estis kvar fingroj. Ĝi estis kava. Bronza kapitelo estis sur ĝi; kaj la alto de unu kapitelo estis kvin ulnoj, kun reto kaj granatoj sur la kapitelo ĉirkaŭe, ĉio el bronzo. La dua kolono ankaŭ havis la samon, kun granatoj. Estis naŭdek ses granatoj sur la flankoj; ĉiuj granatoj estis cent sur la reto ĉirkaŭe.
 
-La estro de la gardistaro prenis Serajan, la ĉefpastro, kaj Cefanjan, la duan pastron, kaj la tri sojlogardistojn; kaj el la urbo li prenis oficiron, kiu estis starigita super la militistoj; kaj sep virojn el tiuj, kiuj vidis la vizaĝon de la reĝo, kiuj troviĝis en la urbo; kaj la skribiston de la estro de la armeo, kiu registris la popolon de la lando; kaj sesdek virojn el la popolo de la lando, kiuj troviĝis meze de la urbo. Nebuzaradan, la estro de la gardistaro, prenis ilin kaj kondukis ilin al la reĝo de Babel en Riblan. La reĝo de Babel frapis ilin kaj mortigis ilin en Ribla en la lando Ĥamat.
+La estro de la gardistaro prenis Serajan, la ĉefpastro, kaj Cefanjan, la duan pastron, kaj la tri sojlogardistojn; kaj el la urbo li prenis oficiron, kiu estis starigita super la militistoj; kaj sep virojn el tiuj, kiuj vidis la vizaĝon de la reĝo, kiuj troviĝis en la urbo; kaj la skribiston de la estro de la armeo, kiu registris la popolon de la lando; kaj sesdek virojn el la popolo de la lando, kiuj troviĝis meze de la urbo. Nebuzaradan, la estro de la gardistaro, prenis ilin kaj kondukis ilin al la reĝo de Babilono en Riblan. La reĝo de Babilono frapis ilin kaj mortigis ilin en Ribla en la lando Ĥamat.
 
 Tiel Judio estis forkondukita en kaptitecon el sia lando. Jen la nombro de la homoj, kiujn Nebukadnecar forkondukis en kaptitecon:
 
@@ -39475,7 +39475,7 @@ en la dudek-tria jaro de Nebukadnecar, Nebuzaradan, la estro de la gardistaro, f
 
 La tuta nombro de la popolo estis kvar mil sescent.
 
-En la tridek-sepa jaro de la kaptiteco de Jehojaĥin, reĝo de Judio, en la dek-dua monato, en la dudek-kvina tago de la monato, Evil-Merodaĥ, reĝo de Babel, en la unua jaro de sia regado, levis la kapon de Jehojaĥin, reĝo de Judio, kaj liberigis lin el malliberejo. Li parolis afable al li, kaj starigis lian tronon super la tronon de la reĝoj, kiuj estis kun li en Babel, kaj ŝanĝis liajn malliberejajn vestojn. Jehojaĥin manĝis panon antaŭ li senĉese dum ĉiuj tagoj de sia vivo. Kaj pri lia porcio: estis konstanta porcio donata al li de la reĝo de Babel, ĉiutage porcio ĝis la tago de lia morto, dum ĉiuj tagoj de lia vivo.
+En la tridek-sepa jaro de la kaptiteco de Jehojaĥin, reĝo de Judio, en la dek-dua monato, en la dudek-kvina tago de la monato, Evil-Merodaĥ, reĝo de Babilono, en la unua jaro de sia regado, levis la kapon de Jehojaĥin, reĝo de Judio, kaj liberigis lin el malliberejo. Li parolis afable al li, kaj starigis lian tronon super la tronon de la reĝoj, kiuj estis kun li en Babilono, kaj ŝanĝis liajn malliberejajn vestojn. Jehojaĥin manĝis panon antaŭ li senĉese dum ĉiuj tagoj de sia vivo. Kaj pri lia porcio: estis konstanta porcio donata al li de la reĝo de Babilono, ĉiutage porcio ĝis la tago de lia morto, dum ĉiuj tagoj de lia vivo.
 
 ## Plorkantoj
 
@@ -40466,7 +40466,7 @@ Matene venis al mi la vorto de Jave, dirante: “Ho filo de homo, ĉu la domo de
 
 “Diru: ‘Mi estas via signo. Kiel mi faris, tiel estos farite al ili. Ili iros en ekzilon, en kaptitecon.
 
-“‘La princo, kiu estas inter ili, portos sian pakaĵon sur sia ŝultro en mallumo kaj eliros. Ili traboros la muron, por elporti tra ĝi. Li kovros sian vizaĝon, ĉar li ne vidos la landon per siaj okuloj. Mi ankaŭ etendos Mian reton sur lin, kaj li estos kaptita en Mia kaptilo. Mi venigos lin en Babelon, en la landon de la Ĥaldeoj; tamen li ne vidos ĝin, kvankam li mortos tie. Mi disĵetos al ĉiu vento ĉiujn, kiuj estas ĉirkaŭ li por helpi lin, kaj ĉiujn liajn taĉmentojn. Kaj Mi eltiros la glavon post ili.
+“‘La princo, kiu estas inter ili, portos sian pakaĵon sur sia ŝultro en mallumo kaj eliros. Ili traboros la muron, por elporti tra ĝi. Li kovros sian vizaĝon, ĉar li ne vidos la landon per siaj okuloj. Mi ankaŭ etendos Mian reton sur lin, kaj li estos kaptita en Mia kaptilo. Mi venigos lin en Babilonon, en la landon de la Ĥaldeoj; tamen li ne vidos ĝin, kvankam li mortos tie. Mi disĵetos al ĉiu vento ĉiujn, kiuj estas ĉirkaŭ li por helpi lin, kaj ĉiujn liajn taĉmentojn. Kaj Mi eltiros la glavon post ili.
 
 “‘Kaj ili scios, ke Mi estas Jave, kiam Mi disigos ilin inter la naciojn kaj disĵetos ilin tra la landoj. Sed Mi lasos el ili kelkajn homojn savitaj de glavo, de malsato kaj de pesto, por ke ili rakontu ĉiujn siajn abomenaĵojn inter la nacioj, kien ili venos. Tiam ili scios, ke Mi estas Jave.’”
 
@@ -40560,11 +40560,11 @@ La vorto de Jave venis al mi, dirante: “Ho filo de homo, proponu enigmon kaj p
 
 “Diru: ‘Tiele diras la Sinjoro Jave: “Ĉu ĝi prosperos? Ĉu li ne elŝiros ĝiajn radikojn kaj detranĉos ĝian frukton, por ke ĝi velku, por ke ĉiuj ĝiaj freŝaj elkreskantaj folioj velku? Oni ne povos ĝin levi el ĝiaj radikoj per forta brako aŭ per multaj homoj. Jes, jen, estante plantita, ĉu ĝi prosperos? Ĉu ĝi ne tute velkos, kiam la orienta vento ĝin tuŝos? Ĝi velkos sur la grundo, kie ĝi kreskis.” ’””
 
-Plue la vorto de Jave venis al mi, dirante: “Diru nun al la ribelema domo: ‘Ĉu vi ne scias, kion ĉi tiuj aferoj signifas?’ Diru al ili: ‘Jen, la reĝo de Babel venis al Jerusalemo kaj prenis ĝian reĝon kaj ĝiajn princojn, kaj kondukis ilin al si en Babelon. Li prenis unu el la reĝa idaro kaj faris kun li interligon. Li ankaŭ submetis lin al ĵuro kaj forprenis la potenculojn de la lando, por ke la regno estu humiliĝinta, por ke ĝi ne leviĝu, sed ke, tenante lian interligon, ĝi staru. Sed li ribelis kontraŭ li, sendante siajn senditojn en Egiption, por ke ili donu al li ĉevalojn kaj multan popolon. Ĉu li prosperos? Ĉu tiu, kiu faras tiajn aferojn, eskapos? Ĉu li rompos la interligon kaj tamen eskapos?
+Plue la vorto de Jave venis al mi, dirante: “Diru nun al la ribelema domo: ‘Ĉu vi ne scias, kion ĉi tiuj aferoj signifas?’ Diru al ili: ‘Jen, la reĝo de Babilono venis al Jerusalemo kaj prenis ĝian reĝon kaj ĝiajn princojn, kaj kondukis ilin al si en Babilonon. Li prenis unu el la reĝa idaro kaj faris kun li interligon. Li ankaŭ submetis lin al ĵuro kaj forprenis la potenculojn de la lando, por ke la regno estu humiliĝinta, por ke ĝi ne leviĝu, sed ke, tenante lian interligon, ĝi staru. Sed li ribelis kontraŭ li, sendante siajn senditojn en Egiption, por ke ili donu al li ĉevalojn kaj multan popolon. Ĉu li prosperos? Ĉu tiu, kiu faras tiajn aferojn, eskapos? Ĉu li rompos la interligon kaj tamen eskapos?
 
-“‘Kiel mi vivas,’ diras la Sinjoro Jave, ‘certe en la loko, kie loĝas la reĝo, kiu faris lin reĝo, kies ĵuron li malestimis kaj kies interligon li rompis, ĝuste ĉe li, meze de Babel, li mortos. Faraono kun sia potenca armeo kaj granda amaso ne helpos lin en la milito, kiam oni ĵetos remparojn kaj konstruos fortikaĵojn por ekstermi multajn homojn. Ĉar li malestimis la ĵuron rompante la interligon; kaj jen, li donis sian manon, kaj tamen faris ĉiujn ĉi aferojn. Li ne eskapos.
+“‘Kiel mi vivas,’ diras la Sinjoro Jave, ‘certe en la loko, kie loĝas la reĝo, kiu faris lin reĝo, kies ĵuron li malestimis kaj kies interligon li rompis, ĝuste ĉe li, meze de Babilono, li mortos. Faraono kun sia potenca armeo kaj granda amaso ne helpos lin en la milito, kiam oni ĵetos remparojn kaj konstruos fortikaĵojn por ekstermi multajn homojn. Ĉar li malestimis la ĵuron rompante la interligon; kaj jen, li donis sian manon, kaj tamen faris ĉiujn ĉi aferojn. Li ne eskapos.
 
-“Tial tiele diras la Sinjoro Jave: ‘Kiel mi vivas, mi certe venigos sur lian propran kapon mian ĵuron, kiun li malestimis, kaj mian interligon, kiun li rompis. Mi etendos mian reton super lin, kaj li estos kaptita en mia kaptilo. Mi kondukos lin al Babel, kaj tie mi eniros en juĝon kun li pro lia perfido, per kiu li perfidis kontraŭ mi. Ĉiuj liaj fuĝintoj en ĉiuj liaj taĉmentoj falos per glavo, kaj la restintoj estos disĵetitaj al ĉiu vento. Tiam vi scios, ke mi, Jave, tion parolis.’
+“Tial tiele diras la Sinjoro Jave: ‘Kiel mi vivas, mi certe venigos sur lian propran kapon mian ĵuron, kiun li malestimis, kaj mian interligon, kiun li rompis. Mi etendos mian reton super lin, kaj li estos kaptita en mia kaptilo. Mi kondukos lin al Babilono, kaj tie mi eniros en juĝon kun li pro lia perfido, per kiu li perfidis kontraŭ mi. Ĉiuj liaj fuĝintoj en ĉiuj liaj taĉmentoj falos per glavo, kaj la restintoj estos disĵetitaj al ĉiu vento. Tiam vi scios, ke mi, Jave, tion parolis.’
 
 “La Sinjoro Jave diras: ‘Mi ankaŭ prenos iom el la alta supro de la cedro kaj plantos ĝin. Mi detranĉos el la plej supra el ĝiaj junaj branĉetoj unu delikatan, kaj mi plantos ĝin sur alta kaj majesta monto. Mi plantos ĝin sur la monto de la alto de Israelo; kaj ĝi elproduktos branĉojn, portos frukton, kaj estos bona cedro. Birdoj de ĉiu speco loĝos en la ombro de ĝiaj branĉoj. Ĉiuj arboj de la kampo scios, ke mi, Jave, malaltigis la altan arbon, altigis la malaltan arbon, sekigis la verdan arbon, kaj igis la sekan arbon floradi.
 
@@ -40695,7 +40695,7 @@ Li estis kaptita en ilia fosaĵo.
 
 Ili metis lin en kaĝon per hokoj
 
-kaj kondukis lin al la reĝo de Babel.
+kaj kondukis lin al la reĝo de Babilono.
 
 Ili kondukis lin en fortikaĵojn,
 
@@ -40843,7 +40843,7 @@ kaj mi igos mian koleron ripozi.
 
 Mi, Jave, parolis.”
 
-La vorto de Jave venis al mi denove, dirante: “Ankaŭ vi, ho filo de homo, starigu du vojojn, por ke venu la glavo de la reĝo de Babel. Ambaŭ eliros el unu lando; kaj marku lokon. Marku ĝin ĉe la komenco de la vojo al la urbo. Vi starigu vojon, por ke la glavo venu al Rabba de la idoj de Amon, kaj al Judio, al Jerusalemo la fortikigita. Ĉar la reĝo de Babel staris ĉe la disiĝo de la vojo, ĉe la komenco de la du vojoj, por uzi aŭguradon. Li skuis la sagojn tien kaj reen. Li konsultis la terafimojn. Li rigardis en la hepaton. En lia dekstra mano estis la sorto por Jerusalemo: starigi batteramojn, malfermi la buŝon por buĉado, levi la voĉon per kriado, starigi batteramojn kontraŭ la pordegoj, ĵeti remparojn, kaj konstrui fortikaĵojn. Tio estos por ili kiel falsa aŭguro antaŭ iliaj okuloj, por tiuj, kiuj ĵuris al ili per ĵuroj; sed li rememorigas maljustecon, por ke ili estu kaptitaj.
+La vorto de Jave venis al mi denove, dirante: “Ankaŭ vi, ho filo de homo, starigu du vojojn, por ke venu la glavo de la reĝo de Babilono. Ambaŭ eliros el unu lando; kaj marku lokon. Marku ĝin ĉe la komenco de la vojo al la urbo. Vi starigu vojon, por ke la glavo venu al Rabba de la idoj de Amon, kaj al Judio, al Jerusalemo la fortikigita. Ĉar la reĝo de Babilono staris ĉe la disiĝo de la vojo, ĉe la komenco de la du vojoj, por uzi aŭguradon. Li skuis la sagojn tien kaj reen. Li konsultis la terafimojn. Li rigardis en la hepaton. En lia dekstra mano estis la sorto por Jerusalemo: starigi batteramojn, malfermi la buŝon por buĉado, levi la voĉon per kriado, starigi batteramojn kontraŭ la pordegoj, ĵeti remparojn, kaj konstrui fortikaĵojn. Tio estos por ili kiel falsa aŭguro antaŭ iliaj okuloj, por tiuj, kiuj ĵuris al ili per ĵuroj; sed li rememorigas maljustecon, por ke ili estu kaptitaj.
 
 “Pro tio tiele diras la Sinjoro Jave: ‘Ĉar vi igis vian maljustecon esti rememorata, per tio, ke viaj krimoj estas malkovritaj, tiel ke en ĉiuj viaj faroj viaj pekoj aperas; ĉar vi venis en memoron, vi estos kaptitaj per la mano.
 
@@ -40947,7 +40947,7 @@ Jave diris plue al mi: “Ho filo de homo, ĉu vi juĝos Oholah kaj Oholibah? Ti
 
 ### Ĉapitro 24
 
-Denove, en la naŭa jaro, en la deka monato, en la deka tago de la monato, venis al mi la vorto de Jave, dirante: “Ho filo de homo, skribu la nomon de la tago, de ĉi tiu sama tago. La reĝo de Babel alproksimiĝis al Jerusalemo en ĉi tiu sama tago. Elparolu parabolon al la ribelema domo, kaj diru al ili: ‘Tiele diras la Sinjoro Jave:
+Denove, en la naŭa jaro, en la deka monato, en la deka tago de la monato, venis al mi la vorto de Jave, dirante: “Ho filo de homo, skribu la nomon de la tago, de ĉi tiu sama tago. La reĝo de Babilono alproksimiĝis al Jerusalemo en ĉi tiu sama tago. Elparolu parabolon al la ribelema domo, kaj diru al ili: ‘Tiele diras la Sinjoro Jave:
 
 “Metu la kaldronon sur la fajron.
 
@@ -41057,7 +41057,7 @@ La vorto de Yahweh venis al mi, dirante: “Ho filo de homo, turnu vian vizaĝon
 
 En la dek-unua jaro, en la unua tago de la monato, venis al mi la vorto de Jave, dirante: “Ho filo de homo, ĉar Tiro diris kontraŭ Jerusalemo: ‘Ha! ŝi estas rompita! Tiu, kiu estis la pordego de la popoloj, estas redonita al mi. Mi repleniĝos, nun kiam ŝi estas dezertigita;’ tial tiel diras la Sinjoro Jave: ‘Jen Mi estas kontraŭ vi, Tiro, kaj Mi igos multajn naciojn leviĝi kontraŭ vi, kiel la maro levas siajn ondojn. Ili detruos la murojn de Tiro kaj faligos ŝiajn turojn. Mi ankaŭ forskrapos ŝian polvon de ŝi kaj faros ŝin nuda roko. Ŝi estos loko por etendado de retoj meze de la maro; ĉar Mi parolis tion,’ diras la Sinjoro Jave. ‘Ŝi fariĝos rabaĵo por la nacioj. Ŝiaj filinoj, kiuj estas sur la kampo, estos mortigitaj per glavo. Tiam ili scios, ke Mi estas Jave.’
 
-“Ĉar tiel diras la Sinjoro Jave: ‘Jen Mi venigos kontraŭ Tiron Nebukadnecaron, reĝon de Babel, reĝon de reĝoj, el la nordo, kun ĉevaloj, kun ĉaroj, kun rajdantoj, kaj kun armeo kun multe da popolo. Li mortigos viajn filinojn sur la kampo per glavo. Li starigos fortikaĵojn kontraŭ vi, amasigos remparon kontraŭ vi, kaj levos ŝildon kontraŭ vi. Li direktos siajn murrompilojn kontraŭ viajn murojn, kaj per siaj hakiloj li faligos viajn turojn. Pro la abundo de liaj ĉevaloj ilia polvo kovros vin. Viaj muroj skuiĝos pro la bruo de la rajdantoj, de la veturiloj kaj de la ĉaroj, kiam li eniros en viajn pordegojn, kiel oni eniras en urbon rompitan. Per la hufoj de siaj ĉevaloj li tretos ĉiujn viajn stratojn. Li mortigos vian popolon per glavo. La kolonoj de via forto falos sur la teron. Ili faros rabaĵon el viaj riĉaĵoj kaj predon el via komerco. Ili faligos viajn murojn kaj detruos viajn belajn domojn. Viajn ŝtonojn, vian lignon kaj vian polvon ili ĵetos en la mezon de la akvoj. Mi ĉesigos la bruon de viaj kantoj. La sono de viaj harpoj ne plu estos aŭdata. Mi faros vin nuda roko. Vi estos loko por etendado de retoj. Vi ne plu estos konstruita; ĉar Mi, Jave, parolis tion,’ diras la Sinjoro Jave.
+“Ĉar tiel diras la Sinjoro Jave: ‘Jen Mi venigos kontraŭ Tiron Nebukadnecaron, reĝon de Babilono, reĝon de reĝoj, el la nordo, kun ĉevaloj, kun ĉaroj, kun rajdantoj, kaj kun armeo kun multe da popolo. Li mortigos viajn filinojn sur la kampo per glavo. Li starigos fortikaĵojn kontraŭ vi, amasigos remparon kontraŭ vi, kaj levos ŝildon kontraŭ vi. Li direktos siajn murrompilojn kontraŭ viajn murojn, kaj per siaj hakiloj li faligos viajn turojn. Pro la abundo de liaj ĉevaloj ilia polvo kovros vin. Viaj muroj skuiĝos pro la bruo de la rajdantoj, de la veturiloj kaj de la ĉaroj, kiam li eniros en viajn pordegojn, kiel oni eniras en urbon rompitan. Per la hufoj de siaj ĉevaloj li tretos ĉiujn viajn stratojn. Li mortigos vian popolon per glavo. La kolonoj de via forto falos sur la teron. Ili faros rabaĵon el viaj riĉaĵoj kaj predon el via komerco. Ili faligos viajn murojn kaj detruos viajn belajn domojn. Viajn ŝtonojn, vian lignon kaj vian polvon ili ĵetos en la mezon de la akvoj. Mi ĉesigos la bruon de viaj kantoj. La sono de viaj harpoj ne plu estos aŭdata. Mi faros vin nuda roko. Vi estos loko por etendado de retoj. Vi ne plu estos konstruita; ĉar Mi, Jave, parolis tion,’ diras la Sinjoro Jave.
 
 “La Sinjoro Jave diras al Tiro: ‘Ĉu ne skuiĝos la insuloj pro la sono de via falo, kiam la vunditoj ĝemos, kiam la buĉado okazos interne de vi? Tiam ĉiuj princoj de la maro malsupreniros de siaj tronoj, demetos siajn mantelojn kaj senvestigos siajn broditajn vestojn. Ili vestos sin per tremado. Ili sidiĝos sur la tero, kaj tremos ĉiumomente, kaj miros pri vi. Ili ekkantos funebran kanton pri vi, kaj diros al vi,
 
@@ -41447,7 +41447,7 @@ kaj al la birdoj de la ĉielo.
 
 “‘Ĉar tiele diras la Sinjoro Jave: “Post la fino de kvardek jaroj Mi kolektos la Egiptojn el la popoloj, inter kiuj ili estis disĵetitaj. Mi returnigos la kaptitecon de Egiptio, kaj Mi revenigos ilin en la landon Patros, en la landon de ilia naskiĝo. Tie ili estos humila regno. Ĝi estos la plej malalta el la regnoj. Ĝi ne plu leviĝos super la naciojn. Mi malgrandigos ilin, por ke ili ne plu regu super la nacioj. Kaj ĝi ne plu estos la fido de la domo de Israelo, rememorigante maljustaĵon, kiam ili turnas sin por rigardi al ili. Tiam ili ekscios, ke Mi estas la Sinjoro Jave.” ’”
 
-Kaj okazis en la dudek-sepa jaro, en la unua monato, en la unua tago de la monato, venis al mi la vorto de Jave, dirante: “Ho filo de homo, Nebukadnecar, reĝo de Babel, igis sian armeon fari grandan servon kontraŭ Tiro. Ĉiu kapo fariĝis kalva, kaj ĉiu ŝultro estis eluzita; tamen li ne havis salajron, nek lia armeo, el Tiro, pro la servo, kiun li servis kontraŭ ĝi. Tial tiele diras la Sinjoro Jave: ‘Jen Mi donos la landon de Egiptio al Nebukadnecar, reĝo de Babel. Li forportos ĝian amason, prenos ĝian rabaĵon, kaj prenos ĝian predon. Tio estos la salajro por lia armeo. Mi donis al li la landon de Egiptio kiel lian pagon pro tio, kion li servis, ĉar ili laboris por Mi,’ diras la Sinjoro Jave.
+Kaj okazis en la dudek-sepa jaro, en la unua monato, en la unua tago de la monato, venis al mi la vorto de Jave, dirante: “Ho filo de homo, Nebukadnecar, reĝo de Babilono, igis sian armeon fari grandan servon kontraŭ Tiro. Ĉiu kapo fariĝis kalva, kaj ĉiu ŝultro estis eluzita; tamen li ne havis salajron, nek lia armeo, el Tiro, pro la servo, kiun li servis kontraŭ ĝi. Tial tiele diras la Sinjoro Jave: ‘Jen Mi donos la landon de Egiptio al Nebukadnecar, reĝo de Babilono. Li forportos ĝian amason, prenos ĝian rabaĵon, kaj prenos ĝian predon. Tio estos la salajro por lia armeo. Mi donis al li la landon de Egiptio kiel lian pagon pro tio, kion li servis, ĉar ili laboris por Mi,’ diras la Sinjoro Jave.
 
 “En tiu tago Mi igos kornon elkreski por la domo de Israelo, kaj Mi malfermos vian buŝon inter ili. Tiam ili ekscios, ke Mi estas Jave.”
 
@@ -41503,7 +41503,7 @@ kaj ĉiuj ĝiaj helpantoj estos detruitaj.
 
 “Mi ankaŭ ĉesigos la amason de Egiptio,
 
-per la mano de Nebukadnecar, reĝo de Babel.
+per la mano de Nebukadnecar, reĝo de Babilono.
 
 Li kaj lia popolo kun li,
 
@@ -41575,7 +41575,7 @@ Tiele mi plenumos juĝojn kontraŭ Egiptio.
 
 Tiam ili scios, ke mi estas Yahweh.” ’”
 
-En la dek-unua jaro, en la unua monato, en la sepa tago de la monato, la vorto de Yahweh venis al mi, dirante: “Ho filo de homo, mi rompis la brakon de Faraono, reĝo de Egiptio. Jen, ĝi ne estas bandaĝita, por apliki kuracilojn, por meti bandaĝon por ligi ĝin, por ke ĝi fortiĝu por teni la glavon. Tial tiele diras la Sinjoro Yahweh: ‘Jen, mi estas kontraŭ Faraono, reĝo de Egiptio, kaj mi rompos liajn brakojn, la fortan brakon, kaj tiun, kiu jam estis rompita. Mi igos la glavon fali el lia mano. Mi disĵetos la Egiptojn inter la naciojn, kaj mi disigos ilin tra la landoj. Mi fortigos la brakojn de la reĝo de Babel, kaj metos mian glavon en lian manon; sed mi rompos la brakojn de Faraono, kaj li ĝemos antaŭ la reĝo de Babel per la ĝemado de mortvundito. Mi subtenos la brakojn de la reĝo de Babel, sed la brakoj de Faraono falos malsupren. Tiam ili scios, ke mi estas Yahweh, kiam mi metos mian glavon en la manon de la reĝo de Babel, kaj li etendos ĝin kontraŭ la landon de Egiptio. Mi disĵetos la Egiptojn inter la naciojn kaj disigos ilin tra la landoj. Tiam ili scios, ke mi estas Yahweh.’”
+En la dek-unua jaro, en la unua monato, en la sepa tago de la monato, la vorto de Yahweh venis al mi, dirante: “Ho filo de homo, mi rompis la brakon de Faraono, reĝo de Egiptio. Jen, ĝi ne estas bandaĝita, por apliki kuracilojn, por meti bandaĝon por ligi ĝin, por ke ĝi fortiĝu por teni la glavon. Tial tiele diras la Sinjoro Yahweh: ‘Jen, mi estas kontraŭ Faraono, reĝo de Egiptio, kaj mi rompos liajn brakojn, la fortan brakon, kaj tiun, kiu jam estis rompita. Mi igos la glavon fali el lia mano. Mi disĵetos la Egiptojn inter la naciojn, kaj mi disigos ilin tra la landoj. Mi fortigos la brakojn de la reĝo de Babilono, kaj metos mian glavon en lian manon; sed mi rompos la brakojn de Faraono, kaj li ĝemos antaŭ la reĝo de Babilono per la ĝemado de mortvundito. Mi subtenos la brakojn de la reĝo de Babilono, sed la brakoj de Faraono falos malsupren. Tiam ili scios, ke mi estas Yahweh, kiam mi metos mian glavon en la manon de la reĝo de Babilono, kaj li etendos ĝin kontraŭ la landon de Egiptio. Mi disĵetos la Egiptojn inter la naciojn kaj disigos ilin tra la landoj. Tiam ili scios, ke mi estas Yahweh.’”
 
 ### Ĉapitro 31
 
@@ -41713,7 +41713,7 @@ en la tago de via falo.”
 
 Ĉar tiele diras la Sinjoro Jave:
 
-“La glavo de la reĝo de Babel venos sur vin.
+“La glavo de la reĝo de Babilono venos sur vin.
 
 Mi faligos vian amason per la glavoj de la potenculoj.
 
@@ -42091,7 +42091,7 @@ La Libro de Daniel
 
 ### Ĉapitro 1
 
-En la tria jaro de la regado de Jehojakim, reĝo de Judio, Nebukadnecar, reĝo de Babel, venis al Jerusalemo kaj sieĝis ĝin. Jave transdonis Jehojakim, reĝon de Judio, en lian manon, kune kun kelkaj el la vazoj de la domo de Dio; kaj li forportis ilin en la landon Ŝinar, en la domon de sia dio. Li enportis la vazojn en la trezorejon de sia dio.
+En la tria jaro de la regado de Jehojakim, reĝo de Judio, Nebukadnecar, reĝo de Babilono, venis al Jerusalemo kaj sieĝis ĝin. Jave transdonis Jehojakim, reĝon de Judio, en lian manon, kune kun kelkaj el la vazoj de la domo de Dio; kaj li forportis ilin en la landon Ŝinar, en la domon de sia dio. Li enportis la vazojn en la trezorejon de sia dio.
 
 La reĝo diris al Aŝpenaz, la estro de liaj eŭnukoj, ke li alkonduku kelkajn el la Israelidoj, el la reĝa idaro kaj el la nobeloj: junulojn sen ia difekto, belaspektajn, lertajn en ĉia saĝeco, dotitajn per scio, komprenemajn pri scienco, kaj kapablajn stari en la palaco de la reĝo; kaj ke li instruu al ili la lernadon kaj la lingvon de la Ĥaldeoj. La reĝo destinis por ili ĉiutagan porcion el la reĝaj frandaĵoj kaj el la vino, kiun li trinkis, kaj ke oni nutru ilin dum tri jaroj, por ke ĉe la fino ili staru antaŭ la reĝo.
 
@@ -42123,11 +42123,11 @@ La reĝo respondis: “Mi certe scias, ke vi provas gajni tempon, ĉar vi vidas,
 
 La Ĥaldeoj respondis al la reĝo kaj diris: “Ne ekzistas homo sur la tero, kiu povus montri la aferon de la reĝo; ĉar neniu reĝo, sinjoro, aŭ reganto postulis tian aferon de iu magiisto, sorĉisto, aŭ Ĥaldeo. Malofta estas la afero, kiun la reĝo postulas, kaj ne ekzistas alia, kiu povus montri ĝin antaŭ la reĝo, krom la dioj, kies loĝejo ne estas kun karno.”
 
-Pro tio la reĝo koleriĝis kaj tre furioziĝis, kaj ordonis, ke ĉiuj saĝuloj de Babel estu detruitaj. Tiel la dekreto eliris, kaj la saĝuloj devis esti mortigitaj. Oni serĉis Danielon kaj liajn kunulojn por mortigi ilin.
+Pro tio la reĝo koleriĝis kaj tre furioziĝis, kaj ordonis, ke ĉiuj saĝuloj de Babilono estu detruitaj. Tiel la dekreto eliris, kaj la saĝuloj devis esti mortigitaj. Oni serĉis Danielon kaj liajn kunulojn por mortigi ilin.
 
-Tiam Daniel respondis kun konsilo kaj prudento al Arjok, la estro de la reĝa gvardio, kiu eliris por mortigi la saĝulojn de Babel. Li respondis al Arjok, la kapitano de la reĝo: “Kial la dekreto estas tiel urĝa de la reĝo?” Tiam Arjok sciigis la aferon al Daniel. Daniel eniris kaj petis de la reĝo, ke li difinu al li tempon, kaj li montros al la reĝo la klarigon.
+Tiam Daniel respondis kun konsilo kaj prudento al Arjok, la estro de la reĝa gvardio, kiu eliris por mortigi la saĝulojn de Babilono. Li respondis al Arjok, la kapitano de la reĝo: “Kial la dekreto estas tiel urĝa de la reĝo?” Tiam Arjok sciigis la aferon al Daniel. Daniel eniris kaj petis de la reĝo, ke li difinu al li tempon, kaj li montros al la reĝo la klarigon.
 
-Tiam Daniel iris al sia domo kaj sciigis la aferon al Ĥananja, Miŝael, kaj Azarja, liaj kunuloj: ke ili petu kompatojn de la Dio de la ĉielo pri ĉi tiu sekreto, por ke Daniel kaj liaj kunuloj ne pereu kun la ceteraj saĝuloj de Babel. Tiam la sekreto estis malkaŝita al Daniel en nokta vizio. Tiam Daniel benis la Dion de la ĉielo. Daniel respondis:
+Tiam Daniel iris al sia domo kaj sciigis la aferon al Ĥananja, Miŝael, kaj Azarja, liaj kunuloj: ke ili petu kompatojn de la Dio de la ĉielo pri ĉi tiu sekreto, por ke Daniel kaj liaj kunuloj ne pereu kun la ceteraj saĝuloj de Babilono. Tiam la sekreto estis malkaŝita al Daniel en nokta vizio. Tiam Daniel benis la Dion de la ĉielo. Daniel respondis:
 
 “Benata estu la nomo de Dio por ĉiam kaj eterne;
 
@@ -42157,7 +42157,7 @@ kaj nun sciigis al mi tion, kion ni petis de vi;
 
 ĉar vi sciigis al ni la aferon de la reĝo.”
 
-Tial Daniel eniris al Arjok, kiun la reĝo nomumis por detrui la saĝulojn de Babel. Li eniris kaj diris al li: “Ne detruu la saĝulojn de Babel. Enkonduku min antaŭ la reĝon, kaj mi montros al la reĝo la klarigon.”
+Tial Daniel eniris al Arjok, kiun la reĝo nomumis por detrui la saĝulojn de Babilono. Li eniris kaj diris al li: “Ne detruu la saĝulojn de Babilono. Enkonduku min antaŭ la reĝon, kaj mi montros al la reĝo la klarigon.”
 
 Tiam Arjok rapide enkondukis Danielon antaŭ la reĝon, kaj diris al li: “Mi trovis homon el la filoj de la kaptiteco de Judio, kiu sciigos al la reĝo la klarigon.”
 
@@ -42177,17 +42177,17 @@ Daniel respondis antaŭ la reĝo kaj diris: “La sekreton, kiun la reĝo postul
 
 Tiam la reĝo Nebukadnecar falis sur sian vizaĝon, adorkliniĝis antaŭ Daniel, kaj ordonis, ke oni alportu al li oferon kaj bonodorojn. La reĝo respondis al Daniel kaj diris: “Vere via Dio estas Dio de dioj, kaj Sinjoro de reĝoj, kaj malkaŝanto de sekretoj, ĉar vi povis malkaŝi ĉi tiun sekreton.”
 
-Tiam la reĝo faris Danielon granda kaj donis al li multajn grandajn donacojn, kaj faris lin reganto super la tuta provinco de Babel kaj ĉefestro super ĉiuj saĝuloj de Babel. Daniel petis de la reĝo, kaj li nomumis Ŝadraĥ, Meŝaĥ, kaj Abednego super la aferoj de la provinco de Babel; sed Daniel estis ĉe la pordego de la reĝo.
+Tiam la reĝo faris Danielon granda kaj donis al li multajn grandajn donacojn, kaj faris lin reganto super la tuta provinco de Babilono kaj ĉefestro super ĉiuj saĝuloj de Babilono. Daniel petis de la reĝo, kaj li nomumis Ŝadraĥ, Meŝaĥ, kaj Abednego super la aferoj de la provinco de Babilono; sed Daniel estis ĉe la pordego de la reĝo.
 
 ### Ĉapitro 3
 
-Nebukadnecar, la reĝo, faris bildon el oro, kies alto estis sesdek ulnoj kaj kies larĝo ses ulnoj. Li starigis ĝin sur la ebenaĵo de Dura, en la provinco Babel. Tiam Nebukadnecar, la reĝo, sendis por kunvenigi la satrapojn, la prefektojn kaj la regantojn, la juĝistojn, la kasistojn, la konsilistojn, la ŝerifojn, kaj ĉiujn regantojn de la provincoj, por veni al la dediĉo de la bildo, kiun Nebukadnecar, la reĝo, starigis. Tiam la satrapoj, la prefektoj kaj la regantoj, la juĝistoj, la kasistoj, la konsilistoj, la ŝerifoj, kaj ĉiuj regantoj de la provincoj kunvenis al la dediĉo de la bildo, kiun Nebukadnecar, la reĝo, starigis; kaj ili staris antaŭ la bildo, kiun Nebukadnecar starigis.
+Nebukadnecar, la reĝo, faris bildon el oro, kies alto estis sesdek ulnoj kaj kies larĝo ses ulnoj. Li starigis ĝin sur la ebenaĵo de Dura, en la provinco Babilono. Tiam Nebukadnecar, la reĝo, sendis por kunvenigi la satrapojn, la prefektojn kaj la regantojn, la juĝistojn, la kasistojn, la konsilistojn, la ŝerifojn, kaj ĉiujn regantojn de la provincoj, por veni al la dediĉo de la bildo, kiun Nebukadnecar, la reĝo, starigis. Tiam la satrapoj, la prefektoj kaj la regantoj, la juĝistoj, la kasistoj, la konsilistoj, la ŝerifoj, kaj ĉiuj regantoj de la provincoj kunvenis al la dediĉo de la bildo, kiun Nebukadnecar, la reĝo, starigis; kaj ili staris antaŭ la bildo, kiun Nebukadnecar starigis.
 
 Tiam la heroldo kriis laŭte: “Al vi estas ordonite, popoloj, nacioj kaj lingvoj, ke kiam ajn vi aŭdos la sonon de la korno, fluto, citro, liro, harpo, ŝalmo kaj ĉiaspeca muziko, vi falu teren kaj adoru la oran bildon, kiun Nebukadnecar, la reĝo, starigis. Kiu ne falos teren kaj ne adoros, tiu en la sama horo estos ĵetita en la mezon de brulanta fajra forno.”
 
 Tial en tiu tempo, kiam ĉiuj popoloj aŭdis la sonon de la korno, fluto, citro, liro, harpo, ŝalmo kaj ĉiaspeca muziko, ĉiuj popoloj, la nacioj kaj la lingvoj falis teren kaj adoris la oran bildon, kiun Nebukadnecar, la reĝo, starigis.
 
-Tial en tiu tempo kelkaj Ĥaldeoj alproksimiĝis kaj akuzis la Judojn. Ili respondis al Nebukadnecar, la reĝo: “Ho reĝo, vivu eterne! Vi, ho reĝo, faris dekreton, ke ĉiu homo, kiu aŭdos la sonon de la korno, fluto, citro, liro, harpo, ŝalmo kaj ĉiaspeca muziko, falu teren kaj adoru la oran bildon; kaj kiu ne falos teren kaj ne adoros, tiu estu ĵetita en la mezon de brulanta fajra forno. Estas kelkaj Judoj, kiujn vi starigis super la aferoj de la provinco Babel: Ŝadraĥ, Meŝaĥ kaj Abednego. Tiuj viroj, ho reĝo, ne atentis vin. Ili ne servas viajn diojn kaj ne adoras la oran bildon, kiun vi starigis.”
+Tial en tiu tempo kelkaj Ĥaldeoj alproksimiĝis kaj akuzis la Judojn. Ili respondis al Nebukadnecar, la reĝo: “Ho reĝo, vivu eterne! Vi, ho reĝo, faris dekreton, ke ĉiu homo, kiu aŭdos la sonon de la korno, fluto, citro, liro, harpo, ŝalmo kaj ĉiaspeca muziko, falu teren kaj adoru la oran bildon; kaj kiu ne falos teren kaj ne adoros, tiu estu ĵetita en la mezon de brulanta fajra forno. Estas kelkaj Judoj, kiujn vi starigis super la aferoj de la provinco Babilono: Ŝadraĥ, Meŝaĥ kaj Abednego. Tiuj viroj, ho reĝo, ne atentis vin. Ili ne servas viajn diojn kaj ne adoras la oran bildon, kiun vi starigis.”
 
 Tiam Nebukadnecar, en kolero kaj furiozo, ordonis, ke oni alkonduku Ŝadraĥon, Meŝaĥon kaj Abednegon. Tiam tiuj viroj estis alkondukitaj antaŭ la reĝon. Nebukadnecar respondis al ili: “Ĉu estas vere, Ŝadraĥ, Meŝaĥ kaj Abednego, ke vi ne servas miajn diojn kaj ne adoras la oran bildon, kiun mi starigis? Nun, se vi estas pretaj, kiam ajn vi aŭdos la sonon de la korno, fluto, citro, liro, harpo, ŝalmo kaj ĉiaspeca muziko, fali teren kaj adori la bildon, kiun mi faris, bone; sed se vi ne adoros, en la sama horo vi estos ĵetitaj en la mezon de brulanta fajra forno. Kaj kiu estas tiu dio, kiu vin savos el miaj manoj?”
 
@@ -42207,7 +42207,7 @@ Tiam Ŝadraĥ, Meŝaĥ kaj Abednego eliris el la mezo de la fajro. La satrapoj, 
 
 Nebukadnecar parolis kaj diris: “Benata estu la Dio de Ŝadraĥ, Meŝaĥ kaj Abednego, kiu sendis Sian anĝelon kaj savis Siajn servantojn, kiuj fidis Lin, kaj ŝanĝis la vorton de la reĝo, kaj elmetis siajn korpojn, por ke ili ne servu nek adoru iun ajn dion krom sian propran Dion. Tial mi faras dekreton, ke ĉiu popolo, nacio kaj lingvo, kiu parolos ion malbonan kontraŭ la Dio de Ŝadraĥ, Meŝaĥ kaj Abednego, estu dishakita, kaj liaj domoj estu faritaj sterkaĵejo, ĉar ne ekzistas alia dio, kiu povas savi tiel.”
 
-Tiam la reĝo altigis Ŝadraĥon, Meŝaĥon kaj Abednegon en la provinco Babel.
+Tiam la reĝo altigis Ŝadraĥon, Meŝaĥon kaj Abednegon en la provinco Babilono.
 
 ### Ĉapitro 4
 
@@ -42227,7 +42227,7 @@ Lia regno estas regno eterna.
 
 Kaj lia regado estas de generacio al generacio.
 
-Mi, Nebukadnecar, estis trankvila en mia domo kaj prosperanta en mia palaco. Mi vidis sonĝon, kiu timigis min; kaj la pensoj sur mia lito kaj la vizioj de mia kapo min maltrankviligis. Tial mi eldonis dekreton, ke oni enkonduku antaŭ min ĉiujn saĝulojn de Babel, por ke ili sciigu al mi la klarigon de la sonĝo. Tiam envenis la magiistoj, la sorĉistoj, la Ĥaldeoj kaj la aŭguristoj; kaj mi rakontis al ili la sonĝon, sed ili ne sciigis al mi ĝian klarigon. Sed fine envenis antaŭ min Daniel, kies nomo estas Belteŝacar laŭ la nomo de mia dio, kaj en kiu estas la spirito de la sanktaj dioj. Mi rakontis la sonĝon antaŭ li, dirante:
+Mi, Nebukadnecar, estis trankvila en mia domo kaj prosperanta en mia palaco. Mi vidis sonĝon, kiu timigis min; kaj la pensoj sur mia lito kaj la vizioj de mia kapo min maltrankviligis. Tial mi eldonis dekreton, ke oni enkonduku antaŭ min ĉiujn saĝulojn de Babilono, por ke ili sciigu al mi la klarigon de la sonĝo. Tiam envenis la magiistoj, la sorĉistoj, la Ĥaldeoj kaj la aŭguristoj; kaj mi rakontis al ili la sonĝon, sed ili ne sciigis al mi ĝian klarigon. Sed fine envenis antaŭ min Daniel, kies nomo estas Belteŝacar laŭ la nomo de mia dio, kaj en kiu estas la spirito de la sanktaj dioj. Mi rakontis la sonĝon antaŭ li, dirante:
 
 “Belteŝacar, estro de la magiistoj, ĉar mi scias, ke la spirito de la sanktaj dioj estas en vi kaj neniu sekreto vin ĝenas, diru al mi la viziojn de mia sonĝo, kiujn mi vidis, kaj ĝian klarigon. Jen la vizioj de mia kapo sur mia lito: mi vidis, kaj jen arbo meze de la tero; kaj ĝia alto estis granda. La arbo kreskis kaj fortiĝis. Ĝia alto atingis ĝis la ĉielo, kaj ĝia videbleco ĝis la fino de la tuta tero. Ĝiaj folioj estis belaj, kaj ĝi havis multe da frukto, kaj en ĝi estis nutraĵo por ĉiuj. La bestoj de la kampo havis ombron sub ĝi, kaj la birdoj de la ĉielo loĝis en ĝiaj branĉoj, kaj ĉiu karno sin nutris el ĝi.
 
@@ -42245,7 +42245,7 @@ Belteŝacar respondis: “Mia sinjoro, la sonĝo estu por tiuj, kiuj vin malamas
 
 “Jen la klarigo, ho reĝo, kaj tio estas la dekreto de la Plejalta, kiu venis sur mian sinjoron la reĝon: Vi estos forpelita de inter homoj, kaj via loĝejo estos kun la bestoj de la kampo. Oni devigos vin manĝi herbon kiel bovoj, kaj vi estos malsekigita de la roso de la ĉielo, kaj sep tempoj pasu super vi, ĝis vi scios, ke la Plejalta regas en la regno de homoj kaj donas ĝin al kiu ajn li volas. Kaj ĉar oni ordonis lasi la stumpon de la radikoj de la arbo, via regno restos certa por vi post kiam vi scios, ke la Ĉielo regas. Tial, ho reĝo, mia konsilo estu akceptebla al vi: ĉesu viajn pekojn per justeco, kaj viajn malbonagojn per kompatemo al la malriĉuloj. Eble estos plilongigo de via trankvilo.”
 
-Ĉio ĉi trafis la reĝon Nebukadnecar. Post dek du monatoj li promenis en la reĝa palaco de Babel. La reĝo parolis kaj diris: “Ĉu ne estas ĉi tiu la granda Babel, kiun mi konstruis por reĝa loĝejo per la forto de mia potenco kaj por la gloro de mia majesto?”
+Ĉio ĉi trafis la reĝon Nebukadnecar. Post dek du monatoj li promenis en la reĝa palaco de Babilono. La reĝo parolis kaj diris: “Ĉu ne estas ĉi tiu la granda Babilono, kiun mi konstruis por reĝa loĝejo per la forto de mia potenco kaj por la gloro de mia majesto?”
 
 Dum la vorto ankoraŭ estis en la buŝo de la reĝo, voĉo venis el la ĉielo, dirante: “Ho reĝo Nebukadnecar, al vi estas dirite: ‘La regno foriris de vi. Vi estos forpelita de inter homoj, kaj via loĝejo estos kun la bestoj de la kampo. Oni devigos vin manĝi herbon kiel bovoj. Sep tempoj pasu super vi, ĝis vi scios, ke la Plejalta regas en la regno de homoj kaj donas ĝin al kiu ajn li volas.’”
 
@@ -42275,7 +42275,7 @@ Belŝacar, la reĝo, faris grandan festenon por mil el siaj sinjoroj, kaj trinki
 
 En la sama horo eliris la fingroj de homa mano kaj skribis apud la lampingo sur la gipso de la muro de la reĝa palaco. La reĝo vidis la parton de la mano, kiu skribis. Tiam la vizaĝo de la reĝo ŝanĝiĝis en li, kaj liaj pensoj lin maltrankviligis; la artikoj de liaj femuroj malfortiĝis, kaj liaj genuoj frapis unu kontraŭ la alia.
 
-La reĝo laŭte kriis, ke oni enkonduku la sorĉistojn, la Ĥaldeojn kaj la aŭguristojn. La reĝo parolis kaj diris al la saĝuloj de Babel: “Kiu ajn legos ĉi tiun skribaĵon kaj montros al mi ĝian klarigon, tiu estos vestita per purpuro, havos oran ĉenon ĉirkaŭ la kolo, kaj estos la tria reganto en la regno.”
+La reĝo laŭte kriis, ke oni enkonduku la sorĉistojn, la Ĥaldeojn kaj la aŭguristojn. La reĝo parolis kaj diris al la saĝuloj de Babilono: “Kiu ajn legos ĉi tiun skribaĵon kaj montros al mi ĝian klarigon, tiu estos vestita per purpuro, havos oran ĉenon ĉirkaŭ la kolo, kaj estos la tria reganto en la regno.”
 
 Tiam ĉiuj saĝuloj de la reĝo envenis; sed ili ne povis legi la skribaĵon, nek konigi al la reĝo la klarigon. Tiam reĝo Belŝacar tre maltrankviliĝis, kaj lia vizaĝo ŝanĝiĝis en li, kaj liaj sinjoroj estis konfuzitaj.
 
@@ -42355,7 +42355,7 @@ Tiel ĉi tiu Daniel prosperis en la regado de Dario kaj en la regado de Ciro la 
 
 ### Ĉapitro 7
 
-En la unua jaro de Belŝacar, reĝo de Babel, Daniel havis sonĝon kaj viziojn de sia kapo dum li estis sur sia lito. Tiam li skribis la sonĝon kaj rakontis la esencon de la aferoj.
+En la unua jaro de Belŝacar, reĝo de Babilono, Daniel havis sonĝon kaj viziojn de sia kapo dum li estis sur sia lito. Tiam li skribis la sonĝon kaj rakontis la esencon de la aferoj.
 
 Daniel parolis kaj diris: “Mi vidis en mia vizio nokte, kaj jen la kvar ventoj de la ĉielo ekblovis sur la granda maro. Kaj kvar grandaj bestoj eliris el la maro, malsamaj unu de la alia.
 
@@ -45334,7 +45334,7 @@ Suferu doloron kaj naskolaboru, filino de Cion,
 kiel virino en naskodoloro;
 ĉar nun vi eliros el la urbo,
 kaj loĝos sur la kampo,
-kaj vi venos eĉ ĝis Babel.
+kaj vi venos eĉ ĝis Babilono.
 
 Tie vi estos savita.
 Tie Jave elaĉetos vin el la mano de viaj malamikoj.
@@ -45977,7 +45977,7 @@ Li diris al mi: “Mezuri Jerusalemon, por vidi, kia estas ĝia larĝo kaj kia e
 
 Jen la anĝelo, kiu parolis kun mi, eliris, kaj alia anĝelo eliris por renkonti lin, kaj diris al li: “Kuru, parolu al ĉi tiu junulo, dirante: ‘Jerusalemo estos loĝata kiel vilaĝoj sen muroj, pro la multo da homoj kaj brutoj en ĝi. Ĉar mi,’ diras Jave, ‘estos por ŝi fajra muro ĉirkaŭe, kaj mi estos la gloro meze de ŝi.
 
-Venu! Venu! Forkuru el la lando de la nordo,’ diras Jave; ‘ĉar mi disĵetis vin kiel la kvar ventojn de la ĉielo,’ diras Jave. ‘Venu, Cion! Savu vin, vi, kiuj loĝas kun la filino de Babel.’ Ĉar Jave Cebaot diras: ‘Por honoro li sendis min al la nacioj, kiuj prirabis vin; ĉar kiu tuŝas vin, tiu tuŝas la pupilon de lia okulo. Ĉar jen mi svingos mian manon super ili, kaj ili fariĝos rabaĵo por tiuj, kiuj servis al ili; kaj vi scios, ke Jave Cebaot sendis min. Kantu kaj ĝoju, filino de Cion! Ĉar jen mi venas, kaj mi loĝos en via interno,’ diras Jave. Multaj nacioj aliĝos al Jave en tiu tago, kaj ili estos mia popolo; kaj mi loĝos inter vi, kaj vi scios, ke Jave Cebaot sendis min al vi. Jave heredos Judon kiel sian parton en la sankta lando, kaj denove elektos Jerusalemon. Silentu, ĉiu karno, antaŭ Jave; ĉar li vekiĝis el sia sankta loĝejo!”
+Venu! Venu! Forkuru el la lando de la nordo,’ diras Jave; ‘ĉar mi disĵetis vin kiel la kvar ventojn de la ĉielo,’ diras Jave. ‘Venu, Cion! Savu vin, vi, kiuj loĝas kun la filino de Babilono.’ Ĉar Jave Cebaot diras: ‘Por honoro li sendis min al la nacioj, kiuj prirabis vin; ĉar kiu tuŝas vin, tiu tuŝas la pupilon de lia okulo. Ĉar jen mi svingos mian manon super ili, kaj ili fariĝos rabaĵo por tiuj, kiuj servis al ili; kaj vi scios, ke Jave Cebaot sendis min. Kantu kaj ĝoju, filino de Cion! Ĉar jen mi venas, kaj mi loĝos en via interno,’ diras Jave. Multaj nacioj aliĝos al Jave en tiu tago, kaj ili estos mia popolo; kaj mi loĝos inter vi, kaj vi scios, ke Jave Cebaot sendis min al vi. Jave heredos Judon kiel sian parton en la sankta lando, kaj denove elektos Jerusalemon. Silentu, ĉiu karno, antaŭ Jave; ĉar li vekiĝis el sia sankta loĝejo!”
 
 ### Ĉapitro 3
 
@@ -46043,7 +46043,7 @@ La anĝelo respondis al mi: “Ĉi tiuj estas la kvar ventoj de la ĉielo, kiuj 
 
 Tiam li vokis al mi, kaj parolis al mi, dirante: “Jen, tiuj, kiuj iras al la norda lando, kvietigis mian spiriton en la norda lando.”
 
-La vorto de Jave venis al mi, dirante: “Prenu el la kaptiteco, el Heldaj, el Tobija, kaj el Jedaija; kaj venu en la sama tago, kaj iru en la domon de Joŝija, filo de Cefanja, kien ili venis el Babel. Jes, prenu arĝenton kaj oron, kaj faru kronojn, kaj metu ilin sur la kapon de Joŝua, filo de Jehoacadak, la ĉefpastro; kaj parolu al li, dirante: ‘Tiele diras Jave Cebaot: “Jen la viro, kies nomo estas la Branĉo! Li elkreskos el sia loko; kaj li konstruos la templon de Jave. Li konstruos la templon de Jave. Li portos la gloron, kaj li sidos kaj regos sur sia trono. Li estos pastro sur sia trono. La konsilo de paco estos inter ili ambaŭ. La kronoj estos por Helem, por Tobija, por Jedaija, kaj por Hen, filo de Cefanja, kiel memoraĵo en la templo de Jave.
+La vorto de Jave venis al mi, dirante: “Prenu el la kaptiteco, el Heldaj, el Tobija, kaj el Jedaija; kaj venu en la sama tago, kaj iru en la domon de Joŝija, filo de Cefanja, kien ili venis el Babilono. Jes, prenu arĝenton kaj oron, kaj faru kronojn, kaj metu ilin sur la kapon de Joŝua, filo de Jehoacadak, la ĉefpastro; kaj parolu al li, dirante: ‘Tiele diras Jave Cebaot: “Jen la viro, kies nomo estas la Branĉo! Li elkreskos el sia loko; kaj li konstruos la templon de Jave. Li konstruos la templon de Jave. Li portos la gloron, kaj li sidos kaj regos sur sia trono. Li estos pastro sur sia trono. La konsilo de paco estos inter ili ambaŭ. La kronoj estos por Helem, por Tobija, por Jedaija, kaj por Hen, filo de Cefanja, kiel memoraĵo en la templo de Jave.
 
 Tiuj, kiuj estas malproksime, venos kaj konstruos en la templo de Jave; kaj vi scios, ke Jave Cebaot sendis min al vi. Tio okazos, se vi diligente obeos la voĉon de Jave, via Dio.”’”
 
