@@ -84,11 +84,11 @@ Tiam la diablo kondukis lin en la sanktan urbon. Li starigis lin sur la pinton d
 ‘Sur siaj manoj ili vin portos,
 por ke vi ne frapu vian piedon kontraŭ ŝtono.’”
 
-Jesuo diris al li: “Ankoraŭ estas skribite: ‘Vi ne provu la Eternulon, vian Dion.’”
+Jesuo diris al li: “Ankoraŭ estas skribite: ‘Vi ne provu Javen, vian Dion.’”
 
 Denove la diablo kondukis lin sur treege altan monton, kaj montris al li ĉiujn regnojn de la mondo kaj ilian gloron. Li diris al li: “Ĉion ĉi mi donos al vi, se vi falos kaj adorkliniĝos al mi.”
 
-Tiam Jesuo diris al li: “For de mi, Satano! Ĉar estas skribite: ‘La Eternulon, vian Dion, adoru, kaj al li sola servu.’”
+Tiam Jesuo diris al li: “For de mi, Satano! Ĉar estas skribite: ‘Javen, vian Dion, adoru, kaj al li sola servu.’”
 
 Tiam la diablo forlasis lin; kaj jen anĝeloj venis kaj servis al li.
 
@@ -790,7 +790,7 @@ Tiam Jesuo parolis al la homamasoj kaj al siaj disĉiploj, dirante: “La skribi
 
 “Ve al vi, skribistoj kaj Fariseoj, hipokrituloj! ĉar vi konstruas la tombojn de la profetoj kaj ornamas la tombojn de la justuloj, kaj diras: ‘Se ni estus vivintaj en la tagoj de niaj patroj, ni ne estus partoprenintaj kun ili en la sango de la profetoj.’ Tial vi atestas kontraŭ vi mem, ke vi estas filoj de tiuj, kiuj mortigis la profetojn. Plenigu do la mezuron de viaj patroj. Vi serpentoj, idaro de vipuroj, kiel vi eskapos la juĝon de Geheno? Tial, jen, mi sendas al vi profetojn, saĝulojn kaj skribistojn. Iujn el ili vi mortigos kaj krucumos; kaj iujn el ili vi skurĝos en viaj sinagogoj kaj persekutos de urbo al urbo; por ke sur vin venu ĉiu justa sango verŝita sur la tero, de la sango de la justa Abel ĝis la sango de Zeĥarja, filo de Baraĥja, kiun vi mortigis inter la sanktejo kaj la altaro. Vere mi diras al vi: ĉio ĉi tio venos sur ĉi tiun generacion.
 
-“Jerusalemo, Jerusalemo, kiu mortigas la profetojn kaj ŝtonumas tiujn, kiuj estas senditaj al ŝi! Kiom ofte mi volis kolekti viajn infanojn kune, kiel kokino kolektas siajn idojn sub siaj flugiloj, kaj vi ne volis! Jen, via domo estas lasita al vi dezerta. Ĉar mi diras al vi: vi ne vidos min de nun, ĝis vi diros: ‘Benata estu tiu, kiu venas en la nomo de la Eternulo!’”
+“Jerusalemo, Jerusalemo, kiu mortigas la profetojn kaj ŝtonumas tiujn, kiuj estas senditaj al ŝi! Kiom ofte mi volis kolekti viajn infanojn kune, kiel kokino kolektas siajn idojn sub siaj flugiloj, kaj vi ne volis! Jen, via domo estas lasita al vi dezerta. Ĉar mi diras al vi: vi ne vidos min de nun, ĝis vi diros: ‘Benata estu tiu, kiu venas en la nomo de Jave!’”
 
 ### Ĉapitro 24
 
@@ -1859,7 +1859,7 @@ Jesuo respondis al li, dirante: “Estas skribite: ‘Homo ne vivos per pano sol
 
 La diablo, kondukante lin supren sur altan monton, montris al li ĉiujn regnojn de la mondo en momento da tempo. La diablo diris al li: “Mi donos al vi ĉi tiun tutan aŭtoritaton kaj ilian gloron, ĉar ĝi estas transdonita al mi, kaj mi donas ĝin al kiu ajn mi volas. Se do vi adorkliniĝos antaŭ mi, ĉio estos via.”
 
-Jesuo respondis al li: “Foriru malantaŭ min, Satano! Ĉar estas skribite: ‘La Eternulon, vian Dion, vi adoru, kaj al li sola vi servu.’”
+Jesuo respondis al li: “Foriru malantaŭ min, Satano! Ĉar estas skribite: ‘Javen, vian Dion, vi adoru, kaj al li sola vi servu.’”
 
 Li kondukis lin al Jerusalemo kaj starigis lin sur la pinton de la templo, kaj diris al li: “Se vi estas la Filo de Dio, ĵetu vin malsupren de ĉi tie, ĉar estas skribite:
 
@@ -1871,7 +1871,7 @@ kaj:
 
 por ke vi eble ne frapu vian piedon kontraŭ ŝtono.’”
 
-Jesuo responde diris al li: “Estas dirite: ‘Vi ne provu la Eternulon, vian Dion.’”
+Jesuo responde diris al li: “Estas dirite: ‘Vi ne provu Javen, vian Dion.’”
 
 Kiam la diablo finis ĉian tentadon, li foriris de li ĝis alia tempo.
 
@@ -6819,7 +6819,7 @@ La jenaj vortoj uzataj en la World English Bible (WEB) ne estas tre oftaj, ĉu �
 
 **Iŝmael**: Iŝmael estas la filo de Abraham kaj Hagar. Iŝmael laŭvorte signifas “Dio aŭdas.”
 
-**Jehovah**: Vidu “Jahveo.”
+**Jehovah**: Vidu “Jave.”
 
 **Jesuo**: “Jesuo” estas greka formo de la hebrea nomo “Jeŝua”, kiu estas mallonga formo de “Jehoŝua”, kiu venas de “Joŝia”, kiu signifas “Li savos.”
 
@@ -6865,7 +6865,7 @@ La jenaj vortoj uzataj en la World English Bible (WEB) ne estas tre oftaj, ĉu �
 
 **sabato**: La sepa tago de la semajno, apartigita de Dio por ke homo ripozu.
 
-**sanktuloj**: La greka vorto por “sanktuloj” laŭvorte signifas “sanktaj (aŭ: sanktigitaj) homoj.” Sanktuloj estas homoj apartigitaj por servo al Dio kiel sanktaj kaj apartaj, vivantaj en justeco. Uzata en la Biblio por aludi al ĉiuj kristanoj kaj al ĉiuj, kiuj adoris Jahveon en malnovtestamentaj tempoj.
+**sanktuloj**: La greka vorto por “sanktuloj” laŭvorte signifas “sanktaj (aŭ: sanktigitaj) homoj.” Sanktuloj estas homoj apartigitaj por servo al Dio kiel sanktaj kaj apartaj, vivantaj en justeco. Uzata en la Biblio por aludi al ĉiuj kristanoj kaj al ĉiuj, kiuj adoris Javen en malnovtestamentaj tempoj.
 
 **Samariano**: Samariano estas loĝanto de Samario. La samarianoj kaj la judoj ĝenerale malamis unu la alian dum la tempo, kiam Jesuo marŝis inter ni.
 
@@ -6909,9 +6909,9 @@ La jenaj vortoj uzataj en la World English Bible (WEB) ne estas tre oftaj, ĉu �
 
 **terafimoj**: Terafimoj estas hejmaj idoloj, kiuj eble estis asociitaj kun heredrajtoj al la hejma posedaĵo.
 
-**Jah**: “Jah” estas mallongigita formo de “Jahveo”, kiu estas la propra nomo de Dio. Ĉi tiu formo estas uzata foje en la Malnova Testamento, plejparte en la Psalmoj. Vidu “Jahveo.”
+**Jah**: “Jah” estas mallongigita formo de “Jave”, kiu estas la propra nomo de Dio. Ĉi tiu formo estas uzata foje en la Malnova Testamento, plejparte en la Psalmoj. Vidu “Jave.”
 
-**Jahveo**: “Jahveo” estas la propra nomo de Dio. En la hebrea, la kvar konsonantoj proksimume ekvivalentaj al YHWH estis konsiderataj tro sanktaj por elparoli, do la hebrea vorto por “Sinjoro” (*Adonai*) estis anstataŭigita dum laŭtlegado. Kiam vokalaj signoj estis aldonitaj al la hebrea Malnova Testamento, la vokaloj de *Adonai* estis miksitaj kun la konsonantoj de “Jahveo”, kio, se oni elparolus ĝin laŭvorte kiel skribite, estus elparolata “Jehovah” aŭ “Jehovah.” Kiam la Malnova Testamento estis tradukita al la greka, la tradicio anstataŭigi “Sinjoro” por la propra nomo de Dio daŭris en la traduko de la nomo de Dio al “Sinjoro” (*Kurios*). Iuj anglaj Biblioj tradukas la propran nomon de Dio kiel “LORD” aŭ “GOD” (kutime per malgrandaj majuskloj), surbaze de tiu sama tradicio. Tio povas fariĝi vere konfuza, ĉar du aliaj vortoj (*Adonai* kaj *Elohim*) tradukiĝas kiel “Sinjoro” kaj “Dio”, kaj ili foje estas uzataj kune. La ASV de 1901 (kaj iuj aliaj tradukoj) redonas YHWH kiel “Jehovah.” La plej probabla elparolo de la propra nomo de Dio estas “Jahveo.” En la hebrea, la nomo “Jahveo” rilatas al la aktiva deklaro “MI ESTAS.” Vidu Eliro 3:13-14. Ĉar la hebrea ne havas tempojn, la deklaro “MI ESTAS” ankaŭ povas esti interpretata kiel “MI ESTIS” kaj “MI ESTOS.” Komparu Apokalipson 1:8.
+**Jave**: “Jave” estas la propra nomo de Dio. En la hebrea, la kvar konsonantoj proksimume ekvivalentaj al YHWH estis konsiderataj tro sanktaj por elparoli, do la hebrea vorto por “Sinjoro” (*Adonai*) estis anstataŭigita dum laŭtlegado. Kiam vokalaj signoj estis aldonitaj al la hebrea Malnova Testamento, la vokaloj de *Adonai* estis miksitaj kun la konsonantoj de “Jave”, kio, se oni elparolus ĝin laŭvorte kiel skribite, estus elparolata “Jehovah” aŭ “Jehovah.” Kiam la Malnova Testamento estis tradukita al la greka, la tradicio anstataŭigi “Sinjoro” por la propra nomo de Dio daŭris en la traduko de la nomo de Dio al “Sinjoro” (*Kurios*). Iuj anglaj Biblioj tradukas la propran nomon de Dio kiel “LORD” aŭ “GOD” (kutime per malgrandaj majuskloj), surbaze de tiu sama tradicio. Tio povas fariĝi vere konfuza, ĉar du aliaj vortoj (*Adonai* kaj *Elohim*) tradukiĝas kiel “Sinjoro” kaj “Dio”, kaj ili foje estas uzataj kune. La ASV de 1901 (kaj iuj aliaj tradukoj) redonas YHWH kiel “Jehovah.” La plej probabla elparolo de la propra nomo de Dio estas “Jave.” En la hebrea, la nomo “Jave” rilatas al la aktiva deklaro “MI ESTAS.” Vidu Eliro 3:13-14. Ĉar la hebrea ne havas tempojn, la deklaro “MI ESTAS” ankaŭ povas esti interpretata kiel “MI ESTIS” kaj “MI ESTOS.” Komparu Apokalipson 1:8.
 
 **Cion**: Cion estas nomo, kiu origine rilatis al unu el la montoj de Jerusalemo. Ĝi fariĝis termino sinonima kun Jerusalemo mem. La termino “Ĉiela Cion” ankaŭ estas uzata por aludi al la estonta loĝejo de la popolo de Dio.
 
