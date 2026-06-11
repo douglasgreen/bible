@@ -400,6 +400,7 @@ root,ampolo,"(light) bulb; ampoule; ampulla"
 root,amputi,"to amputate"
 root,amuleto,"amulet; charm; talisman"
 root,amuzi,"to amuse; divert; entertain; unbend; relax"
+root,Ana,Anne
 root,anagalo,pimpernel
 root,anagramo,anagram
 root,anakronismo,anachronism
@@ -428,7 +429,6 @@ root,animalo,"animal (as opposed to vegetable or mineral)"
 root,animo,"soul; spirit"
 root,anizo,"anise; aniseed"
 root,ankro,"anchor; hyperlink"
-root,Anno,Anne
 root,anomalio,"abnormity; anomaly"
 root,anonci,"to advertise; announce; give notice; profess"
 root,anonima,"anonymous; nameless"
@@ -673,7 +673,7 @@ root,barko,"bark; boat; small ship"
 root,baro,"bar; barrier; impediment; obstacle; obstruction; bound"
 root,barometro,barometer
 root,barono,baron
-root,Baruĥ,Baruch
+root,Baruĥo,Baruch
 root,basko,"coattails; train (of a dress or robe)"
 root,baskulo,"seesaw; teeter-totter; lever; toggle; trigger; weighing machine"
 root,baso,"bass; bass voice"
@@ -696,10 +696,10 @@ root,bedo,"bed (garden); plot"
 root,beko,"beak; bill"
 root,bela,"beautiful; fine; handsome; lovely; good-looking; pretty"
 root,beladono,"belladonna; deadly nightshade; devil’s cherry"
-root,Bel,Bel
 root,beletristiko,"belles-lettres; belletristic literature"
 root,beletro,"belles lettres; literature"
 root,belgo,Belgian
+root,Belo,Bel
 root,bemolo,"flat (music)"
 root,bendo,"binding; strip; tape; band"
 root,beni,"to bless"
@@ -1088,7 +1088,7 @@ root,dinamiko,dynamics
 root,dinamito,dynamite
 root,dinamometro,dynamometer
 root,dinastio,dynasty
-root,Dio,God
+root,dio,god
 root,diplomatio,diplomacy
 root,diplomato,diplomat
 root,diplomo,"certificate; degree; diploma"
@@ -1245,7 +1245,7 @@ root,elfo,elf
 root,eligi,"to bring forth, emit, produce"
 root,eliksiro,elixir
 root,elipso,ellipse
-root,Elizabeto,Elizabeth
+root,Elizabeta,Elizabeth
 root,elizii,"to elide"
 root,elkreskigi,"to cause to grow, to bring forth"
 root,elokventa,"eloquent; fluent; rhetorical"
@@ -1304,7 +1304,7 @@ root,erudicio,"erudition; scholarship"
 root,erupcio,"eruption; rash"
 root,eŝafodo,"scaffold (for hangings, executions)"
 root,escepti,"to except; exclude"
-root,Esdras,Esdras
+root,Esdrao,Esdras
 root,esenco,"essence; gist; substance; bottom line"
 root,eskadro,"squadron (naval)"
 root,eskapi,"to escape; flee"
@@ -1315,7 +1315,7 @@ root,esplori,"to examine; explore; investigate; prospect; research; study; surve
 root,esprimi,"to express; state"
 root,establi,"to erect; establish"
 root,estaĵo,"being, creature"
-root,Ester,Esther
+root,Estera,Esther
 root,estetiko,aesthetics
 root,estimi,"to esteem; think well of; have esteem for; respect; regard"
 root,estingi,"to extinguish; put out; put out; quench"
@@ -2023,7 +2023,6 @@ root,iri,"to go; walk"
 root,Irlando,Ireland
 root,ironio,irony
 root,Islando,Iceland
-root,Israelo,Israel
 root,istmo,isthmus
 root,italo,italian
 root,izoli,"to insulate; isolate; seclude"
@@ -2053,7 +2052,7 @@ root,Jorko,York
 root,Jozefo,Joseph
 root,jubileo,jubilee
 root,judaismo,Judaism
-root,Judit,Judith
+root,Judita,Judith
 root,judo,jew
 root,ĵudo,judo
 root,juĝi,"to judge; sentence"
@@ -2761,6 +2760,7 @@ root,letargio,"apathy; drowsiness; inertness; lethargy; stupor; torpidity"
 root,letero,"epistle; letter; missive"
 root,leŭkemio,leukemia
 root,leŭtenanto,lieutenant
+root,leviĝi,"to rise, rise up, arise, get up"
 root,levi,"to lever; lift; raise"
 root,levkojo,"gilliflower; wallflower"
 root,liano,"bind-weed; liana; tropical climbing vine"
@@ -3208,7 +3208,7 @@ root,neglekti,"to neglect"
 root,negliĝo,"housedress; negligee; undress"
 root,negoco,"business; trade; commerce; transaction"
 root,neĝo,snow
-root,negro,Negro
+root,negro,negro
 root,nei,"to deny; say no"
 root,nekrologo,"necrology; obituary"
 root,nektaro,nectar
@@ -3634,6 +3634,7 @@ root,plateno,platinum
 root,plaŭdi,"to beat; flap; lap; plash; splash"
 root,plebo,"common people; plebs"
 root,pledi,"to appeal; plea; plead"
+root,plejaltulo,"most high; the tallest"
 root,plejparte,"mostly, mainly, or for the most part"
 root,plekti,"to braid; plait; twine; wreathe"
 root,plena,"complete; full; integral; plenary; thorough; whole"
@@ -4266,7 +4267,7 @@ root,sinoptika,synoptic
 root,sintakso,syntax
 root,sintezo,synthesis
 root,ŝipo,"ship; boat; vessel"
-root,Siraĥ,Sirach
+root,Siraĥo,Sirach
 root,sireno,"mermaid; siren"
 root,siringo,"lilac; Syringa"
 root,Sirio,Syria
@@ -4330,7 +4331,7 @@ root,sociologio,sociology
 root,sociologo,sociologist
 root,socio,society
 root,sodo,soda
-root,Sofio,Sofia
+root,Sofio,"Sofia (capital of Bulgaria)"
 root,sofismo,"fallacy; sophism"
 root,sofisto,sophist
 root,ŝoforo,"chauffeur; driver"
@@ -4665,6 +4666,7 @@ root,tetro,"black grouse; grouse"
 root,tezo,"essay; thesis"
 root,tiaro,"papal crown; tiara"
 root,tibio,"shin bone; tibia"
+root,tiele,thus
 root,tifo,typhus
 root,tigo,"stalk; stem"
 root,tigro,tiger
@@ -4684,7 +4686,7 @@ root,tirano,tyrant
 root,tiri,"to drag; draw; haul; pull; tug; tow"
 root,titano,titanium
 root,titolo,"heading; title; caption; degree; designation; style"
-root,Tobit,Tobit
+root,Tobito,Tobit
 root,toleri,"to endure; put up with; tolerate; suffer; bear; stand"
 root,tolo,"cloth; linen; sheeting"
 root,tomato,tomato

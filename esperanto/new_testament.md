@@ -8,7 +8,7 @@ La Bona Novaĵo laŭ Mateo
 
 La libro de la genealogio de Jesuo Kristo, filo de Davido, filo de Abrahamo.
 
-Abrahamo naskigis Isaakon. Isaak naskigis Jakobon. Jakobo naskigis Judon kaj liajn fratojn. Juda naskigis Perecon kaj Zeraĥon el Tamar. Perec naskigis Ĥecron. Ĥecron naskigis Ramon. Ram naskigis Aminadabon. Aminadab naskigis Naĥŝonon. Naĥŝon naskigis Salmonon. Salmon naskigis Boazon el Raĥab. Boaz naskigis Obedon el Rut. Obed naskigis Jeseon. Jese naskigis la reĝon Davido. Davido, la reĝo, naskigis Salomonon el tiu, kiu estis la edzino de Urija. Salomono naskigis Reĥabeamon. Reĥabeam naskigis Abijan. Abija naskigis Ason. Asa naskigis Jehoŝafaton. Jehoŝafat naskigis Joramon. Joram naskigis Uzijan. Uzija naskigis Jotamon. Jotam naskigis Aĥazon. Aĥaz naskigis Ĥizkijan. Ĥizkija naskigis Manaseon. Manase naskigis Amonon. Amon naskigis Joŝijan. Joŝija naskigis Jeĥonjan kaj liajn fratojn en la tempo de la transmigrado al Babilono.
+Abrahamo naskigis Isaakon. Isaako naskigis Jakobon. Jakobo naskigis Judon kaj liajn fratojn. Juda naskigis Perecon kaj Zeraĥon el Tamar. Perec naskigis Ĥecron. Ĥecron naskigis Ramon. Ram naskigis Aminadabon. Aminadab naskigis Naĥŝonon. Naĥŝon naskigis Salmonon. Salmon naskigis Boazon el Raĥab. Boaz naskigis Obedon el Rut. Obed naskigis Jeseon. Jese naskigis la reĝon Davido. Davido, la reĝo, naskigis Salomonon el tiu, kiu estis la edzino de Urija. Salomono naskigis Reĥabeamon. Reĥabeam naskigis Abijan. Abija naskigis Ason. Asa naskigis Jehoŝafaton. Jehoŝafat naskigis Joramon. Joram naskigis Uzijan. Uzija naskigis Jotamon. Jotam naskigis Aĥazon. Aĥaz naskigis Ĥizkijan. Ĥizkija naskigis Manaseon. Manase naskigis Amonon. Amon naskigis Joŝijan. Joŝija naskigis Jeĥonjan kaj liajn fratojn en la tempo de la transmigrado al Babilono.
 
 Post la transmigrado al Babilono, Jeĥonja naskigis Ŝealtielon. Ŝealtiel naskigis Zerubabelon. Zerubabel naskigis Abihudon. Abihud naskigis Eliakimon. Eliakim naskigis Azoron. Azor naskigis Cadokon. Cadok naskigis Aĥimon. Aĥim naskigis Eliudon. Eliud naskigis Eleazaron. Eleazar naskigis Matthanon. Matthan naskigis Jakobon. Jakobo naskigis Jozefon, la edzon de Maria, el kiu naskiĝis Jesuo, kiu estas nomata Kristo.
 
@@ -61,13 +61,13 @@ En tiuj tagoj venis Johano la Baptisto, predikante en la dezerto de Judio, diran
 Pretigu la vojon de la Sinjoro!
 Rektigu liajn irejojn!”
 
-Kaj Johano mem portis veston el kamelharo, kun leda zono ĉirkaŭ siaj lumboj; kaj lia manĝaĵo estis akridoj kaj sovaĝa mielo. Tiam eliris al li Jerusalemo kaj la tuta Judio kaj la tuta regiono ĉirkaŭ Jordan. Kaj ili estis baptataj de li en la rivero Jordan, konfesante siajn pekojn.
+Kaj Johano mem portis veston el kamelharo, kun leda zono ĉirkaŭ siaj lumboj; kaj lia manĝaĵo estis akridoj kaj sovaĝa mielo. Tiam eliris al li Jerusalemo kaj la tuta Judio kaj la tuta regiono ĉirkaŭ Jordano. Kaj ili estis baptataj de li en la rivero Jordano, konfesante siajn pekojn.
 
 Sed vidinte multajn el la Fariseoj kaj Sadukeoj venantajn al lia bapto, li diris al ili: “Idaro de vipuroj, kiu avertis vin forkuri de la venonta kolero? Tial donu frukton indan je pento! Kaj ne pensu en vi mem: ‘Ni havas Abrahamon kiel patron’; ĉar mi diras al vi, ke Dio povas el ĉi tiuj ŝtonoj starigi infanojn al Abrahamo. Kaj jam la hakilo kuŝas ĉe la radiko de la arboj; tial ĉiu arbo, kiu ne donas bonan frukton, estas dehakata kaj ĵetata en la fajron.
 
 “Mi ja baptas vin per akvo por pento; sed tiu, kiu venas post mi, estas pli potenca ol mi, kies sandalojn mi ne estas inda porti. Li baptos vin per la Sankta Spirito. Lia ventumilo estas en lia mano, kaj li plene purigos sian draŝejon; kaj li kolektos sian tritikon en la grenejon, sed la grenventumaĵon li forbruligos per neestingebla fajro.”
 
-Tiam Jesuo venis el Galileo al Jordan, al Johano, por esti baptata de li. Sed Johano volis malhelpi lin, dirante: “Mi bezonas esti baptata de vi, kaj ĉu vi venas al mi?”
+Tiam Jesuo venis el Galileo al Jordano, al Johano, por esti baptata de li. Sed Johano volis malhelpi lin, dirante: “Mi bezonas esti baptata de vi, kaj ĉu vi venas al mi?”
 
 Sed Jesuo responde diris al li: “Permesu nun, ĉar tiel konvenas al ni plenumi ĉian justecon.” Tiam li permesis al li.
 
@@ -84,17 +84,17 @@ Tiam la diablo kondukis lin en la sanktan urbon. Li starigis lin sur la pinton d
 ‘Sur siaj manoj ili vin portos,
 por ke vi ne frapu vian piedon kontraŭ ŝtono.’”
 
-Jesuo diris al li: “Ankoraŭ estas skribite: ‘Vi ne provu Javen, vian Dion.’”
+Jesuo diris al li: “Ankoraŭ estas skribite: ‘Vi ne provu Jehovan, vian Dion.’”
 
 Denove la diablo kondukis lin sur treege altan monton, kaj montris al li ĉiujn regnojn de la mondo kaj ilian gloron. Li diris al li: “Ĉion ĉi mi donos al vi, se vi falos kaj adorkliniĝos al mi.”
 
-Tiam Jesuo diris al li: “For de mi, Satano! Ĉar estas skribite: ‘Javen, vian Dion, adoru, kaj al li sola servu.’”
+Tiam Jesuo diris al li: “For de mi, Satano! Ĉar estas skribite: ‘Jehovan, vian Dion, adoru, kaj al li sola servu.’”
 
 Tiam la diablo forlasis lin; kaj jen anĝeloj venis kaj servis al li.
 
 Kaj kiam Jesuo aŭdis, ke Johano estas transdonita, li retiriĝis en Galileon. Kaj forlasinte Nazareton, li venis kaj loĝis en Kapernaum, kiu estas apud la maro, en la regiono de Zebulun kaj Naftali, por ke plenumiĝu tio, kio estis dirita per la profeto Jesaja, dirante:
 “La lando de Zebulun kaj la lando de Naftali,
-laŭ la vojo al la maro, trans la Jordan,
+laŭ la vojo al la maro, trans la Jordano,
 Galileo de la nacianoj,
 la popolo, kiu sidis en mallumo, vidis grandan lumon;
 kaj al tiuj, kiuj sidis en la regiono kaj ombro de morto,
@@ -106,7 +106,7 @@ Kaj irante apud la maro de Galileo, li vidis du fratojn: Simonon, kiu estas noma
 
 Kaj ili tuj forlasis la retojn kaj sekvis lin. Kaj irinte pluen de tie, li vidis aliajn du fratojn, Jakobon, filon de Zebedeo, kaj Johanon, lian fraton, en la boato kun Zebedeo, ilia patro, riparante siajn retojn. Kaj li vokis ilin. Kaj ili tuj forlasis la boaton kaj sian patron, kaj sekvis lin.
 
-Kaj Jesuo ĉirkaŭiris tra la tuta Galileo, instruante en iliaj sinagogoj, predikante la Bonan Novaĵon de la Regno, kaj sanigante ĉian malsanon kaj ĉian malforton inter la popolo. Kaj la famo pri li disvastiĝis tra la tuta Sirio. Kaj oni alportis al li ĉiujn malsanulojn, suferantajn pro diversaj malsanoj kaj turmentoj, demonposedatojn, epilepsiulojn kaj paralizulojn; kaj li sanigis ilin. Kaj grandaj homamasoj el Galileo, Dekapolis, Jerusalemo, Judio, kaj el trans la Jordan sekvis lin.
+Kaj Jesuo ĉirkaŭiris tra la tuta Galileo, instruante en iliaj sinagogoj, predikante la Bonan Novaĵon de la Regno, kaj sanigante ĉian malsanon kaj ĉian malforton inter la popolo. Kaj la famo pri li disvastiĝis tra la tuta Sirio. Kaj oni alportis al li ĉiujn malsanulojn, suferantajn pro diversaj malsanoj kaj turmentoj, demonposedatojn, epilepsiulojn kaj paralizulojn; kaj li sanigis ilin. Kaj grandaj homamasoj el Galileo, Dekapolis, Jerusalemo, Judio, kaj el trans la Jordano sekvis lin.
 
 ### Ĉapitro 5
 
@@ -210,7 +210,7 @@ Jesuo diris al li: “Mi venos kaj resanigos lin.”
 
 La centestro respondis: “Sinjoro, mi ne estas inda, ke vi venu sub mian tegmenton; sed nur diru la vorton, kaj mia servanto resaniĝos. Ĉar ankaŭ mi estas homo sub aŭtoritato, havante sub mi soldatojn; kaj mi diras al ĉi tiu: ‘Iru’, kaj li iras; kaj al alia: ‘Venu’, kaj li venas; kaj al mia servanto: ‘Faru ĉi tion’, kaj li faras.”
 
-Kiam Jesuo tion aŭdis, li miris kaj diris al tiuj, kiuj sekvis: “Vere mi diras al vi: mi ne trovis tiel grandan fidon, eĉ ne en Izraelo. Kaj mi diras al vi, ke multaj venos el la oriento kaj el la okcidento, kaj sidiĝos kun Abrahamo, Isaak kaj Jakobo en la Regno de la Ĉielo; sed la filoj de la regno estos elĵetitaj en la eksteran mallumon; tie estos plorado kaj grincado de dentoj.” Kaj Jesuo diris al la centestro: “Iru; estu farite al vi laŭ via fido.” Kaj lia servanto resaniĝis en tiu horo.
+Kiam Jesuo tion aŭdis, li miris kaj diris al tiuj, kiuj sekvis: “Vere mi diras al vi: mi ne trovis tiel grandan fidon, eĉ ne en Izraelo. Kaj mi diras al vi, ke multaj venos el la oriento kaj el la okcidento, kaj sidiĝos kun Abrahamo, Isaako kaj Jakobo en la Regno de la Ĉielo; sed la filoj de la regno estos elĵetitaj en la eksteran mallumon; tie estos plorado kaj grincado de dentoj.” Kaj Jesuo diris al la centestro: “Iru; estu farite al vi laŭ via fido.” Kaj lia servanto resaniĝis en tiu horo.
 
 Kiam Jesuo venis en la domon de Petro, li vidis la bopatrinon de Petro kuŝantan malsana pro febro. Li tuŝis ŝian manon, kaj la febro forlasis ŝin; kaj ŝi leviĝis kaj servis al li. Kiam vesperiĝis, oni alportis al li multajn demonposedatojn; kaj li elpelis la spiritojn per vorto, kaj resanigis ĉiujn malsanulojn, por ke plenumiĝu tio, kio estis dirita per la profeto Jesaja, dirante: “Li prenis niajn malfortaĵojn kaj portis niajn malsanojn.”
 
@@ -278,7 +278,7 @@ Kaj Jesuo ĉirkaŭiris ĉiujn urbojn kaj vilaĝojn, instruante en iliaj sinagogo
 
 ### Ĉapitro 10
 
-Li alvokis al si siajn dek du disĉiplojn, kaj donis al ili aŭtoritaton super malpuraj spiritoj, por elpeli ilin, kaj por sanigi ĉian malsanon kaj ĉian malforton. Kaj jen estas la nomoj de la dek du apostoloj: la unua, Simon, kiu estas nomata Petro; Andreo, lia frato; Jakobo, filo de Zebedeo; Johano, lia frato; Filipo; Bartolomeo; Tomaso; Mateo, la impostisto; Jakobo, filo de Alfeo; Lebeo, kiu ankaŭ estis nomata Tadeo; Simon la Zeloto; kaj Judaso Iskariota, kiu ankaŭ perfidis lin.
+Li alvokis al si siajn dek du disĉiplojn, kaj donis al ili aŭtoritaton super malpuraj spiritoj, por elpeli ilin, kaj por sanigi ĉian malsanon kaj ĉian malforton. Kaj jen estas la nomoj de la dek du apostoloj: la unua, Simono, kiu estas nomata Petro; Andreo, lia frato; Jakobo, filo de Zebedeo; Johano, lia frato; Filipo; Bartolomeo; Tomaso; Mateo, la impostisto; Jakobo, filo de Alfeo; Lebeo, kiu ankaŭ estis nomata Tadeo; Simono la Zeloto; kaj Judaso Iskariota, kiu ankaŭ perfidis lin.
 
 Jesuo sendis ĉi tiujn dek du, kaj ordonis al ili, dirante: “Ne iru sur la vojon de la nacianoj, kaj ne eniru en urbon de la samarianoj; sed prefere iru al la perditaj ŝafoj de la domo de Izraelo. Kaj irante, prediku, dirante: ‘La Regno de la Ĉielo alproksimiĝis!’ Sanigu malsanulojn, purigu leprulojn, elpelu demonojn. Senpage vi ricevis; senpage donu. Ne prenu oron, nek arĝenton, nek kupron en viaj zonoj. Ne prenu sakon por la vojo, nek du tunikojn, nek sandalojn, nek bastonon; ĉar la laboristo estas inda je sia nutraĵo. Kaj en kiun ajn urbon aŭ vilaĝon vi eniros, eltrovu, kiu en ĝi estas inda, kaj restu tie, ĝis vi foriros. Kaj enirante en la domon, salutu ĝin. Se la domo estas inda, via paco venu sur ĝin; sed se ĝi ne estas inda, via paco revenu al vi. Kaj kiu ajn ne akceptos vin, nek aŭskultos viajn vortojn, elirante el tiu domo aŭ el tiu urbo, forskuu la polvon de viaj piedoj. Vere mi diras al vi: estos pli tolereble por la lando de Sodom kaj Gomora en la tago de juĝo, ol por tiu urbo.
 
@@ -418,7 +418,7 @@ Ili respondis al li: “Jes, Sinjoro.”
 
 Li diris al ili: “Tial ĉiu skribisto, kiu fariĝis disĉiplo en la Regno de la Ĉielo, similas al homo, kiu estas dommastro, kiu elportas el sia trezoro novajn kaj malnovajn aferojn.”
 
-Kiam Jesuo finis ĉi tiujn parabolojn, li foriris de tie. Veninte en sian propran landon, li instruis ilin en ilia sinagogo, tiel ke ili miris kaj diris: “De kie ĉi tiu homo ricevis ĉi tiun saĝon kaj ĉi tiujn potencajn farojn? Ĉu li ne estas la filo de la ĉarpentisto? Ĉu lia patrino ne nomiĝas Maria, kaj liaj fratoj Jakobo, Jozefo, Simon, kaj Judaso? Ĉu ne ĉiuj liaj fratinoj estas ĉe ni? De kie do ĉi tiu homo ricevis ĉion ĉi?” Kaj ili ofendiĝis pro li.
+Kiam Jesuo finis ĉi tiujn parabolojn, li foriris de tie. Veninte en sian propran landon, li instruis ilin en ilia sinagogo, tiel ke ili miris kaj diris: “De kie ĉi tiu homo ricevis ĉi tiun saĝon kaj ĉi tiujn potencajn farojn? Ĉu li ne estas la filo de la ĉarpentisto? Ĉu lia patrino ne nomiĝas Maria, kaj liaj fratoj Jakobo, Jozefo, Simono, kaj Judaso? Ĉu ne ĉiuj liaj fratinoj estas ĉe ni? De kie do ĉi tiu homo ricevis ĉion ĉi?” Kaj ili ofendiĝis pro li.
 
 Sed Jesuo diris al ili: “Profeto ne estas sen honoro, krom en sia propra lando kaj en sia propra domo.” Kaj li ne faris tie multajn potencajn farojn pro ilia nekredemo.
 
@@ -516,9 +516,9 @@ Ili diris: “Iuj diras Johano la Baptisto; aliaj, Elija; kaj aliaj, Jeremia aŭ
 
 Li diris al ili: “Sed vi, kiu vi diras, ke mi estas?”
 
-Simon Petro respondis: “Vi estas la Kristo, la Filo de la vivanta Dio.”
+Simono Petro respondis: “Vi estas la Kristo, la Filo de la vivanta Dio.”
 
-Jesuo respondis al li: “Feliĉa vi estas, Simon Bar-Jona, ĉar karno kaj sango ne malkaŝis tion al vi, sed mia Patro, kiu estas en la ĉielo. Kaj mi ankaŭ diras al vi, ke vi estas Petro, kaj sur ĉi tiu roko mi konstruos mian eklezion, kaj la pordegoj de Hades ne venkos kontraŭ ĝi. Mi donos al vi la ŝlosilojn de la Regno de la Ĉielo; kaj kion ajn vi ligos sur la tero, tio estos ligita en la ĉielo; kaj kion ajn vi malligos sur la tero, tio estos malligita en la ĉielo.” Tiam li ordonis al la disĉiploj, ke ili diru al neniu, ke li estas Jesuo la Kristo.
+Jesuo respondis al li: “Feliĉa vi estas, Simono Bar-Jona, ĉar karno kaj sango ne malkaŝis tion al vi, sed mia Patro, kiu estas en la ĉielo. Kaj mi ankaŭ diras al vi, ke vi estas Petro, kaj sur ĉi tiu roko mi konstruos mian eklezion, kaj la pordegoj de Hades ne venkos kontraŭ ĝi. Mi donos al vi la ŝlosilojn de la Regno de la Ĉielo; kaj kion ajn vi ligos sur la tero, tio estos ligita en la ĉielo; kaj kion ajn vi malligos sur la tero, tio estos malligita en la ĉielo.” Tiam li ordonis al la disĉiploj, ke ili diru al neniu, ke li estas Jesuo la Kristo.
 
 De tiu tempo Jesuo komencis montri al siaj disĉiploj, ke li devas iri al Jerusalemo kaj suferi multajn aferojn de la pliaĝuloj, ĉefpastroj kaj skribistoj, kaj esti mortigita, kaj la trian tagon releviĝi.
 
@@ -558,7 +558,7 @@ Kaj ili estis treege malĝojaj.
 
 Kiam ili venis al Kapernaum, tiuj, kiuj kolektis la didrakmojn, venis al Petro kaj diris: “Ĉu via instruisto ne pagas la didrakmon?” Li diris: “Jes.”
 
-Kaj kiam li eniris en la domon, Jesuo antaŭvenis al li, dirante: “Kion vi pensas, Simon? De kiuj la reĝoj de la tero ricevas imposton aŭ tributon? De siaj filoj, aŭ de fremduloj?”
+Kaj kiam li eniris en la domon, Jesuo antaŭvenis al li, dirante: “Kion vi pensas, Simono? De kiuj la reĝoj de la tero ricevas imposton aŭ tributon? De siaj filoj, aŭ de fremduloj?”
 
 Petro diris al li: “De fremduloj.”
 
@@ -750,7 +750,7 @@ Kiam ili tion aŭdis, ili miris, kaj lasis lin kaj foriris.
 
 En tiu tago venis al li Sadukeoj (tiuj, kiuj diras, ke ne ekzistas releviĝo). Ili demandis lin, dirante: “Majstro, Mozeo diris: ‘Se viro mortos, ne havante infanojn, lia frato edziĝu kun lia edzino kaj starigu idaron por sia frato.’ Nu, estis ĉe ni sep fratoj. La unua edziĝis kaj mortis, kaj ne havante idaron, lasis sian edzinon al sia frato. Same ankaŭ la dua, kaj la tria, ĝis la sepa. Post ĉiuj, ankaŭ la virino mortis. En la releviĝo do, kies edzino ŝi estos el la sep? Ĉar ĉiuj havis ŝin.”
 
-Sed Jesuo respondis al ili: “Vi eraras, ne konante la Skribojn, nek la potencon de Dio. Ĉar en la releviĝo oni nek edziĝas nek estas edzinigataj, sed estas kiel la anĝeloj de Dio en la ĉielo. Sed pri la releviĝo de la mortintoj, ĉu vi ne legis tion, kio estis dirita al vi de Dio, dirante: ‘Mi estas la Dio de Abrahamo, kaj la Dio de Isaak, kaj la Dio de Jakobo’? Dio ne estas Dio de la mortintoj, sed de la vivantoj.”
+Sed Jesuo respondis al ili: “Vi eraras, ne konante la Skribojn, nek la potencon de Dio. Ĉar en la releviĝo oni nek edziĝas nek estas edzinigataj, sed estas kiel la anĝeloj de Dio en la ĉielo. Sed pri la releviĝo de la mortintoj, ĉu vi ne legis tion, kio estis dirita al vi de Dio, dirante: ‘Mi estas la Dio de Abrahamo, kaj la Dio de Isaako, kaj la Dio de Jakobo’? Dio ne estas Dio de la mortintoj, sed de la vivantoj.”
 
 Kiam la homamasoj tion aŭdis, ili miregis pri lia instruado.
 
@@ -790,7 +790,7 @@ Tiam Jesuo parolis al la homamasoj kaj al siaj disĉiploj, dirante: “La skribi
 
 “Ve al vi, skribistoj kaj Fariseoj, hipokrituloj! ĉar vi konstruas la tombojn de la profetoj kaj ornamas la tombojn de la justuloj, kaj diras: ‘Se ni estus vivintaj en la tagoj de niaj patroj, ni ne estus partoprenintaj kun ili en la sango de la profetoj.’ Tial vi atestas kontraŭ vi mem, ke vi estas filoj de tiuj, kiuj mortigis la profetojn. Plenigu do la mezuron de viaj patroj. Vi serpentoj, idaro de vipuroj, kiel vi eskapos la juĝon de Geheno? Tial, jen, mi sendas al vi profetojn, saĝulojn kaj skribistojn. Iujn el ili vi mortigos kaj krucumos; kaj iujn el ili vi skurĝos en viaj sinagogoj kaj persekutos de urbo al urbo; por ke sur vin venu ĉiu justa sango verŝita sur la tero, de la sango de la justa Abel ĝis la sango de Zeĥarja, filo de Baraĥja, kiun vi mortigis inter la sanktejo kaj la altaro. Vere mi diras al vi: ĉio ĉi tio venos sur ĉi tiun generacion.
 
-“Jerusalemo, Jerusalemo, kiu mortigas la profetojn kaj ŝtonumas tiujn, kiuj estas senditaj al ŝi! Kiom ofte mi volis kolekti viajn infanojn kune, kiel kokino kolektas siajn idojn sub siaj flugiloj, kaj vi ne volis! Jen, via domo estas lasita al vi dezerta. Ĉar mi diras al vi: vi ne vidos min de nun, ĝis vi diros: ‘Benata estu tiu, kiu venas en la nomo de Jave!’”
+“Jerusalemo, Jerusalemo, kiu mortigas la profetojn kaj ŝtonumas tiujn, kiuj estas senditaj al ŝi! Kiom ofte mi volis kolekti viajn infanojn kune, kiel kokino kolektas siajn idojn sub siaj flugiloj, kaj vi ne volis! Jen, via domo estas lasita al vi dezerta. Ĉar mi diras al vi: vi ne vidos min de nun, ĝis vi diros: ‘Benata estu tiu, kiu venas en la nomo de Jehova!’”
 
 ### Ĉapitro 24
 
@@ -802,7 +802,7 @@ Jesuo respondis al ili: “Gardu vin, ke neniu vin erarigu. Ĉar multaj venos en
 
 “Tiam oni transdonos vin al premado kaj mortigos vin. Vi estos malamataj de ĉiuj nacioj pro mia nomo. Tiam multaj falpuŝiĝos, kaj transdonos unu la alian, kaj malamos unu la alian. Multaj falsaj profetoj leviĝos kaj erarigos multajn. Kaj ĉar maljusteco multiĝos, la amo de multaj malvarmiĝos. Sed kiu persistos ĝis la fino, tiu estos savita. Kaj ĉi tiu Bona Novaĵo de la Regno estos predikata en la tuta mondo kiel atesto al ĉiuj nacioj, kaj tiam venos la fino.
 
-“Kiam do vi vidos la abomenindaĵon de dezerteco, pri kiu parolis la profeto Daniel, starantan en la sankta loko (la leganto komprenu), tiam tiuj, kiuj estas en Judio, forkuru al la montoj. Kiu estas sur la tegmento, tiu ne malsupreniru por preni la aĵojn el sia domo. Kiu estas sur la kampo, tiu ne revenu por preni siajn vestojn. Sed ve al la gravedulinoj kaj al la mamnutrantaj patrinoj en tiuj tagoj! Preĝu, ke via fuĝo ne estu en vintro nek en sabato; ĉar tiam estos granda sufero, kia ne estis de la komenco de la mondo ĝis nun, nek iam estos. Se tiuj tagoj ne estus mallongigitaj, neniu karno estus savita; sed pro la elektitoj tiuj tagoj estos mallongigitaj.
+“Kiam do vi vidos la abomenindaĵon de dezerteco, pri kiu parolis la profeto Danielo, starantan en la sankta loko (la leganto komprenu), tiam tiuj, kiuj estas en Judio, forkuru al la montoj. Kiu estas sur la tegmento, tiu ne malsupreniru por preni la aĵojn el sia domo. Kiu estas sur la kampo, tiu ne revenu por preni siajn vestojn. Sed ve al la gravedulinoj kaj al la mamnutrantaj patrinoj en tiuj tagoj! Preĝu, ke via fuĝo ne estu en vintro nek en sabato; ĉar tiam estos granda sufero, kia ne estis de la komenco de la mondo ĝis nun, nek iam estos. Se tiuj tagoj ne estus mallongigitaj, neniu karno estus savita; sed pro la elektitoj tiuj tagoj estos mallongigitaj.
 
 “Tiam, se iu diros al vi: ‘Jen, ĉi tie estas la Kristo!’ aŭ: ‘Tie!’ ne kredu. Ĉar falsaj kristoj kaj falsaj profetoj leviĝos, kaj montros grandajn signojn kaj mirindaĵojn, por erarigi, se eble, eĉ la elektitojn.
 
@@ -852,7 +852,7 @@ Kiam Jesuo finis ĉiujn ĉi tiujn vortojn, li diris al siaj disĉiploj: “Vi sc
 
 Tiam la ĉefpastroj, la skribistoj kaj la pliaĝuloj de la popolo kunvenis en la korto de la ĉefpastro, kiu estis nomata Kajafas. Ili interkonsiliĝis, por ke ili per trompo kaptu Jesuon kaj mortigu lin. Sed ili diris: “Ne dum la festo, por ke ne okazu tumulto inter la popolo.”
 
-Kaj kiam Jesuo estis en Betania, en la domo de Simon la leprulo, venis al li virino, havante alabastran vazon da tre multekosta ŝmiraĵo, kaj ŝi verŝis ĝin sur lian kapon, dum li sidis ĉe la tablo. Sed kiam liaj disĉiploj tion vidis, ili indignis, dirante: “Kial ĉi tiu malŝparo? Ĉar ĉi tiu ŝmiraĵo povus esti vendita por multe kaj donita al la malriĉuloj.”
+Kaj kiam Jesuo estis en Betania, en la domo de Simono la leprulo, venis al li virino, havante alabastran vazon da tre multekosta ŝmiraĵo, kaj ŝi verŝis ĝin sur lian kapon, dum li sidis ĉe la tablo. Sed kiam liaj disĉiploj tion vidis, ili indignis, dirante: “Kial ĉi tiu malŝparo? Ĉar ĉi tiu ŝmiraĵo povus esti vendita por multe kaj donita al la malriĉuloj.”
 
 Sed Jesuo, sciante tion, diris al ili: “Kial vi ĝenas la virinon? Ŝi faris bonan faron por mi. Ĉar la malriĉulojn vi ĉiam havas kun vi, sed min vi ne ĉiam havas. Ĉar verŝante ĉi tiun ŝmiraĵon sur mian korpon, ŝi faris tion por prepari min por entombigo. Vere mi diras al vi: kie ajn ĉi tiu Bona Novaĵo estos predikata en la tuta mondo, ankaŭ tio, kion ĉi tiu virino faris, estos priparolata kiel memoraĵo pri ŝi.”
 
@@ -984,7 +984,7 @@ Tiam li liberigis al ili Barabason; sed Jesuon li skurĝigis kaj transdonis, por
 
 Tiam la soldatoj de la provincestro kondukis Jesuon en la pretorion, kaj kunvenigis kontraŭ li la tutan kohorton. Kaj ili senvestigis lin kaj surmetis al li skarlatan mantelon. Kaj ili plektis kronon el dornoj kaj metis ĝin sur lian kapon, kaj kanon en lian dekstran manon; kaj ili genuiĝis antaŭ li kaj mokis lin, dirante: “Saluton, Reĝo de la Judoj!” Kaj ili kraĉis sur lin, kaj prenis la kanon kaj frapis lin sur la kapon. Kaj kiam ili mokis lin, ili deprenis de li la mantelon, surmetis al li liajn vestojn, kaj forkondukis lin, por krucumi lin.
 
-Kaj elirante, ili trovis viron el Kireno, nomatan Simon; kaj ili devigis lin iri kun ili, por ke li portu lian krucon. Kaj kiam ili venis al loko nomata “Golgota”, tio estas, “Loko de kranio”, ili donis al li trinki acidan vinon miksitan kun galo; kaj gustuminte, li ne volis trinki. Kaj krucuminte lin, ili dividis inter si liajn vestojn, ĵetante lotojn; kaj ili sidis kaj gardis lin tie. Kaj ili metis super lian kapon la akuzon kontraŭ li skribitan: “ĈI TIU ESTAS JESUO, LA REĜO DE LA JUDOJ.”
+Kaj elirante, ili trovis viron el Kireno, nomatan Simono; kaj ili devigis lin iri kun ili, por ke li portu lian krucon. Kaj kiam ili venis al loko nomata “Golgota”, tio estas, “Loko de kranio”, ili donis al li trinki acidan vinon miksitan kun galo; kaj gustuminte, li ne volis trinki. Kaj krucuminte lin, ili dividis inter si liajn vestojn, ĵetante lotojn; kaj ili sidis kaj gardis lin tie. Kaj ili metis super lian kapon la akuzon kontraŭ li skribitan: “ĈI TIU ESTAS JESUO, LA REĜO DE LA JUDOJ.”
 
 Tiam du rabistoj estis krucumitaj kun li, unu dekstre kaj unu maldekstre.
 
@@ -1042,9 +1042,9 @@ la voĉo de krianto en la dezerto,
 ‘Pretigu la vojon de la Sinjoro!  
 Rektigu liajn padojn!’”
 
-Johano venis, baptante en la dezerto kaj predikante la bapton de pento por la pardono de pekoj. Kaj eliris al li la tuta lando Judio kaj ĉiuj el Jerusalemo. Kaj ili estis baptataj de li en la rivero Jordan, konfesante siajn pekojn. Kaj Johano estis vestita per kamelharoj kaj leda zono ĉirkaŭ sia talio. Kaj li manĝis akridojn kaj sovaĝan mielon. Kaj li predikis, dirante: “Post mi venas tiu, kiu estas pli potenca ol mi, kies sandalrimenon mi ne estas inda kliniĝi kaj malligi. Mi baptis vin per akvo, sed li baptos vin per la Sankta Spirito.”
+Johano venis, baptante en la dezerto kaj predikante la bapton de pento por la pardono de pekoj. Kaj eliris al li la tuta lando Judio kaj ĉiuj el Jerusalemo. Kaj ili estis baptataj de li en la rivero Jordano, konfesante siajn pekojn. Kaj Johano estis vestita per kamelharoj kaj leda zono ĉirkaŭ sia talio. Kaj li manĝis akridojn kaj sovaĝan mielon. Kaj li predikis, dirante: “Post mi venas tiu, kiu estas pli potenca ol mi, kies sandalrimenon mi ne estas inda kliniĝi kaj malligi. Mi baptis vin per akvo, sed li baptos vin per la Sankta Spirito.”
 
-En tiuj tagoj Jesuo venis el Nazareto de Galileo kaj estis baptita de Johano en la Jordan. Kaj tuj, elirante el la akvo, li vidis la ĉielojn malfermiĝi kaj la Spiriton malsupreniri sur lin kiel kolombo. Kaj voĉo venis el la ĉielo: “Vi estas mia amata Filo; en vi mi havas plezuron.”
+En tiuj tagoj Jesuo venis el Nazareto de Galileo kaj estis baptita de Johano en la Jordano. Kaj tuj, elirante el la akvo, li vidis la ĉielojn malfermiĝi kaj la Spiriton malsupreniri sur lin kiel kolombo. Kaj voĉo venis el la ĉielo: “Vi estas mia amata Filo; en vi mi havas plezuron.”
 
 Kaj tuj la Spirito pelis lin en la dezerton. Kaj li estis en la dezerto kvardek tagojn, tentata de Satano. Kaj li estis kun la sovaĝaj bestoj; kaj la anĝeloj servis al li.
 
@@ -1475,7 +1475,7 @@ Kaj ili tre miris pri li.
 
 Iuj Sadukeoj, kiuj diras, ke ne ekzistas releviĝo, venis al li. Ili demandis lin, dirante: “Instruisto, Mozeo skribis al ni: ‘Se frato de iu viro mortos kaj postlasos edzinon, kaj ne postlasos infanojn, lia frato prenu lian edzinon kaj starigu idaron por sia frato.’ Estis sep fratoj. La unua prenis edzinon, kaj mortinte ne postlasis idaron. La dua prenis ŝin, kaj mortis, ne postlasinte infanojn. La tria same; kaj la sep prenis ŝin kaj ne postlasis infanojn. Laste el ĉiuj ankaŭ la virino mortis. En la releviĝo, kiam ili releviĝos, kies edzino ŝi estos el ili? Ĉar la sep havis ŝin kiel edzinon.”
 
-Jesuo respondis al ili: “Ĉu ne pro tio vi eraras, ne konante la Skribojn nek la potencon de Dio? Ĉar kiam ili releviĝos el la mortintoj, ili nek edziĝas nek estas edzinigataj, sed estas kiel anĝeloj en la ĉielo. Sed pri la mortintoj, ke ili estas relevigataj, ĉu vi ne legis en la libro de Mozeo pri la Arbetaĵo, kiel Dio parolis al li, dirante: ‘Mi estas la Dio de Abrahamo, la Dio de Isaak, kaj la Dio de Jakobo’? Li estas Dio ne de la mortintoj, sed de la vivantoj. Vi do tre eraras.”
+Jesuo respondis al ili: “Ĉu ne pro tio vi eraras, ne konante la Skribojn nek la potencon de Dio? Ĉar kiam ili releviĝos el la mortintoj, ili nek edziĝas nek estas edzinigataj, sed estas kiel anĝeloj en la ĉielo. Sed pri la mortintoj, ke ili estas relevigataj, ĉu vi ne legis en la libro de Mozeo pri la Arbetaĵo, kiel Dio parolis al li, dirante: ‘Mi estas la Dio de Abrahamo, la Dio de Isaako, kaj la Dio de Jakobo’? Li estas Dio ne de la mortintoj, sed de la vivantoj. Vi do tre eraras.”
 
 Unu el la skribistoj venis kaj aŭdis ilin diskutantajn, kaj sciante, ke li bone respondis al ili, demandis lin: “Kiu ordono estas la plej granda el ĉiuj?”
 
@@ -1515,7 +1515,7 @@ Jesuo, respondante, komencis diri al ili: “Gardu vin, ke neniu vin forlogu. Ĉ
 
 “Frato transdonos fraton al morto, kaj patro sian infanon. Infanoj leviĝos kontraŭ gepatroj kaj kaŭzos, ke oni ilin mortigu. Kaj vi estos malamataj de ĉiuj pro mia nomo; sed kiu persistos ĝis la fino, tiu estos savita.
 
-“Sed kiam vi vidos la abomenindaĵon de dezerteco, pri kiu parolis la profeto Daniel, starantan tie, kie ĝi ne devas” (la leganto komprenu), “tiam tiuj, kiuj estas en Judio, fuĝu al la montoj; kaj kiu estas sur la tegmento, tiu ne malsupreniru, nek eniru, por preni ion el sia domo. Kaj kiu estas sur la kampo, tiu ne revenu, por preni sian mantelon. Sed ve al tiuj, kiuj estas gravedaj, kaj al tiuj, kiuj mamnutras en tiuj tagoj! Preĝu, ke via fuĝo ne estu en vintro. Ĉar en tiuj tagoj estos aflikto, kia ne estis simila de la komenco de la kreo, kiun Dio kreis, ĝis nun, kaj neniam estos. Kaj se la Sinjoro ne estus mallongiginta la tagojn, neniu karno estus savita; sed pro la elektitoj, kiujn li elektis, li mallongigis la tagojn. Tiam, se iu diros al vi: ‘Jen, ĉi tie estas la Kristo!’ aŭ: ‘Jen, tie!’ ne kredu. Ĉar falsaj kristoj kaj falsaj profetoj leviĝos kaj montros signojn kaj mirindaĵojn, por forlogi, se eble, eĉ la elektitojn. Sed vi gardu vin.
+“Sed kiam vi vidos la abomenindaĵon de dezerteco, pri kiu parolis la profeto Danielo, starantan tie, kie ĝi ne devas” (la leganto komprenu), “tiam tiuj, kiuj estas en Judio, fuĝu al la montoj; kaj kiu estas sur la tegmento, tiu ne malsupreniru, nek eniru, por preni ion el sia domo. Kaj kiu estas sur la kampo, tiu ne revenu, por preni sian mantelon. Sed ve al tiuj, kiuj estas gravedaj, kaj al tiuj, kiuj mamnutras en tiuj tagoj! Preĝu, ke via fuĝo ne estu en vintro. Ĉar en tiuj tagoj estos aflikto, kia ne estis simila de la komenco de la kreo, kiun Dio kreis, ĝis nun, kaj neniam estos. Kaj se la Sinjoro ne estus mallongiginta la tagojn, neniu karno estus savita; sed pro la elektitoj, kiujn li elektis, li mallongigis la tagojn. Tiam, se iu diros al vi: ‘Jen, ĉi tie estas la Kristo!’ aŭ: ‘Jen, tie!’ ne kredu. Ĉar falsaj kristoj kaj falsaj profetoj leviĝos kaj montros signojn kaj mirindaĵojn, por forlogi, se eble, eĉ la elektitojn. Sed vi gardu vin.
 
 “Jen, mi antaŭdiris al vi ĉion. Sed en tiuj tagoj, post tiu aflikto, la suno mallumiĝos, la luno ne donos sian lumon, la steloj falos el la ĉielo, kaj la potencoj, kiuj estas en la ĉieloj, estos skuitaj. Tiam oni vidos la Filon de Homo venantan en nuboj kun granda potenco kaj gloro. Tiam li elsendos siajn anĝelojn kaj kolektos siajn elektitojn el la kvar ventoj, de la finoj de la tero ĝis la finoj de la ĉielo.
 
@@ -1529,7 +1529,7 @@ Jesuo, respondante, komencis diri al ili: “Gardu vin, ke neniu vin forlogu. Ĉ
 
 Nun estis du tagoj antaŭ la Pasko kaj la Festo de Macoj, kaj la ĉefpastroj kaj la skribistoj serĉis, kiel ili povus per trompo kapti lin kaj mortigi lin. Ĉar ili diris: “Ne dum la festo, por ke ne estu tumulto inter la popolo.”
 
-Dum li estis en Betania, en la domo de Simon la leprulo, dum li sidis ĉe la tablo, venis virino havante alabastran vazon da ŝmiraĵo el pura nardo—tre multekosta. Ŝi rompis la vazon kaj verŝis ĝin sur lian kapon. Sed estis iuj, kiuj indignis inter si, dirante: “Kial ĉi tiu ŝmiraĵo estas malŝparita? Ĉar ĉi tio povus esti vendita por pli ol tricent denaroj kaj donita al la malriĉuloj.” Kaj ili murmuris kontraŭ ŝi.
+Dum li estis en Betania, en la domo de Simono la leprulo, dum li sidis ĉe la tablo, venis virino havante alabastran vazon da ŝmiraĵo el pura nardo—tre multekosta. Ŝi rompis la vazon kaj verŝis ĝin sur lian kapon. Sed estis iuj, kiuj indignis inter si, dirante: “Kial ĉi tiu ŝmiraĵo estas malŝparita? Ĉar ĉi tio povus esti vendita por pli ol tricent denaroj kaj donita al la malriĉuloj.” Kaj ili murmuris kontraŭ ŝi.
 
 Sed Jesuo diris: “Lasu ŝin. Kial vi ĝenas ŝin? Ŝi faris bonan faron por mi. Ĉar la malriĉulojn vi ĉiam havas kun vi, kaj kiam ajn vi volas, vi povas fari al ili bonon; sed min vi ne ĉiam havos. Ŝi faris, kion ŝi povis. Ŝi antaŭe ŝmiris mian korpon por la entombigo. Vere mi diras al vi: kie ajn ĉi tiu Bona Novaĵo estos predikata tra la tuta mondo, ankaŭ tio, kion ĉi tiu virino faris, estos parolata por memoro pri ŝi.”
 
@@ -1563,7 +1563,7 @@ Ili venis al loko nomata Getsemano. Li diris al siaj disĉiploj: “Sidu ĉi tie
 
 Li iris iom antaŭen, falis sur la teron, kaj preĝis, ke, se eble, la horo pasu for de li. Li diris: “Abba, Patro, ĉio estas ebla por vi. Forigu ĉi tiun kalikon de mi. Tamen ne kion mi volas, sed kion vi volas.”
 
-Li venis kaj trovis ilin dormantaj, kaj diris al Petro: “Simon, ĉu vi dormas? Ĉu vi ne povis vigli unu horon? Viglu kaj preĝu, por ke vi ne eniru en tenton. La spirito ja estas volonta, sed la karno estas malforta.”
+Li venis kaj trovis ilin dormantaj, kaj diris al Petro: “Simono, ĉu vi dormas? Ĉu vi ne povis vigli unu horon? Viglu kaj preĝu, por ke vi ne eniru en tenton. La spirito ja estas volonta, sed la karno estas malforta.”
 
 Denove li foriris kaj preĝis, dirante la samajn vortojn. Denove li revenis kaj trovis ilin dormantaj, ĉar iliaj okuloj estis tre pezaj; kaj ili ne sciis, kion respondi al li. Li venis la trian fojon kaj diris al ili: “Dormu nun kaj ripozu. Sufiĉas. La horo venis. Jen la Filo de Homo estas perfidata en la manojn de pekuloj. Leviĝu! Ni iru. Jen, tiu, kiu perfidas min, estas proksime.”
 
@@ -1809,7 +1809,7 @@ Kaj li diris al ili: “Kial vi serĉis min? Ĉu vi ne sciis, ke mi devas esti e
 
 ### Ĉapitro 3
 
-En la dekkvina jaro de la regado de Tiberio Cezaro, kiam Pontio Pilato estis guberniestro de Judio, kaj Herodo estis tetrarko de Galileo, kaj lia frato Filipo tetrarko de la regiono Iturea kaj Traĥonitido, kaj Lisania tetrarko de Abileno, dum la ĉefpastreco de Anas kaj Kajafas, la vorto de Dio venis al Johano, filo de Zeĥarja, en la dezerto. Kaj li venis en la tutan regionon ĉirkaŭ Jordan, predikante la bapton de pento por pardonado de pekoj. Kiel estas skribite en la libro de la vortoj de la profeto Jesaja:
+En la dekkvina jaro de la regado de Tiberio Cezaro, kiam Pontio Pilato estis guberniestro de Judio, kaj Herodo estis tetrarko de Galileo, kaj lia frato Filipo tetrarko de la regiono Iturea kaj Traĥonitido, kaj Lisania tetrarko de Abileno, dum la ĉefpastreco de Anas kaj Kajafas, la vorto de Dio venis al Johano, filo de Zeĥarja, en la dezerto. Kaj li venis en la tutan regionon ĉirkaŭ Jordano, predikante la bapton de pento por pardonado de pekoj. Kiel estas skribite en la libro de la vortoj de la profeto Jesaja:
 
 “La voĉo de krianto en la dezerto:
 
@@ -1847,11 +1847,11 @@ Tiam, per multaj aliaj admonoj, li predikis la bonan novaĵon al la popolo; sed 
 
 Kaj kiam la tuta popolo estis baptita, ankaŭ Jesuo estis baptita kaj preĝis. La ĉielo malfermiĝis, kaj la Sankta Spirito malsupreniris sur lin en korpa formo kiel kolombo; kaj voĉo venis el la ĉielo, dirante: “Vi estas mia amata Filo; en vi mi havas plezuron.”
 
-Kaj Jesuo mem, kiam li komencis instrui, estis ĉirkaŭ tridek-jara, estante la filo (kiel oni supozis) de Jozefo, la filo de Heli, la filo de Matat, la filo de Levi, la filo de Melĥi, la filo de Janaj, la filo de Jozefo, la filo de Matatias, la filo de Amos, la filo de Naĥum, la filo de Esli, la filo de Nagaj, la filo de Maat, la filo de Matatias, la filo de Semein, la filo de Jozefo, la filo de Jehuda, la filo de Joanan, la filo de Rhesa, la filo de Zerubabel, la filo de Ŝealtiel, la filo de Neri, la filo de Melĥi, la filo de Addi, la filo de Kosam, la filo de Elmodam, la filo de Er, la filo de Jose, la filo de Eliezer, la filo de Jorim, la filo de Matat, la filo de Levi, la filo de Simeon, la filo de Jehuda, la filo de Jozefo, la filo de Jonan, la filo de Eliakim, la filo de Melea, la filo de Menan, la filo de Matata, la filo de Natan, la filo de Davido, la filo de Jesse, la filo de Obed, la filo de Boaz, la filo de Salmon, la filo de Naĥŝon, la filo de Aminadab, la filo de Aram, la filo de Ĥecron, la filo de Perec, la filo de Jehuda, la filo de Jakobo, la filo de Isaak, la filo de Abrahamo, la filo de Teraĥ, la filo de Naĥor, la filo de Serug, la filo de Reu, la filo de Peleg, la filo de Eber, la filo de Ŝelaĥ, la filo de Kainan, la filo de Arpaĥŝad, la filo de Ŝem, la filo de Noa, la filo de Lameĥ, la filo de Metuŝelaĥ, la filo de Ĥanoĥ, la filo de Jared, la filo de Mahalaleel, la filo de Kainan, la filo de Enos, la filo de Set, la filo de Adam, la filo de Dio.
+Kaj Jesuo mem, kiam li komencis instrui, estis ĉirkaŭ tridek-jara, estante la filo (kiel oni supozis) de Jozefo, la filo de Heli, la filo de Matat, la filo de Levi, la filo de Melĥi, la filo de Janaj, la filo de Jozefo, la filo de Matatias, la filo de Amos, la filo de Naĥum, la filo de Esli, la filo de Nagaj, la filo de Maat, la filo de Matatias, la filo de Semein, la filo de Jozefo, la filo de Jehuda, la filo de Joanan, la filo de Rhesa, la filo de Zerubabel, la filo de Ŝealtiel, la filo de Neri, la filo de Melĥi, la filo de Addi, la filo de Kosam, la filo de Elmodam, la filo de Er, la filo de Jose, la filo de Eliezer, la filo de Jorim, la filo de Matat, la filo de Levi, la filo de Simeon, la filo de Jehuda, la filo de Jozefo, la filo de Jonan, la filo de Eliakim, la filo de Melea, la filo de Menan, la filo de Matata, la filo de Natan, la filo de Davido, la filo de Jesse, la filo de Obed, la filo de Boaz, la filo de Salmon, la filo de Naĥŝon, la filo de Aminadab, la filo de Aram, la filo de Ĥecron, la filo de Perec, la filo de Jehuda, la filo de Jakobo, la filo de Isaako, la filo de Abrahamo, la filo de Teraĥ, la filo de Naĥor, la filo de Serug, la filo de Reu, la filo de Peleg, la filo de Eber, la filo de Ŝelaĥ, la filo de Kainan, la filo de Arpaĥŝad, la filo de Ŝem, la filo de Noa, la filo de Lameĥ, la filo de Metuŝelaĥ, la filo de Ĥanoĥ, la filo de Jared, la filo de Mahalaleel, la filo de Kainan, la filo de Enos, la filo de Set, la filo de Adam, la filo de Dio.
 
 ### Ĉapitro 4
 
-Jesuo, plena je la Sankta Spirito, revenis de la Jordan, kaj estis kondukata de la Spirito en la dezerton dum kvardek tagoj, tentate de la diablo. Li manĝis nenion en tiuj tagoj. Poste, kiam ili finiĝis, li malsatis.
+Jesuo, plena je la Sankta Spirito, revenis de la Jordano, kaj estis kondukata de la Spirito en la dezerton dum kvardek tagoj, tentate de la diablo. Li manĝis nenion en tiuj tagoj. Poste, kiam ili finiĝis, li malsatis.
 
 La diablo diris al li: “Se vi estas la Filo de Dio, ordonu al ĉi tiu ŝtono fariĝi pano.”
 
@@ -1859,7 +1859,7 @@ Jesuo respondis al li, dirante: “Estas skribite: ‘Homo ne vivos per pano sol
 
 La diablo, kondukante lin supren sur altan monton, montris al li ĉiujn regnojn de la mondo en momento da tempo. La diablo diris al li: “Mi donos al vi ĉi tiun tutan aŭtoritaton kaj ilian gloron, ĉar ĝi estas transdonita al mi, kaj mi donas ĝin al kiu ajn mi volas. Se do vi adorkliniĝos antaŭ mi, ĉio estos via.”
 
-Jesuo respondis al li: “Foriru malantaŭ min, Satano! Ĉar estas skribite: ‘Javen, vian Dion, vi adoru, kaj al li sola vi servu.’”
+Jesuo respondis al li: “Foriru malantaŭ min, Satano! Ĉar estas skribite: ‘Jehovan, vian Dion, vi adoru, kaj al li sola vi servu.’”
 
 Li kondukis lin al Jerusalemo kaj starigis lin sur la pinton de la templo, kaj diris al li: “Se vi estas la Filo de Dio, ĵetu vin malsupren de ĉi tie, ĉar estas skribite:
 
@@ -1871,7 +1871,7 @@ kaj:
 
 por ke vi eble ne frapu vian piedon kontraŭ ŝtono.’”
 
-Jesuo responde diris al li: “Estas dirite: ‘Vi ne provu Javen, vian Dion.’”
+Jesuo responde diris al li: “Estas dirite: ‘Vi ne provu Jehovan, vian Dion.’”
 
 Kiam la diablo finis ĉian tentadon, li foriris de li ĝis alia tempo.
 
@@ -1907,19 +1907,19 @@ Jesuo riproĉis lin, dirante: “Silentu kaj eliru el li!” Kiam la demono ĵet
 
 Mirego venis sur ĉiujn, kaj ili interparolis unu kun alia, dirante: “Kia vorto estas ĉi tio? Ĉar kun aŭtoritato kaj potenco li ordonas al la malpuraj spiritoj, kaj ili eliras!” Famo pri li eliris en ĉiun lokon de la ĉirkaŭa regiono.
 
-Li leviĝis el la sinagogo kaj eniris en la domon de Simon. La bopatrino de Simon estis suferanta pro granda febro, kaj ili petis lin helpi ŝin. Li staris super ŝi kaj riproĉis la febron, kaj ĝi forlasis ŝin. Tuj ŝi leviĝis kaj servis al ili. Kiam la suno subiris, ĉiuj, kiuj havis malsanulojn kun diversaj malsanoj, alportis ilin al li; kaj li metis la manojn sur ĉiun el ili, kaj resanigis ilin. Demonoj ankaŭ eliris el multaj, kriante kaj dirante: “Vi estas la Kristo, la Filo de Dio!” Riproĉante ilin, li ne permesis al ili paroli, ĉar ili sciis, ke li estas la Kristo.
+Li leviĝis el la sinagogo kaj eniris en la domon de Simono. La bopatrino de Simono estis suferanta pro granda febro, kaj ili petis lin helpi ŝin. Li staris super ŝi kaj riproĉis la febron, kaj ĝi forlasis ŝin. Tuj ŝi leviĝis kaj servis al ili. Kiam la suno subiris, ĉiuj, kiuj havis malsanulojn kun diversaj malsanoj, alportis ilin al li; kaj li metis la manojn sur ĉiun el ili, kaj resanigis ilin. Demonoj ankaŭ eliris el multaj, kriante kaj dirante: “Vi estas la Kristo, la Filo de Dio!” Riproĉante ilin, li ne permesis al ili paroli, ĉar ili sciis, ke li estas la Kristo.
 
 Kiam tagiĝis, li foriris kaj iris en senhoman lokon; kaj la homamasoj serĉis lin, kaj venis al li, kaj tenis lin, por ke li ne foriru de ili. Sed li diris al ili: “Mi devas prediki la bonan novaĵon de la Regno de Dio ankaŭ al la aliaj urboj, ĉar por tio mi estas sendita.” Kaj li predikis en la sinagogoj de Galileo.
 
 ### Ĉapitro 5
 
-Kaj dum la homamaso premis lin kaj aŭskultis la vorton de Dio, li staris apud la lago de Genesaret. Kaj li vidis du boatojn starantajn apud la lago; sed la fiŝkaptistoj eliris el ili kaj lavis siajn retojn. Kaj li eniris en unu el la boatoj, kiu estis de Simon, kaj petis lin forpuŝi iom de la tero. Kaj li sidiĝis kaj instruis la homamasojn el la boato.
+Kaj dum la homamaso premis lin kaj aŭskultis la vorton de Dio, li staris apud la lago de Genesaret. Kaj li vidis du boatojn starantajn apud la lago; sed la fiŝkaptistoj eliris el ili kaj lavis siajn retojn. Kaj li eniris en unu el la boatoj, kiu estis de Simono, kaj petis lin forpuŝi iom de la tero. Kaj li sidiĝis kaj instruis la homamasojn el la boato.
 
-Kaj kiam li ĉesis paroli, li diris al Simon: “Forpuŝu en la profundon kaj mallevu viajn retojn por kaptaĵo.”
+Kaj kiam li ĉesis paroli, li diris al Simono: “Forpuŝu en la profundon kaj mallevu viajn retojn por kaptaĵo.”
 
-Kaj Simon respondis al li: “Majstro, ni laboris la tutan nokton kaj kaptis nenion; sed laŭ via vorto mi mallevos la reton.” Kaj kiam ili tion faris, ili kaptis grandan amason da fiŝoj, kaj ilia reto rompiĝadis. Kaj ili signis al siaj kunuloj en la alia boato, ke ili venu kaj helpu ilin. Kaj ili venis kaj plenigis ambaŭ boatojn, tiel ke ili komencis sinki. Sed Simon Petro, kiam li tion vidis, falis ĉe la genuoj de Jesuo, dirante: “Foriru de mi, ĉar mi estas pekulo, Sinjoro.” Ĉar miro ekkaptis lin kaj ĉiujn, kiuj estis kun li, pro la kaptaĵo de fiŝoj, kiun ili kaptis; kaj tiel ankaŭ Jakobo kaj Johano, filoj de Zebedeo, kiuj estis kunuloj de Simon.
+Kaj Simono respondis al li: “Majstro, ni laboris la tutan nokton kaj kaptis nenion; sed laŭ via vorto mi mallevos la reton.” Kaj kiam ili tion faris, ili kaptis grandan amason da fiŝoj, kaj ilia reto rompiĝadis. Kaj ili signis al siaj kunuloj en la alia boato, ke ili venu kaj helpu ilin. Kaj ili venis kaj plenigis ambaŭ boatojn, tiel ke ili komencis sinki. Sed Simono Petro, kiam li tion vidis, falis ĉe la genuoj de Jesuo, dirante: “Foriru de mi, ĉar mi estas pekulo, Sinjoro.” Ĉar miro ekkaptis lin kaj ĉiujn, kiuj estis kun li, pro la kaptaĵo de fiŝoj, kiun ili kaptis; kaj tiel ankaŭ Jakobo kaj Johano, filoj de Zebedeo, kiuj estis kunuloj de Simono.
 
-Kaj Jesuo diris al Simon: “Ne timu. De nun vi kaptos homojn vivajn.”
+Kaj Jesuo diris al Simono: “Ne timu. De nun vi kaptos homojn vivajn.”
 
 Kaj kiam ili alportis la boatojn al la tero, ili forlasis ĉion kaj sekvis lin.
 
@@ -2054,15 +2054,15 @@ Kiam la tuta popolo kaj la impostistoj tion aŭdis, ili deklaris Dion justa, ĉa
 
 Unu el la Fariseoj invitis lin manĝi kun li. Li eniris en la domon de la Fariseo kaj kuŝiĝis ĉe la tablo. Kaj jen virino en la urbo, kiu estis pekulino, kiam ŝi eksciis, ke li kuŝas ĉe la tablo en la domo de la Fariseo, alportis alabastran vazon da ŝmiraĵo. Starante malantaŭe ĉe liaj piedoj, plorante, ŝi komencis malsekigi liajn piedojn per siaj larmoj, kaj ŝi viŝis ilin per la haroj de sia kapo, kisis liajn piedojn, kaj ŝmiris ilin per la ŝmiraĵo. Kiam la Fariseo, kiu invitis lin, tion vidis, li diris al si: “Ĉi tiu homo, se li estus profeto, scius, kiu kaj kia virino estas tiu, kiu tuŝas lin, ke ŝi estas pekulino.”
 
-Jesuo respondis al li: “Simon, mi havas ion por diri al vi.”
+Jesuo respondis al li: “Simono, mi havas ion por diri al vi.”
 
 Li diris: “Majstro, diru.”
 
 “Iu pruntedonanto havis du ŝuldantojn. Unu ŝuldis kvincent denarojn, kaj la alia kvindek. Kiam ili ne povis pagi, li pardonis al ambaŭ. Kiu el ili do amos lin plej?”
 
-Simon respondis: “Tiu, mi supozas, al kiu li pardonis la plej multon.”
+Simono respondis: “Tiu, mi supozas, al kiu li pardonis la plej multon.”
 
-Li diris al li: “Vi ĝuste juĝis.” Kaj turninte sin al la virino, li diris al Simon: “Ĉu vi vidas ĉi tiun virinon? Mi eniris en vian domon; vi ne donis al mi akvon por miaj piedoj, sed ŝi malsekigis miajn piedojn per siaj larmoj kaj viŝis ilin per la haroj de sia kapo. Vi ne donis al mi kison, sed ŝi, de post kiam mi eniris, ne ĉesis kisi miajn piedojn. Vi ne ŝmiris mian kapon per oleo, sed ŝi ŝmiris miajn piedojn per ŝmiraĵo. Tial mi diras al vi: ŝiaj pekoj, kiuj estas multaj, estas pardonitaj, ĉar ŝi multe amis. Sed tiu, al kiu malmulte estas pardonite, malmulte amas.” Li diris al ŝi: “Viaj pekoj estas pardonitaj.”
+Li diris al li: “Vi ĝuste juĝis.” Kaj turninte sin al la virino, li diris al Simono: “Ĉu vi vidas ĉi tiun virinon? Mi eniris en vian domon; vi ne donis al mi akvon por miaj piedoj, sed ŝi malsekigis miajn piedojn per siaj larmoj kaj viŝis ilin per la haroj de sia kapo. Vi ne donis al mi kison, sed ŝi, de post kiam mi eniris, ne ĉesis kisi miajn piedojn. Vi ne ŝmiris mian kapon per oleo, sed ŝi ŝmiris miajn piedojn per ŝmiraĵo. Tial mi diras al vi: ŝiaj pekoj, kiuj estas multaj, estas pardonitaj, ĉar ŝi multe amis. Sed tiu, al kiu malmulte estas pardonite, malmulte amas.” Li diris al ŝi: “Viaj pekoj estas pardonitaj.”
 
 Kaj tiuj, kiuj sidis ĉe la tablo kun li, komencis diri inter si: “Kiu estas ĉi tiu, kiu eĉ pekojn pardonas?”
 
@@ -2556,7 +2556,7 @@ Li diris al ili: “Do redonu al Cezaro la aferojn de Cezaro, kaj al Dio la afer
 
 Ili ne povis kapti lin per liaj vortoj antaŭ la popolo. Ili miris pri lia respondo kaj silentis. Iuj el la sadukeoj venis al li, tiuj, kiuj neas, ke ekzistas releviĝo. Ili demandis lin: “Instruisto, Mozeo skribis al ni, ke se ies frato mortas havante edzinon, kaj li estas seninfana, lia frato prenu la edzinon kaj naskigu idojn por sia frato. Estis do sep fratoj. La unua prenis edzinon kaj mortis seninfana. La dua prenis ŝin kiel edzinon, kaj li mortis seninfana. La tria prenis ŝin, kaj same la sep ĉiuj ne lasis infanojn kaj mortis. Poste ankaŭ la virino mortis. Do en la releviĝo, kies edzino el ili ŝi estos? Ĉar la sep havis ŝin kiel edzinon.”
 
-Jesuo diris al ili: “La infanoj de ĉi tiu mondo edziĝas kaj estas edzinigataj. Sed tiuj, kiuj estas konsiderataj indaj atingi tiun mondon kaj la releviĝon el la mortintoj, nek edziĝas nek estas edzinigataj. Ĉar ili ne plu povas morti, ĉar ili estas kiel la anĝeloj kaj estas infanoj de Dio, estante infanoj de la releviĝo. Sed ke la mortintoj releviĝas, eĉ Mozeo montris ĉe la arbetaro, kiam li nomis la Sinjoron ‘la Dio de Abrahamo, la Dio de Isaak, kaj la Dio de Jakobo.’ Nu li ne estas Dio de la mortintoj, sed de la vivantoj, ĉar ĉiuj vivas al li.”
+Jesuo diris al ili: “La infanoj de ĉi tiu mondo edziĝas kaj estas edzinigataj. Sed tiuj, kiuj estas konsiderataj indaj atingi tiun mondon kaj la releviĝon el la mortintoj, nek edziĝas nek estas edzinigataj. Ĉar ili ne plu povas morti, ĉar ili estas kiel la anĝeloj kaj estas infanoj de Dio, estante infanoj de la releviĝo. Sed ke la mortintoj releviĝas, eĉ Mozeo montris ĉe la arbetaro, kiam li nomis la Sinjoron ‘la Dio de Abrahamo, la Dio de Isaako, kaj la Dio de Jakobo.’ Nu li ne estas Dio de la mortintoj, sed de la vivantoj, ĉar ĉiuj vivas al li.”
 
 Iuj el la skribistoj respondis: “Instruisto, vi bone parolas.” Ili ne kuraĝis plu demandi lin ion ajn.
 
@@ -2620,7 +2620,7 @@ Kaj ankaŭ ekestis inter ili disputo, kiu el ili estas konsiderata la plej grand
 
 “Sed vi estas tiuj, kiuj restis kun mi en miaj provoj. Kaj mi atribuas al vi regnon, kiel mia Patro atribuis al mi, por ke vi manĝu kaj trinku ĉe mia tablo en mia Regno. Kaj vi sidos sur tronoj, juĝante la dek du tribojn de Izraelo.”
 
-La Sinjoro diris: “Simon, Simon, jen Satano petis vin ĉiujn, por kribri vin kiel tritikon; sed mi preĝis por vi, ke via fido ne manku. Kaj vi, kiam vi iam returniĝos, firmigu viajn fratojn.”
+La Sinjoro diris: “Simono, Simono, jen Satano petis vin ĉiujn, por kribri vin kiel tritikon; sed mi preĝis por vi, ke via fido ne manku. Kaj vi, kiam vi iam returniĝos, firmigu viajn fratojn.”
 
 Li diris al li: “Sinjoro, mi estas preta iri kun vi kaj en malliberejon kaj en morton!”
 
@@ -2744,7 +2744,7 @@ Ili alproksimiĝis al la vilaĝo, kien ili iris, kaj li ŝajnigis, kvazaŭ li ir
 
 Sed ili insistis ĉe li, dirante: “Restu kun ni, ĉar estas preskaŭ vespero, kaj la tago preskaŭ finiĝis.”
 
-Li eniris por resti kun ili. Kaj kiam li sidis ĉe la tablo kun ili, li prenis la panon kaj dankis. Rompinte ĝin, li donis al ili. Iliaj okuloj malfermiĝis kaj ili rekonis lin; kaj tiam li malaperis el ilia vido. Ili diris unu al la alia: “Ĉu niaj koroj ne brulis en ni, dum li parolis al ni sur la vojo, kaj dum li malfermis al ni la Skribojn?” Ili leviĝis en tiu sama horo, revenis al Jerusalemo, kaj trovis la dek unu kunvenintaj, kaj tiujn, kiuj estis kun ili, dirantajn: “La Sinjoro vere leviĝis, kaj aperis al Simon!” Ili rakontis la aferojn, kiuj okazis sur la vojo, kaj kiel li estis rekonita de ili en la rompado de la pano.
+Li eniris por resti kun ili. Kaj kiam li sidis ĉe la tablo kun ili, li prenis la panon kaj dankis. Rompinte ĝin, li donis al ili. Iliaj okuloj malfermiĝis kaj ili rekonis lin; kaj tiam li malaperis el ilia vido. Ili diris unu al la alia: “Ĉu niaj koroj ne brulis en ni, dum li parolis al ni sur la vojo, kaj dum li malfermis al ni la Skribojn?” Ili leviĝis en tiu sama horo, revenis al Jerusalemo, kaj trovis la dek unu kunvenintaj, kaj tiujn, kiuj estis kun ili, dirantajn: “La Sinjoro vere leviĝis, kaj aperis al Simono!” Ili rakontis la aferojn, kiuj okazis sur la vojo, kaj kiel li estis rekonita de ili en la rompado de la pano.
 
 Dum ili diris ĉi tion, Jesuo mem staris inter ili, kaj diris al ili: “Paco al vi.”
 
@@ -2790,7 +2790,7 @@ Li diris: “Mi estas la voĉo de krianto en la dezerto: ‘Rektigu la vojon de 
 
 Kaj la senditoj estis el la Fariseoj. Ili demandis lin: “Kial do vi baptas, se vi ne estas la Kristo, nek Elija, nek la profeto?”
 
-Johano respondis al ili: “Mi baptas per akvo; sed inter vi staras iu, kiun vi ne konas. Li estas tiu, kiu venas post mi, kiu estas antaŭ mi preferata, kies sandalrimenon mi ne estas inda malligi.” Ĉi tio okazis en Betania trans Jordan, kie Johano baptadis.
+Johano respondis al ili: “Mi baptas per akvo; sed inter vi staras iu, kiun vi ne konas. Li estas tiu, kiu venas post mi, kiu estas antaŭ mi preferata, kies sandalrimenon mi ne estas inda malligi.” Ĉi tio okazis en Betania trans Jordano, kie Johano baptadis.
 
 La sekvan tagon li vidis Jesuon venantan al li, kaj diris: “Jen la Ŝafido de Dio, kiu forportas la pekon de la mondo! Tiu estas, pri kiu mi diris: ‘Post mi venas viro, kiu estas antaŭ mi preferata, ĉar li estis antaŭ mi.’ Mi ne konis lin; sed pro tio mi venis baptante per akvo, por ke li estu elmontrita al Izraelo.” Kaj Johano atestis, dirante: “Mi vidis la Spiriton malsuprenirantan kiel kolombo el la ĉielo, kaj ĝi restis sur li. Mi ne rekonis lin; sed tiu, kiu min sendis bapti per akvo, diris al mi: ‘Sur kiu ajn vi vidos la Spiriton malsuprenirantan kaj restantan sur li, tiu estas, kiu baptas en la Sankta Spirito.’ Kaj mi vidis kaj atestis, ke ĉi tiu estas la Filo de Dio.”
 
@@ -2800,7 +2800,7 @@ Ili diris al li: “Rabeno” (kio, tradukite, signifas Instruisto), “kie vi l
 
 Li diris al ili: “Venu kaj vidu.”
 
-Ili venis kaj vidis, kie li loĝis, kaj restis ĉe li tiun tagon. Estis ĉirkaŭ la deka horo. Unu el la du, kiuj aŭdis Johanon kaj sekvis lin, estis Andreo, frato de Simon Petro. Li unue trovis sian propran fraton Simon, kaj diris al li: “Ni trovis la Mesion!” (kio, tradukite, estas Kristo). Li kondukis lin al Jesuo. Jesuo rigardis lin kaj diris: “Vi estas Simon, filo de Jona. Vi estos nomata Kefas” (kio, tradukite, estas Petro).
+Ili venis kaj vidis, kie li loĝis, kaj restis ĉe li tiun tagon. Estis ĉirkaŭ la deka horo. Unu el la du, kiuj aŭdis Johanon kaj sekvis lin, estis Andreo, frato de Simono Petro. Li unue trovis sian propran fraton Simono, kaj diris al li: “Ni trovis la Mesion!” (kio, tradukite, estas Kristo). Li kondukis lin al Jesuo. Jesuo rigardis lin kaj diris: “Vi estas Simono, filo de Jona. Vi estos nomata Kefas” (kio, tradukite, estas Petro).
 
 La sekvan tagon li decidis iri en Galileon, kaj li trovis Filipon. Jesuo diris al li: “Sekvu min.” Kaj Filipo estis el Betsaida, la urbo de Andreo kaj Petro. Filipo trovis Natanaelon, kaj diris al li: “Ni trovis tiun, pri kiu Mozeo en la leĝo kaj ankaŭ la profetoj skribis: Jesuon el Nazaret, la filon de Jozefo.”
 
@@ -2946,7 +2946,7 @@ Post ĉi tiuj aferoj Jesuo foriris al la alia flanko de la maro de Galileo, kiu 
 
 Filipo respondis al li: “Pano je ducent denaroj ne sufiĉas por ili, por ke ĉiu ricevu iomete.”
 
-Unu el liaj disĉiploj, Andreo, frato de Simon Petro, diris al li: “Estas ĉi tie knabo, kiu havas kvin hordeajn panojn kaj du fiŝojn; sed kio estas tio inter tiom multaj?”
+Unu el liaj disĉiploj, Andreo, frato de Simono Petro, diris al li: “Estas ĉi tie knabo, kiu havas kvin hordeajn panojn kaj du fiŝojn; sed kio estas tio inter tiom multaj?”
 
 Jesuo diris: “Sidigu la homojn.” Kaj estis multe da herbo en tiu loko. Do la viroj sidiĝis, en nombro ĉirkaŭ kvin mil. Jesuo prenis la panojn, kaj, dankinte, li disdonis al la disĉiploj, kaj la disĉiploj al la sidantaj; same ankaŭ el la fiŝoj, kiom ili deziris. Kaj kiam ili satiĝis, li diris al siaj disĉiploj: “Kolektu la postrestintajn pecojn, por ke nenio perdiĝu.” Do ili kolektis ilin, kaj plenigis dek du korbojn per pecoj el la kvin hordeaj panoj, kiuj restis post la manĝintoj. Kiam do la homoj vidis la signon, kiun Jesuo faris, ili diris: “Ĉi tiu vere estas la profeto, kiu venas en la mondon.” Jesuo do, rimarkinte, ke ili estas venontaj por perforte kapti lin kaj fari lin reĝo, denove retiriĝis al la monto sola.
 
@@ -2982,9 +2982,9 @@ Sed Jesuo, sciante en si mem, ke liaj disĉiploj murmuras pri tio, diris al ili:
 
 Pro tio multaj el liaj disĉiploj retiriĝis kaj ne plu iris kun li. Jesuo do diris al la dek du: “Ĉu ankaŭ vi volas foriri?”
 
-Simon Petro respondis al li: “Sinjoro, al kiu ni irus? Vi havas la vortojn de eterna vivo. Kaj ni kredis kaj scias, ke vi estas la Kristo, la Filo de la vivanta Dio.”
+Simono Petro respondis al li: “Sinjoro, al kiu ni irus? Vi havas la vortojn de eterna vivo. Kaj ni kredis kaj scias, ke vi estas la Kristo, la Filo de la vivanta Dio.”
 
-Jesuo respondis al ili: “Ĉu mi ne elektis vin, la dek du? Kaj unu el vi estas diablo.” Li parolis pri Judaso, filo de Simon Iskariota, ĉar li estis tiu, kiu perfidos lin, estante unu el la dek du.
+Jesuo respondis al ili: “Ĉu mi ne elektis vin, la dek du? Kaj unu el vi estas diablo.” Li parolis pri Judaso, filo de Simono Iskariota, ĉar li estis tiu, kiu perfidos lin, estante unu el la dek du.
 
 ### Ĉapitro 7
 
@@ -3222,7 +3222,7 @@ Jesuo diris al ili: “Malligu lin, kaj lasu lin iri.”
 
 Multaj do el la Judoj, kiuj venis al Maria kaj vidis, kion Jesuo faris, kredis al li. Sed iuj el ili foriris al la Fariseoj kaj rakontis al ili la aferojn, kiujn Jesuo faris. La ĉefpastroj do kaj la Fariseoj kunvenigis konsilion kaj diris: “Kion ni faras? Ĉar ĉi tiu homo faras multajn signojn. Se ni lasos lin tiel, ĉiuj kredos al li, kaj la Romanoj venos kaj forprenos kaj nian lokon kaj nian nacion.”
 
-Sed unu el ili, Kajafas, estante ĉefpastro en tiu jaro, diris al ili: “Vi tute nenion scias, nek konsideras, ke estas utile por ni, ke unu homo mortu por la popolo, kaj ke la tuta nacio ne pereu.” Li ne diris tion el si mem; sed estante ĉefpastro en tiu jaro, li profetis, ke Jesuo mortos por la nacio; kaj ne nur por la nacio, sed ankaŭ por ke li kunigu en unu la disĵetitajn infanojn de Dio. De tiu tago do ili konsiliĝis, por ke ili mortigu lin. Jesuo do ne plu malkaŝe iradis inter la Judoj, sed foriris de tie en la regionon proksime de la dezerto, al urbo nomata Efraim; kaj li restis tie kun siaj disĉiploj.
+Sed unu el ili, Kajafas, estante ĉefpastro en tiu jaro, diris al ili: “Vi tute nenion scias, nek konsideras, ke estas utile por ni, ke unu homo mortu por la popolo, kaj ke la tuta nacio ne pereu.” Li ne diris tion el si mem; sed estante ĉefpastro en tiu jaro, li profetis, ke Jesuo mortos por la nacio; kaj ne nur por la nacio, sed ankaŭ por ke li kunigu en unu la disĵetitajn infanojn de Dio. De tiu tago do ili konsiliĝis, por ke ili mortigu lin. Jesuo do ne plu malkaŝe iradis inter la Judoj, sed foriris de tie en la regionon proksime de la dezerto, al urbo nomata Efraimo; kaj li restis tie kun siaj disĉiploj.
 
 Kaj la Pasko de la Judoj estis proksima. Multaj iris supren el la kamparo al Jerusalemo antaŭ la Pasko, por sin purigi. Ili do serĉis Jesuon kaj parolis inter si, starante en la templo: “Kion vi pensas? Ĉu li tute ne venos al la festo?” Kaj la ĉefpastroj kaj la Fariseoj ordonis, ke se iu scius, kie li estas, li raportu, por ke ili kaptu lin.
 
@@ -3230,7 +3230,7 @@ Kaj la Pasko de la Judoj estis proksima. Multaj iris supren el la kamparo al Jer
 
 Tiam, ses tagojn antaŭ la Pasko, Jesuo venis al Betania, kie estis Lazaro, kiu estis mortinta, kiun li revivigis el la mortintoj. Kaj oni faris al li tie vespermanĝon. Marta servadis, kaj Lazaro estis unu el tiuj, kiuj sidis ĉe la tablo kun li. Tial Maria prenis funton da ŝmiraĵo el pura nardo, tre multekosta, kaj ŝmiris la piedojn de Jesuo kaj viŝis liajn piedojn per siaj haroj; kaj la domo pleniĝis de la bonodoro de la ŝmiraĵo.
 
-Tiam Judas Iskariota, filo de Simon, unu el liaj disĉiploj, kiu estis perfidonta lin, diris: “Kial ĉi tiu ŝmiraĵo ne estis vendita por tricent denaroj kaj donita al la malriĉuloj?” Li diris tion, ne ĉar li zorgis pri la malriĉuloj, sed ĉar li estis ŝtelisto; kaj havante la monujon, li kutimis forpreni tion, kio estis enmetita en ĝin.
+Tiam Judas Iskariota, filo de Simono, unu el liaj disĉiploj, kiu estis perfidonta lin, diris: “Kial ĉi tiu ŝmiraĵo ne estis vendita por tricent denaroj kaj donita al la malriĉuloj?” Li diris tion, ne ĉar li zorgis pri la malriĉuloj, sed ĉar li estis ŝtelisto; kaj havante la monujon, li kutimis forpreni tion, kio estis enmetita en ĝin.
 
 Sed Jesuo diris: “Lasu ŝin. Ŝi konservis tion por la tago de mia entombigo. Ĉar la malriĉulojn vi ĉiam havas kun vi, sed min vi ne ĉiam havas.”
 
@@ -3273,7 +3273,7 @@ Jesuo kriis kaj diris: “Kiu kredas al mi, tiu kredas ne al mi, sed al tiu, kiu
 
 ### Ĉapitro 13
 
-Antaŭ la festo de Pasko, Jesuo, sciante, ke venis lia horo, por ke li foriru el ĉi tiu mondo al la Patro, aminte siajn, kiuj estis en la mondo, amis ilin ĝis la fino. Dum la vespermanĝo, kiam la diablo jam enmetis en la koron de Judaso Iskariota, filo de Simon, la intencon perfidi lin, Jesuo, sciante, ke la Patro donis ĉion en liajn manojn, kaj ke li venis de Dio kaj iras al Dio, leviĝis de la vespermanĝo kaj demetis siajn eksterajn vestojn. Li prenis tukon kaj zonis sin per la tuko. Poste li verŝis akvon en la pelvon kaj komencis lavi la piedojn de la disĉiploj kaj viŝi ilin per la tuko, per kiu li estis zonita. Tiam li venis al Simon Petro. Tiu diris al li: “Sinjoro, ĉu vi lavas miajn piedojn?”
+Antaŭ la festo de Pasko, Jesuo, sciante, ke venis lia horo, por ke li foriru el ĉi tiu mondo al la Patro, aminte siajn, kiuj estis en la mondo, amis ilin ĝis la fino. Dum la vespermanĝo, kiam la diablo jam enmetis en la koron de Judaso Iskariota, filo de Simono, la intencon perfidi lin, Jesuo, sciante, ke la Patro donis ĉion en liajn manojn, kaj ke li venis de Dio kaj iras al Dio, leviĝis de la vespermanĝo kaj demetis siajn eksterajn vestojn. Li prenis tukon kaj zonis sin per la tuko. Poste li verŝis akvon en la pelvon kaj komencis lavi la piedojn de la disĉiploj kaj viŝi ilin per la tuko, per kiu li estis zonita. Tiam li venis al Simono Petro. Tiu diris al li: “Sinjoro, ĉu vi lavas miajn piedojn?”
 
 Jesuo respondis al li: “Kion mi faras nun, vi ne scias; sed poste vi komprenos.”
 
@@ -3281,17 +3281,17 @@ Petro diris al li: “Vi neniam lavos miajn piedojn!”
 
 Jesuo respondis al li: “Se mi ne lavas vin, vi ne havas parton kun mi.”
 
-Simon Petro diris al li: “Sinjoro, ne nur miajn piedojn, sed ankaŭ miajn manojn kaj mian kapon!”
+Simono Petro diris al li: “Sinjoro, ne nur miajn piedojn, sed ankaŭ miajn manojn kaj mian kapon!”
 
 Jesuo diris al li: “Kiu sin banis, bezonas nur lavi la piedojn, sed estas tute pura. Vi estas puraj, sed ne ĉiuj.” Ĉar li sciis, kiu perfidos lin; tial li diris: “Ne ĉiuj vi estas puraj.” Do, kiam li lavis iliajn piedojn, surmetis denove siajn eksterajn vestojn kaj ree sidiĝis, li diris al ili: “Ĉu vi scias, kion mi faris al vi? Vi nomas min ‘Instruisto’ kaj ‘Sinjoro’; kaj vi prave diras, ĉar tia mi estas. Se do mi, la Sinjoro kaj la Instruisto, lavis viajn piedojn, ankaŭ vi devas lavi la piedojn unu al alia. Ĉar mi donis al vi ekzemplon, por ke ankaŭ vi faru, kiel mi faris al vi. Vere, vere, mi diras al vi: sklavo ne estas pli granda ol sia sinjoro, nek sendito pli granda ol tiu, kiu lin sendis. Se vi scias ĉi tion, feliĉaj vi estas, se vi faras ĝin. Mi ne parolas pri ĉiuj vi. Mi scias, kiujn mi elektis; sed por ke plenumiĝu la Skribo: ‘Kiu manĝas panon kun mi, levis sian kalkanon kontraŭ mi.’ De nun mi diras al vi antaŭ ol tio okazos, por ke, kiam ĝi okazos, vi kredu, ke mi estas li. Vere, vere, mi diras al vi: kiu akceptas tiun, kiun mi sendas, akceptas min; kaj kiu akceptas min, akceptas tiun, kiu min sendis.”
 
 Dirinte tion, Jesuo maltrankviliĝis en spirito kaj atestis: “Vere, vere, mi diras al vi, ke unu el vi perfidos min.”
 
-La disĉiploj rigardis unu la alian, konfuzitaj, pri kiu li parolas. Unu el liaj disĉiploj, kiun Jesuo amis, kuŝis ĉe la tablo, apogite al la brusto de Jesuo. Simon Petro do signis al li kaj diris al li: “Diru al ni, kiu estas tiu, pri kiu li parolas.”
+La disĉiploj rigardis unu la alian, konfuzitaj, pri kiu li parolas. Unu el liaj disĉiploj, kiun Jesuo amis, kuŝis ĉe la tablo, apogite al la brusto de Jesuo. Simono Petro do signis al li kaj diris al li: “Diru al ni, kiu estas tiu, pri kiu li parolas.”
 
 Tiu, restinte apogita al la brusto de Jesuo, demandis lin: “Sinjoro, kiu ĝi estas?”
 
-Jesuo do respondis: “Estas tiu, al kiu mi donos ĉi tiun pecon da pano, kiam mi ĝin trempos.” Do, trempinte la pecon da pano, li donis ĝin al Judaso, filo de Simon Iskariota. Kaj post la peco da pano, Satano eniris en lin.
+Jesuo do respondis: “Estas tiu, al kiu mi donos ĉi tiun pecon da pano, kiam mi ĝin trempos.” Do, trempinte la pecon da pano, li donis ĝin al Judaso, filo de Simono Iskariota. Kaj post la peco da pano, Satano eniris en lin.
 
 Tiam Jesuo diris al li: “Kion vi faras, faru rapide.”
 
@@ -3299,7 +3299,7 @@ Sed neniu el la ĉeestantoj ĉe la tablo sciis, kial li diris tion al li. Ĉar i
 
 Kiam li eliris, Jesuo diris: “Nun la Filo de homo estas glorata, kaj Dio estas glorata en li. Se Dio estas glorata en li, Dio ankaŭ gloros lin en si mem, kaj li gloros lin tuj. Infanetoj, ankoraŭ mallongan tempon mi estos kun vi. Vi serĉos min; kaj kiel mi diris al la Judoj: ‘Kien mi iras, vi ne povas veni,’ tiel nun mi diras al vi. Novan ordonon mi donas al vi: ke vi amu unu la alian. Kiel mi amis vin, tiel ankaŭ vi amu unu la alian. Per tio ĉiuj scios, ke vi estas miaj disĉiploj, se vi havos amon unu al alia.”
 
-Simon Petro diris al li: “Sinjoro, kien vi iras?”
+Simono Petro diris al li: “Sinjoro, kien vi iras?”
 
 Jesuo respondis: “Kien mi iras, vi ne povas sekvi min nun, sed poste vi sekvos.”
 
@@ -3381,11 +3381,11 @@ Ili diris: “Jesuon, la Nazaretanon.”
 
 Jesuo respondis: “Mi diris al vi, ke mi estas li. Se do vi serĉas min, lasu ĉi tiujn foriri,” por ke plenumiĝu la vorto, kiun li diris: “El tiuj, kiujn vi donis al mi, mi perdis neniun.”
 
-Simon Petro do, havante glavon, eltiris ĝin, frapis la servanton de la ĉefpastro kaj detranĉis lian dekstran orelon. La nomo de la servanto estis Malĥo. Jesuo do diris al Petro: “Enmetu la glavon en ĝian ingon. La kalikon, kiun la Patro donis al mi, ĉu mi nepre ne trinku ĝin?”
+Simono Petro do, havante glavon, eltiris ĝin, frapis la servanton de la ĉefpastro kaj detranĉis lian dekstran orelon. La nomo de la servanto estis Malĥo. Jesuo do diris al Petro: “Enmetu la glavon en ĝian ingon. La kalikon, kiun la Patro donis al mi, ĉu mi nepre ne trinku ĝin?”
 
 Tiam la taĉmento, la komandanto kaj la oficistoj de la Judoj kaptis Jesuon kaj ligis lin, kaj kondukis lin unue al Anas, ĉar li estis bopatro de Kajafas, kiu estis ĉefpastro en tiu jaro. Kaj Kajafas estis tiu, kiu konsilis al la Judoj, ke estas oportune, ke unu homo pereu por la popolo.
 
-Simon Petro sekvis Jesuon, kaj ankaŭ alia disĉiplo. Kaj tiu disĉiplo estis konata de la ĉefpastro, kaj eniris kun Jesuo en la korton de la ĉefpastro; sed Petro staris ekstere ĉe la pordo. Tiam la alia disĉiplo, kiu estis konata de la ĉefpastro, eliris kaj parolis al la pordogardistino, kaj enkondukis Petron. Tiam la servistino, kiu gardis la pordon, diris al Petro: “Ĉu vi ankaŭ ne estas unu el la disĉiploj de ĉi tiu homo?”
+Simono Petro sekvis Jesuon, kaj ankaŭ alia disĉiplo. Kaj tiu disĉiplo estis konata de la ĉefpastro, kaj eniris kun Jesuo en la korton de la ĉefpastro; sed Petro staris ekstere ĉe la pordo. Tiam la alia disĉiplo, kiu estis konata de la ĉefpastro, eliris kaj parolis al la pordogardistino, kaj enkondukis Petron. Tiam la servistino, kiu gardis la pordon, diris al Petro: “Ĉu vi ankaŭ ne estas unu el la disĉiploj de ĉi tiu homo?”
 
 Li diris: “Mi ne estas.”
 
@@ -3401,7 +3401,7 @@ Jesuo respondis al li: “Se mi parolis malbone, atestu pri la malbono; sed se b
 
 Anas sendis lin ligitan al Kajafas, la ĉefpastro.
 
-Kaj Simon Petro staris kaj sin varmigis. Ili do diris al li: “Ĉu vi ankaŭ ne estas unu el liaj disĉiploj?”
+Kaj Simono Petro staris kaj sin varmigis. Ili do diris al li: “Ĉu vi ankaŭ ne estas unu el liaj disĉiploj?”
 
 Li neis kaj diris: “Mi ne estas.”
 
@@ -3485,9 +3485,9 @@ Post tio Jozefo el Arimateo, estante disĉiplo de Jesuo, sed sekrete pro timo an
 
 ### Ĉapitro 20
 
-En la unua tago de la semajno Maria Magdalena venis frue, dum ankoraŭ estis mallume, al la tombo, kaj vidis, ke la ŝtono estas forprenita de la tombo. Tial ŝi kuris kaj venis al Simon Petro kaj al la alia disĉiplo, kiun Jesuo amis, kaj diris al ili: “Oni forprenis la Sinjoron el la tombo, kaj ni ne scias, kien oni lin metis!”
+En la unua tago de la semajno Maria Magdalena venis frue, dum ankoraŭ estis mallume, al la tombo, kaj vidis, ke la ŝtono estas forprenita de la tombo. Tial ŝi kuris kaj venis al Simono Petro kaj al la alia disĉiplo, kiun Jesuo amis, kaj diris al ili: “Oni forprenis la Sinjoron el la tombo, kaj ni ne scias, kien oni lin metis!”
 
-Tial Petro kaj la alia disĉiplo eliris, kaj ili iris al la tombo. Ili ambaŭ kuris kune; la alia disĉiplo antaŭkuris Petron kaj venis unua al la tombo. Kaj kliniĝinte kaj enrigardinte, li vidis la tolajn tolaĵojn kuŝantajn; tamen li ne eniris. Tiam venis Simon Petro, sekvante lin, kaj eniris en la tombon. Li vidis la tolajn tolaĵojn kuŝantajn, kaj la tukon, kiu estis sur lia kapo, ne kuŝantan kun la tolaj tolaĵoj, sed kunvolvitan en aparta loko. Tiam ankaŭ la alia disĉiplo, kiu venis unua al la tombo, eniris, kaj li vidis kaj kredis. Ĉar ankoraŭ ili ne komprenis la Skribon, ke li devas releviĝi el la mortintoj. Tiam la disĉiploj reiris al siaj hejmoj.
+Tial Petro kaj la alia disĉiplo eliris, kaj ili iris al la tombo. Ili ambaŭ kuris kune; la alia disĉiplo antaŭkuris Petron kaj venis unua al la tombo. Kaj kliniĝinte kaj enrigardinte, li vidis la tolajn tolaĵojn kuŝantajn; tamen li ne eniris. Tiam venis Simono Petro, sekvante lin, kaj eniris en la tombon. Li vidis la tolajn tolaĵojn kuŝantajn, kaj la tukon, kiu estis sur lia kapo, ne kuŝantan kun la tolaj tolaĵoj, sed kunvolvitan en aparta loko. Tiam ankaŭ la alia disĉiplo, kiu venis unua al la tombo, eniris, kaj li vidis kaj kredis. Ĉar ankoraŭ ili ne komprenis la Skribon, ke li devas releviĝi el la mortintoj. Tiam la disĉiploj reiris al siaj hejmoj.
 
 Sed Maria staris ekstere ĉe la tombo, plorante. Kaj dum ŝi ploris, ŝi kliniĝis kaj enrigardis en la tombon, kaj ŝi vidis du anĝelojn en blanko sidantajn, unu ĉe la kapo kaj unu ĉe la piedoj, kie kuŝis la korpo de Jesuo. Ili diris al ŝi: “Virino, kial vi ploras?”
 
@@ -3521,7 +3521,7 @@ Jesuo do faris multajn aliajn signojn antaŭ siaj disĉiploj, kiuj ne estas skri
 
 ### Ĉapitro 21
 
-Post tio Jesuo denove sin montris al la disĉiploj ĉe la maro de Tiberias. Li sin montris jene. Simon Petro, Tomaso, nomata Didimo, Natanael el Kana en Galileo, kaj la filoj de Zebedeo, kaj du aliaj el liaj disĉiploj estis kune. Simon Petro diris al ili: “Mi iras fiŝkapti.”
+Post tio Jesuo denove sin montris al la disĉiploj ĉe la maro de Tiberias. Li sin montris jene. Simono Petro, Tomaso, nomata Didimo, Natanael el Kana en Galileo, kaj la filoj de Zebedeo, kaj du aliaj el liaj disĉiploj estis kune. Simono Petro diris al ili: “Mi iras fiŝkapti.”
 
 Ili diris al li: “Ni ankaŭ iras kun vi.” Ili tuj eliris kaj eniris en la boaton. Tiun nokton ili kaptis nenion. Sed kiam jam tagiĝis, Jesuo staris sur la bordo; tamen la disĉiploj ne sciis, ke ĝi estas Jesuo. Jesuo do diris al ili: “Infanoj, ĉu vi havas ion por manĝi?”
 
@@ -3531,23 +3531,23 @@ Li diris al ili: “Ĵetu la reton dekstre de la boato, kaj vi trovos.”
 
 Ili do ĝin ĵetis, kaj nun ili ne povis ĝin tiri pro la amaso da fiŝoj. Tiu disĉiplo, kiun Jesuo amis, do diris al Petro: “Estas la Sinjoro!”
 
-Kiam do Simon Petro aŭdis, ke ĝi estas la Sinjoro, li ĉirkaŭvolvis al si sian surtuton (ĉar li estis nuda) kaj sin ĵetis en la maron. Sed la aliaj disĉiploj venis en la malgranda boato (ĉar ili ne estis malproksime de la tero, sed ĉirkaŭ ducent ulnoj), trenante la reton plenan de fiŝoj. Kiam do ili eliris sur la teron, ili vidis tie fajron el karboj, kaj fiŝon kaj panon kuŝantajn sur ĝi. Jesuo diris al ili: “Alportu kelkajn el la fiŝoj, kiujn vi ĵus kaptis.”
+Kiam do Simono Petro aŭdis, ke ĝi estas la Sinjoro, li ĉirkaŭvolvis al si sian surtuton (ĉar li estis nuda) kaj sin ĵetis en la maron. Sed la aliaj disĉiploj venis en la malgranda boato (ĉar ili ne estis malproksime de la tero, sed ĉirkaŭ ducent ulnoj), trenante la reton plenan de fiŝoj. Kiam do ili eliris sur la teron, ili vidis tie fajron el karboj, kaj fiŝon kaj panon kuŝantajn sur ĝi. Jesuo diris al ili: “Alportu kelkajn el la fiŝoj, kiujn vi ĵus kaptis.”
 
-Simon Petro supreniris kaj tiris la reton al la tero, plenan de cent kvindek tri grandaj fiŝoj. Kaj kvankam estis tiom multe, la reto ne disŝiriĝis.
+Simono Petro supreniris kaj tiris la reton al la tero, plenan de cent kvindek tri grandaj fiŝoj. Kaj kvankam estis tiom multe, la reto ne disŝiriĝis.
 
 Jesuo diris al ili: “Venu kaj matenmanĝu!”
 
 Neniu el la disĉiploj kuraĝis demandi al li: “Kiu vi estas?”, sciante, ke ĝi estas la Sinjoro.
 
-Tiam Jesuo venis kaj prenis la panon, donis al ili, kaj same la fiŝon. Tio estas nun la tria fojo, kiam Jesuo sin montris al siaj disĉiploj post sia releviĝo el la mortintoj. Kiam do ili matenmanĝis, Jesuo diris al Simon Petro: “Simon, filo de Jona, ĉu vi amas min pli ol ĉi tiuj?”
+Tiam Jesuo venis kaj prenis la panon, donis al ili, kaj same la fiŝon. Tio estas nun la tria fojo, kiam Jesuo sin montris al siaj disĉiploj post sia releviĝo el la mortintoj. Kiam do ili matenmanĝis, Jesuo diris al Simono Petro: “Simono, filo de Jona, ĉu vi amas min pli ol ĉi tiuj?”
 
 Li diris al li: “Jes, Sinjoro; vi scias, ke mi vin amas.”
 
-Li diris al li: “Paŝtu miajn ŝafidojn.” Li diris al li denove, la duan fojon: “Simon, filo de Jona, ĉu vi amas min?”
+Li diris al li: “Paŝtu miajn ŝafidojn.” Li diris al li denove, la duan fojon: “Simono, filo de Jona, ĉu vi amas min?”
 
 Li diris al li: “Jes, Sinjoro; vi scias, ke mi vin amas.”
 
-Li diris al li: “Zorgu pri miaj ŝafoj.” Li diris al li la trian fojon: “Simon, filo de Jona, ĉu vi min amas?”
+Li diris al li: “Zorgu pri miaj ŝafoj.” Li diris al li la trian fojon: “Simono, filo de Jona, ĉu vi min amas?”
 
 Petro malĝojis, ĉar li demandis al li la trian fojon: “Ĉu vi min amas?” Kaj li diris al li: “Sinjoro, vi scias ĉion. Vi scias, ke mi vin amas.”
 
@@ -3575,7 +3575,7 @@ Li diris al ili: “Ne apartenas al vi scii tempojn aŭ sezonojn, kiujn la Patro
 
 Kaj dirinte tion, dum ili rigardis, li estis suprenprenita, kaj nubo forprenis lin el ilia vido. Kaj dum ili fikse rigardis al la ĉielo, dum li foriris, jen du viroj staris apud ili en blankaj vestoj, kiuj ankaŭ diris: “Vi viroj el Galileo, kial vi staras rigardante al la ĉielo? Ĉi tiu Jesuo, kiu estis suprenprenita de vi en la ĉielon, revenos tiel same, kiel vi vidis lin iranta en la ĉielon.”
 
-Tiam ili revenis al Jerusalemo de la monto nomata Olivarba, kiu estas proksime de Jerusalemo, je sabata vojaĝo. Kaj kiam ili eniris, ili supreniris en la supran ĉambron, kie ili loĝis: Petro, Johano, Jakobo, Andreo, Filipo, Tomaso, Bartolomeo, Mateo, Jakobo filo de Alfeo, Simon la Zeloto, kaj Judaso filo de Jakobo. Ĉiuj ĉi tiuj unuanime persistis en preĝo kaj petego, kune kun la virinoj kaj Maria, la patrino de Jesuo, kaj kun liaj fratoj.
+Tiam ili revenis al Jerusalemo de la monto nomata Olivarba, kiu estas proksime de Jerusalemo, je sabata vojaĝo. Kaj kiam ili eniris, ili supreniris en la supran ĉambron, kie ili loĝis: Petro, Johano, Jakobo, Andreo, Filipo, Tomaso, Bartolomeo, Mateo, Jakobo filo de Alfeo, Simono la Zeloto, kaj Judaso filo de Jakobo. Ĉiuj ĉi tiuj unuanime persistis en preĝo kaj petego, kune kun la virinoj kaj Maria, la patrino de Jesuo, kaj kun liaj fratoj.
 
 En tiuj tagoj Petro stariĝis meze de la disĉiploj (kaj la nombro de la nomoj estis ĉirkaŭ cent dudek), kaj diris: “Fratoj, estis necese, ke plenumiĝu ĉi tiu Skribo, kiun la Sankta Spirito antaŭe parolis per la buŝo de Davidoo pri Judaso, kiu estis gvidanto al tiuj, kiuj kaptis Jesuon. Ĉar li estis kalkulita inter ni kaj ricevis sian parton en ĉi tiu servado. Nun ĉi tiu viro akiris kampon per la rekompenco de sia malboneco; kaj falinte kapantaŭen, li krevis meze, kaj ĉiuj liaj internaĵoj elverŝiĝis. Kaj tio fariĝis konata al ĉiuj loĝantoj de Jerusalemo, tiel ke en ilia lingvo tiu kampo estis nomata ‘Akeldama’, tio estas, ‘Kampo de sango’. Ĉar estas skribite en la libro de Psalmoj:
 
@@ -3663,11 +3663,11 @@ Tiam tiuj, kiuj volonte akceptis lian vorton, baptiĝis. Kaj en tiu tago aldoni�
 
 Petro kaj Johano supreniris en la templon je la horo de preĝo, la naŭa horo. Iu viro, kiu estis lama ekde la ventro de sia patrino, estis portata; oni ĉiutage metis lin ĉe la pordo de la templo, kiu estas nomata Bela, por peti almozojn de tiuj, kiuj eniris en la templon. Vidante Petron kaj Johanon, kiuj estis enirontaj en la templon, li petis ricevi almozojn. Petro, fikse rigardante lin, kune kun Johano, diris: “Rigardu nin.” Li atentis ilin, atendante ricevi ion de ili. Sed Petro diris: “Arĝenton kaj oron mi ne havas; sed kion mi havas, tion mi donas al vi. En la nomo de Jesuo Kristo el Nazareto, leviĝu kaj marŝu!” Kaj li prenis lin je la dekstra mano kaj levis lin. Tuj liaj piedoj kaj liaj maleolaj ostoj fortiĝis. Kaj li, eksaltinte, stariĝis kaj komencis marŝi. Li eniris kun ili en la templon, marŝante, saltante kaj laŭdante Dion. Kaj la tuta popolo vidis lin marŝanta kaj laŭdanta Dion. Ili rekonis lin, ke li estas tiu, kiu kutimis sidi petante almozojn ĉe la Bela Pordego de la templo; kaj ili pleniĝis de miro kaj mirego pri tio, kio okazis al li. Kaj dum la resanigita lama viro tenis sin je Petro kaj Johano, la tuta popolo kunkuris al ili en la portiko, kiu estas nomata Salomona, tre mirante.
 
-Kiam Petro tion vidis, li respondis al la popolo: “Viroj Izraelidoj, kial vi miras pri ĉi tiu viro? Kial vi fikse rigardas nin, kvazaŭ per nia propra potenco aŭ pieco ni igis lin marŝi? La Dio de Abrahamo, de Isaak kaj de Jakobo, la Dio de niaj patroj, glorigis sian Servanton Jesuon, kiun vi transdonis kaj malkonfesis antaŭ Pilato, kiam li decidis liberigi lin. Sed vi malkonfesis la Sanktan kaj Justan, kaj petis, ke murdinto estu donita al vi, kaj vi mortigis la Princon de vivo, kiun Dio levis el la mortintoj, pri kio ni estas atestantoj. Per fido al lia nomo, lia nomo fortigis ĉi tiun viron, kiun vi vidas kaj konas. Jes, la fido, kiu estas per li, donis al li ĉi tiun perfektan sanecon antaŭ vi ĉiuj.
+Kiam Petro tion vidis, li respondis al la popolo: “Viroj Izraelidoj, kial vi miras pri ĉi tiu viro? Kial vi fikse rigardas nin, kvazaŭ per nia propra potenco aŭ pieco ni igis lin marŝi? La Dio de Abrahamo, de Isaako kaj de Jakobo, la Dio de niaj patroj, glorigis sian Servanton Jesuon, kiun vi transdonis kaj malkonfesis antaŭ Pilato, kiam li decidis liberigi lin. Sed vi malkonfesis la Sanktan kaj Justan, kaj petis, ke murdinto estu donita al vi, kaj vi mortigis la Princon de vivo, kiun Dio levis el la mortintoj, pri kio ni estas atestantoj. Per fido al lia nomo, lia nomo fortigis ĉi tiun viron, kiun vi vidas kaj konas. Jes, la fido, kiu estas per li, donis al li ĉi tiun perfektan sanecon antaŭ vi ĉiuj.
 
 “Kaj nun, fratoj, mi scias, ke vi tion faris pro nescio, kiel ankaŭ viaj regantoj. Sed tion, kion Dio antaŭanoncis per la buŝo de ĉiuj siaj profetoj, ke la Kristo suferos, li tiel plenumis.
 
-“Pentru do, kaj returnu vin, por ke viaj pekoj estu forviŝitaj, por ke venu tempoj de refreŝiĝo el la ĉeesto de la Sinjoro, kaj por ke li sendu la Kriston Jesuon, kiu estis antaŭe destinita por vi; kiun la ĉielo devas akcepti ĝis la tempoj de restarigo de ĉio, pri kio Dio parolis antaŭ longe per la buŝo de siaj sanktaj profetoj. Ĉar Mozeo ja diris al la patroj: ‘La Sinjoro Dio levos por vi profeton el inter viaj fratoj, similan al mi. Lin vi aŭskultu en ĉio, kion ajn li diros al vi. Kaj okazos, ke ĉiu animo, kiu ne aŭskultos tiun profeton, estos tute ekstermita el inter la popolo.’ Jes, kaj ĉiuj profetoj, ekde Samuel kaj tiuj, kiuj sekvis poste, kiom ajn parolis, ankaŭ antaŭdiris pri ĉi tiuj tagoj. Vi estas la filoj de la profetoj kaj de la interligo, kiun Dio faris kun niaj patroj, dirante al Abrahamo: ‘Per via idaro estos benataj ĉiuj familioj de la tero.’ Dio, levinte sian servanton Jesuon, sendis lin al vi unue, por beni vin, deturnante ĉiun el vi de viaj malbonecoj.”
+“Pentru do, kaj returnu vin, por ke viaj pekoj estu forviŝitaj, por ke venu tempoj de refreŝiĝo el la ĉeesto de la Sinjoro, kaj por ke li sendu la Kriston Jesuon, kiu estis antaŭe destinita por vi; kiun la ĉielo devas akcepti ĝis la tempoj de restarigo de ĉio, pri kio Dio parolis antaŭ longe per la buŝo de siaj sanktaj profetoj. Ĉar Mozeo ja diris al la patroj: ‘La Sinjoro Dio levos por vi profeton el inter viaj fratoj, similan al mi. Lin vi aŭskultu en ĉio, kion ajn li diros al vi. Kaj okazos, ke ĉiu animo, kiu ne aŭskultos tiun profeton, estos tute ekstermita el inter la popolo.’ Jes, kaj ĉiuj profetoj, ekde Samuelo kaj tiuj, kiuj sekvis poste, kiom ajn parolis, ankaŭ antaŭdiris pri ĉi tiuj tagoj. Vi estas la filoj de la profetoj kaj de la interligo, kiun Dio faris kun niaj patroj, dirante al Abrahamo: ‘Per via idaro estos benataj ĉiuj familioj de la tero.’ Dio, levinte sian servanton Jesuon, sendis lin al vi unue, por beni vin, deturnante ĉiun el vi de viaj malbonecoj.”
 
 ### Ĉapitro 4
 
@@ -3743,7 +3743,7 @@ Stefano, plena de fido kaj potenco, faris grandajn mirindaĵojn kaj signojn inte
 
 La ĉefpastro diris: “Ĉu ĉi tiuj aferoj estas tiel?”
 
-Li diris: “Fratoj kaj patroj, aŭskultu. La Dio de gloro aperis al nia patro Abrahamo, kiam li estis en Mezopotamio, antaŭ ol li loĝis en Ĥaran, kaj diris al li: ‘Eliru el via lando kaj for de viaj parencoj, kaj venu en landon, kiun mi montros al vi.’ Tiam li eliris el la lando de la Ĥaldeoj kaj loĝis en Ĥaran. De tie, kiam lia patro mortis, Dio transloĝigis lin en ĉi tiun landon, en kiu vi nun loĝas. Li donis al li nenian heredaĵon en ĝi, eĉ ne tiom, kiom por meti sian piedon. Li promesis, ke li donos ĝin al li kiel posedaĵon, kaj al lia idaro post li, kiam li ankoraŭ ne havis infanon. Dio parolis tiel: ke lia idaro loĝos kiel fremduloj en fremda lando, kaj ke oni sklavigos kaj mistraktos ilin dum kvarcent jaroj. ‘Mi juĝos la nacion, al kiu ili estos en sklaveco,’ diris Dio, ‘kaj post tio ili eliros kaj servos al mi en ĉi tiu loko.’ Li donis al li la interligon de cirkumcido. Tiel Abrahamo fariĝis la patro de Isaak, kaj cirkumcidis lin en la oka tago. Isaak fariĝis la patro de Jakobo, kaj Jakobo fariĝis la patro de la dek du patriarkoj.
+Li diris: “Fratoj kaj patroj, aŭskultu. La Dio de gloro aperis al nia patro Abrahamo, kiam li estis en Mezopotamio, antaŭ ol li loĝis en Ĥaran, kaj diris al li: ‘Eliru el via lando kaj for de viaj parencoj, kaj venu en landon, kiun mi montros al vi.’ Tiam li eliris el la lando de la Ĥaldeoj kaj loĝis en Ĥaran. De tie, kiam lia patro mortis, Dio transloĝigis lin en ĉi tiun landon, en kiu vi nun loĝas. Li donis al li nenian heredaĵon en ĝi, eĉ ne tiom, kiom por meti sian piedon. Li promesis, ke li donos ĝin al li kiel posedaĵon, kaj al lia idaro post li, kiam li ankoraŭ ne havis infanon. Dio parolis tiel: ke lia idaro loĝos kiel fremduloj en fremda lando, kaj ke oni sklavigos kaj mistraktos ilin dum kvarcent jaroj. ‘Mi juĝos la nacion, al kiu ili estos en sklaveco,’ diris Dio, ‘kaj post tio ili eliros kaj servos al mi en ĉi tiu loko.’ Li donis al li la interligon de cirkumcido. Tiel Abrahamo fariĝis la patro de Isaako, kaj cirkumcidis lin en la oka tago. Isaako fariĝis la patro de Jakobo, kaj Jakobo fariĝis la patro de la dek du patriarkoj.
 
 “La patriarkoj, movitaj de ĵaluzo kontraŭ Jozefo, vendis lin en Egiption. Dio estis kun li kaj liberigis lin el ĉiuj liaj suferoj, kaj donis al li favoron kaj saĝon antaŭ Faraono, reĝo de Egiptio. Li faris lin reganto super Egiptio kaj super lia tuta domo. Nun malsato venis sur la tutan landon de Egiptio kaj Kanaano, kaj granda aflikto. Niaj patroj trovis nenian manĝaĵon. Sed kiam Jakobo aŭdis, ke estas greno en Egiptio, li sendis niajn patrojn la unuan fojon. La duan fojon Jozefo konatiĝis al siaj fratoj, kaj la familio de Jozefo fariĝis konata al Faraono. Jozefo sendis kaj alvokis Jakobon, sian patron, kaj ĉiujn siajn parencojn, sepdek kvin animojn. Jakobo malsupreniris en Egiption, kaj li mortis, li mem kaj niaj patroj; kaj oni reportis ilin al Ŝeĥem kaj metis en la tombon, kiun Abrahamo aĉetis kontraŭ prezo en arĝento de la filoj de Hamor en Ŝeĥem.
 
@@ -3751,7 +3751,7 @@ Li diris: “Fratoj kaj patroj, aŭskultu. La Dio de gloro aperis al nia patro A
 
 “La sekvan tagon li aperis al ili dum ili batalis, kaj instigis ilin repaciĝi, dirante: ‘Sinjoroj, vi estas fratoj. Kial vi faras maljuston unu al la alia?’ Sed tiu, kiu faris maljuston al sia proksimulo, forpuŝis lin, dirante: ‘Kiu faris vin reganto kaj juĝisto super ni? Ĉu vi volas mortigi min, kiel vi mortigis la Egipton hieraŭ?’ Mozeo fuĝis pro tiu diro, kaj fariĝis fremdulo en la lando Midjan, kie li fariĝis patro de du filoj.
 
-“Kiam plenumiĝis kvardek jaroj, anĝelo de la Sinjoro aperis al li en la dezerto de la monto Sinaj, en flamo de fajro en arbetaro. Kiam Mozeo vidis ĝin, li miris pri la vidaĵo. Dum li alproksimiĝis por rigardi, la voĉo de la Sinjoro venis al li: ‘Mi estas la Dio de viaj patroj: la Dio de Abrahamo, la Dio de Isaak, kaj la Dio de Jakobo.’ Mozeo tremis kaj ne kuraĝis rigardi. La Sinjoro diris al li: ‘Demetu viajn sandalojn, ĉar la loko, sur kiu vi staras, estas sankta tero. Mi certe vidis la aflikton de mia popolo, kiu estas en Egiptio, kaj aŭdis ilian ĝemadon. Mi malsupreniris por liberigi ilin. Nun venu, mi sendos vin en Egiption.’
+“Kiam plenumiĝis kvardek jaroj, anĝelo de la Sinjoro aperis al li en la dezerto de la monto Sinaj, en flamo de fajro en arbetaro. Kiam Mozeo vidis ĝin, li miris pri la vidaĵo. Dum li alproksimiĝis por rigardi, la voĉo de la Sinjoro venis al li: ‘Mi estas la Dio de viaj patroj: la Dio de Abrahamo, la Dio de Isaako, kaj la Dio de Jakobo.’ Mozeo tremis kaj ne kuraĝis rigardi. La Sinjoro diris al li: ‘Demetu viajn sandalojn, ĉar la loko, sur kiu vi staras, estas sankta tero. Mi certe vidis la aflikton de mia popolo, kiu estas en Egiptio, kaj aŭdis ilian ĝemadon. Mi malsupreniris por liberigi ilin. Nun venu, mi sendos vin en Egiption.’
 
 “Ĉi tiun Mozeon, kiun ili rifuzis, dirante: ‘Kiu faris vin reganto kaj juĝisto?’—Dio sendis lin kiel reganton kaj liberiganton per la mano de la anĝelo, kiu aperis al li en la arbetaro. Ĉi tiu viro elkondukis ilin, farinte miraklojn kaj signojn en Egiptio, en la Ruĝa Maro, kaj en la dezerto dum kvardek jaroj. Ĉi tiu estas tiu Mozeo, kiu diris al la filoj de Izraelo: ‘La Sinjoro, nia Dio, levos por vi profeton el inter viaj fratoj, similan al mi.’ Ĉi tiu estas tiu, kiu estis en la kunveno en la dezerto kun la anĝelo, kiu parolis al li sur la monto Sinaj, kaj kun niaj patroj, kiu ricevis vivajn revelaciojn por doni al ni; al kiu niaj patroj ne volis obei, sed rifuzis lin kaj returnis sin en siaj koroj al Egiptio, dirante al Arono: ‘Faru por ni diojn, kiuj iros antaŭ ni; ĉar pri ĉi tiu Mozeo, kiu elkondukis nin el la lando Egiptio, ni ne scias, kio fariĝis al li.’ Ili faris bovidon en tiuj tagoj, kaj alportis oferon al la idolo, kaj ĝojis pri la faroj de siaj manoj. Sed Dio turnis sin for kaj fordonis ilin por servi al la armeo de la ĉielo, kiel estas skribite en la libro de la profetoj:
 
@@ -3762,7 +3762,7 @@ la stelon de via dio Refan,
 la figurojn, kiujn vi faris por adori;  
 tial mi forportos vin trans Babilonon.’
 
-“Niaj patroj havis la tabernaklon de la atesto en la dezerto, kiel ordonis tiu, kiu parolis al Mozeo, ke li faru ĝin laŭ la modelo, kiun li vidis; kiun ankaŭ niaj patroj, siavice, enportis kun Josuo, kiam ili eniris en la posedon de la nacioj, kiujn Dio elpelis antaŭ la vizaĝo de niaj patroj ĝis la tagoj de Davido, kiu trovis favoron antaŭ Dio, kaj petis trovi loĝejon por la Dio de Jakobo. Sed Salomono konstruis al li domon. Tamen la Plejaltulo ne loĝas en temploj faritaj per manoj, kiel diras la profeto:
+“Niaj patroj havis la tabernaklon de la atesto en la dezerto, kiel ordonis tiu, kiu parolis al Mozeo, ke li faru ĝin laŭ la modelo, kiun li vidis; kiun ankaŭ niaj patroj, siavice, enportis kun Joŝua, kiam ili eniris en la posedon de la nacioj, kiujn Dio elpelis antaŭ la vizaĝo de niaj patroj ĝis la tagoj de Davido, kiu trovis favoron antaŭ Dio, kaj petis trovi loĝejon por la Dio de Jakobo. Sed Salomono konstruis al li domon. Tamen la Plejaltulo ne loĝas en temploj faritaj per manoj, kiel diras la profeto:
 
 ‘la ĉielo estas mia trono,  
 kaj la tero piedbenketo por miaj piedoj.  
@@ -3780,11 +3780,11 @@ Sed ili ekkriis per laŭta voĉo kaj ŝtopis siajn orelojn, kaj tiam impete ĵet
 
 Saŭlo konsentis al lia morto. En tiu tago ekestis granda persekutado kontraŭ la eklezio, kiu estis en Jerusalemo. Kaj ĉiuj disiĝis tra la regionoj de Judio kaj Samario, krom la apostoloj. Piauloj enterigis Stefanon kaj faris grandan funebron pro li. Sed Saŭlo ruinigadis la eklezion, enirante en ĉiun domon kaj trenante virojn kaj virinojn, li transdonis ilin en malliberejon. Tial tiuj, kiuj estis disigitaj, ĉirkaŭiris predikante la vorton. Filipo malsupreniris al la urbo de Samario kaj proklamis al ili la Kriston. Kaj la homamasoj unuanime atentis la aferojn parolatajn de Filipo, kiam ili aŭdis kaj vidis la signojn, kiujn li faris. Ĉar el multaj el tiuj, kiuj havis ilin, eliris malpuraj spiritoj, kriante per laŭta voĉo. Kaj multaj paralizuloj kaj lamuloj resaniĝis. Kaj estis granda ĝojo en tiu urbo.
 
-Sed estis iu viro, nomata Simon, kiu antaŭe praktikadis sorĉadon en la urbo kaj mirigis la popolon de Samario, pretendante esti iu granda, al kiu ĉiuj atentis, de la plej malgranda ĝis la plej granda, dirante: “Ĉi tiu viro estas la granda potenco de Dio.” Kaj ili atentis lin, ĉar dum longa tempo li mirigis ilin per siaj sorĉadoj. Sed kiam ili kredis al Filipo, predikanta la bonan sciigon pri la Regno de Dio kaj pri la nomo de Jesuo Kristo, ili baptiĝis, kaj viroj kaj virinoj. Kaj Simon mem ankaŭ kredis; kaj baptiĝinte, li restis kun Filipo. Kaj vidante signojn kaj grandajn miraklojn okazantajn, li miris.
+Sed estis iu viro, nomata Simono, kiu antaŭe praktikadis sorĉadon en la urbo kaj mirigis la popolon de Samario, pretendante esti iu granda, al kiu ĉiuj atentis, de la plej malgranda ĝis la plej granda, dirante: “Ĉi tiu viro estas la granda potenco de Dio.” Kaj ili atentis lin, ĉar dum longa tempo li mirigis ilin per siaj sorĉadoj. Sed kiam ili kredis al Filipo, predikanta la bonan sciigon pri la Regno de Dio kaj pri la nomo de Jesuo Kristo, ili baptiĝis, kaj viroj kaj virinoj. Kaj Simono mem ankaŭ kredis; kaj baptiĝinte, li restis kun Filipo. Kaj vidante signojn kaj grandajn miraklojn okazantajn, li miris.
 
-Kiam la apostoloj en Jerusalemo aŭdis, ke Samario akceptis la vorton de Dio, ili sendis al ili Petron kaj Johanon; kiuj, malsuprenirinte, preĝis por ili, ke ili ricevu la Sanktan Spiriton; ĉar ankoraŭ li falis sur neniun el ili; ili nur estis baptitaj en la nomo de la Sinjoro Jesuo. Tiam ili metis la manojn sur ilin, kaj ili ricevis la Sanktan Spiriton. Kaj kiam Simon vidis, ke per la metado de la manoj de la apostoloj la Sankta Spirito estas donata, li proponis al ili monon, dirante: “Donu ankaŭ al mi ĉi tiun povon, por ke sur kiun ajn mi metos la manojn, tiu ricevu la Sanktan Spiriton.” Sed Petro diris al li: “Via arĝento pereu kun vi, ĉar vi pensis akiri per mono la donacon de Dio! Vi havas nek parton nek loton en ĉi tiu afero, ĉar via koro ne estas rekta antaŭ Dio. Pentu do pri ĉi tio, via malboneco, kaj petu la Sinjoron, ĉu eble la penso de via koro estos pardonita al vi. Ĉar mi vidas, ke vi estas en la galo de amareco kaj en la kateno de maljusteco.”
+Kiam la apostoloj en Jerusalemo aŭdis, ke Samario akceptis la vorton de Dio, ili sendis al ili Petron kaj Johanon; kiuj, malsuprenirinte, preĝis por ili, ke ili ricevu la Sanktan Spiriton; ĉar ankoraŭ li falis sur neniun el ili; ili nur estis baptitaj en la nomo de la Sinjoro Jesuo. Tiam ili metis la manojn sur ilin, kaj ili ricevis la Sanktan Spiriton. Kaj kiam Simono vidis, ke per la metado de la manoj de la apostoloj la Sankta Spirito estas donata, li proponis al ili monon, dirante: “Donu ankaŭ al mi ĉi tiun povon, por ke sur kiun ajn mi metos la manojn, tiu ricevu la Sanktan Spiriton.” Sed Petro diris al li: “Via arĝento pereu kun vi, ĉar vi pensis akiri per mono la donacon de Dio! Vi havas nek parton nek loton en ĉi tiu afero, ĉar via koro ne estas rekta antaŭ Dio. Pentu do pri ĉi tio, via malboneco, kaj petu la Sinjoron, ĉu eble la penso de via koro estos pardonita al vi. Ĉar mi vidas, ke vi estas en la galo de amareco kaj en la kateno de maljusteco.”
 
-Simon respondis: “Preĝu por mi al la Sinjoro, ke nenio el tio, kion vi diris, okazu al mi.”
+Simono respondis: “Preĝu por mi al la Sinjoro, ke nenio el tio, kion vi diris, okazu al mi.”
 
 Ili do, atestinte kaj parolinte la vorton de la Sinjoro, revenis al Jerusalemo, kaj predikis la Bonan Sciigon al multaj vilaĝoj de la samarianoj.
 
@@ -3850,7 +3850,7 @@ Tiel la eklezioj tra la tuta Judio, Galileo kaj Samario havis pacon kaj estis ko
 
 Dum Petro iris tra ĉiuj tiuj regionoj, li venis ankaŭ malsupren al la sanktuloj, kiuj loĝis en Lida. Tie li trovis certan viron nomatan Eneas, kiu kuŝis en lito jam ok jarojn, ĉar li estis paralizita. Petro diris al li: “Eneas, Jesuo Kristo vin resanigas. Leviĝu kaj pretigu vian liton!” Tuj li leviĝis. Ĉiuj, kiuj loĝis en Lida kaj en Ŝarono, vidis lin, kaj ili turniĝis al la Sinjoro.
 
-Nun en Jafo estis certa disĉiplino nomata Tabita, kio tradukite signifas Dorkas. Ĉi tiu virino estis plena je bonfaroj kaj faroj de kompato, kiujn ŝi faris. En tiuj tagoj ŝi malsaniĝis kaj mortis. Kiam ili lavis ŝin, ili metis ŝin en supran ĉambron. Ĉar Lida estis proksime de Jafo, la disĉiploj, aŭdinte, ke Petro estas tie, sendis al li du virojn, petegante lin ne prokrasti veni al ili. Petro leviĝis kaj iris kun ili. Kiam li alvenis, ili kondukis lin en la supran ĉambron. Ĉiuj vidvinoj staris apud li plorante kaj montrante la tunikojn kaj aliajn vestojn, kiujn Dorkas faris, dum ŝi estis kun ili. Petro elsendis ilin ĉiujn, kaj genuiĝis kaj preĝis. Turninte sin al la korpo, li diris: “Tabita, leviĝu!” Ŝi malfermis la okulojn, kaj kiam ŝi vidis Petron, ŝi sidiĝis. Li donis al ŝi la manon kaj levis ŝin. Vokinte la sanktulojn kaj la vidvinojn, li prezentis ŝin viva. Tio fariĝis konata tra la tuta Jafo, kaj multaj kredis je la Sinjoro. Li restis multajn tagojn en Jafo ĉe tanisto nomata Simon.
+Nun en Jafo estis certa disĉiplino nomata Tabita, kio tradukite signifas Dorkas. Ĉi tiu virino estis plena je bonfaroj kaj faroj de kompato, kiujn ŝi faris. En tiuj tagoj ŝi malsaniĝis kaj mortis. Kiam ili lavis ŝin, ili metis ŝin en supran ĉambron. Ĉar Lida estis proksime de Jafo, la disĉiploj, aŭdinte, ke Petro estas tie, sendis al li du virojn, petegante lin ne prokrasti veni al ili. Petro leviĝis kaj iris kun ili. Kiam li alvenis, ili kondukis lin en la supran ĉambron. Ĉiuj vidvinoj staris apud li plorante kaj montrante la tunikojn kaj aliajn vestojn, kiujn Dorkas faris, dum ŝi estis kun ili. Petro elsendis ilin ĉiujn, kaj genuiĝis kaj preĝis. Turninte sin al la korpo, li diris: “Tabita, leviĝu!” Ŝi malfermis la okulojn, kaj kiam ŝi vidis Petron, ŝi sidiĝis. Li donis al ŝi la manon kaj levis ŝin. Vokinte la sanktulojn kaj la vidvinojn, li prezentis ŝin viva. Tio fariĝis konata tra la tuta Jafo, kaj multaj kredis je la Sinjoro. Li restis multajn tagojn en Jafo ĉe tanisto nomata Simono.
 
 ### Ĉapitro 10
 
@@ -3858,7 +3858,7 @@ Estis do en Cezareo iu viro, nomata Kornelio, centestro de tio, kio estis nomata
 
 Li, fikse rigardante lin kaj ektimigite, diris: “Kio estas, Sinjoro?”
 
-Kaj li diris al li: “Viaj preĝoj kaj viaj almozoj supreniris kiel memoraĵo antaŭ Dio. Nun sendu virojn al Jafo, kaj venigu Simonon, kiu ankaŭ estas nomata Petro. Li loĝas ĉe tanisto nomata Simon, kies domo estas apud la maro.”
+Kaj li diris al li: “Viaj preĝoj kaj viaj almozoj supreniris kiel memoraĵo antaŭ Dio. Nun sendu virojn al Jafo, kaj venigu Simonon, kiu ankaŭ estas nomata Petro. Li loĝas ĉe tanisto nomata Simono, kies domo estas apud la maro.”
 
 Kiam la anĝelo, kiu parolis al li, foriris, Kornelio alvokis du el siaj domservantoj kaj pian soldaton el tiuj, kiuj senĉese atendis ĉe li. Klariginte ĉion al ili, li sendis ilin al Jafo.
 
@@ -3868,7 +3868,7 @@ Sed Petro diris: “Neniel, Sinjoro; ĉar mi neniam manĝis ion komunan aŭ malp
 
 Kaj voĉo venis al li denove la duan fojon: “Kion Dio purigis, tion vi ne nomu malpura.” Tio okazis trifoje, kaj tuj la afero estis reprenita en la ĉielon.
 
-Dum Petro tre konfuziĝis en si mem, kion povus signifi la vizio, kiun li vidis, jen la viroj senditaj de Kornelio, demandinte pri la domo de Simon, staris antaŭ la pordego, kaj vokis kaj demandis, ĉu Simon, kiu ankaŭ estas nomata Petro, loĝas tie. Dum Petro pripensis la vizion, la Spirito diris al li: “Jen tri viroj serĉas vin. Sed leviĝu, malsupreniru, kaj iru kun ili, tute ne dubante; ĉar mi sendis ilin.”
+Dum Petro tre konfuziĝis en si mem, kion povus signifi la vizio, kiun li vidis, jen la viroj senditaj de Kornelio, demandinte pri la domo de Simono, staris antaŭ la pordego, kaj vokis kaj demandis, ĉu Simono, kiu ankaŭ estas nomata Petro, loĝas tie. Dum Petro pripensis la vizion, la Spirito diris al li: “Jen tri viroj serĉas vin. Sed leviĝu, malsupreniru, kaj iru kun ili, tute ne dubante; ĉar mi sendis ilin.”
 
 Petro malsupreniris al la viroj kaj diris: “Jen mi estas tiu, kiun vi serĉas. Kial vi venis?”
 
@@ -3876,7 +3876,7 @@ Ili diris: “Kornelio, centestro, justa viro kaj timanta Dion, kaj bone atestat
 
 En la sekva tago Petro leviĝis kaj eliris kun ili, kaj kelkaj el la fratoj el Jafo akompanis lin. En la sekva tago ili eniris en Cezareon. Kornelio atendis ilin, kunvokinte siajn parencojn kaj siajn proksimajn amikojn. Kiam Petro eniris, Kornelio renkontis lin, falis ĉe liaj piedoj kaj adoris lin. Sed Petro levis lin, dirante: “Stariĝu! Mi mem ankaŭ estas homo.” Kaj dum li parolis kun li, li eniris kaj trovis multajn kunvenintajn. Kaj li diris al ili: “Vi mem scias, kiel kontraŭleĝa afero estas por viro, kiu estas Judo, aliĝi aŭ veni al iu el alia nacio; sed Dio montris al mi, ke mi ne nomu iun homon profana aŭ malpura. Tial mi ankaŭ venis sen plendo, kiam oni sendis por mi. Mi do demandas: kial vi sendis por mi?”
 
-Kornelio diris: “Antaŭ kvar tagoj mi fastis ĝis ĉi tiu horo; kaj je la naŭa horo mi preĝis en mia domo, kaj jen viro staris antaŭ mi en brilaj vestoj kaj diris: ‘Kornelio, via preĝo estas aŭdita, kaj viaj almozoj estas memoritaj antaŭ Dio. Sendu do al Jafo kaj alvoku Simonon, kiu ankaŭ estas nomata Petro. Li loĝas en la domo de tanisto nomata Simon, apud la maro. Kiam li venos, li parolos al vi.’ Tial mi tuj sendis al vi, kaj estis bone, ke vi venis. Nun do ni ĉiuj estas ĉi tie ĉeestantaj antaŭ Dio por aŭdi ĉion, kio estas ordonita al vi de Dio.”
+Kornelio diris: “Antaŭ kvar tagoj mi fastis ĝis ĉi tiu horo; kaj je la naŭa horo mi preĝis en mia domo, kaj jen viro staris antaŭ mi en brilaj vestoj kaj diris: ‘Kornelio, via preĝo estas aŭdita, kaj viaj almozoj estas memoritaj antaŭ Dio. Sendu do al Jafo kaj alvoku Simonon, kiu ankaŭ estas nomata Petro. Li loĝas en la domo de tanisto nomata Simono, apud la maro. Kiam li venos, li parolos al vi.’ Tial mi tuj sendis al vi, kaj estis bone, ke vi venis. Nun do ni ĉiuj estas ĉi tie ĉeestantaj antaŭ Dio por aŭdi ĉion, kio estas ordonita al vi de Dio.”
 
 Petro malfermis la buŝon kaj diris: “Vere mi komprenas, ke Dio ne estas personfavoranto; sed en ĉiu nacio tiu, kiu timas Lin kaj faras justecon, estas akceptata de Li. La vorton, kiun Li sendis al la filoj de Izraelo, predikante la bonan sciigon de paco per Jesuo Kristo—li estas Sinjoro de ĉiuj—vi mem scias, kio okazis, kio estis proklamita tra la tuta Judio, komencante de Galileo, post la bapto, kiun Johano predikis; kiel Dio sanktoleis Jesuon el Nazaret per la Sankta Spirito kaj per potenco, kiu ĉirkaŭiris farante bonon kaj sanigante ĉiujn, kiuj estis subpremataj de la diablo, ĉar Dio estis kun li. Kaj ni estas atestantoj pri ĉio, kion li faris, kaj en la lando de la Judoj kaj en Jerusalemo; kiun ili ankaŭ mortigis, pendigante lin sur arbo. Dion li levis en la tria tago kaj donis, ke li estu montrita, ne al la tuta popolo, sed al atestantoj antaŭe elektitaj de Dio, al ni, kiuj manĝis kaj trinkis kun li post lia releviĝo el la mortintoj. Kaj li ordonis al ni prediki al la popolo kaj atesti, ke ĉi tiu estas tiu, kiu estas difinita de Dio kiel Juĝisto de la vivantoj kaj la mortintoj. Pri li ĉiuj profetoj atestas, ke per lia nomo ĉiu, kiu kredas al li, ricevos pardonon de pekoj.”
 
@@ -3924,7 +3924,7 @@ Tuj falis sur lin nebulo kaj mallumo; kaj li ĉirkaŭiris, serĉante iun, kiu ko
 
 Kaj Paŭlo kaj liaj kunuloj ekŝipiris el Pafos kaj venis al Perga en Pamfilio. Kaj Johano foriris de ili kaj revenis al Jerusalemo. Sed ili, pasinte de Perga, venis al Antioĥio en Pisidio. Kaj enirinte en la sinagogon en la sabata tago, ili sidiĝis. Kaj post la legado de la leĝo kaj la profetoj, la estroj de la sinagogo sendis al ili, dirante: “Fratoj, se vi havas ian vorton de konsolo por la popolo, parolu.”
 
-Kaj Paŭlo stariĝis, kaj per gesto de la mano diris: “Viroj Izraelidoj, kaj vi, kiuj timas Dion, aŭskultu. La Dio de ĉi tiu popolo elektis niajn patrojn, kaj altigis la popolon dum ilia loĝado kiel fremduloj en la lando Egipta, kaj per levita brako elkondukis ilin el ĝi. Kaj dum proksimume kvardek jaroj li toleris ilin en la dezerto. Kaj detruinte sep naciojn en la lando Kanaana, li donis al ili ilian landon kiel heredaĵon dum proksimume kvarcent kvindek jaroj. Kaj post tio li donis al ili juĝistojn ĝis Samuel, la profeto. Poste ili petis reĝon, kaj Dio donis al ili Saŭlon, filon de Kiŝ, viron el la tribo de Benjamen, dum kvardek jaroj. Kaj foriginte lin, li starigis Davidoon por esti ilia reĝo, pri kiu li ankaŭ atestis: ‘Mi trovis Davidoon, filon de Jiŝaj, viron laŭ mia koro, kiu faros ĉion, kion mi volas.’ El la idaro de ĉi tiu viro Dio laŭ sia promeso alportis savon al Izraelo, antaŭ lia alveno, kiam Johano unue predikis al Izraelo la bapton de pento. Kaj dum Johano plenumis sian kuron, li diris: ‘Kion vi supozas, ke mi estas? Mi ne estas li. Sed jen, venas post mi iu, kies piedajn sandalojn mi ne estas inda malligi.’
+Kaj Paŭlo stariĝis, kaj per gesto de la mano diris: “Viroj Izraelidoj, kaj vi, kiuj timas Dion, aŭskultu. La Dio de ĉi tiu popolo elektis niajn patrojn, kaj altigis la popolon dum ilia loĝado kiel fremduloj en la lando Egipta, kaj per levita brako elkondukis ilin el ĝi. Kaj dum proksimume kvardek jaroj li toleris ilin en la dezerto. Kaj detruinte sep naciojn en la lando Kanaana, li donis al ili ilian landon kiel heredaĵon dum proksimume kvarcent kvindek jaroj. Kaj post tio li donis al ili juĝistojn ĝis Samuelo, la profeto. Poste ili petis reĝon, kaj Dio donis al ili Saŭlon, filon de Kiŝ, viron el la tribo de Benjameno, dum kvardek jaroj. Kaj foriginte lin, li starigis Davidoon por esti ilia reĝo, pri kiu li ankaŭ atestis: ‘Mi trovis Davidoon, filon de Jiŝaj, viron laŭ mia koro, kiu faros ĉion, kion mi volas.’ El la idaro de ĉi tiu viro Dio laŭ sia promeso alportis savon al Izraelo, antaŭ lia alveno, kiam Johano unue predikis al Izraelo la bapton de pento. Kaj dum Johano plenumis sian kuron, li diris: ‘Kion vi supozas, ke mi estas? Mi ne estas li. Sed jen, venas post mi iu, kies piedajn sandalojn mi ne estas inda malligi.’
 
 “Fratoj, filoj de la gento de Abrahamo, kaj tiuj inter vi, kiuj timas Dion, al vi estas sendita la vorto de ĉi tiu savo. Ĉar la loĝantoj de Jerusalemo kaj iliaj estroj, ne konante lin, nek la voĉojn de la profetoj, kiuj estas legataj ĉiun sabaton, plenumis ilin kondamnante lin. Kaj kvankam ili trovis nenian kaŭzon de morto, ili petis Pilaton, ke li estu mortigita. Kaj kiam ili plenumis ĉion, kio estis skribita pri li, ili deprenis lin de la ligno kaj metis lin en tombon. Sed Dio levis lin el la mortintoj; kaj li estis vidata dum multaj tagoj de tiuj, kiuj kun li supreniris el Galileo al Jerusalemo, kiuj estas liaj atestantoj al la popolo. Kaj ni alportas al vi la bonan sciigon pri la promeso farita al la patroj, ke Dio plenumis ĉi tion al ni, iliaj infanoj, per tio, ke li levis Jesuon. Kiel ankaŭ estas skribite en la dua psalmo:
 
@@ -4493,7 +4493,7 @@ Ne, en ĉio ĉi ni estas pli ol venkantoj per Tiu, kiu nin amis. Ĉar mi estas k
 
 Mi diras la veron en Kristo. Mi ne mensogas, mia konscienco atestante kun mi en la Sankta Spirito, ke mi havas grandan malĝojon kaj senĉesan doloron en mia koro. Ĉar mi povus deziri, ke mi mem estu anatemita, apartigita de Kristo, pro miaj fratoj, miaj parencoj laŭ la karno, kiuj estas Izraelidoj; al kiuj apartenas la adopto, la gloro, la interligoj, la dono de la leĝo, la diservo, kaj la promesoj; el kiuj estas la patroj, kaj el kiuj, laŭ la karno, estas la Kristo, kiu estas super ĉio, Dio, benata por ĉiam. Amen.
 
-Sed ne estas kvazaŭ la vorto de Dio estus senefikiĝinta. Ĉar ne ĉiuj, kiuj estas el Izraelo, estas Izraelo. Nek, ĉar ili estas idaro de Abrahamo, ili ĉiuj estas infanoj. Sed: “Via idaro estos kalkulata el Isaak.” Tio estas, ne la infanoj de la karno estas infanoj de Dio, sed la infanoj de la promeso estas kalkulataj kiel heredantoj. Ĉar jen estas vorto de promeso: “En la difinita tempo mi venos, kaj Sara havos filon.” Kaj ne nur tiel, sed ankaŭ Rebeka gravediĝis de unu, de nia patro Isaak. Ĉar kiam ili ankoraŭ ne estis naskitaj, kaj ankoraŭ ne faris ion bonan aŭ malbonan, por ke la intenco de Dio laŭ elekto restu, ne pro faroj, sed pro tiu, kiu vokas, estis dirite al ŝi: “La pli aĝa servos al la pli juna.” Kiel estas skribite: “Jakobon mi amis, sed Esaŭn mi malamis.”
+Sed ne estas kvazaŭ la vorto de Dio estus senefikiĝinta. Ĉar ne ĉiuj, kiuj estas el Izraelo, estas Izraelo. Nek, ĉar ili estas idaro de Abrahamo, ili ĉiuj estas infanoj. Sed: “Via idaro estos kalkulata el Isaako.” Tio estas, ne la infanoj de la karno estas infanoj de Dio, sed la infanoj de la promeso estas kalkulataj kiel heredantoj. Ĉar jen estas vorto de promeso: “En la difinita tempo mi venos, kaj Sara havos filon.” Kaj ne nur tiel, sed ankaŭ Rebeka gravediĝis de unu, de nia patro Isaako. Ĉar kiam ili ankoraŭ ne estis naskitaj, kaj ankoraŭ ne faris ion bonan aŭ malbonan, por ke la intenco de Dio laŭ elekto restu, ne pro faroj, sed pro tiu, kiu vokas, estis dirite al ŝi: “La pli aĝa servos al la pli juna.” Kiel estas skribite: “Jakobon mi amis, sed Esaŭn mi malamis.”
 
 Kion do ni diros? Ĉu estas maljusteco ĉe Dio? Neniam estu! Ĉar li diris al Mozeo: “Mi kompatos tiun, kiun mi kompatos, kaj mi korfavoros tiun, kiun mi korfavoros.” Tial do tio ne dependas de tiu, kiu volas, nek de tiu, kiu kuras, sed de Dio, kiu kompatas. Ĉar la Skribo diras al Faraono: “Ĝuste por ĉi tiu celo mi vin starigis, por ke mi montru en vi mian potencon, kaj por ke mia nomo estu proklamata en la tuta tero.” Tial do li kompatas tiun, kiun li volas, kaj li obstinigas tiun, kiun li volas.
 
@@ -4565,7 +4565,7 @@ Sed pri Izraelo li diras: “La tutan tagon mi etendis miajn manojn al malobeema
 
 ### Ĉapitro 11
 
-Mi do demandas: ĉu Dio forpuŝis sian popolon? Neniel! Ĉar ankaŭ mi estas Izraelido, ido de Abrahamo, el la tribo de Benjamen. Dio ne forpuŝis sian popolon, kiun li antaŭkonis. Aŭ ĉu vi ne scias, kion la Skribo diras pri Elija? Kiel li petegas Dion kontraŭ Izraelo: “Sinjoro, ili mortigis viajn profetojn. Ili detruis viajn altarojn. Mi restis sola, kaj ili serĉas mian vivon.” Sed kion Dio respondas al li? “Mi rezervis por mi sep mil virojn, kiuj ne klinis la genuon al Baal.” Tiel do ankaŭ en la nuna tempo ekzistas restaĵo laŭ la elekto de graco. Kaj se per graco, tiam ne plu el faroj; alie graco ne plu estas graco. Sed se el faroj, ĝi ne plu estas graco; alie faro ne plu estas faro.
+Mi do demandas: ĉu Dio forpuŝis sian popolon? Neniel! Ĉar ankaŭ mi estas Izraelido, ido de Abrahamo, el la tribo de Benjameno. Dio ne forpuŝis sian popolon, kiun li antaŭkonis. Aŭ ĉu vi ne scias, kion la Skribo diras pri Elija? Kiel li petegas Dion kontraŭ Izraelo: “Sinjoro, ili mortigis viajn profetojn. Ili detruis viajn altarojn. Mi restis sola, kaj ili serĉas mian vivon.” Sed kion Dio respondas al li? “Mi rezervis por mi sep mil virojn, kiuj ne klinis la genuon al Baalo.” Tiel do ankaŭ en la nuna tempo ekzistas restaĵo laŭ la elekto de graco. Kaj se per graco, tiam ne plu el faroj; alie graco ne plu estas graco. Sed se el faroj, ĝi ne plu estas graco; alie faro ne plu estas faro.
 
 Kio do? Tion, kion Izraelo serĉas, li ne atingis; sed la elektitoj atingis ĝin, kaj la ceteraj estis harditaj. Kiel estas skribite: “Dio donis al ili spiriton de stuporo, okulojn por ne vidi, kaj orelojn por ne aŭdi, ĝis la nuna tago.”
 
@@ -5139,7 +5139,7 @@ Ekridu kaj kriu, vi, kiu ne suferas naskodolorojn.
 
 Ĉar la dezertulino havas pli da infanoj ol tiu, kiu havas edzon.”
 
-Nun ni, fratoj, kiel Isaak estis, estas infanoj de promeso. Sed kiel tiam, tiu, kiu naskiĝis laŭ la karno, persekutis tiun, kiu naskiĝis laŭ la Spirito, tiel ankaŭ estas nun. Tamen, kion diras la Skribo? “Elpelu la sklavinon kaj ŝian filon, ĉar la filo de la sklavino ne heredos kune kun la filo de la libera virino.” Tial, fratoj, ni ne estas infanoj de sklavino, sed de la libera virino.
+Nun ni, fratoj, kiel Isaako estis, estas infanoj de promeso. Sed kiel tiam, tiu, kiu naskiĝis laŭ la karno, persekutis tiun, kiu naskiĝis laŭ la Spirito, tiel ankaŭ estas nun. Tamen, kion diras la Skribo? “Elpelu la sklavinon kaj ŝian filon, ĉar la filo de la sklavino ne heredos kune kun la filo de la libera virino.” Tial, fratoj, ni ne estas infanoj de sklavino, sed de la libera virino.
 
 ### Ĉapitro 5
 
@@ -5283,7 +5283,7 @@ Sed mi opiniis necese sendi al vi Epafroditon, mian fraton, kunlaboranton, kunba
 
 Fine, miaj fratoj, ĝoju en la Sinjoro! Skribi al vi la samajn aferojn por mi ja ne estas teda, sed por vi estas sekure.
 
-Gardu vin kontraŭ la hundoj; gardu vin kontraŭ la malbonfarantoj; gardu vin kontraŭ la falsa cirkumcido. Ĉar ni estas la cirkumcido, kiuj adoras Dion en la Spirito, kaj ĝojas en Kristo Jesuo, kaj ne fidas je la karno; kvankam mi mem povus fidi eĉ je la karno. Se iu alia opinias, ke li povas fidi je la karno, mi des pli: cirkumcidita en la oka tago, el la gento de Izraelo, el la tribo de Benjamen, Hebreo el Hebreoj; rilate al la leĝo, Fariseo; rilate al fervoro, persekutanta la eklezion; rilate al la justeco, kiu estas en la leĝo, trovita senkulpa.
+Gardu vin kontraŭ la hundoj; gardu vin kontraŭ la malbonfarantoj; gardu vin kontraŭ la falsa cirkumcido. Ĉar ni estas la cirkumcido, kiuj adoras Dion en la Spirito, kaj ĝojas en Kristo Jesuo, kaj ne fidas je la karno; kvankam mi mem povus fidi eĉ je la karno. Se iu alia opinias, ke li povas fidi je la karno, mi des pli: cirkumcidita en la oka tago, el la gento de Izraelo, el la tribo de Benjameno, Hebreo el Hebreoj; rilate al la leĝo, Fariseo; rilate al fervoro, persekutanta la eklezion; rilate al la justeco, kiu estas en la leĝo, trovita senkulpa.
 
 Tamen, kion ajn mi havis kiel gajnon, tion mi rigardas kiel perdon pro Kristo. Jes ja, kaj mi rigardas ĉion kiel perdon pro la supereco de la kono de Kristo Jesuo, mia Sinjoro, pro kiu mi suferis la perdon de ĉio, kaj rigardas tion kiel forĵetaĵon, por ke mi gajnu Kriston kaj estu trovata en li, ne havante mian propran justecon, tiun el la leĝo, sed tiun, kiu estas per fido al Kristo, la justecon, kiu estas el Dio per fido; por ke mi konu lin kaj la potencon de lia releviĝo, kaj la kunulecon de liaj suferoj, fariĝante konforma al lia morto, se iel mi atingos la releviĝon el la mortintoj. Ne ke mi jam atingis, aŭ jam fariĝis perfekta; sed mi antaŭen strebas, por ke mi ekkaptu tion, pro kio ankaŭ mi estis ekkaptita de Kristo Jesuo.
 
@@ -5795,7 +5795,7 @@ Ni do timu, por ke eble iu el vi ne ŝajnu esti maltrafinta la promeson eniri en
 “Hodiaŭ, se vi aŭdos lian voĉon,  
 ne malmoligu viajn korojn.”
 
-Ĉar se Josuo estus doninta al ili ripozon, li poste ne parolus pri alia tago. Restas do sabata ripozo por la popolo de Dio. Ĉar tiu, kiu eniris en lian ripozon, ankaŭ mem ripozis de siaj faroj, kiel Dio de la siaj. Ni do klopodu eniri en tiun ripozon, por ke neniu falu laŭ la sama ekzemplo de malobeo. Ĉar la vorto de Dio estas viva kaj energia, kaj pli akra ol ĉia dutranĉa glavo, penetranta ĝis la disigo de animo kaj spirito, de artikoj kaj medolo, kaj kapabla juĝi la pensojn kaj intencojn de la koro. Kaj ne ekzistas kreitaĵo kaŝita antaŭ lia rigardo; sed ĉio estas nuda kaj elmetita antaŭ la okuloj de tiu, al kiu ni devas doni raporton.
+Ĉar se Joŝua estus doninta al ili ripozon, li poste ne parolus pri alia tago. Restas do sabata ripozo por la popolo de Dio. Ĉar tiu, kiu eniris en lian ripozon, ankaŭ mem ripozis de siaj faroj, kiel Dio de la siaj. Ni do klopodu eniri en tiun ripozon, por ke neniu falu laŭ la sama ekzemplo de malobeo. Ĉar la vorto de Dio estas viva kaj energia, kaj pli akra ol ĉia dutranĉa glavo, penetranta ĝis la disigo de animo kaj spirito, de artikoj kaj medolo, kaj kapabla juĝi la pensojn kaj intencojn de la koro. Kaj ne ekzistas kreitaĵo kaŝita antaŭ lia rigardo; sed ĉio estas nuda kaj elmetita antaŭ la okuloj de tiu, al kiu ni devas doni raporton.
 
 Havante do grandan ĉefpastron, kiu trapasis la ĉielojn, Jesuon, la Filon de Dio, ni tenu firme nian konfeson. Ĉar ni ne havas ĉefpastron, kiu ne povas kunsenti kun la sento de niaj malfortoj, sed tian, kiu en ĉio estis tentata simile al ni, tamen sen peko. Ni do alproksimiĝu kun kuraĝo al la trono de graco, por ke ni ricevu kompaton kaj trovu gracon por helpo en tempo de bezono.
 
@@ -5952,15 +5952,15 @@ Per fido Ĥanok estis forprenita, por ke li ne vidu morton, kaj li ne estis trov
 
 Per fido Noa, avertite pri aferoj ankoraŭ ne viditaj, movite de pia timo, pretigis arkeon por la savo de sia domo; per tio li kondamnis la mondon kaj fariĝis heredanto de la justeco, kiu estas laŭ fido.
 
-Per fido Abrahamo, kiam li estis vokita, obeis eliri al la loko, kiun li estis ricevonta kiel heredon. Li eliris, ne sciante, kien li iras. Per fido li loĝis kiel fremdulo en la lando de la promeso, kvazaŭ en lando ne lia, loĝante en tendoj kun Isaak kaj Jakobo, kunheredantoj kun li de la sama promeso. Ĉar li atendis la urbon, kiu havas fundamentojn, kies konstruanto kaj farinto estas Dio.
+Per fido Abrahamo, kiam li estis vokita, obeis eliri al la loko, kiun li estis ricevonta kiel heredon. Li eliris, ne sciante, kien li iras. Per fido li loĝis kiel fremdulo en la lando de la promeso, kvazaŭ en lando ne lia, loĝante en tendoj kun Isaako kaj Jakobo, kunheredantoj kun li de la sama promeso. Ĉar li atendis la urbon, kiu havas fundamentojn, kies konstruanto kaj farinto estas Dio.
 
 Per fido eĉ Sara mem ricevis forton por koncipi, kaj ŝi naskis infanon, kvankam ŝi estis preter la aĝo, ĉar ŝi rigardis fidela tiun, kiu promesis. Tial el unu viro—kaj li preskaŭ mortinta—naskiĝis tiom multaj, kiom la steloj de la ĉielo laŭ multo, kaj kiom la sablo ĉe la marbordo, sennombra.
 
 Ĉiuj ĉi tiuj mortis en fido, ne ricevinte la promesojn, sed vidinte ilin kaj salutinte ilin de malproksime, kaj konfesinte, ke ili estas fremduloj kaj migrantoj sur la tero. Ĉar tiuj, kiuj tiel parolas, klare montras, ke ili serĉas propran patrujon. Kaj se ili ja estus pensintaj pri tiu lando, el kiu ili eliris, ili havus sufiĉe da tempo por reveni. Sed nun ili deziras pli bonan landon, tio estas, ĉielan. Tial Dio ne hontas esti nomata ilia Dio, ĉar li pretigis por ili urbon.
 
-Per fido Abrahamo, provate, oferis Isaakon. Jes, tiu, kiu ĝoje akceptis la promesojn, estis oferanta sian solenaskitan filon, al kiu estis dirite: “Per Isaak estos nomata via idaro,” konkludante, ke Dio povas eĉ el la mortintoj revivigi. Figure parolante, li ankaŭ ricevis lin reen el la mortintoj.
+Per fido Abrahamo, provate, oferis Isaakon. Jes, tiu, kiu ĝoje akceptis la promesojn, estis oferanta sian solenaskitan filon, al kiu estis dirite: “Per Isaako estos nomata via idaro,” konkludante, ke Dio povas eĉ el la mortintoj revivigi. Figure parolante, li ankaŭ ricevis lin reen el la mortintoj.
 
-Per fido Isaak benis Jakobon kaj Esavon, eĉ pri estontaj aferoj.
+Per fido Isaako benis Jakobon kaj Esavon, eĉ pri estontaj aferoj.
 
 Per fido Jakobo, kiam li estis mortanta, benis ĉiun el la filoj de Jozefo, kaj adorkliniĝis, apogante sin sur la supro de sia bastono.
 
@@ -5976,7 +5976,7 @@ Per fido la muroj de Jeriĥo falis, post kiam oni ĉirkaŭiris ilin dum sep tago
 
 Per fido Raĥab, la malĉastistino, ne pereis kun la malobeemuloj, ĉar ŝi pace akceptis la spionojn.
 
-Kion plu mi diru? Ĉar mankus al mi la tempo, se mi rakontus pri Gideon, Barak, Samson, Jiftaĥ, Davido, Samuel, kaj la profetoj—kiuj per fido subigis regnojn, plenumis justecon, akiris promesojn, fermis la buŝojn de leonoj, estingis la forton de fajro, eskapis la tranĉon de glavo, el malforto fariĝis fortaj, fariĝis potencaj en milito, kaj pelis for fremdajn armeojn. Virinoj ricevis siajn mortintojn per reviviĝo. Aliaj estis turmentataj, ne akceptante liberigon, por ke ili atingu pli bonan reviviĝon. Aliaj estis provataj per mokado kaj skurĝado, jes, krome per katenoj kaj malliberejo. Ili estis ŝtonmortigitaj. Ili estis dissegitaj. Ili estis tentataj. Ili estis mortigitaj per glavo. Ili vagadis en ŝafaj feloj kaj en kapraj feloj, senhavaj, afliktataj, malbone traktataj—pri kiuj la mondo ne estis inda—vagante en dezertoj, montoj, kavernoj, kaj truoj de la tero.
+Kion plu mi diru? Ĉar mankus al mi la tempo, se mi rakontus pri Gideon, Barak, Samson, Jiftaĥ, Davido, Samuelo, kaj la profetoj—kiuj per fido subigis regnojn, plenumis justecon, akiris promesojn, fermis la buŝojn de leonoj, estingis la forton de fajro, eskapis la tranĉon de glavo, el malforto fariĝis fortaj, fariĝis potencaj en milito, kaj pelis for fremdajn armeojn. Virinoj ricevis siajn mortintojn per reviviĝo. Aliaj estis turmentataj, ne akceptante liberigon, por ke ili atingu pli bonan reviviĝon. Aliaj estis provataj per mokado kaj skurĝado, jes, krome per katenoj kaj malliberejo. Ili estis ŝtonmortigitaj. Ili estis dissegitaj. Ili estis tentataj. Ili estis mortigitaj per glavo. Ili vagadis en ŝafaj feloj kaj en kapraj feloj, senhavaj, afliktataj, malbone traktataj—pri kiuj la mondo ne estis inda—vagante en dezertoj, montoj, kavernoj, kaj truoj de la tero.
 
 Kaj ĉi tiuj ĉiuj, ricevinte bonan ateston pro sia fido, ne ricevis la promeson, ĉar Dio antaŭvidis ion pli bonan pri ni, por ke ili ne estu perfektigitaj aparte de ni.
 
@@ -6059,7 +6059,7 @@ Tamen, se vi plenumas la reĝan leĝon laŭ la Skribo: “Amu vian proksimulon k
 
 Kian utilon estas, miaj fratoj, se iu diras, ke li havas fidon, sed ne havas farojn? Ĉu fido povas savi lin? Kaj se frato aŭ fratino estas nudaj kaj mankas al ili ĉiutaga manĝaĵo, kaj iu el vi diras al ili: “Iru en paco. Varmiĝu kaj satiĝu;” tamen vi ne donas al ili tion, kion la korpo bezonas, kian utilon estas? Tiel ankaŭ fido, se ĝi ne havas farojn, estas morta en si mem. Jes, iu diros: “Vi havas fidon, kaj mi havas farojn.” Montru al mi vian fidon sen faroj, kaj mi montros al vi mian fidon per miaj faroj.
 
-Vi kredas, ke Dio estas unu. Vi faras bone. Ankaŭ la demonoj kredas—kaj tremas. Sed ĉu vi volas scii, vana homo, ke fido aparte de faroj estas morta? Ĉu Abrahamo, nia patro, ne estis pravigita per faroj, kiam li oferis sian filon Isaak sur la altaro? Vi vidas, ke fido kunagis kun liaj faroj, kaj per faroj la fido perfektiĝis. Tiel plenumiĝis la Skribo, kiu diras: “Abrahamo kredis al Dio, kaj tio estis kalkulita al li kiel justeco,” kaj li estis nomata amiko de Dio. Vi do vidas, ke per faroj homo estas pravigita, kaj ne nur per fido. Same, ĉu Rahab, la prostituitino, ne estis pravigita per faroj, kiam ŝi akceptis la senditojn kaj elsendis ilin alian vojon? Ĉar kiel la korpo aparte de la spirito estas morta, tiel ankaŭ fido aparte de faroj estas morta.
+Vi kredas, ke Dio estas unu. Vi faras bone. Ankaŭ la demonoj kredas—kaj tremas. Sed ĉu vi volas scii, vana homo, ke fido aparte de faroj estas morta? Ĉu Abrahamo, nia patro, ne estis pravigita per faroj, kiam li oferis sian filon Isaako sur la altaro? Vi vidas, ke fido kunagis kun liaj faroj, kaj per faroj la fido perfektiĝis. Tiel plenumiĝis la Skribo, kiu diras: “Abrahamo kredis al Dio, kaj tio estis kalkulita al li kiel justeco,” kaj li estis nomata amiko de Dio. Vi do vidas, ke per faroj homo estas pravigita, kaj ne nur per fido. Same, ĉu Rahab, la prostituitino, ne estis pravigita per faroj, kiam ŝi akceptis la senditojn kaj elsendis ilin alian vojon? Ĉar kiel la korpo aparte de la spirito estas morta, tiel ankaŭ fido aparte de faroj estas morta.
 
 ### Ĉapitro 3
 
@@ -6191,7 +6191,7 @@ La Dua Letero de Petro
 
 ### Ĉapitro 1
 
-Simon Petro, servanto kaj apostolo de Jesuo Kristo, al tiuj, kiuj akiris same altvaloran fidon kiel ni per la justeco de nia Dio kaj Savanto, Jesuo Kristo: Graco al vi kaj paco multobliĝu en la kono de Dio kaj de Jesuo, nia Sinjoro; ĉar lia dia potenco donacis al ni ĉion, kio apartenas al vivo kaj pieco, per la kono de Tiu, kiu vokis nin per sia propra gloro kaj virto; per kiuj li donacis al ni siajn altvalorajn kaj treege grandajn promesojn, por ke per ili vi fariĝu partoprenantoj de la dia naturo, eskapinte el la putreco, kiu estas en la mondo pro volupto. Jes, kaj pro tio mem, aldonante de via flanko ĉian diligentecon, en via fido provizu moralan plejbonecon; kaj en morala plejboneco, scion; kaj en scio, sinregadon; kaj en sinregado, persistemon; kaj en persistemo, piecon; kaj en pieco, fratan amon; kaj en frata amo, amon. Ĉar se ĉi tiuj aferoj estas viaj kaj abundas, ili faras vin ne senokupaj nek senfruktaj en la kono de nia Sinjoro Jesuo Kristo. Ĉar al tiu, al kiu mankas ĉi tiuj aferoj, estas blinda, vidante nur tion, kio estas proksima, forgesinte la purigon de siaj antaŭaj pekoj. Tial, fratoj, estu des pli diligentaj por certigi vian vokon kaj elekton; ĉar se vi faras ĉi tion, vi neniam falpuŝiĝos. Ĉar tiel al vi estos riĉe provizita la eniro en la eternan Regnon de nia Sinjoro kaj Savanto, Jesuo Kristo.
+Simono Petro, servanto kaj apostolo de Jesuo Kristo, al tiuj, kiuj akiris same altvaloran fidon kiel ni per la justeco de nia Dio kaj Savanto, Jesuo Kristo: Graco al vi kaj paco multobliĝu en la kono de Dio kaj de Jesuo, nia Sinjoro; ĉar lia dia potenco donacis al ni ĉion, kio apartenas al vivo kaj pieco, per la kono de Tiu, kiu vokis nin per sia propra gloro kaj virto; per kiuj li donacis al ni siajn altvalorajn kaj treege grandajn promesojn, por ke per ili vi fariĝu partoprenantoj de la dia naturo, eskapinte el la putreco, kiu estas en la mondo pro volupto. Jes, kaj pro tio mem, aldonante de via flanko ĉian diligentecon, en via fido provizu moralan plejbonecon; kaj en morala plejboneco, scion; kaj en scio, sinregadon; kaj en sinregado, persistemon; kaj en persistemo, piecon; kaj en pieco, fratan amon; kaj en frata amo, amon. Ĉar se ĉi tiuj aferoj estas viaj kaj abundas, ili faras vin ne senokupaj nek senfruktaj en la kono de nia Sinjoro Jesuo Kristo. Ĉar al tiu, al kiu mankas ĉi tiuj aferoj, estas blinda, vidante nur tion, kio estas proksima, forgesinte la purigon de siaj antaŭaj pekoj. Tial, fratoj, estu des pli diligentaj por certigi vian vokon kaj elekton; ĉar se vi faras ĉi tion, vi neniam falpuŝiĝos. Ĉar tiel al vi estos riĉe provizita la eniro en la eternan Regnon de nia Sinjoro kaj Savanto, Jesuo Kristo.
 
 Tial mi ne estos neglektema rememorigi vin pri ĉi tiuj aferoj, kvankam vi ilin scias kaj estas firmigitaj en la nuna vero. Mi opinias ĝusta, dum mi estas en ĉi tiu tendo, veki vin per rememorigo, sciante, ke la demeto de mia tendo venas rapide, kiel ankaŭ nia Sinjoro Jesuo Kristo klarigis al mi. Jes, mi faros ĉian penon, por ke vi ĉiam povu memori ĉi tiujn aferojn eĉ post mia foriro.
 
@@ -6481,7 +6481,7 @@ el la tribo de Zebulun dek du mil,
 
 el la tribo de Jozefo dek du mil, kaj
 
-el la tribo de Benjamen dek du mil estis sigelitaj.
+el la tribo de Benjameno dek du mil estis sigelitaj.
 
 Post ĉi tio mi rigardis, kaj jen granda homamaso, kiun neniu povis nombri, el ĉiu nacio kaj el ĉiuj triboj, popoloj kaj lingvoj, starantaj antaŭ la trono kaj antaŭ la Ŝafido, vestitaj per blankaj roboj, kun palmbranĉoj en la manoj. Kaj ili kriis per laŭta voĉo, dirante: “Savo estu al nia Dio, kiu sidas sur la trono, kaj al la Ŝafido!”
 
@@ -6819,7 +6819,7 @@ La jenaj vortoj uzataj en la World English Bible (WEB) ne estas tre oftaj, ĉu �
 
 **Iŝmael**: Iŝmael estas la filo de Abrahamo kaj Hagar. Iŝmael laŭvorte signifas “Dio aŭdas.”
 
-**Jehovah**: Vidu “Jave.”
+**Jehovah**: Vidu “Jehova.”
 
 **Jesuo**: “Jesuo” estas greka formo de la hebrea nomo “Jeŝua”, kiu estas mallonga formo de “Jehoŝua”, kiu venas de “Joŝia”, kiu signifas “Li savos.”
 
@@ -6857,7 +6857,7 @@ La jenaj vortoj uzataj en la World English Bible (WEB) ne estas tre oftaj, ĉu �
 
 **rabeno**: Rabeno estas transliterumo de la hebrea vorto por “mia instruisto”, uzata kiel titolo de respekto por judaj instruistoj.
 
-**Rahab**: Rahab estas aŭ (1) la prostituitino, kiu kaŝis la 2 spionojn de Joŝuo en Jeriĥo (Joŝuo 2,6) kaj poste fariĝis prapatrino de Jesuo (Mateo 1:5) kaj ekzemplo de fido (Hebreoj 11:31; Jakobo 2:25); aŭ (2) laŭvorte, “fiero” aŭ “aroganteco” — eble aludo al granda akva estaĵo (Ijob 9:13; 26:12; Jesaja 51:9) aŭ simbole al Egiptio (Psalmoj 87:4; 89:10; Jesaja 30:7).
+**Rahab**: Rahab estas aŭ (1) la prostituitino, kiu kaŝis la 2 spionojn de Joŝua en Jeriĥo (Joŝua 2,6) kaj poste fariĝis prapatrino de Jesuo (Mateo 1:5) kaj ekzemplo de fido (Hebreoj 11:31; Jakobo 2:25); aŭ (2) laŭvorte, “fiero” aŭ “aroganteco” — eble aludo al granda akva estaĵo (Ijob 9:13; 26:12; Jesaja 51:9) aŭ simbole al Egiptio (Psalmoj 87:4; 89:10; Jesaja 30:7).
 
 **penti**: ŝanĝi sian menson; turni sin for de peko kaj turni sin al Dio; abomeni siajn pasintajn pekojn kaj decidi sekvi Dion.
 
@@ -6865,7 +6865,7 @@ La jenaj vortoj uzataj en la World English Bible (WEB) ne estas tre oftaj, ĉu �
 
 **sabato**: La sepa tago de la semajno, apartigita de Dio por ke homo ripozu.
 
-**sanktuloj**: La greka vorto por “sanktuloj” laŭvorte signifas “sanktaj (aŭ: sanktigitaj) homoj.” Sanktuloj estas homoj apartigitaj por servo al Dio kiel sanktaj kaj apartaj, vivantaj en justeco. Uzata en la Biblio por aludi al ĉiuj kristanoj kaj al ĉiuj, kiuj adoris Javen en malnovtestamentaj tempoj.
+**sanktuloj**: La greka vorto por “sanktuloj” laŭvorte signifas “sanktaj (aŭ: sanktigitaj) homoj.” Sanktuloj estas homoj apartigitaj por servo al Dio kiel sanktaj kaj apartaj, vivantaj en justeco. Uzata en la Biblio por aludi al ĉiuj kristanoj kaj al ĉiuj, kiuj adoris Jehovan en malnovtestamentaj tempoj.
 
 **Samariano**: Samariano estas loĝanto de Samario. La samarianoj kaj la judoj ĝenerale malamis unu la alian dum la tempo, kiam Jesuo marŝis inter ni.
 
@@ -6909,9 +6909,9 @@ La jenaj vortoj uzataj en la World English Bible (WEB) ne estas tre oftaj, ĉu �
 
 **terafimoj**: Terafimoj estas hejmaj idoloj, kiuj eble estis asociitaj kun heredrajtoj al la hejma posedaĵo.
 
-**Jah**: “Jah” estas mallongigita formo de “Jave”, kiu estas la propra nomo de Dio. Ĉi tiu formo estas uzata foje en la Malnova Testamento, plejparte en la Psalmoj. Vidu “Jave.”
+**Jah**: “Jah” estas mallongigita formo de “Jehova”, kiu estas la propra nomo de Dio. Ĉi tiu formo estas uzata foje en la Malnova Testamento, plejparte en la Psalmoj. Vidu “Jehova.”
 
-**Jave**: “Jave” estas la propra nomo de Dio. En la hebrea, la kvar konsonantoj proksimume ekvivalentaj al YHWH estis konsiderataj tro sanktaj por elparoli, do la hebrea vorto por “Sinjoro” (*Adonai*) estis anstataŭigita dum laŭtlegado. Kiam vokalaj signoj estis aldonitaj al la hebrea Malnova Testamento, la vokaloj de *Adonai* estis miksitaj kun la konsonantoj de “Jave”, kio, se oni elparolus ĝin laŭvorte kiel skribite, estus elparolata “Jehovah” aŭ “Jehovah.” Kiam la Malnova Testamento estis tradukita al la greka, la tradicio anstataŭigi “Sinjoro” por la propra nomo de Dio daŭris en la traduko de la nomo de Dio al “Sinjoro” (*Kurios*). Iuj anglaj Biblioj tradukas la propran nomon de Dio kiel “LORD” aŭ “GOD” (kutime per malgrandaj majuskloj), surbaze de tiu sama tradicio. Tio povas fariĝi vere konfuza, ĉar du aliaj vortoj (*Adonai* kaj *Elohim*) tradukiĝas kiel “Sinjoro” kaj “Dio”, kaj ili foje estas uzataj kune. La ASV de 1901 (kaj iuj aliaj tradukoj) redonas YHWH kiel “Jehovah.” La plej probabla elparolo de la propra nomo de Dio estas “Jave.” En la hebrea, la nomo “Jave” rilatas al la aktiva deklaro “MI ESTAS.” Vidu Eliro 3:13-14. Ĉar la hebrea ne havas tempojn, la deklaro “MI ESTAS” ankaŭ povas esti interpretata kiel “MI ESTIS” kaj “MI ESTOS.” Komparu Apokalipson 1:8.
+**Jehova**: “Jehova” estas la propra nomo de Dio. En la hebrea, la kvar konsonantoj proksimume ekvivalentaj al YHWH estis konsiderataj tro sanktaj por elparoli, do la hebrea vorto por “Sinjoro” (*Adonai*) estis anstataŭigita dum laŭtlegado. Kiam vokalaj signoj estis aldonitaj al la hebrea Malnova Testamento, la vokaloj de *Adonai* estis miksitaj kun la konsonantoj de “Jehova”, kio, se oni elparolus ĝin laŭvorte kiel skribite, estus elparolata “Jehovah” aŭ “Jehovah.” Kiam la Malnova Testamento estis tradukita al la greka, la tradicio anstataŭigi “Sinjoro” por la propra nomo de Dio daŭris en la traduko de la nomo de Dio al “Sinjoro” (*Kurios*). Iuj anglaj Biblioj tradukas la propran nomon de Dio kiel “LORD” aŭ “GOD” (kutime per malgrandaj majuskloj), surbaze de tiu sama tradicio. Tio povas fariĝi vere konfuza, ĉar du aliaj vortoj (*Adonai* kaj *Elohim*) tradukiĝas kiel “Sinjoro” kaj “Dio”, kaj ili foje estas uzataj kune. La ASV de 1901 (kaj iuj aliaj tradukoj) redonas YHWH kiel “Jehovah.” La plej probabla elparolo de la propra nomo de Dio estas “Jehova.” En la hebrea, la nomo “Jehova” rilatas al la aktiva deklaro “MI ESTAS.” Vidu Eliro 3:13-14. Ĉar la hebrea ne havas tempojn, la deklaro “MI ESTAS” ankaŭ povas esti interpretata kiel “MI ESTIS” kaj “MI ESTOS.” Komparu Apokalipson 1:8.
 
 **Cion**: Cion estas nomo, kiu origine rilatis al unu el la montoj de Jerusalemo. Ĝi fariĝis termino sinonima kun Jerusalemo mem. La termino “Ĉiela Cion” ankaŭ estas uzata por aludi al la estonta loĝejo de la popolo de Dio.
 

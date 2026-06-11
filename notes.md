@@ -8,6 +8,8 @@ Names aren't made into adjectives, verbs, or adverbs, so it's OK for them to end
 
 Only consonant endings should add -o for male or -a for female, like Johano or Elizabeta.
 
+If a male name already ends in -a or a female name in -o, keep the ending and don't switch for gender.
+
 The -n ending is allowed on all vowel endings for nouns, like Javen or Elizabetan.
 
 Place names that come from -ia should end in -io.
