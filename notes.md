@@ -4,7 +4,7 @@
 
 Normalize names.
 
-Names aren't made into adjectives, verbs, or adverbs, so it's OK for them to end in -a, -i, -e, or -u if the original does.
+Most names aren't made into adjectives, verbs, or adverbs, so it's OK for them to end in -a, -i, -e, or -u if the original does.
 
 Only consonant endings should add -o for male or -a for female, like Johano or Elizabeta.
 
@@ -12,11 +12,13 @@ If a male name already ends in -a or a female name in -o, keep the ending and do
 
 The -n ending is allowed on all vowel endings for nouns, like Javen or Elizabetan.
 
+If a name is proper and capitalized like Judo the adjective should be lower-case like juda.
+
 Place names that come from -ia should end in -io.
 
 Place names that come from a person should end in -ujo, meaning that the base is not considered the name of a place, not that it was originally named after a person. For example, if hispano means a Hispanic person and *not* a place, then hispanujo can mean "country/region of Hispanics".
 
-If the original place name ends in a consonant, just add -o. An exception is -s, which is dropped: Moses -> Mozeo, Jesus -> Jezuo. Another exception is names in compounds, like Bet in Bet-Leĥem.
+If the original place name ends in a consonant, just add -o. An exception is -s, which is dropped: Moses -> Mozeo, Jesus -> Jezuo. Another exception is names in compounds, like Bet in Bet-Leĥem. An s between two vowels is usually /z/.
 
 Proper names are capitalized like Egiptio but proper adjectives drop the -i and are not capitalized like egipta.
 

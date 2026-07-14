@@ -1,5 +1,6 @@
 Abrahamo,Abraham
 Abramo,Abram
+Aĥabo,Ahab
 Arono,Aaron
 Asirio,Assyria
 Baalo,Baal
@@ -16,15 +17,21 @@ Edomo,Edom
 Efraimo,Ephraim
 egipta,Egyptian
 Egiptio,Egypt
+Eleazaro,Eleazar
 Elija,Elijah
+Fariseo,Pharisee
 Filiŝto,Philistine
 Gileado,Gilead
 Ĥaldeano,Chaldean
 Ĥaldeo,Chaldee
+Hamano,Haman
+hebrea,hebrew
+Hebreo,Hebrew
 Ĥizkija,Hezekiah
-Isaako,Isaac
+Izaako,Isaac
 Izraelo,Israel
 Jakobo,Jacob
+Jehoŝafato,Jehoshaphat
 Jehova,"Yahweh; Jehovah"
 Jehuda,Judah
 Jeroboamo,Jeroboam
@@ -32,9 +39,12 @@ Jerusalemo,Jerusalem
 Joabo,Joab
 Jonatano,Jonathan
 Jordano,Jordan
+Jordano,"Jordan River"
 Joŝua,Joshua
 Jozefo,Joseph
+juda,Jewish
 Judio,Judea
+Judo,Jew
 Levido,Levite
 Moabo,Moab
 Mozeo,Moses
@@ -44,12 +54,6 @@ Samario,Samaria
 Samuelo,Samuel
 Saŭlo,Saul
 Simono,Simon
-Hamano,Haman
-Eleazaro,Eleazar
-Fariseo,Pharisee
-Aĥabo,Ahab
-Jehoŝafato,Jehoshaphat
-Jordano,"Jordan River"
 Absalom
 Ŝeba
 Gad
@@ -264,7 +268,6 @@ Aĥitofel
 Obadja
 Miĥaja
 Sinajo
-Isaakon
 Ela
 Abrahamon
 Ĥecron
@@ -1828,7 +1831,6 @@ Falariso
 Epifi
 Naĥum
 Certigu
-Isaako
 Behemot
 Leviatan
 Mirego

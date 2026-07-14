@@ -348,7 +348,7 @@ Dio diris al Abraham: “Pri Saraj, via edzino, vi ne nomu ŝian nomon Saraj, se
 
 Tiam Abraham falis vizaĝaltere kaj ridis, kaj diris en sia koro: “Ĉu naskiĝos infano al tiu, kiu estas centjara? Ĉu Sara, kiu estas naŭdekjara, naskos?” Abraham diris al Dio: “Ho, ke Iŝmael vivu antaŭ vi!”
 
-Dio diris: “Ne; sed Sara, via edzino, naskos al vi filon. Vi nomu lian nomon Isaako. Mi starigos mian interligon kun li kiel eternan interligon por lia idaro post li. Pri Iŝmael, mi aŭdis vin. Jen, mi benis lin, kaj faros lin fruktodona, kaj multigos lin treege. Li fariĝos patro de dek du princoj, kaj mi faros el li grandan nacion. Sed mian interligon mi starigos kun Isaako, kiun Sara naskos al vi en ĉi tiu difinita tempo venontjare.”
+Dio diris: “Ne; sed Sara, via edzino, naskos al vi filon. Vi nomu lian nomon Izaako. Mi starigos mian interligon kun li kiel eternan interligon por lia idaro post li. Pri Iŝmael, mi aŭdis vin. Jen, mi benis lin, kaj faros lin fruktodona, kaj multigos lin treege. Li fariĝos patro de dek du princoj, kaj mi faros el li grandan nacion. Sed mian interligon mi starigos kun Izaako, kiun Sara naskos al vi en ĉi tiu difinita tempo venontjare.”
 
 Kiam li finis paroli kun li, Dio supreniris for de Abraham. Abraham prenis Iŝmael, sian filon, ĉiujn, kiuj naskiĝis en lia domo, kaj ĉiujn, kiuj estis aĉetitaj per lia mono: ĉiun viran inter la viroj de la domo de Abraham, kaj cirkumcidis la karnon de ilia prepucio en tiu sama tago, kiel Dio diris al li. Abraham estis naŭdek naŭjara, kiam li estis cirkumcidita en la karno de sia prepucio. Iŝmael, lia filo, estis dek tri-jara, kiam li estis cirkumcidita en la karno de sia prepucio. En tiu sama tago ambaŭ, Abraham kaj Iŝmael, lia filo, estis cirkumciditaj. Ĉiuj viroj de lia domo, tiuj naskiĝintaj en la domo, kaj tiuj aĉetitaj per mono de fremdulo, estis cirkumciditaj kun li.
 
@@ -448,11 +448,11 @@ Abraham preĝis al Dio. Kaj Dio resanigis Abimeleĥon, lian edzinon, kaj liajn i
 
 ### Ĉapitro 21
 
-Jehova vizitis Saran, kiel Li diris, kaj Jehova faris al Sara, kiel Li parolis. Sara gravediĝis kaj naskis al Abraham filon en lia maljuneco, en la difinita tempo, pri kiu Dio parolis al li. Abraham donis al sia filo, kiu naskiĝis al li, kiun Sara naskis al li, la nomon Isaako. Abraham cirkumcidis sian filon Isaako, kiam li havis ok tagojn, kiel Dio ordonis al li. Abraham havis cent jarojn, kiam naskiĝis al li lia filo Isaako. Sara diris: “Dio igis min ridi; ĉiu, kiu aŭdos, ridos kun mi.” Kaj ŝi diris: “Kiu dirus al Abraham, ke Sara mamnutros infanojn? Ĉar mi naskis al li filon en lia maljuneco.”
+Jehova vizitis Saran, kiel Li diris, kaj Jehova faris al Sara, kiel Li parolis. Sara gravediĝis kaj naskis al Abraham filon en lia maljuneco, en la difinita tempo, pri kiu Dio parolis al li. Abraham donis al sia filo, kiu naskiĝis al li, kiun Sara naskis al li, la nomon Izaako. Abraham cirkumcidis sian filon Izaako, kiam li havis ok tagojn, kiel Dio ordonis al li. Abraham havis cent jarojn, kiam naskiĝis al li lia filo Izaako. Sara diris: “Dio igis min ridi; ĉiu, kiu aŭdos, ridos kun mi.” Kaj ŝi diris: “Kiu dirus al Abraham, ke Sara mamnutros infanojn? Ĉar mi naskis al li filon en lia maljuneco.”
 
-La infano kreskis kaj estis demamigita. Abraham faris grandan festenon en la tago, kiam Isaako estis demamigita. Sara vidis la filon de Hagar, la Egiptino, kiun ŝi naskis al Abraham, mokanta. Tial ŝi diris al Abraham: “Forpelu ĉi tiun sklavinon kaj ŝian filon! Ĉar la filo de ĉi tiu sklavino ne heredos kune kun mia filo Isaako.”
+La infano kreskis kaj estis demamigita. Abraham faris grandan festenon en la tago, kiam Izaako estis demamigita. Sara vidis la filon de Hagar, la Egiptino, kiun ŝi naskis al Abraham, mokanta. Tial ŝi diris al Abraham: “Forpelu ĉi tiun sklavinon kaj ŝian filon! Ĉar la filo de ĉi tiu sklavino ne heredos kune kun mia filo Izaako.”
 
-Tio estis tre aflikta en la okuloj de Abraham pro lia filo. Dio diris al Abraham: “Ne estu aflikta en viaj okuloj pro la knabo kaj pro via sklavino. En ĉio, kion Sara diras al vi, aŭskultu ŝian voĉon; ĉar per Isaako estos nomata via idaro. Kaj ankaŭ el la filo de la sklavino Mi faros nacion, ĉar li estas via ido.” Abraham leviĝis frue matene, prenis panon kaj ujon da akvo, kaj donis al Hagar, metante ĝin sur ŝian ŝultron; kaj li donis al ŝi la infanon kaj forsendis ŝin. Ŝi foriris kaj vagadis en la dezerto de Beer-Ŝeba. La akvo en la ujo elĉerpiĝis, kaj ŝi metis la infanon sub unu el la arbustoj. Ŝi iris kaj sidiĝis kontraŭ li, malproksime, ĉirkaŭ je pafdistanco de pafarko; ĉar ŝi diris: “Mi ne volas vidi la morton de la infano.” Ŝi sidiĝis kontraŭ li, levis sian voĉon kaj ploris. Dio aŭdis la voĉon de la knabo.
+Tio estis tre aflikta en la okuloj de Abraham pro lia filo. Dio diris al Abraham: “Ne estu aflikta en viaj okuloj pro la knabo kaj pro via sklavino. En ĉio, kion Sara diras al vi, aŭskultu ŝian voĉon; ĉar per Izaako estos nomata via idaro. Kaj ankaŭ el la filo de la sklavino Mi faros nacion, ĉar li estas via ido.” Abraham leviĝis frue matene, prenis panon kaj ujon da akvo, kaj donis al Hagar, metante ĝin sur ŝian ŝultron; kaj li donis al ŝi la infanon kaj forsendis ŝin. Ŝi foriris kaj vagadis en la dezerto de Beer-Ŝeba. La akvo en la ujo elĉerpiĝis, kaj ŝi metis la infanon sub unu el la arbustoj. Ŝi iris kaj sidiĝis kontraŭ li, malproksime, ĉirkaŭ je pafdistanco de pafarko; ĉar ŝi diris: “Mi ne volas vidi la morton de la infano.” Ŝi sidiĝis kontraŭ li, levis sian voĉon kaj ploris. Dio aŭdis la voĉon de la knabo.
 
 La anĝelo de Dio vokis al Hagar el la ĉielo kaj diris al ŝi: “Kio afliktas vin, Hagar? Ne timu; ĉar Dio aŭdis la voĉon de la knabo tie, kie li estas. Leviĝu, levu la knabon kaj tenu lin per via mano; ĉar Mi faros el li grandan nacion.”
 
@@ -474,15 +474,15 @@ Post tiuj aferoj Dio elprovis Abrahamon, kaj diris al li: “Abraham!”
 
 Li diris: “Jen mi.”
 
-Li diris: “Nun prenu vian filon, vian solan filon, Isaakon, kiun vi amas, kaj iru en la landon Morija. Oferu lin tie kiel bruloferon sur unu el la montoj, pri kiu mi diros al vi.”
+Li diris: “Nun prenu vian filon, vian solan filon, Izaakon, kiun vi amas, kaj iru en la landon Morija. Oferu lin tie kiel bruloferon sur unu el la montoj, pri kiu mi diros al vi.”
 
-Abraham leviĝis frue matene, selis sian azenon, kaj prenis kun si du el siaj junuloj, kaj Isaakon, sian filon. Li disfendis la lignon por la brulofero, kaj leviĝis kaj iris al la loko, pri kiu Dio diris al li. En la tria tago Abraham levis siajn okulojn kaj vidis la lokon malproksime. Abraham diris al siaj junuloj: “Restu ĉi tie kun la azeno. La knabo kaj mi iros tien. Ni adorkliniĝos, kaj revenos al vi.” Abraham prenis la lignon de la brulofero kaj metis ĝin sur Isaakon, sian filon. Li prenis en sian manon la fajron kaj la tranĉilon. Ili ambaŭ iris kune. Isaako parolis al Abraham, sia patro, kaj diris: “Mia patro?”
+Abraham leviĝis frue matene, selis sian azenon, kaj prenis kun si du el siaj junuloj, kaj Izaakon, sian filon. Li disfendis la lignon por la brulofero, kaj leviĝis kaj iris al la loko, pri kiu Dio diris al li. En la tria tago Abraham levis siajn okulojn kaj vidis la lokon malproksime. Abraham diris al siaj junuloj: “Restu ĉi tie kun la azeno. La knabo kaj mi iros tien. Ni adorkliniĝos, kaj revenos al vi.” Abraham prenis la lignon de la brulofero kaj metis ĝin sur Izaakon, sian filon. Li prenis en sian manon la fajron kaj la tranĉilon. Ili ambaŭ iris kune. Izaako parolis al Abraham, sia patro, kaj diris: “Mia patro?”
 
 Li diris: “Jen mi, mia filo.”
 
 Li diris: “Jen estas la fajro kaj la ligno, sed kie estas la ŝafido por brulofero?”
 
-Abraham diris: “Dio mem provizos la ŝafidon por brulofero, mia filo.” Kaj ili ambaŭ iris kune. Ili venis al la loko, pri kiu Dio diris al li. Abraham konstruis tie la altaron, kaj ordigis la lignon, ligis Isaakon, sian filon, kaj metis lin sur la altaron, sur la lignon. Abraham etendis sian manon kaj prenis la tranĉilon por mortigi sian filon.
+Abraham diris: “Dio mem provizos la ŝafidon por brulofero, mia filo.” Kaj ili ambaŭ iris kune. Ili venis al la loko, pri kiu Dio diris al li. Abraham konstruis tie la altaron, kaj ordigis la lignon, ligis Izaakon, sian filon, kaj metis lin sur la altaron, sur la lignon. Abraham etendis sian manon kaj prenis la tranĉilon por mortigi sian filon.
 
 La anĝelo de Jehova vokis al li el la ĉielo, kaj diris: “Abraham, Abraham!”
 
@@ -518,13 +518,13 @@ Tiel la kampo de Efron, kiu estis en Maĥpela, kiu estis antaŭ Mamre—la kampo
 
 ### Ĉapitro 24
 
-Abraham estis maljuna kaj tre progresinta en aĝo. Jehova benis Abrahamon en ĉio. Abraham diris al sia servanto, la plej aĝa en lia domo, kiu regis super ĉio, kion li havis: “Bonvolu meti vian manon sub mian femuron. Mi igos vin ĵuri per Jehova, la Dio de la ĉielo kaj la Dio de la tero, ke vi ne prenos edzinon por mia filo el la filinoj de la Kanaanidoj, inter kiuj mi loĝas. Sed vi iros al mia lando kaj al miaj parencoj, kaj prenos edzinon por mia filo Isaako.”
+Abraham estis maljuna kaj tre progresinta en aĝo. Jehova benis Abrahamon en ĉio. Abraham diris al sia servanto, la plej aĝa en lia domo, kiu regis super ĉio, kion li havis: “Bonvolu meti vian manon sub mian femuron. Mi igos vin ĵuri per Jehova, la Dio de la ĉielo kaj la Dio de la tero, ke vi ne prenos edzinon por mia filo el la filinoj de la Kanaanidoj, inter kiuj mi loĝas. Sed vi iros al mia lando kaj al miaj parencoj, kaj prenos edzinon por mia filo Izaako.”
 
 La servanto diris al li: “Kio, se la virino ne volos sekvi min al ĉi tiu lando? Ĉu mi devas revenigi vian filon al la lando, el kiu vi venis?”
 
 Abraham diris al li: “Gardu vin, ke vi ne revenigu mian filon tien. Jehova, la Dio de la ĉielo—kiu prenis min el la domo de mia patro kaj el la lando de mia naskiĝo, kiu parolis al mi kaj ĵuris al mi, dirante: ‘Al via idaro mi donos ĉi tiun landon’—li sendos sian anĝelon antaŭ vi, kaj vi prenos edzinon por mia filo de tie. Se la virino ne volos sekvi vin, tiam vi estos libera de ĉi tiu ĵuro al mi. Nur ne revenigu mian filon tien.”
 
-La servanto metis sian manon sub la femuron de Abraham, sia sinjoro, kaj ĵuris al li pri ĉi tiu afero. La servanto prenis dek el la kameloj de sia sinjoro kaj foriris, havante kun si diversajn bonajn aĵojn de sia sinjoro. Li leviĝis kaj iris al Mezopotamio, al la urbo de Nahor. Li igis la kamelojn genuiĝi ekster la urbo apud la akvoputo vespere, en la tempo, kiam virinoj eliras por ĉerpi akvon. Li diris: “Jehova, Dio de mia sinjoro Abraham, bonvolu doni al mi sukceson hodiaŭ kaj montri bonecon al mia sinjoro Abraham. Jen mi staras apud la akvofonto, kaj la filinoj de la viroj de la urbo eliras por ĉerpi akvon. Okazu, ke la junulino, al kiu mi diros: ‘Bonvolu mallevi vian kruĉon, por ke mi trinku,’ kaj ŝi diros: ‘Trinku, kaj mi ankaŭ trinkigos viajn kamelojn,’—ŝi estu tiu, kiun vi destinis por via servanto Isaako. Per tio mi scios, ke vi montris bonecon al mia sinjoro.”
+La servanto metis sian manon sub la femuron de Abraham, sia sinjoro, kaj ĵuris al li pri ĉi tiu afero. La servanto prenis dek el la kameloj de sia sinjoro kaj foriris, havante kun si diversajn bonajn aĵojn de sia sinjoro. Li leviĝis kaj iris al Mezopotamio, al la urbo de Nahor. Li igis la kamelojn genuiĝi ekster la urbo apud la akvoputo vespere, en la tempo, kiam virinoj eliras por ĉerpi akvon. Li diris: “Jehova, Dio de mia sinjoro Abraham, bonvolu doni al mi sukceson hodiaŭ kaj montri bonecon al mia sinjoro Abraham. Jen mi staras apud la akvofonto, kaj la filinoj de la viroj de la urbo eliras por ĉerpi akvon. Okazu, ke la junulino, al kiu mi diros: ‘Bonvolu mallevi vian kruĉon, por ke mi trinku,’ kaj ŝi diros: ‘Trinku, kaj mi ankaŭ trinkigos viajn kamelojn,’—ŝi estu tiu, kiun vi destinis por via servanto Izaako. Per tio mi scios, ke vi montris bonecon al mia sinjoro.”
 
 Antaŭ ol li finis paroli, jen Rebeka eliris, kiu naskiĝis al Betuel, filo de Milka, la edzino de Nahor, frato de Abraham, kun sia kruĉo sur la ŝultro. La junulino estis tre bela je aspekto, virgulino; neniu viro konis ŝin. Ŝi malsupreniris al la fonto, plenigis sian kruĉon kaj supreniris. La servanto kuris renkonte al ŝi kaj diris: “Bonvolu doni al mi trinki iom da akvo el via kruĉo.”
 
@@ -558,19 +558,19 @@ Ili diris: “Ni vokos la junulinon kaj demandos ŝin.” Ili vokis Rebekan kaj 
 
 Ili forsendis Rebekan, sian fratinon, kun ŝia vartistino, la servanton de Abraham, kaj liajn virojn. Ili benis Rebekan kaj diris al ŝi: “Nia fratino, estu vi patrino de miloj da dekmiloj, kaj via idaro posedu la pordegon de tiuj, kiuj malamas ilin.”
 
-Rebeka leviĝis kun siaj servistinoj. Ili rajdis sur la kameloj kaj sekvis la viron. La servanto prenis Rebekan kaj iris sian vojon. Isaako venis de la vojo de Beer-Lahaj-Roi, ĉar li loĝis en la lando de la sudo. Isaako eliris por mediti en la kampo vespere. Li levis siajn okulojn kaj rigardis. Jen kameloj venis. Rebeka levis siajn okulojn, kaj kiam ŝi vidis Isaakon, ŝi malsupreniris de la kamelo. Ŝi diris al la servanto: “Kiu estas la viro, kiu iras en la kampo por renkonti nin?”
+Rebeka leviĝis kun siaj servistinoj. Ili rajdis sur la kameloj kaj sekvis la viron. La servanto prenis Rebekan kaj iris sian vojon. Izaako venis de la vojo de Beer-Lahaj-Roi, ĉar li loĝis en la lando de la sudo. Izaako eliris por mediti en la kampo vespere. Li levis siajn okulojn kaj rigardis. Jen kameloj venis. Rebeka levis siajn okulojn, kaj kiam ŝi vidis Izaakon, ŝi malsupreniris de la kamelo. Ŝi diris al la servanto: “Kiu estas la viro, kiu iras en la kampo por renkonti nin?”
 
 La servanto diris: “Tio estas mia sinjoro.”
 
-Ŝi prenis sian vualon kaj kovris sin. La servanto rakontis al Isaako ĉion, kion li faris. Isaako enkondukis ŝin en la tendon de sia patrino Sara, kaj li prenis Rebekan, kaj ŝi fariĝis lia edzino. Li amis ŝin. Tiel Isaako estis konsolita post la morto de sia patrino.
+Ŝi prenis sian vualon kaj kovris sin. La servanto rakontis al Izaako ĉion, kion li faris. Izaako enkondukis ŝin en la tendon de sia patrino Sara, kaj li prenis Rebekan, kaj ŝi fariĝis lia edzino. Li amis ŝin. Tiel Izaako estis konsolita post la morto de sia patrino.
 
 ### Ĉapitro 25
 
-Abraham prenis alian edzinon, kaj ŝia nomo estis Ketura. Ŝi naskis al li Zimranon, Jokŝanon, Medanon, Midjanon, Iŝbakon kaj Ŝuaĥon. Jokŝan fariĝis patro de Ŝeba kaj Dedan. La filoj de Dedan estis Aŝurim, Letuŝim kaj Leumim. La filoj de Midjan estis Efa, Efer, Ĥanoĥ, Abida kaj Eldaa. Ĉiuj ĉi tiuj estis la infanoj de Ketura. Abraham donis ĉion, kion li havis, al Isaako; sed al la filoj de la kromvirinoj de Abraham Abraham donis donacojn. Dum li ankoraŭ vivis, li forsendis ilin for de Isaako, sia filo, orienten, al la orienta lando. Jen estas la tagoj de la jaroj de la vivo de Abraham, kiujn li vivis: cent sepdek kvin jaroj. Abraham ellasis sian spiriton kaj mortis en bona maljunaĝo, maljunulo kaj plena je jaroj, kaj estis aligita al sia popolo. Isaako kaj Iŝmael, liaj filoj, enterigis lin en la kaverno de Maĥpela, sur la kampo de Efron, filo de Coĥar la Ĥetido, kiu estas apud Mamre, la kampo, kiun Abraham aĉetis de la filoj de Ĥet. Abraham estis enterigita tie kun Sara, sia edzino. Post la morto de Abraham, Dio benis Isaakon, lian filon. Isaako loĝis apud Beer-Laĥaj-Roi.
+Abraham prenis alian edzinon, kaj ŝia nomo estis Ketura. Ŝi naskis al li Zimranon, Jokŝanon, Medanon, Midjanon, Iŝbakon kaj Ŝuaĥon. Jokŝan fariĝis patro de Ŝeba kaj Dedan. La filoj de Dedan estis Aŝurim, Letuŝim kaj Leumim. La filoj de Midjan estis Efa, Efer, Ĥanoĥ, Abida kaj Eldaa. Ĉiuj ĉi tiuj estis la infanoj de Ketura. Abraham donis ĉion, kion li havis, al Izaako; sed al la filoj de la kromvirinoj de Abraham Abraham donis donacojn. Dum li ankoraŭ vivis, li forsendis ilin for de Izaako, sia filo, orienten, al la orienta lando. Jen estas la tagoj de la jaroj de la vivo de Abraham, kiujn li vivis: cent sepdek kvin jaroj. Abraham ellasis sian spiriton kaj mortis en bona maljunaĝo, maljunulo kaj plena je jaroj, kaj estis aligita al sia popolo. Izaako kaj Iŝmael, liaj filoj, enterigis lin en la kaverno de Maĥpela, sur la kampo de Efron, filo de Coĥar la Ĥetido, kiu estas apud Mamre, la kampo, kiun Abraham aĉetis de la filoj de Ĥet. Abraham estis enterigita tie kun Sara, sia edzino. Post la morto de Abraham, Dio benis Izaakon, lian filon. Izaako loĝis apud Beer-Laĥaj-Roi.
 
 Jen estas la historio de la generacioj de Iŝmael, filo de Abraham, kiun Hagar la Egiptino, servistino de Sara, naskis al Abraham. Jen estas la nomoj de la filoj de Iŝmael, laŭ iliaj nomoj, laŭ la ordo de ilia naskiĝo: la unuenaskito de Iŝmael, Nebajot, poste Kedar, Adbeel, Mibsam, Miŝma, Duma, Masa, Hadad, Tema, Jetur, Nafiŝ kaj Kedema. Jen estas la filoj de Iŝmael, kaj jen estas iliaj nomoj, laŭ iliaj vilaĝoj kaj laŭ iliaj tendaroj: dek du princoj, laŭ iliaj nacioj. Jen estas la jaroj de la vivo de Iŝmael: cent tridek sep jaroj. Li ellasis sian spiriton kaj mortis, kaj estis aligita al sia popolo. Ili loĝis de Ĥavila ĝis Ŝur, kiu estas antaŭ Egiptio, dum vi iras al Asirio. Li loĝis kontraŭ ĉiuj siaj parencoj.
 
-Jen estas la historio de la generacioj de Isaako, filo de Abraham. Abraham fariĝis patro de Isaako. Isaako havis kvardek jarojn, kiam li prenis Rebekan, filinon de Betuel la Siriano el Padan-Aram, fratinon de Laban la Siriano, por esti lia edzino. Isaako petegis Jehovan pro sia edzino, ĉar ŝi estis senfrukta. Jehova lasis sin petegi de li, kaj Rebeka, lia edzino, gravediĝis. La infanoj interpuŝiĝis en ŝi. Ŝi diris: “Se estas tiel, kial mi vivas?” Ŝi iris demandi Jehovan. Jehova diris al ŝi:
+Jen estas la historio de la generacioj de Izaako, filo de Abraham. Abraham fariĝis patro de Izaako. Izaako havis kvardek jarojn, kiam li prenis Rebekan, filinon de Betuel la Siriano el Padan-Aram, fratinon de Laban la Siriano, por esti lia edzino. Izaako petegis Jehovan pro sia edzino, ĉar ŝi estis senfrukta. Jehova lasis sin petegi de li, kaj Rebeka, lia edzino, gravediĝis. La infanoj interpuŝiĝis en ŝi. Ŝi diris: “Se estas tiel, kial mi vivas?” Ŝi iris demandi Jehovan. Jehova diris al ŝi:
 
 “Du nacioj estas en via ventro.
 
@@ -580,9 +580,9 @@ Unu popolo estos pli forta ol la alia popolo.
 
 La pli aĝa servos al la pli juna.”
 
-Kiam plenumiĝis ŝiaj tagoj por naski, jen estis ĝemeloj en ŝia ventro. La unua eliris ruĝa tute, kiel harplena vesto. Ili nomis lin Esav. Post tio eliris lia frato, kaj lia mano tenis la kalkanon de Esav. Li estis nomita Jakobo. Isaako havis sesdek jarojn, kiam ŝi naskis ilin.
+Kiam plenumiĝis ŝiaj tagoj por naski, jen estis ĝemeloj en ŝia ventro. La unua eliris ruĝa tute, kiel harplena vesto. Ili nomis lin Esav. Post tio eliris lia frato, kaj lia mano tenis la kalkanon de Esav. Li estis nomita Jakobo. Izaako havis sesdek jarojn, kiam ŝi naskis ilin.
 
-La knaboj kreskis. Esav estis lerta ĉasisto, viro de la kampo. Jakobo estis trankvila viro, loĝanta en tendoj. Isaako amis Esavon, ĉar li manĝis lian ĉasaĵon; Rebeka amis Jakobon. Jakobo kuiris kuiraĵon. Esav venis el la kampo, kaj li estis malsata. Esav diris al Jakobo: “Bonvolu nutri min per iom el tiu ruĝa kuiraĵo, ĉar mi estas malsata.” Tial lia nomo estis nomata Edomo.
+La knaboj kreskis. Esav estis lerta ĉasisto, viro de la kampo. Jakobo estis trankvila viro, loĝanta en tendoj. Izaako amis Esavon, ĉar li manĝis lian ĉasaĵon; Rebeka amis Jakobon. Jakobo kuiris kuiraĵon. Esav venis el la kampo, kaj li estis malsata. Esav diris al Jakobo: “Bonvolu nutri min per iom el tiu ruĝa kuiraĵo, ĉar mi estas malsata.” Tial lia nomo estis nomata Edomo.
 
 Jakobo diris: “Unue vendu al mi vian unuenaskitecon.”
 
@@ -594,43 +594,43 @@ Li ĵuris al li. Li vendis sian unuenaskitecon al Jakobo. Jakobo donis al Esav p
 
 ### Ĉapitro 26
 
-Estis malsato en la lando, krom la unua malsato, kiu estis en la tagoj de Abraham. Isaako iris al Abimeleĥ, reĝo de la Filiŝtoj, al Gerar. Jehova aperis al li kaj diris: “Ne iru malsupren en Egiption. Loĝu en la lando, pri kiu Mi diros al vi. Loĝu en ĉi tiu lando, kaj Mi estos kun vi kaj benos vin. Ĉar al vi kaj al via idaro Mi donos ĉiujn ĉi tiujn landojn, kaj Mi firmigos la ĵuron, kiun Mi ĵuris al Abraham, via patro. Mi multigos vian idaron kiel la stelojn de la ĉielo, kaj Mi donos ĉiujn ĉi tiujn landojn al via idaro. En via idaro benitaj estos ĉiuj nacioj de la tero, ĉar Abraham obeis Mian voĉon kaj observis Miajn ordonojn, Miajn ordonojn, Miajn leĝojn kaj Miajn instruojn.”
+Estis malsato en la lando, krom la unua malsato, kiu estis en la tagoj de Abraham. Izaako iris al Abimeleĥ, reĝo de la Filiŝtoj, al Gerar. Jehova aperis al li kaj diris: “Ne iru malsupren en Egiption. Loĝu en la lando, pri kiu Mi diros al vi. Loĝu en ĉi tiu lando, kaj Mi estos kun vi kaj benos vin. Ĉar al vi kaj al via idaro Mi donos ĉiujn ĉi tiujn landojn, kaj Mi firmigos la ĵuron, kiun Mi ĵuris al Abraham, via patro. Mi multigos vian idaron kiel la stelojn de la ĉielo, kaj Mi donos ĉiujn ĉi tiujn landojn al via idaro. En via idaro benitaj estos ĉiuj nacioj de la tero, ĉar Abraham obeis Mian voĉon kaj observis Miajn ordonojn, Miajn ordonojn, Miajn leĝojn kaj Miajn instruojn.”
 
-Isaako loĝis en Gerar. La viroj de la loko demandis lin pri lia edzino. Li diris: “Ŝi estas mia fratino,” ĉar li timis diri: “Mia edzino,” por ke, li pensis, “la viroj de la loko ne mortigu min pro Rebeka, ĉar ŝi estas bela por rigardi.” Kiam li jam estis tie longe, Abimeleĥ, reĝo de la Filiŝtoj, rigardis tra fenestro kaj vidis, kaj jen Isaako karesis Rebekan, sian edzinon. Abimeleĥ vokis Isaakon kaj diris: “Jen, certe ŝi estas via edzino. Kial do vi diris: ‘Ŝi estas mia fratino’?”
+Izaako loĝis en Gerar. La viroj de la loko demandis lin pri lia edzino. Li diris: “Ŝi estas mia fratino,” ĉar li timis diri: “Mia edzino,” por ke, li pensis, “la viroj de la loko ne mortigu min pro Rebeka, ĉar ŝi estas bela por rigardi.” Kiam li jam estis tie longe, Abimeleĥ, reĝo de la Filiŝtoj, rigardis tra fenestro kaj vidis, kaj jen Izaako karesis Rebekan, sian edzinon. Abimeleĥ vokis Izaakon kaj diris: “Jen, certe ŝi estas via edzino. Kial do vi diris: ‘Ŝi estas mia fratino’?”
 
-Isaako diris al li: “Ĉar mi diris: ‘Por ke mi ne mortu pro ŝi.’”
+Izaako diris al li: “Ĉar mi diris: ‘Por ke mi ne mortu pro ŝi.’”
 
 Abimeleĥ diris: “Kio estas tio, kion vi faris al ni? Iu el la popolo facile povus kuŝi kun via edzino, kaj vi estus alportinta kulpon sur nin!”
 
 Abimeleĥ ordonis al la tuta popolo, dirante: “Kiu tuŝos ĉi tiun viron aŭ lian edzinon, tiu certe estos mortigita.”
 
-Isaako semis en tiu lando kaj rikoltis en la sama jaro centoble tion, kion li semis. Jehova benis lin. La viro grandiĝis, kaj pli kaj pli grandiĝis, ĝis li fariĝis tre granda. Li havis posedaĵojn da ŝafoj, posedaĵojn da brutoj, kaj grandan domanaron. La Filiŝtoj enviis lin. Nun ĉiujn putojn, kiujn la servantoj de lia patro fosis en la tagoj de Abraham, lia patro, la Filiŝtoj ŝtopis kaj plenigis per tero. Abimeleĥ diris al Isaako: “Foriru de ni, ĉar vi estas multe pli potenca ol ni.”
+Izaako semis en tiu lando kaj rikoltis en la sama jaro centoble tion, kion li semis. Jehova benis lin. La viro grandiĝis, kaj pli kaj pli grandiĝis, ĝis li fariĝis tre granda. Li havis posedaĵojn da ŝafoj, posedaĵojn da brutoj, kaj grandan domanaron. La Filiŝtoj enviis lin. Nun ĉiujn putojn, kiujn la servantoj de lia patro fosis en la tagoj de Abraham, lia patro, la Filiŝtoj ŝtopis kaj plenigis per tero. Abimeleĥ diris al Izaako: “Foriru de ni, ĉar vi estas multe pli potenca ol ni.”
 
-Isaako foriris de tie, tendumis en la valo de Gerar kaj loĝis tie.
+Izaako foriris de tie, tendumis en la valo de Gerar kaj loĝis tie.
 
-Isaako denove fosis la akvoputojn, kiujn oni fosis en la tagoj de Abraham, lia patro, ĉar la Filiŝtoj ŝtopis ilin post la morto de Abraham. Li nomis ilin laŭ la nomoj, per kiuj lia patro ilin nomis. La servantoj de Isaako fosis en la valo kaj trovis tie puton de fluanta akvo. La paŝtistoj de Gerar disputis kun la paŝtistoj de Isaako, dirante: “La akvo estas nia.” Tial li nomis la puton Esek, ĉar ili malpacis kun li. Ili fosis alian puton, kaj ankaŭ pri tiu ili disputis. Tial li nomis ĝin Sitna. Li forlasis tiun lokon kaj fosis alian puton. Pri tiu ili ne disputis. Tial li nomis ĝin Reĥobot. Li diris: “Ĉar nun Jehova faris por ni vastan lokon, kaj ni fruktodonos en la lando.”
+Izaako denove fosis la akvoputojn, kiujn oni fosis en la tagoj de Abraham, lia patro, ĉar la Filiŝtoj ŝtopis ilin post la morto de Abraham. Li nomis ilin laŭ la nomoj, per kiuj lia patro ilin nomis. La servantoj de Izaako fosis en la valo kaj trovis tie puton de fluanta akvo. La paŝtistoj de Gerar disputis kun la paŝtistoj de Izaako, dirante: “La akvo estas nia.” Tial li nomis la puton Esek, ĉar ili malpacis kun li. Ili fosis alian puton, kaj ankaŭ pri tiu ili disputis. Tial li nomis ĝin Sitna. Li forlasis tiun lokon kaj fosis alian puton. Pri tiu ili ne disputis. Tial li nomis ĝin Reĥobot. Li diris: “Ĉar nun Jehova faris por ni vastan lokon, kaj ni fruktodonos en la lando.”
 
 De tie li supreniris al Beer-Ŝeba. Jehova aperis al li en tiu sama nokto kaj diris: “Mi estas la Dio de Abraham, via patro. Ne timu, ĉar Mi estas kun vi, kaj Mi benos vin kaj multigos vian idaron pro Abraham, Mia servanto.”
 
-Li konstruis tie altaron, vokis la nomon de Jehova, kaj starigis tie sian tendon. Tie la servantoj de Isaako fosis puton.
+Li konstruis tie altaron, vokis la nomon de Jehova, kaj starigis tie sian tendon. Tie la servantoj de Izaako fosis puton.
 
-Tiam Abimeleĥ venis al li el Gerar kun Aĥuzat, lia amiko, kaj Pikol, la estro de lia armeo. Isaako diris al ili: “Kial vi venis al mi, ĉar vi malamas min kaj forsendis min de vi?”
+Tiam Abimeleĥ venis al li el Gerar kun Aĥuzat, lia amiko, kaj Pikol, la estro de lia armeo. Izaako diris al ili: “Kial vi venis al mi, ĉar vi malamas min kaj forsendis min de vi?”
 
 Ili diris: “Ni klare vidis, ke Jehova estas kun vi. Ni diris: ‘Estu do nun ĵuro inter ni, inter ni kaj vi, kaj ni faru interligon kun vi, ke vi ne faros al ni malbonon, kiel ni ne tuŝis vin, kaj kiel ni faris al vi nenion krom bonon, kaj forsendis vin en paco.’ Vi nun estas la benito de Jehova.”
 
-Li faris al ili festenon, kaj ili manĝis kaj trinkis. Ili leviĝis frumatene kaj ĵuris unu al la alia. Isaako forsendis ilin, kaj ili foriris de li en paco. En tiu sama tago venis la servantoj de Isaako kaj sciigis al li pri la puto, kiun ili fosis, kaj diris al li: “Ni trovis akvon.” Li nomis ĝin “Ŝiba”. Tial la nomo de la urbo estas “Beer-Ŝeba” ĝis hodiaŭ.
+Li faris al ili festenon, kaj ili manĝis kaj trinkis. Ili leviĝis frumatene kaj ĵuris unu al la alia. Izaako forsendis ilin, kaj ili foriris de li en paco. En tiu sama tago venis la servantoj de Izaako kaj sciigis al li pri la puto, kiun ili fosis, kaj diris al li: “Ni trovis akvon.” Li nomis ĝin “Ŝiba”. Tial la nomo de la urbo estas “Beer-Ŝeba” ĝis hodiaŭ.
 
-Kiam Esav havis kvardek jarojn, li prenis kiel edzinojn Judit, filinon de Beeri, la Ĥetido, kaj Basmat, filinon de Elon, la Ĥetido. Ili afliktis la spiriton de Isaako kaj Rebeka.
+Kiam Esav havis kvardek jarojn, li prenis kiel edzinojn Judit, filinon de Beeri, la Ĥetido, kaj Basmat, filinon de Elon, la Ĥetido. Ili afliktis la spiriton de Izaako kaj Rebeka.
 
 ### Ĉapitro 27
 
-Kiam Isaako maljuniĝis kaj liaj okuloj malheliĝis tiel, ke li ne povis vidi, li vokis Esavon, sian pli aĝan filon, kaj diris al li: “Mia filo?”
+Kiam Izaako maljuniĝis kaj liaj okuloj malheliĝis tiel, ke li ne povis vidi, li vokis Esavon, sian pli aĝan filon, kaj diris al li: “Mia filo?”
 
 Li diris al li: “Jen mi.”
 
 Li diris: “Jen, mi estas maljuna. Mi ne scias la tagon de mia morto. Nun do, mi petas, prenu viajn armilojn, vian sagujo­n kaj vian pafarkon, kaj eliru sur la kampon, kaj ĉasu por mi ĉasaĵon. Faru al mi bongustan manĝaĵon, kian mi amas, kaj alportu ĝin al mi, por ke mi manĝu, kaj por ke mia animo vin benu antaŭ ol mi mortos.”
 
-Rebeka aŭdis, kiam Isaako parolis al Esavo, lia filo. Esavo iris sur la kampon por ĉasi ĉasaĵon kaj por alporti ĝin. Rebeka parolis al Jakobo, sia filo, dirante: “Jen, mi aŭdis vian patron paroli al Esavo, via frato, dirante: ‘Alportu al mi ĉasaĵon, kaj faru al mi bongustan manĝaĵon, por ke mi manĝu kaj vin benu antaŭ Jehova antaŭ mia morto.’ Nun do, mia filo, obeu mian voĉon laŭ tio, kion mi ordonas al vi. Iru nun al la grego kaj prenu por mi de tie du bonajn kapridojn. Mi faros el ili bongustan manĝaĵon por via patro, kian li amas. Vi alportos ĝin al via patro, por ke li manĝu, por ke li vin benu antaŭ sia morto.”
+Rebeka aŭdis, kiam Izaako parolis al Esavo, lia filo. Esavo iris sur la kampon por ĉasi ĉasaĵon kaj por alporti ĝin. Rebeka parolis al Jakobo, sia filo, dirante: “Jen, mi aŭdis vian patron paroli al Esavo, via frato, dirante: ‘Alportu al mi ĉasaĵon, kaj faru al mi bongustan manĝaĵon, por ke mi manĝu kaj vin benu antaŭ Jehova antaŭ mia morto.’ Nun do, mia filo, obeu mian voĉon laŭ tio, kion mi ordonas al vi. Iru nun al la grego kaj prenu por mi de tie du bonajn kapridojn. Mi faros el ili bongustan manĝaĵon por via patro, kian li amas. Vi alportos ĝin al via patro, por ke li manĝu, por ke li vin benu antaŭ sia morto.”
 
 Jakobo diris al Rebeka, sia patrino: “Jen, Esavo, mia frato, estas harplena viro, kaj mi estas glathaŭta viro. Kio, se mia patro min palpos? Mi ŝajnos al li trompanto, kaj mi alportos sur min malbenon, ne benon.”
 
@@ -644,19 +644,19 @@ Li diris: “Jen mi. Kiu vi estas, mia filo?”
 
 Jakobo diris al sia patro: “Mi estas Esavo, via unuenaskito. Mi faris, kiel vi diris al mi. Mi petas, leviĝu, sidiĝu kaj manĝu el mia ĉasaĵo, por ke via animo min benu.”
 
-Isaako diris al sia filo: “Kiel vi trovis ĝin tiel rapide, mia filo?”
+Izaako diris al sia filo: “Kiel vi trovis ĝin tiel rapide, mia filo?”
 
 Li diris: “Ĉar Jehova, via Dio, donis al mi sukceson.”
 
-Isaako diris al Jakobo: “Mi petas, venu proksimen, por ke mi vin palpu, mia filo, ĉu vi vere estas mia filo Esavo aŭ ne.”
+Izaako diris al Jakobo: “Mi petas, venu proksimen, por ke mi vin palpu, mia filo, ĉu vi vere estas mia filo Esavo aŭ ne.”
 
-Jakobo venis proksimen al Isaako, sia patro. Li palpis lin kaj diris: “La voĉo estas la voĉo de Jakobo, sed la manoj estas la manoj de Esavo.” Li ne rekonis lin, ĉar liaj manoj estis harplenaj, kiel la manoj de lia frato Esavo. Tial li benis lin. Li diris: “Ĉu vi vere estas mia filo Esavo?”
+Jakobo venis proksimen al Izaako, sia patro. Li palpis lin kaj diris: “La voĉo estas la voĉo de Jakobo, sed la manoj estas la manoj de Esavo.” Li ne rekonis lin, ĉar liaj manoj estis harplenaj, kiel la manoj de lia frato Esavo. Tial li benis lin. Li diris: “Ĉu vi vere estas mia filo Esavo?”
 
 Li diris: “Mi estas.”
 
 Li diris: “Alportu ĝin proksimen al mi, kaj mi manĝos el la ĉasaĵo de mia filo, por ke mia animo vin benu.”
 
-Li alportis ĝin proksimen al li, kaj li manĝis. Li alportis al li vinon, kaj li trinkis. Lia patro Isaako diris al li: “Venu proksimen nun, kaj kisu min, mia filo.” Li venis proksimen kaj kisis lin. Li flaris la odoron de liaj vestoj, kaj benis lin, kaj diris:
+Li alportis ĝin proksimen al li, kaj li manĝis. Li alportis al li vinon, kaj li trinkis. Lia patro Izaako diris al li: “Venu proksimen nun, kaj kisu min, mia filo.” Li venis proksimen kaj kisis lin. Li flaris la odoron de liaj vestoj, kaj benis lin, kaj diris:
 
 “Jen, la odoro de mia filo  
 estas kiel la odoro de kampo, kiun Jehova benis.  
@@ -674,13 +674,13 @@ La filoj de via patrino kliniĝu antaŭ vi.
 Malbenita estu ĉiu, kiu vin malbenas.  
 Benita estu ĉiu, kiu vin benas.”
 
-Tuj kiam Isaako finis beni Jakobon, kaj Jakobo ĵus eliris el la ĉeesto de Isaako, sia patro, Esavo, lia frato, venis el sia ĉasado. Li ankaŭ faris bongustan manĝaĵon kaj alportis ĝin al sia patro. Li diris al sia patro: “Leviĝu mia patro, kaj manĝu el la ĉasaĵo de sia filo, por ke via animo min benu.”
+Tuj kiam Izaako finis beni Jakobon, kaj Jakobo ĵus eliris el la ĉeesto de Izaako, sia patro, Esavo, lia frato, venis el sia ĉasado. Li ankaŭ faris bongustan manĝaĵon kaj alportis ĝin al sia patro. Li diris al sia patro: “Leviĝu mia patro, kaj manĝu el la ĉasaĵo de sia filo, por ke via animo min benu.”
 
-Isaako, lia patro, diris al li: “Kiu vi estas?”
+Izaako, lia patro, diris al li: “Kiu vi estas?”
 
 Li diris: “Mi estas via filo, via unuenaskito, Esavo.”
 
-Isaako ektremis per tre forta tremo, kaj diris: “Kiu do estas tiu, kiu ĉasis ĉasaĵon kaj alportis ĝin al mi, kaj mi manĝis el ĉio antaŭ ol vi venis, kaj mi benis lin? Jes, li estos benita.”
+Izaako ektremis per tre forta tremo, kaj diris: “Kiu do estas tiu, kiu ĉasis ĉasaĵon kaj alportis ĝin al mi, kaj mi manĝis el ĉio antaŭ ol vi venis, kaj mi benis lin? Jes, li estos benita.”
 
 Kiam Esavo aŭdis la vortojn de sia patro, li ekkriis per tre granda kaj amara krio, kaj diris al sia patro: “Benu min, ankaŭ min, mia patro.”
 
@@ -688,11 +688,11 @@ Li diris: “Via frato venis kun trompo kaj forprenis vian benon.”
 
 Li diris: “Ĉu li ne prave nomiĝas Jakobo? Ĉar li delokigis min ĉi tiujn du fojojn. Li forprenis mian unuenaskitecon; jen, nun li forprenis mian benon.” Li diris: “Ĉu vi ne rezervis benon por mi?”
 
-Isaako respondis al Esavo: “Jen, mi faris lin via sinjoro, kaj ĉiujn liajn fratojn mi donis al li kiel servantojn. Mi subtenis lin per greno kaj nova vino. Kion do mi faros por vi, mia filo?”
+Izaako respondis al Esavo: “Jen, mi faris lin via sinjoro, kaj ĉiujn liajn fratojn mi donis al li kiel servantojn. Mi subtenis lin per greno kaj nova vino. Kion do mi faros por vi, mia filo?”
 
 Esavo diris al sia patro: “Ĉu vi havas nur unu benon, mia patro? Benu min, ankaŭ min, mia patro.” Esavo levis sian voĉon kaj ploris.
 
-Isaako, lia patro, respondis al li:
+Izaako, lia patro, respondis al li:
 
 “Jen, via loĝejo estos el la graseco de la tero,  
 kaj el la roso de la ĉielo de supre.  
@@ -705,17 +705,17 @@ Esavo malamis Jakobon pro la beno, per kiu lia patro benis lin. Esavo diris en s
 
 La vortoj de Esavo, ŝia pli aĝa filo, estis rakontitaj al Rebeka. Ŝi sendis kaj vokis Jakobon, sian pli junan filon, kaj diris al li: “Jen, via frato Esavo konsolas sin pri vi planante mortigi vin. Nun do, mia filo, obeu mian voĉon. Leviĝu, forkuru al Laban, mia frato, en Ĥaran. Restu ĉe li kelkajn tagojn, ĝis la furiozo de via frato foriĝos— ĝis la kolero de via frato foriĝos de vi, kaj li forgesos, kion vi faris al li. Tiam mi sendos kaj venigos vin de tie. Kial mi estu senigita je vi ambaŭ en unu tago?”
 
-Rebeka diris al Isaako: “Mi estas laca de mia vivo pro la filinoj de Ĥet. Se Jakobo prenos edzinon el la filinoj de Ĥet, kiel ĉi tiuj, el la filinoj de la lando, kian bonon faros al mi mia vivo?”
+Rebeka diris al Izaako: “Mi estas laca de mia vivo pro la filinoj de Ĥet. Se Jakobo prenos edzinon el la filinoj de Ĥet, kiel ĉi tiuj, el la filinoj de la lando, kian bonon faros al mi mia vivo?”
 
 ### Ĉapitro 28
 
-Isaako vokis Jakobon, benis lin, kaj ordonis al li: “Vi ne prenu edzinon el la filinoj de Kanaano. Leviĝu, iru al Padan-Aram, al la domo de Betuel, la patro de via patrino. Prenu al vi edzinon de tie el la filinoj de Laban, la frato de via patrino. Dio Ĉiopova benu vin, kaj faru vin fruktodona, kaj multigu vin, por ke vi fariĝu komunumo de popoloj; kaj Li donu al vi la benon de Abraham, al vi kaj al via idaro kun vi, por ke vi heredu la landon, en kiu vi migras, kiun Dio donis al Abraham.”
+Izaako vokis Jakobon, benis lin, kaj ordonis al li: “Vi ne prenu edzinon el la filinoj de Kanaano. Leviĝu, iru al Padan-Aram, al la domo de Betuel, la patro de via patrino. Prenu al vi edzinon de tie el la filinoj de Laban, la frato de via patrino. Dio Ĉiopova benu vin, kaj faru vin fruktodona, kaj multigu vin, por ke vi fariĝu komunumo de popoloj; kaj Li donu al vi la benon de Abraham, al vi kaj al via idaro kun vi, por ke vi heredu la landon, en kiu vi migras, kiun Dio donis al Abraham.”
 
-Isaako forsendis Jakobon. Li iris al Padan-Aram, al Laban, filo de Betuel la Siriano, frato de Rebeka, la patrino de Jakobo kaj Esav.
+Izaako forsendis Jakobon. Li iris al Padan-Aram, al Laban, filo de Betuel la Siriano, frato de Rebeka, la patrino de Jakobo kaj Esav.
 
-Kaj Esav vidis, ke Isaako benis Jakobon kaj forsendis lin al Padan-Aram, por preni al li edzinon de tie, kaj ke, benante lin, li donis al li ordonon, dirante: “Vi ne prenu edzinon el la filinoj de Kanaano;” kaj ke Jakobo obeis sian patron kaj sian patrinon, kaj foriris al Padan-Aram. Esav vidis, ke la filinoj de Kanaano ne plaĉis al Isaako, lia patro. Tial Esav iris al Iŝmael, kaj prenis, krom la edzinoj, kiujn li jam havis, Mahalaton, filinon de Iŝmael, filo de Abraham, fratinon de Nebajot, por esti lia edzino.
+Kaj Esav vidis, ke Izaako benis Jakobon kaj forsendis lin al Padan-Aram, por preni al li edzinon de tie, kaj ke, benante lin, li donis al li ordonon, dirante: “Vi ne prenu edzinon el la filinoj de Kanaano;” kaj ke Jakobo obeis sian patron kaj sian patrinon, kaj foriris al Padan-Aram. Esav vidis, ke la filinoj de Kanaano ne plaĉis al Izaako, lia patro. Tial Esav iris al Iŝmael, kaj prenis, krom la edzinoj, kiujn li jam havis, Mahalaton, filinon de Iŝmael, filo de Abraham, fratinon de Nebajot, por esti lia edzino.
 
-Jakobo eliris el Beer-Ŝeba, kaj iris en la direkto de Ĥaran. Li venis al certa loko, kaj restis tie la tutan nokton, ĉar la suno subiris. Li prenis unu el la ŝtonoj de la loko, metis ĝin sub sian kapon, kaj kuŝiĝis en tiu loko por dormi. Li sonĝis, kaj jen li vidis ŝtuparon starigitan sur la tero, kies supro atingis la ĉielon. Kaj jen la anĝeloj de Dio supreniradis kaj malsupreniradis sur ĝi. Kaj jen Jehova staris super ĝi, kaj diris: “Mi estas Jehova, la Dio de Abraham, via patro, kaj la Dio de Isaako. La landon, sur kiu vi kuŝas, Mi donos al vi kaj al via idaro. Via idaro estos kiel la polvo de la tero, kaj vi disvastiĝos okcidenten kaj orienten kaj norden kaj suden. En vi kaj en via idaro estos benataj ĉiuj familioj de la tero. Kaj jen Mi estas kun vi, kaj Mi gardos vin, kien ajn vi iros, kaj Mi revenigos vin en ĉi tiun landon; ĉar Mi ne forlasos vin, ĝis Mi plenumos tion, kion Mi parolis al vi.”
+Jakobo eliris el Beer-Ŝeba, kaj iris en la direkto de Ĥaran. Li venis al certa loko, kaj restis tie la tutan nokton, ĉar la suno subiris. Li prenis unu el la ŝtonoj de la loko, metis ĝin sub sian kapon, kaj kuŝiĝis en tiu loko por dormi. Li sonĝis, kaj jen li vidis ŝtuparon starigitan sur la tero, kies supro atingis la ĉielon. Kaj jen la anĝeloj de Dio supreniradis kaj malsupreniradis sur ĝi. Kaj jen Jehova staris super ĝi, kaj diris: “Mi estas Jehova, la Dio de Abraham, via patro, kaj la Dio de Izaako. La landon, sur kiu vi kuŝas, Mi donos al vi kaj al via idaro. Via idaro estos kiel la polvo de la tero, kaj vi disvastiĝos okcidenten kaj orienten kaj norden kaj suden. En vi kaj en via idaro estos benataj ĉiuj familioj de la tero. Kaj jen Mi estas kun vi, kaj Mi gardos vin, kien ajn vi iros, kaj Mi revenigos vin en ĉi tiun landon; ĉar Mi ne forlasos vin, ĝis Mi plenumos tion, kion Mi parolis al vi.”
 
 Jakobo vekiĝis el sia dormo, kaj diris: “Certe Jehova estas en ĉi tiu loko, kaj mi ne sciis.” Li ektimis, kaj diris: “Kiel timinda estas ĉi tiu loko! Ĉi tio estas nenio alia ol la domo de Dio, kaj ĉi tio estas la pordego de la ĉielo.”
 
@@ -805,7 +805,7 @@ Kaj Jakobo sendis kaj alvokis Raĥelon kaj Lean al la kampo, al sia grego, kaj d
 
 Raĥel kaj Lea respondis al li: “Ĉu restas por ni ankoraŭ ia parto aŭ heredaĵo en la domo de nia patro? Ĉu li ne rigardas nin kiel fremdulinojn? Ĉar li vendis nin, kaj ankaŭ elspezis nian monon. Ĉar ĉiuj riĉaĵoj, kiujn Dio forprenis de nia patro, estas niaj kaj de niaj infanoj. Nun do, ĉion, kion Dio diris al vi, faru.”
 
-Tiam Jakobo leviĝis kaj sidigis siajn filojn kaj siajn edzinojn sur la kamelojn; kaj li forkondukis sian tutan brutaron kaj sian tutan havaĵon, kiun li kolektis, la brutaron, kiun li akiris en Padan-Aram, por iri al Isaako, sia patro, al la lando Kanaana. Dume Laban estis for por tondi siajn ŝafojn; kaj Raĥel ŝtelis la terafimojn, kiuj apartenis al ŝia patro.
+Tiam Jakobo leviĝis kaj sidigis siajn filojn kaj siajn edzinojn sur la kamelojn; kaj li forkondukis sian tutan brutaron kaj sian tutan havaĵon, kiun li kolektis, la brutaron, kiun li akiris en Padan-Aram, por iri al Izaako, sia patro, al la lando Kanaana. Dume Laban estis for por tondi siajn ŝafojn; kaj Raĥel ŝtelis la terafimojn, kiuj apartenis al ŝia patro.
 
 Jakobo trompis Labanon, la Sirianon, ĉar li ne sciigis al li, ke li forkuras. Kaj li fuĝis kun ĉio, kion li havis. Li leviĝis, transiris la Riveron, kaj direktis sian vizaĝon al la monto Gileado.
 
@@ -819,17 +819,17 @@ Laban eniris en la tendon de Jakobo, en la tendon de Lea, kaj en la tendon de la
 
 Jakobo koleris kaj disputis kun Laban. Jakobo respondis al Laban: “Kia estas mia kulpo? Kia estas mia peko, ke vi tiel furioze postkuris min? Nun, kiam vi traserĉis ĉiujn miajn aĵojn, kion vi trovis el ĉiuj viaj domaj aĵoj? Metu ĝin ĉi tie antaŭ miaj parencoj kaj viaj parencoj, por ke ili juĝu inter ni ambaŭ.
 
-“Ĉi tiujn dudek jarojn mi estis kun vi. Viaj ŝafinoj kaj viaj kaprinoj ne abortis, kaj mi ne manĝis la virŝafojn de viaj gregoj. Tion, kion bestoj disŝiris, mi ne alportis al vi; mi portis la perdon. El mia mano vi postulis ĝin, ĉu ŝtelitan tage ĉu ŝtelitan nokte. Tia estis mia stato: tage la sekeco min konsumis, kaj nokte la frosto; kaj mia dormo forfuĝis de miaj okuloj. Ĉi tiujn dudek jarojn mi estis en via domo. Mi servis vin dek kvar jarojn pro viaj du filinoj, kaj ses jarojn pro via grego; kaj vi ŝanĝis mian salajron dek fojojn. Se ne estus kun mi la Dio de mia patro, la Dio de Abraham, kaj la timo de Isaako, vi certe nun forsendus min malplenmane. Dio vidis mian aflikton kaj la laboron de miaj manoj, kaj riproĉis vin hieraŭ nokte.”
+“Ĉi tiujn dudek jarojn mi estis kun vi. Viaj ŝafinoj kaj viaj kaprinoj ne abortis, kaj mi ne manĝis la virŝafojn de viaj gregoj. Tion, kion bestoj disŝiris, mi ne alportis al vi; mi portis la perdon. El mia mano vi postulis ĝin, ĉu ŝtelitan tage ĉu ŝtelitan nokte. Tia estis mia stato: tage la sekeco min konsumis, kaj nokte la frosto; kaj mia dormo forfuĝis de miaj okuloj. Ĉi tiujn dudek jarojn mi estis en via domo. Mi servis vin dek kvar jarojn pro viaj du filinoj, kaj ses jarojn pro via grego; kaj vi ŝanĝis mian salajron dek fojojn. Se ne estus kun mi la Dio de mia patro, la Dio de Abraham, kaj la timo de Izaako, vi certe nun forsendus min malplenmane. Dio vidis mian aflikton kaj la laboron de miaj manoj, kaj riproĉis vin hieraŭ nokte.”
 
 Laban respondis al Jakobo: “La filinoj estas miaj filinoj, la infanoj estas miaj infanoj, la gregoj estas miaj gregoj, kaj ĉio, kion vi vidas, estas mia! Kion mi povas fari hodiaŭ al ĉi tiuj miaj filinoj aŭ al iliaj infanoj, kiujn ili naskis? Nun venu, ni faru interligon, vi kaj mi; kaj ĝi estu atestanto inter mi kaj vi.”
 
-Jakobo prenis ŝtonon kaj starigis ĝin kiel kolonon. Jakobo diris al siaj parencoj: “Kolektu ŝtonojn.” Ili prenis ŝtonojn kaj faris amason. Kaj ili manĝis tie apud la amaso. Laban nomis ĝin Jegar-Sahaduta, sed Jakobo nomis ĝin Galeed. Laban diris: “Ĉi tiu amaso estas atestanto inter mi kaj vi hodiaŭ.” Tial ĝi ricevis la nomon Galeed kaj Micpa, ĉar li diris: “Jehova gardu inter mi kaj vi, kiam ni estos fore unu de la alia. Se vi afliktos miajn filinojn, aŭ se vi prenos edzinojn krom miaj filinoj, neniu homo estas kun ni; jen, Dio estas atestanto inter mi kaj vi.” Laban diris al Jakobo: “Rigardu ĉi tiun amason, kaj rigardu la kolonon, kiun mi starigis inter mi kaj vi. Ĉi tiu amaso estu atestanto, kaj la kolono estu atestanto, ke mi ne transiros ĉi tiun amason al vi, kaj ke vi ne transiros ĉi tiun amason kaj ĉi tiun kolonon al mi, por malbono. La Dio de Abraham kaj la Dio de Naĥor, la Dio de ilia patro, juĝu inter ni.” Kaj Jakobo ĵuris per la timo de sia patro Isaako. Jakobo oferfaris oferon sur la monto kaj alvokis siajn parencojn manĝi panon. Ili manĝis panon kaj restis la tutan nokton sur la monto. Frue matene Laban leviĝis, kisis siajn filojn kaj siajn filinojn, kaj benis ilin. Laban foriris kaj revenis al sia loko.
+Jakobo prenis ŝtonon kaj starigis ĝin kiel kolonon. Jakobo diris al siaj parencoj: “Kolektu ŝtonojn.” Ili prenis ŝtonojn kaj faris amason. Kaj ili manĝis tie apud la amaso. Laban nomis ĝin Jegar-Sahaduta, sed Jakobo nomis ĝin Galeed. Laban diris: “Ĉi tiu amaso estas atestanto inter mi kaj vi hodiaŭ.” Tial ĝi ricevis la nomon Galeed kaj Micpa, ĉar li diris: “Jehova gardu inter mi kaj vi, kiam ni estos fore unu de la alia. Se vi afliktos miajn filinojn, aŭ se vi prenos edzinojn krom miaj filinoj, neniu homo estas kun ni; jen, Dio estas atestanto inter mi kaj vi.” Laban diris al Jakobo: “Rigardu ĉi tiun amason, kaj rigardu la kolonon, kiun mi starigis inter mi kaj vi. Ĉi tiu amaso estu atestanto, kaj la kolono estu atestanto, ke mi ne transiros ĉi tiun amason al vi, kaj ke vi ne transiros ĉi tiun amason kaj ĉi tiun kolonon al mi, por malbono. La Dio de Abraham kaj la Dio de Naĥor, la Dio de ilia patro, juĝu inter ni.” Kaj Jakobo ĵuris per la timo de sia patro Izaako. Jakobo oferfaris oferon sur la monto kaj alvokis siajn parencojn manĝi panon. Ili manĝis panon kaj restis la tutan nokton sur la monto. Frue matene Laban leviĝis, kisis siajn filojn kaj siajn filinojn, kaj benis ilin. Laban foriris kaj revenis al sia loko.
 
 ### Ĉapitro 32
 
 Jakobo iris sian vojon, kaj la anĝeloj de Dio renkontis lin. Kiam li ilin vidis, Jakobo diris: “Ĉi tio estas la armeo de Dio.” Kaj li nomis la lokon Mahanaim.
 
-Jakobo sendis antaŭ si mesaĝistojn al Esav, sia frato, en la landon Seir, la kampon de Edomo. Li ordonis al ili, dirante: “Tiel vi diros al mia sinjoro Esav: ‘Tiel diras via servanto Jakobo: Mi loĝis kiel fremdulo ĉe Laban kaj restis ĝis nun. Mi havas brutojn, azenojn, ŝafoarojn, virservantojn kaj servistinojn. Mi sendis por sciigi mian sinjoron, por ke mi trovu favoron antaŭ viaj okuloj.’” La mesaĝistoj revenis al Jakobo, dirante: “Ni venis al via frato Esav. Li venas renkonte al vi, kaj kvarcent viroj estas kun li.” Tiam Jakobo tre ektimis kaj maltrankviliĝis. Li dividis la homojn, kiuj estis kun li, kune kun la ŝafoaroj, la brutaroj kaj la kameloj, en du taĉmentojn. Li diris: “Se Esav venos al unu taĉmento kaj frapos ĝin, tiam la taĉmento, kiu restos, eskapos.” Jakobo diris: “Dio de mia patro Abraham kaj Dio de mia patro Isaako, ho Jehova, kiu diris al mi: ‘Revenu en vian landon kaj al viaj parencoj, kaj mi faros al vi bonon,’ mi ne estas inda je la plej malgranda el ĉiuj favorfaroj kaj je la tuta fideleco, kiujn vi montris al via servanto; ĉar kun nur mia bastono mi transiris ĉi tiun Jordanon, kaj nun mi fariĝis du taĉmentoj. Mi petas, savu min el la mano de mia frato, el la mano de Esav; ĉar mi timas lin, ke li ne venu kaj ne frapu min, la patrinojn kun la infanoj. Vi diris: ‘Mi certe faros al vi bonon kaj faros vian idaron kiel la sablon de la maro, kiu ne povas esti kalkulata pro tio, ke ĝi estas tiel multnombra.’”
+Jakobo sendis antaŭ si mesaĝistojn al Esav, sia frato, en la landon Seir, la kampon de Edomo. Li ordonis al ili, dirante: “Tiel vi diros al mia sinjoro Esav: ‘Tiel diras via servanto Jakobo: Mi loĝis kiel fremdulo ĉe Laban kaj restis ĝis nun. Mi havas brutojn, azenojn, ŝafoarojn, virservantojn kaj servistinojn. Mi sendis por sciigi mian sinjoron, por ke mi trovu favoron antaŭ viaj okuloj.’” La mesaĝistoj revenis al Jakobo, dirante: “Ni venis al via frato Esav. Li venas renkonte al vi, kaj kvarcent viroj estas kun li.” Tiam Jakobo tre ektimis kaj maltrankviliĝis. Li dividis la homojn, kiuj estis kun li, kune kun la ŝafoaroj, la brutaroj kaj la kameloj, en du taĉmentojn. Li diris: “Se Esav venos al unu taĉmento kaj frapos ĝin, tiam la taĉmento, kiu restos, eskapos.” Jakobo diris: “Dio de mia patro Abraham kaj Dio de mia patro Izaako, ho Jehova, kiu diris al mi: ‘Revenu en vian landon kaj al viaj parencoj, kaj mi faros al vi bonon,’ mi ne estas inda je la plej malgranda el ĉiuj favorfaroj kaj je la tuta fideleco, kiujn vi montris al via servanto; ĉar kun nur mia bastono mi transiris ĉi tiun Jordanon, kaj nun mi fariĝis du taĉmentoj. Mi petas, savu min el la mano de mia frato, el la mano de Esav; ĉar mi timas lin, ke li ne venu kaj ne frapu min, la patrinojn kun la infanoj. Vi diris: ‘Mi certe faros al vi bonon kaj faros vian idaron kiel la sablon de la maro, kiu ne povas esti kalkulata pro tio, ke ĝi estas tiel multnombra.’”
 
 Li restis tie tiun nokton, kaj prenis el tio, kion li havis kun si, donacon por Esav, sia frato: ducent kaprinojn kaj dudek kaprojn, ducent ŝafinojn kaj dudek virŝafojn, tridek laktokamelojn kaj iliajn idojn, kvardek bovinojn, dek virbovojn, dudek azeninojn kaj dek azenidojn. Li transdonis ilin en la manojn de siaj servantoj, ĉiun gregon aparte, kaj diris al siaj servantoj: “Iru antaŭ mi, kaj faru interspacon inter grego kaj grego.” Li ordonis al la unua, dirante: “Kiam Esav, mia frato, renkontos vin kaj demandos vin, dirante: ‘Kies vi estas? Kien vi iras? Kies estas ĉi tiuj antaŭ vi?’ tiam vi diros: ‘Ili apartenas al via servanto Jakobo. Tio estas donaco sendita al mia sinjoro Esav. Jen, li ankaŭ estas malantaŭ ni.’” Li ordonis ankaŭ al la dua kaj al la tria kaj al ĉiuj, kiuj sekvis la gregojn, dirante: “Tiel vi parolu al Esav, kiam vi lin trovos. Vi diros: ‘Kaj jen, via servanto Jakobo estas malantaŭ ni.’” Ĉar li diris: “Mi pacigos lin per la donaco, kiu iras antaŭ mi, kaj poste mi vidos lian vizaĝon. Eble li akceptos min.”
 
@@ -903,7 +903,7 @@ Tiam Jakobo diris al sia domanaro kaj al ĉiuj, kiuj estis kun li: “Forigu la 
 
 Ili donis al Jakobo ĉiujn fremdajn diojn, kiuj estis en iliaj manoj, kaj la ringojn, kiuj estis en iliaj oreloj; kaj Jakobo kaŝis ilin sub la kverko, kiu estis apud Ŝeĥem. Ili vojaĝis, kaj timo de Dio estis sur la urboj, kiuj estis ĉirkaŭ ili, kaj ili ne persekutis la filojn de Jakobo. Tiel Jakobo venis al Luz (tio estas, Bet-El), kiu estas en la lando Kanaana, li kaj ĉiuj homoj, kiuj estis kun li. Li konstruis tie altaron, kaj nomis la lokon El-Bet-El; ĉar tie Dio malkaŝiĝis al li, kiam li fuĝis de la vizaĝo de sia frato. Debora, la vartistino de Rebeka, mortis, kaj ŝi estis enterigita sub Bet-El sub la kverko; kaj ĝia nomo estis nomata Alon-Bakut.
 
-Dio aperis al Jakobo denove, kiam li venis el Padan-Aram, kaj benis lin. Dio diris al li: “Via nomo estas Jakobo. Via nomo ne plu estos Jakobo, sed via nomo estos Izraelo.” Li nomis lin Izraelo. Dio diris al li: “Mi estas Dio Ĉiopova. Fruktu kaj multiĝu. Nacio kaj aro da nacioj devenos de vi, kaj reĝoj eliros el via korpo. La landon, kiun mi donis al Abraham kaj al Isaako, mi donos al vi, kaj al via idaro post vi mi donos la landon.”
+Dio aperis al Jakobo denove, kiam li venis el Padan-Aram, kaj benis lin. Dio diris al li: “Via nomo estas Jakobo. Via nomo ne plu estos Jakobo, sed via nomo estos Izraelo.” Li nomis lin Izraelo. Dio diris al li: “Mi estas Dio Ĉiopova. Fruktu kaj multiĝu. Nacio kaj aro da nacioj devenos de vi, kaj reĝoj eliros el via korpo. La landon, kiun mi donis al Abraham kaj al Izaako, mi donos al vi, kaj al via idaro post vi mi donos la landon.”
 
 Dio supreniris for de li en la loko, kie li parolis kun li. Jakobo starigis kolonon en la loko, kie li parolis kun li, ŝtonan kolonon. Li verŝis sur ĝin verŝoferon, kaj verŝis oleon sur ĝin. Jakobo nomis la nomon de la loko, kie Dio parolis kun li, “Bet-El”.
 
@@ -911,9 +911,9 @@ Ili vojaĝis el Bet-El. Ankoraŭ restis iom da distanco por veni al Efrat, kaj R
 
 Dum ŝia animo foriris (ĉar ŝi mortis), ŝi nomis lin Benoni, sed lia patro nomis lin Benjameno. Raĥel mortis, kaj estis enterigita sur la vojo al Efrat (ankaŭ nomata Bet-Leĥem). Jakobo starigis kolonon sur ŝia tombo. Tio estas la Kolono de la tombo de Raĥel ĝis hodiaŭ. Izraelo vojaĝis, kaj etendis sian tendon trans la turo de Eder. Dum Izraelo loĝis en tiu lando, Ruben iris kaj kuŝis kun Bilha, la kromvirino de sia patro, kaj Izraelo aŭdis pri tio.
 
-Nun la filoj de Jakobo estis dek du. La filoj de Lea: Ruben (la unuenaskito de Jakobo), Simeon, Levi, Jehuda, Isaĥar, kaj Zebulun. La filoj de Raĥel: Jozefo kaj Benjameno. La filoj de Bilha (la servistino de Raĥel): Dan kaj Naftali. La filoj de Zilpa (la servistino de Lea): Gad kaj Aŝer. Tiuj estas la filoj de Jakobo, kiuj naskiĝis al li en Padan-Aram. Jakobo venis al Isaako, sia patro, al Mamre, al Kirjat-Arba (tio estas Hebron), kie Abraham kaj Isaako loĝis kiel fremduloj.
+Nun la filoj de Jakobo estis dek du. La filoj de Lea: Ruben (la unuenaskito de Jakobo), Simeon, Levi, Jehuda, Isaĥar, kaj Zebulun. La filoj de Raĥel: Jozefo kaj Benjameno. La filoj de Bilha (la servistino de Raĥel): Dan kaj Naftali. La filoj de Zilpa (la servistino de Lea): Gad kaj Aŝer. Tiuj estas la filoj de Jakobo, kiuj naskiĝis al li en Padan-Aram. Jakobo venis al Izaako, sia patro, al Mamre, al Kirjat-Arba (tio estas Hebron), kie Abraham kaj Izaako loĝis kiel fremduloj.
 
-La tagoj de Isaako estis cent okdek jaroj. Isaako ellasis la spiriton kaj mortis, kaj estis aldonita al sia popolo, maljuna kaj plena je tagoj. Esav kaj Jakobo, liaj filoj, enterigis lin.
+La tagoj de Izaako estis cent okdek jaroj. Izaako ellasis la spiriton kaj mortis, kaj estis aldonita al sia popolo, maljuna kaj plena je tagoj. Esav kaj Jakobo, liaj filoj, enterigis lin.
 
 ### Ĉapitro 36
 
@@ -1125,7 +1125,7 @@ Ili iris supren el Egiptio, kaj venis en la landon Kanaanan, al Jakobo, ilia pat
 
 ### Ĉapitro 46
 
-Izraelo vojaĝis kun ĉio, kion li havis, kaj venis al Beer-Ŝeba, kaj oferadis oferojn al la Dio de sia patro Isaako. Dio parolis al Izraelo en la noktaj vizioj, kaj diris: “Jakobo, Jakobo!”
+Izraelo vojaĝis kun ĉio, kion li havis, kaj venis al Beer-Ŝeba, kaj oferadis oferojn al la Dio de sia patro Izaako. Dio parolis al Izraelo en la noktaj vizioj, kaj diris: “Jakobo, Jakobo!”
 
 Kaj li diris: “Jen mi.”
 
@@ -1181,7 +1181,7 @@ Jozefo diris al sia patro: “Ili estas miaj filoj, kiujn Dio donis al mi ĉi ti
 
 Li diris: “Bonvolu alkonduki ilin al mi, kaj mi benos ilin.” La okuloj de Izraelo estis malhelaj pro aĝo, tiel ke li ne povis bone vidi. Jozefo alproksimigis ilin al li; kaj li kisis ilin kaj ĉirkaŭbrakis ilin. Izraelo diris al Jozefo: “Mi ne pensis, ke mi vidos vian vizaĝon; kaj jen, Dio lasis min vidi ankaŭ vian idaron.” Jozefo elkondukis ilin de inter liaj genuoj, kaj li kliniĝis vizaĝe ĝis la tero. Jozefo prenis ilin ambaŭ: Efraimon per sia dekstra mano al la maldekstra mano de Izraelo, kaj Manasen per sia maldekstra mano al la dekstra mano de Izraelo, kaj alproksimigis ilin al li. Izraelo etendis sian dekstran manon kaj metis ĝin sur la kapon de Efraimo, kiu estis la pli juna, kaj sian maldekstran manon sur la kapon de Manase, intence direktante siajn manojn, ĉar Manase estis la unuenaskito. Li benis Jozefon kaj diris:
 
-“La Dio, antaŭ kiu marŝis miaj patroj Abraham kaj Isaako,
+“La Dio, antaŭ kiu marŝis miaj patroj Abraham kaj Izaako,
 
 la Dio, kiu paŝtis min dum mia tuta vivo ĝis ĉi tiu tago,
 
@@ -1189,7 +1189,7 @@ la anĝelo, kiu elaĉetis min el ĉia malbono, benu la knabojn;
 
 kaj mia nomo estu nomata sur ili,
 
-kaj la nomo de miaj patroj Abraham kaj Isaako.
+kaj la nomo de miaj patroj Abraham kaj Izaako.
 
 Ili kresku en multon meze de la tero.”
 
@@ -1235,13 +1235,13 @@ Mi disdividos ilin en Jakobo,
 
 kaj disĵetos ilin en Izraelo.
 
-“Juda, viaj fratoj vin laŭdos.
+“Jehuda, viaj fratoj vin laŭdos.
 
 Via mano estos sur la kolo de viaj malamikoj.
 
 La filoj de via patro kliniĝos antaŭ vi.
 
-Juda estas leonido.
+Jehuda estas leonido.
 
 De la predo, mia filo, vi supreniris.
 
@@ -1251,7 +1251,7 @@ kiel leonino.
 
 Kiu lin vekos?
 
-La sceptro ne foriros de Juda,
+La sceptro ne foriros de Jehuda,
 
 nek la reganta bastono de inter liaj piedoj,
 
@@ -1357,7 +1357,7 @@ Matene li formanĝos la predon.
 
 Vespere li disdividos la rabaĵon.”
 
-Ĉiuj ĉi tiuj estas la dek du triboj de Izraelo, kaj jen kion ilia patro diris al ili kaj benis ilin. Li benis ĉiun laŭ lia propra beno. Li ordonis al ili kaj diris al ili: “Mi estas kunigota al mia popolo. Enterigu min kun miaj patroj en la kaverno, kiu estas en la kampo de Efron la Ĥetido, en la kaverno, kiu estas en la kampo de Maĥpela, kiu estas antaŭ Mamre, en la lando Kanaän, kiun Abraham aĉetis kun la kampo de Efron la Ĥetido kiel tomban lokon. Tie oni enterigis Abrahamon kaj Saran, lian edzinon. Tie oni enterigis Isaakon kaj Rebekan, lian edzinon, kaj tie mi enterigis Lean: la kampon kaj la kavernon, kiu estas en ĝi, kiuj estis aĉetitaj de la filoj de Ĥet.” Kiam Jakobo finis ordoni al siaj filoj, li tiris siajn piedojn en la liton, elspiris sian lastan spiron, kaj estis kunigita al sia popolo.
+Ĉiuj ĉi tiuj estas la dek du triboj de Izraelo, kaj jen kion ilia patro diris al ili kaj benis ilin. Li benis ĉiun laŭ lia propra beno. Li ordonis al ili kaj diris al ili: “Mi estas kunigota al mia popolo. Enterigu min kun miaj patroj en la kaverno, kiu estas en la kampo de Efron la Ĥetido, en la kaverno, kiu estas en la kampo de Maĥpela, kiu estas antaŭ Mamre, en la lando Kanaän, kiun Abraham aĉetis kun la kampo de Efron la Ĥetido kiel tomban lokon. Tie oni enterigis Abrahamon kaj Saran, lian edzinon. Tie oni enterigis Izaakon kaj Rebekan, lian edzinon, kaj tie mi enterigis Lean: la kampon kaj la kavernon, kiu estas en ĝi, kiuj estis aĉetitaj de la filoj de Ĥet.” Kiam Jakobo finis ordoni al siaj filoj, li tiris siajn piedojn en la liton, elspiris sian lastan spiron, kaj estis kunigita al sia popolo.
 
 ### Ĉapitro 50
 
@@ -1371,7 +1371,7 @@ Jozefo supreniris por enterigi sian patron; kaj kun li supreniris ĉiuj servanto
 
 Kiam la fratoj de Jozefo vidis, ke ilia patro mortis, ili diris: “Eble Jozefo malamos nin, kaj plene repagos al ni pro la tuta malbono, kiun ni faris al li.” Ili sendis mesaĝon al Jozefo, dirante: “Via patro ordonis antaŭ ol li mortis, dirante: ‘Tiel vi diros al Jozefo: “Nun, mi petas, pardonu la malobeon de viaj fratoj kaj ilian pekon, ĉar ili faris al vi malbonon.”’ Nun do, mi petas, pardonu la malobeon de la servantoj de la Dio de via patro.” Jozefo ploris, kiam ili parolis al li. Liaj fratoj ankaŭ iris kaj falis antaŭ lia vizaĝo; kaj ili diris: “Jen, ni estas viaj servantoj.” Jozefo diris al ili: “Ne timu, ĉar ĉu mi estas en la loko de Dio? Koncerne vin, vi intencis malbonon kontraŭ mi, sed Dio intencis ĝin por bono, por savi multajn homojn vivantaj, kiel okazas hodiaŭ. Nun do ne timu. Mi zorgos pri vi kaj pri viaj etuloj.” Li konsolis ilin, kaj parolis afable al ili.
 
-Jozefo loĝis en Egiption, li kaj la domo de lia patro. Jozefo vivis cent dek jarojn. Jozefo vidis la infanojn de Efraimo ĝis la tria generacio. Ankaŭ la infanoj de Maĥir, la filo de Manase, naskiĝis sur la genuoj de Jozefo. Jozefo diris al siaj fratoj: “Mi mortas, sed Dio certe vizitos vin, kaj elkondukos vin el ĉi tiu lando al la lando, pri kiu li ĵuris al Abraham, al Isaako, kaj al Jakobo.” Jozefo prenis ĵuron de la filoj de Izraelo, dirante: “Dio certe vizitos vin, kaj vi portos supren miajn ostojn de ĉi tie.” Tiel Jozefo mortis, estante cent dek jarojn aĝa, kaj oni enbalzamigis lin, kaj oni metis lin en ĉerkon en Egiption.
+Jozefo loĝis en Egiption, li kaj la domo de lia patro. Jozefo vivis cent dek jarojn. Jozefo vidis la infanojn de Efraimo ĝis la tria generacio. Ankaŭ la infanoj de Maĥir, la filo de Manase, naskiĝis sur la genuoj de Jozefo. Jozefo diris al siaj fratoj: “Mi mortas, sed Dio certe vizitos vin, kaj elkondukos vin el ĉi tiu lando al la lando, pri kiu li ĵuris al Abraham, al Izaako, kaj al Jakobo.” Jozefo prenis ĵuron de la filoj de Izraelo, dirante: “Dio certe vizitos vin, kaj vi portos supren miajn ostojn de ĉi tie.” Tiel Jozefo mortis, estante cent dek jarojn aĝa, kaj oni enbalzamigis lin, kaj oni metis lin en ĉerkon en Egiption.
 
 ## Eliro
 
@@ -1417,7 +1417,7 @@ Li diris al siaj filinoj: “Kie li estas? Kial vi forlasis la viron? Voku lin, 
 
 Mozeo kontentiĝis loĝi ĉe la viro. Li donis al Mozeo sian filinon Cipora. Ŝi naskis filon, kaj li nomis lin Gerŝom, ĉar li diris: “Mi loĝis kiel fremdulo en fremda lando.”
 
-Dum la paso de tiuj multaj tagoj la reĝo de Egiptio mortis, kaj la Izraelidoj ĝemis pro la sklaveco, kaj ili kriis, kaj ilia krio leviĝis al Dio pro la sklaveco. Dio aŭdis ilian ĝemadon, kaj Dio rememoris sian interligon kun Abraham, kun Isaako kaj kun Jakobo. Dio vidis la Izraelidojn, kaj Dio komprenis.
+Dum la paso de tiuj multaj tagoj la reĝo de Egiptio mortis, kaj la Izraelidoj ĝemis pro la sklaveco, kaj ili kriis, kaj ilia krio leviĝis al Dio pro la sklaveco. Dio aŭdis ilian ĝemadon, kaj Dio rememoris sian interligon kun Abraham, kun Izaako kaj kun Jakobo. Dio vidis la Izraelidojn, kaj Dio komprenis.
 
 ### Ĉapitro 3
 
@@ -1427,7 +1427,7 @@ Kiam Jehova vidis, ke li alvenis por rigardi, Dio vokis al li el la mezo de la a
 
 Li diris: “Jen mi.”
 
-Li diris: “Ne alproksimiĝu. Demetu viajn sandalojn, ĉar la loko, sur kiu vi staras, estas sankta tero.” Plue li diris: “Mi estas la Dio de via patro, la Dio de Abraham, la Dio de Isaako, kaj la Dio de Jakobo.”
+Li diris: “Ne alproksimiĝu. Demetu viajn sandalojn, ĉar la loko, sur kiu vi staras, estas sankta tero.” Plue li diris: “Mi estas la Dio de via patro, la Dio de Abraham, la Dio de Izaako, kaj la Dio de Jakobo.”
 
 Mozeo kaŝis sian vizaĝon, ĉar li timis rigardi Dion.
 
@@ -1439,7 +1439,7 @@ Li diris: “Certe mi estos kun vi. Kaj jen estos por vi la signo, ke mi vin sen
 
 Mozeo diris al Dio: “Jen, kiam mi venos al la Izraelidoj kaj diros al ili: ‘La Dio de viaj patroj sendis min al vi,’ kaj ili demandos min: ‘Kia estas lia nomo?’ kion mi diros al ili?”
 
-Dio diris al Mozeo: “MI ESTAS, KIU MI ESTAS,” kaj li diris: “Tiel diru al la Izraelidoj: ‘MI ESTAS sendis min al vi.’” Plue Dio diris al Mozeo: “Tiel diru al la Izraelidoj: ‘Jehova, la Dio de viaj patroj, la Dio de Abraham, la Dio de Isaako, kaj la Dio de Jakobo, sendis min al vi.’ Tio estas mia nomo por ĉiam, kaj tio estas mia memorigilo por ĉiuj generacioj. Iru kaj kunvenigu la plejaĝulojn de Izraelo, kaj diru al ili: ‘Jehova, la Dio de viaj patroj, la Dio de Abraham, de Isaako, kaj de Jakobo, aperis al mi, dirante: “Mi certe vizitis vin kaj vidis tion, kio estas farata al vi en Egiptio. Kaj mi diris: Mi elkondukos vin el la sufero de Egiptio al la lando de la Kanaanido, la Ĥetido, la Amorido, la Perizido, la Ĥivido, kaj la Jebusido, al lando fluanta per lakto kaj mielo.” ’ Ili aŭskultos vian voĉon. Vi venos, vi kaj la plejaĝuloj de Izraelo, al la reĝo de Egiptio, kaj vi diros al li: ‘Jehova, la Dio de la Hebreoj, renkontis nin. Nun do, mi petas, lasu nin iri tri tagojn da vojo en la dezerton, por ke ni oferu al Jehova, nia Dio.’ Mi scias, ke la reĝo de Egiptio ne permesos al vi iri, ne, eĉ ne per forta mano. Mi etendos mian manon kaj frapos Egiption per ĉiuj miaj mirindaĵoj, kiujn mi faros inter ili; kaj post tio li lasos vin iri. Mi donos al ĉi tiu popolo favoron antaŭ la okuloj de la Egiptoj, kaj okazos, ke kiam vi iros, vi ne iros malplenmane. Sed ĉiu virino petos de sia najbarino kaj de tiu, kiu loĝas en ŝia domo, arĝentajn juvelojn, orajn juvelojn, kaj vestojn. Vi metos ilin sur viajn filojn kaj sur viajn filinojn. Vi prirabos la Egiptojn.”
+Dio diris al Mozeo: “MI ESTAS, KIU MI ESTAS,” kaj li diris: “Tiel diru al la Izraelidoj: ‘MI ESTAS sendis min al vi.’” Plue Dio diris al Mozeo: “Tiel diru al la Izraelidoj: ‘Jehova, la Dio de viaj patroj, la Dio de Abraham, la Dio de Izaako, kaj la Dio de Jakobo, sendis min al vi.’ Tio estas mia nomo por ĉiam, kaj tio estas mia memorigilo por ĉiuj generacioj. Iru kaj kunvenigu la plejaĝulojn de Izraelo, kaj diru al ili: ‘Jehova, la Dio de viaj patroj, la Dio de Abraham, de Izaako, kaj de Jakobo, aperis al mi, dirante: “Mi certe vizitis vin kaj vidis tion, kio estas farata al vi en Egiptio. Kaj mi diris: Mi elkondukos vin el la sufero de Egiptio al la lando de la Kanaanido, la Ĥetido, la Amorido, la Perizido, la Ĥivido, kaj la Jebusido, al lando fluanta per lakto kaj mielo.” ’ Ili aŭskultos vian voĉon. Vi venos, vi kaj la plejaĝuloj de Izraelo, al la reĝo de Egiptio, kaj vi diros al li: ‘Jehova, la Dio de la Hebreoj, renkontis nin. Nun do, mi petas, lasu nin iri tri tagojn da vojo en la dezerton, por ke ni oferu al Jehova, nia Dio.’ Mi scias, ke la reĝo de Egiptio ne permesos al vi iri, ne, eĉ ne per forta mano. Mi etendos mian manon kaj frapos Egiption per ĉiuj miaj mirindaĵoj, kiujn mi faros inter ili; kaj post tio li lasos vin iri. Mi donos al ĉi tiu popolo favoron antaŭ la okuloj de la Egiptoj, kaj okazos, ke kiam vi iros, vi ne iros malplenmane. Sed ĉiu virino petos de sia najbarino kaj de tiu, kiu loĝas en ŝia domo, arĝentajn juvelojn, orajn juvelojn, kaj vestojn. Vi metos ilin sur viajn filojn kaj sur viajn filinojn. Vi prirabos la Egiptojn.”
 
 ### Ĉapitro 4
 
@@ -1457,7 +1457,7 @@ Jehova diris al Mozeo: “Etendu vian manon kaj kaptu ĝin je la vosto.”
 
 Li etendis sian manon kaj ektenis ĝin, kaj ĝi fariĝis bastono en lia mano.
 
-“Tio estas, por ke ili kredu, ke Jehova, la Dio de iliaj patroj, la Dio de Abraham, la Dio de Isaako kaj la Dio de Jakobo, aperis al vi.” Kaj Jehova diris al li plue: “Nun metu vian manon en vian sinon.”
+“Tio estas, por ke ili kredu, ke Jehova, la Dio de iliaj patroj, la Dio de Abraham, la Dio de Izaako kaj la Dio de Jakobo, aperis al vi.” Kaj Jehova diris al li plue: “Nun metu vian manon en vian sinon.”
 
 Li metis sian manon en sian sinon, kaj kiam li eltiris ĝin, jen, lia mano estis leprula, blanka kiel neĝo.
 
@@ -1517,7 +1517,7 @@ Mozeo revenis al Jehova kaj diris: “Sinjoro, kial vi alportis malfeliĉon sur 
 
 Jehova diris al Mozeo: “Nun vi vidos, kion Mi faros al Faraono; ĉar per forta mano li lasos ilin iri, kaj per forta mano li elpelos ilin el sia lando.”
 
-Dio parolis al Mozeo kaj diris al li: “Mi estas Jehova. Mi aperis al Abraham, al Isaako, kaj al Jakobo, kiel Dio Ĉiopova; sed per Mia nomo Eternulo Mi ne estis konata al ili. Mi ankaŭ starigis Mian interligon kun ili, por doni al ili la landon Kanaanan, la landon de iliaj migradoj, en kiu ili loĝis kiel fremduloj. Krome Mi aŭdis la ĝemadon de la Izraelidoj, kiujn la Egiptoj tenas en sklaveco, kaj Mi rememoris Mian interligon. Tial diru al la Izraelidoj: ‘Mi estas Jehova, kaj Mi elkondukos vin el sub la ŝarĝoj de la Egiptoj, kaj Mi liberigos vin el ilia sklaveco, kaj Mi elaĉetos vin per etendita brako kaj per grandaj juĝoj. Mi prenos vin al Mi kiel popolon. Mi estos via Dio; kaj vi scios, ke Mi estas Jehova, via Dio, kiu elkondukas vin el sub la ŝarĝoj de la Egiptoj. Mi enkondukos vin en la landon, pri kiu Mi ĵuris doni ĝin al Abraham, al Isaako, kaj al Jakobo; kaj Mi donos ĝin al vi kiel heredaĵon: Mi estas Jehova.’”
+Dio parolis al Mozeo kaj diris al li: “Mi estas Jehova. Mi aperis al Abraham, al Izaako, kaj al Jakobo, kiel Dio Ĉiopova; sed per Mia nomo Eternulo Mi ne estis konata al ili. Mi ankaŭ starigis Mian interligon kun ili, por doni al ili la landon Kanaanan, la landon de iliaj migradoj, en kiu ili loĝis kiel fremduloj. Krome Mi aŭdis la ĝemadon de la Izraelidoj, kiujn la Egiptoj tenas en sklaveco, kaj Mi rememoris Mian interligon. Tial diru al la Izraelidoj: ‘Mi estas Jehova, kaj Mi elkondukos vin el sub la ŝarĝoj de la Egiptoj, kaj Mi liberigos vin el ilia sklaveco, kaj Mi elaĉetos vin per etendita brako kaj per grandaj juĝoj. Mi prenos vin al Mi kiel popolon. Mi estos via Dio; kaj vi scios, ke Mi estas Jehova, via Dio, kiu elkondukas vin el sub la ŝarĝoj de la Egiptoj. Mi enkondukos vin en la landon, pri kiu Mi ĵuris doni ĝin al Abraham, al Izaako, kaj al Jakobo; kaj Mi donos ĝin al vi kiel heredaĵon: Mi estas Jehova.’”
 
 Mozeo tiel parolis al la Izraelidoj, sed ili ne aŭskultis Mozeon pro animpremateco kaj pro kruela sklaveco.
 
@@ -2085,7 +2085,7 @@ Jehova parolis al Mozeo: “Iru, malsupreniru; ĉar via popolo, kiun vi elkonduk
 
 Jehova diris al Mozeo: “Mi vidis ĉi tiun popolon, kaj jen, ĝi estas popolo malmolnuka. Nun do lasu min, por ke mia kolero ekflamu kontraŭ ili, kaj por ke mi ilin ekstermu; kaj el vi mi faros grandan nacion.”
 
-Mozeo petegis Jehovan, sian Dion, kaj diris: “Jehova, kial via kolero ekflamas kontraŭ via popolo, kiun vi elkondukis el la lando Egipta per granda potenco kaj per forta mano? Kial la Egiptoj parolu, dirante: ‘Por malbono li elkondukis ilin, por mortigi ilin en la montoj, kaj por ekstermi ilin de sur la tero’? Turnu vin de via furioza kolero, kaj deturnu ĉi tiun malbonon kontraŭ via popolo. Rememoru Abrahamon, Isaakon, kaj Izraelon, viajn servantojn, al kiuj vi ĵuris per vi mem, kaj diris al ili: ‘Mi multigos vian idaron kiel la stelojn de la ĉielo, kaj la tutan ĉi tiun landon, pri kiu mi parolis, mi donos al via idaro, kaj ili heredos ĝin por ĉiam.’”
+Mozeo petegis Jehovan, sian Dion, kaj diris: “Jehova, kial via kolero ekflamas kontraŭ via popolo, kiun vi elkondukis el la lando Egipta per granda potenco kaj per forta mano? Kial la Egiptoj parolu, dirante: ‘Por malbono li elkondukis ilin, por mortigi ilin en la montoj, kaj por ekstermi ilin de sur la tero’? Turnu vin de via furioza kolero, kaj deturnu ĉi tiun malbonon kontraŭ via popolo. Rememoru Abrahamon, Izaakon, kaj Izraelon, viajn servantojn, al kiuj vi ĵuris per vi mem, kaj diris al ili: ‘Mi multigos vian idaron kiel la stelojn de la ĉielo, kaj la tutan ĉi tiun landon, pri kiu mi parolis, mi donos al via idaro, kaj ili heredos ĝin por ĉiam.’”
 
 Tiam Jehova deturniĝis de la malbono, kiun li diris, ke li faros al sia popolo.
 
@@ -2111,7 +2111,7 @@ Jehova diris al Mozeo: “Kiu pekis kontraŭ mi, tiun mi elstrekos el mia libro.
 
 ### Ĉapitro 33
 
-Jehova parolis al Mozeo: “Foriru, iru supren de ĉi tie, vi kaj la popolo, kiun vi elkondukis el la lando Egipta, al la lando, pri kiu Mi ĵuris al Abraham, al Isaako kaj al Jakobo, dirante: ‘Al via idaro Mi ĝin donos.’ Mi sendos anĝelon antaŭ vi; kaj Mi elpelos la Kanaanidon, la Amoridon, la Ĥetidon, la Perizidon, la Ĥividon kaj la Jebusidon. Iru al lando fluanta per lakto kaj mielo; sed Mi ne iros supren inter vi, ĉar vi estas popolo malmolnuka, por ke Mi ne ekstermu vin sur la vojo.”
+Jehova parolis al Mozeo: “Foriru, iru supren de ĉi tie, vi kaj la popolo, kiun vi elkondukis el la lando Egipta, al la lando, pri kiu Mi ĵuris al Abraham, al Izaako kaj al Jakobo, dirante: ‘Al via idaro Mi ĝin donos.’ Mi sendos anĝelon antaŭ vi; kaj Mi elpelos la Kanaanidon, la Amoridon, la Ĥetidon, la Perizidon, la Ĥividon kaj la Jebusidon. Iru al lando fluanta per lakto kaj mielo; sed Mi ne iros supren inter vi, ĉar vi estas popolo malmolnuka, por ke Mi ne ekstermu vin sur la vojo.”
 
 Kiam la popolo aŭdis ĉi tiun malbonan sciigon, ili funebris; kaj neniu surmetis siajn juvelojn.
 
@@ -2832,7 +2832,7 @@ Jehova diris al Mozeo sur la monto Sinaj: “Parolu al la Izraelidoj, kaj diru a
 
 “‘Pri tiuj el vi, kiuj restos, mi sendos senfortiĝon en iliajn korojn en la landoj de iliaj malamikoj. La sono de pelata folio igos ilin fuĝi; kaj ili fuĝos, kiel oni fuĝas de glavo. Ili falos, kiam neniu persekutos. Ili falpuŝiĝos unu sur la alian, kvazaŭ antaŭ glavo, kiam neniu persekutos. Vi ne havos forton stari antaŭ viaj malamikoj. Vi pereos inter la nacioj. La lando de viaj malamikoj vin formanĝos. Tiuj el vi, kiuj restos, velkos pro sia maljusteco en la landoj de viaj malamikoj; kaj ankaŭ pro la maljustecoj de iliaj patroj ili velkos kun ili.
 
-“‘Se ili konfesos sian maljustecon kaj la maljustecon de siaj patroj, pro sia perfido, per kiu ili perfidis kontraŭ mi; kaj ankaŭ pro tio, ke ili iris kontraŭ mi, mi ankaŭ iris kontraŭ ili kaj enkondukis ilin en la landon de iliaj malamikoj; se tiam ilia necirkumcidita koro humiliĝos, kaj ili tiam akceptos la punon pro sia maljusteco, tiam mi rememoros mian interligon kun Jakobo, mian interligon kun Isaako, kaj ankaŭ mian interligon kun Abraham; kaj mi rememoros la landon. La lando ankaŭ estos forlasita de ili, kaj ĝuos siajn sabatojn dum ĝi kuŝos dezerta sen ili; kaj ili akceptos la punon pro sia maljusteco, ĉar ili malakceptis miajn preskribojn, kaj ilia animo abomenis miajn leĝojn. Tamen, malgraŭ ĉio tio, kiam ili estos en la lando de siaj malamikoj, mi ne malakceptos ilin, nek mi abomenos ilin, por tute ekstermi ilin kaj rompi mian interligon kun ili; ĉar mi estas Jehova, ilia Dio. Sed pro ili mi rememoros la interligon de iliaj prapatroj, kiujn mi elkondukis el la lando Egipta antaŭ la okuloj de la nacioj, por ke mi estu ilia Dio. Mi estas Jehova.’”
+“‘Se ili konfesos sian maljustecon kaj la maljustecon de siaj patroj, pro sia perfido, per kiu ili perfidis kontraŭ mi; kaj ankaŭ pro tio, ke ili iris kontraŭ mi, mi ankaŭ iris kontraŭ ili kaj enkondukis ilin en la landon de iliaj malamikoj; se tiam ilia necirkumcidita koro humiliĝos, kaj ili tiam akceptos la punon pro sia maljusteco, tiam mi rememoros mian interligon kun Jakobo, mian interligon kun Izaako, kaj ankaŭ mian interligon kun Abraham; kaj mi rememoros la landon. La lando ankaŭ estos forlasita de ili, kaj ĝuos siajn sabatojn dum ĝi kuŝos dezerta sen ili; kaj ili akceptos la punon pro sia maljusteco, ĉar ili malakceptis miajn preskribojn, kaj ilia animo abomenis miajn leĝojn. Tamen, malgraŭ ĉio tio, kiam ili estos en la lando de siaj malamikoj, mi ne malakceptos ilin, nek mi abomenos ilin, por tute ekstermi ilin kaj rompi mian interligon kun ili; ĉar mi estas Jehova, ilia Dio. Sed pro ili mi rememoros la interligon de iliaj prapatroj, kiujn mi elkondukis el la lando Egipta antaŭ la okuloj de la nacioj, por ke mi estu ilia Dio. Mi estas Jehova.’”
 
 Jen estas la leĝoj, preskriboj kaj instruoj, kiujn Jehova starigis inter li kaj la Izraelidoj sur la monto Sinaj per Mozeo.
 
@@ -4074,7 +4074,7 @@ Mozeo kaj Eleazaro, la pastro, prenis de ili la oron, ĉiujn prilaboritajn juvel
 
 La filoj de Ruben kaj la filoj de Gad havis tre grandan amason da brutoj. Ili vidis la landon de Jazer kaj la landon de Gileado; kaj jen, la loko estis loko por brutoj. Tiam la filoj de Gad kaj la filoj de Ruben venis kaj parolis al Mozeo, al Eleazaro, la pastro, kaj al la princoj de la komunumo, dirante: “Atarot, Dibon, Jazer, Nimra, Ĥeŝbon, Eleale, Sebam, Nebo kaj Beon, la lando, kiun Jehova frapis antaŭ la komunumo de Izraelo, estas lando por brutoj; kaj viaj servantoj havas brutojn.” Ili diris: “Se ni trovis favoron antaŭ viaj okuloj, ĉi tiu lando estu donita al viaj servantoj kiel posedaĵo. Ne transigu nin trans Jordanon.”
 
-Mozeo diris al la filoj de Gad kaj al la filoj de Ruben: “Ĉu viaj fratoj iru al milito, dum vi sidas ĉi tie? Kial vi senkuraĝigas la koron de la filoj de Izraelo, ke ili ne transiru en la landon, kiun Jehova donis al ili? Tiel faris viaj patroj, kiam mi sendis ilin el Kadeŝ-Barnea por rigardi la landon. Ĉar kiam ili supreniris al la valo de Eŝkol kaj vidis la landon, ili senkuraĝigis la koron de la filoj de Izraelo, por ke ili ne iru en la landon, kiun Jehova donis al ili. La kolero de Jehova ekflamis en tiu tago, kaj li ĵuris, dirante: ‘Certe neniu el la viroj, kiuj eliris el Egiptio, de dudek jaroj kaj pli, vidos la landon, pri kiu mi ĵuris al Abraham, al Isaako kaj al Jakobo; ĉar ili ne plene sekvis min; krom Kaleb, filo de Jefune, la Kenizido, kaj Joŝua, filo de Nun, ĉar ili plene sekvis Jehovan.’ La kolero de Jehova ekflamis kontraŭ Izraelo, kaj li igis ilin vagi tien kaj reen en la dezerto dum kvardek jaroj, ĝis konsumiĝis la tuta generacio, kiu faris malbonon antaŭ la okuloj de Jehova.
+Mozeo diris al la filoj de Gad kaj al la filoj de Ruben: “Ĉu viaj fratoj iru al milito, dum vi sidas ĉi tie? Kial vi senkuraĝigas la koron de la filoj de Izraelo, ke ili ne transiru en la landon, kiun Jehova donis al ili? Tiel faris viaj patroj, kiam mi sendis ilin el Kadeŝ-Barnea por rigardi la landon. Ĉar kiam ili supreniris al la valo de Eŝkol kaj vidis la landon, ili senkuraĝigis la koron de la filoj de Izraelo, por ke ili ne iru en la landon, kiun Jehova donis al ili. La kolero de Jehova ekflamis en tiu tago, kaj li ĵuris, dirante: ‘Certe neniu el la viroj, kiuj eliris el Egiptio, de dudek jaroj kaj pli, vidos la landon, pri kiu mi ĵuris al Abraham, al Izaako kaj al Jakobo; ĉar ili ne plene sekvis min; krom Kaleb, filo de Jefune, la Kenizido, kaj Joŝua, filo de Nun, ĉar ili plene sekvis Jehovan.’ La kolero de Jehova ekflamis kontraŭ Izraelo, kaj li igis ilin vagi tien kaj reen en la dezerto dum kvardek jaroj, ĝis konsumiĝis la tuta generacio, kiu faris malbonon antaŭ la okuloj de Jehova.
 
 “Jen, vi leviĝis anstataŭ viaj patroj, plimultiĝo de pekemaj homoj, por pligrandigi la furiozan koleron de Jehova kontraŭ Izraelo. Ĉar se vi deturniĝos de post li, li denove lasos ilin en la dezerto; kaj vi pereigos ĉi tiun tutan popolon.”
 
@@ -4154,7 +4154,7 @@ La kvina libro de Mozeo, ordinare nomata Readmono
 
 ### Ĉapitro 1
 
-Jen estas la vortoj, kiujn Mozeo parolis al la tuta Izraelo trans Jordanon, en la dezerto, en la Araba kontraŭ Suf, inter Paran, Tofel, Laban, Hacerot kaj Dizahab. Estas dek unu tagoj da vojaĝo de Horeb laŭ la vojo de la monto Seir ĝis Kadeŝ-Barnea. En la kvardeka jaro, en la dek-unua monato, en la unua tago de la monato, Mozeo parolis al la Izraelidoj laŭ ĉio, kion Jehova donis al li kiel ordonon por ili, post kiam li venkobatis Sihonon, reĝon de la Amoridoj, kiu loĝis en Heŝbon, kaj Ogon, reĝon de Baŝan, kiu loĝis en Aŝtarot, ĉe Edrei. Trans Jordanon, en la lando Moabo, Mozeo komencis klarigi ĉi tiun leĝon, dirante: “Jehova, nia Dio, parolis al ni en Horeb, dirante: ‘Vi sufiĉe longe loĝis ĉe ĉi tiu monto. Turnu vin, ekvojaĝu, kaj iru al la montregiono de la Amoridoj kaj al ĉiuj lokoj proksimaj: en la Araba, en la montregiono, en la malaltejo, en la sudo, ĉe la marbordo, en la lando de la Kanaanidoj, kaj en Libano ĝis la granda rivero, la rivero Eŭfrato. Jen, mi metis la landon antaŭ vin. Eniru kaj ekposedu la landon, pri kiu Jehova ĵuris al viaj patroj—al Abraham, al Isaako kaj al Jakobo—doni ĝin al ili kaj al ilia idaro post ili.’”
+Jen estas la vortoj, kiujn Mozeo parolis al la tuta Izraelo trans Jordanon, en la dezerto, en la Araba kontraŭ Suf, inter Paran, Tofel, Laban, Hacerot kaj Dizahab. Estas dek unu tagoj da vojaĝo de Horeb laŭ la vojo de la monto Seir ĝis Kadeŝ-Barnea. En la kvardeka jaro, en la dek-unua monato, en la unua tago de la monato, Mozeo parolis al la Izraelidoj laŭ ĉio, kion Jehova donis al li kiel ordonon por ili, post kiam li venkobatis Sihonon, reĝon de la Amoridoj, kiu loĝis en Heŝbon, kaj Ogon, reĝon de Baŝan, kiu loĝis en Aŝtarot, ĉe Edrei. Trans Jordanon, en la lando Moabo, Mozeo komencis klarigi ĉi tiun leĝon, dirante: “Jehova, nia Dio, parolis al ni en Horeb, dirante: ‘Vi sufiĉe longe loĝis ĉe ĉi tiu monto. Turnu vin, ekvojaĝu, kaj iru al la montregiono de la Amoridoj kaj al ĉiuj lokoj proksimaj: en la Araba, en la montregiono, en la malaltejo, en la sudo, ĉe la marbordo, en la lando de la Kanaanidoj, kaj en Libano ĝis la granda rivero, la rivero Eŭfrato. Jen, mi metis la landon antaŭ vin. Eniru kaj ekposedu la landon, pri kiu Jehova ĵuris al viaj patroj—al Abraham, al Izaako kaj al Jakobo—doni ĝin al ili kaj al ilia idaro post ili.’”
 
 Mi parolis al vi en tiu tempo, dirante: “Mi ne povas porti vin sola. Jehova, via Dio, multigis vin, kaj jen, vi estas hodiaŭ kiel la steloj de la ĉielo pro multo. Jehova, la Dio de viaj patroj, faru vin miloble pli multnombraj ol vi estas, kaj benu vin, kiel li promesis al vi! Kiel mi sola povas porti viajn problemojn, viajn ŝarĝojn kaj viajn disputojn? Prenu saĝajn, prudentajn virojn, kiuj estas respektataj inter viaj triboj, kaj mi faros ilin estroj super vi.”
 
@@ -4268,7 +4268,7 @@ Jen estas la ordonoj, la leĝoj kaj la juĝoj, kiujn Jehova, via Dio, ordonis in
 
 Aŭskultu, ho Izraelo: Jehova estas nia Dio; Jehova estas unu. Kaj vi amu Jehovan, vian Dion, per via tuta koro, per via tuta animo, kaj per via tuta forto. Kaj ĉi tiuj vortoj, kiujn mi ordonas al vi hodiaŭ, estu en via koro; kaj vi diligente instruu ilin al viaj infanoj, kaj parolu pri ili, kiam vi sidas en via domo, kaj kiam vi iras laŭ la vojo, kaj kiam vi kuŝiĝas, kaj kiam vi leviĝas. Kaj vi ligu ilin kiel signon sur vian manon, kaj ili estu kiel frontaj rubandoj inter viaj okuloj. Kaj vi skribu ilin sur la fostoj de via domo kaj sur viaj pordegoj.
 
-Kaj okazos, kiam Jehova, via Dio, enkondukos vin en la landon, pri kiu li ĵuris al viaj patroj—al Abraham, al Isaako kaj al Jakobo—doni ĝin al vi: grandajn kaj belajn urbojn, kiujn vi ne konstruis, kaj domojn plenajn je ĉiaj bonaj aferoj, kiujn vi ne plenigis, kaj cisternojn elhakitajn, kiujn vi ne elhakis, vinberejojn kaj olivarbojn, kiujn vi ne plantis; kaj vi manĝos kaj satiĝos—tiam gardu vin, ke vi ne forgesu Jehovan, kiu elkondukis vin el la lando Egipta, el la domo de sklaveco. Jehovan, vian Dion, vi timu; kaj al li vi servu, kaj per lia nomo vi ĵuru. Ne iru post aliaj dioj, el la dioj de la popoloj, kiuj estas ĉirkaŭ vi; ĉar Jehova, via Dio, inter vi estas ĵaluza Dio, por ke ne ekflamu kontraŭ vi la kolero de Jehova, via Dio, kaj li ne ekstermu vin de sur la vizaĝo de la tero. Ne provu Jehovan, vian Dion, kiel vi provis lin en Masa. Diligente observu la ordonojn de Jehova, via Dio, kaj liajn atestojn kaj liajn leĝojn, kiujn li ordonis al vi. Faru tion, kio estas ĝusta kaj bona en la okuloj de Jehova, por ke estu bone al vi, kaj por ke vi eniru kaj ekposedu la bonan landon, pri kiu Jehova ĵuris al viaj patroj, por forpuŝi ĉiujn viajn malamikojn de antaŭ vi, kiel Jehova diris.
+Kaj okazos, kiam Jehova, via Dio, enkondukos vin en la landon, pri kiu li ĵuris al viaj patroj—al Abraham, al Izaako kaj al Jakobo—doni ĝin al vi: grandajn kaj belajn urbojn, kiujn vi ne konstruis, kaj domojn plenajn je ĉiaj bonaj aferoj, kiujn vi ne plenigis, kaj cisternojn elhakitajn, kiujn vi ne elhakis, vinberejojn kaj olivarbojn, kiujn vi ne plantis; kaj vi manĝos kaj satiĝos—tiam gardu vin, ke vi ne forgesu Jehovan, kiu elkondukis vin el la lando Egipta, el la domo de sklaveco. Jehovan, vian Dion, vi timu; kaj al li vi servu, kaj per lia nomo vi ĵuru. Ne iru post aliaj dioj, el la dioj de la popoloj, kiuj estas ĉirkaŭ vi; ĉar Jehova, via Dio, inter vi estas ĵaluza Dio, por ke ne ekflamu kontraŭ vi la kolero de Jehova, via Dio, kaj li ne ekstermu vin de sur la vizaĝo de la tero. Ne provu Jehovan, vian Dion, kiel vi provis lin en Masa. Diligente observu la ordonojn de Jehova, via Dio, kaj liajn atestojn kaj liajn leĝojn, kiujn li ordonis al vi. Faru tion, kio estas ĝusta kaj bona en la okuloj de Jehova, por ke estu bone al vi, kaj por ke vi eniru kaj ekposedu la bonan landon, pri kiu Jehova ĵuris al viaj patroj, por forpuŝi ĉiujn viajn malamikojn de antaŭ vi, kiel Jehova diris.
 
 Kiam via filo demandos vin en estonta tempo, dirante: “Kion signifas la atestoj, la leĝoj kaj la juĝoj, kiujn Jehova, nia Dio, ordonis al vi?”—tiam diru al via filo: “Ni estis sklavoj de Faraono en Egiptio; kaj Jehova elkondukis nin el Egiptio per forta mano; kaj Jehova faris grandajn kaj timindajn signojn kaj miraklojn en Egiptio, kontraŭ Faraono kaj kontraŭ lia tuta domo, antaŭ niaj okuloj; kaj li elkondukis nin el tie, por enkonduki nin, por doni al ni la landon, pri kiu li ĵuris al niaj patroj. Kaj Jehova ordonis al ni plenumi ĉiujn ĉi tiujn leĝojn, por timi Jehovan, nian Dion, por nia bono ĉiam, por konservi nin vivantaj, kiel ni estas hodiaŭ. Kaj tio estos por ni justeco, se ni zorgos plenumi ĉiujn ĉi tiujn ordonojn antaŭ Jehova, nia Dio, kiel li ordonis al ni.”
 
@@ -4288,13 +4288,13 @@ Kaj okazos, se vi forgesos Jehovan, vian Dion, kaj iros post aliaj dioj, kaj ser
 
 Aŭskultu, Izraelo! Vi estas transironta hodiaŭ la Jordanon, por eniri kaj elpeli naciojn pli grandajn kaj pli fortajn ol vi, urbojn grandajn kaj fortikigitajn ĝis la ĉielo, popolon grandan kaj altan, la filojn de la Anakidoj, kiujn vi konas, kaj pri kiuj vi aŭdis diri: “Kiu povas stari antaŭ la filoj de Anak?” Sciu do hodiaŭ, ke Jehova, via Dio, estas tiu, kiu transiras antaŭ vi kiel konsumanta fajro. Li ilin detruos, kaj Li ilin humiligos antaŭ vi. Tiam vi ilin elpelos kaj rapide pereigos, kiel Jehova parolis al vi.
 
-Ne diru en via koro, post kiam Jehova, via Dio, elpuŝis ilin de antaŭ vi: “Pro mia justeco Jehova enkondukis min, por ekposedi ĉi tiun landon;” ĉar pro la malpieco de ĉi tiuj nacioj Jehova elpelas ilin de antaŭ vi. Ne pro via justeco aŭ pro la rekteco de via koro vi eniras, por ekposedi ilian landon; sed pro la malpieco de ĉi tiuj nacioj Jehova, via Dio, elpelas ilin de antaŭ vi, kaj por ke Li firmigu la vorton, kiun Jehova ĵuris al viaj patroj, al Abraham, al Isaako, kaj al Jakobo. Sciu do, ke Jehova, via Dio, ne donas al vi ĉi tiun bonan landon por ekposedi ĝin pro via justeco; ĉar vi estas popolo malmolnuka. Memoru, kaj ne forgesu, kiel vi incitis Jehovan, vian Dion, al kolero en la dezerto. De la tago, kiam vi eliris el la lando Egipta, ĝis vi venis al ĉi tiu loko, vi ribelis kontraŭ Jehova. Ankaŭ ĉe Ĥoreb vi incitis Jehovan al kolero, kaj Jehova koleris kontraŭ vi, por vin pereigi. Kiam mi supreniris sur la monton, por ricevi la ŝtonajn tabelojn, la tabelojn de la interligo, kiun Jehova faris kun vi, tiam mi restis sur la monto kvardek tagojn kaj kvardek noktojn; mi ne manĝis panon kaj ne trinkis akvon. Kaj Jehova donis al mi la du ŝtonajn tabelojn, skribitajn per la fingro de Dio; kaj sur ili estis ĉiuj vortoj, kiujn Jehova parolis kun vi sur la monto el la mezo de la fajro en la tago de la kunveno.
+Ne diru en via koro, post kiam Jehova, via Dio, elpuŝis ilin de antaŭ vi: “Pro mia justeco Jehova enkondukis min, por ekposedi ĉi tiun landon;” ĉar pro la malpieco de ĉi tiuj nacioj Jehova elpelas ilin de antaŭ vi. Ne pro via justeco aŭ pro la rekteco de via koro vi eniras, por ekposedi ilian landon; sed pro la malpieco de ĉi tiuj nacioj Jehova, via Dio, elpelas ilin de antaŭ vi, kaj por ke Li firmigu la vorton, kiun Jehova ĵuris al viaj patroj, al Abraham, al Izaako, kaj al Jakobo. Sciu do, ke Jehova, via Dio, ne donas al vi ĉi tiun bonan landon por ekposedi ĝin pro via justeco; ĉar vi estas popolo malmolnuka. Memoru, kaj ne forgesu, kiel vi incitis Jehovan, vian Dion, al kolero en la dezerto. De la tago, kiam vi eliris el la lando Egipta, ĝis vi venis al ĉi tiu loko, vi ribelis kontraŭ Jehova. Ankaŭ ĉe Ĥoreb vi incitis Jehovan al kolero, kaj Jehova koleris kontraŭ vi, por vin pereigi. Kiam mi supreniris sur la monton, por ricevi la ŝtonajn tabelojn, la tabelojn de la interligo, kiun Jehova faris kun vi, tiam mi restis sur la monto kvardek tagojn kaj kvardek noktojn; mi ne manĝis panon kaj ne trinkis akvon. Kaj Jehova donis al mi la du ŝtonajn tabelojn, skribitajn per la fingro de Dio; kaj sur ili estis ĉiuj vortoj, kiujn Jehova parolis kun vi sur la monto el la mezo de la fajro en la tago de la kunveno.
 
 Kaj post la fino de la kvardek tagoj kaj la kvardek noktoj Jehova donis al mi la du ŝtonajn tabelojn, la tabelojn de la interligo. Kaj Jehova diris al mi: “Leviĝu, malsupreniru rapide de ĉi tie; ĉar via popolo, kiun vi elkondukis el Egiptio, malboniĝis. Ili rapide deturniĝis de la vojo, kiun Mi ordonis al ili; ili faris al si fanditan idolon!”
 
 Kaj plue Jehova parolis al mi, dirante: “Mi vidis ĉi tiun popolon, kaj jen ĝi estas popolo malmolnuka. Lasu Min, por ke Mi ilin pereigu kaj forviŝu ilian nomon de sub la ĉielo; kaj Mi faros el vi nacion pli fortan kaj pli grandan ol ili.”
 
-Tiam mi turniĝis kaj malsupreniris de la monto; kaj la monto brulis per fajro. Kaj la du tabeloj de la interligo estis en miaj du manoj. Kaj mi rigardis, kaj jen vi pekis kontraŭ Jehova, via Dio; vi faris al vi fanditan bovidon; vi rapide deturniĝis de la vojo, kiun Jehova ordonis al vi. Kaj mi prenis la du tabelojn, kaj ĵetis ilin el miaj du manoj, kaj rompis ilin antaŭ viaj okuloj. Kaj mi falis antaŭ Jehova, kiel la unuan fojon, kvardek tagojn kaj kvardek noktojn; mi ne manĝis panon kaj ne trinkis akvon, pro ĉiuj viaj pekoj, kiujn vi pekis, farante tion, kio estas malbona antaŭ la okuloj de Jehova, por inciti Lin al kolero. Ĉar mi timis pro la kolero kaj la furioza indigno, per kiuj Jehova koleris kontraŭ vi, por vin pereigi. Sed Jehova aŭskultis min ankaŭ tiun fojon. Kaj Jehova koleris ankaŭ kontraŭ Arono sufiĉe, por lin pereigi; kaj mi preĝis ankaŭ por Arono en tiu tempo. Kaj mi prenis vian pekon, la bovidon, kiun vi faris, kaj bruligis ĝin per fajro, kaj disbatis ĝin, muelante ĝin tre fajne, ĝis ĝi fariĝis kiel polvo; kaj mi ĵetis ĝian polvon en la torenton, kiu malsupreniris de la monto. Ĉe Tabera, ĉe Masa, kaj ĉe Kibrot-Hataava vi incitis Jehovan al kolero. Kaj kiam Jehova sendis vin el Kadeŝ-Barnea, dirante: “Supreniru kaj ekposedu la landon, kiun Mi donis al vi,” tiam vi ribelis kontraŭ la ordono de Jehova, via Dio, kaj vi ne kredis al Li kaj ne aŭskultis Lian voĉon. Vi estis ribelaj kontraŭ Jehova de la tago, kiam mi ekkonis vin. Kaj mi falis antaŭ Jehova dum la kvardek tagoj kaj la kvardek noktoj, dum kiuj mi falis, ĉar Jehova diris, ke Li vin pereigos. Kaj mi preĝis al Jehova, kaj diris: “Sinjoro Eternulo, ne pereigu Vian popolon kaj Vian heredaĵon, kiun Vi elaĉetis per Via grandeco, kiun Vi elkondukis el Egiptio per forta mano. Rememoru Viajn servantojn, Abrahamon, Isaakon, kaj Jakobon; ne rigardu la obstinecon de ĉi tiu popolo, nek ĝian malpiecon, nek ĝian pekon; por ke la lando, el kiu Vi nin elkondukis, ne diru: ‘Ĉar Jehova ne povis enkonduki ilin en la landon, kiun Li promesis al ili, kaj ĉar Li malamis ilin, Li elkondukis ilin, por mortigi ilin en la dezerto.’ Tamen ili estas Via popolo kaj Via heredaĵo, kiun Vi elkondukis per Via granda forto kaj per Via etendita brako.”
+Tiam mi turniĝis kaj malsupreniris de la monto; kaj la monto brulis per fajro. Kaj la du tabeloj de la interligo estis en miaj du manoj. Kaj mi rigardis, kaj jen vi pekis kontraŭ Jehova, via Dio; vi faris al vi fanditan bovidon; vi rapide deturniĝis de la vojo, kiun Jehova ordonis al vi. Kaj mi prenis la du tabelojn, kaj ĵetis ilin el miaj du manoj, kaj rompis ilin antaŭ viaj okuloj. Kaj mi falis antaŭ Jehova, kiel la unuan fojon, kvardek tagojn kaj kvardek noktojn; mi ne manĝis panon kaj ne trinkis akvon, pro ĉiuj viaj pekoj, kiujn vi pekis, farante tion, kio estas malbona antaŭ la okuloj de Jehova, por inciti Lin al kolero. Ĉar mi timis pro la kolero kaj la furioza indigno, per kiuj Jehova koleris kontraŭ vi, por vin pereigi. Sed Jehova aŭskultis min ankaŭ tiun fojon. Kaj Jehova koleris ankaŭ kontraŭ Arono sufiĉe, por lin pereigi; kaj mi preĝis ankaŭ por Arono en tiu tempo. Kaj mi prenis vian pekon, la bovidon, kiun vi faris, kaj bruligis ĝin per fajro, kaj disbatis ĝin, muelante ĝin tre fajne, ĝis ĝi fariĝis kiel polvo; kaj mi ĵetis ĝian polvon en la torenton, kiu malsupreniris de la monto. Ĉe Tabera, ĉe Masa, kaj ĉe Kibrot-Hataava vi incitis Jehovan al kolero. Kaj kiam Jehova sendis vin el Kadeŝ-Barnea, dirante: “Supreniru kaj ekposedu la landon, kiun Mi donis al vi,” tiam vi ribelis kontraŭ la ordono de Jehova, via Dio, kaj vi ne kredis al Li kaj ne aŭskultis Lian voĉon. Vi estis ribelaj kontraŭ Jehova de la tago, kiam mi ekkonis vin. Kaj mi falis antaŭ Jehova dum la kvardek tagoj kaj la kvardek noktoj, dum kiuj mi falis, ĉar Jehova diris, ke Li vin pereigos. Kaj mi preĝis al Jehova, kaj diris: “Sinjoro Eternulo, ne pereigu Vian popolon kaj Vian heredaĵon, kiun Vi elaĉetis per Via grandeco, kiun Vi elkondukis el Egiptio per forta mano. Rememoru Viajn servantojn, Abrahamon, Izaakon, kaj Jakobon; ne rigardu la obstinecon de ĉi tiu popolo, nek ĝian malpiecon, nek ĝian pekon; por ke la lando, el kiu Vi nin elkondukis, ne diru: ‘Ĉar Jehova ne povis enkonduki ilin en la landon, kiun Li promesis al ili, kaj ĉar Li malamis ilin, Li elkondukis ilin, por mortigi ilin en la dezerto.’ Tamen ili estas Via popolo kaj Via heredaĵo, kiun Vi elkondukis per Via granda forto kaj per Via etendita brako.”
 
 ### Ĉapitro 10
 
@@ -4556,7 +4556,7 @@ Sed okazos, se vi ne aŭskultos la voĉon de Jehova, via Dio, por observi kaj fa
 
 Jen estas la vortoj de la interligo, kiun Jehova ordonis al Mozeo fari kun la Izraelidoj en la lando Moabo, krom la interligo, kiun li faris kun ili ĉe Ĥoreb. Mozeo alvokis la tutan Izraelon kaj diris al ili:
 
-Viaj okuloj vidis ĉion, kion Jehova faris en la lando Egipta al Faraono, al ĉiuj liaj servantoj kaj al lia tuta lando: la grandajn provoj, kiujn viaj okuloj vidis, la signojn kaj tiujn grandajn mirindaĵojn. Sed ĝis hodiaŭ Jehova ne donis al vi koron por kompreni, okulojn por vidi kaj orelojn por aŭdi. Mi kondukis vin kvardek jarojn en la dezerto. Viaj vestoj ne eluziĝis sur vi, kaj viaj sandaloj ne eluziĝis sur viaj piedoj. Vi ne manĝis panon, nek trinkis vinon aŭ fortan trinkaĵon, por ke vi sciu, ke mi estas Jehova, via Dio. Kiam vi venis al ĉi tiu loko, Siĥon, reĝo de Ĥeŝbon, kaj Og, reĝo de Baŝan, eliris kontraŭ nin por batali, kaj ni frapis ilin. Ni prenis ilian landon kaj donis ĝin kiel heredaĵon al la Rubenidoj, al la Gadidoj kaj al la duontribo de la Manasidoj. Tial observu la vortojn de ĉi tiu interligo kaj plenumu ilin, por ke vi prosperu en ĉio, kion vi faras. Vi ĉiuj staras hodiaŭ antaŭ Jehova, via Dio: viaj ĉefoj, viaj triboj, viaj pliaĝuloj kaj viaj oficistoj, ĉiuj viroj de Izraelo, viaj infanetoj, viaj edzinoj, kaj la fremduloj, kiuj estas meze de viaj tendaroj, de tiu, kiu hakas vian lignon, ĝis tiu, kiu ĉerpas vian akvon; por ke vi eniru en la interligon de Jehova, via Dio, kaj en lian ĵuron, kiun Jehova, via Dio, faras kun vi hodiaŭ; por ke li starigu vin hodiaŭ kiel sian popolon, kaj por ke li estu via Dio, kiel li parolis al vi kaj kiel li ĵuris al viaj patroj, al Abraham, al Isaako kaj al Jakobo. Kaj ne kun vi solaj mi faras ĉi tiun interligon kaj ĉi tiun ĵuron, sed kun tiuj, kiuj staras ĉi tie kun ni hodiaŭ antaŭ Jehova, nia Dio, kaj ankaŭ kun tiuj, kiuj ne estas ĉi tie kun ni hodiaŭ (ĉar vi scias, kiel ni loĝis en la lando Egipta, kaj kiel ni trairis meze de la nacioj, tra kiuj vi pasis; kaj vi vidis iliajn abomenaĵojn kaj iliajn idolojn el ligno, ŝtono, arĝento kaj oro, kiuj estis inter ili); por ke ne estu inter vi viro, virino, familio aŭ tribo, kies koro hodiaŭ deturniĝas de Jehova, nia Dio, por iri servi la diojn de tiuj nacioj; por ke ne estu inter vi radiko, kiu produktas amaran venenon; kaj okazu, kiam li aŭdas la vortojn de ĉi tiu malbeno, ke li benas sin en sia koro, dirante: “Mi havos pacon, kvankam mi iras laŭ la obstineco de mia koro,” por pereigi la malsekan kune kun la seka. Jehova ne pardonos al li; sed tiam la kolero de Jehova kaj lia ĵaluzo fumos kontraŭ tiu homo, kaj ĉiu malbeno, skribita en ĉi tiu libro, falos sur lin, kaj Jehova forviŝos lian nomon el sub la ĉielo. Jehova apartigos lin por malbono el ĉiuj triboj de Izraelo, laŭ ĉiuj malbenoj de la interligo, skribitaj en ĉi tiu libro de la leĝo.
+Viaj okuloj vidis ĉion, kion Jehova faris en la lando Egipta al Faraono, al ĉiuj liaj servantoj kaj al lia tuta lando: la grandajn provoj, kiujn viaj okuloj vidis, la signojn kaj tiujn grandajn mirindaĵojn. Sed ĝis hodiaŭ Jehova ne donis al vi koron por kompreni, okulojn por vidi kaj orelojn por aŭdi. Mi kondukis vin kvardek jarojn en la dezerto. Viaj vestoj ne eluziĝis sur vi, kaj viaj sandaloj ne eluziĝis sur viaj piedoj. Vi ne manĝis panon, nek trinkis vinon aŭ fortan trinkaĵon, por ke vi sciu, ke mi estas Jehova, via Dio. Kiam vi venis al ĉi tiu loko, Siĥon, reĝo de Ĥeŝbon, kaj Og, reĝo de Baŝan, eliris kontraŭ nin por batali, kaj ni frapis ilin. Ni prenis ilian landon kaj donis ĝin kiel heredaĵon al la Rubenidoj, al la Gadidoj kaj al la duontribo de la Manasidoj. Tial observu la vortojn de ĉi tiu interligo kaj plenumu ilin, por ke vi prosperu en ĉio, kion vi faras. Vi ĉiuj staras hodiaŭ antaŭ Jehova, via Dio: viaj ĉefoj, viaj triboj, viaj pliaĝuloj kaj viaj oficistoj, ĉiuj viroj de Izraelo, viaj infanetoj, viaj edzinoj, kaj la fremduloj, kiuj estas meze de viaj tendaroj, de tiu, kiu hakas vian lignon, ĝis tiu, kiu ĉerpas vian akvon; por ke vi eniru en la interligon de Jehova, via Dio, kaj en lian ĵuron, kiun Jehova, via Dio, faras kun vi hodiaŭ; por ke li starigu vin hodiaŭ kiel sian popolon, kaj por ke li estu via Dio, kiel li parolis al vi kaj kiel li ĵuris al viaj patroj, al Abraham, al Izaako kaj al Jakobo. Kaj ne kun vi solaj mi faras ĉi tiun interligon kaj ĉi tiun ĵuron, sed kun tiuj, kiuj staras ĉi tie kun ni hodiaŭ antaŭ Jehova, nia Dio, kaj ankaŭ kun tiuj, kiuj ne estas ĉi tie kun ni hodiaŭ (ĉar vi scias, kiel ni loĝis en la lando Egipta, kaj kiel ni trairis meze de la nacioj, tra kiuj vi pasis; kaj vi vidis iliajn abomenaĵojn kaj iliajn idolojn el ligno, ŝtono, arĝento kaj oro, kiuj estis inter ili); por ke ne estu inter vi viro, virino, familio aŭ tribo, kies koro hodiaŭ deturniĝas de Jehova, nia Dio, por iri servi la diojn de tiuj nacioj; por ke ne estu inter vi radiko, kiu produktas amaran venenon; kaj okazu, kiam li aŭdas la vortojn de ĉi tiu malbeno, ke li benas sin en sia koro, dirante: “Mi havos pacon, kvankam mi iras laŭ la obstineco de mia koro,” por pereigi la malsekan kune kun la seka. Jehova ne pardonos al li; sed tiam la kolero de Jehova kaj lia ĵaluzo fumos kontraŭ tiu homo, kaj ĉiu malbeno, skribita en ĉi tiu libro, falos sur lin, kaj Jehova forviŝos lian nomon el sub la ĉielo. Jehova apartigos lin por malbono el ĉiuj triboj de Izraelo, laŭ ĉiuj malbenoj de la interligo, skribitaj en ĉi tiu libro de la leĝo.
 
 La estonta generacio — viaj infanoj, kiuj leviĝos post vi, kaj la fremdulo, kiu venos el fora lando — diros, kiam ili vidos la plagojn de tiu lando kaj la malsanojn, per kiuj Jehova malsanigis ĝin, ke ĝia tuta lando estas sulfuro, salo kaj brulado; ke ĝi ne estas semata, ne donas frukton, kaj neniu herbo kreskas en ĝi, kiel ĉe la renverso de Sodom, Gomora, Adma kaj Ceboim, kiujn Jehova renversis en sia kolero kaj en sia furiozo. Eĉ ĉiuj nacioj diros: “Kial Jehova faris tion al ĉi tiu lando? Kion signifas la ardo de ĉi tiu granda kolero?”
 
@@ -4568,7 +4568,7 @@ La kaŝitaj aferoj apartenas al Jehova, nia Dio; sed la malkaŝitaj apartenas al
 
 Okazos, kiam ĉiuj ĉi tiuj aferoj venos sur vin—la beno kaj la malbeno, kiujn mi metis antaŭ vin—kaj vi rememoros ilin inter ĉiuj nacioj, kien Jehova, via Dio, vin forpelis, kaj vi revenos al Jehova, via Dio, kaj obeos lian voĉon laŭ ĉio, kion mi ordonas al vi hodiaŭ, vi kaj viaj infanoj, per via tuta koro kaj per via tuta animo: tiam Jehova, via Dio, liberigos vin el kaptiteco, kompatos vin, kaj revenos kaj kolektos vin el ĉiuj popoloj, inter kiuj Jehova, via Dio, vin disĵetis. Se viaj forpelitoj estus ĉe la plej fora rando de la ĉielo, de tie Jehova, via Dio, vin kolektos, kaj de tie li vin revenigos. Jehova, via Dio, enkondukos vin en la landon, kiun posedis viaj patroj, kaj vi ĝin posedos. Li faros al vi bonon kaj multigos vin pli ol viajn patrojn. Jehova, via Dio, cirkumcidos vian koron kaj la koron de via idaro, por ke vi amu Jehovan, vian Dion, per via tuta koro kaj per via tuta animo, por ke vi vivu. Jehova, via Dio, metos ĉiujn ĉi tiujn malbenojn sur viajn malamikojn kaj sur tiujn, kiuj vin malamas, kiuj vin persekutis. Vi revenos kaj obeos la voĉon de Jehova, kaj faros ĉiujn liajn ordonojn, kiujn mi ordonas al vi hodiaŭ. Jehova, via Dio, prosperigos vin en ĉiu laboro de via mano, en la frukto de via korpo, en la frukto de via bruto, kaj en la frukto de via tero, por bono; ĉar Jehova denove ĝojos pri vi por bono, kiel li ĝojis pri viaj patroj, se vi obeos la voĉon de Jehova, via Dio, por observi liajn ordonojn kaj liajn leĝojn, kiuj estas skribitaj en ĉi tiu libro de la leĝo, se vi turnos vin al Jehova, via Dio, per via tuta koro kaj per via tuta animo.
 
-Ĉar ĉi tiu ordono, kiun mi ordonas al vi hodiaŭ, ne estas tro malfacila por vi nek tro malproksima. Ĝi ne estas en la ĉielo, por ke vi diru: “Kiu supreniros por ni en la ĉielon, por alporti ĝin al ni kaj proklami ĝin al ni, por ke ni ĝin faru?” Nek ĝi estas trans la maro, por ke vi diru: “Kiu transiros por ni la maron, por alporti ĝin al ni kaj proklami ĝin al ni, por ke ni ĝin faru?” Sed la vorto estas tre proksima al vi, en via buŝo kaj en via koro, por ke vi ĝin faru. Jen, mi metis antaŭ vin hodiaŭ vivon kaj prosperon, kaj morton kaj malbonon. Ĉar mi ordonas al vi hodiaŭ ami Jehovan, vian Dion, iri laŭ liaj vojoj kaj observi liajn ordonojn, liajn leĝojn kaj liajn juĝojn, por ke vi vivu kaj multiĝu, kaj por ke Jehova, via Dio, vin benu en la lando, en kiun vi eniras por ĝin posedi. Sed se via koro deturniĝos kaj vi ne aŭskultos, sed vi estos forlogitaj kaj adoros aliajn diojn kaj servos al ili, mi anoncas al vi hodiaŭ, ke vi certe pereos. Vi ne plilongigos viajn tagojn en la lando, al kiu vi transiras Jordanon por eniri kaj posedi ĝin. Mi vokas la ĉielon kaj la teron atesti kontraŭ vi hodiaŭ, ke mi metis antaŭ vin vivon kaj morton, la benon kaj la malbenon. Tial elektu la vivon, por ke vi vivu, vi kaj via idaro: ami Jehovan, vian Dion, obei lian voĉon kaj algluiĝi al li; ĉar li estas via vivo kaj la longeco de viaj tagoj, por ke vi loĝu en la lando, pri kiu Jehova ĵuris al viaj patroj—al Abraham, al Isaako kaj al Jakobo—doni ĝin al ili.
+Ĉar ĉi tiu ordono, kiun mi ordonas al vi hodiaŭ, ne estas tro malfacila por vi nek tro malproksima. Ĝi ne estas en la ĉielo, por ke vi diru: “Kiu supreniros por ni en la ĉielon, por alporti ĝin al ni kaj proklami ĝin al ni, por ke ni ĝin faru?” Nek ĝi estas trans la maro, por ke vi diru: “Kiu transiros por ni la maron, por alporti ĝin al ni kaj proklami ĝin al ni, por ke ni ĝin faru?” Sed la vorto estas tre proksima al vi, en via buŝo kaj en via koro, por ke vi ĝin faru. Jen, mi metis antaŭ vin hodiaŭ vivon kaj prosperon, kaj morton kaj malbonon. Ĉar mi ordonas al vi hodiaŭ ami Jehovan, vian Dion, iri laŭ liaj vojoj kaj observi liajn ordonojn, liajn leĝojn kaj liajn juĝojn, por ke vi vivu kaj multiĝu, kaj por ke Jehova, via Dio, vin benu en la lando, en kiun vi eniras por ĝin posedi. Sed se via koro deturniĝos kaj vi ne aŭskultos, sed vi estos forlogitaj kaj adoros aliajn diojn kaj servos al ili, mi anoncas al vi hodiaŭ, ke vi certe pereos. Vi ne plilongigos viajn tagojn en la lando, al kiu vi transiras Jordanon por eniri kaj posedi ĝin. Mi vokas la ĉielon kaj la teron atesti kontraŭ vi hodiaŭ, ke mi metis antaŭ vin vivon kaj morton, la benon kaj la malbenon. Tial elektu la vivon, por ke vi vivu, vi kaj via idaro: ami Jehovan, vian Dion, obei lian voĉon kaj algluiĝi al li; ĉar li estas via vivo kaj la longeco de viaj tagoj, por ke vi loĝu en la lando, pri kiu Jehova ĵuris al viaj patroj—al Abraham, al Izaako kaj al Jakobo—doni ĝin al ili.
 
 ### Ĉapitro 31
 
@@ -4993,7 +4993,7 @@ Vi paŝos sur iliajn altaĵojn.”
 
 ### Ĉapitro 34
 
-Mozeo supreniris el la ebenaĵoj de Moabo al la monto Nebo, al la supro de Pisga, kiu estas kontraŭ Jerihxo. Jehova montris al li la tutan landon de Gileado ĝis Dan, kaj la tutan Naftali, kaj la landon de Efraimo kaj Manase, kaj la tutan landon de Jehuda ĝis la Okcidenta Maro, kaj la sudon, kaj la Ebenaĵon de la valo de Jerihxo, la urbo de palmarboj, ĝis Coar. Jehova diris al li: “Jen estas la lando, pri kiu mi ĵuris al Abraham, al Isaako kaj al Jakobo, dirante: ‘Mi donos ĝin al via idaro.’ Mi igis vin vidi ĝin per viaj okuloj, sed vi ne transiros tien.”
+Mozeo supreniris el la ebenaĵoj de Moabo al la monto Nebo, al la supro de Pisga, kiu estas kontraŭ Jerihxo. Jehova montris al li la tutan landon de Gileado ĝis Dan, kaj la tutan Naftali, kaj la landon de Efraimo kaj Manase, kaj la tutan landon de Jehuda ĝis la Okcidenta Maro, kaj la sudon, kaj la Ebenaĵon de la valo de Jerihxo, la urbo de palmarboj, ĝis Coar. Jehova diris al li: “Jen estas la lando, pri kiu mi ĵuris al Abraham, al Izaako kaj al Jakobo, dirante: ‘Mi donos ĝin al via idaro.’ Mi igis vin vidi ĝin per viaj okuloj, sed vi ne transiros tien.”
 
 Tiel Mozeo, la servanto de Jehova, mortis tie en la lando de Moabo, laŭ la vorto de Jehova. Kaj li enterigis lin en la valo en la lando de Moabo kontraŭ Bet-Peor; sed neniu homo scias, kie estas lia tombo ĝis la nuna tago. Mozeo havis cent dudek jarojn, kiam li mortis. Lia okulo ne malheliĝis, nek lia forto foriris. La filoj de Izraelo ploris pro Mozeo en la ebenaĵoj de Moabo tridek tagojn, ĝis finiĝis la tagoj de plorado en la funebro pro Mozeo. Joŝua, filo de Nun, estis plena de la spirito de saĝeco, ĉar Mozeo metis siajn manojn sur lin. La filoj de Izraelo aŭskultis lin kaj faris, kiel Jehova ordonis al Mozeo. De tiam ne leviĝis profeto en Izraelo simila al Mozeo, kiun Jehova konis vizaĝon kontraŭ vizaĝo, en ĉiuj signoj kaj mirindaĵoj, kiujn Jehova sendis lin fari en la lando Egipta, al Faraono kaj al ĉiuj liaj servantoj kaj al la tuta lia lando, kaj en la tuta potenca mano, kaj en ĉiuj timindaj faroj, kiujn Mozeo faris antaŭ la okuloj de la tuta Izraelo.
 
@@ -5435,7 +5435,7 @@ Post multaj tagoj, kiam Jehova donis ripozon al Izraelo de iliaj malamikoj ĉirk
 
 ### Ĉapitro 24
 
-Joŝua kunvenigis ĉiujn tribojn de Izraelo al Ŝeĥem, kaj alvokis la plejaĝulojn de Izraelo, iliajn estrojn, iliajn juĝistojn kaj iliajn oficistojn; kaj ili prezentiĝis antaŭ Dio. Joŝua diris al la tuta popolo: “Tiele diras Jehova, la Dio de Izraelo: ‘Viaj patroj iam loĝis trans la Rivero, nome Teraĥ, patro de Abraham kaj patro de Naĥor; kaj ili servis aliajn diojn. Mi prenis vian patron Abraham el trans la Rivero, kaj kondukis lin tra la tuta lando Kanaana, kaj multigis lian idaron, kaj donis al li Isaakon. Mi donis al Isaako Jakobon kaj Esaŭon; kaj mi donis al Esaŭ la monton Seir, por posedi ĝin. Jakobo kaj liaj filoj malsupreniris en Egiption.
+Joŝua kunvenigis ĉiujn tribojn de Izraelo al Ŝeĥem, kaj alvokis la plejaĝulojn de Izraelo, iliajn estrojn, iliajn juĝistojn kaj iliajn oficistojn; kaj ili prezentiĝis antaŭ Dio. Joŝua diris al la tuta popolo: “Tiele diras Jehova, la Dio de Izraelo: ‘Viaj patroj iam loĝis trans la Rivero, nome Teraĥ, patro de Abraham kaj patro de Naĥor; kaj ili servis aliajn diojn. Mi prenis vian patron Abraham el trans la Rivero, kaj kondukis lin tra la tuta lando Kanaana, kaj multigis lian idaron, kaj donis al li Izaakon. Mi donis al Izaako Jakobon kaj Esaŭon; kaj mi donis al Esaŭ la monton Seir, por posedi ĝin. Jakobo kaj liaj filoj malsupreniris en Egiption.
 
 “‘Mi sendis Mozeon kaj Aronon, kaj mi frapis Egiption per plagoj laŭ tio, kion mi faris inter ili; kaj poste mi elkondukis vin. Mi elkondukis viajn patrojn el Egiptio; kaj vi venis al la maro. La Egiptoj persekutis viajn patrojn per ĉaroj kaj rajdantoj ĝis la Ruĝa Maro. Kiam ili kriis al Jehova, li metis mallumon inter vi kaj la Egiptoj, kaj venigis la maron sur ilin kaj kovris ilin; kaj viaj okuloj vidis, kion mi faris en Egiptio. Vi loĝis en la dezerto multajn tagojn.
 
@@ -5469,17 +5469,17 @@ La Libro de Juĝistoj
 
 Post la morto de Joŝua, la filoj de Izraelo demandis al Jehova, dirante: “Kiu el ni unue iru supren kontraŭ la Kanaanidoj, por batali kontraŭ ili?”
 
-Jehova diris: “Juda iru supren. Jen, mi transdonis la landon en lian manon.”
+Jehova diris: “Jehuda iru supren. Jen, mi transdonis la landon en lian manon.”
 
-Juda diris al Simeon, sia frato: “Iru supren kun mi en mian loton, por ke ni batalu kontraŭ la Kanaanidoj; kaj ankaŭ mi iros kun vi en vian loton.” Tiam Simeon iris kun li. Juda iris supren, kaj Jehova transdonis la Kanaanidojn kaj la Perizidojn en ilian manon. Ili frapis dek mil virojn en Bezek. Ili trovis Adoni-Bezek en Bezek, kaj ili batalis kontraŭ li. Ili frapis la Kanaanidojn kaj la Perizidojn. Sed Adoni-Bezek fuĝis. Ili postkuris lin, kaptis lin, kaj detranĉis liajn dikfingrojn kaj liajn grandajn piedfingrojn. Adoni-Bezek diris: “Sepdek reĝoj, kun detranĉitaj dikfingroj kaj grandaj piedfingroj, kolektadis restaĵojn sub mia tablo. Kiel mi faris, tiel Dio faris al mi.” Ili kondukis lin al Jerusalemo, kaj li mortis tie. La filoj de Juda batalis kontraŭ Jerusalemo, prenis ĝin, frapis ĝin per la tranĉrando de la glavo, kaj ekbruligis la urbon.
+Jehuda diris al Simeon, sia frato: “Iru supren kun mi en mian loton, por ke ni batalu kontraŭ la Kanaanidoj; kaj ankaŭ mi iros kun vi en vian loton.” Tiam Simeon iris kun li. Jehuda iris supren, kaj Jehova transdonis la Kanaanidojn kaj la Perizidojn en ilian manon. Ili frapis dek mil virojn en Bezek. Ili trovis Adoni-Bezek en Bezek, kaj ili batalis kontraŭ li. Ili frapis la Kanaanidojn kaj la Perizidojn. Sed Adoni-Bezek fuĝis. Ili postkuris lin, kaptis lin, kaj detranĉis liajn dikfingrojn kaj liajn grandajn piedfingrojn. Adoni-Bezek diris: “Sepdek reĝoj, kun detranĉitaj dikfingroj kaj grandaj piedfingroj, kolektadis restaĵojn sub mia tablo. Kiel mi faris, tiel Dio faris al mi.” Ili kondukis lin al Jerusalemo, kaj li mortis tie. La filoj de Jehuda batalis kontraŭ Jerusalemo, prenis ĝin, frapis ĝin per la tranĉrando de la glavo, kaj ekbruligis la urbon.
 
-Post tio, la filoj de Juda malsupreniris por batali kontraŭ la Kanaanidoj, kiuj loĝis en la montaro, en la sudo, kaj en la malaltebenaĵo. Juda iris kontraŭ la Kanaanidoj, kiuj loĝis en Ĥebron. (La nomo de Ĥebron antaŭe estis Kirjat-Arba.) Ili frapis Ŝeŝajon, Aĥimanon, kaj Talmajon.
+Post tio, la filoj de Jehuda malsupreniris por batali kontraŭ la Kanaanidoj, kiuj loĝis en la montaro, en la sudo, kaj en la malaltebenaĵo. Jehuda iris kontraŭ la Kanaanidoj, kiuj loĝis en Ĥebron. (La nomo de Ĥebron antaŭe estis Kirjat-Arba.) Ili frapis Ŝeŝajon, Aĥimanon, kaj Talmajon.
 
 De tie li iris kontraŭ la loĝantojn de Debir. (La nomo de Debir antaŭe estis Kirjat-Sefer.) Kaleb diris: “Mi donos Aĥsan, mian filinon, kiel edzinon al la viro, kiu frapos Kirjat-Seferon kaj prenos ĝin.” Otniel, filo de Kenaz, la pli juna frato de Kaleb, prenis ĝin; kaj li donis al li Aĥsan, sian filinon, kiel edzinon.
 
 Kiam ŝi venis, ŝi instigis lin peti de ŝia patro kampon. Ŝi desaltis de sia azeno; kaj Kaleb diris al ŝi: “Kion vi deziras?”
 
-Ŝi diris al li: “Donu al mi benon; ĉar vi lokigis min en la landon de la sudo, donu al mi ankaŭ akvofontojn.” Tiam Kaleb donis al ŝi la suprajn fontojn kaj la malsuprajn fontojn. La filoj de la Kenido, la bofrato de Mozeo, iris supren el la urbo de palmoj kun la filoj de Juda en la dezerton de Juda, kiu estas sude de Arad; kaj ili iris kaj loĝis kun la popolo. Juda iris kun Simeon, sia frato, kaj ili frapis la Kanaanidojn, kiuj loĝis en Cefat, kaj tute ekstermis ĝin. La nomo de la urbo estis nomata Ĥorma. Ankaŭ Juda prenis Gazan kun ĝia teritorio, kaj Aŝkelonon kun ĝia teritorio, kaj Ekronon kun ĝia teritorio. Jehova estis kun Juda, kaj li elpelis la loĝantojn de la montaro; sed li ne povis elpeli la loĝantojn de la valo, ĉar ili havis ĉarojn el fero. Ili donis Ĥebronon al Kaleb, kiel Mozeo diris, kaj li elpelis de tie la tri filojn de Anak. La filoj de Benjameno ne elpelis la Jebusidojn, kiuj loĝis en Jerusalemo; sed la Jebusidoj loĝas kun la filoj de Benjameno en Jerusalemo ĝis hodiaŭ.
+Ŝi diris al li: “Donu al mi benon; ĉar vi lokigis min en la landon de la sudo, donu al mi ankaŭ akvofontojn.” Tiam Kaleb donis al ŝi la suprajn fontojn kaj la malsuprajn fontojn. La filoj de la Kenido, la bofrato de Mozeo, iris supren el la urbo de palmoj kun la filoj de Jehuda en la dezerton de Jehuda, kiu estas sude de Arad; kaj ili iris kaj loĝis kun la popolo. Jehuda iris kun Simeon, sia frato, kaj ili frapis la Kanaanidojn, kiuj loĝis en Cefat, kaj tute ekstermis ĝin. La nomo de la urbo estis nomata Ĥorma. Ankaŭ Jehuda prenis Gazan kun ĝia teritorio, kaj Aŝkelonon kun ĝia teritorio, kaj Ekronon kun ĝia teritorio. Jehova estis kun Jehuda, kaj li elpelis la loĝantojn de la montaro; sed li ne povis elpeli la loĝantojn de la valo, ĉar ili havis ĉarojn el fero. Ili donis Ĥebronon al Kaleb, kiel Mozeo diris, kaj li elpelis de tie la tri filojn de Anak. La filoj de Benjameno ne elpelis la Jebusidojn, kiuj loĝis en Jerusalemo; sed la Jebusidoj loĝas kun la filoj de Benjameno en Jerusalemo ĝis hodiaŭ.
 
 La domo de Jozefo ankaŭ iris supren kontraŭ Betel, kaj Jehova estis kun ili. La domo de Jozefo sendis por esplori Betelon. (La nomo de la urbo antaŭe estis Luz.) La gardistoj vidis viron eliri el la urbo, kaj ili diris al li: “Bonvolu montri al ni la enirejon en la urbon, kaj ni agos bonkore kun vi.” Li montris al ili la enirejon en la urbon, kaj ili frapis la urbon per la tranĉrando de la glavo; sed ili lasis la viron kaj lian tutan familion foriri. La viro iris en la landon de la Ĥetidoj, konstruis urbon, kaj nomis ĝian nomon Luz, kio estas ĝia nomo ĝis hodiaŭ.
 
@@ -6179,7 +6179,7 @@ Sed Benjameno ne volis aŭskulti la voĉon de siaj fratoj, la Izraelidoj. La Ben
 
 La Izraelidoj leviĝis, supreniris al Bet-El, kaj demandis konsilon de Dio. Ili demandis: “Kiu el ni supreniru unue por batali kontraŭ la Benjamenidoj?”
 
-Jehova diris: “Juda unue.”
+Jehova diris: “Jehuda unue.”
 
 La Izraelidoj leviĝis matene kaj tendumis kontraŭ Gibea. La viroj de Izraelo eliris por batali kontraŭ Benjameno; kaj la viroj de Izraelo aranĝis la batalon kontraŭ ili ĉe Gibea. La Benjamenidoj eliris el Gibea kaj en tiu tago faligis dudek du mil el la Izraelidaj viroj ĝis la tero. La popolo, la viroj de Izraelo, kuraĝigis sin kaj denove aranĝis la batalon en la loko, kie ili aranĝis sin la unuan tagon. La Izraelidoj supreniris kaj ploris antaŭ Jehova ĝis vespero; kaj ili demandis Jehova, dirante: “Ĉu mi denove alproksimiĝu por batali kontraŭ la Benjamenidoj, mia frato?”
 
@@ -7375,7 +7375,7 @@ Davido faris tiel, kiel Jehova ordonis al li, kaj frapis la Filiŝtojn de Geba �
 
 ### Ĉapitro 6
 
-Davido denove kunvenigis ĉiujn elektitajn virojn de Izraelo, tridek mil. Davido leviĝis kaj iris kun la tuta popolo, kiu estis kun li, el Baale-Juda, por suprenporti de tie la keston de Dio, kiu estas nomata per la Nomo, nome la nomo de Jehova Cebaoto, kiu sidas super la keruboj. Ili metis la keston de Dio sur novan ĉaron, kaj elportis ĝin el la domo de Abinadab, kiu estis sur la monteto; kaj Uza kaj Ahjo, la filoj de Abinadab, kondukis la novan ĉaron. Ili elportis ĝin el la domo de Abinadab, kiu estis sur la monteto, kun la kesto de Dio; kaj Ahjo iris antaŭ la kesto. Davido kaj la tuta domo de Izraelo ludis antaŭ Jehova per ĉiaspecaj instrumentoj el cipresa ligno: per harpoj, per kordinstrumentoj, per tamburinoj, per kastanjetoj, kaj per cimbaloj.
+Davido denove kunvenigis ĉiujn elektitajn virojn de Izraelo, tridek mil. Davido leviĝis kaj iris kun la tuta popolo, kiu estis kun li, el Baale-Jehuda, por suprenporti de tie la keston de Dio, kiu estas nomata per la Nomo, nome la nomo de Jehova Cebaoto, kiu sidas super la keruboj. Ili metis la keston de Dio sur novan ĉaron, kaj elportis ĝin el la domo de Abinadab, kiu estis sur la monteto; kaj Uza kaj Ahjo, la filoj de Abinadab, kondukis la novan ĉaron. Ili elportis ĝin el la domo de Abinadab, kiu estis sur la monteto, kun la kesto de Dio; kaj Ahjo iris antaŭ la kesto. Davido kaj la tuta domo de Izraelo ludis antaŭ Jehova per ĉiaspecaj instrumentoj el cipresa ligno: per harpoj, per kordinstrumentoj, per tamburinoj, per kastanjetoj, kaj per cimbaloj.
 
 Kiam ili venis al la draskejo de Nacon, Uza etendis la manon al la kesto de Dio kaj ektenis ĝin, ĉar la brutoj stumblis. La kolero de Jehova ekflamis kontraŭ Uza, kaj Dio frapis lin tie pro lia eraro; kaj li mortis tie apud la kesto de Dio. Davido ĉagreniĝis, ĉar Jehova rompis kontraŭ Uza; kaj li nomis tiun lokon Perec-Uza ĝis hodiaŭ. Davido timis Jehovan en tiu tago, kaj li diris: “Kiel la kesto de Jehova povus veni al mi?” Tial Davido ne volis movi la keston de Jehova por esti kun li en la urbo de Davido; sed Davido flankenturnis ĝin en la domon de Obed-Edomo, la Gitido. La kesto de Jehova restis en la domo de Obed-Edomo, la Gitido, tri monatojn; kaj Jehova benis Obed-Edomon kaj lian tutan domon. Oni sciigis al la reĝo Davido: “Jehova benis la domon de Obed-Edomo kaj ĉion, kio apartenas al li, pro la kesto de Dio.”
 
@@ -8609,7 +8609,7 @@ Ili kriis laŭte kaj tranĉadis sin laŭ sia kutimo per tranĉiloj kaj lancoj, �
 
 Elija diris al la tuta popolo: “Alproksimiĝu al mi!” Kaj la tuta popolo alproksimiĝis al li. Li riparis la altaron de Jehova, kiu estis disfaligita. Elija prenis dek du ŝtonojn, laŭ la nombro de la triboj de la filoj de Jakobo, al kiu venis la vorto de Jehova, dirante: “Izraelo estu via nomo.” Per la ŝtonoj li konstruis altaron en la nomo de Jehova. Li faris ĉirkaŭ la altaro fosaĵon sufiĉe grandan por enhavi du seaojn da semo. Li ordigis la lignon, dishakis la bovon kaj metis ĝin sur la lignon. Li diris: “Plenigu kvar kruĉojn per akvo, kaj verŝu ĝin sur la bruloferon kaj sur la lignon.” Li diris: “Faru tion duan fojon;” kaj ili faris tion duan fojon. Li diris: “Faru tion trian fojon;” kaj ili faris tion trian fojon. La akvo fluis ĉirkaŭ la altaro; kaj li ankaŭ plenigis la fosaĵon per akvo.
 
-En la tempo de la vespera ofero Elija, la profeto, alproksimiĝis kaj diris: “Jehova, Dio de Abraham, de Isaako kaj de Izraelo, estu konate hodiaŭ, ke Vi estas Dio en Izraelo kaj ke mi estas Via servanto, kaj ke mi faris ĉion ĉi laŭ Via vorto. Aŭskultu min, Jehova, aŭskultu min, por ke ĉi tiu popolo sciu, ke Vi, Jehova, estas Dio, kaj ke Vi returnis ilian koron.”
+En la tempo de la vespera ofero Elija, la profeto, alproksimiĝis kaj diris: “Jehova, Dio de Abraham, de Izaako kaj de Izraelo, estu konate hodiaŭ, ke Vi estas Dio en Izraelo kaj ke mi estas Via servanto, kaj ke mi faris ĉion ĉi laŭ Via vorto. Aŭskultu min, Jehova, aŭskultu min, por ke ĉi tiu popolo sciu, ke Vi, Jehova, estas Dio, kaj ke Vi returnis ilian koron.”
 
 Tiam falis la fajro de Jehova kaj konsumis la bruloferon, la lignon, la ŝtonojn kaj la polvon; kaj ĝi lekis la akvon, kiu estis en la fosaĵo. Kiam la tuta popolo vidis tion, ili falis vizaĝe. Ili diris: “Jehova, Li estas Dio! Jehova, Li estas Dio!”
 
@@ -9323,7 +9323,7 @@ Elijaŝa mortis, kaj oni enterigis lin.
 
 Nun bandoj de Moabidoj invadis la landon ĉe la eniro de la jaro. Dum oni enterigis iun viron, jen ili vidis bandon da rabistoj; kaj ili ĵetis la viron en la tombon de Elijaŝa. Tuj kiam la viro tuŝis la ostojn de Elijaŝa, li reviviĝis kaj stariĝis sur siaj piedoj.
 
-Ĥazael, reĝo de Sirio, premadis Izraelon dum ĉiuj tagoj de Jehoahaz. Sed Jehova estis favorkora al ili, kaj kompatis ilin, kaj favoris ilin pro Sia interligo kun Abraham, Isaako, kaj Jakobo, kaj ne volis ilin pereigi, kaj ankoraŭ ne forĵetis ilin de antaŭ Sia vizaĝo.
+Ĥazael, reĝo de Sirio, premadis Izraelon dum ĉiuj tagoj de Jehoahaz. Sed Jehova estis favorkora al ili, kaj kompatis ilin, kaj favoris ilin pro Sia interligo kun Abraham, Izaako, kaj Jakobo, kaj ne volis ilin pereigi, kaj ankoraŭ ne forĵetis ilin de antaŭ Sia vizaĝo.
 
 Ĥazael, reĝo de Sirio, mortis; kaj Ben-Hadad, lia filo, reĝis anstataŭ li. Jehoaŝ, filo de Jehoahaz, reprenis el la mano de Ben-Hadad, filo de Ĥazael, la urbojn, kiujn li per milito prenis el la mano de Jehoahaz, lia patro. Joaŝ frapis lin tri fojojn, kaj reprenis la urbojn de Izraelo.
 
@@ -9547,11 +9547,11 @@ La filoj de Ĥam: Kuŝ, Micraim, Put, kaj Kanaän. La filoj de Kuŝ: Seba, Ĥavi
 
 La filoj de Ŝem: Elam, Aŝur, Arpaĥŝad, Lud, Aram, Uc, Ĥul, Geter, kaj Meŝeĥ. Arpaĥŝad fariĝis patro de Ŝelaĥ, kaj Ŝelaĥ fariĝis patro de Eber. Al Eber naskiĝis du filoj: la nomo de la unu estis Peleg, ĉar en liaj tagoj la tero estis dividita; kaj la nomo de lia frato estis Joktan. Joktan fariĝis patro de Almodad, Ŝelef, Ĥacarmavet, Jeraĥ, Hadoram, Uzal, Dikla, Ebal, Abimael, Ŝeba, Ofir, Ĥavila, kaj Jobab. Ĉiuj ĉi tiuj estis la filoj de Joktan. Ŝem, Arpaĥŝad, Ŝelaĥ, Eber, Peleg, Reu, Serug, Naĥor, Teraĥ, Abramo (ankaŭ nomata Abraham).
 
-La filoj de Abraham: Isaako kaj Iŝmael. Jen iliaj generacioj: la unuenaskito de Iŝmael, Nebajot; poste Kedar, Adbeel, Mibsam, Miŝma, Duma, Masa, Hadad, Tema, Jetur, Nafiŝ, kaj Kedema. Ĉi tiuj estas la filoj de Iŝmael.
+La filoj de Abraham: Izaako kaj Iŝmael. Jen iliaj generacioj: la unuenaskito de Iŝmael, Nebajot; poste Kedar, Adbeel, Mibsam, Miŝma, Duma, Masa, Hadad, Tema, Jetur, Nafiŝ, kaj Kedema. Ĉi tiuj estas la filoj de Iŝmael.
 
 La filoj de Ketura, la kromvirino de Abraham: ŝi naskis Zimran, Jokŝan, Medan, Midjan, Iŝbak, kaj Ŝuaĥ. La filoj de Jokŝan: Ŝeba kaj Dedan. La filoj de Midjan: Efa, Efer, Ĥanoĥ, Abida, kaj Eldaa. Ĉiuj ĉi tiuj estis la filoj de Ketura.
 
-Abraham fariĝis patro de Isaako. La filoj de Isaako: Esav kaj Izraelo. La filoj de Esav: Elifaz, Reuel, Jeuŝ, Jalam, kaj Koraĥ. La filoj de Elifaz: Teman, Omar, Cefi, Gatam, Kenaz, Timna, kaj Amalek. La filoj de Reuel: Nahat, Zeraĥ, Ŝama, kaj Miza.
+Abraham fariĝis patro de Izaako. La filoj de Izaako: Esav kaj Izraelo. La filoj de Esav: Elifaz, Reuel, Jeuŝ, Jalam, kaj Koraĥ. La filoj de Elifaz: Teman, Omar, Cefi, Gatam, Kenaz, Timna, kaj Amalek. La filoj de Reuel: Nahat, Zeraĥ, Ŝama, kaj Miza.
 
 La filoj de Seir: Lotan, Ŝobal, Cibeon, Ana, Diŝon, Ecer, kaj Diŝan. La filoj de Lotan: Ĥori kaj Homam; kaj Timna estis la fratino de Lotan. La filoj de Ŝobal: Aljan, Manaĥat, Ebal, Ŝefi, kaj Onam. La filoj de Cibeon: Aja kaj Ana. La filo de Ana: Diŝon. La filoj de Diŝon: Ĥamran, Eŝban, Itran, kaj Ĥeran. La filoj de Ecer: Bilhan, Zaavan, kaj Jaakan. La filoj de Diŝan: Uc kaj Aran.
 
@@ -9613,7 +9613,7 @@ La idoj de la duontribo de Manase loĝis en la lando. Ili multiĝis de Baŝan ĝ
 
 ### Ĉapitro 6
 
-La filoj de Levi: Gerŝon, Kohat kaj Merari. La filoj de Kohat: Amram, Ichar, Ĥebron kaj Uziel. La infanoj de Amram: Arono, Mozeo kaj Mirjam. La filoj de Arono: Nadab, Abihu, Eleazaro kaj Itamar. Eleazaro fariĝis patro de Pineĥas; Pineĥas fariĝis patro de Abiŝua; Abiŝua fariĝis patro de Bukki. Bukki fariĝis patro de Uzi. Uzi fariĝis patro de Zeraĥja. Zeraĥja fariĝis patro de Merajot. Merajot fariĝis patro de Amarja. Amarja fariĝis patro de Aĥitub. Aĥitub fariĝis patro de Cadok. Cadok fariĝis patro de Aĥimaac. Aĥimaac fariĝis patro de Azarja. Azarja fariĝis patro de Joĥanan. Joĥanan fariĝis patro de Azarja, kiu plenumis la pastran oficon en la domo, kiun Salomono konstruis en Jerusalemo. Azarja fariĝis patro de Amarja. Amarja fariĝis patro de Aĥitub. Aĥitub fariĝis patro de Cadok. Cadok fariĝis patro de Ŝalum. Ŝalum fariĝis patro de Ĥilkija. Ĥilkija fariĝis patro de Azarja. Azarja fariĝis patro de Seraja. Seraja fariĝis patro de JehoCadak. JehoCadak iris en kaptitecon, kiam Jehova forkondukis Judon kaj Jerusalemon per la mano de Nebukadnecaro.
+La filoj de Levi: Gerŝon, Kohat kaj Merari. La filoj de Kohat: Amram, Ichar, Ĥebron kaj Uziel. La infanoj de Amram: Arono, Mozeo kaj Mirjam. La filoj de Arono: Nadab, Abihu, Eleazaro kaj Itamar. Eleazaro fariĝis patro de Pineĥas; Pineĥas fariĝis patro de Abiŝua; Abiŝua fariĝis patro de Bukki. Bukki fariĝis patro de Uzi. Uzi fariĝis patro de Zeraĥja. Zeraĥja fariĝis patro de Merajot. Merajot fariĝis patro de Amarja. Amarja fariĝis patro de Aĥitub. Aĥitub fariĝis patro de Cadok. Cadok fariĝis patro de Aĥimaac. Aĥimaac fariĝis patro de Azarja. Azarja fariĝis patro de Joĥanan. Joĥanan fariĝis patro de Azarja, kiu plenumis la pastran oficon en la domo, kiun Salomono konstruis en Jerusalemo. Azarja fariĝis patro de Amarja. Amarja fariĝis patro de Aĥitub. Aĥitub fariĝis patro de Cadok. Cadok fariĝis patro de Ŝalum. Ŝalum fariĝis patro de Ĥilkija. Ĥilkija fariĝis patro de Azarja. Azarja fariĝis patro de Seraja. Seraja fariĝis patro de JehoCadak. JehoCadak iris en kaptitecon, kiam Jehova forkondukis Jehudan kaj Jerusalemon per la mano de Nebukadnecaro.
 
 La filoj de Levi: Gerŝom, Kohat kaj Merari. Jen la nomoj de la filoj de Gerŝom: Libni kaj Ŝimei. La filoj de Kohat estis Amram, Ichar, Ĥebron kaj Uziel. La filoj de Merari: Maĥli kaj Muŝi. Jen la familioj de la Levidoj laŭ la domoj de iliaj patroj. De Gerŝom: Libni, lia filo; Jaĥat, lia filo; Zimma, lia filo; Joaĥ, lia filo; Ido, lia filo; Zeraĥ, lia filo; kaj Jeateraj, lia filo. La filoj de Kohat: Aminadab, lia filo; Koraĥ, lia filo; Asir, lia filo; Elkana, lia filo; Ebjasaf, lia filo; Asir, lia filo; Taĥat, lia filo; Uriel, lia filo; Uzija, lia filo; kaj Ŝaul, lia filo. La filoj de Elkana: Amasaj kaj Aĥimot. Pri Elkana: la filoj de Elkana: Cofaj, lia filo; Naĥat, lia filo; Eliab, lia filo; Jeroĥam, lia filo; kaj Elkana, lia filo. La filoj de Samuelo: la unuenaskito Joel, kaj la dua Abija. La filoj de Merari: Maĥli; Libni, lia filo; Ŝimei, lia filo; Uza, lia filo; Ŝimea, lia filo; Ĥagija, lia filo; Asaja, lia filo.
 
@@ -9803,7 +9803,7 @@ la vorton, kiun li ordonis por mil generacioj,
 
 la interligon, kiun li faris kun Abraham,
 
-lian ĵuron al Isaako.
+lian ĵuron al Izaako.
 
 Li konfirmis ĝin al Jakobo kiel statuton,
 
@@ -10039,7 +10039,7 @@ Ankaŭ Jonatan, onklo de Davido, estis konsilisto, homo komprenema, kaj skribist
 
 ### Ĉapitro 28
 
-Davido kunvenigis ĉiujn princojn de Izraelo, la princojn de la triboj, la estrojn de la taĉmentoj, kiuj servis la reĝon laŭ vicoj, la estrojn de miloj, la estrojn de centoj, kaj la regantojn super la tuta havaĵo kaj posedaĵoj de la reĝo kaj de liaj filoj, kune kun la oficistoj kaj la potenculoj, nome ĉiujn potenculojn de braveco, en Jerusalemon. Tiam Davido, la reĝo, stariĝis sur siaj piedoj kaj diris: “Aŭskultu min, miaj fratoj kaj mia popolo! Mi havis en mia koro konstrui domon de ripozo por la kesto de la interligo de Jehova, kaj por la piedbenketo de nia Dio; kaj mi pretigis por la konstruado. Sed Dio diris al mi: ‘Vi ne konstruos domon por mia nomo, ĉar vi estas militisto kaj verŝis sangon.’ Tamen Jehova, la Dio de Izraelo, elektis min el la tuta domo de mia patro, por esti reĝo super Izraelo por ĉiam. Ĉar li elektis Judon por esti estro; kaj en la domo de Juda, la domon de mia patro; kaj inter la filoj de mia patro li bonvolis al mi, por fari min reĝo super la tuta Izraelo. El ĉiuj miaj filoj (ĉar Jehova donis al mi multajn filojn) li elektis Salomonon, mian filon, por sidi sur la trono de la regno de Jehova super Izraelo. Li diris al mi: ‘Salomono, via filo, konstruos mian domon kaj miajn kortojn; ĉar mi elektis lin por esti mia filo, kaj mi estos al li patro. Mi firmigos lian regnon por ĉiam, se li persistos plenumi miajn ordonojn kaj miajn leĝojn, kiel estas hodiaŭ.’
+Davido kunvenigis ĉiujn princojn de Izraelo, la princojn de la triboj, la estrojn de la taĉmentoj, kiuj servis la reĝon laŭ vicoj, la estrojn de miloj, la estrojn de centoj, kaj la regantojn super la tuta havaĵo kaj posedaĵoj de la reĝo kaj de liaj filoj, kune kun la oficistoj kaj la potenculoj, nome ĉiujn potenculojn de braveco, en Jerusalemon. Tiam Davido, la reĝo, stariĝis sur siaj piedoj kaj diris: “Aŭskultu min, miaj fratoj kaj mia popolo! Mi havis en mia koro konstrui domon de ripozo por la kesto de la interligo de Jehova, kaj por la piedbenketo de nia Dio; kaj mi pretigis por la konstruado. Sed Dio diris al mi: ‘Vi ne konstruos domon por mia nomo, ĉar vi estas militisto kaj verŝis sangon.’ Tamen Jehova, la Dio de Izraelo, elektis min el la tuta domo de mia patro, por esti reĝo super Izraelo por ĉiam. Ĉar li elektis Jehudan por esti estro; kaj en la domo de Jehuda, la domon de mia patro; kaj inter la filoj de mia patro li bonvolis al mi, por fari min reĝo super la tuta Izraelo. El ĉiuj miaj filoj (ĉar Jehova donis al mi multajn filojn) li elektis Salomonon, mian filon, por sidi sur la trono de la regno de Jehova super Izraelo. Li diris al mi: ‘Salomono, via filo, konstruos mian domon kaj miajn kortojn; ĉar mi elektis lin por esti mia filo, kaj mi estos al li patro. Mi firmigos lian regnon por ĉiam, se li persistos plenumi miajn ordonojn kaj miajn leĝojn, kiel estas hodiaŭ.’
 
 Nun do, antaŭ la okuloj de la tuta Izraelo, en la kunveno de Jehova, kaj en la aŭdo de nia Dio, observu kaj serĉu ĉiujn ordonojn de Jehova, via Dio, por ke vi posedu ĉi tiun bonan landon kaj lasu ĝin kiel heredaĵon al viaj infanoj post vi por ĉiam.
 
@@ -10055,7 +10055,7 @@ Reĝo Davido diris al la tuta kunveno: “Salomono, mia filo, kiun sola Dio elek
 
 Tiam la ĉefoj de la patrodomoj, kaj la ĉefoj de la triboj de Izraelo, kaj la estroj de miloj kaj de centoj, kun la regantoj super la laboro de la reĝo, oferis volonte; kaj ili donis por la servo de la domo de Dio: el oro kvin mil talentojn kaj dek mil darikojn, el arĝento dek mil talentojn, el bronzo dek ok mil talentojn, kaj el fero cent mil talentojn. Tiuj, ĉe kiuj troviĝis multekostaj ŝtonoj, donis ilin al la trezoro de la domo de Jehova, sub la mano de Jehiel la Gerŝonido. Tiam la popolo ĝojis, ĉar ili oferis volonte, ĉar per perfekta koro ili oferis volonte al Jehova; kaj ankaŭ reĝo Davido ĝojis per granda ĝojo.
 
-Tial Davido benis Jehovan antaŭ la tuta kunveno; kaj Davido diris: “Benata estu vi, Jehova, Dio de Izraelo, nia patro, por ĉiam kaj eterne. Via, ho Jehova, estas la grandeco, la potenco, la gloro, la venko kaj la majesto! Ĉar ĉio, kio estas en la ĉielo kaj sur la tero, estas via. Via estas la regno, ho Jehova, kaj vi estas altigita kiel estro super ĉio. Kaj riĉeco kaj honoro venas de vi, kaj vi regas super ĉio! En via mano estas potenco kaj forto! En via mano estas fari grandaj, kaj doni forton al ĉiuj! Nun do, nia Dio, ni dankas vin kaj laŭdas vian gloran nomon. Sed kiu mi estas, kaj kio estas mia popolo, ke ni povu oferi tiel volonte? Ĉar ĉio venas de vi, kaj el via propraĵo ni donis al vi. Ĉar ni estas fremduloj antaŭ vi kaj alilandanoj, kiel ĉiuj niaj patroj. Niaj tagoj sur la tero estas kiel ombro, kaj ne estas restado. Jehova, nia Dio, ĉiu ĉi tiu provizo, kiun ni preparis por konstrui al vi domon por via sankta nomo, venas el via mano, kaj estas tute via. Mi scias ankaŭ, mia Dio, ke vi provas la koron kaj havas plezuron en rekteco. Koncerne min, en la rekteco de mia koro mi volonte oferis ĉiujn ĉi aferojn. Nun mi vidis kun ĝojo vian popolon, kiu ĉeestas ĉi tie, oferi volonte al vi. Jehova, Dio de Abraham, de Isaako kaj de Izraelo, niaj patroj, konservu ĉi tiun deziron por ĉiam en la pensoj de la koro de via popolo, kaj pretigu ilian koron por vi; kaj donu al Salomono, mia filo, perfektan koron, por observi viajn ordonojn, viajn atestojn kaj viajn leĝojn, kaj por fari ĉion ĉi, kaj por konstrui la palacon, por kiu mi faris provizon.”
+Tial Davido benis Jehovan antaŭ la tuta kunveno; kaj Davido diris: “Benata estu vi, Jehova, Dio de Izraelo, nia patro, por ĉiam kaj eterne. Via, ho Jehova, estas la grandeco, la potenco, la gloro, la venko kaj la majesto! Ĉar ĉio, kio estas en la ĉielo kaj sur la tero, estas via. Via estas la regno, ho Jehova, kaj vi estas altigita kiel estro super ĉio. Kaj riĉeco kaj honoro venas de vi, kaj vi regas super ĉio! En via mano estas potenco kaj forto! En via mano estas fari grandaj, kaj doni forton al ĉiuj! Nun do, nia Dio, ni dankas vin kaj laŭdas vian gloran nomon. Sed kiu mi estas, kaj kio estas mia popolo, ke ni povu oferi tiel volonte? Ĉar ĉio venas de vi, kaj el via propraĵo ni donis al vi. Ĉar ni estas fremduloj antaŭ vi kaj alilandanoj, kiel ĉiuj niaj patroj. Niaj tagoj sur la tero estas kiel ombro, kaj ne estas restado. Jehova, nia Dio, ĉiu ĉi tiu provizo, kiun ni preparis por konstrui al vi domon por via sankta nomo, venas el via mano, kaj estas tute via. Mi scias ankaŭ, mia Dio, ke vi provas la koron kaj havas plezuron en rekteco. Koncerne min, en la rekteco de mia koro mi volonte oferis ĉiujn ĉi aferojn. Nun mi vidis kun ĝojo vian popolon, kiu ĉeestas ĉi tie, oferi volonte al vi. Jehova, Dio de Abraham, de Izaako kaj de Izraelo, niaj patroj, konservu ĉi tiun deziron por ĉiam en la pensoj de la koro de via popolo, kaj pretigu ilian koron por vi; kaj donu al Salomono, mia filo, perfektan koron, por observi viajn ordonojn, viajn atestojn kaj viajn leĝojn, kaj por fari ĉion ĉi, kaj por konstrui la palacon, por kiu mi faris provizon.”
 
 Tiam Davido diris al la tuta kunveno: “Nun benu Jehovan, vian Dion!”
 
@@ -10555,7 +10555,7 @@ Tiam Ĥizkija respondis: “Nun vi konsekris vin al Jehova. Alproksimiĝu kaj al
 
 Ĥizkija sendis al la tuta Izraelo kaj Judio, kaj skribis leterojn ankaŭ al Efraimo kaj Manase, ke ili venu al la domo de Jehova en Jerusalemo, por celebri la Paskon al Jehova, la Dio de Izraelo. Ĉar la reĝo konsiliĝis kun siaj princoj kaj kun la tuta kunveno en Jerusalemo, por celebri la Paskon en la dua monato. Ĉar ili ne povis celebri ĝin en tiu tempo, ĉar la pastroj ne estis sanktigintaj sin en sufiĉa nombro, kaj la popolo ne estis kunveninta en Jerusalemon. La afero estis ĝusta en la okuloj de la reĝo kaj de la tuta kunveno. Tial ili starigis dekreton, por fari proklamon tra la tuta Izraelo, de Beer-Ŝeba ĝis Dan, ke oni venu por celebri la Paskon al Jehova, la Dio de Izraelo, en Jerusalemo; ĉar en granda nombro oni ne celebris ĝin laŭ la skribita ordono.
 
-Tiam la kurieroj iris kun la leteroj de la reĝo kaj de liaj princoj tra la tuta Izraelo kaj Judio, laŭ la ordono de la reĝo, dirante: “Ho Izraelidoj, revenu al Jehova, la Dio de Abraham, Isaako kaj Izraelo, por ke li revenu al la restaĵo el vi, kiu saviĝis el la mano de la reĝoj de Asirio. Ne estu kiel viaj patroj kaj kiel viaj fratoj, kiuj pekis kontraŭ Jehova, la Dio de siaj patroj, tiel ke li fordonis ilin al ruiniĝo, kiel vi vidas. Nun ne estu malmolnukaj, kiel viaj patroj, sed submetu vin al Jehova, kaj eniru en lian sanktejon, kiun li sanktigis por ĉiam, kaj servu al Jehova, via Dio, por ke lia furioza kolero deturniĝu de vi. Ĉar se vi revenos al Jehova, viaj fratoj kaj viaj infanoj trovos kompaton ĉe tiuj, kiuj forkondukis ilin kaptite, kaj ili revenos en ĉi tiun landon; ĉar Jehova, via Dio, estas favorkora kaj kompatema, kaj li ne deturnos sian vizaĝon de vi, se vi revenos al li.”
+Tiam la kurieroj iris kun la leteroj de la reĝo kaj de liaj princoj tra la tuta Izraelo kaj Judio, laŭ la ordono de la reĝo, dirante: “Ho Izraelidoj, revenu al Jehova, la Dio de Abraham, Izaako kaj Izraelo, por ke li revenu al la restaĵo el vi, kiu saviĝis el la mano de la reĝoj de Asirio. Ne estu kiel viaj patroj kaj kiel viaj fratoj, kiuj pekis kontraŭ Jehova, la Dio de siaj patroj, tiel ke li fordonis ilin al ruiniĝo, kiel vi vidas. Nun ne estu malmolnukaj, kiel viaj patroj, sed submetu vin al Jehova, kaj eniru en lian sanktejon, kiun li sanktigis por ĉiam, kaj servu al Jehova, via Dio, por ke lia furioza kolero deturniĝu de vi. Ĉar se vi revenos al Jehova, viaj fratoj kaj viaj infanoj trovos kompaton ĉe tiuj, kiuj forkondukis ilin kaptite, kaj ili revenos en ĉi tiun landon; ĉar Jehova, via Dio, estas favorkora kaj kompatema, kaj li ne deturnos sian vizaĝon de vi, se vi revenos al li.”
 
 Tiel la kurieroj iris de urbo al urbo tra la lando de Efraimo kaj Manase, ĝis Zebulun; sed oni mokridis ilin kaj mokis ilin. Tamen kelkaj viroj el Aŝer, Manase kaj Zebulun humiliĝis kaj venis al Jerusalemo. Ankaŭ la mano de Dio estis super Judio, por doni al ili unu koron, por plenumi la ordonon de la reĝo kaj de la princoj laŭ la vorto de Jehova.
 
@@ -19167,7 +19167,7 @@ Gileado estas mia, kaj Manase estas mia.
 
 Efraimo ankaŭ estas la defendo de mia kapo.
 
-Juda estas mia sceptro.
+Jehuda estas mia sceptro.
 
 Moabo estas mia lavpelvo.
 
@@ -22798,7 +22798,7 @@ la vorton, kiun li ordonis al mil generacioj,
 
 la interligon, kiun li faris kun Abraham,
 
-sian ĵuron al Isaako,
+sian ĵuron al Izaako,
 
 kaj konfirmis ĝin al Jakobo kiel statuton,
 
@@ -23306,7 +23306,7 @@ Gileado estas mia. Manase estas mia.
 
 Efraimo ankaŭ estas mia kasko.
 
-Juda estas mia sceptro.
+Jehuda estas mia sceptro.
 
 Moabo estas mia lavpoto.
 
@@ -23616,7 +23616,7 @@ Kiam Izraelo eliris el Egiptio,
 
 la domo de Jakobo el popolo de fremda lingvo,
 
-Juda fariĝis Lia sanktejo,
+Jehuda fariĝis Lia sanktejo,
 
 Izraelo Lia regno.
 
@@ -36186,7 +36186,7 @@ Vi ne estos purigita.
 
 Jen estas la vorto de Jehova, kiu venis al Jeremia pri la sekeco:
 
-“Juda funebras,
+“Jehuda funebras,
 
 kaj ĝiaj pordegoj senfortiĝas.
 
@@ -36292,7 +36292,7 @@ jen, tiuj, kiuj malsanas pro malsato!
 
 kaj havas nenian scion.’”
 
-Ĉu vi tute forĵetis Judon?
+Ĉu vi tute forĵetis Jehudan?
 
 Ĉu via animo abomenis Cionon?
 
@@ -37720,7 +37720,7 @@ Jehova, nia justeco.”
 
 La vorto de Jehova venis al Jeremia, dirante: “Jehova diras: ‘Se vi povas rompi mian interligon de la tago kaj mian interligon de la nokto, tiel ke ne estu tago kaj nokto en ilia tempo, tiam ankaŭ mia interligo povus esti rompita kun Davido, mia servanto, tiel ke li ne havu filon por reĝi sur lia trono; kaj kun la Levidaj pastroj, miaj servantoj. Kiel la armeo de la ĉielo ne povas esti kalkulata, kaj la sablo de la maro ne povas esti mezurata, tiel mi multigos la idaron de Davido, mia servanto, kaj la Levidojn, kiuj servas al mi.’”
 
-La vorto de Jehova venis al Jeremia, dirante: “Ne konsideru, kion ĉi tiu popolo parolis, dirante: ‘Ĉu Jehova forĵetis la du familiojn, kiujn li elektis?’ Tiel ili malestimas mian popolon, ke ĝi ne plu estu nacio antaŭ ili.” Jehova diras: “Se mia interligo de tago kaj nokto malsukcesus, se mi ne estus stariginta la leĝojn de la ĉielo kaj de la tero, tiam mi ankaŭ forĵetus la idaron de Jakobo kaj de Davido, mia servanto, tiel ke mi ne prenus el lia idaro regantojn super la idaro de Abraham, Isaako kaj Jakobo; ĉar mi revenigos ilian kaptitecon kaj kompatos ilin.”
+La vorto de Jehova venis al Jeremia, dirante: “Ne konsideru, kion ĉi tiu popolo parolis, dirante: ‘Ĉu Jehova forĵetis la du familiojn, kiujn li elektis?’ Tiel ili malestimas mian popolon, ke ĝi ne plu estu nacio antaŭ ili.” Jehova diras: “Se mia interligo de tago kaj nokto malsukcesus, se mi ne estus stariginta la leĝojn de la ĉielo kaj de la tero, tiam mi ankaŭ forĵetus la idaron de Jakobo kaj de Davido, mia servanto, tiel ke mi ne prenus el lia idaro regantojn super la idaro de Abraham, Izaako kaj Jakobo; ĉar mi revenigos ilian kaptitecon kaj kompatos ilin.”
 
 ### Ĉapitro 34
 
@@ -39497,7 +39497,7 @@ Inter ĉiuj ŝiaj amantoj
 Ĉiuj ŝiaj amikoj perfidis ŝin.  
 Ili fariĝis ŝiaj malamikoj.
 
-Juda iris en kaptitecon pro aflikto  
+Jehuda iris en kaptitecon pro aflikto  
 kaj pro granda sklaveco.  
 Ŝi loĝas inter la nacioj.  
 Ŝi ne trovas ripozon.  
@@ -39569,7 +39569,7 @@ kontraŭ kiuj mi ne povas stari.
 
 “La Sinjoro neniigis ĉiujn miajn fortulojn interne de mi.  
 Li vokis solenan kunvenon kontraŭ mi por dispremi miajn junulojn.  
-La Sinjoro tretis la virgan filinon de Juda kiel en vinpremejo.
+La Sinjoro tretis la virgan filinon de Jehuda kiel en vinpremejo.
 
 “Pro ĉi tiuj aferoj mi ploras.  
 Mia okulo, mia okulo fluas malsupren per akvo,  
@@ -41145,7 +41145,7 @@ Ili perfektigis vian belecon.
 
 “‘ “Sirio estis via komercisto pro la amaso de viaj manfaritaĵoj. Ili interŝanĝis kontraŭ via vararo smeraldojn, purpuron, brodaĵojn, delikatan tolaĵon, koralon kaj rubenojn.
 
-“‘ “Juda kaj la lando de Izraelo estis viaj komercantoj. Ili interŝanĝis tritikon de Minnit, dolĉaĵojn, mielon, oleon kaj balzamon kontraŭ via komercaĵo.
+“‘ “Jehuda kaj la lando de Izraelo estis viaj komercantoj. Ili interŝanĝis tritikon de Minnit, dolĉaĵojn, mielon, oleon kaj balzamon kontraŭ via komercaĵo.
 
 “‘ “Damasko estis via komercisto pro la amaso de viaj manfaritaĵoj, pro la amaso de ĉiaspecaj riĉaĵoj, per la vino de Ĥelbon kaj blanka lano.
 
@@ -42967,7 +42967,7 @@ kiel la printempa pluvo, kiu akvumas la teron.”
 
 “Efraimo, kion mi faru al vi?
 
-Juda, kion mi faru al vi?
+Jehuda, kion mi faru al vi?
 
 Ĉar via amo estas kiel matena nubo,
 
@@ -43003,7 +43003,7 @@ Estas prostituado en Efraimo.
 
 Izraelo estas malpurigita.
 
-“Ankaŭ por vi, Juda, estas destinita rikolto,
+“Ankaŭ por vi, Jehuda, estas destinita rikolto,
 
 kiam mi restarigos la sorton de mia popolo.”
 
@@ -43393,7 +43393,7 @@ tial mi metos jugon sur ŝian belan kolon.
 
 Mi sidigos rajdanton sur Efraimo.
 
-Juda plugos.
+Jehuda plugos.
 
 Jakobo disrompos siajn terbulojn.
 
@@ -43479,7 +43479,7 @@ kaj mi loĝigos ilin en iliaj domoj,” diras Jehova.
 
 Efraimo ĉirkaŭas min per mensogo,  
 kaj la domo de Izraelo per trompo.  
-Juda ankoraŭ erarvagas for de Dio,  
+Jehuda ankoraŭ erarvagas for de Dio,  
 kaj estas malfidela al la Sanktulo.
 
 ### Ĉapitro 12
@@ -44811,13 +44811,13 @@ Tiel li montris al mi: jen, la Sinjoro staris apud muro farita per plumbŝnuro, 
 
 Mi diris: “Plumbŝnuron.”
 
-Tiam la Sinjoro diris: “Jen, mi metos plumbŝnuron meze de mia popolo Izraelo. Mi ne plu preteriros ilin. La altaj lokoj de Isaako estos dezertaj, la sanktejoj de Izraelo estos ruinigitaj; kaj mi leviĝos kontraŭ la domo de Jeroboamo per glavo.”
+Tiam la Sinjoro diris: “Jen, mi metos plumbŝnuron meze de mia popolo Izraelo. Mi ne plu preteriros ilin. La altaj lokoj de Izaako estos dezertaj, la sanktejoj de Izraelo estos ruinigitaj; kaj mi leviĝos kontraŭ la domo de Jeroboamo per glavo.”
 
 Tiam Amacja, la pastro de Bet-El, sendis al Jeroboamo, reĝo de Izraelo, dirante: “Amos konspiris kontraŭ vi meze de la domo de Izraelo. La lando ne kapablas elporti ĉiujn liajn vortojn. Ĉar Amos diras: ‘Jeroboamo mortos per glavo, kaj Izraelo certe estos forkondukita en kaptitecon el sia lando.’”
 
 Amacja ankaŭ diris al Amos: “Vi viziulo, iru, forkuru en la landon de Judio, kaj tie manĝu panon, kaj profetu tie; sed ne plu profetu en Bet-El, ĉar ĝi estas la sanktejo de la reĝo kaj reĝa domo!”
 
-Tiam Amos respondis al Amacja: “Mi ne estis profeto, nek mi estis filo de profeto, sed mi estis paŝtisto kaj kultivisto de sikomorfigoj; kaj Jehova prenis min de post la grego, kaj Jehova diris al mi: ‘Iru, profetu al mia popolo Izraelo.’ Nun do aŭskultu la vorton de Jehova: ‘Vi diras: Ne profetu kontraŭ Izraelo, kaj ne prediku kontraŭ la domo de Isaako.’ Tial Jehova diras: ‘Via edzino fariĝos prostituitino en la urbo, kaj viaj filoj kaj viaj filinoj falos per glavo, kaj via tero estos dividita per mezurlinio; kaj vi mem mortos en lando malpura, kaj Izraelo certe estos forkondukita en kaptitecon el sia lando.’”
+Tiam Amos respondis al Amacja: “Mi ne estis profeto, nek mi estis filo de profeto, sed mi estis paŝtisto kaj kultivisto de sikomorfigoj; kaj Jehova prenis min de post la grego, kaj Jehova diris al mi: ‘Iru, profetu al mia popolo Izraelo.’ Nun do aŭskultu la vorton de Jehova: ‘Vi diras: Ne profetu kontraŭ Izraelo, kaj ne prediku kontraŭ la domo de Izaako.’ Tial Jehova diras: ‘Via edzino fariĝos prostituitino en la urbo, kaj viaj filoj kaj viaj filinoj falos per glavo, kaj via tero estos dividita per mezurlinio; kaj vi mem mortos en lando malpura, kaj Izraelo certe estos forkondukita en kaptitecon el sia lando.’”
 
 ### Ĉapitro 8
 
@@ -45977,7 +45977,7 @@ Li diris al mi: “Mezuri Jerusalemon, por vidi, kia estas ĝia larĝo kaj kia e
 
 Jen la anĝelo, kiu parolis kun mi, eliris, kaj alia anĝelo eliris por renkonti lin, kaj diris al li: “Kuru, parolu al ĉi tiu junulo, dirante: ‘Jerusalemo estos loĝata kiel vilaĝoj sen muroj, pro la multo da homoj kaj brutoj en ĝi. Ĉar mi,’ diras Jehova, ‘estos por ŝi fajra muro ĉirkaŭe, kaj mi estos la gloro meze de ŝi.
 
-Venu! Venu! Forkuru el la lando de la nordo,’ diras Jehova; ‘ĉar mi disĵetis vin kiel la kvar ventojn de la ĉielo,’ diras Jehova. ‘Venu, Cion! Savu vin, vi, kiuj loĝas kun la filino de Babilono.’ Ĉar Jehova Cebaoto diras: ‘Por honoro li sendis min al la nacioj, kiuj prirabis vin; ĉar kiu tuŝas vin, tiu tuŝas la pupilon de lia okulo. Ĉar jen mi svingos mian manon super ili, kaj ili fariĝos rabaĵo por tiuj, kiuj servis al ili; kaj vi scios, ke Jehova Cebaoto sendis min. Kantu kaj ĝoju, filino de Cion! Ĉar jen mi venas, kaj mi loĝos en via interno,’ diras Jehova. Multaj nacioj aliĝos al Jehova en tiu tago, kaj ili estos mia popolo; kaj mi loĝos inter vi, kaj vi scios, ke Jehova Cebaoto sendis min al vi. Jehova heredos Judon kiel sian parton en la sankta lando, kaj denove elektos Jerusalemon. Silentu, ĉiu karno, antaŭ Jehova; ĉar li vekiĝis el sia sankta loĝejo!”
+Venu! Venu! Forkuru el la lando de la nordo,’ diras Jehova; ‘ĉar mi disĵetis vin kiel la kvar ventojn de la ĉielo,’ diras Jehova. ‘Venu, Cion! Savu vin, vi, kiuj loĝas kun la filino de Babilono.’ Ĉar Jehova Cebaoto diras: ‘Por honoro li sendis min al la nacioj, kiuj prirabis vin; ĉar kiu tuŝas vin, tiu tuŝas la pupilon de lia okulo. Ĉar jen mi svingos mian manon super ili, kaj ili fariĝos rabaĵo por tiuj, kiuj servis al ili; kaj vi scios, ke Jehova Cebaoto sendis min. Kantu kaj ĝoju, filino de Cion! Ĉar jen mi venas, kaj mi loĝos en via interno,’ diras Jehova. Multaj nacioj aliĝos al Jehova en tiu tago, kaj ili estos mia popolo; kaj mi loĝos inter vi, kaj vi scios, ke Jehova Cebaoto sendis min al vi. Jehova heredos Jehudan kiel sian parton en la sankta lando, kaj denove elektos Jerusalemon. Silentu, ĉiu karno, antaŭ Jehova; ĉar li vekiĝis el sia sankta loĝejo!”
 
 ### Ĉapitro 3
 
