@@ -1,0 +1,32 @@
+## Nahum
+
+La Libro de Nahum
+
+### Ĉapitro 1
+
+Profetaĵo pri Nineve. La libro de la vizio de Nahum, la Elkoŝano. Jehova estas ĵaluza Dio kaj venĝanto. Jehova venĝas kaj estas plena je kolero. Jehova prenas venĝon kontraŭ siaj kontraŭuloj, kaj li konservas koleron kontraŭ siaj malamikoj. Jehova estas malrapida al kolero kaj granda en potenco, kaj li neniel lasos la kulpulojn senpune. Jehova havas sian vojon en la ventego kaj en la ŝtormo, kaj la nuboj estas la polvo de liaj piedoj. Li riproĉas la maron kaj sekigas ĝin, kaj li sekigas ĉiujn riverojn. Baŝan kaj Karmel velkas. La floro de Lebanon velkas. La montoj tremas antaŭ li, kaj la montetoj disfandiĝas. La tero skuiĝas ĉe lia ĉeesto, jes, la mondo kaj ĉiuj, kiuj loĝas en ĝi. Kiu povas stari antaŭ lia indigno? Kiu povas elteni la furiozon de lia kolero? Lia kolero elverŝiĝas kiel fajro, kaj la rokoj disrompiĝas pro li. Jehova estas bona, fortikaĵo en la tago de mizero; kaj li konas tiujn, kiuj serĉas rifuĝon ĉe li. Sed per superfluanta inundo li faros plenan finon de ĝia loko, kaj li persekutos siajn malamikojn en mallumon. Kion vi planas kontraŭ Jehova? Li faros plenan finon. Premado ne leviĝos la duan fojon. Ĉar, implikitaj kiel dornoj kaj ebriaj kvazaŭ per sia trinkaĵo, ili estas tute konsumitaj kiel seka pajlero. El vi eliris iu, kiu elpensas malbonon kontraŭ Jehova, kiu konsilas malpiecon.
+
+Jehova diras: “Kvankam ili estas en plena forto kaj same multaj, tamen ili estos dehakitaj kaj forpasos. Kvankam mi afliktis vin, mi ne plu afliktos vin. Nun mi rompos lian jugon de sur vi, kaj mi disŝiros viajn ligilojn.”
+
+Jehova ordonis pri vi: “Ne plu idoj portos vian nomon. El la domo de viaj dioj mi eltranĉos la ĉizitan bildon kaj la fanditan bildon. Mi faros vian tombon, ĉar vi estas abomena.”
+
+Jen, sur la montoj la piedoj de tiu, kiu alportas bonan sciigon, kiu proklamas pacon! Festu viajn festojn, ho Judio! Plenumu viajn promesojn, ĉar la malvirtulo ne plu trairos vin. Li estas tute ekstermita.
+
+### Ĉapitro 2
+
+Tiu, kiu frakasas en pecojn, venis kontraŭ vin. Gardu la fortikaĵon! Observu la vojon! Fortigu vian talion! Potence fortikigu vian forton!
+
+Ĉar Jehova restarigas la majeston de Jakobo kiel la majeston de Izraelo, ĉar la detruantoj ilin detruis kaj ruinigis iliajn vinbranĉojn.
+
+La ŝildo de liaj forteguloj estas ruĝigita. La bravaj viroj estas en skarlato. La ĉaroj brilas per ŝtalo en la tago de lia pretigo, kaj la pinaj lancoj estas svingataj. La ĉaroj furiozas en la stratoj. Ili kuregas tien kaj reen sur la larĝaj vojoj. Ilia aspekto estas kiel torĉoj. Ili kuras kiel fulmoj. Li alvokas siajn elektitajn taĉmentojn. Ili stumblas sur sia vojo. Ili impetas al ĝia muro, kaj la protekta ŝirmilo estas starigita. La pordegoj de la riveroj estas malfermitaj, kaj la palaco disfandiĝas. Estas dekretite: ŝi estas senkovrita, ŝi estas forkondukata; kaj ŝiaj servistinoj ĝemas kiel per la voĉo de kolomboj, batante sur siaj brustoj. Sed Nineve de antikve estis kiel akva lageto, tamen ili forkuras. “Haltu! Haltu!” ili krias, sed neniu sin turnas. Prenu la rabaĵon de arĝento. Prenu la rabaĵon de oro, ĉar ne estas fino de trezoro, abundo de ĉia altvaloraĵo. Ŝi estas malplena, senenhava kaj dezerta. La koro degelas, la genuoj frapadas unu kontraŭ la alia, la korpoj kaj vizaĝoj paliĝis. Kie estas la kaverno de la leonoj kaj la paŝtejo de la leonidoj, kie la leono kaj la leonino iris kun la leonidoj, kaj neniu ilin timigis? La leono disŝiris sufiĉe por siaj idoj, kaj sufokis predon por siaj leoninoj, kaj plenigis siajn kavernojn per mortigitaĵo kaj siajn nestojn per predo. “Jen, mi estas kontraŭ vi,” diras Jehova Cebaoto, “kaj mi bruligos ŝiajn ĉarojn en la fumo, kaj la glavo formanĝos viajn leonidojn; kaj mi ekstermos vian predon el la tero, kaj la voĉo de viaj senditoj ne plu estos aŭdata.”
+
+### Ĉapitro 3
+
+Ve al la sanga urbo! Ĝi estas tute plena je mensogoj kaj rabado—neniu fino al la predo. La bruo de la vipo, la bruo de la klakado de radoj, saltantaj ĉevaloj kaj ŝanceliĝantaj ĉaroj; la rajdanto atakanta, kaj la fulmanta glavo, la brilanta lanco, kaj amaso da mortigitoj, kaj granda amaso da kadavroj, kaj ne estas fino de la korpoj. Ili stumblas sur iliaj korpoj pro la amaso de la prostituado de la alloga prostituitino, la mastrino de sorĉado, kiu vendas naciojn per sia prostituado, kaj familiojn per sia sorĉado. “Jen, mi estas kontraŭ vi,” diras Jehova de la Armeoj, “kaj mi levos viajn jupojn super vian vizaĝon. Mi montros al la nacioj vian nudecon, kaj al la regnoj vian honton. Mi ĵetos abomenindan malpuraĵon sur vin kaj faros vin malnobla, kaj faros vin spektaklo. Okazos, ke ĉiuj, kiuj rigardos vin, forkuros de vi, kaj diros: ‘Ninivo estas ruinigita! Kiu funebros pro ŝi?’ Kie mi serĉos por vi konsolantojn?”
+
+Ĉu vi estas pli bona ol No-Amon, kiu estis situanta inter la riveroj, kiu havis la akvojn ĉirkaŭ si, kies remparo estis la maro, kaj kies muro estis el la maro? Kuŝ kaj Egiptio estis ŝia senlima forto. Put kaj Libio estis ŝiaj helpantoj. Tamen ŝi estis forkondukita. Ŝi iris en kaptitecon. Ŝiaj junaj infanoj ankaŭ estis frakasitaj ĉe la kapo de ĉiuj stratoj, kaj oni ĵetis lotojn pri ŝiaj honorindaj viroj, kaj ĉiuj ŝiaj granduloj estis ligitaj per ĉenoj. Ankaŭ vi ebriiĝos. Vi estos kaŝita. Ankaŭ vi serĉos fortikaĵon pro la malamiko. Ĉiuj viaj fortikaĵoj estos kiel figarboj kun la unue maturaj figoj. Se oni skuas ilin, ili falas en la buŝon de la manĝanto. Jen, viaj trupoj inter vi estas virinoj. La pordegoj de via lando estas larĝe malfermitaj al viaj malamikoj. La fajro formanĝis viajn riglilojn.
+
+Ĉerpu akvon por la sieĝo. Fortigu viajn fortikaĵojn. Iru en la argilon, kaj tretu la morteron. Fortigu la brikfornon. Tie la fajro vin formanĝos. La glavo vin ekstermos. Ĝi vin formanĝos kiel la akrido. Multiĝu kiel akridoj. Multiĝu kiel la lokusto. Vi plimultigis viajn komercistojn pli ol la steloj de la ĉielo. La akrido senŝeligas kaj forflugas. Viaj gardistoj estas kiel la lokustoj, kaj viaj oficistoj kiel svarmoj de lokustoj, kiuj sidiĝas sur la muroj en malvarma tago, sed kiam la suno aperas, ili forflugas, kaj ilia loko ne estas konata, kie ili estas.
+
+Viaj paŝtistoj dormetas, ho reĝo de Asirio. Viaj nobeloj kuŝas. Via popolo estas disĵetita sur la montoj, kaj ne estas iu, kiu ilin kolektu. Ne estas resanigo por via vundo, ĉar via vundiĝo estas mortiga. Ĉiuj, kiuj aŭdas la raporton pri vi, frapklakas siajn manojn pro vi, ĉar kiu ne sentis vian senfinan kruelecon?
+

@@ -1,0 +1,38 @@
+## Cefanja
+
+La Libro de Cefanja
+
+### Ĉapitro 1
+
+La vorto de Jehova, kiu venis al Cefanja, filo de Kuŝi, filo de Gedalja, filo de Amarja, filo de Ĥizkija, en la tagoj de Joŝija, filo de Amon, reĝo de Judio.
+
+Mi tute forbalairos ĉion de la surfaco de la tero, diras Jehova. Mi forbalairos homon kaj beston. Mi forbalairos la birdojn de la ĉielo, la fiŝojn de la maro, kaj la amasojn da ruinaĵoj kune kun la malpiuloj. Mi ekstermos la homon de la surfaco de la tero, diras Jehova. Mi etendos mian manon kontraŭ Judio kaj kontraŭ ĉiuj loĝantoj de Jerusalemo. Mi ekstermos el ĉi tiu loko la restaĵon de Baalo—la nomon de la idolaj kaj paganaj pastroj, tiujn, kiuj adoras la armeon de la ĉielo sur la tegmentoj, tiujn, kiuj adoras kaj ĵuras per Jehova kaj ankaŭ ĵuras per Malkam, tiujn, kiuj returniĝis de sekvado de Jehova, kaj tiujn, kiuj ne serĉis Jehovan nek demandis pri li.
+
+Silentu antaŭ la ĉeesto de la Sinjoro Jehova, ĉar la tago de Jehova estas proksima. Ĉar Jehova pretigis oferon; li konsekris siajn gastojn. Okazos en la tago de la ofero de Jehova, ke mi punos la princojn, la filojn de la reĝo, kaj ĉiujn, kiuj estas vestitaj per fremda vestaĵo. En tiu tago mi punos ĉiujn, kiuj transsaltas la sojlon, kiuj plenigas la domon de sia mastro per perforto kaj trompo.
+
+En tiu tago, diras Jehova, estos la bruo de krio el la Fiŝpordego, plorado el la dua kvartalo, kaj granda frakaso el la montetoj. Ploru, vi loĝantoj de Makteŝ, ĉar la tuta popolo de Kanaano estas pereigita! Ĉiuj, kiuj estis ŝarĝitaj per arĝento, estas ekstermitaj. Okazos en tiu tempo, ke mi traserĉos Jerusalemon per lampoj, kaj mi punos la virojn, kiuj sidas sur siaj feĉoj, kiuj diras en sia koro: “Jehova ne faros bonon, nek li faros malbonon.” Ilia riĉeco fariĝos rabaĵo, kaj iliaj domoj dezertaĵo. Jes, ili konstruos domojn, sed ne loĝos en ili. Ili plantos vinberejojn, sed ne trinkos ilian vinon.
+
+La granda tago de Jehova estas proksima. Ĝi estas proksima kaj tre rapidas, la voĉo de la tago de Jehova. La fortulo tie krias amare. Tiu tago estas tago de kolero, tago de aflikto kaj angoro, tago de malfeliĉo kaj ruiniĝo, tago de mallumo kaj tenebro, tago de nuboj kaj nigreco, tago de trumpeto kaj alarmo kontraŭ la fortikigitaj urboj kaj kontraŭ la altaj remparoj. Mi alportos tian aflikton sur homojn, ke ili iros kiel blinduloj, ĉar ili pekis kontraŭ Jehova. Ilia sango estos elverŝita kiel polvo kaj ilia karno kiel sterko. Nek ilia arĝento nek ilia oro povos savi ilin en la tago de la kolero de Jehova; sed la tuta lando estos formanĝita de la fajro de lia ĵaluzo; ĉar li faros finon, jes, teruran finon, al ĉiuj, kiuj loĝas en la lando.
+
+### Ĉapitro 2
+
+Kolektiĝu, jes, kolektiĝu, ho nacio sen honto, antaŭ ol venos la difinita tempo, kiam la tago forpasas kiel grenventumaĵo, antaŭ ol venos sur vin la furioza kolero de Jehova, antaŭ ol venos sur vin la tago de la kolero de Jehova. Serĉu Jehovan, ĉiuj humiluloj de la lando, kiuj plenumis liajn ordonojn. Serĉu justecon. Serĉu humilecon. Eble vi estos kaŝitaj en la tago de la kolero de Jehova. Ĉar Gaza estos forlasita, kaj Aŝkelon fariĝos dezertaĵo. Aŝdodn ili elpelos tagmeze, kaj Ekron estos elradikigita. Ve al la loĝantoj de la marbordo, al la nacio de la Keretidoj! La vorto de Jehova estas kontraŭ vi, ho Kanaano, lando de la Filiŝtoj. Mi vin pereigos, ĝis ne restos loĝanto. La marbordo fariĝos paŝtejoj, kun kabanoj por paŝtistoj kaj staloj por gregoj. La marbordo apartenos al la restaĵo de la domo de Jehuda. Tie ili paŝtos. En la domoj de Aŝkelon ili kuŝiĝos vespere, ĉar Jehova, ilia Dio, vizitos ilin kaj restarigos ilin. Mi aŭdis la riproĉon de Moabo kaj la insultojn de la idoj de Amon, per kiuj ili riproĉis mian popolon kaj fierigis sin kontraŭ ĝia limo. Tial, kiel Mi vivas, diras Jehova Cebaoto, la Dio de Izraelo, certe Moabo estos kiel Sodom, kaj la idoj de Amon kiel Gomora, posedaĵo de urtikoj kaj salfosaĵoj, kaj eterna dezertaĵo. La restaĵo de mia popolo ilin prirabos, kaj la postvivantoj de mia nacio ilin heredos. Tion ili havos pro sia fiereco, ĉar ili riproĉis kaj fierigis sin kontraŭ la popolo de Jehova Cebaoto. Jehova estos terura por ili, ĉar Li malsatigos ĉiujn diojn de la tero. Homoj Lin adoros, ĉiu el sia loko, eĉ ĉiuj marbordoj de la nacioj.
+
+Ankaŭ vi, Kuŝidoj, vi estos mortigitaj per mia glavo.
+
+Li etendos sian manon kontraŭ la nordo, pereigos Asirion, kaj faros Nineven dezertaĵo, seka kiel la dezerto. Gregoj kuŝos meze de ĝi, ĉiaspecaj bestoj. Kaj pelikano kaj histriko loĝos en ĝiaj kapiteloj. Iliaj krioj resonos tra la fenestroj. Dezerto estos sur la sojloj, ĉar Li nudigis la cedrajn trabojn. Jen la ĝoja urbo, kiu vivis senzorge, kiu diris en sia koro: “Mi estas, kaj ne ekzistas iu krom mi.” Kiel ĝi fariĝis dezertaĵo, loko por bestoj kuŝiĝi! Ĉiu, kiu preterpasas ĝin, fajfos kaj svingos la pugnon.
+
+### Ĉapitro 3
+
+Ve al ŝi, kiu estas ribelema kaj malpura, al la premanta urbo! Ŝi ne obeis la voĉon. Ŝi ne akceptis korekton. Ŝi ne fidis je Jehova. Ŝi ne alproksimiĝis al sia Dio.
+
+Ŝiaj princoj interne de ŝi estas blekantaj leonoj. Ŝiaj juĝistoj estas vesperaj lupoj. Ili lasas nenion ĝis la sekva tago. Ŝiaj profetoj estas arogantaj kaj perfidaj homoj. Ŝiaj pastroj profanis la sanktejon. Ili faris perforton al la leĝo. Jehova, interne de ŝi, estas justa. Li faros nenian maljustaĵon. Ĉiumatene li elmontras sian justecon. Li ne malsukcesas, sed la maljustulo ne konas honton.
+
+Mi ekstermis naciojn. Iliaj fortikaĵoj estas dezertaj. Mi faris iliajn stratojn ruino, tiel ke neniu preterpasas. Iliaj urboj estas detruitaj, tiel ke ne estas homo, tiel ke ne estas loĝanto. Mi diris: “Nur timu min. Akceptu korekton,” por ke ŝia loĝejo ne estu ekstermita, laŭ ĉio, kion mi destinis pri ŝi. Sed ili frue leviĝis kaj malbonigis ĉiujn siajn farojn.
+
+“Tial atendu min,” diras Jehova, “ĝis la tago, kiam mi leviĝos por la predo; ĉar mia decido estas kolekti la naciojn, por ke mi kunvenigu la regnojn, por elverŝi sur ilin mian indignon, eĉ la tutan mian furiozan koleron; ĉar la tuta tero estos konsumita per la fajro de mia ĵaluzo.
+
+Ĉar tiam mi purigos la lipojn de la popoloj, por ke ili ĉiuj alvoku la nomon de Jehova, por servi al li ŝultro ĉe ŝultro. De trans la riveroj de Kuŝ, miaj adorantoj, eĉ la filino de mia disĵetita popolo, alportos mian oferon. En tiu tago vi ne estos hontigitaj pro ĉiuj viaj faroj, per kiuj vi pekis kontraŭ mi; ĉar tiam mi forigos el via mezo viajn fiere ĝojantajn homojn, kaj vi ne plu estos aroganta sur mia sankta monto. Sed mi lasos inter vi afliktitan kaj malriĉan popolon, kaj ili rifuĝos en la nomo de Jehova. La restaĵo de Izraelo ne faros maljustaĵon nek parolos mensogojn, kaj trompa lango ne troviĝos en ilia buŝo; ĉar ili paŝtos kaj kuŝos, kaj neniu ilin timigos.”
+
+Kantu, filino de Cion! Ĝoju, Izraelo! Estu gaja kaj ĝoju per via tuta koro, filino de Jerusalemo. Jehova forprenis viajn juĝojn. Li forpelis vian malamikon. La Reĝo de Izraelo, Jehova, estas inter vi. Vi ne plu timos malbonon. En tiu tago oni diros al Jerusalemo: “Ne timu, Cion. Ne lasu viajn manojn malfortiĝi.” Jehova, via Dio, estas inter vi, potenca, kiu savos. Li ĝojos pri vi kun ĝojo. Li kvietigos vin en sia amo. Li ĝojos pri vi per kantado. Mi forigos de vi tiujn, kiuj malĝojas pro la difinitaj festoj. Ili estas por vi ŝarĝo kaj riproĉo. Jen, en tiu tempo mi agos kontraŭ ĉiuj, kiuj vin afliktas; kaj mi savos la lamulojn kaj kolektos tiujn, kiuj estis forpelitaj. Mi donos al ili laŭdon kaj honoron, kies honto estis en la tuta tero. En tiu tempo mi venigos vin, kaj en tiu tempo mi kolektos vin; ĉar mi donos al vi honoron kaj laŭdon inter ĉiuj popoloj de la tero, kiam mi restarigos vian sorton antaŭ viaj okuloj,” diras Jehova.
+
