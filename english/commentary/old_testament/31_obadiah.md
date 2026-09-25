@@ -1,4 +1,0 @@
-## Obadiah
-
-### Chapter 1
-

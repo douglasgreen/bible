@@ -1,4 +1,0 @@
-## Jude
-
-### Chapter 1
-

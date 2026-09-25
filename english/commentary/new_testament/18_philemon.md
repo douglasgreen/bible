@@ -1,4 +1,0 @@
-## Philemon
-
-### Chapter 1
-
